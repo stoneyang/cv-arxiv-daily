@@ -225,7 +225,7 @@ if __name__ == "__main__":
     data_collector_web= []
     
     keywords = dict()
-    keywords["pretrain"] = "pretrain"
+    keywords["pretrain"] = "pretrain"+"OR"+"\"pretraining\""+"OR"+"\"pretrained\""
 
     for topic,keyword in keywords.items():
  
