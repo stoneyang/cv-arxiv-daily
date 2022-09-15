@@ -14,6 +14,10 @@
 
 ## pretrain
 
+- 2022-09-14, **PaLI: A Jointly-Scaled Multilingual Language-Image Model**, Xi Chen et.al., Paper: [http://arxiv.org/abs/2209.06794v1](http://arxiv.org/abs/2209.06794v1)
+- 2022-09-14, **Drawing Causal Inferences About Performance Effects in NLP**, Sandra Wankmüller et.al., Paper: [http://arxiv.org/abs/2209.06790v1](http://arxiv.org/abs/2209.06790v1)
+- 2022-09-14, **CLIP-ViP: Adapting Pre-trained Image-Text Model to Video-Language Representation Alignment**, Hongwei Xue et.al., Paper: [http://arxiv.org/abs/2209.06430v1](http://arxiv.org/abs/2209.06430v1)
+- 2022-09-13, **CometKiwi: IST-Unbabel 2022 Submission for the Quality Estimation Shared Task**, Ricardo Rei et.al., Paper: [http://arxiv.org/abs/2209.06243v1](http://arxiv.org/abs/2209.06243v1)
 - 2022-09-13, **StoryDALL-E: Adapting Pretrained Text-to-Image Transformers for Story Continuation**, Adyasha Maharana et.al., Paper: [http://arxiv.org/abs/2209.06192v1](http://arxiv.org/abs/2209.06192v1), Code: **[https://github.com/adymaharana/storydalle](https://github.com/adymaharana/storydalle)**
 - 2022-09-13, **Automated classification for open-ended questions with BERT**, Hyukjun Gweon et.al., Paper: [http://arxiv.org/abs/2209.06178v1](http://arxiv.org/abs/2209.06178v1)
 - 2022-09-12, **VL-Taboo: An Analysis of Attribute-based Zero-shot Capabilities of Vision-Language Models**, Felix Vogel et.al., Paper: [http://arxiv.org/abs/2209.06103v1](http://arxiv.org/abs/2209.06103v1)

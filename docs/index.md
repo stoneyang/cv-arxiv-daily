@@ -20,6 +20,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-14**|**PaLI: A Jointly-Scaled Multilingual Language-Image Model**|Xi Chen et.al.|[2209.06794v1](http://arxiv.org/abs/2209.06794v1)|null|
+|**2022-09-14**|**Drawing Causal Inferences About Performance Effects in NLP**|Sandra Wankmüller et.al.|[2209.06790v1](http://arxiv.org/abs/2209.06790v1)|null|
+|**2022-09-14**|**CLIP-ViP: Adapting Pre-trained Image-Text Model to Video-Language Representation Alignment**|Hongwei Xue et.al.|[2209.06430v1](http://arxiv.org/abs/2209.06430v1)|null|
+|**2022-09-13**|**CometKiwi: IST-Unbabel 2022 Submission for the Quality Estimation Shared Task**|Ricardo Rei et.al.|[2209.06243v1](http://arxiv.org/abs/2209.06243v1)|null|
 |**2022-09-13**|**StoryDALL-E: Adapting Pretrained Text-to-Image Transformers for Story Continuation**|Adyasha Maharana et.al.|[2209.06192v1](http://arxiv.org/abs/2209.06192v1)|**[link](https://github.com/adymaharana/storydalle)**|
 |**2022-09-13**|**Automated classification for open-ended questions with BERT**|Hyukjun Gweon et.al.|[2209.06178v1](http://arxiv.org/abs/2209.06178v1)|null|
 |**2022-09-12**|**VL-Taboo: An Analysis of Attribute-based Zero-shot Capabilities of Vision-Language Models**|Felix Vogel et.al.|[2209.06103v1](http://arxiv.org/abs/2209.06103v1)|null|
