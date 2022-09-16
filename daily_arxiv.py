@@ -226,6 +226,10 @@ if __name__ == "__main__":
     
     keywords = dict()
     keywords["pretrain"] = "pretrain"+"OR"+"\"pretraining\""+"OR"+"\"pretrained\""
+    keywords["downstream"] = "downstream"+"OR"+"\"downstream task\""+"OR"+"\"downstreaming task\""
+    keywords["adaptor"] = "adaptor"
+    keywords["retrieval"] = "retrieval"+"OR"+"search"+"OR"+"re-id"+"OR"+"re-identification"
+    keywords["object detection"] = "detection"+"OR"+"detector"+"OR"+"\"object detection\""+"OR"+"\"object detector\""
 
     for topic,keyword in keywords.items():
  
