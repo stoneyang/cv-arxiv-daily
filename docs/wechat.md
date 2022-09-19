@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2022.09.18
+> Updated on 2022.09.19
 
 <details>
   <summary>Table of Contents</summary>
@@ -25,7 +25,7 @@
 - 2022-09-15, **Non-Parallel Voice Conversion for ASR Augmentation**, Gary Wang et.al., Paper: [http://arxiv.org/abs/2209.06987v1](http://arxiv.org/abs/2209.06987v1)
 - 2022-09-14, **PointACL:Adversarial Contrastive Learning for Robust Point Clouds Representation under Adversarial Attack**, Junxuan Huang et.al., Paper: [http://arxiv.org/abs/2209.06971v1](http://arxiv.org/abs/2209.06971v1)
 - 2022-09-14, **Finetuning Pretrained Vision-Language Models with Correlation Information Bottleneck for Robust Visual Question Answering**, Jingjing Jiang et.al., Paper: [http://arxiv.org/abs/2209.06954v1](http://arxiv.org/abs/2209.06954v1)
-- 2022-09-14, **PaLI: A Jointly-Scaled Multilingual Language-Image Model**, Xi Chen et.al., Paper: [http://arxiv.org/abs/2209.06794v1](http://arxiv.org/abs/2209.06794v1)
+- 2022-09-16, **PaLI: A Jointly-Scaled Multilingual Language-Image Model**, Xi Chen et.al., Paper: [http://arxiv.org/abs/2209.06794v2](http://arxiv.org/abs/2209.06794v2)
 - 2022-09-14, **Drawing Causal Inferences About Performance Effects in NLP**, Sandra Wankmüller et.al., Paper: [http://arxiv.org/abs/2209.06790v1](http://arxiv.org/abs/2209.06790v1)
 - 2022-09-14, **CLIP-ViP: Adapting Pre-trained Image-Text Model to Video-Language Representation Alignment**, Hongwei Xue et.al., Paper: [http://arxiv.org/abs/2209.06430v1](http://arxiv.org/abs/2209.06430v1), Code: **[https://github.com/microsoft/xpretrain](https://github.com/microsoft/xpretrain)**
 - 2022-09-13, **CometKiwi: IST-Unbabel 2022 Submission for the Quality Estimation Shared Task**, Ricardo Rei et.al., Paper: [http://arxiv.org/abs/2209.06243v1](http://arxiv.org/abs/2209.06243v1)
@@ -40,7 +40,7 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20220918>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20220919>back to top</a>)</p>
 
 ## downstream
 
@@ -63,12 +63,12 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20220918>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20220919>back to top</a>)</p>
 
 ## adaptor
 
 - 2022-09-15, **OmniVL:One Foundation Model for Image-Language and Video-Language Tasks**, Junke Wang et.al., Paper: [http://arxiv.org/abs/2209.07526v1](http://arxiv.org/abs/2209.07526v1)
-- 2022-08-17, **Learning with Local Gradients at the Edge**, Michael Lomnitz et.al., Paper: [http://arxiv.org/abs/2208.08503v1](http://arxiv.org/abs/2208.08503v1)
+- 2022-09-16, **Learning with Local Gradients at the Edge**, Michael Lomnitz et.al., Paper: [http://arxiv.org/abs/2208.08503v2](http://arxiv.org/abs/2208.08503v2)
 - 2022-08-15, **MM-GNN: Mix-Moment Graph Neural Network towards Modeling Neighborhood Feature Distribution**, Wendong Bi et.al., Paper: [http://arxiv.org/abs/2208.07012v1](http://arxiv.org/abs/2208.07012v1)
 - 2022-06-18, **Camera Adaptation for Fundus-Image-Based CVD Risk Estimation**, Zhihong Lin et.al., Paper: [http://arxiv.org/abs/2206.09202v1](http://arxiv.org/abs/2206.09202v1), Code: **[https://github.com/linzhlalala/cvd-risk-based-on-retinal-fundus-images](https://github.com/linzhlalala/cvd-risk-based-on-retinal-fundus-images)**
 - 2022-06-13, **Towards Universal Sequence Representation Learning for Recommender Systems**, Yupeng Hou et.al., Paper: [http://arxiv.org/abs/2206.05941v1](http://arxiv.org/abs/2206.05941v1), Code: **[https://github.com/rucaibox/unisrec](https://github.com/rucaibox/unisrec)**
@@ -79,7 +79,7 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20220918>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20220919>back to top</a>)</p>
 
 ## object detection
 
@@ -99,7 +99,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20220918>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20220919>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
