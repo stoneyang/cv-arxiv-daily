@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2022.09.19
+## Updated on 2022.09.20
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,8 +19,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-16**|**Fine-tuning or top-tuning? Transfer learning with pretrained features and fast kernel methods**|Paolo Didier Alfano et.al.|[2209.07932v1](http://arxiv.org/abs/2209.07932v1)|null|
+|**2022-09-16**|**iDF-SLAM: End-to-End RGB-D SLAM with Neural Implicit Mapping and Deep Feature Tracking**|Yuhang Ming et.al.|[2209.07919v1](http://arxiv.org/abs/2209.07919v1)|null|
+|**2022-09-16**|**Possible Stories: Evaluating Situated Commonsense Reasoning under Multiple Possible Scenarios**|Mana Ashida et.al.|[2209.07760v1](http://arxiv.org/abs/2209.07760v1)|null|
+|**2022-09-16**|**SQ-Swin: a Pretrained Siamese Quadratic Swin Transformer for Lettuce Browning Prediction**|Dayang Wang et.al.|[2209.07683v1](http://arxiv.org/abs/2209.07683v1)|null|
 |**2022-09-15**|**OmniVL:One Foundation Model for Image-Language and Video-Language Tasks**|Junke Wang et.al.|[2209.07526v1](http://arxiv.org/abs/2209.07526v1)|null|
-|**2022-09-15**|**Compositional generalization through abstract representations in human and artificial neural networks**|Takuya Ito et.al.|[2209.07431v1](http://arxiv.org/abs/2209.07431v1)|null|
+|**2022-09-19**|**Compositional generalization through abstract representations in human and artificial neural networks**|Takuya Ito et.al.|[2209.07431v2](http://arxiv.org/abs/2209.07431v2)|null|
 |**2022-09-15**|**ÚFAL CorPipe at CRAC 2022: Effectivity of Multilingual Models for Coreference Resolution**|Milan Straka et.al.|[2209.07278v1](http://arxiv.org/abs/2209.07278v1)|**[link](https://github.com/ufal/crac2022-corpipe)**|
 |**2022-09-15**|**uChecker: Masked Pretrained Language Models as Unsupervised Chinese Spelling Checkers**|Piji Li et.al.|[2209.07068v1](http://arxiv.org/abs/2209.07068v1)|null|
 |**2022-09-15**|**VIPHY: Probing "Visible" Physical Commonsense Knowledge**|Shikhar Singh et.al.|[2209.07000v1](http://arxiv.org/abs/2209.07000v1)|**[link](https://github.com/axe--/viphy)**|
@@ -42,12 +46,14 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20220919>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20220920>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-16**|**DBT-DMAE: An Effective Multivariate Time Series Pre-Train Model under Missing Data**|Kai Zhang et.al.|[2209.07798v1](http://arxiv.org/abs/2209.07798v1)|null|
+|**2022-09-16**|**CenterLineDet: Road Lane CenterLine Graph Detection With Vehicle-Mounted Sensors by Transformer for High-definition Map Creation**|Zhenhua Xu et.al.|[2209.07734v1](http://arxiv.org/abs/2209.07734v1)|null|
 |**2022-09-15**|**OmniVL:One Foundation Model for Image-Language and Video-Language Tasks**|Junke Wang et.al.|[2209.07526v1](http://arxiv.org/abs/2209.07526v1)|null|
 |**2022-09-15**|**Test-Time Prompt Tuning for Zero-Shot Generalization in Vision-Language Models**|Manli Shu et.al.|[2209.07511v1](http://arxiv.org/abs/2209.07511v1)|null|
 |**2022-09-15**|**MVNet: Memory Assistance and Vocal Reinforcement Network for Speech Enhancement**|Jianrong Wang et.al.|[2209.07302v1](http://arxiv.org/abs/2209.07302v1)|null|
@@ -67,7 +73,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20220919>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20220920>back to top</a>)</p>
 
 ## adaptor
 
@@ -85,12 +91,18 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20220919>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20220920>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-16**|**TwistSLAM++: Fusing multiple modalities for accurate dynamic semantic SLAM**|Mathieu Gonzalez et.al.|[2209.07888v1](http://arxiv.org/abs/2209.07888v1)|null|
+|**2022-09-16**|**A Large-scale Multiple-objective Method for Black-box Attack against Object Detection**|Siyuan Liang et.al.|[2209.07790v1](http://arxiv.org/abs/2209.07790v1)|null|
+|**2022-09-16**|**Code as Policies: Language Model Programs for Embodied Control**|Jacky Liang et.al.|[2209.07753v1](http://arxiv.org/abs/2209.07753v1)|null|
+|**2022-09-16**|**Enhance the Visual Representation via Discrete Adversarial Training**|Xiaofeng Mao et.al.|[2209.07735v1](http://arxiv.org/abs/2209.07735v1)|**[link](https://github.com/alibaba/easyrobust)**|
+|**2022-09-16**|**LO-Det: Lightweight Oriented Object Detection in Remote Sensing Images**|Zhanchao Huang et.al.|[2209.07709v1](http://arxiv.org/abs/2209.07709v1)|null|
+|**2022-09-15**|**Towards Improving Calibration in Object Detection Under Domain Shift**|Muhammad Akhtar Munir et.al.|[2209.07601v1](http://arxiv.org/abs/2209.07601v1)|null|
 |**2022-09-15**|**FFPA-Net: Efficient Feature Fusion with Projection Awareness for 3D Object Detection**|Chaokang Jiang et.al.|[2209.07419v1](http://arxiv.org/abs/2209.07419v1)|null|
 |**2022-09-15**|**Align, Reason and Learn: Enhancing Medical Vision-and-Language Pre-training with Knowledge**|Zhihong Chen et.al.|[2209.07118v1](http://arxiv.org/abs/2209.07118v1)|null|
 |**2022-09-15**|**PROB-SLAM: Real-time Visual SLAM Based on Probabilistic Graph Optimization**|Xianwei Meng et.al.|[2209.07061v1](http://arxiv.org/abs/2209.07061v1)|null|
@@ -107,7 +119,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20220919>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20220920>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
