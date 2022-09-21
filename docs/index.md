@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2022.09.20
+## Updated on 2022.09.21
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-19**|**Panoramic Vision Transformer for Saliency Detection in 360° Videos**|Heeseung Yun et.al.|[2209.08956v1](http://arxiv.org/abs/2209.08956v1)|null|
+|**2022-09-19**|**Effective Adaptation in Multi-Task Co-Training for Unified Autonomous Driving**|Xiwen Liang et.al.|[2209.08953v1](http://arxiv.org/abs/2209.08953v1)|null|
+|**2022-09-19**|**HiMFR: A Hybrid Masked Face Recognition Through Face Inpainting**|Md Imran Hosen et.al.|[2209.08930v1](http://arxiv.org/abs/2209.08930v1)|**[link](https://github.com/mdhosen/himfr)**|
+|**2022-09-19**|**T2V-DDPM: Thermal to Visible Face Translation using Denoising Diffusion Probabilistic Models**|Nithin Gopalakrishnan Nair et.al.|[2209.08814v1](http://arxiv.org/abs/2209.08814v1)|null|
+|**2022-09-19**|**Tree-based Text-Vision BERT for Video Search in Baidu Video Advertising**|Tan Yu et.al.|[2209.08759v1](http://arxiv.org/abs/2209.08759v1)|null|
+|**2022-09-19**|**Toward Understanding Privileged Features Distillation in Learning-to-Rank**|Shuo Yang et.al.|[2209.08754v1](http://arxiv.org/abs/2209.08754v1)|null|
+|**2022-09-18**|**Adaptive Dimension Reduction and Variational Inference for Transductive Few-Shot Classification**|Yuqing Hu et.al.|[2209.08527v1](http://arxiv.org/abs/2209.08527v1)|null|
+|**2022-09-18**|**MetaDIP: Accelerating Deep Image Prior with Meta Learning**|Kevin Zhang et.al.|[2209.08452v1](http://arxiv.org/abs/2209.08452v1)|null|
+|**2022-09-17**|**Sample-Efficient Multi-Agent Reinforcement Learning with Demonstrations for Flocking Control**|Yunbo Qiu et.al.|[2209.08351v1](http://arxiv.org/abs/2209.08351v1)|null|
+|**2022-09-17**|**Compose & Embellish: Well-Structured Piano Performance Generation via A Two-Stage Approach**|Shih-Lun Wu et.al.|[2209.08212v1](http://arxiv.org/abs/2209.08212v1)|null|
 |**2022-09-16**|**Fine-tuning or top-tuning? Transfer learning with pretrained features and fast kernel methods**|Paolo Didier Alfano et.al.|[2209.07932v1](http://arxiv.org/abs/2209.07932v1)|null|
 |**2022-09-16**|**iDF-SLAM: End-to-End RGB-D SLAM with Neural Implicit Mapping and Deep Feature Tracking**|Yuhang Ming et.al.|[2209.07919v1](http://arxiv.org/abs/2209.07919v1)|null|
 |**2022-09-16**|**Possible Stories: Evaluating Situated Commonsense Reasoning under Multiple Possible Scenarios**|Mana Ashida et.al.|[2209.07760v1](http://arxiv.org/abs/2209.07760v1)|null|
@@ -50,12 +60,22 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20220920>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20220921>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-19**|**SAMP: A Toolkit for Model Inference with Self-Adaptive Mixed-Precision**|Rong Tian et.al.|[2209.09130v1](http://arxiv.org/abs/2209.09130v1)|null|
+|**2022-09-16**|**Dataset Inference for Self-Supervised Models**|Adam Dziedzic et.al.|[2209.09024v1](http://arxiv.org/abs/2209.09024v1)|null|
+|**2022-09-19**|**EDO-Net: Learning Elastic Properties of Deformable Objects from Graph Dynamics**|Alberta Longhini et.al.|[2209.08996v1](http://arxiv.org/abs/2209.08996v1)|null|
+|**2022-09-19**|**Effective Adaptation in Multi-Task Co-Training for Unified Autonomous Driving**|Xiwen Liang et.al.|[2209.08953v1](http://arxiv.org/abs/2209.08953v1)|null|
+|**2022-09-19**|**Attentive Symmetric Autoencoder for Brain MRI Segmentation**|Junjia Huang et.al.|[2209.08887v1](http://arxiv.org/abs/2209.08887v1)|**[link](https://github.com/lhaof/asa)**|
+|**2022-09-19**|**S$^3$R: Self-supervised Spectral Regression for Hyperspectral Histopathology Image Classification**|Xingran Xie et.al.|[2209.08770v1](http://arxiv.org/abs/2209.08770v1)|null|
+|**2022-09-18**|**Enabling Conversational Interaction with Mobile UI using Large Language Models**|Bryan Wang et.al.|[2209.08655v1](http://arxiv.org/abs/2209.08655v1)|null|
+|**2022-09-18**|**Improving the Performance of DNN-based Software Services using Automated Layer Caching**|Mohammadamin Abedi et.al.|[2209.08625v1](http://arxiv.org/abs/2209.08625v1)|null|
+|**2022-09-17**|**Introspective Learning : A Two-Stage Approach for Inference in Neural Networks**|Mohit Prabhushankar et.al.|[2209.08425v1](http://arxiv.org/abs/2209.08425v1)|**[link](https://github.com/olivesgatech/introspective-learning)**|
+|**2022-09-17**|**From Disfluency Detection to Intent Detection and Slot Filling**|Mai Hoang Dao et.al.|[2209.08359v1](http://arxiv.org/abs/2209.08359v1)|**[link](https://github.com/vinairesearch/phoatis_disfluency)**|
 |**2022-09-16**|**DBT-DMAE: An Effective Multivariate Time Series Pre-Train Model under Missing Data**|Kai Zhang et.al.|[2209.07798v1](http://arxiv.org/abs/2209.07798v1)|null|
 |**2022-09-16**|**CenterLineDet: Road Lane CenterLine Graph Detection With Vehicle-Mounted Sensors by Transformer for High-definition Map Creation**|Zhenhua Xu et.al.|[2209.07734v1](http://arxiv.org/abs/2209.07734v1)|null|
 |**2022-09-15**|**OmniVL:One Foundation Model for Image-Language and Video-Language Tasks**|Junke Wang et.al.|[2209.07526v1](http://arxiv.org/abs/2209.07526v1)|null|
@@ -77,7 +97,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20220920>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20220921>back to top</a>)</p>
 
 ## adaptor
 
@@ -95,12 +115,21 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20220920>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20220921>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-19**|**Effective Adaptation in Multi-Task Co-Training for Unified Autonomous Driving**|Xiwen Liang et.al.|[2209.08953v1](http://arxiv.org/abs/2209.08953v1)|null|
+|**2022-09-19**|**A Dual-Cycled Cross-View Transformer Network for Unified Road Layout Estimation and 3D Object Detection in the Bird's-Eye-View**|Curie Kim et.al.|[2209.08844v1](http://arxiv.org/abs/2209.08844v1)|null|
+|**2022-09-19**|**An Adaptive Threshold for the Canny Edge Detection with Actor-Critic Algorithm**|Keong-Hun Choi et.al.|[2209.08699v1](http://arxiv.org/abs/2209.08699v1)|null|
+|**2022-09-19**|**MECCANO: A Multimodal Egocentric Dataset for Humans Behavior Understanding in the Industrial-like Domain**|Francesco Ragusa et.al.|[2209.08691v1](http://arxiv.org/abs/2209.08691v1)|null|
+|**2022-09-18**|**RDD2022: A multi-national image dataset for automatic Road Damage Detection**|Deeksha Arya et.al.|[2209.08538v1](http://arxiv.org/abs/2209.08538v1)|null|
+|**2022-09-18**|**HAPI: A Large-scale Longitudinal Dataset of Commercial ML API Predictions**|Lingjiao Chen et.al.|[2209.08443v1](http://arxiv.org/abs/2209.08443v1)|null|
+|**2022-09-17**|**RGB-Event Fusion for Moving Object Detection in Autonomous Driving**|Zhuyun Zhou et.al.|[2209.08323v1](http://arxiv.org/abs/2209.08323v1)|null|
+|**2022-09-17**|**Understanding the Impact of Image Quality and Distance of Objects to Object Detection Performance**|Yu Hao et.al.|[2209.08237v1](http://arxiv.org/abs/2209.08237v1)|null|
+|**2022-09-16**|**Uncertainty Quantification of Collaborative Detection for Self-Driving**|Sanbao Su et.al.|[2209.08162v1](http://arxiv.org/abs/2209.08162v1)|null|
 |**2022-09-16**|**TwistSLAM++: Fusing multiple modalities for accurate dynamic semantic SLAM**|Mathieu Gonzalez et.al.|[2209.07888v1](http://arxiv.org/abs/2209.07888v1)|null|
 |**2022-09-16**|**A Large-scale Multiple-objective Method for Black-box Attack against Object Detection**|Siyuan Liang et.al.|[2209.07790v1](http://arxiv.org/abs/2209.07790v1)|null|
 |**2022-09-16**|**Code as Policies: Language Model Programs for Embodied Control**|Jacky Liang et.al.|[2209.07753v1](http://arxiv.org/abs/2209.07753v1)|null|
@@ -123,7 +152,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20220920>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20220921>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
