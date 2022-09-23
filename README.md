@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2022.09.22
+## Updated on 2022.09.23
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,10 +19,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-21**|**Extreme Multi-Domain, Multi-Task Learning With Unified Text-to-Text Transfer Transformers**|Adebayo Oshingbesan et.al.|[2209.10106v1](http://arxiv.org/abs/2209.10106v1)|**[link](https://github.com/dehbaiyor/idlfall2021project)**|
+|**2022-09-21**|**Adapting Pretrained Text-to-Text Models for Long Text Sequences**|Wenhan Xiong et.al.|[2209.10052v1](http://arxiv.org/abs/2209.10052v1)|null|
 |**2022-09-20**|**Physical Logic Enhanced Network for Small-Sample Bi-Layer Metallic Tubes Bending Springback Prediction**|Chang Sun et.al.|[2209.09870v1](http://arxiv.org/abs/2209.09870v1)|null|
 |**2022-09-20**|**Dynamic Graph Message Passing Networks for Visual Recognition**|Li Zhang et.al.|[2209.09760v1](http://arxiv.org/abs/2209.09760v1)|**[link](https://github.com/fudan-zvg/dgmn2)**|
 |**2022-09-20**|**Cardiac Segmentation using Transfer Learning under Respiratory Motion Artifacts**|Carles Garcia-Cabrera et.al.|[2209.09714v1](http://arxiv.org/abs/2209.09714v1)|null|
-|**2022-09-20**|**Perceptual Quality Assessment for Digital Human Heads**|Zicheng Zhang et.al.|[2209.09489v1](http://arxiv.org/abs/2209.09489v1)|null|
+|**2022-09-22**|**Perceptual Quality Assessment for Digital Human Heads**|Zicheng Zhang et.al.|[2209.09489v2](http://arxiv.org/abs/2209.09489v2)|null|
 |**2022-09-20**|**Generalizing through Forgetting -- Domain Generalization for Symptom Event Extraction in Clinical Notes**|Sitong Zhou et.al.|[2209.09485v1](http://arxiv.org/abs/2209.09485v1)|null|
 |**2022-09-19**|**Panoramic Vision Transformer for Saliency Detection in 360° Videos**|Heeseung Yun et.al.|[2209.08956v1](http://arxiv.org/abs/2209.08956v1)|null|
 |**2022-09-19**|**Effective Adaptation in Multi-Task Co-Training for Unified Autonomous Driving**|Xiwen Liang et.al.|[2209.08953v1](http://arxiv.org/abs/2209.08953v1)|null|
@@ -61,12 +63,15 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20220922>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20220923>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-21**|**RNGDet++: Road Network Graph Detection by Transformer with Instance Segmentation and Multi-scale Features Enhancement**|Zhenhua Xu et.al.|[2209.10150v1](http://arxiv.org/abs/2209.10150v1)|null|
+|**2022-09-21**|**Exploring Modulated Detection Transformer as a Tool for Action Recognition in Videos**|Tomás Crisol et.al.|[2209.10126v1](http://arxiv.org/abs/2209.10126v1)|**[link](https://github.com/bhi-research/ava_mdetr)**|
+|**2022-09-19**|**On the benefits of self-taught learning for brain decoding**|Elodie Germani et.al.|[2209.10099v1](http://arxiv.org/abs/2209.10099v1)|null|
 |**2022-09-20**|**Integer Fine-tuning of Transformer-based Models**|Mohammadreza Tayaranian et.al.|[2209.09815v1](http://arxiv.org/abs/2209.09815v1)|null|
 |**2022-09-20**|**Dynamic Graph Message Passing Networks for Visual Recognition**|Li Zhang et.al.|[2209.09760v1](http://arxiv.org/abs/2209.09760v1)|**[link](https://github.com/fudan-zvg/dgmn2)**|
 |**2022-09-19**|**SAMP: A Toolkit for Model Inference with Self-Adaptive Mixed-Precision**|Rong Tian et.al.|[2209.09130v1](http://arxiv.org/abs/2209.09130v1)|null|
@@ -100,7 +105,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20220922>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20220923>back to top</a>)</p>
 
 ## adaptor
 
@@ -118,12 +123,18 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20220922>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20220923>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-21**|**Sample, Crop, Track: Self-Supervised Mobile 3D Object Detection for Urban Driving LiDAR**|Sangyun Shin et.al.|[2209.10471v1](http://arxiv.org/abs/2209.10471v1)|null|
+|**2022-09-21**|**IoU-Enhanced Attention for End-to-End Task Specific Object Detection**|Jing Zhao et.al.|[2209.10391v1](http://arxiv.org/abs/2209.10391v1)|null|
+|**2022-09-21**|**Safety Metrics and Losses for Object Detection in Autonomous Driving**|Hsuan-Cheng Liao et.al.|[2209.10368v1](http://arxiv.org/abs/2209.10368v1)|null|
+|**2022-09-21**|**BEVStereo: Enhancing Depth Estimation in Multi-view 3D Object Detection with Dynamic Temporal Stereo**|Yinhao Li et.al.|[2209.10248v1](http://arxiv.org/abs/2209.10248v1)|**[link](https://github.com/megvii-basedetection/bevstereo)**|
+|**2022-09-21**|**Position-Aware Relation Learning for RGB-Thermal Salient Object Detection**|Heng Zhou et.al.|[2209.10158v1](http://arxiv.org/abs/2209.10158v1)|null|
+|**2022-09-21**|**Review On Deep Learning Technique For Underwater Object Detection**|Radhwan Adnan Dakhil et.al.|[2209.10151v1](http://arxiv.org/abs/2209.10151v1)|null|
 |**2022-09-20**|**Rethinking Data Augmentation in Knowledge Distillation for Object Detection**|Jiawei Liang et.al.|[2209.09841v1](http://arxiv.org/abs/2209.09841v1)|null|
 |**2022-09-20**|**Enhancing vehicle detection accuracy in thermal infrared images using multiple GANs**|Shivom Bhargava et.al.|[2209.09808v1](http://arxiv.org/abs/2209.09808v1)|null|
 |**2022-09-20**|**Dynamic Graph Message Passing Networks for Visual Recognition**|Li Zhang et.al.|[2209.09760v1](http://arxiv.org/abs/2209.09760v1)|**[link](https://github.com/fudan-zvg/dgmn2)**|
@@ -163,7 +174,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20220922>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20220923>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
