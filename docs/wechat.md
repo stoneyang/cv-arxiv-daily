@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2022.09.23
+> Updated on 2022.09.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,12 @@
 
 ## pretrain
 
+- 2022-09-22, **PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training**, Rogerio Bonatti et.al., Paper: [http://arxiv.org/abs/2209.11133v1](http://arxiv.org/abs/2209.11133v1)
+- 2022-09-22, **Efficient Few-Shot Learning Without Prompts**, Lewis Tunstall et.al., Paper: [http://arxiv.org/abs/2209.11055v1](http://arxiv.org/abs/2209.11055v1), Code: **[https://github.com/huggingface/setfit](https://github.com/huggingface/setfit)**
+- 2022-09-22, **MonoByte: A Pool of Monolingual Byte-level Language Models**, Hugo Abonizio et.al., Paper: [http://arxiv.org/abs/2209.11035v1](http://arxiv.org/abs/2209.11035v1), Code: **[https://github.com/lersouza/lang-agnostic](https://github.com/lersouza/lang-agnostic)**
+- 2022-09-22, **Pretraining the Vision Transformer using self-supervised methods for vision based Deep Reinforcement Learning**, Manuel Goulão et.al., Paper: [http://arxiv.org/abs/2209.10901v1](http://arxiv.org/abs/2209.10901v1), Code: **[https://github.com/mgoulao/tov-vicreg](https://github.com/mgoulao/tov-vicreg)**
+- 2022-09-22, **MnTTS: An Open-Source Mongolian Text-to-Speech Synthesis Dataset and Accompanied Baseline**, Yifan Hu et.al., Paper: [http://arxiv.org/abs/2209.10848v1](http://arxiv.org/abs/2209.10848v1), Code: **[https://github.com/walker-hyf/mntts](https://github.com/walker-hyf/mntts)**
+- 2022-09-22, **INFINITY: A Simple Yet Effective Unsupervised Framework for Graph-Text Mutual Conversion**, Yi Xu et.al., Paper: [http://arxiv.org/abs/2209.10754v1](http://arxiv.org/abs/2209.10754v1)
 - 2022-09-21, **Extreme Multi-Domain, Multi-Task Learning With Unified Text-to-Text Transfer Transformers**, Adebayo Oshingbesan et.al., Paper: [http://arxiv.org/abs/2209.10106v1](http://arxiv.org/abs/2209.10106v1), Code: **[https://github.com/dehbaiyor/idlfall2021project](https://github.com/dehbaiyor/idlfall2021project)**
 - 2022-09-21, **Adapting Pretrained Text-to-Text Models for Long Text Sequences**, Wenhan Xiong et.al., Paper: [http://arxiv.org/abs/2209.10052v1](http://arxiv.org/abs/2209.10052v1)
 - 2022-09-20, **Physical Logic Enhanced Network for Small-Sample Bi-Layer Metallic Tubes Bending Springback Prediction**, Chang Sun et.al., Paper: [http://arxiv.org/abs/2209.09870v1](http://arxiv.org/abs/2209.09870v1)
@@ -61,10 +67,15 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20220923>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20220924>back to top</a>)</p>
 
 ## downstream
 
+- 2022-09-22, **Learning to Simulate Realistic LiDARs**, Benoit Guillard et.al., Paper: [http://arxiv.org/abs/2209.10986v1](http://arxiv.org/abs/2209.10986v1)
+- 2022-09-22, **An Information Minimization Based Contrastive Learning Model for Unsupervised Sentence Embeddings Learning**, Shaobin Chen et.al., Paper: [http://arxiv.org/abs/2209.10951v1](http://arxiv.org/abs/2209.10951v1), Code: **[https://github.com/bin199/informin-cl](https://github.com/bin199/informin-cl)**
+- 2022-09-22, **SQ-SLAM: Monocular Semantic SLAM Based on Superquadric Object Representation**, Xiao Han et.al., Paper: [http://arxiv.org/abs/2209.10817v1](http://arxiv.org/abs/2209.10817v1)
+- 2022-09-22, **STING: Self-attention based Time-series Imputation Networks using GAN**, Eunkyu Oh et.al., Paper: [http://arxiv.org/abs/2209.10801v1](http://arxiv.org/abs/2209.10801v1)
+- 2022-09-21, **SW-VAE: Weakly Supervised Learn Disentangled Representation Via Latent Factor Swapping**, Jiageng Zhu et.al., Paper: [http://arxiv.org/abs/2209.10623v1](http://arxiv.org/abs/2209.10623v1)
 - 2022-09-21, **RNGDet++: Road Network Graph Detection by Transformer with Instance Segmentation and Multi-scale Features Enhancement**, Zhenhua Xu et.al., Paper: [http://arxiv.org/abs/2209.10150v1](http://arxiv.org/abs/2209.10150v1)
 - 2022-09-21, **Exploring Modulated Detection Transformer as a Tool for Action Recognition in Videos**, Tomás Crisol et.al., Paper: [http://arxiv.org/abs/2209.10126v1](http://arxiv.org/abs/2209.10126v1), Code: **[https://github.com/bhi-research/ava_mdetr](https://github.com/bhi-research/ava_mdetr)**
 - 2022-09-19, **On the benefits of self-taught learning for brain decoding**, Elodie Germani et.al., Paper: [http://arxiv.org/abs/2209.10099v1](http://arxiv.org/abs/2209.10099v1)
@@ -101,10 +112,11 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20220923>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20220924>back to top</a>)</p>
 
 ## adaptor
 
+- 2022-09-22, **Controllable Accented Text-to-Speech Synthesis**, Rui Liu et.al., Paper: [http://arxiv.org/abs/2209.10804v1](http://arxiv.org/abs/2209.10804v1)
 - 2022-09-15, **OmniVL:One Foundation Model for Image-Language and Video-Language Tasks**, Junke Wang et.al., Paper: [http://arxiv.org/abs/2209.07526v1](http://arxiv.org/abs/2209.07526v1)
 - 2022-09-16, **Learning with Local Gradients at the Edge**, Michael Lomnitz et.al., Paper: [http://arxiv.org/abs/2208.08503v2](http://arxiv.org/abs/2208.08503v2)
 - 2022-08-15, **MM-GNN: Mix-Moment Graph Neural Network towards Modeling Neighborhood Feature Distribution**, Wendong Bi et.al., Paper: [http://arxiv.org/abs/2208.07012v1](http://arxiv.org/abs/2208.07012v1)
@@ -117,10 +129,15 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20220923>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20220924>back to top</a>)</p>
 
 ## object detection
 
+- 2022-09-22, **NamedMask: Distilling Segmenters from Complementary Foundation Models**, Gyungin Shin et.al., Paper: [http://arxiv.org/abs/2209.11228v1](http://arxiv.org/abs/2209.11228v1), Code: **[https://github.com/noelshin/namedmask](https://github.com/noelshin/namedmask)**
+- 2022-09-22, **Quantum illumination with multiplexed photodetection**, Hao Yang et.al., Paper: [http://arxiv.org/abs/2209.11117v1](http://arxiv.org/abs/2209.11117v1)
+- 2022-09-22, **AcroFOD: An Adaptive Method for Cross-domain Few-shot Object Detection**, Yipeng Gao et.al., Paper: [http://arxiv.org/abs/2209.10904v1](http://arxiv.org/abs/2209.10904v1), Code: **[https://github.com/hlings/acrofod](https://github.com/hlings/acrofod)**
+- 2022-09-22, **FusionRCNN: LiDAR-Camera Fusion for Two-stage 3D Object Detection**, Xinli Xu et.al., Paper: [http://arxiv.org/abs/2209.10733v1](http://arxiv.org/abs/2209.10733v1)
+- 2022-09-21, **Visual Localization and Mapping in Dynamic and Changing Environments**, João Carlos Virgolino Soares et.al., Paper: [http://arxiv.org/abs/2209.10710v1](http://arxiv.org/abs/2209.10710v1)
 - 2022-09-21, **Sample, Crop, Track: Self-Supervised Mobile 3D Object Detection for Urban Driving LiDAR**, Sangyun Shin et.al., Paper: [http://arxiv.org/abs/2209.10471v1](http://arxiv.org/abs/2209.10471v1)
 - 2022-09-21, **IoU-Enhanced Attention for End-to-End Task Specific Object Detection**, Jing Zhao et.al., Paper: [http://arxiv.org/abs/2209.10391v1](http://arxiv.org/abs/2209.10391v1)
 - 2022-09-21, **Safety Metrics and Losses for Object Detection in Autonomous Driving**, Hsuan-Cheng Liao et.al., Paper: [http://arxiv.org/abs/2209.10368v1](http://arxiv.org/abs/2209.10368v1)
@@ -166,7 +183,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20220923>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20220924>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
