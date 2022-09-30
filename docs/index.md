@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2022.09.29
+## Updated on 2022.09.30
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-28**|**Multimodal Prediction of Spontaneous Humour: A Novel Dataset and First Results**|Lukas Christ et.al.|[2209.14272v1](http://arxiv.org/abs/2209.14272v1)|**[link](https://github.com/eihw/passau-sfch)**|
+|**2022-09-28**|**Speech Enhancement Using Self-Supervised Pre-Trained Model and Vector Quantization**|Xiao-Ying Zhao et.al.|[2209.14150v1](http://arxiv.org/abs/2209.14150v1)|null|
+|**2022-09-28**|**Medical Image Captioning via Generative Pretrained Transformers**|Alexander Selivanov et.al.|[2209.13983v1](http://arxiv.org/abs/2209.13983v1)|null|
+|**2022-09-27**|**Mixed-domain Training Improves Multi-Mission Terrain Segmentation**|Grace Vincent et.al.|[2209.13674v1](http://arxiv.org/abs/2209.13674v1)|null|
+|**2022-09-27**|**Embarrassingly Easy Document-Level MT Metrics: How to Convert Any Pretrained Metric Into a Document-Level Metric**|Giorgos Vernikos et.al.|[2209.13654v1](http://arxiv.org/abs/2209.13654v1)|null|
 |**2022-09-27**|**FreeSeg: Free Mask from Interpretable Contrastive Language-Image Pretraining for Semantic Segmentation**|Yi Li et.al.|[2209.13558v1](http://arxiv.org/abs/2209.13558v1)|**[link](https://github.com/xmed-lab/freeseg)**|
 |**2022-09-26**|**Taking a Respite from Representation Learning for Molecular Property Prediction**|Jianyuan Deng et.al.|[2209.13492v1](http://arxiv.org/abs/2209.13492v1)|null|
 |**2022-09-27**|**StyleMask: Disentangling the Style Space of StyleGAN2 for Neural Face Reenactment**|Stella Bounareli et.al.|[2209.13375v1](http://arxiv.org/abs/2209.13375v1)|**[link](https://github.com/stelabou/stylemask)**|
@@ -88,18 +93,20 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20220929>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20220930>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-28**|**Prompt-driven efficient Open-set Semi-supervised Learning**|Haoran Li et.al.|[2209.14205v1](http://arxiv.org/abs/2209.14205v1)|null|
+|**2022-09-28**|**Speech Enhancement Using Self-Supervised Pre-Trained Model and Vector Quantization**|Xiao-Ying Zhao et.al.|[2209.14150v1](http://arxiv.org/abs/2209.14150v1)|null|
 |**2022-09-27**|**Learning-Based Dimensionality Reduction for Computing Compact and Effective Local Feature Descriptors**|Hao Dong et.al.|[2209.13586v1](http://arxiv.org/abs/2209.13586v1)|**[link](https://github.com/prbonn/descriptor-dr)**|
 |**2022-09-27**|**Learning State-Aware Visual Representations from Audible Interactions**|Himangi Mittal et.al.|[2209.13583v1](http://arxiv.org/abs/2209.13583v1)|**[link](https://github.com/HimangiM/RepLAI)**|
 |**2022-09-27**|**Visual Object Tracking in First Person Vision**|Matteo Dunnhofer et.al.|[2209.13502v1](http://arxiv.org/abs/2209.13502v1)|null|
 |**2022-09-27**|**UniCLIP: Unified Framework for Contrastive Language-Image Pre-training**|Janghyeon Lee et.al.|[2209.13430v1](http://arxiv.org/abs/2209.13430v1)|null|
 |**2022-09-27**|**Orbeez-SLAM: A Real-time Monocular Visual SLAM with ORB Features and NeRF-realized Mapping**|Chi-Ming Chung et.al.|[2209.13274v1](http://arxiv.org/abs/2209.13274v1)|null|
-|**2022-09-28**|**OSDP: Optimal Sharded Data Parallel for Distributed Deep Learning**|Youhe Jiang et.al.|[2209.13258v2](http://arxiv.org/abs/2209.13258v2)|null|
+|**2022-09-28**|**OSDP: Optimal Sharded Data Parallel for Distributed Deep Learning**|Youhe Jiang et.al.|[2209.13258v2](http://arxiv.org/abs/2209.13258v2)|**[link](https://github.com/youhe-jiang/optimalshardeddataparallel)**|
 |**2022-09-26**|**Learning Self-Supervised Representations from Vision and Touch for Active Sliding Perception of Deformable Surfaces**|Justin Kerr et.al.|[2209.13042v1](http://arxiv.org/abs/2209.13042v1)|null|
 |**2022-09-26**|**Towards Simple and Efficient Task-Adaptive Pre-training for Text Classification**|Arnav Ladkat et.al.|[2209.12943v1](http://arxiv.org/abs/2209.12943v1)|null|
 |**2022-09-26**|**Learning to Learn with Generative Models of Neural Network Checkpoints**|William Peebles et.al.|[2209.12892v1](http://arxiv.org/abs/2209.12892v1)|**[link](https://github.com/wpeebles/g.pt)**|
@@ -152,12 +159,13 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20220929>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20220930>back to top</a>)</p>
 
 ## adaptor
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-28**|**DeViT: Deformed Vision Transformers in Video Inpainting**|Jiayin Cai et.al.|[2209.13925v1](http://arxiv.org/abs/2209.13925v1)|null|
 |**2022-09-22**|**Controllable Accented Text-to-Speech Synthesis**|Rui Liu et.al.|[2209.10804v1](http://arxiv.org/abs/2209.10804v1)|null|
 |**2022-09-15**|**OmniVL:One Foundation Model for Image-Language and Video-Language Tasks**|Junke Wang et.al.|[2209.07526v1](http://arxiv.org/abs/2209.07526v1)|null|
 |**2022-09-16**|**Learning with Local Gradients at the Edge**|Michael Lomnitz et.al.|[2208.08503v2](http://arxiv.org/abs/2208.08503v2)|null|
@@ -171,12 +179,18 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20220929>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20220930>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-28**|**A Survey on Physical Adversarial Attack in Computer Vision**|Donghua Wang et.al.|[2209.14262v1](http://arxiv.org/abs/2209.14262v1)|null|
+|**2022-09-28**|**Road Rutting Detection using Deep Learning on Images**|Poonam Kumari Saha et.al.|[2209.14225v1](http://arxiv.org/abs/2209.14225v1)|null|
+|**2022-09-28**|**Spatial Pruned Sparse Convolution for Efficient 3D Object Detection**|Jianhui Liu et.al.|[2209.14201v1](http://arxiv.org/abs/2209.14201v1)|null|
+|**2022-09-28**|**Obj2Seq: Formatting Objects as Sequences with Class Prompt for Visual Tasks**|Zhiyang Chen et.al.|[2209.13948v1](http://arxiv.org/abs/2209.13948v1)|**[link](https://github.com/casia-iva-lab/obj2seq)**|
+|**2022-09-28**|**DPNet: Dual-Path Network for Real-time Object Detection with Lightweight Attention**|Quan Zhou et.al.|[2209.13933v1](http://arxiv.org/abs/2209.13933v1)|**[link](https://github.com/huiminshii/dpnet)**|
+|**2022-09-28**|**Translation, Scale and Rotation: Cross-Modal Alignment Meets RGB-Infrared Vehicle Detection**|Maoxun Yuan et.al.|[2209.13801v1](http://arxiv.org/abs/2209.13801v1)|null|
 |**2022-09-27**|**CrossDTR: Cross-view and Depth-guided Transformers for 3D Object Detection**|Ching-Yu Tseng et.al.|[2209.13507v1](http://arxiv.org/abs/2209.13507v1)|**[link](https://github.com/sty61010/crossdtr)**|
 |**2022-09-27**|**Critical Evaluation of LOCO dataset with Machine Learning**|Recep Savas et.al.|[2209.13499v1](http://arxiv.org/abs/2209.13499v1)|null|
 |**2022-09-27**|**OBBStacking: An Ensemble Method for Remote Sensing Object Detection**|Haoning Lin et.al.|[2209.13369v1](http://arxiv.org/abs/2209.13369v1)|**[link](https://github.com/haoning724/obbstacking)**|
@@ -248,7 +262,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20220929>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20220930>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
