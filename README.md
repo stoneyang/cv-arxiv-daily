@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2022.10.03
+## Updated on 2022.10.04
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-30**|**F-VLM: Open-Vocabulary Object Detection upon Frozen Vision and Language Models**|Weicheng Kuo et.al.|[2209.15639v1](http://arxiv.org/abs/2209.15639v1)|null|
+|**2022-09-30**|**Medical Image Understanding with Pretrained Vision Language Models: A Comprehensive Study**|Ziyuan Qin et.al.|[2209.15517v1](http://arxiv.org/abs/2209.15517v1)|null|
+|**2022-09-30**|**Language-Family Adapters for Multilingual Neural Machine Translation**|Alexandra Chronopoulou et.al.|[2209.15236v1](http://arxiv.org/abs/2209.15236v1)|null|
+|**2022-09-30**|**Depth-Wise Attention (DWAtt): A Layer Fusion Method for Data-Efficient Classification**|Muhammad ElNokrashy et.al.|[2209.15168v1](http://arxiv.org/abs/2209.15168v1)|null|
+|**2022-09-30**|**Linearly Mapping from Image to Text Space**|Jack Merullo et.al.|[2209.15162v1](http://arxiv.org/abs/2209.15162v1)|null|
+|**2022-09-29**|**Improving Molecular Pretraining with Complementary Featurizations**|Yanqiao Zhu et.al.|[2209.15101v1](http://arxiv.org/abs/2209.15101v1)|null|
 |**2022-09-29**|**DreamFusion: Text-to-3D using 2D Diffusion**|Ben Poole et.al.|[2209.14988v1](http://arxiv.org/abs/2209.14988v1)|null|
 |**2022-09-28**|**Transfer Learning with Pretrained Remote Sensing Transformers**|Anthony Fuller et.al.|[2209.14969v1](http://arxiv.org/abs/2209.14969v1)|**[link](https://github.com/antofuller/satvit)**|
 |**2022-09-29**|**Domain-Unified Prompt Representations for Source-Free Domain Generalization**|Hongjing Niu et.al.|[2209.14926v1](http://arxiv.org/abs/2209.14926v1)|null|
@@ -97,12 +103,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221003>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221004>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-30**|**Match to Win: Analysing Sequences Lengths for Efficient Self-supervised Learning in Speech and Audio**|Yan Gao et.al.|[2209.15575v1](http://arxiv.org/abs/2209.15575v1)|null|
+|**2022-09-30**|**TT-NF: Tensor Train Neural Fields**|Anton Obukhov et.al.|[2209.15529v1](http://arxiv.org/abs/2209.15529v1)|**[link](https://github.com/toshas/ttnf)**|
+|**2022-09-30**|**An information-theoretic approach to unsupervised keypoint representation learning**|Ali Younes et.al.|[2209.15404v1](http://arxiv.org/abs/2209.15404v1)|null|
+|**2022-09-30**|**Leveraging variational autoencoders for multiple data imputation**|Breeshey Roskams-Hieter et.al.|[2209.15321v1](http://arxiv.org/abs/2209.15321v1)|null|
+|**2022-09-30**|**Prompt Tuning for Graph Neural Networks**|Taoran Fang et.al.|[2209.15240v1](http://arxiv.org/abs/2209.15240v1)|null|
+|**2022-09-30**|**Multi-Prompt Alignment for Multi-source Unsupervised Domain Adaptation**|Haoran Chen et.al.|[2209.15210v1](http://arxiv.org/abs/2209.15210v1)|null|
+|**2022-09-30**|**ASPiRe:Adaptive Skill Priors for Reinforcement Learning**|Mengda Xu et.al.|[2209.15205v1](http://arxiv.org/abs/2209.15205v1)|null|
+|**2022-09-30**|**Learning by Distilling Context**|Charlie Snell et.al.|[2209.15189v1](http://arxiv.org/abs/2209.15189v1)|null|
+|**2022-09-30**|**Depth-Wise Attention (DWAtt): A Layer Fusion Method for Data-Efficient Classification**|Muhammad ElNokrashy et.al.|[2209.15168v1](http://arxiv.org/abs/2209.15168v1)|null|
+|**2022-09-30**|**An empirical study of weakly supervised audio tagging embeddings for general audio representations**|Heinrich Dinkel et.al.|[2209.15167v1](http://arxiv.org/abs/2209.15167v1)|null|
 |**2022-09-29**|**Understanding Collapse in Non-Contrastive Learning**|Alexander C. Li et.al.|[2209.15007v1](http://arxiv.org/abs/2209.15007v1)|**[link](https://github.com/alexlioralexli/noncontrastive-ssl)**|
 |**2022-09-29**|**Joint Embedding Self-Supervised Learning in the Kernel Regime**|Bobak T. Kiani et.al.|[2209.14884v1](http://arxiv.org/abs/2209.14884v1)|null|
 |**2022-09-29**|**Model Zoos: A Dataset of Diverse Populations of Neural Network Models**|Konstantin Schürholt et.al.|[2209.14764v1](http://arxiv.org/abs/2209.14764v1)|null|
@@ -169,7 +185,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20221003>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221004>back to top</a>)</p>
 
 ## adaptor
 
@@ -189,12 +205,17 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20221003>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221004>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-30**|**F-VLM: Open-Vocabulary Object Detection upon Frozen Vision and Language Models**|Weicheng Kuo et.al.|[2209.15639v1](http://arxiv.org/abs/2209.15639v1)|null|
+|**2022-09-30**|**Wake Word Detection Based on Res2Net**|Qiuchen Yu et.al.|[2209.15296v1](http://arxiv.org/abs/2209.15296v1)|null|
+|**2022-09-30**|**Transformers for Object Detection in Large Point Clouds**|Felicia Ruppel et.al.|[2209.15258v1](http://arxiv.org/abs/2209.15258v1)|null|
+|**2022-09-30**|**PointPillars Backbone Type Selection For Fast and Accurate LiDAR Object Detection**|Konrad Lis et.al.|[2209.15252v1](http://arxiv.org/abs/2209.15252v1)|null|
+|**2022-09-29**|**Automatic satellite building construction monitoring**|Insaf Ashrapov et.al.|[2209.15084v1](http://arxiv.org/abs/2209.15084v1)|null|
 |**2022-09-29**|**Dilated Neighborhood Attention Transformer**|Ali Hassani et.al.|[2209.15001v1](http://arxiv.org/abs/2209.15001v1)|**[link](https://github.com/SHI-Labs/Neighborhood-Attention-Transformer)**|
 |**2022-09-29**|**DirectTracker: 3D Multi-Object Tracking Using Direct Image Alignment and Photometric Bundle Adjustment**|Mariia Gladkova et.al.|[2209.14965v1](http://arxiv.org/abs/2209.14965v1)|null|
 |**2022-09-29**|**GDIP: Gated Differentiable Image Processing for Object-Detection in Adverse Conditions**|Sanket Kalwar et.al.|[2209.14922v1](http://arxiv.org/abs/2209.14922v1)|**[link](https://github.com/gatedip/gdip-yolo)**|
@@ -279,7 +300,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20221003>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221004>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
