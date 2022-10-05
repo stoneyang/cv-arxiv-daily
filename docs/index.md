@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2022.10.04
+## Updated on 2022.10.05
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-03**|**That Sounds Right: Auditory Self-Supervision for Dynamic Robot Manipulation**|Abitha Thankaraj et.al.|[2210.01116v1](http://arxiv.org/abs/2210.01116v1)|**[link](https://github.com/abitha-thankaraj/audio-robot-learning)**|
+|**2022-10-03**|**LPT: Long-tailed Prompt Tuning for Image Classification**|Bowen Dong et.al.|[2210.01033v1](http://arxiv.org/abs/2210.01033v1)|null|
+|**2022-10-04**|**Improving Sample Quality of Diffusion Models Using Self-Attention Guidance**|Susung Hong et.al.|[2210.00939v2](http://arxiv.org/abs/2210.00939v2)|null|
+|**2022-10-03**|**A Strong Transfer Baseline for RGB-D Fusion in Vision Transformers**|Georgios Tziafas et.al.|[2210.00843v1](http://arxiv.org/abs/2210.00843v1)|null|
+|**2022-10-03**|**Probing of Quantitative Values in Abstractive Summarization Models**|Nathan M. White et.al.|[2210.00667v1](http://arxiv.org/abs/2210.00667v1)|null|
+|**2022-10-03**|**Under the Cover Infant Pose Estimation using Multimodal Data**|Daniel G. Kyrollos et.al.|[2210.00662v1](http://arxiv.org/abs/2210.00662v1)|null|
+|**2022-10-02**|**PCONet: A Convolutional Neural Network Architecture to Detect Polycystic Ovary Syndrome (PCOS) from Ovarian Ultrasound Images**|A. K. M. Salman Hosain et.al.|[2210.00407v1](http://arxiv.org/abs/2210.00407v1)|null|
+|**2022-09-30**|**Improving Policy Learning via Language Dynamics Distillation**|Victor Zhong et.al.|[2210.00066v1](http://arxiv.org/abs/2210.00066v1)|**[link](https://github.com/vzhong/language-dynamics-distillation)**|
+|**2022-09-30**|**Task Formulation Matters When Learning Continually: A Case Study in Visual Question Answering**|Mavina Nikandrou et.al.|[2210.00044v1](http://arxiv.org/abs/2210.00044v1)|null|
 |**2022-09-30**|**F-VLM: Open-Vocabulary Object Detection upon Frozen Vision and Language Models**|Weicheng Kuo et.al.|[2209.15639v1](http://arxiv.org/abs/2209.15639v1)|null|
 |**2022-09-30**|**Medical Image Understanding with Pretrained Vision Language Models: A Comprehensive Study**|Ziyuan Qin et.al.|[2209.15517v1](http://arxiv.org/abs/2209.15517v1)|null|
 |**2022-09-30**|**Language-Family Adapters for Multilingual Neural Machine Translation**|Alexandra Chronopoulou et.al.|[2209.15236v1](http://arxiv.org/abs/2209.15236v1)|null|
@@ -107,12 +116,22 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221004>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221005>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-03**|**Language-Aware Soft Prompting for Vision & Language Foundation Models**|Adrian Bulat et.al.|[2210.01115v1](http://arxiv.org/abs/2210.01115v1)|null|
+|**2022-10-04**|**Decompiling x86 Deep Neural Network Executables**|Zhibo Liu et.al.|[2210.01075v2](http://arxiv.org/abs/2210.01075v2)|null|
+|**2022-10-03**|**Mutual Information Learned Classifiers: an Information-theoretic Viewpoint of Training Deep Learning Classification Systems**|Jirong Yi et.al.|[2210.01000v1](http://arxiv.org/abs/2210.01000v1)|null|
+|**2022-10-03**|**Self-omics: A Self-supervised Learning Framework for Multi-omics Cancer Data**|Sayed Hashim et.al.|[2210.00825v1](http://arxiv.org/abs/2210.00825v1)|**[link](https://github.com/hashimsayed0/self-omics)**|
+|**2022-10-03**|**Towards a Unified View on Visual Parameter-Efficient Transfer Learning**|Bruce X. B. Yu et.al.|[2210.00788v1](http://arxiv.org/abs/2210.00788v1)|**[link](https://github.com/bruceyo/V-PETL)**|
+|**2022-10-03**|**Deep Spatial Domain Generalization**|Dazhou Yu et.al.|[2210.00729v1](http://arxiv.org/abs/2210.00729v1)|**[link](https://github.com/dyu62/deep-domain-generalization)**|
+|**2022-10-02**|**EUCLID: Towards Efficient Unsupervised Reinforcement Learning with Multi-choice Dynamics Model**|Yifu Yuan et.al.|[2210.00498v1](http://arxiv.org/abs/2210.00498v1)|null|
+|**2022-10-01**|**Zemi: Learning Zero-Shot Semi-Parametric Language Models from Multiple Tasks**|Zhenhailong Wang et.al.|[2210.00185v1](http://arxiv.org/abs/2210.00185v1)|**[link](https://github.com/mikewangwzhl/zemi)**|
+|**2022-09-30**|**$MaskTune$: Mitigating Spurious Correlations by Forcing to Explore**|Saeid Asgari Taghanaki et.al.|[2210.00055v1](http://arxiv.org/abs/2210.00055v1)|**[link](https://github.com/aliasgharkhani/masktune)**|
+|**2022-10-04**|**Differentially Private Bias-Term only Fine-tuning of Foundation Models**|Zhiqi Bu et.al.|[2210.00036v2](http://arxiv.org/abs/2210.00036v2)|null|
 |**2022-09-30**|**Match to Win: Analysing Sequences Lengths for Efficient Self-supervised Learning in Speech and Audio**|Yan Gao et.al.|[2209.15575v1](http://arxiv.org/abs/2209.15575v1)|null|
 |**2022-09-30**|**TT-NF: Tensor Train Neural Fields**|Anton Obukhov et.al.|[2209.15529v1](http://arxiv.org/abs/2209.15529v1)|**[link](https://github.com/toshas/ttnf)**|
 |**2022-09-30**|**An information-theoretic approach to unsupervised keypoint representation learning**|Ali Younes et.al.|[2209.15404v1](http://arxiv.org/abs/2209.15404v1)|null|
@@ -189,7 +208,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20221004>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221005>back to top</a>)</p>
 
 ## adaptor
 
@@ -209,16 +228,22 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20221004>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221005>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-03**|**Expediting Large-Scale Vision Transformer for Dense Prediction without Fine-tuning**|Weicong Liang et.al.|[2210.01035v1](http://arxiv.org/abs/2210.01035v1)|null|
+|**2022-10-03**|**DOTIE -- Detecting Objects through Temporal Isolation of Events using a Spiking Architecture**|Manish Nagaraj et.al.|[2210.00975v1](http://arxiv.org/abs/2210.00975v1)|null|
+|**2022-10-03**|**A Multi Camera Unsupervised Domain Adaptation Pipeline for Object Detection in Cultural Sites through Adversarial Learning and Self-Training**|Giovanni Pasqualino et.al.|[2210.00808v1](http://arxiv.org/abs/2210.00808v1)|**[link](https://github.com/fpv-iplab/STMDA-RetinaNet)**|
+|**2022-10-02**|**DFA: Dynamic Feature Aggregation for Efficient Video Object Detection**|Yiming Cui et.al.|[2210.00588v1](http://arxiv.org/abs/2210.00588v1)|null|
+|**2022-09-30**|**An In-depth Study of Stochastic Backpropagation**|Jun Fang et.al.|[2210.00129v1](http://arxiv.org/abs/2210.00129v1)|null|
+|**2022-09-30**|**D-Align: Dual Query Co-attention Network for 3D Object Detection Based on Multi-frame Point Cloud Sequence**|Junhyung Lee et.al.|[2210.00087v1](http://arxiv.org/abs/2210.00087v1)|null|
 |**2022-09-30**|**F-VLM: Open-Vocabulary Object Detection upon Frozen Vision and Language Models**|Weicheng Kuo et.al.|[2209.15639v1](http://arxiv.org/abs/2209.15639v1)|null|
 |**2022-09-30**|**Wake Word Detection Based on Res2Net**|Qiuchen Yu et.al.|[2209.15296v1](http://arxiv.org/abs/2209.15296v1)|null|
 |**2022-09-30**|**Transformers for Object Detection in Large Point Clouds**|Felicia Ruppel et.al.|[2209.15258v1](http://arxiv.org/abs/2209.15258v1)|null|
-|**2022-09-30**|**PointPillars Backbone Type Selection For Fast and Accurate LiDAR Object Detection**|Konrad Lis et.al.|[2209.15252v1](http://arxiv.org/abs/2209.15252v1)|null|
+|**2022-09-30**|**PointPillars Backbone Type Selection For Fast and Accurate LiDAR Object Detection**|Konrad Lis et.al.|[2209.15252v1](http://arxiv.org/abs/2209.15252v1)|**[link](https://github.com/vision-agh/pointpillars_backbone)**|
 |**2022-09-29**|**Automatic satellite building construction monitoring**|Insaf Ashrapov et.al.|[2209.15084v1](http://arxiv.org/abs/2209.15084v1)|null|
 |**2022-09-29**|**Dilated Neighborhood Attention Transformer**|Ali Hassani et.al.|[2209.15001v1](http://arxiv.org/abs/2209.15001v1)|**[link](https://github.com/SHI-Labs/Neighborhood-Attention-Transformer)**|
 |**2022-09-29**|**DirectTracker: 3D Multi-Object Tracking Using Direct Image Alignment and Photometric Bundle Adjustment**|Mariia Gladkova et.al.|[2209.14965v1](http://arxiv.org/abs/2209.14965v1)|null|
@@ -304,7 +329,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20221004>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221005>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
