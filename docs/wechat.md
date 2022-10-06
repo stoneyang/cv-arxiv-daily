@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2022.10.05
+> Updated on 2022.10.06
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,12 @@
 
 ## pretrain
 
+- 2022-10-04, **ASIF: Coupled Data Turns Unimodal Models to Multimodal Without Training**, Antonio Norelli et.al., Paper: [http://arxiv.org/abs/2210.01738v1](http://arxiv.org/abs/2210.01738v1)
+- 2022-10-04, **Improving Label-Deficient Keyword Spotting Using Self-Supervised Pretraining**, Holger Severin Bovbjerg et.al., Paper: [http://arxiv.org/abs/2210.01703v1](http://arxiv.org/abs/2210.01703v1), Code: **[https://github.com/holgerbovbjerg/data2vec-kws](https://github.com/holgerbovbjerg/data2vec-kws)**
+- 2022-10-04, **VICRegL: Self-Supervised Learning of Local Visual Features**, Adrien Bardes et.al., Paper: [http://arxiv.org/abs/2210.01571v1](http://arxiv.org/abs/2210.01571v1), Code: **[https://github.com/facebookresearch/vicregl](https://github.com/facebookresearch/vicregl)**
+- 2022-10-04, **Knowledge Unlearning for Mitigating Privacy Risks in Language Models**, Joel Jang et.al., Paper: [http://arxiv.org/abs/2210.01504v1](http://arxiv.org/abs/2210.01504v1), Code: **[https://github.com/joeljang/knowledge-unlearning](https://github.com/joeljang/knowledge-unlearning)**
+- 2022-10-04, **Guiding the PLMs with Semantic Anchors as Intermediate Supervision: Towards Interpretable Semantic Parsing**, Lunyiu Nie et.al., Paper: [http://arxiv.org/abs/2210.01425v1](http://arxiv.org/abs/2210.01425v1)
+- 2022-10-03, **Enriching Vulnerability Reports Through Automated and Augmented Description Summarization**, Hattan Althebeiti et.al., Paper: [http://arxiv.org/abs/2210.01260v1](http://arxiv.org/abs/2210.01260v1)
 - 2022-10-03, **That Sounds Right: Auditory Self-Supervision for Dynamic Robot Manipulation**, Abitha Thankaraj et.al., Paper: [http://arxiv.org/abs/2210.01116v1](http://arxiv.org/abs/2210.01116v1), Code: **[https://github.com/abitha-thankaraj/audio-robot-learning](https://github.com/abitha-thankaraj/audio-robot-learning)**
 - 2022-10-03, **LPT: Long-tailed Prompt Tuning for Image Classification**, Bowen Dong et.al., Paper: [http://arxiv.org/abs/2210.01033v1](http://arxiv.org/abs/2210.01033v1)
 - 2022-10-04, **Improving Sample Quality of Diffusion Models Using Self-Attention Guidance**, Susung Hong et.al., Paper: [http://arxiv.org/abs/2210.00939v2](http://arxiv.org/abs/2210.00939v2)
@@ -110,10 +116,13 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20221005>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221006>back to top</a>)</p>
 
 ## downstream
 
+- 2022-10-04, **Generalizing Bayesian Optimization with Decision-theoretic Entropies**, Willie Neiswanger et.al., Paper: [http://arxiv.org/abs/2210.01383v1](http://arxiv.org/abs/2210.01383v1)
+- 2022-10-03, **Language Models Are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-Thought**, Abulhair Saparov et.al., Paper: [http://arxiv.org/abs/2210.01240v1](http://arxiv.org/abs/2210.01240v1)
+- 2022-10-03, **ContraGen: Effective Contrastive Learning For Causal Language Model**, Nihal Jain et.al., Paper: [http://arxiv.org/abs/2210.01185v1](http://arxiv.org/abs/2210.01185v1)
 - 2022-10-03, **Language-Aware Soft Prompting for Vision & Language Foundation Models**, Adrian Bulat et.al., Paper: [http://arxiv.org/abs/2210.01115v1](http://arxiv.org/abs/2210.01115v1)
 - 2022-10-04, **Decompiling x86 Deep Neural Network Executables**, Zhibo Liu et.al., Paper: [http://arxiv.org/abs/2210.01075v2](http://arxiv.org/abs/2210.01075v2)
 - 2022-10-03, **Mutual Information Learned Classifiers: an Information-theoretic Viewpoint of Training Deep Learning Classification Systems**, Jirong Yi et.al., Paper: [http://arxiv.org/abs/2210.01000v1](http://arxiv.org/abs/2210.01000v1)
@@ -200,7 +209,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20221005>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221006>back to top</a>)</p>
 
 ## adaptor
 
@@ -218,10 +227,14 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20221005>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221006>back to top</a>)</p>
 
 ## object detection
 
+- 2022-10-04, **Long-Term Localization using Semantic Cues in Floor Plan Maps**, Nicky Zimmerman et.al., Paper: [http://arxiv.org/abs/2210.01456v1](http://arxiv.org/abs/2210.01456v1)
+- 2022-10-04, **Streaming Video Analytics On The Edge With Asynchronous Cloud Support**, Anurag Ghosh et.al., Paper: [http://arxiv.org/abs/2210.01402v1](http://arxiv.org/abs/2210.01402v1)
+- 2022-10-04, **Bridged Transformer for Vision and Point Cloud 3D Object Detection**, Yikai Wang et.al., Paper: [http://arxiv.org/abs/2210.01391v1](http://arxiv.org/abs/2210.01391v1)
+- 2022-10-04, **Automated Medical Device Display Reading Using Deep Learning Object Detection**, Lucas P. Moreira et.al., Paper: [http://arxiv.org/abs/2210.01325v1](http://arxiv.org/abs/2210.01325v1)
 - 2022-10-03, **Expediting Large-Scale Vision Transformer for Dense Prediction without Fine-tuning**, Weicong Liang et.al., Paper: [http://arxiv.org/abs/2210.01035v1](http://arxiv.org/abs/2210.01035v1)
 - 2022-10-03, **DOTIE -- Detecting Objects through Temporal Isolation of Events using a Spiking Architecture**, Manish Nagaraj et.al., Paper: [http://arxiv.org/abs/2210.00975v1](http://arxiv.org/abs/2210.00975v1)
 - 2022-10-03, **A Multi Camera Unsupervised Domain Adaptation Pipeline for Object Detection in Cultural Sites through Adversarial Learning and Self-Training**, Giovanni Pasqualino et.al., Paper: [http://arxiv.org/abs/2210.00808v1](http://arxiv.org/abs/2210.00808v1), Code: **[https://github.com/fpv-iplab/STMDA-RetinaNet](https://github.com/fpv-iplab/STMDA-RetinaNet)**
@@ -317,7 +330,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20221005>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221006>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
