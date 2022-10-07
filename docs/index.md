@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2022.10.06
+## Updated on 2022.10.07
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-05**|**Granularity-aware Adaptation for Image Retrieval over Multiple Tasks**|Jon Almazán et.al.|[2210.02254v1](http://arxiv.org/abs/2210.02254v1)|null|
+|**2022-10-05**|**LDEdit: Towards Generalized Text Guided Image Manipulation via Latent Diffusion Models**|Paramanand Chandramouli et.al.|[2210.02249v1](http://arxiv.org/abs/2210.02249v1)|null|
+|**2022-10-05**|**Fine-Tuning with Differential Privacy Necessitates an Additional Hyperparameter Search**|Yannis Cattan et.al.|[2210.02156v1](http://arxiv.org/abs/2210.02156v1)|null|
+|**2022-10-06**|**When and why vision-language models behave like bags-of-words, and what to do about it?**|Mert Yuksekgonul et.al.|[2210.01936v2](http://arxiv.org/abs/2210.01936v2)|null|
+|**2022-10-04**|**MOAT: Alternating Mobile Convolution and Attention Brings Strong Vision Models**|Chenglin Yang et.al.|[2210.01820v1](http://arxiv.org/abs/2210.01820v1)|null|
 |**2022-10-04**|**ASIF: Coupled Data Turns Unimodal Models to Multimodal Without Training**|Antonio Norelli et.al.|[2210.01738v1](http://arxiv.org/abs/2210.01738v1)|null|
 |**2022-10-04**|**Improving Label-Deficient Keyword Spotting Using Self-Supervised Pretraining**|Holger Severin Bovbjerg et.al.|[2210.01703v1](http://arxiv.org/abs/2210.01703v1)|**[link](https://github.com/holgerbovbjerg/data2vec-kws)**|
 |**2022-10-04**|**VICRegL: Self-Supervised Learning of Local Visual Features**|Adrien Bardes et.al.|[2210.01571v1](http://arxiv.org/abs/2210.01571v1)|**[link](https://github.com/facebookresearch/vicregl)**|
@@ -122,12 +127,17 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221006>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221007>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-05**|**Variational prompt tuning improves generalization of vision-language models**|Mohammad Mahdi Derakhshani et.al.|[2210.02390v1](http://arxiv.org/abs/2210.02390v1)|null|
+|**2022-10-05**|**Exploring The Role of Mean Teachers in Self-supervised Masked Auto-Encoders**|Youngwan Lee et.al.|[2210.02077v1](http://arxiv.org/abs/2210.02077v1)|null|
+|**2022-10-05**|**On the Learning Mechanisms in Physical Reasoning**|Shiqian Li et.al.|[2210.02075v1](http://arxiv.org/abs/2210.02075v1)|null|
+|**2022-10-05**|**Multi-task Self-supervised Graph Neural Networks Enable Stronger Task Generalization**|Mingxuan Ju et.al.|[2210.02016v1](http://arxiv.org/abs/2210.02016v1)|null|
+|**2022-10-04**|**MOAT: Alternating Mobile Convolution and Attention Brings Strong Vision Models**|Chenglin Yang et.al.|[2210.01820v1](http://arxiv.org/abs/2210.01820v1)|null|
 |**2022-10-04**|**Generalizing Bayesian Optimization with Decision-theoretic Entropies**|Willie Neiswanger et.al.|[2210.01383v1](http://arxiv.org/abs/2210.01383v1)|null|
 |**2022-10-03**|**Language Models Are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-Thought**|Abulhair Saparov et.al.|[2210.01240v1](http://arxiv.org/abs/2210.01240v1)|null|
 |**2022-10-03**|**ContraGen: Effective Contrastive Learning For Causal Language Model**|Nihal Jain et.al.|[2210.01185v1](http://arxiv.org/abs/2210.01185v1)|null|
@@ -217,12 +227,13 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20221006>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221007>back to top</a>)</p>
 
 ## adaptor
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-05**|**Granularity-aware Adaptation for Image Retrieval over Multiple Tasks**|Jon Almazán et.al.|[2210.02254v1](http://arxiv.org/abs/2210.02254v1)|null|
 |**2022-09-28**|**DeViT: Deformed Vision Transformers in Video Inpainting**|Jiayin Cai et.al.|[2209.13925v1](http://arxiv.org/abs/2209.13925v1)|null|
 |**2022-09-22**|**Controllable Accented Text-to-Speech Synthesis**|Rui Liu et.al.|[2209.10804v1](http://arxiv.org/abs/2209.10804v1)|null|
 |**2022-09-15**|**OmniVL:One Foundation Model for Image-Language and Video-Language Tasks**|Junke Wang et.al.|[2209.07526v1](http://arxiv.org/abs/2209.07526v1)|null|
@@ -237,12 +248,20 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20221006>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221007>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-05**|**Time Will Tell: New Outlooks and A Baseline for Temporal Multi-View 3D Object Detection**|Jinhyung Park et.al.|[2210.02443v1](http://arxiv.org/abs/2210.02443v1)|null|
+|**2022-10-05**|**Spatio-Temporal Learnable Proposals for End-to-End Video Object Detection**|Khurram Azeem Hashmi et.al.|[2210.02368v1](http://arxiv.org/abs/2210.02368v1)|null|
+|**2022-10-05**|**Centralized Feature Pyramid for Object Detection**|Yu Quan et.al.|[2210.02093v1](http://arxiv.org/abs/2210.02093v1)|**[link](https://github.com/qy1994-0919/cfpnet)**|
+|**2022-10-05**|**WUDA: Unsupervised Domain Adaptation Based on Weak Source Domain Labels**|Shengjie Liu et.al.|[2210.02088v1](http://arxiv.org/abs/2210.02088v1)|null|
+|**2022-10-05**|**Exploring The Role of Mean Teachers in Self-supervised Masked Auto-Encoders**|Youngwan Lee et.al.|[2210.02077v1](http://arxiv.org/abs/2210.02077v1)|null|
+|**2022-10-05**|**Exploring Effective Knowledge Transfer for Few-shot Object Detection**|Zhiyuan Zhao et.al.|[2210.02021v1](http://arxiv.org/abs/2210.02021v1)|**[link](https://github.com/juliozhao97/efftrans_fsdet)**|
+|**2022-10-04**|**Centerpoints Are All You Need in Overhead Imagery**|James Mason Inder et.al.|[2210.01857v1](http://arxiv.org/abs/2210.01857v1)|null|
+|**2022-10-04**|**MOAT: Alternating Mobile Convolution and Attention Brings Strong Vision Models**|Chenglin Yang et.al.|[2210.01820v1](http://arxiv.org/abs/2210.01820v1)|null|
 |**2022-10-04**|**Long-Term Localization using Semantic Cues in Floor Plan Maps**|Nicky Zimmerman et.al.|[2210.01456v1](http://arxiv.org/abs/2210.01456v1)|null|
 |**2022-10-04**|**Streaming Video Analytics On The Edge With Asynchronous Cloud Support**|Anurag Ghosh et.al.|[2210.01402v1](http://arxiv.org/abs/2210.01402v1)|null|
 |**2022-10-04**|**Bridged Transformer for Vision and Point Cloud 3D Object Detection**|Yikai Wang et.al.|[2210.01391v1](http://arxiv.org/abs/2210.01391v1)|null|
@@ -342,7 +361,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20221006>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221007>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
