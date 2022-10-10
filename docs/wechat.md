@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2022.10.09
+> Updated on 2022.10.10
 
 <details>
   <summary>Table of Contents</summary>
@@ -21,7 +21,7 @@
 - 2022-10-06, **CLIP model is an Efficient Continual Learner**, Vishal Thengane et.al., Paper: [http://arxiv.org/abs/2210.03114v1](http://arxiv.org/abs/2210.03114v1), Code: **[https://github.com/vgthengane/continual-clip](https://github.com/vgthengane/continual-clip)**
 - 2022-10-06, **IR-MCL: Implicit Representation-Based Online Global Localization**, Haofei Kuang et.al., Paper: [http://arxiv.org/abs/2210.03113v1](http://arxiv.org/abs/2210.03113v1), Code: **[https://github.com/prbonn/ir-mcl](https://github.com/prbonn/ir-mcl)**
 - 2022-10-06, **VIMA: General Robot Manipulation with Multimodal Prompts**, Yunfan Jiang et.al., Paper: [http://arxiv.org/abs/2210.03094v1](http://arxiv.org/abs/2210.03094v1)
-- 2022-10-06, **SynBench: Task-Agnostic Benchmarking of Pretrained Representations using Synthetic Data**, Ching-Yun Ko et.al., Paper: [http://arxiv.org/abs/2210.02989v1](http://arxiv.org/abs/2210.02989v1)
+- 2022-10-07, **SynBench: Task-Agnostic Benchmarking of Pretrained Representations using Synthetic Data**, Ching-Yun Ko et.al., Paper: [http://arxiv.org/abs/2210.02989v2](http://arxiv.org/abs/2210.02989v2)
 - 2022-10-06, **The Lie Derivative for Measuring Learned Equivariance**, Nate Gruver et.al., Paper: [http://arxiv.org/abs/2210.02984v1](http://arxiv.org/abs/2210.02984v1), Code: **[https://github.com/ngruver/lie-deriv](https://github.com/ngruver/lie-deriv)**
 - 2022-10-06, **Improving the Sample Efficiency of Prompt Tuning with Domain Adaptation**, Xu Guo et.al., Paper: [http://arxiv.org/abs/2210.02952v1](http://arxiv.org/abs/2210.02952v1)
 - 2022-10-06, **VLSNR:Vision-Linguistics Coordination Time Sequence-aware News Recommendation**, Songhao Han et.al., Paper: [http://arxiv.org/abs/2210.02946v1](http://arxiv.org/abs/2210.02946v1), Code: **[https://github.com/Aaronhuang-778/V-MIND](https://github.com/Aaronhuang-778/V-MIND)**
@@ -131,12 +131,12 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20221009>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221010>back to top</a>)</p>
 
 ## downstream
 
 - 2022-10-06, **MaPLe: Multi-modal Prompt Learning**, Muhammad Uzair Khattak et.al., Paper: [http://arxiv.org/abs/2210.03117v1](http://arxiv.org/abs/2210.03117v1)
-- 2022-10-06, **SynBench: Task-Agnostic Benchmarking of Pretrained Representations using Synthetic Data**, Ching-Yun Ko et.al., Paper: [http://arxiv.org/abs/2210.02989v1](http://arxiv.org/abs/2210.02989v1)
+- 2022-10-07, **SynBench: Task-Agnostic Benchmarking of Pretrained Representations using Synthetic Data**, Ching-Yun Ko et.al., Paper: [http://arxiv.org/abs/2210.02989v2](http://arxiv.org/abs/2210.02989v2)
 - 2022-10-06, **Guess the Instruction! Making Language Models Stronger Zero-Shot Learners**, Seonghyeon Ye et.al., Paper: [http://arxiv.org/abs/2210.02969v1](http://arxiv.org/abs/2210.02969v1), Code: **[https://github.com/seonghyeonye/flipped-learning](https://github.com/seonghyeonye/flipped-learning)**
 - 2022-10-06, **Debiasing isn't enough! -- On the Effectiveness of Debiasing MLMs and their Social Biases in Downstream Tasks**, Masahiro Kaneko et.al., Paper: [http://arxiv.org/abs/2210.02938v1](http://arxiv.org/abs/2210.02938v1)
 - 2022-10-06, **Generative Entity Typing with Curriculum Learning**, Siyu Yuan et.al., Paper: [http://arxiv.org/abs/2210.02914v1](http://arxiv.org/abs/2210.02914v1), Code: **[https://github.com/siyuyuan/get](https://github.com/siyuyuan/get)**
@@ -238,7 +238,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20221009>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221010>back to top</a>)</p>
 
 ## adaptor
 
@@ -257,7 +257,7 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20221009>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221010>back to top</a>)</p>
 
 ## object detection
 
@@ -268,7 +268,7 @@
 - 2022-10-05, **Transferring dense object detection models to event-based data**, Vincenz Mechler et.al., Paper: [http://arxiv.org/abs/2210.02607v1](http://arxiv.org/abs/2210.02607v1)
 - 2022-10-05, **Applications of object detection networks at high-power laser systems and experiments**, Jinpu Lin et.al., Paper: [http://arxiv.org/abs/2210.02539v1](http://arxiv.org/abs/2210.02539v1)
 - 2022-10-05, **Time Will Tell: New Outlooks and A Baseline for Temporal Multi-View 3D Object Detection**, Jinhyung Park et.al., Paper: [http://arxiv.org/abs/2210.02443v1](http://arxiv.org/abs/2210.02443v1), Code: **[https://github.com/divadi/solofusion](https://github.com/divadi/solofusion)**
-- 2022-10-05, **Spatio-Temporal Learnable Proposals for End-to-End Video Object Detection**, Khurram Azeem Hashmi et.al., Paper: [http://arxiv.org/abs/2210.02368v1](http://arxiv.org/abs/2210.02368v1)
+- 2022-10-07, **Spatio-Temporal Learnable Proposals for End-to-End Video Object Detection**, Khurram Azeem Hashmi et.al., Paper: [http://arxiv.org/abs/2210.02368v2](http://arxiv.org/abs/2210.02368v2)
 - 2022-10-05, **Centralized Feature Pyramid for Object Detection**, Yu Quan et.al., Paper: [http://arxiv.org/abs/2210.02093v1](http://arxiv.org/abs/2210.02093v1), Code: **[https://github.com/qy1994-0919/cfpnet](https://github.com/qy1994-0919/cfpnet)**
 - 2022-10-05, **WUDA: Unsupervised Domain Adaptation Based on Weak Source Domain Labels**, Shengjie Liu et.al., Paper: [http://arxiv.org/abs/2210.02088v1](http://arxiv.org/abs/2210.02088v1)
 - 2022-10-05, **Exploring The Role of Mean Teachers in Self-supervised Masked Auto-Encoders**, Youngwan Lee et.al., Paper: [http://arxiv.org/abs/2210.02077v1](http://arxiv.org/abs/2210.02077v1)
@@ -374,7 +374,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20221009>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221010>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
