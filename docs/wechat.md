@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2022.10.11
+> Updated on 2022.10.12
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,16 @@
 
 ## pretrain
 
+- 2022-10-10, **Transformer-based Localization from Embodied Dialog with Large-scale Pre-training**, Meera Hahn et.al., Paper: [http://arxiv.org/abs/2210.04864v1](http://arxiv.org/abs/2210.04864v1)
+- 2022-10-11, **Knowledge Distillation Transfer Sets and their Impact on Downstream NLU Tasks**, Charith Peris et.al., Paper: [http://arxiv.org/abs/2210.04834v2](http://arxiv.org/abs/2210.04834v2)
+- 2022-10-10, **Robustification of Multilingual Language Models to Real-world Noise with Robust Contrastive Pretraining**, Asa Cooper Stickland et.al., Paper: [http://arxiv.org/abs/2210.04782v1](http://arxiv.org/abs/2210.04782v1)
+- 2022-10-10, **Exploiting map information for self-supervised learning in motion forecasting**, Caio Azevedo et.al., Paper: [http://arxiv.org/abs/2210.04672v1](http://arxiv.org/abs/2210.04672v1)
+- 2022-10-10, **Automatic Evaluation and Analysis of Idioms in Neural Machine Translation**, Christos Baziotis et.al., Paper: [http://arxiv.org/abs/2210.04545v1](http://arxiv.org/abs/2210.04545v1)
+- 2022-10-10, **HiCo: Hierarchical Contrastive Learning for Ultrasound Video Model Pretraining**, Chunhui Zhang et.al., Paper: [http://arxiv.org/abs/2210.04477v1](http://arxiv.org/abs/2210.04477v1), Code: **[https://github.com/983632847/hico](https://github.com/983632847/hico)**
+- 2022-10-10, **A Simple Baseline that Questions the Use of Pretrained-Models in Continual Learning**, Paul Janson et.al., Paper: [http://arxiv.org/abs/2210.04428v1](http://arxiv.org/abs/2210.04428v1), Code: **[https://github.com/pauljanson002/pretrained-cl](https://github.com/pauljanson002/pretrained-cl)**
+- 2022-10-10, **Parameter-Efficient Tuning with Special Token Adaptation**, Xiaoocong Yang et.al., Paper: [http://arxiv.org/abs/2210.04382v1](http://arxiv.org/abs/2210.04382v1), Code: **[https://github.com/luka-group/pasta](https://github.com/luka-group/pasta)**
+- 2022-10-11, **ASDOT: Any-Shot Data-to-Text Generation with Pretrained Language Models**, Jiannan Xiang et.al., Paper: [http://arxiv.org/abs/2210.04325v2](http://arxiv.org/abs/2210.04325v2), Code: **[https://github.com/szxiangjn/any-shot-data2text](https://github.com/szxiangjn/any-shot-data2text)**
+- 2022-10-09, **QAScore -- An Unsupervised Unreferenced Metric for the Question Generation Evaluation**, Tianbo Ji et.al., Paper: [http://arxiv.org/abs/2210.04320v1](http://arxiv.org/abs/2210.04320v1)
 - 2022-10-07, **Unsupervised Few-shot Learning via Deep Laplacian Eigenmaps**, Kuilin Chen et.al., Paper: [http://arxiv.org/abs/2210.03595v1](http://arxiv.org/abs/2210.03595v1)
 - 2022-10-07, **Mutual Learning of Single- and Multi-Channel End-to-End Neural Diarization**, Shota Horiguchi et.al., Paper: [http://arxiv.org/abs/2210.03459v1](http://arxiv.org/abs/2210.03459v1)
 - 2022-10-07, **Measuring and Narrowing the Compositionality Gap in Language Models**, Ofir Press et.al., Paper: [http://arxiv.org/abs/2210.03350v1](http://arxiv.org/abs/2210.03350v1), Code: **[https://github.com/ofirpress/self-ask](https://github.com/ofirpress/self-ask)**
@@ -140,10 +150,20 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20221011>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221012>back to top</a>)</p>
 
 ## downstream
 
+- 2022-10-11, **Knowledge Distillation Transfer Sets and their Impact on Downstream NLU Tasks**, Charith Peris et.al., Paper: [http://arxiv.org/abs/2210.04834v2](http://arxiv.org/abs/2210.04834v2)
+- 2022-10-11, **SelfMix: Robust Learning Against Textual Label Noise with Self-Mixup Training**, Dan Qiao et.al., Paper: [http://arxiv.org/abs/2210.04525v2](http://arxiv.org/abs/2210.04525v2), Code: **[https://github.com/noise-learning/selfmix](https://github.com/noise-learning/selfmix)**
+- 2022-10-10, **XPrompt: Exploring the Extreme of Prompt Tuning**, Fang Ma et.al., Paper: [http://arxiv.org/abs/2210.04457v1](http://arxiv.org/abs/2210.04457v1)
+- 2022-10-10, **Parameter-Efficient Tuning with Special Token Adaptation**, Xiaoocong Yang et.al., Paper: [http://arxiv.org/abs/2210.04382v1](http://arxiv.org/abs/2210.04382v1), Code: **[https://github.com/luka-group/pasta](https://github.com/luka-group/pasta)**
+- 2022-10-09, **Improve Transformer Pre-Training with Decoupled Directional Relative Position Encoding and Representation Differentiations**, Haojie Zhang et.al., Paper: [http://arxiv.org/abs/2210.04246v1](http://arxiv.org/abs/2210.04246v1)
+- 2022-10-09, **Non-intrusive Load Monitoring based on Self-supervised Learning**, Shuyi Chen et.al., Paper: [http://arxiv.org/abs/2210.04176v1](http://arxiv.org/abs/2210.04176v1)
+- 2022-10-09, **Self-supervised Video Representation Learning with Motion-Aware Masked Autoencoders**, Haosen Yang et.al., Paper: [http://arxiv.org/abs/2210.04154v1](http://arxiv.org/abs/2210.04154v1), Code: **[https://github.com/happy-hsy/motionmae](https://github.com/happy-hsy/motionmae)**
+- 2022-10-09, **VoLTA: Vision-Language Transformer with Weakly-Supervised Local-Feature Alignment**, Shraman Pramanick et.al., Paper: [http://arxiv.org/abs/2210.04135v1](http://arxiv.org/abs/2210.04135v1)
+- 2022-10-08, **KALM: Knowledge-Aware Integration of Local, Document, and Global Contexts for Long Document Understanding**, Shangbin Feng et.al., Paper: [http://arxiv.org/abs/2210.04105v1](http://arxiv.org/abs/2210.04105v1)
+- 2022-10-08, **Robustness of Unsupervised Representation Learning without Labels**, Aleksandar Petrov et.al., Paper: [http://arxiv.org/abs/2210.04076v1](http://arxiv.org/abs/2210.04076v1), Code: **[https://github.com/aleksandarpetrov/unsupervised-robustness](https://github.com/aleksandarpetrov/unsupervised-robustness)**
 - 2022-10-07, **UU-Tax at SemEval-2022 Task 3: Improving the generalizability of language models for taxonomy classification through data augmentation**, Injy Sarhan et.al., Paper: [http://arxiv.org/abs/2210.03378v1](http://arxiv.org/abs/2210.03378v1), Code: **[https://github.com/is5882/uu-tax](https://github.com/is5882/uu-tax)**
 - 2022-10-07, **Pre-trained Adversarial Perturbations**, Yuanhao Ban et.al., Paper: [http://arxiv.org/abs/2210.03372v1](http://arxiv.org/abs/2210.03372v1), Code: **[https://github.com/banyuanhao/pap](https://github.com/banyuanhao/pap)**
 - 2022-10-07, **The Lifecycle of "Facts": A Survey of Social Bias in Knowledge Graphs**, Angelie Kraft et.al., Paper: [http://arxiv.org/abs/2210.03353v1](http://arxiv.org/abs/2210.03353v1)
@@ -254,7 +274,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20221011>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221012>back to top</a>)</p>
 
 ## adaptor
 
@@ -273,10 +293,20 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20221011>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221012>back to top</a>)</p>
 
 ## object detection
 
+- 2022-10-10, **Deep object detection for waterbird monitoring using aerial imagery**, Krish Kabra et.al., Paper: [http://arxiv.org/abs/2210.04868v1](http://arxiv.org/abs/2210.04868v1), Code: **[https://github.com/riced2klab/audubon_f21](https://github.com/riced2klab/audubon_f21)**
+- 2022-10-10, **FS-DETR: Few-Shot DEtection TRansformer with prompting and without re-training**, Adrian Bulat et.al., Paper: [http://arxiv.org/abs/2210.04845v1](http://arxiv.org/abs/2210.04845v1)
+- 2022-10-10, **4D Unsupervised Object Discovery**, Yuqi Wang et.al., Paper: [http://arxiv.org/abs/2210.04801v1](http://arxiv.org/abs/2210.04801v1), Code: **[https://github.com/robertwyq/lsmol](https://github.com/robertwyq/lsmol)**
+- 2022-10-10, **Edge Device Deployment of Multi-Tasking Network for Self-Driving Operations**, Shokhrukh Miraliev et.al., Paper: [http://arxiv.org/abs/2210.04735v1](http://arxiv.org/abs/2210.04735v1)
+- 2022-10-10, **ARUBA: An Architecture-Agnostic Balanced Loss for Aerial Object Detection**, Rebbapragada V C Sairam et.al., Paper: [http://arxiv.org/abs/2210.04574v1](http://arxiv.org/abs/2210.04574v1)
+- 2022-10-10, **Using Detection, Tracking and Prediction in Visual SLAM to Achieve Real-time Semantic Mapping of Dynamic Scenarios**, Xingyu Chen et.al., Paper: [http://arxiv.org/abs/2210.04562v1](http://arxiv.org/abs/2210.04562v1)
+- 2022-10-09, **Students taught by multimodal teachers are superior action recognizers**, Gorjan Radevski et.al., Paper: [http://arxiv.org/abs/2210.04331v1](http://arxiv.org/abs/2210.04331v1)
+- 2022-10-09, **Does Thermal Really Always Matter for RGB-T Salient Object Detection?**, Runmin Cong et.al., Paper: [http://arxiv.org/abs/2210.04266v1](http://arxiv.org/abs/2210.04266v1)
+- 2022-10-09, **CAGroup3D: Class-Aware Grouping for 3D Object Detection on Point Clouds**, Haiyang Wang et.al., Paper: [http://arxiv.org/abs/2210.04264v1](http://arxiv.org/abs/2210.04264v1), Code: **[https://github.com/haiyang-w/cagroup3d](https://github.com/haiyang-w/cagroup3d)**
+- 2022-10-09, **Precise Single-stage Detector**, Aisha Chandio et.al., Paper: [http://arxiv.org/abs/2210.04252v1](http://arxiv.org/abs/2210.04252v1)
 - 2022-10-07, **Humans need not label more humans: Occlusion Copy & Paste for Occluded Human Instance Segmentation**, Evan Ling et.al., Paper: [http://arxiv.org/abs/2210.03686v1](http://arxiv.org/abs/2210.03686v1), Code: **[https://github.com/levan92/occlusion-copy-paste](https://github.com/levan92/occlusion-copy-paste)**
 - 2022-10-07, **An Investigation into Whitening Loss for Self-supervised Learning**, Xi Weng et.al., Paper: [http://arxiv.org/abs/2210.03586v1](http://arxiv.org/abs/2210.03586v1), Code: **[https://github.com/winci-ai/cw-rgp](https://github.com/winci-ai/cw-rgp)**
 - 2022-10-07, **AI-Driven Road Maintenance Inspection v2: Reducing Data Dependency & Quantifying Road Damage**, Haris Iqbal et.al., Paper: [http://arxiv.org/abs/2210.03570v1](http://arxiv.org/abs/2210.03570v1)
@@ -398,7 +428,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20221011>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221012>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
