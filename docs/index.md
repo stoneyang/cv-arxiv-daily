@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2022.10.13
+## Updated on 2022.10.14
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-12**|**Prompt Generation Networks for Efficient Adaptation of Frozen Vision Transformers**|Jochem Loedeman et.al.|[2210.06466v1](http://arxiv.org/abs/2210.06466v1)|**[link](https://github.com/jochemloedeman/pgn)**|
+|**2022-10-12**|**Can Pretrained Language Models (Yet) Reason Deductively?**|Zhangdie Yuan et.al.|[2210.06442v1](http://arxiv.org/abs/2210.06442v1)|null|
+|**2022-10-12**|**The Devil is in the Details: On Models and Training Regimes for Few-Shot Intent Classification**|Mohsen Mesgar et.al.|[2210.06440v1](http://arxiv.org/abs/2210.06440v1)|null|
+|**2022-10-12**|**Self-supervised video pretraining yields strong image representations**|Nikhil Parthasarathy et.al.|[2210.06433v1](http://arxiv.org/abs/2210.06433v1)|null|
+|**2022-10-12**|**Foundation Transformers**|Hongyu Wang et.al.|[2210.06423v1](http://arxiv.org/abs/2210.06423v1)|null|
+|**2022-10-12**|**Context Generation Improves Open Domain Question Answering**|Dan Su et.al.|[2210.06349v1](http://arxiv.org/abs/2210.06349v1)|null|
+|**2022-10-12**|**Self-Validated Physics-Embedding Network: A General Framework for Inverse Modelling**|Ruiyuan Kang et.al.|[2210.06071v1](http://arxiv.org/abs/2210.06071v1)|null|
+|**2022-10-12**|**Long-Form Video-Language Pre-Training with Multimodal Temporal Contrastive Learning**|Yuchong Sun et.al.|[2210.06031v1](http://arxiv.org/abs/2210.06031v1)|**[link](https://github.com/microsoft/xpretrain)**|
+|**2022-10-12**|**Distilling Knowledge from Language Models for Video-based Action Anticipation**|Sayontan Ghosh et.al.|[2210.05991v1](http://arxiv.org/abs/2210.05991v1)|null|
+|**2022-10-12**|**Leveraging Off-the-shelf Diffusion Model for Multi-attribute Fashion Image Manipulation**|Chaerin Kong et.al.|[2210.05872v1](http://arxiv.org/abs/2210.05872v1)|null|
 |**2022-10-11**|**Contrastive Training Improves Zero-Shot Classification of Semi-structured Documents**|Muhammad Khalifa et.al.|[2210.05613v1](http://arxiv.org/abs/2210.05613v1)|null|
 |**2022-10-11**|**MTet: Multi-domain Translation for English and Vietnamese**|Chinh Ngo et.al.|[2210.05610v1](http://arxiv.org/abs/2210.05610v1)|**[link](https://github.com/vietai/SAT)**|
 |**2022-10-11**|**Enriching Biomedical Knowledge for Low-resource Language Through Translation**|Long Phan et.al.|[2210.05598v1](http://arxiv.org/abs/2210.05598v1)|null|
@@ -166,12 +176,22 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221013>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221014>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-12**|**Prompt Generation Networks for Efficient Adaptation of Frozen Vision Transformers**|Jochem Loedeman et.al.|[2210.06466v1](http://arxiv.org/abs/2210.06466v1)|**[link](https://github.com/jochemloedeman/pgn)**|
+|**2022-10-12**|**What can we learn about a generated image corrupting its latent representation?**|Agnieszka Tomczak et.al.|[2210.06257v1](http://arxiv.org/abs/2210.06257v1)|null|
+|**2022-10-12**|**Quasi-symbolic explanatory NLI via disentanglement: A geometrical examination**|Yingji Zhang et.al.|[2210.06230v1](http://arxiv.org/abs/2210.06230v1)|null|
+|**2022-10-12**|**Pruning Pre-trained Language Models Without Fine-Tuning**|Ting Jiang et.al.|[2210.06210v1](http://arxiv.org/abs/2210.06210v1)|null|
+|**2022-10-12**|**ERNIE-Layout: Layout Knowledge Enhanced Pre-training for Visually-rich Document Understanding**|Qiming Peng et.al.|[2210.06155v1](http://arxiv.org/abs/2210.06155v1)|**[link](https://github.com/PaddlePaddle/PaddleNLP)**|
+|**2022-10-12**|**Using Massive Multilingual Pre-Trained Language Models Towards Real Zero-Shot Neural Machine Translation in Clinical Domain**|Lifeng Han et.al.|[2210.06068v1](http://arxiv.org/abs/2210.06068v1)|null|
+|**2022-10-12**|**ControlVAE: Model-Based Learning of Generative Controllers for Physics-Based Characters**|Heyuan Yao et.al.|[2210.06063v1](http://arxiv.org/abs/2210.06063v1)|null|
+|**2022-10-12**|**AD-DROP: Attribution-Driven Dropout for Robust Language Model Fine-Tuning**|Tao Yang et.al.|[2210.05883v1](http://arxiv.org/abs/2210.05883v1)|**[link](https://github.com/taoyang225/ad-drop)**|
+|**2022-10-12**|**SlotFormer: Unsupervised Visual Dynamics Simulation with Object-Centric Models**|Ziyi Wu et.al.|[2210.05861v1](http://arxiv.org/abs/2210.05861v1)|null|
+|**2022-10-11**|**Cross-Lingual Speaker Identification Using Distant Supervision**|Ben Zhou et.al.|[2210.05780v1](http://arxiv.org/abs/2210.05780v1)|**[link](https://github.com/slash0bz/speaker-identification)**|
 |**2022-10-11**|**A Kernel-Based View of Language Model Fine-Tuning**|Sadhika Malladi et.al.|[2210.05643v1](http://arxiv.org/abs/2210.05643v1)|**[link](https://github.com/princeton-nlp/lm-kernel-ft)**|
 |**2022-10-11**|**APSNet: Attention Based Point Cloud Sampling**|Yang Ye et.al.|[2210.05638v1](http://arxiv.org/abs/2210.05638v1)|**[link](https://github.com/yangyeeee/apsnet)**|
 |**2022-10-11**|**Robust and Controllable Object-Centric Learning through Energy-based Models**|Ruixiang Zhang et.al.|[2210.05519v1](http://arxiv.org/abs/2210.05519v1)|null|
@@ -302,7 +322,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20221013>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221014>back to top</a>)</p>
 
 ## adaptor
 
@@ -323,12 +343,22 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20221013>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221014>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-12**|**Token-Label Alignment for Vision Transformers**|Han Xiao et.al.|[2210.06455v1](http://arxiv.org/abs/2210.06455v1)|**[link](https://github.com/euphoria16/tl-align)**|
+|**2022-10-12**|**Self-supervised video pretraining yields strong image representations**|Nikhil Parthasarathy et.al.|[2210.06433v1](http://arxiv.org/abs/2210.06433v1)|null|
+|**2022-10-12**|**A Unified Framework with Meta-dropout for Few-shot Learning**|Shaobo Lin et.al.|[2210.06409v1](http://arxiv.org/abs/2210.06409v1)|null|
+|**2022-10-12**|**MFFN: Multi-view Feature Fusion Network for Camouflaged Object Detection**|Dehua Zheng et.al.|[2210.06361v1](http://arxiv.org/abs/2210.06361v1)|null|
+|**2022-10-12**|**Latency-aware Spatial-wise Dynamic Networks**|Yizeng Han et.al.|[2210.06223v1](http://arxiv.org/abs/2210.06223v1)|**[link](https://github.com/leaplabthu/lasnet)**|
+|**2022-10-12**|**Multi-Granularity Cross-modal Alignment for Generalized Medical Visual Representation Learning**|Fuying Wang et.al.|[2210.06044v1](http://arxiv.org/abs/2210.06044v1)|null|
+|**2022-10-12**|**BoxMask: Revisiting Bounding Box Supervision for Video Object Detection**|Khurram Azeem Hashmi et.al.|[2210.06008v1](http://arxiv.org/abs/2210.06008v1)|null|
+|**2022-10-12**|**PSNet: Parallel Symmetric Network for Video Salient Object Detection**|Runmin Cong et.al.|[2210.05912v1](http://arxiv.org/abs/2210.05912v1)|null|
+|**2022-10-12**|**Common Corruption Robustness of Point Cloud Detectors: Benchmark and Enhancement**|Shuangzhi Li et.al.|[2210.05896v1](http://arxiv.org/abs/2210.05896v1)|null|
+|**2022-10-11**|**Towards Discriminative and Transferable One-Stage Few-Shot Object Detectors**|Karim Guirguis et.al.|[2210.05783v1](http://arxiv.org/abs/2210.05783v1)|null|
 |**2022-10-11**|**Prototypical VoteNet for Few-Shot 3D Point Cloud Object Detection**|Shizhen Zhao et.al.|[2210.05593v1](http://arxiv.org/abs/2210.05593v1)|**[link](https://github.com/cvmi-lab/fs3d)**|
 |**2022-10-11**|**Improving Long-tailed Object Detection with Image-Level Supervision by Multi-Task Collaborative Learning**|Bo Li et.al.|[2210.05568v1](http://arxiv.org/abs/2210.05568v1)|**[link](https://github.com/waveboo/clis)**|
 |**2022-10-11**|**The Equalization Losses: Gradient-Driven Training for Long-tailed Object Recognition**|Jingru Tan et.al.|[2210.05566v1](http://arxiv.org/abs/2210.05566v1)|**[link](https://github.com/modeltc/united-perception)**|
@@ -470,7 +500,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20221013>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221014>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
