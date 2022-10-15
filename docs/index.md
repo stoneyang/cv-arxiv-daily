@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2022.10.14
+## Updated on 2022.10.15
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-13**|**Visual Reinforcement Learning with Self-Supervised 3D Representations**|Yanjie Ze et.al.|[2210.07241v1](http://arxiv.org/abs/2210.07241v1)|null|
+|**2022-10-13**|**HSurf-Net: Normal Estimation for 3D Point Clouds by Learning Hyper Surfaces**|Qing Li et.al.|[2210.07158v1](http://arxiv.org/abs/2210.07158v1)|null|
+|**2022-10-13**|**Fast Estimation of Bayesian State Space Models Using Amortized Simulation-Based Inference**|Ramis Khabibullin et.al.|[2210.07154v1](http://arxiv.org/abs/2210.07154v1)|null|
+|**2022-10-13**|**You Can Have Your Data and Balance It Too: Towards Balanced and Efficient Multilingual Models**|Tomasz Limisiewicz et.al.|[2210.07135v1](http://arxiv.org/abs/2210.07135v1)|null|
+|**2022-10-13**|**A Multi-dimensional Evaluation of Tokenizer-free Multilingual Pretrained Models**|Jimin Sun et.al.|[2210.07111v1](http://arxiv.org/abs/2210.07111v1)|null|
+|**2022-10-13**|**ImaginaryNet: Learning Object Detectors without Real Images and Annotations**|Minheng Ni et.al.|[2210.06886v1](http://arxiv.org/abs/2210.06886v1)|**[link](https://github.com/kodenii/imaginarynet)**|
+|**2022-10-13**|**Evaluating the Label Efficiency of Contrastive Self-Supervised Learning for Multi-Resolution Satellite Imagery**|Jules BOURCIER et.al.|[2210.06786v1](http://arxiv.org/abs/2210.06786v1)|null|
+|**2022-10-13**|**Assessing Out-of-Domain Language Model Performance from Few Examples**|Prasann Singhal et.al.|[2210.06725v1](http://arxiv.org/abs/2210.06725v1)|null|
+|**2022-10-13**|**Few-shot Relational Reasoning via Connection Subgraph Pretraining**|Qian Huang et.al.|[2210.06722v1](http://arxiv.org/abs/2210.06722v1)|**[link](https://github.com/snap-stanford/csr)**|
+|**2022-10-13**|**Equi-Tuning: Group Equivariant Fine-Tuning of Pretrained Models**|Sourya Basu et.al.|[2210.06475v1](http://arxiv.org/abs/2210.06475v1)|null|
 |**2022-10-12**|**Prompt Generation Networks for Efficient Adaptation of Frozen Vision Transformers**|Jochem Loedeman et.al.|[2210.06466v1](http://arxiv.org/abs/2210.06466v1)|**[link](https://github.com/jochemloedeman/pgn)**|
 |**2022-10-12**|**Can Pretrained Language Models (Yet) Reason Deductively?**|Zhangdie Yuan et.al.|[2210.06442v1](http://arxiv.org/abs/2210.06442v1)|null|
 |**2022-10-12**|**The Devil is in the Details: On Models and Training Regimes for Few-Shot Intent Classification**|Mohsen Mesgar et.al.|[2210.06440v1](http://arxiv.org/abs/2210.06440v1)|null|
@@ -176,12 +186,22 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221014>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221015>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-13**|**Self-Supervised Geometric Correspondence for Category-Level 6D Object Pose Estimation in the Wild**|Kaifeng Zhang et.al.|[2210.07199v1](http://arxiv.org/abs/2210.07199v1)|null|
+|**2022-10-13**|**On Compressing Sequences for Self-Supervised Speech Models**|Yen Meng et.al.|[2210.07189v1](http://arxiv.org/abs/2210.07189v1)|null|
+|**2022-10-13**|**On the Utility of Self-supervised Models for Prosody-related Tasks**|Guan-Ting Lin et.al.|[2210.07185v1](http://arxiv.org/abs/2210.07185v1)|**[link](https://github.com/jsalt-2022-ssl/superb-prosody)**|
+|**2022-10-13**|**Language Models of Code are Few-Shot Commonsense Learners**|Aman Madaan et.al.|[2210.07128v1](http://arxiv.org/abs/2210.07128v1)|**[link](https://github.com/madaan/cocogen)**|
+|**2022-10-13**|**Spontaneous Emerging Preference in Two-tower Language Model**|Zhengqi He et.al.|[2210.07041v1](http://arxiv.org/abs/2210.07041v1)|null|
+|**2022-10-13**|**An Experiment Design Paradigm using Joint Feature Selection and Task Optimization**|Stefano B. Blumberg et.al.|[2210.06891v1](http://arxiv.org/abs/2210.06891v1)|null|
+|**2022-10-13**|**An Empirical Study on Finding Spans**|Weiwei Gu et.al.|[2210.06824v1](http://arxiv.org/abs/2210.06824v1)|null|
+|**2022-10-13**|**A Mixture of Surprises for Unsupervised Reinforcement Learning**|Andrew Zhao et.al.|[2210.06702v1](http://arxiv.org/abs/2210.06702v1)|**[link](https://github.com/leaplabthu/moss)**|
+|**2022-10-13**|**Knowledge-grounded Dialog State Tracking**|Dian Yu et.al.|[2210.06656v1](http://arxiv.org/abs/2210.06656v1)|null|
+|**2022-10-13**|**Equi-Tuning: Group Equivariant Fine-Tuning of Pretrained Models**|Sourya Basu et.al.|[2210.06475v1](http://arxiv.org/abs/2210.06475v1)|null|
 |**2022-10-12**|**Prompt Generation Networks for Efficient Adaptation of Frozen Vision Transformers**|Jochem Loedeman et.al.|[2210.06466v1](http://arxiv.org/abs/2210.06466v1)|**[link](https://github.com/jochemloedeman/pgn)**|
 |**2022-10-12**|**What can we learn about a generated image corrupting its latent representation?**|Agnieszka Tomczak et.al.|[2210.06257v1](http://arxiv.org/abs/2210.06257v1)|null|
 |**2022-10-12**|**Quasi-symbolic explanatory NLI via disentanglement: A geometrical examination**|Yingji Zhang et.al.|[2210.06230v1](http://arxiv.org/abs/2210.06230v1)|null|
@@ -322,7 +342,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20221014>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221015>back to top</a>)</p>
 
 ## adaptor
 
@@ -343,12 +363,18 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20221014>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221015>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-13**|**Exploring Long-Sequence Masked Autoencoders**|Ronghang Hu et.al.|[2210.07224v1](http://arxiv.org/abs/2210.07224v1)|**[link](https://github.com/facebookresearch/long_seq_mae)**|
+|**2022-10-13**|**Dimensionality of datasets in object detection networks**|Ajay Chawda et.al.|[2210.07049v1](http://arxiv.org/abs/2210.07049v1)|null|
+|**2022-10-12**|**QDTrack: Quasi-Dense Similarity Learning for Appearance-Only Multiple Object Tracking**|Tobias Fischer et.al.|[2210.06984v1](http://arxiv.org/abs/2210.06984v1)|null|
+|**2022-10-13**|**ImaginaryNet: Learning Object Detectors without Real Images and Annotations**|Minheng Ni et.al.|[2210.06886v1](http://arxiv.org/abs/2210.06886v1)|**[link](https://github.com/kodenii/imaginarynet)**|
+|**2022-10-13**|**H2RBox: Horizonal Box Annotation is All You Need for Oriented Object Detection**|Xue Yang et.al.|[2210.06742v1](http://arxiv.org/abs/2210.06742v1)|**[link](https://github.com/yangxue0827/h2rbox-mmrotate)**|
+|**2022-10-13**|**Application-Driven AI Paradigm for Hand-Held Action Detection**|Kohou Wang et.al.|[2210.06682v1](http://arxiv.org/abs/2210.06682v1)|null|
 |**2022-10-12**|**Token-Label Alignment for Vision Transformers**|Han Xiao et.al.|[2210.06455v1](http://arxiv.org/abs/2210.06455v1)|**[link](https://github.com/euphoria16/tl-align)**|
 |**2022-10-12**|**Self-supervised video pretraining yields strong image representations**|Nikhil Parthasarathy et.al.|[2210.06433v1](http://arxiv.org/abs/2210.06433v1)|null|
 |**2022-10-12**|**A Unified Framework with Meta-dropout for Few-shot Learning**|Shaobo Lin et.al.|[2210.06409v1](http://arxiv.org/abs/2210.06409v1)|null|
@@ -500,7 +526,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20221014>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221015>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
