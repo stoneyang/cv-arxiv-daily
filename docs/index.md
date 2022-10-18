@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2022.10.17
+## Updated on 2022.10.18
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-14**|**Data-Limited Tissue Segmentation using Inpainting-Based Self-Supervised Learning**|Jeffrey Dominic et.al.|[2210.07936v1](http://arxiv.org/abs/2210.07936v1)|null|
+|**2022-10-14**|**Description and analysis of novelties introduced in DCASE Task 4 2022 on the baseline system**|Francesca Ronchini et.al.|[2210.07856v1](http://arxiv.org/abs/2210.07856v1)|null|
+|**2022-10-14**|**TransFusion: Transcribing Speech with Multinomial Diffusion**|Matthew Baas et.al.|[2210.07677v1](http://arxiv.org/abs/2210.07677v1)|**[link](https://github.com/rf5/transfusion-asr)**|
+|**2022-10-14**|**Pretrained Transformers Do not Always Improve Robustness**|Swaroop Mishra et.al.|[2210.07663v1](http://arxiv.org/abs/2210.07663v1)|null|
+|**2022-10-14**|**ConEntail: An Entailment-based Framework for Universal Zero and Few Shot Classification with Supervised Contrastive Pretraining**|Haoran Zhang et.al.|[2210.07587v1](http://arxiv.org/abs/2210.07587v1)|null|
+|**2022-10-14**|**MetaFill: Text Infilling for Meta-Path Generation on Heterogeneous Information Networks**|Zequn Liu et.al.|[2210.07488v1](http://arxiv.org/abs/2210.07488v1)|**[link](https://github.com/zequnl/metafill)**|
+|**2022-10-14**|**Holistic Sentence Embeddings for Better Out-of-Distribution Detection**|Sishuo Chen et.al.|[2210.07485v1](http://arxiv.org/abs/2210.07485v1)|**[link](https://github.com/lancopku/avg-avg)**|
+|**2022-10-14**|**Using Graph Algorithms to Pretrain Graph Completion Transformers**|Jonathan Pilault et.al.|[2210.07453v1](http://arxiv.org/abs/2210.07453v1)|null|
+|**2022-10-14**|**NOCaL: Calibration-Free Semi-Supervised Learning of Odometry and Camera Intrinsics**|Ryan Griffiths et.al.|[2210.07435v1](http://arxiv.org/abs/2210.07435v1)|null|
+|**2022-10-17**|**Skill-Based Reinforcement Learning with Intrinsic Reward Matching**|Ademi Adeniji et.al.|[2210.07426v2](http://arxiv.org/abs/2210.07426v2)|**[link](https://github.com/ademiadeniji/irm)**|
 |**2022-10-13**|**Visual Reinforcement Learning with Self-Supervised 3D Representations**|Yanjie Ze et.al.|[2210.07241v1](http://arxiv.org/abs/2210.07241v1)|null|
 |**2022-10-13**|**HSurf-Net: Normal Estimation for 3D Point Clouds by Learning Hyper Surfaces**|Qing Li et.al.|[2210.07158v1](http://arxiv.org/abs/2210.07158v1)|null|
 |**2022-10-13**|**Fast Estimation of Bayesian State Space Models Using Amortized Simulation-Based Inference**|Ramis Khabibullin et.al.|[2210.07154v1](http://arxiv.org/abs/2210.07154v1)|null|
@@ -186,12 +196,22 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221017>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221018>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-14**|**Improving generalizability of distilled self-supervised speech processing models under distorted settings**|Kuan-Po Huang et.al.|[2210.07978v1](http://arxiv.org/abs/2210.07978v1)|**[link](https://github.com/nobel861017/distort-robust-distilssl)**|
+|**2022-10-14**|**Unsupervised Dense Nuclei Detection and Segmentation with Prior Self-activation Map For Histology Images**|Pingyi Chen et.al.|[2210.07862v1](http://arxiv.org/abs/2210.07862v1)|**[link](https://github.com/cpystan/prior-self-activation-map)**|
+|**2022-10-14**|**EfficientVLM: Fast and Accurate Vision-Language Models via Knowledge Distillation and Modal-adaptive Pruning**|Tiannan Wang et.al.|[2210.07795v1](http://arxiv.org/abs/2210.07795v1)|null|
+|**2022-10-14**|**Not All Neighbors Are Worth Attending to: Graph Selective Attention Networks for Semi-supervised Learning**|Tiantian He et.al.|[2210.07715v1](http://arxiv.org/abs/2210.07715v1)|null|
+|**2022-10-14**|**Multi-Task Pre-Training of Modular Prompt for Few-Shot Learning**|Tianxiang Sun et.al.|[2210.07565v1](http://arxiv.org/abs/2210.07565v1)|null|
+|**2022-10-14**|**Watermarking Pre-trained Language Models with Backdooring**|Chenxi Gu et.al.|[2210.07543v1](http://arxiv.org/abs/2210.07543v1)|null|
+|**2022-10-17**|**Skill-Based Reinforcement Learning with Intrinsic Reward Matching**|Ademi Adeniji et.al.|[2210.07426v2](http://arxiv.org/abs/2210.07426v2)|**[link](https://github.com/ademiadeniji/irm)**|
+|**2022-10-13**|**Invariance-adapted decomposition and Lasso-type contrastive learning**|Masanori Koyama et.al.|[2210.07413v1](http://arxiv.org/abs/2210.07413v1)|null|
+|**2022-10-13**|**Disentanglement of Correlated Factors via Hausdorff Factorized Support**|Karsten Roth et.al.|[2210.07347v1](http://arxiv.org/abs/2210.07347v1)|null|
+|**2022-10-13**|**LEAVES: Learning Views for Time-Series Data in Contrastive Learning**|Han Yu et.al.|[2210.07340v1](http://arxiv.org/abs/2210.07340v1)|null|
 |**2022-10-13**|**Self-Supervised Geometric Correspondence for Category-Level 6D Object Pose Estimation in the Wild**|Kaifeng Zhang et.al.|[2210.07199v1](http://arxiv.org/abs/2210.07199v1)|null|
 |**2022-10-14**|**On Compressing Sequences for Self-Supervised Speech Models**|Yen Meng et.al.|[2210.07189v2](http://arxiv.org/abs/2210.07189v2)|null|
 |**2022-10-13**|**On the Utility of Self-supervised Models for Prosody-related Tasks**|Guan-Ting Lin et.al.|[2210.07185v1](http://arxiv.org/abs/2210.07185v1)|**[link](https://github.com/jsalt-2022-ssl/superb-prosody)**|
@@ -342,7 +362,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20221017>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221018>back to top</a>)</p>
 
 ## adaptor
 
@@ -363,12 +383,15 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20221017>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221018>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-14**|**MOVE: Unsupervised Movable Object Segmentation and Detection**|Adam Bielski et.al.|[2210.07920v1](http://arxiv.org/abs/2210.07920v1)|null|
+|**2022-10-17**|**SAILOR: Scaling Anchors via Insights into Latent Object Representation**|Dušan Malić et.al.|[2210.07811v2](http://arxiv.org/abs/2210.07811v2)|**[link](https://github.com/malicd/sailor)**|
+|**2022-10-13**|**SWFormer: Sparse Window Transformer for 3D Object Detection in Point Clouds**|Pei Sun et.al.|[2210.07372v1](http://arxiv.org/abs/2210.07372v1)|null|
 |**2022-10-13**|**Exploring Long-Sequence Masked Autoencoders**|Ronghang Hu et.al.|[2210.07224v1](http://arxiv.org/abs/2210.07224v1)|**[link](https://github.com/facebookresearch/long_seq_mae)**|
 |**2022-10-13**|**Dimensionality of datasets in object detection networks**|Ajay Chawda et.al.|[2210.07049v1](http://arxiv.org/abs/2210.07049v1)|null|
 |**2022-10-12**|**QDTrack: Quasi-Dense Similarity Learning for Appearance-Only Multiple Object Tracking**|Tobias Fischer et.al.|[2210.06984v1](http://arxiv.org/abs/2210.06984v1)|null|
@@ -526,7 +549,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20221017>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221018>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
