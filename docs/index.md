@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2022.10.20
+## Updated on 2022.10.21
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-19**|**On the Feasibility of Cross-Task Transfer with Model-Based Reinforcement Learning**|Yifan Xu et.al.|[2210.10763v1](http://arxiv.org/abs/2210.10763v1)|**[link](https://github.com/mlpc-ucsd/xtra)**|
+|**2022-10-19**|**Robustness of Demonstration-based Learning Under Limited Data Scenario**|Hongxin Zhang et.al.|[2210.10693v1](http://arxiv.org/abs/2210.10693v1)|**[link](https://github.com/salt-nlp/robustdemo)**|
+|**2022-10-19**|**Attaining Class-level Forgetting in Pretrained Model using Few Samples**|Pravendra Singh et.al.|[2210.10670v1](http://arxiv.org/abs/2210.10670v1)|null|
+|**2022-10-19**|**A Unified View of Masked Image Modeling**|Zhiliang Peng et.al.|[2210.10615v1](http://arxiv.org/abs/2210.10615v1)|null|
+|**2022-10-19**|**PoseGPT: Quantization-based 3D Human Motion Generation and Forecasting**|Thomas Lucas et.al.|[2210.10542v1](http://arxiv.org/abs/2210.10542v1)|**[link](https://github.com/naver/posegpt)**|
+|**2022-10-19**|**Improving Stability of Fine-Tuning Pretrained Language Models via Component-Wise Gradient Norm Clipping**|Chenghao Yang et.al.|[2210.10325v1](http://arxiv.org/abs/2210.10325v1)|**[link](https://github.com/yangalan123/finetuningstability)**|
+|**2022-10-19**|**Learning from the Dictionary: Heterogeneous Knowledge Guided Fine-tuning for Chinese Spell Checking**|Yinghui Li et.al.|[2210.10320v1](http://arxiv.org/abs/2210.10320v1)|**[link](https://github.com/geekjuruo/lead)**|
+|**2022-10-19**|**LAVA: Label-efficient Visual Learning and Adaptation**|Islam Nassar et.al.|[2210.10317v1](http://arxiv.org/abs/2210.10317v1)|null|
+|**2022-10-19**|**Continued Pretraining for Better Zero- and Few-Shot Promptability**|Zhaofeng Wu et.al.|[2210.10258v1](http://arxiv.org/abs/2210.10258v1)|null|
+|**2022-10-18**|**How to Boost Face Recognition with StyleGAN?**|Artem Sevastopolsky et.al.|[2210.10090v1](http://arxiv.org/abs/2210.10090v1)|**[link](https://github.com/seva100/stylegan-for-facerec)**|
 |**2022-10-19**|**Hidden State Variability of Pretrained Language Models Can Guide Computation Reduction for Transfer Learning**|Shuo Xie et.al.|[2210.10041v2](http://arxiv.org/abs/2210.10041v2)|null|
 |**2022-10-18**|**Personality-adapted multimodal dialogue system**|Tamotsu Miyama et.al.|[2210.09761v1](http://arxiv.org/abs/2210.09761v1)|null|
 |**2022-10-18**|**Tencent's Multilingual Machine Translation System for WMT22 Large-Scale African Languages**|Wenxiang Jiao et.al.|[2210.09644v1](http://arxiv.org/abs/2210.09644v1)|**[link](https://github.com/wxjiao/wmt2022-large-scale-african)**|
@@ -212,12 +222,22 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221020>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221021>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-19**|**CroCo: Self-Supervised Pre-training for 3D Vision Tasks by Cross-View Completion**|Philippe Weinzaepfel et.al.|[2210.10716v1](http://arxiv.org/abs/2210.10716v1)|null|
+|**2022-10-19**|**Irregularly-Sampled Time Series Modeling with Spline Networks**|Marin Biloš et.al.|[2210.10630v1](http://arxiv.org/abs/2210.10630v1)|null|
+|**2022-10-19**|**HAVANA: Hard negAtiVe sAmples aware self-supervised coNtrastive leArning for Airborne laser scanning point clouds semantic segmentation**|Yunsheng Zhang et.al.|[2210.10626v1](http://arxiv.org/abs/2210.10626v1)|null|
+|**2022-10-19**|**A Unified View of Masked Image Modeling**|Zhiliang Peng et.al.|[2210.10615v1](http://arxiv.org/abs/2210.10615v1)|null|
+|**2022-10-19**|**NGEP: A Graph-based Event Planning Framework for Story Generation**|Chen Tang et.al.|[2210.10602v1](http://arxiv.org/abs/2210.10602v1)|**[link](https://github.com/tangg555/ngep-eventplan)**|
+|**2022-10-19**|**DyTed: Disentangling Temporal Invariance and Fluctuations in Dynamic Graph Representation Learning**|Kaike Zhang et.al.|[2210.10592v1](http://arxiv.org/abs/2210.10592v1)|null|
+|**2022-10-19**|**Online LiDAR-Camera Extrinsic Parameters Self-checking**|Pengjin Wei et.al.|[2210.10537v1](http://arxiv.org/abs/2210.10537v1)|**[link](https://github.com/opencalib/lidar2camera_self-check)**|
+|**2022-10-19**|**Deep-based quality assessment of medical images through domain adaptation**|Marouane Tliba et.al.|[2210.10533v1](http://arxiv.org/abs/2210.10533v1)|null|
+|**2022-10-19**|**Cross-Modal Fusion Distillation for Fine-Grained Sketch-Based Image Retrieval**|Abhra Chaudhuri et.al.|[2210.10486v1](http://arxiv.org/abs/2210.10486v1)|null|
+|**2022-10-18**|**Rethinking Prototypical Contrastive Learning through Alignment, Uniformity and Correlation**|Shentong Mo et.al.|[2210.10194v1](http://arxiv.org/abs/2210.10194v1)|null|
 |**2022-10-18**|**ROSE: Robust Selective Fine-tuning for Pre-trained Language Models**|Lan Jiang et.al.|[2210.09658v1](http://arxiv.org/abs/2210.09658v1)|**[link](https://github.com/jiangllan/rose)**|
 |**2022-10-18**|**Improving Adversarial Robustness by Contrastive Guided Diffusion Process**|Yidong Ouyang et.al.|[2210.09643v1](http://arxiv.org/abs/2210.09643v1)|null|
 |**2022-10-18**|**Simple Emergent Action Representations from Multi-Task Policy Training**|Pu Hua et.al.|[2210.09566v1](http://arxiv.org/abs/2210.09566v1)|null|
@@ -396,7 +416,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20221020>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221021>back to top</a>)</p>
 
 ## adaptor
 
@@ -406,7 +426,7 @@ layout: default
 |**2022-10-05**|**Granularity-aware Adaptation for Image Retrieval over Multiple Tasks**|Jon Almazán et.al.|[2210.02254v1](http://arxiv.org/abs/2210.02254v1)|null|
 |**2022-09-28**|**DeViT: Deformed Vision Transformers in Video Inpainting**|Jiayin Cai et.al.|[2209.13925v1](http://arxiv.org/abs/2209.13925v1)|null|
 |**2022-09-22**|**Controllable Accented Text-to-Speech Synthesis**|Rui Liu et.al.|[2209.10804v1](http://arxiv.org/abs/2209.10804v1)|null|
-|**2022-09-15**|**OmniVL:One Foundation Model for Image-Language and Video-Language Tasks**|Junke Wang et.al.|[2209.07526v1](http://arxiv.org/abs/2209.07526v1)|null|
+|**2022-10-19**|**OmniVL:One Foundation Model for Image-Language and Video-Language Tasks**|Junke Wang et.al.|[2209.07526v2](http://arxiv.org/abs/2209.07526v2)|null|
 |**2022-09-16**|**Learning with Local Gradients at the Edge**|Michael Lomnitz et.al.|[2208.08503v2](http://arxiv.org/abs/2208.08503v2)|null|
 |**2022-08-15**|**MM-GNN: Mix-Moment Graph Neural Network towards Modeling Neighborhood Feature Distribution**|Wendong Bi et.al.|[2208.07012v1](http://arxiv.org/abs/2208.07012v1)|null|
 |**2022-06-18**|**Camera Adaptation for Fundus-Image-Based CVD Risk Estimation**|Zhihong Lin et.al.|[2206.09202v1](http://arxiv.org/abs/2206.09202v1)|**[link](https://github.com/linzhlalala/cvd-risk-based-on-retinal-fundus-images)**|
@@ -418,12 +438,21 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20221020>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221021>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-19**|**Learning to Discover and Detect Objects**|Vladimir Fomenko et.al.|[2210.10774v1](http://arxiv.org/abs/2210.10774v1)|**[link](https://github.com/vlfom/rncdl)**|
+|**2022-10-19**|**CroCo: Self-Supervised Pre-training for 3D Vision Tasks by Cross-View Completion**|Philippe Weinzaepfel et.al.|[2210.10716v1](http://arxiv.org/abs/2210.10716v1)|null|
+|**2022-10-19**|**Evaluation Metrics for Object Detection for Autonomous Systems**|Apurva Badithela et.al.|[2210.10298v1](http://arxiv.org/abs/2210.10298v1)|null|
+|**2022-10-19**|**Time and Cost-Efficient Bathymetric Mapping System using Sparse Point Cloud Generation and Automatic Object Detection**|Andres Pulido et.al.|[2210.10263v1](http://arxiv.org/abs/2210.10263v1)|null|
+|**2022-10-19**|**End-to-End Entity Detection with Proposer and Regressor**|Xueru Wen et.al.|[2210.10260v1](http://arxiv.org/abs/2210.10260v1)|**[link](https://github.com/Rosenberg37/EntityDetection)**|
+|**2022-10-19**|**Discovering Limitations of Image Quality Assessments with Noised Deep Learning Image Sets**|Wei Dai et.al.|[2210.10249v1](http://arxiv.org/abs/2210.10249v1)|null|
+|**2022-10-19**|**A Real-Time Wrong-Way Vehicle Detection Based on YOLO and Centroid Tracking**|Zillur Rahman et.al.|[2210.10226v1](http://arxiv.org/abs/2210.10226v1)|null|
+|**2022-10-19**|**Non-iterative optimization of pseudo-labeling thresholds for training object detection models from multiple datasets**|Yuki Tanaka et.al.|[2210.10221v1](http://arxiv.org/abs/2210.10221v1)|null|
+|**2022-10-18**|**Domain Adaptation in 3D Object Detection with Gradual Batch Alternation Training**|Mrigank Rochan et.al.|[2210.10180v1](http://arxiv.org/abs/2210.10180v1)|null|
 |**2022-10-18**|**A Tri-Layer Plugin to Improve Occluded Detection**|Guanqi Zhan et.al.|[2210.10046v1](http://arxiv.org/abs/2210.10046v1)|**[link](https://github.com/Championchess/Tri-Layer_Plugin_Occluded_Detection)**|
 |**2022-10-18**|**Real-Time Multi-Modal Semantic Fusion on Unmanned Aerial Vehicles with Label Propagation for Cross-Domain Adaptation**|Simon Bultmann et.al.|[2210.09739v1](http://arxiv.org/abs/2210.09739v1)|null|
 |**2022-10-18**|**Virtual Reality via Object Poses and Active Learning: Realizing Telepresence Robots with Aerial Manipulation Capabilities**|Jongseok Lee et.al.|[2210.09678v1](http://arxiv.org/abs/2210.09678v1)|null|
@@ -602,7 +631,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20221020>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221021>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
