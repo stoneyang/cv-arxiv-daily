@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2022.10.21
+## Updated on 2022.10.22
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-20**|**Counterfactual Recipe Generation: Exploring Compositional Generalization in a Realistic Scenario**|Xiao Liu et.al.|[2210.11431v1](http://arxiv.org/abs/2210.11431v1)|**[link](https://github.com/xxxiaol/counterfactual-recipe-generation)**|
+|**2022-10-20**|**Scaling Instruction-Finetuned Language Models**|Hyung Won Chung et.al.|[2210.11416v1](http://arxiv.org/abs/2210.11416v1)|**[link](https://github.com/google-research/t5x)**|
+|**2022-10-20**|**The University of Edinburgh's Submission to the WMT22 Code-Mixing Shared Task (MixMT)**|Faheem Kirefu et.al.|[2210.11309v1](http://arxiv.org/abs/2210.11309v1)|null|
+|**2022-10-20**|**YOWO-Plus: An Incremental Improvement**|Jianhua Yang et.al.|[2210.11219v1](http://arxiv.org/abs/2210.11219v1)|**[link](https://github.com/yjh0410/pytorch_yowo)**|
+|**2022-10-20**|**MovieCLIP: Visual Scene Recognition in Movies**|Digbalay Bose et.al.|[2210.11065v1](http://arxiv.org/abs/2210.11065v1)|null|
+|**2022-10-20**|**Representation Learning with Diffusion Models**|Jeremias Traub et.al.|[2210.11058v1](http://arxiv.org/abs/2210.11058v1)|null|
+|**2022-10-20**|**A survey on Self Supervised learning approaches for improving Multimodal representation learning**|Naman Goyal et.al.|[2210.11024v1](http://arxiv.org/abs/2210.11024v1)|null|
+|**2022-10-20**|**Towards Sustainable Self-supervised Learning**|Shanghua Gao et.al.|[2210.11016v1](http://arxiv.org/abs/2210.11016v1)|null|
+|**2022-10-20**|**SimpleClick: Interactive Image Segmentation with Simple Vision Transformers**|Qin Liu et.al.|[2210.11006v1](http://arxiv.org/abs/2210.11006v1)|**[link](https://github.com/uncbiag/simpleclick)**|
+|**2022-10-20**|**Diffusion Models already have a Semantic Latent Space**|Mingi Kwon et.al.|[2210.10960v1](http://arxiv.org/abs/2210.10960v1)|null|
 |**2022-10-19**|**On the Feasibility of Cross-Task Transfer with Model-Based Reinforcement Learning**|Yifan Xu et.al.|[2210.10763v1](http://arxiv.org/abs/2210.10763v1)|**[link](https://github.com/mlpc-ucsd/xtra)**|
 |**2022-10-19**|**Robustness of Demonstration-based Learning Under Limited Data Scenario**|Hongxin Zhang et.al.|[2210.10693v1](http://arxiv.org/abs/2210.10693v1)|**[link](https://github.com/salt-nlp/robustdemo)**|
 |**2022-10-19**|**Attaining Class-level Forgetting in Pretrained Model using Few Samples**|Pravendra Singh et.al.|[2210.10670v1](http://arxiv.org/abs/2210.10670v1)|null|
@@ -218,12 +228,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221021>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221022>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-20**|**i-MAE: Are Latent Representations in Masked Autoencoders Linearly Separable?**|Kevin Zhang et.al.|[2210.11470v1](http://arxiv.org/abs/2210.11470v1)|**[link](https://github.com/vision-learning-acceleration-lab/i-mae)**|
+|**2022-10-20**|**Self-Supervised Learning via Maximum Entropy Coding**|Xin Liu et.al.|[2210.11464v1](http://arxiv.org/abs/2210.11464v1)|**[link](https://github.com/xinliu20/mec)**|
+|**2022-10-20**|**MixMask: Revisiting Masked Siamese Self-supervised Learning in Asymmetric Distance**|Kirill Vishniakov et.al.|[2210.11456v1](http://arxiv.org/abs/2210.11456v1)|**[link](https://github.com/lightnessofbeing/mixmask)**|
+|**2022-10-20**|**Late Prompt Tuning: A Late Prompt Could Be Better Than Many Prompts**|Xiangyang Liu et.al.|[2210.11292v1](http://arxiv.org/abs/2210.11292v1)|null|
+|**2022-10-20**|**Multi-hypothesis 3D human pose estimation metrics favor miscalibrated distributions**|Paweł A. Pierzchlewicz et.al.|[2210.11179v1](http://arxiv.org/abs/2210.11179v1)|**[link](https://github.com/sinzlab/cgnf)**|
+|**2022-10-20**|**Apple of Sodom: Hidden Backdoors in Superior Sentence Embeddings via Contrastive Learning**|Xiaoyi Chen et.al.|[2210.11082v1](http://arxiv.org/abs/2210.11082v1)|null|
+|**2022-10-20**|**MovieCLIP: Visual Scene Recognition in Movies**|Digbalay Bose et.al.|[2210.11065v1](http://arxiv.org/abs/2210.11065v1)|null|
+|**2022-10-20**|**Towards Sustainable Self-supervised Learning**|Shanghua Gao et.al.|[2210.11016v1](http://arxiv.org/abs/2210.11016v1)|null|
+|**2022-10-20**|**SimpleClick: Interactive Image Segmentation with Simple Vision Transformers**|Qin Liu et.al.|[2210.11006v1](http://arxiv.org/abs/2210.11006v1)|**[link](https://github.com/uncbiag/simpleclick)**|
+|**2022-10-20**|**Automatic Document Selection for Efficient Encoder Pretraining**|Yukun Feng et.al.|[2210.10951v1](http://arxiv.org/abs/2210.10951v1)|null|
 |**2022-10-19**|**CroCo: Self-Supervised Pre-training for 3D Vision Tasks by Cross-View Completion**|Philippe Weinzaepfel et.al.|[2210.10716v1](http://arxiv.org/abs/2210.10716v1)|null|
 |**2022-10-19**|**Irregularly-Sampled Time Series Modeling with Spline Networks**|Marin Biloš et.al.|[2210.10630v1](http://arxiv.org/abs/2210.10630v1)|null|
 |**2022-10-19**|**HAVANA: Hard negAtiVe sAmples aware self-supervised coNtrastive leArning for Airborne laser scanning point clouds semantic segmentation**|Yunsheng Zhang et.al.|[2210.10626v1](http://arxiv.org/abs/2210.10626v1)|null|
@@ -412,7 +432,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20221021>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221022>back to top</a>)</p>
 
 ## adaptor
 
@@ -434,12 +454,20 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20221021>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221022>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-20**|**Self-Supervised Learning via Maximum Entropy Coding**|Xin Liu et.al.|[2210.11464v1](http://arxiv.org/abs/2210.11464v1)|**[link](https://github.com/xinliu20/mec)**|
+|**2022-10-20**|**MixMask: Revisiting Masked Siamese Self-supervised Learning in Asymmetric Distance**|Kirill Vishniakov et.al.|[2210.11456v1](http://arxiv.org/abs/2210.11456v1)|**[link](https://github.com/lightnessofbeing/mixmask)**|
+|**2022-10-20**|**Mathematical Justification of Hard Negative Mining via Isometric Approximation Theorem**|Albert Xu et.al.|[2210.11173v1](http://arxiv.org/abs/2210.11173v1)|null|
+|**2022-10-20**|**Large-batch Optimization for Dense Visual Predictions**|Zeyue Xue et.al.|[2210.11078v1](http://arxiv.org/abs/2210.11078v1)|**[link](https://github.com/sense-x/agvm)**|
+|**2022-10-20**|**Semi-supervised object detection based on single-stage detector for thighbone fracture localization**|Jinman Wei et.al.|[2210.10998v1](http://arxiv.org/abs/2210.10998v1)|null|
+|**2022-10-20**|**PSA-Det3D: Pillar Set Abstraction for 3D object Detection**|Zhicong Huang et.al.|[2210.10983v1](http://arxiv.org/abs/2210.10983v1)|null|
+|**2022-10-20**|**Uni6Dv3: 5D Anchor Mechanism for 6D Pose Estimation**|Jianqiu Chen et.al.|[2210.10959v1](http://arxiv.org/abs/2210.10959v1)|null|
+|**2022-10-19**|**MMRNet: Improving Reliability for Multimodal Computer Vision for Bin Picking via Multimodal Redundancy**|Yuhao Chen et.al.|[2210.10842v1](http://arxiv.org/abs/2210.10842v1)|null|
 |**2022-10-19**|**Learning to Discover and Detect Objects**|Vladimir Fomenko et.al.|[2210.10774v1](http://arxiv.org/abs/2210.10774v1)|**[link](https://github.com/vlfom/rncdl)**|
 |**2022-10-19**|**CroCo: Self-Supervised Pre-training for 3D Vision Tasks by Cross-View Completion**|Philippe Weinzaepfel et.al.|[2210.10716v1](http://arxiv.org/abs/2210.10716v1)|null|
 |**2022-10-19**|**Evaluation Metrics for Object Detection for Autonomous Systems**|Apurva Badithela et.al.|[2210.10298v1](http://arxiv.org/abs/2210.10298v1)|null|
@@ -627,7 +655,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20221021>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221022>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
