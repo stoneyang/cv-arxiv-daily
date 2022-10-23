@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2022.10.22
+> Updated on 2022.10.23
 
 <details>
   <summary>Table of Contents</summary>
@@ -22,7 +22,7 @@
 - 2022-10-20, **The University of Edinburgh's Submission to the WMT22 Code-Mixing Shared Task (MixMT)**, Faheem Kirefu et.al., Paper: [http://arxiv.org/abs/2210.11309v1](http://arxiv.org/abs/2210.11309v1)
 - 2022-10-20, **YOWO-Plus: An Incremental Improvement**, Jianhua Yang et.al., Paper: [http://arxiv.org/abs/2210.11219v1](http://arxiv.org/abs/2210.11219v1), Code: **[https://github.com/yjh0410/pytorch_yowo](https://github.com/yjh0410/pytorch_yowo)**
 - 2022-10-20, **MovieCLIP: Visual Scene Recognition in Movies**, Digbalay Bose et.al., Paper: [http://arxiv.org/abs/2210.11065v1](http://arxiv.org/abs/2210.11065v1)
-- 2022-10-20, **Representation Learning with Diffusion Models**, Jeremias Traub et.al., Paper: [http://arxiv.org/abs/2210.11058v1](http://arxiv.org/abs/2210.11058v1)
+- 2022-10-20, **Representation Learning with Diffusion Models**, Jeremias Traub et.al., Paper: [http://arxiv.org/abs/2210.11058v1](http://arxiv.org/abs/2210.11058v1), Code: **[https://github.com/jeremiastraub/diffusion](https://github.com/jeremiastraub/diffusion)**
 - 2022-10-20, **A survey on Self Supervised learning approaches for improving Multimodal representation learning**, Naman Goyal et.al., Paper: [http://arxiv.org/abs/2210.11024v1](http://arxiv.org/abs/2210.11024v1)
 - 2022-10-20, **Towards Sustainable Self-supervised Learning**, Shanghua Gao et.al., Paper: [http://arxiv.org/abs/2210.11016v1](http://arxiv.org/abs/2210.11016v1)
 - 2022-10-20, **SimpleClick: Interactive Image Segmentation with Simple Vision Transformers**, Qin Liu et.al., Paper: [http://arxiv.org/abs/2210.11006v1](http://arxiv.org/abs/2210.11006v1), Code: **[https://github.com/uncbiag/simpleclick](https://github.com/uncbiag/simpleclick)**
@@ -226,13 +226,13 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20221022>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221023>back to top</a>)</p>
 
 ## downstream
 
 - 2022-10-20, **i-MAE: Are Latent Representations in Masked Autoencoders Linearly Separable?**, Kevin Zhang et.al., Paper: [http://arxiv.org/abs/2210.11470v1](http://arxiv.org/abs/2210.11470v1), Code: **[https://github.com/vision-learning-acceleration-lab/i-mae](https://github.com/vision-learning-acceleration-lab/i-mae)**
 - 2022-10-20, **Self-Supervised Learning via Maximum Entropy Coding**, Xin Liu et.al., Paper: [http://arxiv.org/abs/2210.11464v1](http://arxiv.org/abs/2210.11464v1), Code: **[https://github.com/xinliu20/mec](https://github.com/xinliu20/mec)**
-- 2022-10-20, **MixMask: Revisiting Masked Siamese Self-supervised Learning in Asymmetric Distance**, Kirill Vishniakov et.al., Paper: [http://arxiv.org/abs/2210.11456v1](http://arxiv.org/abs/2210.11456v1), Code: **[https://github.com/lightnessofbeing/mixmask](https://github.com/lightnessofbeing/mixmask)**
+- 2022-10-20, **MixMask: Revisiting Masked Siamese Self-supervised Learning in Asymmetric Distance**, Kirill Vishniakov et.al., Paper: [http://arxiv.org/abs/2210.11456v1](http://arxiv.org/abs/2210.11456v1)
 - 2022-10-20, **Late Prompt Tuning: A Late Prompt Could Be Better Than Many Prompts**, Xiangyang Liu et.al., Paper: [http://arxiv.org/abs/2210.11292v1](http://arxiv.org/abs/2210.11292v1)
 - 2022-10-20, **Multi-hypothesis 3D human pose estimation metrics favor miscalibrated distributions**, Paweł A. Pierzchlewicz et.al., Paper: [http://arxiv.org/abs/2210.11179v1](http://arxiv.org/abs/2210.11179v1), Code: **[https://github.com/sinzlab/cgnf](https://github.com/sinzlab/cgnf)**
 - 2022-10-20, **Apple of Sodom: Hidden Backdoors in Superior Sentence Embeddings via Contrastive Learning**, Xiaoyi Chen et.al., Paper: [http://arxiv.org/abs/2210.11082v1](http://arxiv.org/abs/2210.11082v1)
@@ -428,7 +428,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20221022>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221023>back to top</a>)</p>
 
 ## adaptor
 
@@ -448,12 +448,12 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20221022>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221023>back to top</a>)</p>
 
 ## object detection
 
 - 2022-10-20, **Self-Supervised Learning via Maximum Entropy Coding**, Xin Liu et.al., Paper: [http://arxiv.org/abs/2210.11464v1](http://arxiv.org/abs/2210.11464v1), Code: **[https://github.com/xinliu20/mec](https://github.com/xinliu20/mec)**
-- 2022-10-20, **MixMask: Revisiting Masked Siamese Self-supervised Learning in Asymmetric Distance**, Kirill Vishniakov et.al., Paper: [http://arxiv.org/abs/2210.11456v1](http://arxiv.org/abs/2210.11456v1), Code: **[https://github.com/lightnessofbeing/mixmask](https://github.com/lightnessofbeing/mixmask)**
+- 2022-10-20, **MixMask: Revisiting Masked Siamese Self-supervised Learning in Asymmetric Distance**, Kirill Vishniakov et.al., Paper: [http://arxiv.org/abs/2210.11456v1](http://arxiv.org/abs/2210.11456v1)
 - 2022-10-20, **Mathematical Justification of Hard Negative Mining via Isometric Approximation Theorem**, Albert Xu et.al., Paper: [http://arxiv.org/abs/2210.11173v1](http://arxiv.org/abs/2210.11173v1)
 - 2022-10-20, **Large-batch Optimization for Dense Visual Predictions**, Zeyue Xue et.al., Paper: [http://arxiv.org/abs/2210.11078v1](http://arxiv.org/abs/2210.11078v1), Code: **[https://github.com/sense-x/agvm](https://github.com/sense-x/agvm)**
 - 2022-10-20, **Semi-supervised object detection based on single-stage detector for thighbone fracture localization**, Jinman Wei et.al., Paper: [http://arxiv.org/abs/2210.10998v1](http://arxiv.org/abs/2210.10998v1)
@@ -647,7 +647,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20221022>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221023>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
