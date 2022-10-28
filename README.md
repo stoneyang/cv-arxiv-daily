@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2022.10.27
+## Updated on 2022.10.28
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-26**|**Don't Prompt, Search! Mining-based Zero-Shot Learning with Language Models**|Mozes van de Kar et.al.|[2210.14803v1](http://arxiv.org/abs/2210.14803v1)|null|
+|**2022-10-26**|**Pretrained audio neural networks for Speech emotion recognition in Portuguese**|Marcelo Matheus Gauy et.al.|[2210.14716v1](http://arxiv.org/abs/2210.14716v1)|**[link](https://github.com/marcelomatheusgauy/pretrained_audio_neural_networks_emotion_recognition)**|
+|**2022-10-26**|**Autoregressive Structured Prediction with Language Models**|Tianyu Liu et.al.|[2210.14698v1](http://arxiv.org/abs/2210.14698v1)|**[link](https://github.com/lyutyuh/asp)**|
+|**2022-10-26**|**Investigating the Role of Centering Theory in the Context of Neural Coreference Resolution Systems**|Yuchen Eleanor Jiang et.al.|[2210.14678v1](http://arxiv.org/abs/2210.14678v1)|null|
+|**2022-10-26**|**Fast Yet Effective Speech Emotion Recognition with Self-distillation**|Zhao Ren et.al.|[2210.14636v1](http://arxiv.org/abs/2210.14636v1)|null|
+|**2022-10-26**|**Improving Speech-to-Speech Translation Through Unlabeled Text**|Xuan-Phi Nguyen et.al.|[2210.14514v1](http://arxiv.org/abs/2210.14514v1)|null|
+|**2022-10-26**|**AVES: Animal Vocalization Encoder based on Self-Supervision**|Masato Hagiwara et.al.|[2210.14493v1](http://arxiv.org/abs/2210.14493v1)|**[link](https://github.com/earthspecies/aves)**|
+|**2022-10-26**|**Leveraging Affirmative Interpretations from Negation Improves Natural Language Understanding**|Md Mosharaf Hossain et.al.|[2210.14486v1](http://arxiv.org/abs/2210.14486v1)|**[link](https://github.com/mosharafhossain/large-afin-and-nlu)**|
+|**2022-10-26**|**Benchmarking Language Models for Code Syntax Understanding**|Da Shen et.al.|[2210.14473v1](http://arxiv.org/abs/2210.14473v1)|**[link](https://github.com/dashends/codesyntax)**|
+|**2022-10-26**|**Bi-Link: Bridging Inductive Link Predictions from Text via Contrastive Learning of Transformers and Prompts**|Bohua Peng et.al.|[2210.14463v1](http://arxiv.org/abs/2210.14463v1)|null|
 |**2022-10-25**|**MOFormer: Self-Supervised Transformer model for Metal-Organic Framework Property Prediction**|Zhonglin Cao et.al.|[2210.14188v1](http://arxiv.org/abs/2210.14188v1)|null|
 |**2022-10-25**|**Audio MFCC-gram Transformers for respiratory insufficiency detection in COVID-19**|Marcelo Matheus Gauy et.al.|[2210.14085v1](http://arxiv.org/abs/2210.14085v1)|**[link](https://github.com/marcelomatheusgauy/audio_mfcc_gram_transformers)**|
 |**2022-10-25**|**Adapitch: Adaption Multi-Speaker Text-to-Speech Conditioned on Pitch Disentangling with Untranscribed Data**|Xulong Zhang et.al.|[2210.13803v1](http://arxiv.org/abs/2210.13803v1)|null|
@@ -254,12 +264,20 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221027>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221028>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-26**|**Broken Neural Scaling Laws**|Ethan Caballero et.al.|[2210.14891v1](http://arxiv.org/abs/2210.14891v1)|null|
+|**2022-10-26**|**Don't Prompt, Search! Mining-based Zero-Shot Learning with Language Models**|Mozes van de Kar et.al.|[2210.14803v1](http://arxiv.org/abs/2210.14803v1)|null|
+|**2022-10-26**|**Bloom Library: Multimodal Datasets in 300+ Languages for a Variety of Downstream Tasks**|Colin Leong et.al.|[2210.14712v1](http://arxiv.org/abs/2210.14712v1)|null|
+|**2022-10-26**|**Analyzing Multi-Task Learning for Abstractive Text Summarization**|Frederic Kirstein et.al.|[2210.14606v1](http://arxiv.org/abs/2210.14606v1)|null|
+|**2022-10-26**|**FairCLIP: Social Bias Elimination based on Attribute Prototype Learning and Representation Neutralization**|Junyang Wang et.al.|[2210.14562v1](http://arxiv.org/abs/2210.14562v1)|null|
+|**2022-10-26**|**AVES: Animal Vocalization Encoder based on Self-Supervision**|Masato Hagiwara et.al.|[2210.14493v1](http://arxiv.org/abs/2210.14493v1)|**[link](https://github.com/earthspecies/aves)**|
+|**2022-10-27**|**Smart Speech Segmentation using Acousto-Linguistic Features with look-ahead**|Piyush Behre et.al.|[2210.14446v2](http://arxiv.org/abs/2210.14446v2)|null|
+|**2022-10-25**|**A single-cell gene expression language model**|William Connell et.al.|[2210.14330v1](http://arxiv.org/abs/2210.14330v1)|**[link](https://github.com/keiserlab/exceiver)**|
 |**2022-10-25**|**Same Pre-training Loss, Better Downstream: Implicit Bias Matters for Language Models**|Hong Liu et.al.|[2210.14199v1](http://arxiv.org/abs/2210.14199v1)|null|
 |**2022-10-25**|**Improving Speech Representation Learning via Speech-level and Phoneme-level Masking Approach**|Xulong Zhang et.al.|[2210.13805v1](http://arxiv.org/abs/2210.13805v1)|null|
 |**2022-10-25**|**MAROAM: Map-based Radar SLAM through Two-step Feature Selection**|Dequan Wang et.al.|[2210.13797v1](http://arxiv.org/abs/2210.13797v1)|null|
@@ -480,7 +498,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20221027>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221028>back to top</a>)</p>
 
 ## adaptor
 
@@ -502,12 +520,14 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20221027>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221028>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-26**|**Can Transformer Attention Spread Give Insights Into Uncertainty of Detected and Tracked Objects?**|Felicia Ruppel et.al.|[2210.14391v1](http://arxiv.org/abs/2210.14391v1)|null|
+|**2022-10-25**|**Object recognition in atmospheric turbulence scenes**|Disen Hu et.al.|[2210.14318v1](http://arxiv.org/abs/2210.14318v1)|**[link](https://github.com/disen-hu/fasterrcnn_fpn_dcn)**|
 |**2022-10-25**|**A Comparative Attention Framework for Better Few-Shot Object Detection on Aerial Images**|Pierre Le Jeune et.al.|[2210.13923v1](http://arxiv.org/abs/2210.13923v1)|null|
 |**2022-10-25**|**Synthetic Data Supervised Salient Object Detection**|Zhenyu Wu et.al.|[2210.13835v1](http://arxiv.org/abs/2210.13835v1)|**[link](https://github.com/wuzhenyubuaa/sodgan)**|
 |**2022-10-25**|**Salient Object Detection via Dynamic Scale Routing**|Zhenyu Wu et.al.|[2210.13821v1](http://arxiv.org/abs/2210.13821v1)|**[link](https://github.com/wuzhenyubuaa/dpnet)**|
@@ -720,7 +740,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20221027>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221028>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
