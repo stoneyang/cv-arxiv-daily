@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2022.10.31
+## Updated on 2022.11.01
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-28**|**LOFT: Finding Lottery Tickets through Filter-wise Training**|Qihan Wang et.al.|[2210.16169v1](http://arxiv.org/abs/2210.16169v1)|null|
+|**2022-10-28**|**Goal Exploration Augmentation via Pre-trained Skills for Sparse-Reward Long-Horizon Goal-Conditioned Reinforcement Learning**|Lisheng Wu et.al.|[2210.16058v1](http://arxiv.org/abs/2210.16058v1)|**[link](https://github.com/geaps/geaps)**|
+|**2022-10-28**|**Towards zero-shot Text-based voice editing using acoustic context conditioning, utterance embeddings, and reference encoders**|Jason Fong et.al.|[2210.16045v1](http://arxiv.org/abs/2210.16045v1)|null|
+|**2022-10-31**|**UPainting: Unified Text-to-Image Diffusion Generation with Cross-modal Guidance**|Wei Li et.al.|[2210.16031v2](http://arxiv.org/abs/2210.16031v2)|null|
+|**2022-10-28**|**OhMG: Zero-shot Open-vocabulary Human Motion Generation**|Junfan Lin et.al.|[2210.15929v1](http://arxiv.org/abs/2210.15929v1)|null|
+|**2022-10-28**|**Residual Adapters for Few-Shot Text-to-Speech Speaker Adaptation**|Nobuyuki Morioka et.al.|[2210.15868v1](http://arxiv.org/abs/2210.15868v1)|null|
+|**2022-10-27**|**An Adversarial Active Sampling-based Data Augmentation Framework for Manufacturable Chip Design**|Mingjie Liu et.al.|[2210.15765v1](http://arxiv.org/abs/2210.15765v1)|null|
+|**2022-10-27**|**Nearest Neighbor Language Models for Stylistic Controllable Generation**|Severino Trotta et.al.|[2210.15762v1](http://arxiv.org/abs/2210.15762v1)|null|
 |**2022-10-27**|**Virtuoso: Massive Multilingual Speech-Text Joint Semi-Supervised Learning for Text-To-Speech**|Takaaki Saeki et.al.|[2210.15447v1](http://arxiv.org/abs/2210.15447v1)|null|
 |**2022-10-26**|**Efficient Use of Large Pre-Trained Models for Low Resource ASR**|Peter Vieting et.al.|[2210.15445v1](http://arxiv.org/abs/2210.15445v1)|null|
 |**2022-10-27**|**2T-UNET: A Two-Tower UNet with Depth Clues for Robust Stereo Depth Estimation**|Rohit Choudhary et.al.|[2210.15374v1](http://arxiv.org/abs/2210.15374v1)|null|
@@ -277,12 +285,19 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221031>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221101>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-28**|**Parameter-efficient transfer learning of pre-trained Transformer models for speaker verification using adapters**|Junyi Peng et.al.|[2210.16032v1](http://arxiv.org/abs/2210.16032v1)|null|
+|**2022-10-28**|**Spectrograms Are Sequences of Patches**|Leyi Zhao et.al.|[2210.15988v1](http://arxiv.org/abs/2210.15988v1)|**[link](https://github.com/annihi1ation/patchifier-neo)**|
+|**2022-10-28**|**Contextual Learning in Fourier Complex Field for VHR Remote Sensing Images**|Yan Zhang et.al.|[2210.15972v1](http://arxiv.org/abs/2210.15972v1)|**[link](https://github.com/gao-xiyuan/fct)**|
+|**2022-10-28**|**RoChBert: Towards Robust BERT Fine-tuning for Chinese**|Zihan Zhang et.al.|[2210.15944v1](http://arxiv.org/abs/2210.15944v1)|**[link](https://github.com/zzh-z/rochbert)**|
+|**2022-10-28**|**Self-Supervised Learning with Multi-View Rendering for 3D Point Cloud Analysis**|Bach Tran et.al.|[2210.15904v1](http://arxiv.org/abs/2210.15904v1)|**[link](https://github.com/vinairesearch/selfsup_pcd)**|
+|**2022-10-28**|**On the Role of Visual Context in Enriching Music Representations**|Kleanthis Avramidis et.al.|[2210.15828v1](http://arxiv.org/abs/2210.15828v1)|null|
+|**2022-10-27**|**Do Pre-trained Models Benefit Equally in Continual Learning?**|Kuan-Ying Lee et.al.|[2210.15701v1](http://arxiv.org/abs/2210.15701v1)|**[link](https://github.com/eric11220/pretrained-models-in-cl)**|
 |**2022-10-26**|**Efficient Use of Large Pre-Trained Models for Low Resource ASR**|Peter Vieting et.al.|[2210.15445v1](http://arxiv.org/abs/2210.15445v1)|null|
 |**2022-10-27**|**Opening the Black Box of wav2vec Feature Encoder**|Kwanghee Choi et.al.|[2210.15386v1](http://arxiv.org/abs/2210.15386v1)|**[link](https://github.com/juice500ml/unbox-w2v-convnet)**|
 |**2022-10-27**|**Learning Music Representations with wav2vec 2.0**|Alessandro Ragano et.al.|[2210.15310v1](http://arxiv.org/abs/2210.15310v1)|null|
@@ -519,7 +534,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20221031>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221101>back to top</a>)</p>
 
 ## adaptor
 
@@ -541,12 +556,20 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20221031>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221101>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-28**|**TripletTrack: 3D Object Tracking using Triplet Embeddings and LSTM**|Nicola Marinello et.al.|[2210.16204v1](http://arxiv.org/abs/2210.16204v1)|null|
+|**2022-10-27**|**Layer-wise Shared Attention Network on Dynamical System Perspective**|Zhongzhan Huang et.al.|[2210.16101v1](http://arxiv.org/abs/2210.16101v1)|null|
+|**2022-10-28**|**ROMA: Run-Time Object Detection To Maximize Real-Time Accuracy**|JunKyu Lee et.al.|[2210.16083v1](http://arxiv.org/abs/2210.16083v1)|null|
+|**2022-10-28**|**Benchmarking performance of object detection under image distortions in an uncontrolled environment**|Ayman Beghdadi et.al.|[2210.15999v1](http://arxiv.org/abs/2210.15999v1)|**[link](https://github.com/aymanbegh/benchmarking-performance)**|
+|**2022-10-28**|**Towards Few-Shot Open-Set Object Detection**|Binyi Su et.al.|[2210.15996v1](http://arxiv.org/abs/2210.15996v1)|**[link](https://github.com/binyisu/fsosod)**|
+|**2022-10-28**|**Grafting Vision Transformers**|Jongwoo Park et.al.|[2210.15943v1](http://arxiv.org/abs/2210.15943v1)|null|
+|**2022-10-28**|**PSFormer: Point Transformer for 3D Salient Object Detection**|Baian Chen et.al.|[2210.15933v1](http://arxiv.org/abs/2210.15933v1)|null|
+|**2022-10-27**|**Towards Improving Workers' Safety and Progress Monitoring of Construction Sites Through Construction Site Understanding**|Mahdi Bonyani et.al.|[2210.15760v1](http://arxiv.org/abs/2210.15760v1)|null|
 |**2022-10-27**|**Aerial Manipulation Using a Novel Unmanned Aerial Vehicle Cyber-Physical System**|Caiwu Ding et.al.|[2210.15632v1](http://arxiv.org/abs/2210.15632v1)|null|
 |**2022-10-27**|**Joint Multi-Person Body Detection and Orientation Estimation via One Unified Embedding**|Huayi Zhou et.al.|[2210.15586v1](http://arxiv.org/abs/2210.15586v1)|**[link](https://github.com/hnuzhy/jointbdoe)**|
 |**2022-10-27**|**LeNo: Adversarial Robust Salient Object Detection Networks with Learnable Noise**|He Tang et.al.|[2210.15392v1](http://arxiv.org/abs/2210.15392v1)|null|
@@ -770,7 +793,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20221031>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221101>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
