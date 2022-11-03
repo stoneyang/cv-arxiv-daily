@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2022.11.02
+> Updated on 2022.11.03
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,16 @@
 
 ## pretrain
 
+- 2022-11-01, **Preserving In-Context Learning ability in Large Language Model Fine-tuning**, Yihan Wang et.al., Paper: [http://arxiv.org/abs/2211.00635v1](http://arxiv.org/abs/2211.00635v1)
+- 2022-11-01, **T5lephone: Bridging Speech and Text Self-supervised Models for Spoken Language Understanding via Phoneme level T5**, Chan-Jan Hsu et.al., Paper: [http://arxiv.org/abs/2211.00586v1](http://arxiv.org/abs/2211.00586v1), Code: **[https://github.com/splend1d/t5lephone](https://github.com/splend1d/t5lephone)**
+- 2022-11-01, **Modelling black-box audio effects with time-varying feature modulation**, Marco Comunità et.al., Paper: [http://arxiv.org/abs/2211.00497v1](http://arxiv.org/abs/2211.00497v1)
+- 2022-11-01, **Investigating Content-Aware Neural Text-To-Speech MOS Prediction Using Prosodic and Linguistic Features**, Alexandra Vioni et.al., Paper: [http://arxiv.org/abs/2211.00342v1](http://arxiv.org/abs/2211.00342v1)
+- 2022-11-01, **Speech-text based multi-modal training with bidirectional attention for improved speech recognition**, Yuhang Yang et.al., Paper: [http://arxiv.org/abs/2211.00325v1](http://arxiv.org/abs/2211.00325v1), Code: **[https://github.com/yuhangear/multi-modal-learning](https://github.com/yuhangear/multi-modal-learning)**
+- 2022-11-01, **DensePure: Understanding Diffusion Models towards Adversarial Robustness**, Chaowei Xiao et.al., Paper: [http://arxiv.org/abs/2211.00322v1](http://arxiv.org/abs/2211.00322v1)
+- 2022-11-01, **Training Vision-Language Models with Less Bimodal Supervision**, Elad Segal et.al., Paper: [http://arxiv.org/abs/2211.00262v1](http://arxiv.org/abs/2211.00262v1), Code: **[https://github.com/eladsegal/less-bimodal-sup](https://github.com/eladsegal/less-bimodal-sup)**
+- 2022-11-01, **End-to-End Optimization and Learning for Multiagent Ensembles**, James Kotary et.al., Paper: [http://arxiv.org/abs/2211.00251v1](http://arxiv.org/abs/2211.00251v1)
+- 2022-10-31, **A Close Look into the Calibration of Pre-trained Language Models**, Yangyi Chen et.al., Paper: [http://arxiv.org/abs/2211.00151v1](http://arxiv.org/abs/2211.00151v1), Code: **[https://github.com/lifan-yuan/plmcalibration](https://github.com/lifan-yuan/plmcalibration)**
+- 2022-10-31, **Active Learning of Non-semantic Speech Tasks with Pretrained Models**, Harlin Lee et.al., Paper: [http://arxiv.org/abs/2211.00119v1](http://arxiv.org/abs/2211.00119v1)
 - 2022-10-31, **Zero-Shot Text Classification with Self-Training**, Ariel Gera et.al., Paper: [http://arxiv.org/abs/2210.17541v1](http://arxiv.org/abs/2210.17541v1), Code: **[https://github.com/ibm/zero-shot-classification-boost-with-self-training](https://github.com/ibm/zero-shot-classification-boost-with-self-training)**
 - 2022-10-31, **Domain Curricula for Code-Switched MT at MixMT 2022**, Lekan Raheem et.al., Paper: [http://arxiv.org/abs/2210.17463v1](http://arxiv.org/abs/2210.17463v1)
 - 2022-10-31, **Generative Negative Text Replay for Continual Vision-Language Pretraining**, Shipeng Yan et.al., Paper: [http://arxiv.org/abs/2210.17322v1](http://arxiv.org/abs/2210.17322v1)
@@ -289,14 +299,18 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20221102>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221103>back to top</a>)</p>
 
 ## downstream
 
+- 2022-11-01, **Self-Supervised Intensity-Event Stereo Matching**, Jinjin Gu et.al., Paper: [http://arxiv.org/abs/2211.00509v1](http://arxiv.org/abs/2211.00509v1)
+- 2022-10-31, **A Close Look into the Calibration of Pre-trained Language Models**, Yangyi Chen et.al., Paper: [http://arxiv.org/abs/2211.00151v1](http://arxiv.org/abs/2211.00151v1), Code: **[https://github.com/lifan-yuan/plmcalibration](https://github.com/lifan-yuan/plmcalibration)**
+- 2022-10-31, **Active Learning of Non-semantic Speech Tasks with Pretrained Models**, Harlin Lee et.al., Paper: [http://arxiv.org/abs/2211.00119v1](http://arxiv.org/abs/2211.00119v1)
+- 2022-10-31, **UmeTrack: Unified multi-view end-to-end hand tracking for VR**, Shangchen Han et.al., Paper: [http://arxiv.org/abs/2211.00099v1](http://arxiv.org/abs/2211.00099v1)
 - 2022-10-31, **Leveraging Pre-trained Models for Failure Analysis Triplets Generation**, Kenneth Ezukwoke et.al., Paper: [http://arxiv.org/abs/2210.17497v1](http://arxiv.org/abs/2210.17497v1)
-- 2022-10-31, **AdaMix: Mixture-of-Adaptations for Parameter-efficient Model Tuning**, Yaqing Wang et.al., Paper: [http://arxiv.org/abs/2210.17451v1](http://arxiv.org/abs/2210.17451v1)
+- 2022-11-02, **AdaMix: Mixture-of-Adaptations for Parameter-efficient Model Tuning**, Yaqing Wang et.al., Paper: [http://arxiv.org/abs/2210.17451v2](http://arxiv.org/abs/2210.17451v2)
 - 2022-10-31, **MatKG: The Largest Knowledge Graph in Materials Science -- Entities, Relations, and Link Prediction through Graph Representation Learning**, Vineeth Venugopal et.al., Paper: [http://arxiv.org/abs/2210.17340v1](http://arxiv.org/abs/2210.17340v1)
-- 2022-10-31, **Towards Relation-centered Pooling and Convolution for Heterogeneous Graph Learning Networks**, Tiehua Zhang et.al., Paper: [http://arxiv.org/abs/2210.17142v1](http://arxiv.org/abs/2210.17142v1)
+- 2022-10-31, **Towards Relation-centered Pooling and Convolution for Heterogeneous Graph Learning Networks**, Tiehua Zhang et.al., Paper: [http://arxiv.org/abs/2210.17142v1](http://arxiv.org/abs/2210.17142v1), Code: **[https://github.com/BUPT-GAMMA/OpenHGNN](https://github.com/BUPT-GAMMA/OpenHGNN)**
 - 2022-10-31, **Improving Temporal Generalization of Pre-trained Language Models with Lexical Semantic Change**, Zhaochen Su et.al., Paper: [http://arxiv.org/abs/2210.17127v1](http://arxiv.org/abs/2210.17127v1), Code: **[https://github.com/zhaochen0110/lmlm](https://github.com/zhaochen0110/lmlm)**
 - 2022-10-31, **DUEL: Adaptive Duplicate Elimination on Working Memory for Self-Supervised Learning**, Won-Seok Choi et.al., Paper: [http://arxiv.org/abs/2210.17052v1](http://arxiv.org/abs/2210.17052v1)
 - 2022-11-01, **Wespeaker: A Research and Production oriented Speaker Embedding Learning Toolkit**, Hongji Wang et.al., Paper: [http://arxiv.org/abs/2210.17016v2](http://arxiv.org/abs/2210.17016v2)
@@ -546,7 +560,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20221102>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221103>back to top</a>)</p>
 
 ## adaptor
 
@@ -566,7 +580,7 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20221102>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221103>back to top</a>)</p>
 
 ## object detection
 
@@ -811,7 +825,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20221102>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221103>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
