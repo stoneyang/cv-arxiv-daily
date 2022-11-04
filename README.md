@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2022.11.03
+## Updated on 2022.11.04
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-03**|**Chinese CLIP: Contrastive Vision-Language Pretraining in Chinese**|An Yang et.al.|[2211.01335v2](http://arxiv.org/abs/2211.01335v2)|**[link](https://github.com/ofa-sys/chinese-clip)**|
+|**2022-11-02**|**RegCLR: A Self-Supervised Framework for Tabular Representation Learning in the Wild**|Weiyao Wang et.al.|[2211.01165v1](http://arxiv.org/abs/2211.01165v1)|null|
+|**2022-11-02**|**Intermediate Fine-Tuning Using Imperfect Synthetic Speech for Improving Electrolaryngeal Speech Recognition**|Lester Phillip Violeta et.al.|[2211.01079v1](http://arxiv.org/abs/2211.01079v1)|null|
+|**2022-11-02**|**Dialect-robust Evaluation of Generated Text**|Jiao Sun et.al.|[2211.00922v1](http://arxiv.org/abs/2211.00922v1)|null|
+|**2022-11-02**|**P$^3$OVD: Fine-grained Visual-Text Prompt-Driven Self-Training for Open-Vocabulary Object Detection**|Yanxin Long et.al.|[2211.00849v1](http://arxiv.org/abs/2211.00849v1)|null|
 |**2022-11-01**|**Preserving In-Context Learning ability in Large Language Model Fine-tuning**|Yihan Wang et.al.|[2211.00635v1](http://arxiv.org/abs/2211.00635v1)|null|
 |**2022-11-01**|**T5lephone: Bridging Speech and Text Self-supervised Models for Spoken Language Understanding via Phoneme level T5**|Chan-Jan Hsu et.al.|[2211.00586v1](http://arxiv.org/abs/2211.00586v1)|**[link](https://github.com/splend1d/t5lephone)**|
 |**2022-11-01**|**Modelling black-box audio effects with time-varying feature modulation**|Marco Comunità et.al.|[2211.00497v1](http://arxiv.org/abs/2211.00497v1)|null|
@@ -301,15 +306,19 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221103>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221104>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-02**|**EquiMod: An Equivariance Module to Improve Self-Supervised Learning**|Alexandre Devillers et.al.|[2211.01244v1](http://arxiv.org/abs/2211.01244v1)|null|
+|**2022-11-02**|**AU-PD: An Arbitrary-size and Uniform Downsampling Framework for Point Clouds**|Peng Zhang et.al.|[2211.01110v1](http://arxiv.org/abs/2211.01110v1)|null|
+|**2022-11-02**|**Title2Event: Benchmarking Open Event Extraction with a Large-scale Chinese Title Dataset**|Haolin Deng et.al.|[2211.00869v1](http://arxiv.org/abs/2211.00869v1)|null|
+|**2022-11-02**|**P$^3$OVD: Fine-grained Visual-Text Prompt-Driven Self-Training for Open-Vocabulary Object Detection**|Yanxin Long et.al.|[2211.00849v1](http://arxiv.org/abs/2211.00849v1)|null|
 |**2022-11-01**|**Self-Supervised Intensity-Event Stereo Matching**|Jinjin Gu et.al.|[2211.00509v1](http://arxiv.org/abs/2211.00509v1)|null|
 |**2022-10-31**|**A Close Look into the Calibration of Pre-trained Language Models**|Yangyi Chen et.al.|[2211.00151v1](http://arxiv.org/abs/2211.00151v1)|**[link](https://github.com/lifan-yuan/plmcalibration)**|
-|**2022-10-31**|**Active Learning of Non-semantic Speech Tasks with Pretrained Models**|Harlin Lee et.al.|[2211.00119v1](http://arxiv.org/abs/2211.00119v1)|null|
+|**2022-11-03**|**Active Learning of Non-semantic Speech Tasks with Pretrained Models**|Harlin Lee et.al.|[2211.00119v2](http://arxiv.org/abs/2211.00119v2)|null|
 |**2022-10-31**|**UmeTrack: Unified multi-view end-to-end hand tracking for VR**|Shangchen Han et.al.|[2211.00099v1](http://arxiv.org/abs/2211.00099v1)|null|
 |**2022-10-31**|**Leveraging Pre-trained Models for Failure Analysis Triplets Generation**|Kenneth Ezukwoke et.al.|[2210.17497v1](http://arxiv.org/abs/2210.17497v1)|null|
 |**2022-11-02**|**AdaMix: Mixture-of-Adaptations for Parameter-efficient Model Tuning**|Yaqing Wang et.al.|[2210.17451v2](http://arxiv.org/abs/2210.17451v2)|null|
@@ -564,7 +573,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20221103>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221104>back to top</a>)</p>
 
 ## adaptor
 
@@ -586,12 +595,22 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20221103>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221104>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-02**|**CircleSnake: Instance Segmentation with Circle Representation**|Ethan H. Nguyen et.al.|[2211.01254v1](http://arxiv.org/abs/2211.01254v1)|**[link](https://github.com/hrlblab/circlesnake)**|
+|**2022-11-03**|**DEArt: Dataset of European Art**|Artem Reshetnikov et.al.|[2211.01226v2](http://arxiv.org/abs/2211.01226v2)|null|
+|**2022-11-02**|**OPA-3D: Occlusion-Aware Pixel-Wise Aggregation for Monocular 3D Object Detection**|Yongzhi Su et.al.|[2211.01142v1](http://arxiv.org/abs/2211.01142v1)|null|
+|**2022-11-02**|**Semantic SuperPoint: A Deep Semantic Descriptor**|Gabriel S. Gama et.al.|[2211.01098v1](http://arxiv.org/abs/2211.01098v1)|**[link](https://github.com/gabriel-sgama/semantic-superpoint)**|
+|**2022-11-02**|**Spatial Reasoning for Few-Shot Object Detection**|Geonuk Kim et.al.|[2211.01080v1](http://arxiv.org/abs/2211.01080v1)|null|
+|**2022-11-02**|**tSF: Transformer-based Semantic Filter for Few-Shot Learning**|Jinxiang Lai et.al.|[2211.00868v1](http://arxiv.org/abs/2211.00868v1)|null|
+|**2022-11-02**|**P$^3$OVD: Fine-grained Visual-Text Prompt-Driven Self-Training for Open-Vocabulary Object Detection**|Yanxin Long et.al.|[2211.00849v1](http://arxiv.org/abs/2211.00849v1)|null|
+|**2022-11-02**|**TSAA: A Two-Stage Anchor Assignment Method towards Anchor Drift in Crowded Object Detection**|Li Xiang et.al.|[2211.00826v1](http://arxiv.org/abs/2211.00826v1)|null|
+|**2022-11-01**|**3DMODT: Attention-Guided Affinities for Joint Detection & Tracking in 3D Point Clouds**|Jyoti Kini et.al.|[2211.00746v1](http://arxiv.org/abs/2211.00746v1)|null|
+|**2022-11-01**|**State-of-the-art Models for Object Detection in Various Fields of Application**|Syed Ali John Naqvi et.al.|[2211.00733v1](http://arxiv.org/abs/2211.00733v1)|null|
 |**2022-10-31**|**Multi-Camera Calibration Free BEV Representation for 3D Object Detection**|Hongxiang Jiang et.al.|[2210.17252v1](http://arxiv.org/abs/2210.17252v1)|null|
 |**2022-10-31**|**Tech Report: One-stage Lightweight Object Detectors**|Deokki Hong et.al.|[2210.17151v1](http://arxiv.org/abs/2210.17151v1)|null|
 |**2022-10-30**|**Foreign Object Debris Detection for Airport Pavement Images based on Self-supervised Localization and Vision Transformer**|Travis Munyer et.al.|[2210.16901v1](http://arxiv.org/abs/2210.16901v1)|null|
@@ -833,7 +852,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20221103>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221104>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
