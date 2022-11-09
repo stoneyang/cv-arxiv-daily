@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2022.11.08
+## Updated on 2022.11.09
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-07**|**Generalizable Re-Identification from Videos with Cycle Association**|Zhongdao Wang et.al.|[2211.03663v1](http://arxiv.org/abs/2211.03663v1)|null|
+|**2022-11-07**|**SC-DepthV3: Robust Self-supervised Monocular Depth Estimation for Dynamic Scenes**|Libo Sun et.al.|[2211.03660v1](http://arxiv.org/abs/2211.03660v1)|**[link](https://github.com/JiawangBian/sc_depth_pl)**|
+|**2022-11-07**|**Group DETR v2: Strong Object Detector with Encoder-Decoder Pretraining**|Qiang Chen et.al.|[2211.03594v1](http://arxiv.org/abs/2211.03594v1)|null|
+|**2022-11-07**|**ERNIE-SAT: Speech and Text Joint Pretraining for Cross-Lingual Multi-Speaker Text-to-Speech**|Xiaoran Fan et.al.|[2211.03545v1](http://arxiv.org/abs/2211.03545v1)|**[link](https://github.com/PaddlePaddle/PaddleSpeech)**|
+|**2022-11-07**|**C3PO: Learning to Achieve Arbitrary Goals via Massively Entropic Pretraining**|Alexis Jacq et.al.|[2211.03521v1](http://arxiv.org/abs/2211.03521v1)|null|
+|**2022-11-07**|**How Much Does Attention Actually Attend? Questioning the Importance of Attention in Pretrained Transformers**|Michael Hassid et.al.|[2211.03495v1](http://arxiv.org/abs/2211.03495v1)|**[link](https://github.com/schwartz-lab-nlp/papa)**|
+|**2022-11-07**|**Peak-First CTC: Reducing the Peak Latency of CTC Models by Applying Peak-First Regularization**|Zhengkun Tian et.al.|[2211.03284v1](http://arxiv.org/abs/2211.03284v1)|null|
+|**2022-11-07**|**AfroLM: A Self-Active Learning-based Multilingual Pretrained Language Model for 23 African Languages**|Bonaventure F. P. Dossou et.al.|[2211.03263v1](http://arxiv.org/abs/2211.03263v1)|**[link](https://github.com/bonaventuredossou/mlm_al)**|
+|**2022-11-06**|**On the Domain Adaptation and Generalization of Pretrained Language Models: A Survey**|Xu Guo et.al.|[2211.03154v1](http://arxiv.org/abs/2211.03154v1)|null|
+|**2022-11-06**|**Tuning Language Models as Training Data Generators for Augmentation-Enhanced Few-Shot Learning**|Yu Meng et.al.|[2211.03044v1](http://arxiv.org/abs/2211.03044v1)|**[link](https://github.com/yumeng5/fewgen)**|
 |**2022-11-04**|**SPEAKER VGG CCT: Cross-corpus Speech Emotion Recognition with Speaker Embedding and Vision Transformers**|A. Arezzo et.al.|[2211.02366v1](http://arxiv.org/abs/2211.02366v1)|**[link](https://github.com/jabumldev/speaker-vgg-cct)**|
 |**2022-11-04**|**Logits are predictive of network type**|Ali Borji et.al.|[2211.02272v1](http://arxiv.org/abs/2211.02272v1)|**[link](https://github.com/aliborji/logits)**|
 |**2022-11-04**|**Late Fusion with Triplet Margin Objective for Multimodal Ideology Prediction and Analysis**|Changyuan Qiu et.al.|[2211.02269v1](http://arxiv.org/abs/2211.02269v1)|null|
@@ -320,12 +330,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221108>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221109>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-07**|**On minimal variations for unsupervised representation learning**|Vivien Cabannes et.al.|[2211.03782v1](http://arxiv.org/abs/2211.03782v1)|null|
+|**2022-11-07**|**Knowledge Graph Embedding: A Survey from the Perspective of Representation Spaces**|Jiahang Cao et.al.|[2211.03536v1](http://arxiv.org/abs/2211.03536v1)|null|
+|**2022-11-07**|**C3PO: Learning to Achieve Arbitrary Goals via Massively Entropic Pretraining**|Alexis Jacq et.al.|[2211.03521v1](http://arxiv.org/abs/2211.03521v1)|null|
+|**2022-11-07**|**How Much Does Attention Actually Attend? Questioning the Importance of Attention in Pretrained Transformers**|Michael Hassid et.al.|[2211.03495v1](http://arxiv.org/abs/2211.03495v1)|**[link](https://github.com/schwartz-lab-nlp/papa)**|
+|**2022-11-07**|**AfroLM: A Self-Active Learning-based Multilingual Pretrained Language Model for 23 African Languages**|Bonaventure F. P. Dossou et.al.|[2211.03263v1](http://arxiv.org/abs/2211.03263v1)|**[link](https://github.com/bonaventuredossou/mlm_al)**|
+|**2022-11-06**|**Momentum-based Weight Interpolation of Strong Zero-Shot Models for Continual Learning**|Zafir Stojanovski et.al.|[2211.03186v1](http://arxiv.org/abs/2211.03186v1)|null|
+|**2022-11-06**|**ProtoX: Explaining a Reinforcement Learning Agent via Prototyping**|Ronilo J. Ragodos et.al.|[2211.03162v1](http://arxiv.org/abs/2211.03162v1)|null|
+|**2022-11-06**|**On the Domain Adaptation and Generalization of Pretrained Language Models: A Survey**|Xu Guo et.al.|[2211.03154v1](http://arxiv.org/abs/2211.03154v1)|null|
+|**2022-11-06**|**Distilling Representations from GAN Generator via Squeeze and Span**|Yu Yang et.al.|[2211.03000v1](http://arxiv.org/abs/2211.03000v1)|null|
+|**2022-11-05**|**Privacy-Preserving Models for Legal Natural Language Processing**|Ying Yin et.al.|[2211.02956v1](http://arxiv.org/abs/2211.02956v1)|null|
 |**2022-11-04**|**Black-box Coreset Variational Inference**|Dionysis Manousakas et.al.|[2211.02377v1](http://arxiv.org/abs/2211.02377v1)|**[link](https://github.com/facebookresearch/blackbox-coresets-vi)**|
 |**2022-11-04**|**Once-for-All Sequence Compression for Self-Supervised Speech Models**|Hsuan-Jui Chen et.al.|[2211.02332v1](http://arxiv.org/abs/2211.02332v1)|null|
 |**2022-11-04**|**Unsupervised Visual Representation Learning via Mutual Information Regularized Assignment**|Dong Hoon Lee et.al.|[2211.02284v1](http://arxiv.org/abs/2211.02284v1)|**[link](https://github.com/movinghoon/mira)**|
@@ -602,12 +622,13 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20221108>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221109>back to top</a>)</p>
 
 ## adaptor
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-05**|**Quantization Adaptor for Bit-Level Deep Learning-Based Massive MIMO CSI Feedback**|Xudong Zhang et.al.|[2211.02937v1](http://arxiv.org/abs/2211.02937v1)|**[link](https://github.com/zhang-xd18/qcrnet)**|
 |**2022-10-16**|**RedApt: An Adaptor for wav2vec 2 Encoding \\ Faster and Smaller Speech Translation without Quality Compromise**|Jinming Zhao et.al.|[2210.08475v1](http://arxiv.org/abs/2210.08475v1)|null|
 |**2022-10-05**|**Granularity-aware Adaptation for Image Retrieval over Multiple Tasks**|Jon Almazán et.al.|[2210.02254v1](http://arxiv.org/abs/2210.02254v1)|null|
 |**2022-09-28**|**DeViT: Deformed Vision Transformers in Video Inpainting**|Jiayin Cai et.al.|[2209.13925v1](http://arxiv.org/abs/2209.13925v1)|null|
@@ -624,15 +645,21 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20221108>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221109>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-07**|**Group DETR v2: Strong Object Detector with Encoder-Decoder Pretraining**|Qiang Chen et.al.|[2211.03594v1](http://arxiv.org/abs/2211.03594v1)|null|
+|**2022-11-07**|**3D Harmonic Loss: Towards Task-consistent and Time-friendly 3D Object Detection on Edge for Intelligent Transportation System**|Haolin Zhang et.al.|[2211.03407v1](http://arxiv.org/abs/2211.03407v1)|**[link](https://github.com/XJTU-Haolin/TT3D)**|
+|**2022-11-07**|**PeSOTIF: a Challenging Visual Dataset for Perception SOTIF Problems in Long-tail Traffic Scenarios**|Liang Peng et.al.|[2211.03402v1](http://arxiv.org/abs/2211.03402v1)|**[link](https://github.com/sotif-avlab/pesotif)**|
+|**2022-11-07**|**Efficient Multi-order Gated Aggregation Network**|Siyuan Li et.al.|[2211.03295v1](http://arxiv.org/abs/2211.03295v1)|**[link](https://github.com/Westlake-AI/openmixup)**|
+|**2022-11-05**|**Inside Out: Transforming Images of Lab-Grown Plants for Machine Learning Applications in Agriculture**|A. E. Krosney et.al.|[2211.02972v1](http://arxiv.org/abs/2211.02972v1)|null|
+|**2022-11-05**|**Multi-Objective Evolutionary for Object Detection Mobile Architectures Search**|Haichao Zhang et.al.|[2211.02791v1](http://arxiv.org/abs/2211.02791v1)|null|
 |**2022-11-04**|**PP-YOLOE-R: An Efficient Anchor-Free Rotated Object Detector**|Xinxin Wang et.al.|[2211.02386v1](http://arxiv.org/abs/2211.02386v1)|**[link](https://github.com/PaddlePaddle/Paddle)**|
 |**2022-11-04**|**Towards Asteroid Detection in Microlensing Surveys with Deep Learning**|Preeti Cowan et.al.|[2211.02239v1](http://arxiv.org/abs/2211.02239v1)|null|
-|**2022-11-04**|**Understanding and Mitigating Overfitting in Prompt Tuning for Vision-Language Models**|Chengcheng Ma et.al.|[2211.02219v1](http://arxiv.org/abs/2211.02219v1)|null|
+|**2022-11-04**|**Understanding and Mitigating Overfitting in Prompt Tuning for Vision-Language Models**|Chengcheng Ma et.al.|[2211.02219v1](http://arxiv.org/abs/2211.02219v1)|**[link](https://github.com/machengcheng2016/Subspace-Prompt-Learning)**|
 |**2022-11-04**|**SSDA-YOLO: Semi-supervised Domain Adaptive YOLO for Cross-Domain Object Detection**|Huayi Zhou et.al.|[2211.02213v1](http://arxiv.org/abs/2211.02213v1)|**[link](https://github.com/hnuzhy/ssda-yolo)**|
 |**2022-11-03**|**Deep Learning based Defect classification and detection in SEM images: A Mask R-CNN approach**|Bappaditya Dey et.al.|[2211.02185v1](http://arxiv.org/abs/2211.02185v1)|null|
 |**2022-11-03**|**Efficient Information Sharing in ICT Supply Chain Social Network via Table Structure Recognition**|Bin Xiao et.al.|[2211.02128v1](http://arxiv.org/abs/2211.02128v1)|null|
@@ -892,7 +919,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20221108>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221109>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
