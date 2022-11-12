@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2022.11.11
+## Updated on 2022.11.12
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,11 +19,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-10**|**Nano: Nested Human-in-the-Loop Reward Learning for Few-shot Language Model Control**|Xiang Fan et.al.|[2211.05750v1](http://arxiv.org/abs/2211.05750v1)|**[link](https://github.com/sfanxiang/nano)**|
+|**2022-11-10**|**3D-CSL: self-supervised 3D context similarity learning for Near-Duplicate Video Retrieval**|Rui Deng et.al.|[2211.05352v1](http://arxiv.org/abs/2211.05352v1)|null|
+|**2022-11-09**|**Flaky Performances when Pretraining on Relational Databases**|Shengchao Liu et.al.|[2211.05213v1](http://arxiv.org/abs/2211.05213v1)|null|
+|**2022-11-09**|**An Empirical Study on Clustering Pretrained Embeddings: Is Deep Strictly Better?**|Tyler R. Scott et.al.|[2211.05183v1](http://arxiv.org/abs/2211.05183v1)|null|
 |**2022-11-09**|**Large Language Models with Controllable Working Memory**|Daliang Li et.al.|[2211.05110v1](http://arxiv.org/abs/2211.05110v1)|null|
 |**2022-11-09**|**Detecting Languages Unintelligible to Multilingual Models through Local Structure Probes**|Louis Clouâtre et.al.|[2211.05015v1](http://arxiv.org/abs/2211.05015v1)|null|
 |**2022-11-09**|**Optimized Global Perturbation Attacks For Brain Tumour ROI Extraction From Binary Classification Models**|Sajith Rajapaksa et.al.|[2211.04926v1](http://arxiv.org/abs/2211.04926v1)|null|
 |**2022-11-09**|**Foundation Models for Semantic Novelty in Reinforcement Learning**|Tarun Gupta et.al.|[2211.04878v1](http://arxiv.org/abs/2211.04878v1)|null|
-|**2022-11-09**|**Masked Vision-Language Transformers for Scene Text Recognition**|Jie Wu et.al.|[2211.04785v1](http://arxiv.org/abs/2211.04785v1)|null|
+|**2022-11-09**|**Masked Vision-Language Transformers for Scene Text Recognition**|Jie Wu et.al.|[2211.04785v1](http://arxiv.org/abs/2211.04785v1)|**[link](https://github.com/onealwj/mvlt)**|
 |**2022-11-08**|**Reducing Down(stream)time: Pretraining Molecular GNNs using Heterogeneous AI Accelerators**|Jenna A. Bilbrey et.al.|[2211.04598v1](http://arxiv.org/abs/2211.04598v1)|**[link](https://github.com/pnnl/downstream_mol_gnn)**|
 |**2022-11-08**|**Unsupervised Domain Adaptation for Sparse Retrieval by Filling Vocabulary and Word Frequency Gaps**|Hiroki Iida et.al.|[2211.03988v1](http://arxiv.org/abs/2211.03988v1)|null|
 |**2022-11-08**|**Parameter and Data Efficient Continual Pre-training for Robustness to Dialectal Variance in Arabic**|Soumajyoti Sarkar et.al.|[2211.03966v1](http://arxiv.org/abs/2211.03966v1)|null|
@@ -341,12 +345,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221111>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221112>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-10**|**Demystify Transformers & Convolutions in Modern Image Deep Networks**|Jifeng Dai et.al.|[2211.05781v1](http://arxiv.org/abs/2211.05781v1)|**[link](https://github.com/opengvlab/stm-evaluation)**|
+|**2022-11-10**|**InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions**|Wenhai Wang et.al.|[2211.05778v1](http://arxiv.org/abs/2211.05778v1)|**[link](https://github.com/opengvlab/internimage)**|
+|**2022-11-10**|**Privacy-Preserving Machine Learning for Collaborative Data Sharing via Auto-encoder Latent Space Embeddings**|Ana María Quintero-Ossa et.al.|[2211.05717v1](http://arxiv.org/abs/2211.05717v1)|null|
+|**2022-11-10**|**Probabilistic thermal stability prediction through sparsity promoting transformer representation**|Yevgen Zainchkovskyy et.al.|[2211.05698v1](http://arxiv.org/abs/2211.05698v1)|null|
+|**2022-11-10**|**Self-supervised learning of audio representations using angular contrastive loss**|Shanshan Wang et.al.|[2211.05442v1](http://arxiv.org/abs/2211.05442v1)|null|
+|**2022-11-10**|**ADEPT: A DEbiasing PrompT Framework**|Ke Yang et.al.|[2211.05414v1](http://arxiv.org/abs/2211.05414v1)|null|
+|**2022-11-10**|**MSDT: Masked Language Model Scoring Defense in Text Domain**|Jaechul Roh et.al.|[2211.05371v1](http://arxiv.org/abs/2211.05371v1)|**[link](https://github.com/jcroh0508/msdt)**|
+|**2022-11-10**|**Contrastive Self-Supervised Learning for Skeleton Representations**|Nico Lingg et.al.|[2211.05304v1](http://arxiv.org/abs/2211.05304v1)|null|
+|**2022-11-09**|**ViSE: Vision-Based 3D Real-Time Shape Estimation of Continuously Deformable Robots**|Hehui Zheng et.al.|[2211.05222v1](http://arxiv.org/abs/2211.05222v1)|null|
+|**2022-11-09**|**Flaky Performances when Pretraining on Relational Databases**|Shengchao Liu et.al.|[2211.05213v1](http://arxiv.org/abs/2211.05213v1)|null|
 |**2022-11-09**|**ERNIE-UniX2: A Unified Cross-lingual Cross-modal Framework for Understanding and Generation**|Bin Shan et.al.|[2211.04861v1](http://arxiv.org/abs/2211.04861v1)|null|
 |**2022-11-08**|**Reducing Down(stream)time: Pretraining Molecular GNNs using Heterogeneous AI Accelerators**|Jenna A. Bilbrey et.al.|[2211.04598v1](http://arxiv.org/abs/2211.04598v1)|**[link](https://github.com/pnnl/downstream_mol_gnn)**|
 |**2022-11-08**|**Estimation of Appearance and Occupancy Information in Birds Eye View from Surround Monocular Images**|Sarthak Sharma et.al.|[2211.04557v1](http://arxiv.org/abs/2211.04557v1)|null|
@@ -641,7 +655,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20221111>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221112>back to top</a>)</p>
 
 ## adaptor
 
@@ -664,13 +678,15 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20221111>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221112>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-11-09**|**MEVID: Multi-view Extended Videos with Identities for Video Person Re-Identification**|Daniel Davila et.al.|[2211.04656v1](http://arxiv.org/abs/2211.04656v1)|null|
+|**2022-11-10**|**Hyperbolic Cosine Transformer for LiDAR 3D Object Detection**|Jigang Tong et.al.|[2211.05580v1](http://arxiv.org/abs/2211.05580v1)|null|
+|**2022-11-07**|**Automatic Number Plate Recognition (ANPR) with YOLOv3-CNN**|Rajdeep Adak et.al.|[2211.05229v1](http://arxiv.org/abs/2211.05229v1)|null|
+|**2022-11-10**|**MEVID: Multi-view Extended Videos with Identities for Video Person Re-Identification**|Daniel Davila et.al.|[2211.04656v2](http://arxiv.org/abs/2211.04656v2)|null|
 |**2022-11-08**|**Estimation of Appearance and Occupancy Information in Birds Eye View from Surround Monocular Images**|Sarthak Sharma et.al.|[2211.04557v1](http://arxiv.org/abs/2211.04557v1)|null|
 |**2022-11-07**|**Group DETR v2: Strong Object Detector with Encoder-Decoder Pretraining**|Qiang Chen et.al.|[2211.03594v1](http://arxiv.org/abs/2211.03594v1)|null|
 |**2022-11-07**|**3D Harmonic Loss: Towards Task-consistent and Time-friendly 3D Object Detection on Edge for Intelligent Transportation System**|Haolin Zhang et.al.|[2211.03407v1](http://arxiv.org/abs/2211.03407v1)|**[link](https://github.com/XJTU-Haolin/TT3D)**|
@@ -940,7 +956,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20221111>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221112>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
