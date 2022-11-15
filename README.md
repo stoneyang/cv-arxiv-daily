@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2022.11.14
+## Updated on 2022.11.15
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-11**|**Physically-Based Face Rendering for NIR-VIS Face Recognition**|Yunqi Miao et.al.|[2211.06408v1](http://arxiv.org/abs/2211.06408v1)|**[link](https://github.com/deepinsight/insightface)**|
+|**2022-11-11**|**From Competition to Collaboration: Making Toy Datasets on Kaggle Clinically Useful for Chest X-Ray Diagnosis Using Federated Learning**|Pranav Kulkarni et.al.|[2211.06212v1](http://arxiv.org/abs/2211.06212v1)|null|
+|**2022-11-11**|**How Much Hate with #china? A Preliminary Analysis on China-related Hateful Tweets Two Years After the Covid Pandemic Began**|Jinghua Xu et.al.|[2211.06116v1](http://arxiv.org/abs/2211.06116v1)|**[link](https://github.com/jinhxu/how-much-hate-with-china)**|
+|**2022-11-11**|**Soft-Landing Strategy for Alleviating the Task Discrepancy Problem in Temporal Action Localization Tasks**|Hyolim Kang et.al.|[2211.06023v1](http://arxiv.org/abs/2211.06023v1)|null|
+|**2022-11-10**|**Measuring Reliability of Large Language Models through Semantic Consistency**|Harsh Raj et.al.|[2211.05853v1](http://arxiv.org/abs/2211.05853v1)|null|
 |**2022-11-10**|**Nano: Nested Human-in-the-Loop Reward Learning for Few-shot Language Model Control**|Xiang Fan et.al.|[2211.05750v1](http://arxiv.org/abs/2211.05750v1)|**[link](https://github.com/sfanxiang/nano)**|
 |**2022-11-10**|**3D-CSL: self-supervised 3D context similarity learning for Near-Duplicate Video Retrieval**|Rui Deng et.al.|[2211.05352v1](http://arxiv.org/abs/2211.05352v1)|null|
 |**2022-11-09**|**Flaky Performances when Pretraining on Relational Databases**|Shengchao Liu et.al.|[2211.05213v1](http://arxiv.org/abs/2211.05213v1)|null|
@@ -345,15 +350,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221114>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221115>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-11**|**A Multimodal Embedding-Based Approach to Industry Classification in Financial Markets**|Rian Dolphin et.al.|[2211.06378v1](http://arxiv.org/abs/2211.06378v1)|null|
+|**2022-11-11**|**Dual Complementary Dynamic Convolution for Image Recognition**|Longbin Yan et.al.|[2211.06163v1](http://arxiv.org/abs/2211.06163v1)|null|
+|**2022-11-11**|**Token Transformer: Can class token help window-based transformer build better long-range interactions?**|Jiawei Mao et.al.|[2211.06083v1](http://arxiv.org/abs/2211.06083v1)|null|
+|**2022-11-11**|**Soft-Landing Strategy for Alleviating the Task Discrepancy Problem in Temporal Action Localization Tasks**|Hyolim Kang et.al.|[2211.06023v1](http://arxiv.org/abs/2211.06023v1)|null|
+|**2022-11-11**|**A Survey of Knowledge-Enhanced Pre-trained Language Models**|Linmei Hu et.al.|[2211.05994v1](http://arxiv.org/abs/2211.05994v1)|null|
+|**2022-11-11**|**CCPrompt: Counterfactual Contrastive Prompt-Tuning for Many-Class Classification**|Yang Li et.al.|[2211.05987v1](http://arxiv.org/abs/2211.05987v1)|null|
+|**2022-11-11**|**Deep equilibrium models as estimators for continuous latent variables**|Russell Tsuchida et.al.|[2211.05943v1](http://arxiv.org/abs/2211.05943v1)|**[link](https://github.com/russelltsuchida/ped)**|
 |**2022-11-10**|**Demystify Transformers & Convolutions in Modern Image Deep Networks**|Jifeng Dai et.al.|[2211.05781v1](http://arxiv.org/abs/2211.05781v1)|**[link](https://github.com/opengvlab/stm-evaluation)**|
 |**2022-11-10**|**InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions**|Wenhai Wang et.al.|[2211.05778v1](http://arxiv.org/abs/2211.05778v1)|**[link](https://github.com/opengvlab/internimage)**|
-|**2022-11-10**|**Privacy-Preserving Machine Learning for Collaborative Data Sharing via Auto-encoder Latent Space Embeddings**|Ana María Quintero-Ossa et.al.|[2211.05717v1](http://arxiv.org/abs/2211.05717v1)|null|
+|**2022-11-11**|**Privacy-Preserving Machine Learning for Collaborative Data Sharing via Auto-encoder Latent Space Embeddings**|Ana María Quintero-Ossa et.al.|[2211.05717v2](http://arxiv.org/abs/2211.05717v2)|null|
 |**2022-11-10**|**Probabilistic thermal stability prediction through sparsity promoting transformer representation**|Yevgen Zainchkovskyy et.al.|[2211.05698v1](http://arxiv.org/abs/2211.05698v1)|null|
 |**2022-11-10**|**Self-supervised learning of audio representations using angular contrastive loss**|Shanshan Wang et.al.|[2211.05442v1](http://arxiv.org/abs/2211.05442v1)|**[link](https://github.com/shanwangshan/Self_supervised_ACL)**|
 |**2022-11-10**|**ADEPT: A DEbiasing PrompT Framework**|Ke Yang et.al.|[2211.05414v1](http://arxiv.org/abs/2211.05414v1)|null|
@@ -655,7 +667,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20221114>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221115>back to top</a>)</p>
 
 ## adaptor
 
@@ -678,12 +690,20 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20221114>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221115>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-11**|**Phase-Shifting Coder: Predicting Accurate Orientation in Oriented Object Detection**|Yi Yu et.al.|[2211.06368v1](http://arxiv.org/abs/2211.06368v1)|**[link](https://github.com/open-mmlab/mmrotate)**|
+|**2022-11-11**|**Sensor Visibility Estimation: Metrics and Methods for Systematic Performance Evaluation and Improvement**|Joachim Börger et.al.|[2211.06308v1](http://arxiv.org/abs/2211.06308v1)|null|
+|**2022-11-11**|**A Benchmark for Out of Distribution Detection in Point Cloud 3D Semantic Segmentation**|Lokesh Veeramacheneni et.al.|[2211.06241v1](http://arxiv.org/abs/2211.06241v1)|null|
+|**2022-11-11**|**Dual Complementary Dynamic Convolution for Image Recognition**|Longbin Yan et.al.|[2211.06163v1](http://arxiv.org/abs/2211.06163v1)|null|
+|**2022-11-11**|**RaLiBEV: Radar and LiDAR BEV Fusion Learning for Anchor Box Free Object Detection System**|Yanlong Yang et.al.|[2211.06108v1](http://arxiv.org/abs/2211.06108v1)|null|
+|**2022-11-11**|**Interactive Context-Aware Network for RGB-T Salient Object Detection**|Yuxuan Wang et.al.|[2211.06097v1](http://arxiv.org/abs/2211.06097v1)|null|
+|**2022-11-11**|**A Comprehensive Survey of Transformers for Computer Vision**|Sonain Jamil et.al.|[2211.06004v1](http://arxiv.org/abs/2211.06004v1)|null|
+|**2022-11-10**|**Impact of Video Compression on the Performance of Object Detection Systems for Surveillance Applications**|Michael O'Byrne et.al.|[2211.05805v1](http://arxiv.org/abs/2211.05805v1)|null|
 |**2022-11-10**|**Hyperbolic Cosine Transformer for LiDAR 3D Object Detection**|Jigang Tong et.al.|[2211.05580v1](http://arxiv.org/abs/2211.05580v1)|null|
 |**2022-11-07**|**Automatic Number Plate Recognition (ANPR) with YOLOv3-CNN**|Rajdeep Adak et.al.|[2211.05229v1](http://arxiv.org/abs/2211.05229v1)|null|
 |**2022-11-10**|**MEVID: Multi-view Extended Videos with Identities for Video Person Re-Identification**|Daniel Davila et.al.|[2211.04656v2](http://arxiv.org/abs/2211.04656v2)|null|
@@ -956,7 +976,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20221114>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221115>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
