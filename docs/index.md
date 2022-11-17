@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2022.11.16
+## Updated on 2022.11.17
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-15**|**Mechanistic Mode Connectivity**|Ekdeep Singh Lubana et.al.|[2211.08422v1](http://arxiv.org/abs/2211.08422v1)|**[link](https://github.com/ekdeepslubana/mmc)**|
+|**2022-11-15**|**Towards an objective characterization of an individual's facial movements using Self-Supervised Person-Specific-Models**|Yanis Tazi et.al.|[2211.08279v1](http://arxiv.org/abs/2211.08279v1)|**[link](https://github.com/yanistazi/PSM_release)**|
+|**2022-11-15**|**A Universal Discriminator for Zero-Shot Generalization**|Haike Xu et.al.|[2211.08099v1](http://arxiv.org/abs/2211.08099v1)|null|
+|**2022-11-15**|**Autonomous Golf Putting with Data-Driven and Physics-Based Methods**|Annika Junker et.al.|[2211.08081v1](http://arxiv.org/abs/2211.08081v1)|null|
+|**2022-11-15**|**Multilingual and Multimodal Topic Modelling with Pretrained Embeddings**|Elaine Zosa et.al.|[2211.08057v1](http://arxiv.org/abs/2211.08057v1)|**[link](https://github.com/ezosa/m3l-topic-model)**|
+|**2022-11-15**|**Persian Emotion Detection using ParsBERT and Imbalanced Data Handling Approaches**|Amirhossein Abaskohi et.al.|[2211.08029v1](http://arxiv.org/abs/2211.08029v1)|null|
+|**2022-11-15**|**Contextual Transformer for Offline Meta Reinforcement Learning**|Runji Lin et.al.|[2211.08016v1](http://arxiv.org/abs/2211.08016v1)|null|
+|**2022-11-15**|**DIGEST: Deeply supervIsed knowledGE tranSfer neTwork learning for brain tumor segmentation with incomplete multi-modal MRI scans**|Haoran Li et.al.|[2211.07993v1](http://arxiv.org/abs/2211.07993v1)|null|
+|**2022-11-15**|**NeRFFaceEditing: Disentangled Face Editing in Neural Radiance Fields**|Kaiwen Jiang et.al.|[2211.07968v1](http://arxiv.org/abs/2211.07968v1)|null|
+|**2022-11-15**|**False: False Negative Samples Aware Contrastive Learning for Semantic Segmentation of High-Resolution Remote Sensing Image**|Zhaoyang Zhang et.al.|[2211.07928v1](http://arxiv.org/abs/2211.07928v1)|null|
 |**2022-11-14**|**Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures**|Gal Metzer et.al.|[2211.07600v1](http://arxiv.org/abs/2211.07600v1)|**[link](https://github.com/eladrich/latent-nerf)**|
 |**2022-11-14**|**Are Hard Examples also Harder to Explain? A Study with Human and Model-Generated Explanations**|Swarnadeep Saha et.al.|[2211.07517v1](http://arxiv.org/abs/2211.07517v1)|**[link](https://github.com/swarnahub/explanationhardness)**|
 |**2022-11-14**|**Language models are good pathologists: using attention-based sequence reduction and text-pretrained transformers for efficient WSI classification**|Juan I. Pisula et.al.|[2211.07384v1](http://arxiv.org/abs/2211.07384v1)|**[link](https://github.com/bozeklab/lmagp)**|
@@ -364,12 +374,16 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221116>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221117>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-13**|**Build generally reusable agent-environment interaction models**|Jun Jin et.al.|[2211.08234v1](http://arxiv.org/abs/2211.08234v1)|null|
+|**2022-11-15**|**The Dependence on Frequency of Word Embedding Similarity Measures**|Francisco Valentini et.al.|[2211.08203v1](http://arxiv.org/abs/2211.08203v1)|null|
+|**2022-11-15**|**An Efficient Active Learning Pipeline for Legal Text Classification**|Sepideh Mamooler et.al.|[2211.08112v1](http://arxiv.org/abs/2211.08112v1)|null|
+|**2022-11-15**|**Contextual Transformer for Offline Meta Reinforcement Learning**|Runji Lin et.al.|[2211.08016v1](http://arxiv.org/abs/2211.08016v1)|null|
 |**2022-11-14**|**EVA: Exploring the Limits of Masked Visual Representation Learning at Scale**|Yuxin Fang et.al.|[2211.07636v1](http://arxiv.org/abs/2211.07636v1)|**[link](https://github.com/baaivision/eva)**|
 |**2022-11-11**|**The Far Side of Failure: Investigating the Impact of Speech Recognition Errors on Subsequent Dementia Classification**|Changye Li et.al.|[2211.07430v1](http://arxiv.org/abs/2211.07430v1)|**[link](https://github.com/linguisticanomalies/paradox-asr)**|
 |**2022-11-14**|**The Role of Local Alignment and Uniformity in Image-Text Contrastive Learning on Medical Images**|Philip Müller et.al.|[2211.07254v1](http://arxiv.org/abs/2211.07254v1)|null|
@@ -690,7 +704,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20221116>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221117>back to top</a>)</p>
 
 ## adaptor
 
@@ -713,12 +727,18 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20221116>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221117>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-15**|**Towards 3D Object Detection with 2D Supervision**|Jinrong Yang et.al.|[2211.08287v1](http://arxiv.org/abs/2211.08287v1)|null|
+|**2022-11-15**|**3D Cascade RCNN: High Quality Object Detection in Point Clouds**|Qi Cai et.al.|[2211.08248v1](http://arxiv.org/abs/2211.08248v1)|**[link](https://github.com/caiqi/cascasde-3d)**|
+|**2022-11-15**|**Knowledge Distillation for Detection Transformer with Consistent Distillation Points Sampling**|Yu Wang et.al.|[2211.08071v1](http://arxiv.org/abs/2211.08071v1)|null|
+|**2022-11-15**|**PAI3D: Painting Adaptive Instance-Prior for 3D Object Detection**|Hao Liu et.al.|[2211.08055v1](http://arxiv.org/abs/2211.08055v1)|null|
+|**2022-11-15**|**Enabling AI Quality Control via Feature Hierarchical Edge Inference**|Jinhyuk Choi et.al.|[2211.07860v1](http://arxiv.org/abs/2211.07860v1)|null|
+|**2022-11-15**|**Local Magnification for Data and Feature Augmentation**|Kun He et.al.|[2211.07859v1](http://arxiv.org/abs/2211.07859v1)|null|
 |**2022-11-14**|**EVA: Exploring the Limits of Masked Visual Representation Learning at Scale**|Yuxin Fang et.al.|[2211.07636v1](http://arxiv.org/abs/2211.07636v1)|**[link](https://github.com/baaivision/eva)**|
 |**2022-11-14**|**Marine Microalgae Detection in Microscopy Images: A New Dataset**|Shizheng Zhou et.al.|[2211.07546v1](http://arxiv.org/abs/2211.07546v1)|null|
 |**2022-11-14**|**PKCAM: Previous Knowledge Channel Attention Module**|Eslam Mohamed Bakar et.al.|[2211.07521v1](http://arxiv.org/abs/2211.07521v1)|**[link](https://github.com/eslambakr/emca)**|
@@ -1009,7 +1029,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20221116>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221117>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
