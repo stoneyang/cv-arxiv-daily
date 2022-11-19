@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2022.11.18
+> Updated on 2022.11.19
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,15 @@
 
 ## pretrain
 
+- 2022-11-17, **SPACEx: Speech-driven Portrait Animation with Controllable Expression**, Siddharth Gururani et.al., Paper: [http://arxiv.org/abs/2211.09809v1](http://arxiv.org/abs/2211.09809v1)
+- 2022-11-17, **InstructPix2Pix: Learning to Follow Image Editing Instructions**, Tim Brooks et.al., Paper: [http://arxiv.org/abs/2211.09800v1](http://arxiv.org/abs/2211.09800v1)
+- 2022-11-17, **Null-text Inversion for Editing Real Images using Guided Diffusion Models**, Ron Mokady et.al., Paper: [http://arxiv.org/abs/2211.09794v1](http://arxiv.org/abs/2211.09794v1)
+- 2022-11-17, **MOTRv2: Bootstrapping End-to-End Multi-Object Tracking by Pretrained Object Detectors**, Yuang Zhang et.al., Paper: [http://arxiv.org/abs/2211.09791v1](http://arxiv.org/abs/2211.09791v1), Code: **[https://github.com/megvii-research/MOTRv2](https://github.com/megvii-research/MOTRv2)**
+- 2022-11-17, **Assessing Neural Network Robustness via Adversarial Pivotal Tuning**, Peter Ebert Christensen et.al., Paper: [http://arxiv.org/abs/2211.09782v1](http://arxiv.org/abs/2211.09782v1)
+- 2022-11-17, **3DLatNav: Navigating Generative Latent Spaces for Semantic-Aware 3D Object Manipulation**, Amaya Dharmasiri et.al., Paper: [http://arxiv.org/abs/2211.09770v1](http://arxiv.org/abs/2211.09770v1), Code: **[https://github.com/theamaya/3dlatnav](https://github.com/theamaya/3dlatnav)**
+- 2022-11-17, **Style Classification of Rabbinic Literature for Detection of Lost Midrash Tanhuma Material**, Shlomo Tannor et.al., Paper: [http://arxiv.org/abs/2211.09710v1](http://arxiv.org/abs/2211.09710v1)
+- 2022-11-17, **UniFormerV2: Spatiotemporal Learning by Arming Image ViTs with Video UniFormer**, Kunchang Li et.al., Paper: [http://arxiv.org/abs/2211.09552v1](http://arxiv.org/abs/2211.09552v1)
+- 2022-11-17, **CapEnrich: Enriching Caption Semantics for Web Images via Cross-modal Pre-trained Knowledge**, Linli Yao et.al., Paper: [http://arxiv.org/abs/2211.09371v1](http://arxiv.org/abs/2211.09371v1)
 - 2022-11-16, **Technical Report on Neural Language Models and Few-Shot Learning for Systematic Requirements Processing in MDSE**, Vincent Bertram et.al., Paper: [http://arxiv.org/abs/2211.09084v1](http://arxiv.org/abs/2211.09084v1)
 - 2022-11-16, **Self-supervised Egomotion and Depth Learning via Bi-directional Coarse-to-Fine Scale Recovery**, Hao Qu et.al., Paper: [http://arxiv.org/abs/2211.08904v1](http://arxiv.org/abs/2211.08904v1)
 - 2022-11-16, **Towards Robust Low-Resource Fine-Tuning with Multi-View Compressed Representations**, Linlin Liu et.al., Paper: [http://arxiv.org/abs/2211.08794v1](http://arxiv.org/abs/2211.08794v1)
@@ -374,10 +383,17 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20221118>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221119>back to top</a>)</p>
 
 ## downstream
 
+- 2022-11-17, **Uni-Perceiver v2: A Generalist Model for Large-Scale Vision and Vision-Language Tasks**, Hao Li et.al., Paper: [http://arxiv.org/abs/2211.09808v1](http://arxiv.org/abs/2211.09808v1), Code: **[https://github.com/fundamentalvision/Uni-Perceiver](https://github.com/fundamentalvision/Uni-Perceiver)**
+- 2022-11-17, **CAE v2: Context Autoencoder with CLIP Target**, Xinyu Zhang et.al., Paper: [http://arxiv.org/abs/2211.09799v1](http://arxiv.org/abs/2211.09799v1)
+- 2022-11-17, **ConStruct-VL: Data-Free Continual Structured VL Concepts Learning**, James Seale Smith et.al., Paper: [http://arxiv.org/abs/2211.09790v1](http://arxiv.org/abs/2211.09790v1)
+- 2022-11-16, **Boosting Object Representation Learning via Motion and Object Continuity**, Quentin Delfosse et.al., Paper: [http://arxiv.org/abs/2211.09771v1](http://arxiv.org/abs/2211.09771v1), Code: **[https://github.com/k4ntz/moc](https://github.com/k4ntz/moc)**
+- 2022-11-17, **Self-supervised Trajectory Representation Learning with Temporal Regularities and Travel Semantics**, Jiawei Jiang et.al., Paper: [http://arxiv.org/abs/2211.09510v1](http://arxiv.org/abs/2211.09510v1), Code: **[https://github.com/aptx1231/start](https://github.com/aptx1231/start)**
+- 2022-11-17, **How to Fine-Tune Vision Models with SGD**, Ananya Kumar et.al., Paper: [http://arxiv.org/abs/2211.09359v1](http://arxiv.org/abs/2211.09359v1)
+- 2022-11-16, **Prompt Tuning for Parameter-efficient Medical Image Segmentation**, Marc Fischer et.al., Paper: [http://arxiv.org/abs/2211.09233v1](http://arxiv.org/abs/2211.09233v1), Code: **[https://github.com/marcdcfischer/punet](https://github.com/marcdcfischer/punet)**
 - 2022-11-16, **Galactica: A Large Language Model for Science**, Ross Taylor et.al., Paper: [http://arxiv.org/abs/2211.09085v1](http://arxiv.org/abs/2211.09085v1), Code: **[https://github.com/paperswithcode/galai](https://github.com/paperswithcode/galai)**
 - 2022-11-16, **Region Proposal Network Pre-Training Helps Label-Efficient Object Detection**, Linus Ericsson et.al., Paper: [http://arxiv.org/abs/2211.09022v1](http://arxiv.org/abs/2211.09022v1)
 - 2022-11-15, **Masked Reconstruction Contrastive Learning with Information Bottleneck Principle**, Ziwen Liu et.al., Paper: [http://arxiv.org/abs/2211.09013v1](http://arxiv.org/abs/2211.09013v1)
@@ -708,7 +724,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20221118>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221119>back to top</a>)</p>
 
 ## adaptor
 
@@ -729,10 +745,20 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20221118>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221119>back to top</a>)</p>
 
 ## object detection
 
+- 2022-11-17, **Towards All-in-one Pre-training via Maximizing Multi-modal Mutual Information**, Weijie Su et.al., Paper: [http://arxiv.org/abs/2211.09807v1](http://arxiv.org/abs/2211.09807v1)
+- 2022-11-17, **MOTRv2: Bootstrapping End-to-End Multi-Object Tracking by Pretrained Object Detectors**, Yuang Zhang et.al., Paper: [http://arxiv.org/abs/2211.09791v1](http://arxiv.org/abs/2211.09791v1), Code: **[https://github.com/megvii-research/MOTRv2](https://github.com/megvii-research/MOTRv2)**
+- 2022-11-17, **DiffusionDet: Diffusion Model for Object Detection**, Shoufa Chen et.al., Paper: [http://arxiv.org/abs/2211.09788v1](http://arxiv.org/abs/2211.09788v1), Code: **[https://github.com/shoufachen/diffusiondet](https://github.com/shoufachen/diffusiondet)**
+- 2022-11-17, **Sources of performance variability in deep learning-based polyp detection**, Thuy Nuong Tran et.al., Paper: [http://arxiv.org/abs/2211.09708v1](http://arxiv.org/abs/2211.09708v1)
+- 2022-11-17, **Multi-Camera Multi-Object Tracking on the Move via Single-Stage Global Association Approach**, Pha Nguyen et.al., Paper: [http://arxiv.org/abs/2211.09663v1](http://arxiv.org/abs/2211.09663v1)
+- 2022-11-17, **InternVideo-Ego4D: A Pack of Champion Solutions to Ego4D Challenges**, Guo Chen et.al., Paper: [http://arxiv.org/abs/2211.09529v1](http://arxiv.org/abs/2211.09529v1), Code: **[https://github.com/opengvlab/ego4d-eccv2022-solutions](https://github.com/opengvlab/ego4d-eccv2022-solutions)**
+- 2022-11-17, **ImLiDAR: Cross-Sensor Dynamic Message Propagation Network for 3D Object Detection**, Yiyang Shen et.al., Paper: [http://arxiv.org/abs/2211.09518v1](http://arxiv.org/abs/2211.09518v1)
+- 2022-11-17, **aiMotive Dataset: A Multimodal Dataset for Robust Autonomous Driving with Long-Range Perception**, Tamás Matuszka et.al., Paper: [http://arxiv.org/abs/2211.09445v1](http://arxiv.org/abs/2211.09445v1), Code: **[https://github.com/aimotive/aimotive_dataset](https://github.com/aimotive/aimotive_dataset)**
+- 2022-11-17, **BEVDistill: Cross-Modal BEV Distillation for Multi-View 3D Object Detection**, Zehui Chen et.al., Paper: [http://arxiv.org/abs/2211.09386v1](http://arxiv.org/abs/2211.09386v1), Code: **[https://github.com/zehuichen123/bevdistill](https://github.com/zehuichen123/bevdistill)**
+- 2022-11-17, **Interpretable Dimensionality Reduction by Feature Preserving Manifold Approximation and Projection**, Yang Yang et.al., Paper: [http://arxiv.org/abs/2211.09321v1](http://arxiv.org/abs/2211.09321v1)
 - 2022-11-16, **Region Proposal Network Pre-Training Helps Label-Efficient Object Detection**, Linus Ericsson et.al., Paper: [http://arxiv.org/abs/2211.09022v1](http://arxiv.org/abs/2211.09022v1)
 - 2022-11-16, **Attacking Object Detector Using A Universal Targeted Label-Switch Patch**, Avishag Shapira et.al., Paper: [http://arxiv.org/abs/2211.08859v1](http://arxiv.org/abs/2211.08859v1)
 - 2022-11-16, **RF-Annotate: Automatic RF-Supervised Image Annotation of Common Objects in Context**, Emerson Sie et.al., Paper: [http://arxiv.org/abs/2211.08837v1](http://arxiv.org/abs/2211.08837v1)
@@ -1038,7 +1064,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20221118>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221119>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
