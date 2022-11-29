@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2022.11.28
+## Updated on 2022.11.29
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-25**|**WALDO: Future Video Synthesis using Object Layer Decomposition and Parametric Flow Prediction**|Guillaume Le Moing et.al.|[2211.14308v1](http://arxiv.org/abs/2211.14308v1)|null|
+|**2022-11-25**|**PipeFisher: Efficient Training of Large Language Models Using Pipelining and Fisher Information Matrices**|Kazuki Osawa et.al.|[2211.14133v1](http://arxiv.org/abs/2211.14133v1)|null|
+|**2022-11-25**|**Re^2TAL: Rewiring Pretrained Video Backbones for Reversible Temporal Action Localization**|Chen Zhao et.al.|[2211.14053v1](http://arxiv.org/abs/2211.14053v1)|null|
+|**2022-11-25**|**Efficient Feature Extraction for High-resolution Video Frame Interpolation**|Moritz Nottebaum et.al.|[2211.14005v1](http://arxiv.org/abs/2211.14005v1)|null|
+|**2022-11-25**|**Learning with Silver Standard Data for Zero-shot Relation Extraction**|Tianyin Wang et.al.|[2211.13883v1](http://arxiv.org/abs/2211.13883v1)|null|
+|**2022-11-25**|**ComCLIP: Training-Free Compositional Image and Text Matching**|Kenan Jiang et.al.|[2211.13854v1](http://arxiv.org/abs/2211.13854v1)|null|
+|**2022-11-24**|**Multi-label Few-shot ICD Coding as Autoregressive Generation with Prompt**|Zhichao Yang et.al.|[2211.13813v1](http://arxiv.org/abs/2211.13813v1)|**[link](https://github.com/whaleloops/KEPT)**|
+|**2022-11-24**|**Contrastive pretraining for semantic segmentation is robust to noisy positive pairs**|Sebastian Gerard et.al.|[2211.13756v1](http://arxiv.org/abs/2211.13756v1)|null|
+|**2022-11-24**|**Sketch-Guided Text-to-Image Diffusion Models**|Andrey Voynov et.al.|[2211.13752v1](http://arxiv.org/abs/2211.13752v1)|null|
+|**2022-11-24**|**Prototypical Fine-tuning: Towards Robust Performance Under Varying Data Sizes**|Yiqiao Jin et.al.|[2211.13638v1](http://arxiv.org/abs/2211.13638v1)|null|
 |**2022-11-23**|**ASiT: Audio Spectrogram vIsion Transformer for General Audio Representation**|Sara Atito et.al.|[2211.13189v1](http://arxiv.org/abs/2211.13189v1)|null|
 |**2022-11-22**|**Pyrocast: a Machine Learning Pipeline to Forecast Pyrocumulonimbus (PyroCb) Clouds**|Kenza Tazi et.al.|[2211.13052v1](http://arxiv.org/abs/2211.13052v1)|null|
 |**2022-11-23**|**Can we Adopt Self-supervised Pretraining for Chest X-Rays?**|Arsh Verma et.al.|[2211.12931v1](http://arxiv.org/abs/2211.12931v1)|null|
@@ -411,12 +421,22 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221128>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221129>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-25**|**A Semi-supervised Learning Approach for B-line Detection in Lung Ultrasound Images**|Tianqi Yang et.al.|[2211.14050v1](http://arxiv.org/abs/2211.14050v1)|null|
+|**2022-11-25**|**Task-Oriented Communication for Edge Video Analytics**|Jiawei Shao et.al.|[2211.14049v1](http://arxiv.org/abs/2211.14049v1)|null|
+|**2022-11-25**|**CLIP-ReID: Exploiting Vision-Language Model for Image Re-Identification without Concrete Text Labels**|Siyuan Li et.al.|[2211.13977v1](http://arxiv.org/abs/2211.13977v1)|null|
+|**2022-11-25**|**Picking on the Same Person: Does Algorithmic Monoculture lead to Outcome Homogenization?**|Rishi Bommasani et.al.|[2211.13972v1](http://arxiv.org/abs/2211.13972v1)|null|
+|**2022-11-25**|**Learning General Audio Representations with Large-Scale Training of Patchout Audio Transformers**|Khaled Koutini et.al.|[2211.13956v1](http://arxiv.org/abs/2211.13956v1)|**[link](https://github.com/kkoutini/passt_hear21)**|
+|**2022-11-25**|**WSSL: Weighted Self-supervised Learning Framework For Image-inpainting**|Shubham Gupta et.al.|[2211.13856v1](http://arxiv.org/abs/2211.13856v1)|**[link](https://github.com/IamShubhamGupto/WSSL-Weighted-Self-Supervised-Learning-for-Image-Inpainting)**|
+|**2022-11-24**|**Using Selective Masking as a Bridge between Pre-training and Fine-tuning**|Tanish Lad et.al.|[2211.13815v1](http://arxiv.org/abs/2211.13815v1)|null|
+|**2022-11-24**|**Pose-disentangled Contrastive Learning for Self-supervised Facial Representation**|Yuanyuan Liu et.al.|[2211.13490v1](http://arxiv.org/abs/2211.13490v1)|null|
+|**2022-11-24**|**Seeing What You Miss: Vision-Language Pre-training with Semantic Completion Learning**|Yatai Ji et.al.|[2211.13437v1](http://arxiv.org/abs/2211.13437v1)|null|
+|**2022-11-23**|**Choreographer: Learning and Adapting Skills in Imagination**|Pietro Mazzaglia et.al.|[2211.13350v1](http://arxiv.org/abs/2211.13350v1)|null|
 |**2022-11-23**|**Physics-informed neural networks for pathloss prediction**|Steffen Limmer et.al.|[2211.12986v1](http://arxiv.org/abs/2211.12986v1)|null|
 |**2022-11-23**|**SS-CXR: Multitask Representation Learning using Self Supervised Pre-training from Chest X-Rays**|Syed Muhammad Anwar et.al.|[2211.12944v1](http://arxiv.org/abs/2211.12944v1)|null|
 |**2022-11-23**|**Explainable AI for Pre-Trained Code Models: What Do They Learn? When They Do Not Work?**|Ahmad Haji Mohammadkhani et.al.|[2211.12821v1](http://arxiv.org/abs/2211.12821v1)|null|
@@ -784,7 +804,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20221128>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221129>back to top</a>)</p>
 
 ## adaptor
 
@@ -809,12 +829,22 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20221128>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221129>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-25**|**Degenerate Swin to Win: Plain Window-based Transformer without Sophisticated Operations**|Tan Yu et.al.|[2211.14255v1](http://arxiv.org/abs/2211.14255v1)|null|
+|**2022-11-25**|**PoET: Pose Estimation Transformer for Single-View, Multi-Object 6D Pose Estimation**|Thomas Jantos et.al.|[2211.14125v1](http://arxiv.org/abs/2211.14125v1)|**[link](https://github.com/aau-cns/poet)**|
+|**2022-11-25**|**Language-Assisted 3D Feature Learning for Semantic Scene Understanding**|Junbo Zhang et.al.|[2211.14091v1](http://arxiv.org/abs/2211.14091v1)|**[link](https://github.com/asterisci/language-assisted-3d)**|
+|**2022-11-25**|**CAD2Render: A Modular Toolkit for GPU-accelerated Photorealistic Synthetic Data Generation for the Manufacturing Industry**|Steven Moonen et.al.|[2211.14054v1](http://arxiv.org/abs/2211.14054v1)|**[link](https://github.com/edm-research/cad2render)**|
+|**2022-11-25**|**Combating noisy labels in object detection datasets**|Krystian Chachuła et.al.|[2211.13993v1](http://arxiv.org/abs/2211.13993v1)|null|
+|**2022-11-25**|**DATE: Dual Assignment for End-to-End Fully Convolutional Object Detection**|Yiqun Chen et.al.|[2211.13859v1](http://arxiv.org/abs/2211.13859v1)|**[link](https://github.com/yiqunchen1999/date)**|
+|**2022-11-24**|**3D Dual-Fusion: Dual-Domain Dual-Query Camera-LiDAR Fusion for 3D Object Detection**|Yecheol Kim et.al.|[2211.13529v1](http://arxiv.org/abs/2211.13529v1)|null|
+|**2022-11-24**|**Roboflow 100: A Rich, Multi-Domain Object Detection Benchmark**|Floriana Ciaglia et.al.|[2211.13523v1](http://arxiv.org/abs/2211.13523v1)|**[link](https://github.com/roboflow-ai/roboflow-100-benchmark)**|
+|**2022-11-24**|**1st Workshop on Maritime Computer Vision (MaCVi) 2023: Challenge Results**|Benjamin Kiefer et.al.|[2211.13508v1](http://arxiv.org/abs/2211.13508v1)|null|
+|**2022-11-24**|**Few-shot Object Detection with Refined Contrastive Learning**|Zeyu Shangguan et.al.|[2211.13495v1](http://arxiv.org/abs/2211.13495v1)|null|
 |**2022-11-23**|**Self-Supervised Learning based on Heat Equation**|Yinpeng Chen et.al.|[2211.13228v1](http://arxiv.org/abs/2211.13228v1)|null|
 |**2022-11-23**|**Indian Commercial Truck License Plate Detection and Recognition for Weighbridge Automation**|Siddharth Agrawal et.al.|[2211.13194v1](http://arxiv.org/abs/2211.13194v1)|null|
 |**2022-11-23**|**Structural Knowledge Distillation for Object Detection**|Philip de Rijk et.al.|[2211.13133v1](http://arxiv.org/abs/2211.13133v1)|null|
@@ -1159,7 +1189,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20221128>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221129>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
