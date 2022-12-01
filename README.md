@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2022.11.30
+## Updated on 2022.12.01
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-29**|**BARTSmiles: Generative Masked Language Models for Molecular Representations**|Gayane Chilingaryan et.al.|[2211.16349v1](http://arxiv.org/abs/2211.16349v1)|**[link](https://github.com/yerevann/bartsmiles)**|
+|**2022-11-29**|**Few-shot Query-Focused Summarization with Prefix-Merging**|Ruifeng Yuan et.al.|[2211.16164v1](http://arxiv.org/abs/2211.16164v1)|null|
+|**2022-11-29**|**Better Generalized Few-Shot Learning Even Without Base Data**|Seongwoong Kim et.al.|[2211.16095v1](http://arxiv.org/abs/2211.16095v1)|null|
+|**2022-11-29**|**Syntactic Substitutability as Unsupervised Dependency Syntax**|Jasper Jian et.al.|[2211.16031v1](http://arxiv.org/abs/2211.16031v1)|null|
+|**2022-11-29**|**MoDA: Map style transfer for self-supervised Domain Adaptation of embodied agents**|Eun Sun Lee et.al.|[2211.15992v1](http://arxiv.org/abs/2211.15992v1)|null|
+|**2022-11-29**|**Extending the Subwording Model of Multilingual Pretrained Models for New Languages**|Kenji Imamura et.al.|[2211.15965v1](http://arxiv.org/abs/2211.15965v1)|**[link](https://github.com/kenji-imamura/sentpiece_mimic)**|
+|**2022-11-29**|**PiggyBack: Pretrained Visual Question Answering Environment for Backing up Non-deep Learning Professionals**|Zhihao Zhang et.al.|[2211.15940v1](http://arxiv.org/abs/2211.15940v1)|null|
+|**2022-11-29**|**ClueWeb22: 10 Billion Web Documents with Rich Information**|Arnold Overwijk et.al.|[2211.15848v1](http://arxiv.org/abs/2211.15848v1)|null|
+|**2022-11-28**|**COVID-19 Classification Using Deep Learning Two-Stage Approach**|Mostapha Alsaidi et.al.|[2211.15817v1](http://arxiv.org/abs/2211.15817v1)|null|
+|**2022-11-28**|**Handling Image and Label Resolution Mismatch in Remote Sensing**|Scott Workman et.al.|[2211.15790v1](http://arxiv.org/abs/2211.15790v1)|null|
 |**2022-11-28**|**Action-GPT: Leveraging Large-scale Language Models for Improved and Generalized Zero Shot Action Generation**|Sai Shashank Kalakonda et.al.|[2211.15603v1](http://arxiv.org/abs/2211.15603v1)|null|
 |**2022-11-28**|**Scientific and Creative Analogies in Pretrained Language Models**|Tamara Czinczoll et.al.|[2211.15268v1](http://arxiv.org/abs/2211.15268v1)|null|
 |**2022-11-27**|**Multi-Modal Few-Shot Temporal Action Detection via Vision-Language Meta-Adaptation**|Sauradip Nag et.al.|[2211.14905v1](http://arxiv.org/abs/2211.14905v1)|null|
@@ -427,12 +437,21 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221130>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221201>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-29**|**Self-Supervised Mental Disorder Classifiers via Time Reversal**|Zafar Iqbal et.al.|[2211.16398v1](http://arxiv.org/abs/2211.16398v1)|null|
+|**2022-11-29**|**BARTSmiles: Generative Masked Language Models for Molecular Representations**|Gayane Chilingaryan et.al.|[2211.16349v1](http://arxiv.org/abs/2211.16349v1)|**[link](https://github.com/yerevann/bartsmiles)**|
+|**2022-11-29**|**On the power of foundation models**|Yang Yuan et.al.|[2211.16327v1](http://arxiv.org/abs/2211.16327v1)|null|
+|**2022-11-29**|**Context-Aware Robust Fine-Tuning**|Xiaofeng Mao et.al.|[2211.16175v1](http://arxiv.org/abs/2211.16175v1)|null|
+|**2022-11-29**|**Mind the Gap: Scanner-induced domain shifts pose challenges for representation learning in histopathology**|Frauke Wilm et.al.|[2211.16141v1](http://arxiv.org/abs/2211.16141v1)|null|
+|**2022-11-29**|**Text Representation Enrichment Utilizing Graph based Approaches: Stock Market Technical Analysis Case Study**|Sara Salamat et.al.|[2211.16103v1](http://arxiv.org/abs/2211.16103v1)|null|
+|**2022-11-29**|**Model Extraction Attack against Self-supervised Speech Models**|Tsu-Yuan Hsu et.al.|[2211.16044v1](http://arxiv.org/abs/2211.16044v1)|null|
+|**2022-11-29**|**MoDA: Map style transfer for self-supervised Domain Adaptation of embodied agents**|Eun Sun Lee et.al.|[2211.15992v1](http://arxiv.org/abs/2211.15992v1)|null|
+|**2022-11-29**|**One is All: Bridging the Gap Between Neural Radiance Fields Architectures with Progressive Volume Distillation**|Shuangkang Fang et.al.|[2211.15977v1](http://arxiv.org/abs/2211.15977v1)|**[link](https://github.com/megvii-research/AAAI2023-PVD)**|
 |**2022-11-28**|**Satlas: A Large-Scale, Multi-Task Dataset for Remote Sensing Image Understanding**|Favyen Bastani et.al.|[2211.15660v1](http://arxiv.org/abs/2211.15660v1)|null|
 |**2022-11-28**|**GPT-Neo for commonsense reasoning-a theoretical and practical lens**|Rohan Kashyap et.al.|[2211.15593v1](http://arxiv.org/abs/2211.15593v1)|null|
 |**2022-11-27**|**MGDoc: Pre-training with Multi-granular Hierarchy for Document Image Understanding**|Zilong Wang et.al.|[2211.14958v1](http://arxiv.org/abs/2211.14958v1)|null|
@@ -819,12 +838,14 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20221130>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221201>back to top</a>)</p>
 
 ## adaptor
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-28**|**SLAN: Self-Locator Aided Network for Cross-Modal Understanding**|Jiang-Tian Zhai et.al.|[2211.16208v1](http://arxiv.org/abs/2211.16208v1)|null|
+|**2022-11-29**|**BotSIM: An End-to-End Bot Simulation Toolkit for Commercial Task-Oriented Dialog Systems**|Guangsen Wang et.al.|[2211.15916v1](http://arxiv.org/abs/2211.15916v1)|**[link](https://github.com/salesforce/botsim)**|
 |**2022-11-20**|**Aging with GRACE: Lifelong Model Editing with Discrete Key-Value Adaptors**|Thomas Hartvigsen et.al.|[2211.11031v1](http://arxiv.org/abs/2211.11031v1)|null|
 |**2022-11-20**|**MagicVideo: Efficient Video Generation With Latent Diffusion Models**|Daquan Zhou et.al.|[2211.11018v1](http://arxiv.org/abs/2211.11018v1)|null|
 |**2022-11-09**|**Quantization Adaptor for Bit-Level Deep Learning-Based Massive MIMO CSI Feedback**|Xudong Zhang et.al.|[2211.02937v2](http://arxiv.org/abs/2211.02937v2)|**[link](https://github.com/zhang-xd18/qcrnet)**|
@@ -844,12 +865,14 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20221130>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221201>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-29**|**Analysis of Training Object Detection Models with Synthetic Data**|Bram Vanherle et.al.|[2211.16066v1](http://arxiv.org/abs/2211.16066v1)|**[link](https://github.com/edm-research/dimo_objectdetection)**|
+|**2022-11-28**|**Superpoint Transformer for 3D Scene Instance Segmentation**|Jiahao Sun et.al.|[2211.15766v1](http://arxiv.org/abs/2211.15766v1)|**[link](https://github.com/sunjiahao1999/spformer)**|
 |**2022-11-28**|**DQ-DETR: Dual Query Detection Transformer for Phrase Extraction and Grounding**|Shilong Liu et.al.|[2211.15516v1](http://arxiv.org/abs/2211.15516v1)|**[link](https://github.com/idea-research/dq-detr)**|
 |**2022-11-28**|**Object Permanence in Object Detection Leveraging Temporal Priors at Inference Time**|Michael Fürst et.al.|[2211.15505v1](http://arxiv.org/abs/2211.15505v1)|null|
 |**2022-11-27**|**Multi-Modal Few-Shot Temporal Action Detection via Vision-Language Meta-Adaptation**|Sauradip Nag et.al.|[2211.14905v1](http://arxiv.org/abs/2211.14905v1)|null|
@@ -1214,7 +1237,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20221130>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221201>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
