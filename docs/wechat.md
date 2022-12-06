@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2022.12.05
+> Updated on 2022.12.06
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,12 @@
 
 ## pretrain
 
+- 2022-12-02, **ColD Fusion: Collaborative Descent for Distributed Multitask Finetuning**, Shachar Don-Yehiya et.al., Paper: [http://arxiv.org/abs/2212.01378v1](http://arxiv.org/abs/2212.01378v1)
+- 2022-12-02, **DWRSeg: Dilation-wise Residual Network for Real-time Semantic Segmentation**, Haoran Wei et.al., Paper: [http://arxiv.org/abs/2212.01173v1](http://arxiv.org/abs/2212.01173v1)
+- 2022-12-02, **Tackling Low-Resourced Sign Language Translation: UPC at WMT-SLT 22**, Laia Tarrés et.al., Paper: [http://arxiv.org/abs/2212.01140v1](http://arxiv.org/abs/2212.01140v1)
+- 2022-12-02, **Masked Contrastive Pre-Training for Efficient Video-Text Retrieval**, Fangxun Shu et.al., Paper: [http://arxiv.org/abs/2212.00986v1](http://arxiv.org/abs/2212.00986v1)
+- 2022-12-01, **Weakly Supervised Annotations for Multi-modal Greeting Cards Dataset**, Sidra Hanif et.al., Paper: [http://arxiv.org/abs/2212.00847v1](http://arxiv.org/abs/2212.00847v1)
+- 2022-12-01, **Navigating an Ocean of Video Data: Deep Learning for Humpback Whale Classification in YouTube Videos**, Michelle Ramirez et.al., Paper: [http://arxiv.org/abs/2212.00822v1](http://arxiv.org/abs/2212.00822v1)
 - 2022-12-01, **Sparsity Agnostic Depth Completion**, Andrea Conti et.al., Paper: [http://arxiv.org/abs/2212.00790v1](http://arxiv.org/abs/2212.00790v1)
 - 2022-12-01, **Score Jacobian Chaining: Lifting Pretrained 2D Diffusion Models for 3D Generation**, Haochen Wang et.al., Paper: [http://arxiv.org/abs/2212.00774v1](http://arxiv.org/abs/2212.00774v1), Code: **[https://github.com/pals-ttic/sjc](https://github.com/pals-ttic/sjc)**
 - 2022-12-01, **Adapted Multimodal BERT with Layer-wise Fusion for Sentiment Analysis**, Odysseas S. Chlapanis et.al., Paper: [http://arxiv.org/abs/2212.00678v1](http://arxiv.org/abs/2212.00678v1)
@@ -452,10 +458,14 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20221205>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221206>back to top</a>)</p>
 
 ## downstream
 
+- 2022-12-02, **Moving Beyond Downstream Task Accuracy for Information Retrieval Benchmarking**, Keshav Santhanam et.al., Paper: [http://arxiv.org/abs/2212.01340v1](http://arxiv.org/abs/2212.01340v1)
+- 2022-12-01, **CHAPTER: Exploiting Convolutional Neural Network Adapters for Self-supervised Speech Models**, Zih-Ching Chen et.al., Paper: [http://arxiv.org/abs/2212.01282v1](http://arxiv.org/abs/2212.01282v1)
+- 2022-12-02, **MHCCL: Masked Hierarchical Cluster-wise Contrastive Learning for Multivariate Time Series**, Qianwen Meng et.al., Paper: [http://arxiv.org/abs/2212.01141v1](http://arxiv.org/abs/2212.01141v1)
+- 2022-12-02, **General Framework for Self-Supervised Model Priming for Parameter-Efficient Fine-tuning**, Shih-Cheng Huang et.al., Paper: [http://arxiv.org/abs/2212.01032v1](http://arxiv.org/abs/2212.01032v1)
 - 2022-12-01, **Scaling Language-Image Pre-training via Masking**, Yanghao Li et.al., Paper: [http://arxiv.org/abs/2212.00794v1](http://arxiv.org/abs/2212.00794v1)
 - 2022-12-01, **AUG-FedPrompt: Practical Few-shot Federated NLP with Data-augmented Prompts**, Dongqi Cai et.al., Paper: [http://arxiv.org/abs/2212.00192v1](http://arxiv.org/abs/2212.00192v1)
 - 2022-11-30, **Rethinking Causality-driven Robot Tool Segmentation with Temporal Constraints**, Hao Ding et.al., Paper: [http://arxiv.org/abs/2212.00072v1](http://arxiv.org/abs/2212.00072v1)
@@ -860,10 +870,11 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20221205>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221206>back to top</a>)</p>
 
 ## adaptor
 
+- 2022-12-02, **ObjectStitch: Generative Object Compositing**, Yizhi Song et.al., Paper: [http://arxiv.org/abs/2212.00932v1](http://arxiv.org/abs/2212.00932v1)
 - 2022-11-30, **RAFT: Rationale adaptor for few-shot abusive language detection**, Punyajoy Saha et.al., Paper: [http://arxiv.org/abs/2211.17046v1](http://arxiv.org/abs/2211.17046v1)
 - 2022-11-28, **SLAN: Self-Locator Aided Network for Cross-Modal Understanding**, Jiang-Tian Zhai et.al., Paper: [http://arxiv.org/abs/2211.16208v1](http://arxiv.org/abs/2211.16208v1)
 - 2022-11-30, **BotSIM: An End-to-End Bot Simulation Toolkit for Commercial Task-Oriented Dialog Systems**, Guangsen Wang et.al., Paper: [http://arxiv.org/abs/2211.15916v2](http://arxiv.org/abs/2211.15916v2), Code: **[https://github.com/salesforce/botsim](https://github.com/salesforce/botsim)**
@@ -886,10 +897,18 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20221205>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221206>back to top</a>)</p>
 
 ## object detection
 
+- 2022-12-02, **D2DF2WOD: Learning Object Proposals for Weakly-Supervised Object Detection via Progressive Domain Adaptation**, Yuting Wang et.al., Paper: [http://arxiv.org/abs/2212.01376v1](http://arxiv.org/abs/2212.01376v1)
+- 2022-12-02, **MIC: Masked Image Consistency for Context-Enhanced Domain Adaptation**, Lukas Hoyer et.al., Paper: [http://arxiv.org/abs/2212.01322v1](http://arxiv.org/abs/2212.01322v1), Code: **[https://github.com/lhoyer/mic](https://github.com/lhoyer/mic)**
+- 2022-12-02, **BEV-SAN: Accurate BEV 3D Object Detection via Slice Attention Networks**, Xiaowei Chi et.al., Paper: [http://arxiv.org/abs/2212.01231v1](http://arxiv.org/abs/2212.01231v1)
+- 2022-12-02, **Planogram Compliance Control via Object Detection, Sequence Alignment, and Focused Iterative Search**, M. Erkin Yücel et.al., Paper: [http://arxiv.org/abs/2212.01004v1](http://arxiv.org/abs/2212.01004v1)
+- 2022-12-02, **Feature Aggregation and Propagation Network for Camouflaged Object Detection**, Tao Zhou et.al., Paper: [http://arxiv.org/abs/2212.00990v1](http://arxiv.org/abs/2212.00990v1)
+- 2022-12-02, **PASTA: Proportional Amplitude Spectrum Training Augmentation for Syn-to-Real Domain Generalization**, Prithvijit Chattopadhyay et.al., Paper: [http://arxiv.org/abs/2212.00979v1](http://arxiv.org/abs/2212.00979v1), Code: **[https://github.com/prithv1/pasta](https://github.com/prithv1/pasta)**
+- 2022-12-02, **Cloud-Device Collaborative Adaptation to Continual Changing Environments in the Real-world**, Yulu Gan et.al., Paper: [http://arxiv.org/abs/2212.00972v1](http://arxiv.org/abs/2212.00972v1)
+- 2022-12-02, **UIU-Net: U-Net in U-Net for Infrared Small Object Detection**, Xin Wu et.al., Paper: [http://arxiv.org/abs/2212.00968v1](http://arxiv.org/abs/2212.00968v1), Code: **[https://github.com/danfenghong/ieee_tip_uiu-net](https://github.com/danfenghong/ieee_tip_uiu-net)**
 - 2022-12-01, **On Utilizing Relationships for Transferable Few-Shot Fine-Grained Object Detection**, Ambar Pal et.al., Paper: [http://arxiv.org/abs/2212.00770v1](http://arxiv.org/abs/2212.00770v1)
 - 2022-12-01, **Hyperbolic Contrastive Learning for Visual Representations beyond Objects**, Songwei Ge et.al., Paper: [http://arxiv.org/abs/2212.00653v1](http://arxiv.org/abs/2212.00653v1), Code: **[https://github.com/shlokk/hcl](https://github.com/shlokk/hcl)**
 - 2022-12-01, **BEV-LGKD: A Unified LiDAR-Guided Knowledge Distillation Framework for BEV 3D Object Detection**, Jianing Li et.al., Paper: [http://arxiv.org/abs/2212.00623v1](http://arxiv.org/abs/2212.00623v1)
@@ -1272,7 +1291,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20221205>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221206>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
