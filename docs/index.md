@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.02.22
+## Updated on 2023.02.23
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-21**|**On Calibrating Diffusion Probabilistic Models**|Tianyu Pang et.al.|[2302.10688v1](http://arxiv.org/abs/2302.10688v1)|**[link](https://github.com/thudzj/calibrated-dpms)**|
+|**2023-02-21**|**Playing the Werewolf game with artificial intelligence for language understanding**|Hisaichi Shibata et.al.|[2302.10646v1](http://arxiv.org/abs/2302.10646v1)|null|
+|**2023-02-21**|**Few-Shot Point Cloud Semantic Segmentation via Contrastive Self-Supervision and Multi-Resolution Attention**|Jiahui Wang et.al.|[2302.10501v1](http://arxiv.org/abs/2302.10501v1)|null|
 |**2023-02-20**|**Towards Universal Fake Image Detectors that Generalize Across Generative Models**|Utkarsh Ojha et.al.|[2302.10174v1](http://arxiv.org/abs/2302.10174v1)|null|
 |**2023-02-20**|**Cross-domain Compositing with Pretrained Diffusion Models**|Roy Hachnochi et.al.|[2302.10167v1](http://arxiv.org/abs/2302.10167v1)|**[link](https://github.com/cross-domain-compositing/cross-domain-compositing)**|
 |**2023-02-20**|**Progressive Knowledge Distillation: Building Ensembles for Efficient Inference**|Don Kurian Dennis et.al.|[2302.10093v1](http://arxiv.org/abs/2302.10093v1)|null|
@@ -487,12 +490,15 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230222>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230223>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-21**|**Generalization Bounds for Adversarial Contrastive Learning**|Xin Zou et.al.|[2302.10633v1](http://arxiv.org/abs/2302.10633v1)|null|
+|**2023-02-21**|**Improving Scene Text Image Super-Resolution via Dual Prior Modulation Network**|Shipeng Zhu et.al.|[2302.10414v1](http://arxiv.org/abs/2302.10414v1)|**[link](https://github.com/jdfxzzy/dpmn)**|
+|**2023-02-21**|**DrasCLR: A Self-supervised Framework of Learning Disease-related and Anatomy-specific Representation for 3D Medical Images**|Ke Yu et.al.|[2302.10390v1](http://arxiv.org/abs/2302.10390v1)|null|
 |**2023-02-20**|**Cross-domain Compositing with Pretrained Diffusion Models**|Roy Hachnochi et.al.|[2302.10167v1](http://arxiv.org/abs/2302.10167v1)|**[link](https://github.com/cross-domain-compositing/cross-domain-compositing)**|
 |**2023-02-20**|**Large-scale Multi-Modal Pre-trained Models: A Comprehensive Survey**|Xiao Wang et.al.|[2302.10035v1](http://arxiv.org/abs/2302.10035v1)|**[link](https://github.com/wangxiao5791509/multimodal_bigmodels_survey)**|
 |**2023-02-20**|**On the Metrics for Evaluating Monocular Depth Estimation**|Akhil Gurram et.al.|[2302.10007v1](http://arxiv.org/abs/2302.10007v1)|null|
@@ -925,7 +931,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230222>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230223>back to top</a>)</p>
 
 ## adaptor
 
@@ -959,12 +965,21 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230222>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230223>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-21**|**A General Visual Representation Guided Framework with Global Affinity for Weakly Supervised Salient Object Detection**|Binwei Xu et.al.|[2302.10697v1](http://arxiv.org/abs/2302.10697v1)|null|
+|**2023-02-21**|**Self-improving object detection via disagreement reconciliation**|Gianluca Scarpellini et.al.|[2302.10624v1](http://arxiv.org/abs/2302.10624v1)|null|
+|**2023-02-21**|**MonoPGC: Monocular 3D Object Detection with Pixel Geometry Contexts**|Zizhang Wu et.al.|[2302.10549v1](http://arxiv.org/abs/2302.10549v1)|null|
+|**2023-02-21**|**MVFusion: Multi-View 3D Object Detection with Semantic-aligned Radar and Camera Fusion**|Zizhang Wu et.al.|[2302.10511v1](http://arxiv.org/abs/2302.10511v1)|null|
+|**2023-02-21**|**Oriented Object Detection in Optical Remote Sensing Images: A Survey**|Kun Wang et.al.|[2302.10473v1](http://arxiv.org/abs/2302.10473v1)|null|
+|**2023-02-21**|**ApproxABFT: Approximate Algorithm-Based Fault Tolerance for Vision Transformers**|Xinghua Xue et.al.|[2302.10469v1](http://arxiv.org/abs/2302.10469v1)|null|
+|**2023-02-21**|**A Flexible Multi-view Multi-modal Imaging System for Outdoor Scenes**|Meng Zhang et.al.|[2302.10465v1](http://arxiv.org/abs/2302.10465v1)|null|
+|**2023-02-21**|**Automotive RADAR sub-sampling via object detection networks: Leveraging prior signal information**|Madhumitha Sakthi et.al.|[2302.10450v1](http://arxiv.org/abs/2302.10450v1)|null|
+|**2023-02-21**|**Assessing Domain Gap for Continual Domain Adaptation in Object Detection**|Anh-Dzung Doan et.al.|[2302.10396v1](http://arxiv.org/abs/2302.10396v1)|**[link](https://github.com/dadung/dge-cda)**|
 |**2023-02-20**|**On the Metrics for Evaluating Monocular Depth Estimation**|Akhil Gurram et.al.|[2302.10007v1](http://arxiv.org/abs/2302.10007v1)|null|
 |**2023-02-20**|**Faster Region-Based CNN Spectrum Sensing and Signal Identification in Cluttered RF Environments**|Todd Morehouse et.al.|[2302.09854v1](http://arxiv.org/abs/2302.09854v1)|null|
 |**2023-02-20**|**Incremental Few-Shot Object Detection via Simple Fine-Tuning Approach**|Tae-Min Choi et.al.|[2302.09779v1](http://arxiv.org/abs/2302.09779v1)|**[link](https://github.com/tmiu/itfa)**|
@@ -1377,7 +1392,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230222>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230223>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
