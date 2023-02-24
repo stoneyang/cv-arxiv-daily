@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.02.23
+## Updated on 2023.02.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-22**|**Transfer Learning Enhanced Full Waveform Inversion**|Stefan Kollmannsberger et.al.|[2302.11259v1](http://arxiv.org/abs/2302.11259v1)|null|
+|**2023-02-22**|**Cross-modal Audio-visual Co-learning for Text-independent Speaker Verification**|Meng Liu et.al.|[2302.11254v1](http://arxiv.org/abs/2302.11254v1)|**[link](https://github.com/danielmengliu/audiovisuallip)**|
+|**2023-02-22**|**Open-domain Visual Entity Recognition: Towards Recognizing Millions of Wikipedia Entities**|Hexiang Hu et.al.|[2302.11154v1](http://arxiv.org/abs/2302.11154v1)|null|
+|**2023-02-21**|**A Reinforcement Learning Framework for Online Speaker Diarization**|Baihan Lin et.al.|[2302.10924v1](http://arxiv.org/abs/2302.10924v1)|null|
 |**2023-02-21**|**On Calibrating Diffusion Probabilistic Models**|Tianyu Pang et.al.|[2302.10688v1](http://arxiv.org/abs/2302.10688v1)|**[link](https://github.com/thudzj/calibrated-dpms)**|
 |**2023-02-21**|**Playing the Werewolf game with artificial intelligence for language understanding**|Hisaichi Shibata et.al.|[2302.10646v1](http://arxiv.org/abs/2302.10646v1)|null|
 |**2023-02-21**|**Few-Shot Point Cloud Semantic Segmentation via Contrastive Self-Supervision and Multi-Resolution Attention**|Jiahui Wang et.al.|[2302.10501v1](http://arxiv.org/abs/2302.10501v1)|null|
@@ -486,12 +490,21 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230223>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230224>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-22**|**Modular Deep Learning**|Jonas Pfeiffer et.al.|[2302.11529v1](http://arxiv.org/abs/2302.11529v1)|null|
+|**2023-02-22**|**Guiding Large Language Models via Directional Stimulus Prompting**|Zekun Li et.al.|[2302.11520v1](http://arxiv.org/abs/2302.11520v1)|null|
+|**2023-02-22**|**X-TRA: Improving Chest X-ray Tasks with Cross-Modal Retrieval Augmentation**|Tom van Sonsbeek et.al.|[2302.11352v1](http://arxiv.org/abs/2302.11352v1)|null|
+|**2023-02-22**|**Steerable Equivariant Representation Learning**|Sangnie Bhardwaj et.al.|[2302.11349v1](http://arxiv.org/abs/2302.11349v1)|null|
+|**2023-02-22**|**Time-varying Signals Recovery via Graph Neural Networks**|Jhon A. Castro-Correa et.al.|[2302.11313v1](http://arxiv.org/abs/2302.11313v1)|null|
+|**2023-02-22**|**Contrastive Representation Learning for Acoustic Parameter Estimation**|Philipp Götz et.al.|[2302.11205v1](http://arxiv.org/abs/2302.11205v1)|null|
+|**2023-02-22**|**GTRL: An Entity Group-Aware Temporal Knowledge Graph Representation Learning Method**|Xing Tang et.al.|[2302.11091v1](http://arxiv.org/abs/2302.11091v1)|**[link](https://github.com/xt-55/GTRL)**|
+|**2023-02-22**|**Distribution Normalization: An "Effortless" Test-Time Augmentation for Contrastively Learned Visual-language Models**|Yifei Zhou et.al.|[2302.11084v1](http://arxiv.org/abs/2302.11084v1)|**[link](https://github.com/fengyuli2002/distribution-normalization)**|
+|**2023-02-21**|**Learning Physical Models that Can Respect Conservation Laws**|Derek Hansen et.al.|[2302.11002v1](http://arxiv.org/abs/2302.11002v1)|**[link](https://github.com/amazon-science/probconserv)**|
 |**2023-02-21**|**Generalization Bounds for Adversarial Contrastive Learning**|Xin Zou et.al.|[2302.10633v1](http://arxiv.org/abs/2302.10633v1)|null|
 |**2023-02-21**|**Improving Scene Text Image Super-Resolution via Dual Prior Modulation Network**|Shipeng Zhu et.al.|[2302.10414v1](http://arxiv.org/abs/2302.10414v1)|**[link](https://github.com/jdfxzzy/dpmn)**|
 |**2023-02-21**|**DrasCLR: A Self-supervised Framework of Learning Disease-related and Anatomy-specific Representation for 3D Medical Images**|Ke Yu et.al.|[2302.10390v1](http://arxiv.org/abs/2302.10390v1)|null|
@@ -927,7 +940,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230223>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230224>back to top</a>)</p>
 
 ## adaptor
 
@@ -961,12 +974,17 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230223>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230224>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-22**|**Transformer-Based Sensor Fusion for Autonomous Driving: A Survey**|Apoorv Singh et.al.|[2302.11481v1](http://arxiv.org/abs/2302.11481v1)|null|
+|**2023-02-22**|**Saliency detection and quantization index modulation based high payload HDR image watermarking**|Ahmed Khan et.al.|[2302.11361v1](http://arxiv.org/abs/2302.11361v1)|null|
+|**2023-02-22**|**Steerable Equivariant Representation Learning**|Sangnie Bhardwaj et.al.|[2302.11349v1](http://arxiv.org/abs/2302.11349v1)|null|
+|**2023-02-22**|**Towards End-to-end Semi-supervised Learning for One-stage Object Detection**|Gen Luo et.al.|[2302.11299v1](http://arxiv.org/abs/2302.11299v1)|**[link](https://github.com/luogen1996/oneteacher)**|
+|**2023-02-22**|**DISCO: Distributed Inference with Sparse Communications**|Minghai Qin et.al.|[2302.11180v1](http://arxiv.org/abs/2302.11180v1)|null|
 |**2023-02-21**|**A General Visual Representation Guided Framework with Global Affinity for Weakly Supervised Salient Object Detection**|Binwei Xu et.al.|[2302.10697v1](http://arxiv.org/abs/2302.10697v1)|null|
 |**2023-02-21**|**Self-improving object detection via disagreement reconciliation**|Gianluca Scarpellini et.al.|[2302.10624v1](http://arxiv.org/abs/2302.10624v1)|null|
 |**2023-02-21**|**MonoPGC: Monocular 3D Object Detection with Pixel Geometry Contexts**|Zizhang Wu et.al.|[2302.10549v1](http://arxiv.org/abs/2302.10549v1)|null|
@@ -1388,7 +1406,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230223>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230224>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
