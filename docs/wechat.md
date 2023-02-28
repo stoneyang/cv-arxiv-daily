@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2023.02.27
+> Updated on 2023.02.28
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,10 @@
 
 ## pretrain
 
+- 2023-02-24, **Modulating Pretrained Diffusion Models for Multimodal Image Synthesis**, Cusuh Ham et.al., Paper: [http://arxiv.org/abs/2302.12764v1](http://arxiv.org/abs/2302.12764v1)
+- 2023-02-24, **Boosting Transformers and Language Models for Clinical Prediction in Immunotherapy**, Zekai Chen et.al., Paper: [http://arxiv.org/abs/2302.12692v1](http://arxiv.org/abs/2302.12692v1)
+- 2023-02-24, **A Knowledge Distillation framework for Multi-Organ Segmentation of Medaka Fish in Tomographic Image**, Jwalin Bhatt et.al., Paper: [http://arxiv.org/abs/2302.12562v1](http://arxiv.org/abs/2302.12562v1)
+- 2023-02-23, **Dynamic Benchmarking of Masked Language Models on Temporal Concept Drift with Multiple Views**, Katerina Margatina et.al., Paper: [http://arxiv.org/abs/2302.12297v1](http://arxiv.org/abs/2302.12297v1)
 - 2023-02-23, **Improving Adaptive Conformal Prediction Using Self-Supervised Learning**, Nabeel Seedat et.al., Paper: [http://arxiv.org/abs/2302.12238v1](http://arxiv.org/abs/2302.12238v1), Code: **[https://github.com/seedatnabeel/sscp](https://github.com/seedatnabeel/sscp)**
 - 2023-02-23, **Uncertainty Guided Ensemble Self-Training for Semi-Supervised Global Field Reconstruction**, Yunyang Zhang et.al., Paper: [http://arxiv.org/abs/2302.11940v1](http://arxiv.org/abs/2302.11940v1), Code: **[https://github.com/meitounao110/uge-st](https://github.com/meitounao110/uge-st)**
 - 2023-02-23, **Power Time Series Forecasting by Pretrained LM**, Tian Zhou et.al., Paper: [http://arxiv.org/abs/2302.11939v1](http://arxiv.org/abs/2302.11939v1)
@@ -497,10 +501,19 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20230227>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230228>back to top</a>)</p>
 
 ## downstream
 
+- 2023-02-24, **Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback**, Baolin Peng et.al., Paper: [http://arxiv.org/abs/2302.12813v1](http://arxiv.org/abs/2302.12813v1)
+- 2023-02-24, **Amortised Invariance Learning for Contrastive Self-Supervision**, Ruchika Chavhan et.al., Paper: [http://arxiv.org/abs/2302.12712v1](http://arxiv.org/abs/2302.12712v1)
+- 2023-02-24, **Leveraging Jumpy Models for Planning and Fast Learning in Robotic Domains**, Jingwei Zhang et.al., Paper: [http://arxiv.org/abs/2302.12617v1](http://arxiv.org/abs/2302.12617v1)
+- 2023-02-24, **Active Velocity Estimation using Light Curtains via Self-Supervised Multi-Armed Bandits**, Siddharth Ancha et.al., Paper: [http://arxiv.org/abs/2302.12597v1](http://arxiv.org/abs/2302.12597v1)
+- 2023-02-24, **Spatial Bias for Attention-free Non-local Neural Networks**, Junhyung Go et.al., Paper: [http://arxiv.org/abs/2302.12505v1](http://arxiv.org/abs/2302.12505v1)
+- 2023-02-24, **SGL-PT: A Strong Graph Learner with Graph Prompt Tuning**, Yun Zhu et.al., Paper: [http://arxiv.org/abs/2302.12449v1](http://arxiv.org/abs/2302.12449v1)
+- 2023-02-24, **MUX-PLMs: Pre-training Language Models with Data Multiplexing**, Vishvak Murahari et.al., Paper: [http://arxiv.org/abs/2302.12441v1](http://arxiv.org/abs/2302.12441v1), Code: **[https://github.com/princeton-nlp/datamux-pretraining](https://github.com/princeton-nlp/datamux-pretraining)**
+- 2023-02-24, **Generalization Analysis for Contrastive Representation Learning**, Yunwen Lei et.al., Paper: [http://arxiv.org/abs/2302.12383v1](http://arxiv.org/abs/2302.12383v1)
+- 2023-02-23, **CHiLL: Zero-shot Custom Interpretable Feature Extraction from Clinical Notes with Large Language Models**, Denis Jered McInerney et.al., Paper: [http://arxiv.org/abs/2302.12343v1](http://arxiv.org/abs/2302.12343v1)
 - 2023-02-23, **Teaching CLIP to Count to Ten**, Roni Paiss et.al., Paper: [http://arxiv.org/abs/2302.12066v1](http://arxiv.org/abs/2302.12066v1)
 - 2023-02-23, **Attention Mechanism for Contrastive Learning in GAN-based Image-to-Image Translation**, Hanzhen Zhang et.al., Paper: [http://arxiv.org/abs/2302.12052v1](http://arxiv.org/abs/2302.12052v1)
 - 2023-02-22, **DMMG: Dual Min-Max Games for Self-Supervised Skeleton-Based Action Recognition**, Shannan Guan et.al., Paper: [http://arxiv.org/abs/2302.12007v1](http://arxiv.org/abs/2302.12007v1)
@@ -949,7 +962,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20230227>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230228>back to top</a>)</p>
 
 ## adaptor
 
@@ -981,10 +994,12 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20230227>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230228>back to top</a>)</p>
 
 ## object detection
 
+- 2023-02-24, **Quantifying Noise Limitations of Neural Network Segmentations in High-Resolution Transmission Electron Microscopy**, Matthew Helmi Leth Larsen et.al., Paper: [http://arxiv.org/abs/2302.12629v1](http://arxiv.org/abs/2302.12629v1)
+- 2023-02-24, **Spatial Bias for Attention-free Non-local Neural Networks**, Junhyung Go et.al., Paper: [http://arxiv.org/abs/2302.12505v1](http://arxiv.org/abs/2302.12505v1)
 - 2023-02-23, **Deep OC-SORT: Multi-Pedestrian Tracking by Adaptive Re-Identification**, Gerard Maggiolino et.al., Paper: [http://arxiv.org/abs/2302.11813v1](http://arxiv.org/abs/2302.11813v1), Code: **[https://github.com/gerardmaggiolino/deep-oc-sort](https://github.com/gerardmaggiolino/deep-oc-sort)**
 - 2023-02-23, **A novel efficient Multi-view traffic-related object detection framework**, Kun Yang et.al., Paper: [http://arxiv.org/abs/2302.11810v1](http://arxiv.org/abs/2302.11810v1)
 - 2023-02-23, **Open-World Object Detection via Discriminative Class Prototype Learning**, Jinan Yu et.al., Paper: [http://arxiv.org/abs/2302.11757v1](http://arxiv.org/abs/2302.11757v1)
@@ -1416,7 +1431,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20230227>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230228>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
