@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.03.01
+## Updated on 2023.03.02
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-28**|**In-Context Instruction Learning**|Seonghyeon Ye et.al.|[2302.14691v1](http://arxiv.org/abs/2302.14691v1)|**[link](https://github.com/seonghyeonye/icil)**|
+|**2023-02-28**|**Fast as CHITA: Neural Network Pruning with Combinatorial Optimization**|Riade Benbaki et.al.|[2302.14623v1](http://arxiv.org/abs/2302.14623v1)|null|
+|**2023-02-28**|**IQ-Flow: Mechanism Design for Inducing Cooperative Behavior to Self-Interested Agents in Sequential Social Dilemmas**|Bengisu Guresti et.al.|[2302.14604v1](http://arxiv.org/abs/2302.14604v1)|**[link](https://github.com/data-and-decision-lab/iq-flow)**|
+|**2023-02-28**|**BrainBERT: Self-supervised representation learning for intracranial recordings**|Christopher Wang et.al.|[2302.14367v1](http://arxiv.org/abs/2302.14367v1)|null|
+|**2023-02-28**|**Turning a CLIP Model into a Scene Text Detector**|Wenwen Yu et.al.|[2302.14338v1](http://arxiv.org/abs/2302.14338v1)|null|
+|**2023-02-28**|**Remote Sensing Scene Classification with Masked Image Modeling (MIM)**|Liya Wang et.al.|[2302.14256v1](http://arxiv.org/abs/2302.14256v1)|null|
+|**2023-02-28**|**CHGNet: Pretrained universal neural network potential for charge-informed atomistic modeling**|Bowen Deng et.al.|[2302.14231v1](http://arxiv.org/abs/2302.14231v1)|null|
+|**2023-02-28**|**Weighted Sampling for Masked Language Modeling**|Linhan Zhang et.al.|[2302.14225v1](http://arxiv.org/abs/2302.14225v1)|null|
+|**2023-02-28**|**Are Character-level Translations Worth the Wait? An Extensive Comparison of Character- and Subword-level Models for Machine Translation**|Lukas Edman et.al.|[2302.14220v1](http://arxiv.org/abs/2302.14220v1)|null|
+|**2023-02-27**|**Linear pretraining in recurrent mixture density networks**|Hubert Normandin-Taillon et.al.|[2302.14141v1](http://arxiv.org/abs/2302.14141v1)|null|
 |**2023-02-27**|**EDMAE: An Efficient Decoupled Masked Autoencoder for Standard View Identification in Pediatric Echocardiography**|Yiman Liu et.al.|[2302.13869v1](http://arxiv.org/abs/2302.13869v1)|null|
 |**2023-02-27**|**Contrastive Video Question Answering via Video Graph Transformer**|Junbin Xiao et.al.|[2302.13668v1](http://arxiv.org/abs/2302.13668v1)|null|
 |**2023-02-27**|**Using Auxiliary Tasks In Multimodal Fusion Of Wav2vec 2.0 And BERT For Multimodal Emotion Recognition**|Dekai Sun et.al.|[2302.13661v1](http://arxiv.org/abs/2302.13661v1)|null|
@@ -511,12 +521,17 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230301>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230302>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-28**|**Efficient Masked Autoencoders with Self-Consistency**|Zhaowen Li et.al.|[2302.14431v1](http://arxiv.org/abs/2302.14431v1)|null|
+|**2023-02-28**|**Turning a CLIP Model into a Scene Text Detector**|Wenwen Yu et.al.|[2302.14338v1](http://arxiv.org/abs/2302.14338v1)|null|
+|**2023-02-28**|**CLR-GAM: Contrastive Point Cloud Learning with Guided Augmentation and Feature Mapping**|Srikanth Malla et.al.|[2302.14306v1](http://arxiv.org/abs/2302.14306v1)|null|
+|**2023-02-28**|**Weighted Sampling for Masked Language Modeling**|Linhan Zhang et.al.|[2302.14225v1](http://arxiv.org/abs/2302.14225v1)|null|
+|**2023-02-27**|**Structured Pruning of Self-Supervised Pre-trained Models for Speech Recognition and Understanding**|Yifan Peng et.al.|[2302.14132v1](http://arxiv.org/abs/2302.14132v1)|null|
 |**2023-02-27**|**Joint-MAE: 2D-3D Joint Masked Autoencoders for 3D Point Cloud Pre-training**|Ziyu Guo et.al.|[2302.14007v1](http://arxiv.org/abs/2302.14007v1)|null|
 |**2023-02-27**|**EDMAE: An Efficient Decoupled Masked Autoencoder for Standard View Identification in Pediatric Echocardiography**|Yiman Liu et.al.|[2302.13869v1](http://arxiv.org/abs/2302.13869v1)|null|
 |**2023-02-27**|**Using Auxiliary Tasks In Multimodal Fusion Of Wav2vec 2.0 And BERT For Multimodal Emotion Recognition**|Dekai Sun et.al.|[2302.13661v1](http://arxiv.org/abs/2302.13661v1)|null|
@@ -980,7 +995,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230301>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230302>back to top</a>)</p>
 
 ## adaptor
 
@@ -1014,12 +1029,22 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230301>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230302>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-28**|**Generic-to-Specific Distillation of Masked Autoencoders**|Wei Huang et.al.|[2302.14771v1](http://arxiv.org/abs/2302.14771v1)|null|
+|**2023-02-28**|**Mask3D: Pre-training 2D Vision Transformers by Learning Masked 3D Priors**|Ji Hou et.al.|[2302.14746v1](http://arxiv.org/abs/2302.14746v1)|null|
+|**2023-02-28**|**FPCD: An Open Aerial VHR Dataset for Farm Pond Change Detection**|Chintan Tundia et.al.|[2302.14554v1](http://arxiv.org/abs/2302.14554v1)|null|
+|**2023-02-28**|**AdaptiveShape: Solving Shape Variability for 3D Object Detection with Geometry Aware Anchor Distributions**|Benjamin Sick et.al.|[2302.14522v1](http://arxiv.org/abs/2302.14522v1)|null|
+|**2023-02-28**|**TrainSim: A Railway Simulation Framework for LiDAR and Camera Dataset Generation**|Gianluca D'Amico et.al.|[2302.14486v1](http://arxiv.org/abs/2302.14486v1)|null|
+|**2023-02-28**|**Memory-aided Contrastive Consensus Learning for Co-salient Object Detection**|Peng Zheng et.al.|[2302.14485v1](http://arxiv.org/abs/2302.14485v1)|**[link](https://github.com/zhengpeng7/mccl)**|
+|**2023-02-28**|**An Effective Crop-Paste Pipeline for Few-shot Object Detection**|Shaobo Lin et.al.|[2302.14452v1](http://arxiv.org/abs/2302.14452v1)|null|
+|**2023-02-28**|**Embedded light-weight approach for safe landing in populated areas**|Tilemahos Mitroudas et.al.|[2302.14445v1](http://arxiv.org/abs/2302.14445v1)|null|
+|**2023-02-28**|**Efficient Masked Autoencoders with Self-Consistency**|Zhaowen Li et.al.|[2302.14431v1](http://arxiv.org/abs/2302.14431v1)|null|
+|**2023-02-28**|**At-Scale Evaluation of Weight Clustering to Enable Energy-Efficient Object Detection**|Martí Caro et.al.|[2302.14426v1](http://arxiv.org/abs/2302.14426v1)|null|
 |**2023-02-27**|**Aligning Bag of Regions for Open-Vocabulary Object Detection**|Size Wu et.al.|[2302.13996v1](http://arxiv.org/abs/2302.13996v1)|**[link](https://github.com/wusize/ovdet)**|
 |**2023-02-27**|**Supervised Virtual-to-Real Domain Adaptation for Object Detection Task using YOLO**|Akbar Satya Nugraha et.al.|[2302.13891v1](http://arxiv.org/abs/2302.13891v1)|null|
 |**2023-02-27**|**Saliency-Driven Hierarchical Learned Image Coding for Machines**|Kristian Fischer et.al.|[2302.13581v1](http://arxiv.org/abs/2302.13581v1)|null|
@@ -1463,7 +1488,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230301>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230302>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
