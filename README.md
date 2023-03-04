@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.03.03
+## Updated on 2023.03.04
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-02**|**Transferring Models Trained on Natural Images to 3D MRI via Position Encoded Slice Models**|Umang Gupta et.al.|[2303.01491v1](http://arxiv.org/abs/2303.01491v1)|**[link](https://github.com/umgupta/2d-slice-set-networks)**|
+|**2023-03-02**|**Weakly-supervised HOI Detection via Prior-guided Bi-level Representation Learning**|Bo Wan et.al.|[2303.01313v1](http://arxiv.org/abs/2303.01313v1)|null|
+|**2023-03-02**|**MixPHM: Redundancy-Aware Parameter-Efficient Tuning for Low-Resource Visual Question Answering**|Jingjing Jiang et.al.|[2303.01239v1](http://arxiv.org/abs/2303.01239v1)|null|
+|**2023-03-02**|**FlowFormer++: Masked Cost Volume Autoencoding for Pretraining Optical Flow Estimation**|Xiaoyu Shi et.al.|[2303.01237v1](http://arxiv.org/abs/2303.01237v1)|null|
+|**2023-03-02**|**Unsupervised Meta-Learning via Few-shot Pseudo-supervised Contrastive Learning**|Huiwon Jang et.al.|[2303.00996v1](http://arxiv.org/abs/2303.00996v1)|**[link](https://github.com/alinlab/psco)**|
+|**2023-03-02**|**Learning to Grow Pretrained Models for Efficient Transformer Training**|Peihao Wang et.al.|[2303.00980v1](http://arxiv.org/abs/2303.00980v1)|null|
+|**2023-03-02**|**Image Labels Are All You Need for Coarse Seagrass Segmentation**|Scarlett Raine et.al.|[2303.00973v1](http://arxiv.org/abs/2303.00973v1)|**[link](https://github.com/sgraine/bag-of-seagrass)**|
+|**2023-03-02**|**Enhancing General Face Forgery Detection via Vision Transformer with Low-Rank Adaptation**|Chenqi Kong et.al.|[2303.00917v1](http://arxiv.org/abs/2303.00917v1)|null|
+|**2023-03-02**|**Large-Scale Domain-Specific Pretraining for Biomedical Vision-Language Processing**|Sheng Zhang et.al.|[2303.00915v1](http://arxiv.org/abs/2303.00915v1)|null|
 |**2023-03-01**|**RAMM: Retrieval-augmented Biomedical Visual Question Answering with Multi-modal Pre-training**|Zheng Yuan et.al.|[2303.00534v1](http://arxiv.org/abs/2303.00534v1)|null|
 |**2023-03-01**|**Competence-Based Analysis of Language Models**|Adam Davies et.al.|[2303.00333v1](http://arxiv.org/abs/2303.00333v1)|null|
 |**2023-03-01**|**Speeding Up EfficientNet: Selecting Update Blocks of Convolutional Neural Networks using Genetic Algorithm in Transfer Learning**|Md. Mehedi Hasana et.al.|[2303.00261v1](http://arxiv.org/abs/2303.00261v1)|null|
@@ -524,12 +533,17 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230303>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230304>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-02**|**Semiparametric Language Models Are Scalable Continual Learners**|Guangyue Peng et.al.|[2303.01421v1](http://arxiv.org/abs/2303.01421v1)|null|
+|**2023-03-02**|**DAVA: Disentangling Adversarial Variational Autoencoder**|Benjamin Estermann et.al.|[2303.01384v1](http://arxiv.org/abs/2303.01384v1)|**[link](https://github.com/besterma/dava)**|
+|**2023-03-02**|**Rethinking the Effect of Data Augmentation in Adversarial Contrastive Learning**|Rundong Luo et.al.|[2303.01289v1](http://arxiv.org/abs/2303.01289v1)|**[link](https://github.com/pku-ml/dynacl)**|
+|**2023-03-02**|**Multi-Task Self-Supervised Time-Series Representation Learning**|Heejeong Choi et.al.|[2303.01034v1](http://arxiv.org/abs/2303.01034v1)|null|
+|**2023-03-02**|**Node Embedding from Hamiltonian Information Propagation in Graph Neural Networks**|Qiyu Kang et.al.|[2303.01030v1](http://arxiv.org/abs/2303.01030v1)|null|
 |**2023-03-01**|**SpeechPrompt v2: Prompt Tuning for Speech Classification Tasks**|Kai-Wei Chang et.al.|[2303.00733v1](http://arxiv.org/abs/2303.00733v1)|null|
 |**2023-03-01**|**Rethinking Efficient Tuning Methods from a Unified Perspective**|Zeyinzi Jiang et.al.|[2303.00690v1](http://arxiv.org/abs/2303.00690v1)|null|
 |**2023-03-01**|**Can representation learning for multimodal image registration be improved by supervision of intermediate layers?**|Elisabeth Wetzer et.al.|[2303.00403v1](http://arxiv.org/abs/2303.00403v1)|null|
@@ -1004,12 +1018,13 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230303>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230304>back to top</a>)</p>
 
 ## adaptor
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-02**|**Boosting Distributed Full-graph GNN Training with Asynchronous One-bit Communication**|Meng Zhang et.al.|[2303.01277v1](http://arxiv.org/abs/2303.01277v1)|null|
 |**2023-03-01**|**The style transformer with common knowledge optimization for image-text retrieval**|Wenrui Li et.al.|[2303.00448v1](http://arxiv.org/abs/2303.00448v1)|null|
 |**2023-02-16**|**LayoutDiffuse: Adapting Foundational Diffusion Models for Layout-to-Image Generation**|Jiaxin Cheng et.al.|[2302.08908v1](http://arxiv.org/abs/2302.08908v1)|null|
 |**2023-02-16**|**Efficient Teacher: Semi-Supervised Object Detection for YOLOv5**|Bowen Xu et.al.|[2302.07577v2](http://arxiv.org/abs/2302.07577v2)|**[link](https://github.com/AlibabaResearch/efficientteacher)**|
@@ -1039,12 +1054,19 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230303>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230304>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-02**|**FeatAug-DETR: Enriching One-to-Many Matching for DETRs with Feature Augmentation**|Rongyao Fang et.al.|[2303.01503v1](http://arxiv.org/abs/2303.01503v1)|**[link](https://github.com/rongyaofang/feataug-detr)**|
+|**2023-03-02**|**Deep-NFA: a Deep $\textit{a contrario}$ Framework for Small Object Detection**|Alina Ciocarlan et.al.|[2303.01363v1](http://arxiv.org/abs/2303.01363v1)|null|
+|**2023-03-02**|**AdvRain: Adversarial Raindrops to Attack Camera-based Smart Vision Systems**|Amira Guesmi et.al.|[2303.01338v1](http://arxiv.org/abs/2303.01338v1)|null|
+|**2023-03-02**|**A Coarse to Fine Framework for Object Detection in High Resolution Image**|Jinyan Liu et.al.|[2303.01219v1](http://arxiv.org/abs/2303.01219v1)|null|
+|**2023-03-02**|**STDepthFormer: Predicting Spatio-temporal Depth from Video with a Self-supervised Transformer Model**|Houssem Boulahbal et.al.|[2303.01196v1](http://arxiv.org/abs/2303.01196v1)|null|
+|**2023-03-02**|**Task-Specific Context Decoupling for Object Detection**|Jiayuan Zhuang et.al.|[2303.01047v1](http://arxiv.org/abs/2303.01047v1)|null|
+|**2023-03-02**|**Using simulation to quantify the performance of automotive perception systems**|Zhenyi Liu et.al.|[2303.00983v1](http://arxiv.org/abs/2303.00983v1)|null|
 |**2023-03-01**|**OSRE: Object-to-Spot Rotation Estimation for Bike Parking Assessment**|Saghir Alfasly et.al.|[2303.00725v1](http://arxiv.org/abs/2303.00725v1)|null|
 |**2023-03-01**|**Nearest Neighbors Meet Deep Neural Networks for Point Cloud Analysis**|Renrui Zhang et.al.|[2303.00703v1](http://arxiv.org/abs/2303.00703v1)|null|
 |**2023-03-01**|**D2Q-DETR: Decoupling and Dynamic Queries for Oriented Object Detection with Transformers**|Qiang Zhou et.al.|[2303.00542v1](http://arxiv.org/abs/2303.00542v1)|null|
@@ -1506,7 +1528,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230303>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230304>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
