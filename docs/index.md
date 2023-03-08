@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.03.07
+## Updated on 2023.03.08
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-06**|**CleanCLIP: Mitigating Data Poisoning Attacks in Multimodal Contrastive Learning**|Hritik Bansal et.al.|[2303.03323v1](http://arxiv.org/abs/2303.03323v1)|null|
+|**2023-03-06**|**IPA-CLIP: Integrating Phonetic Priors into Vision and Language Pretraining**|Chihaya Matsuhira et.al.|[2303.03144v1](http://arxiv.org/abs/2303.03144v1)|null|
+|**2023-03-06**|**ST-KeyS: Self-Supervised Transformer for Keyword Spotting in Historical Handwritten Documents**|Sana Khamekhem Jemni et.al.|[2303.03127v1](http://arxiv.org/abs/2303.03127v1)|null|
+|**2023-03-06**|**HiCLIP: Contrastive Language-Image Pretraining with Hierarchy-aware Attention**|Shijie Geng et.al.|[2303.02995v1](http://arxiv.org/abs/2303.02995v1)|**[link](https://github.com/jeykigung/hiclip)**|
+|**2023-03-06**|**Multitask Prompt Tuning Enables Parameter-Efficient Transfer Learning**|Zhen Wang et.al.|[2303.02861v1](http://arxiv.org/abs/2303.02861v1)|null|
+|**2023-03-05**|**Learning to Localize in Unseen Scenes with Relative Pose Regressors**|Ofer Idan et.al.|[2303.02717v1](http://arxiv.org/abs/2303.02717v1)|**[link](https://github.com/yolish/relformer)**|
+|**2023-03-05**|**Knowledge-Enhanced Semi-Supervised Federated Learning for Aggregating Heterogeneous Lightweight Clients in IoT**|Jiaqi Wang et.al.|[2303.02668v1](http://arxiv.org/abs/2303.02668v1)|null|
+|**2023-03-05**|**Comparative study of Transformer and LSTM Network with attention mechanism on Image Captioning**|Pranav Dandwate et.al.|[2303.02648v1](http://arxiv.org/abs/2303.02648v1)|null|
+|**2023-03-05**|**Effectiveness of Data Augmentation for Prefix Tuning with Limited Data**|Stephen Obadinma et.al.|[2303.02577v1](http://arxiv.org/abs/2303.02577v1)|null|
+|**2023-03-04**|**CapDet: Unifying Dense Captioning and Open-World Detection Pretraining**|Yanxin Long et.al.|[2303.02489v1](http://arxiv.org/abs/2303.02489v1)|null|
 |**2023-03-03**|**Data-Efficient Training of CNNs and Transformers with Coresets: A Stability Perspective**|Animesh Gupta et.al.|[2303.02095v1](http://arxiv.org/abs/2303.02095v1)|**[link](https://github.com/transmuteai/data-efficient-transformers)**|
 |**2023-03-03**|**Bespoke: A Block-Level Neural Network Optimization Framework for Low-Cost Deployment**|Jong-Ryul Lee et.al.|[2303.01913v1](http://arxiv.org/abs/2303.01913v1)|null|
 |**2023-03-03**|**Word-As-Image for Semantic Typography**|Shir Iluz et.al.|[2303.01818v1](http://arxiv.org/abs/2303.01818v1)|null|
@@ -545,12 +555,22 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230307>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230308>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-06**|**ST-KeyS: Self-Supervised Transformer for Keyword Spotting in Historical Handwritten Documents**|Sana Khamekhem Jemni et.al.|[2303.03127v1](http://arxiv.org/abs/2303.03127v1)|null|
+|**2023-03-06**|**EvCenterNet: Uncertainty Estimation for Object Detection using Evidential Learning**|Monish R. Nallapareddy et.al.|[2303.03037v1](http://arxiv.org/abs/2303.03037v1)|null|
+|**2023-03-06**|**HiCLIP: Contrastive Language-Image Pretraining with Hierarchy-aware Attention**|Shijie Geng et.al.|[2303.02995v1](http://arxiv.org/abs/2303.02995v1)|**[link](https://github.com/jeykigung/hiclip)**|
+|**2023-03-06**|**CLIP-guided Prototype Modulating for Few-shot Action Recognition**|Xiang Wang et.al.|[2303.02982v1](http://arxiv.org/abs/2303.02982v1)|**[link](https://github.com/alibaba-mmai-research/clip-fsar)**|
+|**2023-03-06**|**UniHCP: A Unified Model for Human-Centric Perceptions**|Yuanzheng Ci et.al.|[2303.02936v1](http://arxiv.org/abs/2303.02936v1)|null|
+|**2023-03-06**|**Multitask Prompt Tuning Enables Parameter-Efficient Transfer Learning**|Zhen Wang et.al.|[2303.02861v1](http://arxiv.org/abs/2303.02861v1)|null|
+|**2023-03-06**|**A Multi-Grained Self-Interpretable Symbolic-Neural Model For Single/Multi-Labeled Text Classification**|Xiang Hu et.al.|[2303.02860v1](http://arxiv.org/abs/2303.02860v1)|**[link](https://github.com/ant-research/structuredlm_rtdt)**|
+|**2023-03-05**|**Human-Art: A Versatile Human-Centric Dataset Bridging Natural and Artificial Scenes**|Xuan Ju et.al.|[2303.02760v1](http://arxiv.org/abs/2303.02760v1)|null|
+|**2023-03-05**|**An Empirical Study of Pre-Trained Model Reuse in the Hugging Face Deep Learning Model Registry**|Wenxin Jiang et.al.|[2303.02552v1](http://arxiv.org/abs/2303.02552v1)|null|
+|**2023-03-04**|**PixMIM: Rethinking Pixel Reconstruction in Masked Image Modeling**|Yuan Liu et.al.|[2303.02416v1](http://arxiv.org/abs/2303.02416v1)|**[link](https://github.com/open-mmlab/mmselfsup)**|
 |**2023-03-03**|**Towards Democratizing Joint-Embedding Self-Supervised Learning**|Florian Bordes et.al.|[2303.01986v1](http://arxiv.org/abs/2303.01986v1)|null|
 |**2023-03-03**|**Self-supervised Learning for Gastrointestinal Pathologies Endoscopy Image Classification with Triplet Loss**|Tai Nguyen-D-P et.al.|[2303.01672v1](http://arxiv.org/abs/2303.01672v1)|null|
 |**2023-03-02**|**On the Provable Advantage of Unsupervised Pretraining**|Jiawei Ge et.al.|[2303.01566v1](http://arxiv.org/abs/2303.01566v1)|null|
@@ -1034,7 +1054,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230307>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230308>back to top</a>)</p>
 
 ## adaptor
 
@@ -1070,12 +1090,22 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230307>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230308>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-06**|**A System for Generalized 3D Multi-Object Search**|Kaiyu Zheng et.al.|[2303.03178v1](http://arxiv.org/abs/2303.03178v1)|**[link](https://github.com/zkytony/genmos_object_search)**|
+|**2023-03-06**|**Unsupervised Active Visual Search with Monte Carlo planning under Uncertain Detections**|Francesco Taioli et.al.|[2303.03155v1](http://arxiv.org/abs/2303.03155v1)|null|
+|**2023-03-06**|**Automatic detection of aerial survey ground control points based on Yolov5-OBB**|Cheng Chuanxiang et.al.|[2303.03041v1](http://arxiv.org/abs/2303.03041v1)|null|
+|**2023-03-06**|**EvCenterNet: Uncertainty Estimation for Object Detection using Evidential Learning**|Monish R. Nallapareddy et.al.|[2303.03037v1](http://arxiv.org/abs/2303.03037v1)|null|
+|**2023-03-06**|**Pseudo-label Correction and Learning For Semi-Supervised Object Detection**|Yulin He et.al.|[2303.02998v1](http://arxiv.org/abs/2303.02998v1)|null|
+|**2023-03-06**|**Dual Feedback Attention Framework via Boundary-Aware Auxiliary and Progressive Semantic Optimization for Salient Object Detection in Optical Remote Sensing Imagery**|Dejun Feng et.al.|[2303.02867v1](http://arxiv.org/abs/2303.02867v1)|**[link](https://github.com/yuhsss/dfa-baso)**|
+|**2023-03-05**|**Scalable Object Detection on Embedded Devices Using Weight Pruning and Singular Value Decomposition**|Dohyun Ham et.al.|[2303.02735v1](http://arxiv.org/abs/2303.02735v1)|null|
+|**2023-03-05**|**CueCAn: Cue Driven Contextual Attention For Identifying Missing Traffic Signs on Unconstrained Roads**|Varun Gupta et.al.|[2303.02641v1](http://arxiv.org/abs/2303.02641v1)|null|
+|**2023-03-04**|**Virtual Sparse Convolution for Multimodal 3D Object Detection**|Hai Wu et.al.|[2303.02314v1](http://arxiv.org/abs/2303.02314v1)|**[link](https://github.com/hailanyi/virconv)**|
+|**2023-03-04**|**Real-time SLAM Pipeline in Dynamics Environment**|Alex Fu et.al.|[2303.02272v1](http://arxiv.org/abs/2303.02272v1)|null|
 |**2023-03-03**|**BSH-Det3D: Improving 3D Object Detection with BEV Shape Heatmap**|You Shen et.al.|[2303.02000v1](http://arxiv.org/abs/2303.02000v1)|**[link](https://github.com/mystorm16/bsh-det3d)**|
 |**2023-03-03**|**Robust Detection Outcome: A Metric for Pathology Detection in Medical Images**|Felix Meissen et.al.|[2303.01920v1](http://arxiv.org/abs/2303.01920v1)|**[link](https://github.com/felime/rodeo)**|
 |**2023-03-03**|**Quantifying the LiDAR Sim-to-Real Domain Shift: A Detailed Investigation Using Object Detectors and Analyzing Point Clouds at Target-Level**|Sebastian Huch et.al.|[2303.01899v1](http://arxiv.org/abs/2303.01899v1)|**[link](https://github.com/tumftm/sim2realdistributionaligneddataset)**|
@@ -1551,7 +1581,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230307>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230308>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
