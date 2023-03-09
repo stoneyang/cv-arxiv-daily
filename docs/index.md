@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.03.08
+## Updated on 2023.03.09
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-07**|**Can We Scale Transformers to Predict Parameters of Diverse ImageNet Models?**|Boris Knyazev et.al.|[2303.04143v1](http://arxiv.org/abs/2303.04143v1)|null|
+|**2023-03-07**|**Foundation Models for Decision Making: Problems, Methods, and Opportunities**|Sherry Yang et.al.|[2303.04129v1](http://arxiv.org/abs/2303.04129v1)|null|
+|**2023-03-07**|**CroCoSum: A Benchmark Dataset for Cross-Lingual Code-Switched Summarization**|Ruochen Zhang et.al.|[2303.04092v1](http://arxiv.org/abs/2303.04092v1)|null|
+|**2023-03-07**|**Larger language models do in-context learning differently**|Jerry Wei et.al.|[2303.03846v1](http://arxiv.org/abs/2303.03846v1)|null|
+|**2023-03-07**|**Lformer: Text-to-Image Generation with L-shape Block Parallel Decoding**|Jiacheng Li et.al.|[2303.03800v1](http://arxiv.org/abs/2303.03800v1)|null|
+|**2023-03-07**|**Prediction of transonic flow over supercritical airfoils using geometric-encoding and deep-learning strategies**|Zhiwen Deng et.al.|[2303.03695v1](http://arxiv.org/abs/2303.03695v1)|null|
+|**2023-03-07**|**AST-SED: An Effective Sound Event Detection Method Based on Audio Spectrogram Transformer**|Kang Li et.al.|[2303.03689v1](http://arxiv.org/abs/2303.03689v1)|null|
+|**2023-03-06**|**Structured Kernel Estimation for Photon-Limited Deconvolution**|Yash Sanghvi et.al.|[2303.03472v1](http://arxiv.org/abs/2303.03472v1)|**[link](https://github.com/sanghviyashiitb/structured-kernel-cvpr23)**|
 |**2023-03-06**|**CleanCLIP: Mitigating Data Poisoning Attacks in Multimodal Contrastive Learning**|Hritik Bansal et.al.|[2303.03323v1](http://arxiv.org/abs/2303.03323v1)|null|
 |**2023-03-06**|**IPA-CLIP: Integrating Phonetic Priors into Vision and Language Pretraining**|Chihaya Matsuhira et.al.|[2303.03144v1](http://arxiv.org/abs/2303.03144v1)|null|
 |**2023-03-06**|**ST-KeyS: Self-Supervised Transformer for Keyword Spotting in Historical Handwritten Documents**|Sana Khamekhem Jemni et.al.|[2303.03127v1](http://arxiv.org/abs/2303.03127v1)|null|
@@ -555,12 +563,17 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230308>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230309>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-07**|**Introspective Cross-Attention Probing for Lightweight Transfer of Pre-trained Models**|Yonatan Dukler et.al.|[2303.04105v1](http://arxiv.org/abs/2303.04105v1)|null|
+|**2023-03-07**|**Comparing 3D deformations between longitudinal daily CBCT acquisitions using CNN for head and neck radiotherapy toxicity prediction**|William Trung Le et.al.|[2303.03965v1](http://arxiv.org/abs/2303.03965v1)|null|
+|**2023-03-07**|**Improving Self-Supervised Learning for Audio Representations by Feature Diversity and Decorrelation**|Bac Nguyen et.al.|[2303.03717v1](http://arxiv.org/abs/2303.03717v1)|null|
+|**2023-03-07**|**MAST: Masked Augmentation Subspace Training for Generalizable Self-Supervised Priors**|Chen Huang et.al.|[2303.03679v1](http://arxiv.org/abs/2303.03679v1)|null|
+|**2023-03-07**|**Self-FiLM: Conditioning GANs with self-supervised representations for bandwidth extension based speaker recognition**|Saurabh Kataria et.al.|[2303.03657v1](http://arxiv.org/abs/2303.03657v1)|null|
 |**2023-03-06**|**ST-KeyS: Self-Supervised Transformer for Keyword Spotting in Historical Handwritten Documents**|Sana Khamekhem Jemni et.al.|[2303.03127v1](http://arxiv.org/abs/2303.03127v1)|null|
 |**2023-03-06**|**EvCenterNet: Uncertainty Estimation for Object Detection using Evidential Learning**|Monish R. Nallapareddy et.al.|[2303.03037v1](http://arxiv.org/abs/2303.03037v1)|null|
 |**2023-03-06**|**HiCLIP: Contrastive Language-Image Pretraining with Hierarchy-aware Attention**|Shijie Geng et.al.|[2303.02995v1](http://arxiv.org/abs/2303.02995v1)|**[link](https://github.com/jeykigung/hiclip)**|
@@ -1054,7 +1067,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230308>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230309>back to top</a>)</p>
 
 ## adaptor
 
@@ -1090,12 +1103,19 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230308>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230309>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-07**|**FFT-based Dynamic Token Mixer for Vision**|Yuki Tatsunami et.al.|[2303.03932v1](http://arxiv.org/abs/2303.03932v1)|null|
+|**2023-03-07**|**Refined Pseudo labeling for Source-free Domain Adaptive Object Detection**|Siqi Zhang et.al.|[2303.03728v1](http://arxiv.org/abs/2303.03728v1)|null|
+|**2023-03-07**|**FIT: Frequency-based Image Translation for Domain Adaptive Object Detection**|Siqi Zhang et.al.|[2303.03698v1](http://arxiv.org/abs/2303.03698v1)|null|
+|**2023-03-07**|**LoGoNet: Towards Accurate 3D Object Detection with Local-to-Global Cross-Modal Fusion**|Xin Li et.al.|[2303.03595v1](http://arxiv.org/abs/2303.03595v1)|null|
+|**2023-03-07**|**Calibration-free BEV Representation for Infrastructure Perception**|Siqi Fan et.al.|[2303.03583v1](http://arxiv.org/abs/2303.03583v1)|null|
+|**2023-03-06**|**Memory Maps for Video Object Detection and Tracking on UAVs**|Benjamin Kiefer et.al.|[2303.03508v1](http://arxiv.org/abs/2303.03508v1)|null|
+|**2023-03-06**|**Can an Embodied Agent Find Your "Cat-shaped Mug"? LLM-Based Zero-Shot Object Navigation**|Vishnu Sashank Dorbala et.al.|[2303.03480v1](http://arxiv.org/abs/2303.03480v1)|null|
 |**2023-03-06**|**A System for Generalized 3D Multi-Object Search**|Kaiyu Zheng et.al.|[2303.03178v1](http://arxiv.org/abs/2303.03178v1)|**[link](https://github.com/zkytony/genmos_object_search)**|
 |**2023-03-06**|**Unsupervised Active Visual Search with Monte Carlo planning under Uncertain Detections**|Francesco Taioli et.al.|[2303.03155v1](http://arxiv.org/abs/2303.03155v1)|null|
 |**2023-03-06**|**Automatic detection of aerial survey ground control points based on Yolov5-OBB**|Cheng Chuanxiang et.al.|[2303.03041v1](http://arxiv.org/abs/2303.03041v1)|null|
@@ -1581,7 +1601,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230308>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230309>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
