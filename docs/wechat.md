@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2023.03.09
+> Updated on 2023.03.10
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,7 +17,14 @@
 
 ## pretrain
 
-- 2023-03-07, **Can We Scale Transformers to Predict Parameters of Diverse ImageNet Models?**, Boris Knyazev et.al., Paper: [http://arxiv.org/abs/2303.04143v1](http://arxiv.org/abs/2303.04143v1)
+- 2023-03-08, **Enhancing Low-resolution Face Recognition with Feature Similarity Knowledge Distillation**, Sungho Shin et.al., Paper: [http://arxiv.org/abs/2303.04681v1](http://arxiv.org/abs/2303.04681v1)
+- 2023-03-08, **Aberration-Aware Depth-from-Focus**, Xinge Yang et.al., Paper: [http://arxiv.org/abs/2303.04654v1](http://arxiv.org/abs/2303.04654v1)
+- 2023-03-08, **FastSurf: Fast Neural RGB-D Surface Reconstruction using Per-Frame Intrinsic Refinement and TSDF Fusion Prior Learning**, Seunghwan Lee et.al., Paper: [http://arxiv.org/abs/2303.04508v1](http://arxiv.org/abs/2303.04508v1)
+- 2023-03-08, **Onsets and Velocities: Affordable Real-Time Piano Transcription Using Convolutional Neural Networks**, Andres Fernandez et.al., Paper: [http://arxiv.org/abs/2303.04485v1](http://arxiv.org/abs/2303.04485v1)
+- 2023-03-07, **PSDNet: Determination of Particle Size Distributions Using Synthetic Soil Images and Convolutional Neural Networks**, Javad Manashti et.al., Paper: [http://arxiv.org/abs/2303.04269v1](http://arxiv.org/abs/2303.04269v1)
+- 2023-03-07, **Comparing PSDNet, pretrained networks, and traditional feature extraction for predicting the particle size distribution of granular materials from photographs**, Javad Manashti et.al., Paper: [http://arxiv.org/abs/2303.04265v1](http://arxiv.org/abs/2303.04265v1)
+- 2023-03-07, **Patch of Invisibility: Naturalistic Black-Box Adversarial Attacks on Object Detectors**, Raz Lapid et.al., Paper: [http://arxiv.org/abs/2303.04238v1](http://arxiv.org/abs/2303.04238v1)
+- 2023-03-07, **Can We Scale Transformers to Predict Parameters of Diverse ImageNet Models?**, Boris Knyazev et.al., Paper: [http://arxiv.org/abs/2303.04143v1](http://arxiv.org/abs/2303.04143v1), Code: **[https://github.com/samsungsailmontreal/ghn3](https://github.com/samsungsailmontreal/ghn3)**
 - 2023-03-07, **Foundation Models for Decision Making: Problems, Methods, and Opportunities**, Sherry Yang et.al., Paper: [http://arxiv.org/abs/2303.04129v1](http://arxiv.org/abs/2303.04129v1)
 - 2023-03-07, **CroCoSum: A Benchmark Dataset for Cross-Lingual Code-Switched Summarization**, Ruochen Zhang et.al., Paper: [http://arxiv.org/abs/2303.04092v1](http://arxiv.org/abs/2303.04092v1)
 - 2023-03-07, **Larger language models do in-context learning differently**, Jerry Wei et.al., Paper: [http://arxiv.org/abs/2303.03846v1](http://arxiv.org/abs/2303.03846v1)
@@ -557,10 +564,14 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20230309>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230310>back to top</a>)</p>
 
 ## downstream
 
+- 2023-03-08, **Learning Enhancement From Degradation: A Diffusion Model For Fundus Image Enhancement**, Puijin Cheng et.al., Paper: [http://arxiv.org/abs/2303.04603v1](http://arxiv.org/abs/2303.04603v1), Code: **[https://github.com/qtacierp/led](https://github.com/qtacierp/led)**
+- 2023-03-08, **Does Synthetic Data Generation of LLMs Help Clinical Text Mining?**, Ruixiang Tang et.al., Paper: [http://arxiv.org/abs/2303.04360v1](http://arxiv.org/abs/2303.04360v1)
+- 2023-03-08, **Provable Pathways: Learning Multiple Tasks over Multiple Paths**, Yingcong Li et.al., Paper: [http://arxiv.org/abs/2303.04338v1](http://arxiv.org/abs/2303.04338v1)
+- 2023-03-07, **Diffusion in the Dark: A Diffusion Model for Low-Light Text Recognition**, Cindy M. Nguyen et.al., Paper: [http://arxiv.org/abs/2303.04291v1](http://arxiv.org/abs/2303.04291v1)
 - 2023-03-07, **Introspective Cross-Attention Probing for Lightweight Transfer of Pre-trained Models**, Yonatan Dukler et.al., Paper: [http://arxiv.org/abs/2303.04105v1](http://arxiv.org/abs/2303.04105v1)
 - 2023-03-07, **Comparing 3D deformations between longitudinal daily CBCT acquisitions using CNN for head and neck radiotherapy toxicity prediction**, William Trung Le et.al., Paper: [http://arxiv.org/abs/2303.03965v1](http://arxiv.org/abs/2303.03965v1)
 - 2023-03-07, **Improving Self-Supervised Learning for Audio Representations by Feature Diversity and Decorrelation**, Bac Nguyen et.al., Paper: [http://arxiv.org/abs/2303.03717v1](http://arxiv.org/abs/2303.03717v1)
@@ -1059,7 +1070,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20230309>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230310>back to top</a>)</p>
 
 ## adaptor
 
@@ -1093,14 +1104,19 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20230309>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230310>back to top</a>)</p>
 
 ## object detection
 
+- 2023-03-08, **Radio astronomical images object detection and segmentation: A benchmark on deep learning methods**, Renato Sortino et.al., Paper: [http://arxiv.org/abs/2303.04506v1](http://arxiv.org/abs/2303.04506v1)
+- 2023-03-08, **Full Point Encoding for Local Feature Aggregation in 3D Point Clouds**, Yong He et.al., Paper: [http://arxiv.org/abs/2303.04458v1](http://arxiv.org/abs/2303.04458v1)
+- 2023-03-08, **HyT-NAS: Hybrid Transformers Neural Architecture Search for Edge Devices**, Lotfi Abdelkrim Mecharbat et.al., Paper: [http://arxiv.org/abs/2303.04440v1](http://arxiv.org/abs/2303.04440v1)
+- 2023-03-07, **Gradient-Guided Knowledge Distillation for Object Detectors**, Qizhen Lan et.al., Paper: [http://arxiv.org/abs/2303.04240v1](http://arxiv.org/abs/2303.04240v1)
+- 2023-03-07, **Patch of Invisibility: Naturalistic Black-Box Adversarial Attacks on Object Detectors**, Raz Lapid et.al., Paper: [http://arxiv.org/abs/2303.04238v1](http://arxiv.org/abs/2303.04238v1)
 - 2023-03-07, **FFT-based Dynamic Token Mixer for Vision**, Yuki Tatsunami et.al., Paper: [http://arxiv.org/abs/2303.03932v1](http://arxiv.org/abs/2303.03932v1)
 - 2023-03-07, **Refined Pseudo labeling for Source-free Domain Adaptive Object Detection**, Siqi Zhang et.al., Paper: [http://arxiv.org/abs/2303.03728v1](http://arxiv.org/abs/2303.03728v1)
 - 2023-03-07, **FIT: Frequency-based Image Translation for Domain Adaptive Object Detection**, Siqi Zhang et.al., Paper: [http://arxiv.org/abs/2303.03698v1](http://arxiv.org/abs/2303.03698v1)
-- 2023-03-07, **LoGoNet: Towards Accurate 3D Object Detection with Local-to-Global Cross-Modal Fusion**, Xin Li et.al., Paper: [http://arxiv.org/abs/2303.03595v1](http://arxiv.org/abs/2303.03595v1)
+- 2023-03-07, **LoGoNet: Towards Accurate 3D Object Detection with Local-to-Global Cross-Modal Fusion**, Xin Li et.al., Paper: [http://arxiv.org/abs/2303.03595v1](http://arxiv.org/abs/2303.03595v1), Code: **[https://github.com/sankin97/logonet](https://github.com/sankin97/logonet)**
 - 2023-03-07, **Calibration-free BEV Representation for Infrastructure Perception**, Siqi Fan et.al., Paper: [http://arxiv.org/abs/2303.03583v1](http://arxiv.org/abs/2303.03583v1)
 - 2023-03-06, **Memory Maps for Video Object Detection and Tracking on UAVs**, Benjamin Kiefer et.al., Paper: [http://arxiv.org/abs/2303.03508v1](http://arxiv.org/abs/2303.03508v1)
 - 2023-03-06, **Can an Embodied Agent Find Your "Cat-shaped Mug"? LLM-Based Zero-Shot Object Navigation**, Vishnu Sashank Dorbala et.al., Paper: [http://arxiv.org/abs/2303.03480v1](http://arxiv.org/abs/2303.03480v1)
@@ -1589,7 +1605,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20230309>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230310>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
