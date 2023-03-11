@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.03.10
+## Updated on 2023.03.11
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,13 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-09**|**FaceXHuBERT: Text-less Speech-driven E(X)pressive 3D Facial Animation Synthesis Using Self-Supervised Speech Representation Learning**|Kazi Injamamul Haque et.al.|[2303.05416v1](http://arxiv.org/abs/2303.05416v1)|**[link](https://github.com/galib360/facexhubert)**|
+|**2023-03-09**|**Greener yet Powerful: Taming Large Code Generation Models with Quantization**|Xiaokai Wei et.al.|[2303.05378v1](http://arxiv.org/abs/2303.05378v1)|null|
+|**2023-03-09**|**Can a Frozen Pretrained Language Model be used for Zero-shot Neural Retrieval on Entity-centric Questions?**|Yasuto Hoshi et.al.|[2303.05153v1](http://arxiv.org/abs/2303.05153v1)|null|
 |**2023-03-08**|**Enhancing Low-resolution Face Recognition with Feature Similarity Knowledge Distillation**|Sungho Shin et.al.|[2303.04681v1](http://arxiv.org/abs/2303.04681v1)|null|
 |**2023-03-08**|**Aberration-Aware Depth-from-Focus**|Xinge Yang et.al.|[2303.04654v1](http://arxiv.org/abs/2303.04654v1)|null|
 |**2023-03-08**|**FastSurf: Fast Neural RGB-D Surface Reconstruction using Per-Frame Intrinsic Refinement and TSDF Fusion Prior Learning**|Seunghwan Lee et.al.|[2303.04508v1](http://arxiv.org/abs/2303.04508v1)|null|
-|**2023-03-08**|**Onsets and Velocities: Affordable Real-Time Piano Transcription Using Convolutional Neural Networks**|Andres Fernandez et.al.|[2303.04485v1](http://arxiv.org/abs/2303.04485v1)|null|
+|**2023-03-08**|**Onsets and Velocities: Affordable Real-Time Piano Transcription Using Convolutional Neural Networks**|Andres Fernandez et.al.|[2303.04485v1](http://arxiv.org/abs/2303.04485v1)|**[link](https://github.com/andres-fr/iamusica_demo)**|
 |**2023-03-07**|**PSDNet: Determination of Particle Size Distributions Using Synthetic Soil Images and Convolutional Neural Networks**|Javad Manashti et.al.|[2303.04269v1](http://arxiv.org/abs/2303.04269v1)|null|
 |**2023-03-07**|**Comparing PSDNet, pretrained networks, and traditional feature extraction for predicting the particle size distribution of granular materials from photographs**|Javad Manashti et.al.|[2303.04265v1](http://arxiv.org/abs/2303.04265v1)|null|
-|**2023-03-07**|**Patch of Invisibility: Naturalistic Black-Box Adversarial Attacks on Object Detectors**|Raz Lapid et.al.|[2303.04238v1](http://arxiv.org/abs/2303.04238v1)|null|
+|**2023-03-09**|**Patch of Invisibility: Naturalistic Black-Box Adversarial Attacks on Object Detectors**|Raz Lapid et.al.|[2303.04238v2](http://arxiv.org/abs/2303.04238v2)|null|
 |**2023-03-07**|**Can We Scale Transformers to Predict Parameters of Diverse ImageNet Models?**|Boris Knyazev et.al.|[2303.04143v1](http://arxiv.org/abs/2303.04143v1)|**[link](https://github.com/samsungsailmontreal/ghn3)**|
 |**2023-03-07**|**Foundation Models for Decision Making: Problems, Methods, and Opportunities**|Sherry Yang et.al.|[2303.04129v1](http://arxiv.org/abs/2303.04129v1)|null|
 |**2023-03-07**|**CroCoSum: A Benchmark Dataset for Cross-Lingual Code-Switched Summarization**|Ruochen Zhang et.al.|[2303.04092v1](http://arxiv.org/abs/2303.04092v1)|null|
@@ -566,12 +569,18 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230310>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230311>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-09**|**Mimic before Reconstruct: Enhancing Masked Autoencoders with Feature Mimicking**|Peng Gao et.al.|[2303.05475v1](http://arxiv.org/abs/2303.05475v1)|**[link](https://github.com/alpha-vl/convmae)**|
+|**2023-03-09**|**Replacement as a Self-supervision for Fine-grained Vision-language Pre-training**|Lisai Zhang et.al.|[2303.05313v1](http://arxiv.org/abs/2303.05313v1)|null|
+|**2023-03-09**|**SpyroPose: Importance Sampling Pyramids for Object Pose Distribution Estimation in SE(3)**|Rasmus Laurvig Haugaard et.al.|[2303.05308v1](http://arxiv.org/abs/2303.05308v1)|null|
+|**2023-03-09**|**From Visual Prompt Learning to Zero-Shot Transfer: Mapping Is All You Need**|Ziqing Yang et.al.|[2303.05266v1](http://arxiv.org/abs/2303.05266v1)|null|
+|**2023-03-09**|**Structure-Aware Group Discrimination with Adaptive-View Graph Encoder: A Fast Graph Contrastive Learning Framework**|Zhenshuo Zhang et.al.|[2303.05231v1](http://arxiv.org/abs/2303.05231v1)|null|
+|**2023-03-09**|**Rethinking Visual Prompt Learning as Masked Visual Token Modeling**|Ning Liao et.al.|[2303.04998v1](http://arxiv.org/abs/2303.04998v1)|null|
 |**2023-03-08**|**Learning Enhancement From Degradation: A Diffusion Model For Fundus Image Enhancement**|Puijin Cheng et.al.|[2303.04603v1](http://arxiv.org/abs/2303.04603v1)|**[link](https://github.com/qtacierp/led)**|
 |**2023-03-08**|**Does Synthetic Data Generation of LLMs Help Clinical Text Mining?**|Ruixiang Tang et.al.|[2303.04360v1](http://arxiv.org/abs/2303.04360v1)|null|
 |**2023-03-08**|**Provable Pathways: Learning Multiple Tasks over Multiple Paths**|Yingcong Li et.al.|[2303.04338v1](http://arxiv.org/abs/2303.04338v1)|null|
@@ -1074,7 +1083,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230310>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230311>back to top</a>)</p>
 
 ## adaptor
 
@@ -1110,12 +1119,22 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230310>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230311>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-09**|**Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection**|Shilong Liu et.al.|[2303.05499v1](http://arxiv.org/abs/2303.05499v1)|null|
+|**2023-03-09**|**On Onboard LiDAR-based Flying Object Detection**|Matouš Vrba et.al.|[2303.05404v1](http://arxiv.org/abs/2303.05404v1)|null|
+|**2023-03-09**|**Rethinking Self-Supervised Visual Representation Learning in Pre-training for 3D Human Pose and Shape Estimation**|Hongsuk Choi et.al.|[2303.05370v1](http://arxiv.org/abs/2303.05370v1)|null|
+|**2023-03-09**|**Tucker Bilinear Attention Network for Multi-scale Remote Sensing Object Detection**|Tao Chen et.al.|[2303.05329v1](http://arxiv.org/abs/2303.05329v1)|null|
+|**2023-03-09**|**Harnessing polarization-path entangled single photons for low reflectivity object detection in noisy background**|K. Muhammed Shafi et.al.|[2303.05218v1](http://arxiv.org/abs/2303.05218v1)|null|
+|**2023-03-09**|**Weakly Supervised Knowledge Transfer with Probabilistic Logical Reasoning for Object Detection**|Martijn Oldenhof et.al.|[2303.05148v1](http://arxiv.org/abs/2303.05148v1)|null|
+|**2023-03-09**|**DDS3D: Dense Pseudo-Labels with Dynamic Threshold for Semi-Supervised 3D Object Detection**|Jingyu Li1 et.al.|[2303.05079v1](http://arxiv.org/abs/2303.05079v1)|null|
+|**2023-03-09**|**Efficient Transformer-based 3D Object Detection with Dynamic Token Halting**|Mao Ye et.al.|[2303.05078v1](http://arxiv.org/abs/2303.05078v1)|null|
+|**2023-03-09**|**Smooth and Stepwise Self-Distillation for Object Detection**|Jieren Deng et.al.|[2303.05015v1](http://arxiv.org/abs/2303.05015v1)|null|
+|**2023-03-09**|**ARS-DETR: Aspect Ratio Sensitive Oriented Object Detection with Transformer**|Ying Zeng et.al.|[2303.04989v1](http://arxiv.org/abs/2303.04989v1)|null|
 |**2023-03-08**|**Radio astronomical images object detection and segmentation: A benchmark on deep learning methods**|Renato Sortino et.al.|[2303.04506v1](http://arxiv.org/abs/2303.04506v1)|null|
 |**2023-03-08**|**Full Point Encoding for Local Feature Aggregation in 3D Point Clouds**|Yong He et.al.|[2303.04458v1](http://arxiv.org/abs/2303.04458v1)|null|
 |**2023-03-08**|**HyT-NAS: Hybrid Transformers Neural Architecture Search for Edge Devices**|Lotfi Abdelkrim Mecharbat et.al.|[2303.04440v1](http://arxiv.org/abs/2303.04440v1)|null|
@@ -1613,7 +1632,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230310>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230311>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
