@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.03.13
+## Updated on 2023.03.14
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-10**|**Rewarding Chatbots for Real-World Engagement with Millions of Users**|Robert Irvine et.al.|[2303.06135v1](http://arxiv.org/abs/2303.06135v1)|null|
+|**2023-03-13**|**Improving Domain-Invariance in Self-Supervised Learning via Batch Styles Standardization**|Marin Scalbert et.al.|[2303.06088v2](http://arxiv.org/abs/2303.06088v2)|null|
+|**2023-03-10**|**MVImgNet: A Large-scale Dataset of Multi-view Images**|Xianggang Yu et.al.|[2303.06042v1](http://arxiv.org/abs/2303.06042v1)|null|
+|**2023-03-10**|**Marginalia and machine learning: Handwritten text recognition for Marginalia Collections**|Adam Axelsson et.al.|[2303.05929v1](http://arxiv.org/abs/2303.05929v1)|**[link](https://github.com/ektavats/project-marginalia)**|
+|**2023-03-10**|**Object-Aware Distillation Pyramid for Open-Vocabulary Object Detection**|Luting Wang et.al.|[2303.05892v1](http://arxiv.org/abs/2303.05892v1)|null|
+|**2023-03-10**|**3D Masked Autoencoders with Application to Anomaly Detection in Non-Contrast Enhanced Breast MRI**|Daniel M. Lang et.al.|[2303.05861v1](http://arxiv.org/abs/2303.05861v1)|null|
+|**2023-03-10**|**Contrastive Language-Image Pretrained (CLIP) Models are Powerful Out-of-Distribution Detectors**|Felix Michels et.al.|[2303.05828v1](http://arxiv.org/abs/2303.05828v1)|null|
+|**2023-03-10**|**Scaling Up 3D Kernels with Bayesian Frequency Re-parameterization for Medical Image Segmentation**|Ho Hin Lee et.al.|[2303.05785v1](http://arxiv.org/abs/2303.05785v1)|null|
+|**2023-03-10**|**CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition with Variational Alignment**|Jiangbin Zheng et.al.|[2303.05725v1](http://arxiv.org/abs/2303.05725v1)|null|
+|**2023-03-10**|**MuLTI: Efficient Video-and-Language Understanding with MultiWay-Sampler and Multiple Choice Modeling**|Jiaqi Xu et.al.|[2303.05707v1](http://arxiv.org/abs/2303.05707v1)|null|
 |**2023-03-09**|**FaceXHuBERT: Text-less Speech-driven E(X)pressive 3D Facial Animation Synthesis Using Self-Supervised Speech Representation Learning**|Kazi Injamamul Haque et.al.|[2303.05416v1](http://arxiv.org/abs/2303.05416v1)|**[link](https://github.com/galib360/facexhubert)**|
 |**2023-03-09**|**Greener yet Powerful: Taming Large Code Generation Models with Quantization**|Xiaokai Wei et.al.|[2303.05378v1](http://arxiv.org/abs/2303.05378v1)|null|
 |**2023-03-09**|**Can a Frozen Pretrained Language Model be used for Zero-shot Neural Retrieval on Entity-centric Questions?**|Yasuto Hoshi et.al.|[2303.05153v1](http://arxiv.org/abs/2303.05153v1)|null|
@@ -573,12 +583,16 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230313>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230314>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-10**|**Ignorance is Bliss: Robust Control via Information Gating**|Manan Tomar et.al.|[2303.06121v1](http://arxiv.org/abs/2303.06121v1)|null|
+|**2023-03-10**|**Understanding and Constructing Latent Modality Structures in Multi-modal Representation Learning**|Qian Jiang et.al.|[2303.05952v1](http://arxiv.org/abs/2303.05952v1)|null|
+|**2023-03-10**|**MuLTI: Efficient Video-and-Language Understanding with MultiWay-Sampler and Multiple Choice Modeling**|Jiaqi Xu et.al.|[2303.05707v1](http://arxiv.org/abs/2303.05707v1)|null|
+|**2023-03-10**|**HumanBench: Towards General Human-centric Perception with Projector Assisted Pretraining**|Shixiang Tang et.al.|[2303.05675v1](http://arxiv.org/abs/2303.05675v1)|null|
 |**2023-03-09**|**Mimic before Reconstruct: Enhancing Masked Autoencoders with Feature Mimicking**|Peng Gao et.al.|[2303.05475v1](http://arxiv.org/abs/2303.05475v1)|**[link](https://github.com/alpha-vl/convmae)**|
 |**2023-03-09**|**Replacement as a Self-supervision for Fine-grained Vision-language Pre-training**|Lisai Zhang et.al.|[2303.05313v1](http://arxiv.org/abs/2303.05313v1)|null|
 |**2023-03-09**|**SpyroPose: Importance Sampling Pyramids for Object Pose Distribution Estimation in SE(3)**|Rasmus Laurvig Haugaard et.al.|[2303.05308v1](http://arxiv.org/abs/2303.05308v1)|null|
@@ -1087,7 +1101,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230313>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230314>back to top</a>)</p>
 
 ## adaptor
 
@@ -1123,12 +1137,17 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230313>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230314>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-13**|**Exploring Recurrent Long-term Temporal Fusion for Multi-view 3D Perception**|Chunrui Han et.al.|[2303.05970v2](http://arxiv.org/abs/2303.05970v2)|null|
+|**2023-03-10**|**Object-Aware Distillation Pyramid for Open-Vocabulary Object Detection**|Luting Wang et.al.|[2303.05892v1](http://arxiv.org/abs/2303.05892v1)|null|
+|**2023-03-10**|**Bi3D: Bi-domain Active Learning for Cross-domain 3D Object Detection**|Jiakang Yuan et.al.|[2303.05886v1](http://arxiv.org/abs/2303.05886v1)|null|
+|**2023-03-10**|**Automatic Detection and Rectification of Paper Receipts on Smartphones**|Edward Whittaker et.al.|[2303.05763v1](http://arxiv.org/abs/2303.05763v1)|null|
+|**2023-03-10**|**Boosting Semi-Supervised Few-Shot Object Detection with SoftER Teacher**|Phi Vu Tran et.al.|[2303.05739v1](http://arxiv.org/abs/2303.05739v1)|**[link](https://github.com/lexisnexis-risk-open-source/ledetection)**|
 |**2023-03-10**|**Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection**|Shilong Liu et.al.|[2303.05499v2](http://arxiv.org/abs/2303.05499v2)|**[link](https://github.com/idea-research/groundingdino)**|
 |**2023-03-09**|**On Onboard LiDAR-based Flying Object Detection**|Matouš Vrba et.al.|[2303.05404v1](http://arxiv.org/abs/2303.05404v1)|null|
 |**2023-03-09**|**Rethinking Self-Supervised Visual Representation Learning in Pre-training for 3D Human Pose and Shape Estimation**|Hongsuk Choi et.al.|[2303.05370v1](http://arxiv.org/abs/2303.05370v1)|null|
@@ -1636,7 +1655,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230313>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230314>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
