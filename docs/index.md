@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.03.15
+## Updated on 2023.03.16
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-14**|**Diversity-Aware Meta Visual Prompting**|Qidong Huang et.al.|[2303.08138v1](http://arxiv.org/abs/2303.08138v1)|**[link](https://github.com/shikiw/dam-vp)**|
+|**2023-03-14**|**Eliciting Latent Predictions from Transformers with the Tuned Lens**|Nora Belrose et.al.|[2303.08112v1](http://arxiv.org/abs/2303.08112v1)|**[link](https://github.com/alignmentresearch/tuned-lens)**|
+|**2023-03-14**|**Leveraging Pretrained Representations with Task-related Keywords for Alzheimer's Disease Detection**|Jinchao Li et.al.|[2303.08019v1](http://arxiv.org/abs/2303.08019v1)|null|
+|**2023-03-14**|**A Theory of Emergent In-Context Learning as Implicit Structure Induction**|Michael Hahn et.al.|[2303.07971v1](http://arxiv.org/abs/2303.07971v1)|null|
+|**2023-03-14**|**Edit-A-Video: Single Video Editing with Object-Aware Consistency**|Chaehun Shin et.al.|[2303.07945v1](http://arxiv.org/abs/2303.07945v1)|null|
+|**2023-03-15**|**Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation**|Junyoung Seo et.al.|[2303.07937v2](http://arxiv.org/abs/2303.07937v2)|null|
+|**2023-03-14**|**The Learnability of In-Context Learning**|Noam Wies et.al.|[2303.07895v1](http://arxiv.org/abs/2303.07895v1)|null|
+|**2023-03-14**|**Geolocation Predicting of Tweets Using BERT-Based Models**|Kateryna Lutsai et.al.|[2303.07865v1](http://arxiv.org/abs/2303.07865v1)|null|
+|**2023-03-14**|**Feature representations useful for predicting image memorability**|Takumi Harada et.al.|[2303.07679v1](http://arxiv.org/abs/2303.07679v1)|null|
+|**2023-03-14**|**Variation of Gender Biases in Visual Recognition Models Before and After Finetuning**|Jaspreet Ranjit et.al.|[2303.07615v1](http://arxiv.org/abs/2303.07615v1)|null|
 |**2023-03-13**|**Model-tuning Via Prompts Makes NLP Models Adversarially Robust**|Mrigank Raman et.al.|[2303.07320v1](http://arxiv.org/abs/2303.07320v1)|null|
 |**2023-03-13**|**Vision-Language Models as Success Detectors**|Yuqing Du et.al.|[2303.07280v1](http://arxiv.org/abs/2303.07280v1)|null|
 |**2023-03-13**|**InferFix: End-to-End Program Repair with LLMs**|Matthew Jin et.al.|[2303.07263v1](http://arxiv.org/abs/2303.07263v1)|null|
@@ -593,12 +603,21 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230315>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230316>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-14**|**Diversity-Aware Meta Visual Prompting**|Qidong Huang et.al.|[2303.08138v1](http://arxiv.org/abs/2303.08138v1)|**[link](https://github.com/shikiw/dam-vp)**|
+|**2023-03-14**|**Revisit Parameter-Efficient Transfer Learning: A Two-Stage Paradigm**|Hengyuan Zhao et.al.|[2303.07910v1](http://arxiv.org/abs/2303.07910v1)|null|
+|**2023-03-14**|**BLAT: Bootstrapping Language-Audio Pre-training based on AudioSet Tag-guided Synthetic Data**|Xuenan Xu et.al.|[2303.07902v1](http://arxiv.org/abs/2303.07902v1)|null|
+|**2023-03-14**|**The Learnability of In-Context Learning**|Noam Wies et.al.|[2303.07895v1](http://arxiv.org/abs/2303.07895v1)|null|
+|**2023-03-14**|**3D Face Arbitrary Style Transfer**|Xiangwen Deng et.al.|[2303.07709v1](http://arxiv.org/abs/2303.07709v1)|null|
+|**2023-03-14**|**PATS: Patch Area Transportation with Subdivision for Local Feature Matching**|Junjie Ni et.al.|[2303.07700v1](http://arxiv.org/abs/2303.07700v1)|null|
+|**2023-03-14**|**Variation of Gender Biases in Visual Recognition Models Before and After Finetuning**|Jaspreet Ranjit et.al.|[2303.07615v1](http://arxiv.org/abs/2303.07615v1)|null|
+|**2023-03-14**|**AdPE: Adversarial Positional Embeddings for Pretraining Vision Transformers via MAE+**|Xiao Wang et.al.|[2303.07598v1](http://arxiv.org/abs/2303.07598v1)|**[link](https://github.com/maple-research-lab/AdPE)**|
+|**2023-03-15**|**Architext: Language-Driven Generative Architecture Design**|Theodoros Galanos et.al.|[2303.07519v2](http://arxiv.org/abs/2303.07519v2)|null|
 |**2023-03-13**|**Revisiting Class-Incremental Learning with Pre-Trained Models: Generalizability and Adaptivity are All You Need**|Da-Wei Zhou et.al.|[2303.07338v1](http://arxiv.org/abs/2303.07338v1)|**[link](https://github.com/zhoudw-zdw/revisitingcil)**|
 |**2023-03-13**|**Model-tuning Via Prompts Makes NLP Models Adversarially Robust**|Mrigank Raman et.al.|[2303.07320v1](http://arxiv.org/abs/2303.07320v1)|null|
 |**2023-03-13**|**PMC-CLIP: Contrastive Language-Image Pre-training using Biomedical Documents**|Weixiong Lin et.al.|[2303.07240v1](http://arxiv.org/abs/2303.07240v1)|null|
@@ -1121,7 +1140,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230315>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230316>back to top</a>)</p>
 
 ## adaptor
 
@@ -1157,12 +1176,21 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230315>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230316>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-14**|**PiMAE: Point Cloud and Image Interactive Masked Autoencoders for 3D Object Detection**|Anthony Chen et.al.|[2303.08129v1](http://arxiv.org/abs/2303.08129v1)|**[link](https://github.com/blvlab/pimae)**|
+|**2023-03-14**|**Adaptive Rotated Convolution for Rotated Object Detection**|Yifan Pu et.al.|[2303.07820v1](http://arxiv.org/abs/2303.07820v1)|null|
+|**2023-03-14**|**OVRL-V2: A simple state-of-art baseline for ImageNav and ObjectNav**|Karmesh Yadav et.al.|[2303.07798v1](http://arxiv.org/abs/2303.07798v1)|null|
+|**2023-03-14**|**Object Detection During Newborn Resuscitation Activities**|Øyvind Meinich-Bache et.al.|[2303.07790v1](http://arxiv.org/abs/2303.07790v1)|null|
+|**2023-03-14**|**Activity Recognition From Newborn Resuscitation Videos**|Øyvind Meinich-Bache et.al.|[2303.07789v1](http://arxiv.org/abs/2303.07789v1)|null|
+|**2023-03-14**|**Co-Salient Object Detection with Co-Representation Purification**|Ziyue Zhu et.al.|[2303.07670v1](http://arxiv.org/abs/2303.07670v1)|**[link](https://github.com/zzy816/corp)**|
+|**2023-03-14**|**V2V4Real: A Real-world Large-scale Dataset for Vehicle-to-Vehicle Cooperative Perception**|Runsheng Xu et.al.|[2303.07601v1](http://arxiv.org/abs/2303.07601v1)|**[link](https://github.com/ucla-mobility/v2v4real)**|
+|**2023-03-14**|**Teacher-Student Knowledge Distillation for Radar Perception on Embedded Accelerators**|Steven Shaw et.al.|[2303.07586v1](http://arxiv.org/abs/2303.07586v1)|null|
+|**2023-03-14**|**Calibrated Teacher for Sparsely Annotated Object Detection**|Haohan Wang et.al.|[2303.07582v1](http://arxiv.org/abs/2303.07582v1)|**[link](https://github.com/whileherham/calibratedteacher)**|
 |**2023-03-13**|**Lite DETR : An Interleaved Multi-Scale Encoder for Efficient DETR**|Feng Li et.al.|[2303.07335v1](http://arxiv.org/abs/2303.07335v1)|**[link](https://github.com/idea-research/lite-detr)**|
 |**2023-03-13**|**Identifying Label Errors in Object Detection Datasets by Loss Inspection**|Marius Schubert et.al.|[2303.06999v1](http://arxiv.org/abs/2303.06999v1)|null|
 |**2023-03-13**|**CrossFormer++: A Versatile Vision Transformer Hinging on Cross-scale Attention**|Wenxiao Wang et.al.|[2303.06908v1](http://arxiv.org/abs/2303.06908v1)|**[link](https://github.com/cheerss/CrossFormer)**|
@@ -1685,7 +1713,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230315>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230316>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
