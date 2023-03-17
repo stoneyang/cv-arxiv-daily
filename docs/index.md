@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.03.16
+## Updated on 2023.03.17
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,8 +23,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-15**|**PLEX: Making the Most of the Available Data for Robotic Manipulation Pretraining**|Garrett Thomas et.al.|[2303.08789v1](http://arxiv.org/abs/2303.08789v1)|null|
+|**2023-03-15**|**2D and 3D CNN-Based Fusion Approach for COVID-19 Severity Prediction from 3D CT-Scans**|Fares Bougourzi et.al.|[2303.08740v1](http://arxiv.org/abs/2303.08740v1)|**[link](https://github.com/faresbougourzi/3rd-cov19d-competition)**|
+|**2023-03-15**|**Mapping Urban Population Growth from Sentinel-2 MSI and Census Data Using Deep Learning: A Case Study in Kigali, Rwanda**|Sebastian Hafner et.al.|[2303.08511v1](http://arxiv.org/abs/2303.08511v1)|**[link](https://github.com/sebastianhafner/populationgrowthmapping_kigali)**|
+|**2023-03-15**|**Task-specific Fine-tuning via Variational Information Bottleneck for Weakly-supervised Pathology Whole Slide Image Classification**|Honglin Li et.al.|[2303.08446v1](http://arxiv.org/abs/2303.08446v1)|null|
+|**2023-03-15**|**Lana: A Language-Capable Navigator for Instruction Following and Generation**|Xiaohan Wang et.al.|[2303.08409v1](http://arxiv.org/abs/2303.08409v1)|**[link](https://github.com/wxh1996/lana-vln)**|
+|**2023-03-15**|**SegPrompt: Using Segmentation Map as a Better Prompt to Finetune Deep Models for Kidney Stone Classification**|Wei Zhu et.al.|[2303.08303v1](http://arxiv.org/abs/2303.08303v1)|null|
+|**2023-03-14**|**Contextualized Medication Information Extraction Using Transformer-based Deep Learning Architectures**|Aokun Chen et.al.|[2303.08259v1](http://arxiv.org/abs/2303.08259v1)|null|
 |**2023-03-14**|**Diversity-Aware Meta Visual Prompting**|Qidong Huang et.al.|[2303.08138v1](http://arxiv.org/abs/2303.08138v1)|**[link](https://github.com/shikiw/dam-vp)**|
-|**2023-03-14**|**Eliciting Latent Predictions from Transformers with the Tuned Lens**|Nora Belrose et.al.|[2303.08112v1](http://arxiv.org/abs/2303.08112v1)|**[link](https://github.com/alignmentresearch/tuned-lens)**|
+|**2023-03-15**|**Eliciting Latent Predictions from Transformers with the Tuned Lens**|Nora Belrose et.al.|[2303.08112v2](http://arxiv.org/abs/2303.08112v2)|**[link](https://github.com/alignmentresearch/tuned-lens)**|
 |**2023-03-14**|**Leveraging Pretrained Representations with Task-related Keywords for Alzheimer's Disease Detection**|Jinchao Li et.al.|[2303.08019v1](http://arxiv.org/abs/2303.08019v1)|null|
 |**2023-03-14**|**A Theory of Emergent In-Context Learning as Implicit Structure Induction**|Michael Hahn et.al.|[2303.07971v1](http://arxiv.org/abs/2303.07971v1)|null|
 |**2023-03-14**|**Edit-A-Video: Single Video Editing with Object-Aware Consistency**|Chaehun Shin et.al.|[2303.07945v1](http://arxiv.org/abs/2303.07945v1)|null|
@@ -603,12 +610,22 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230316>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230317>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-16**|**DeepMIM: Deep Supervision for Masked Image Modeling**|Sucheng Ren et.al.|[2303.08817v2](http://arxiv.org/abs/2303.08817v2)|**[link](https://github.com/oliverrensu/deepmim)**|
+|**2023-03-15**|**Relax, it doesn't matter how you get there: A new self-supervised approach for multi-timescale behavior analysis**|Mehdi Azabou et.al.|[2303.08811v1](http://arxiv.org/abs/2303.08811v1)|null|
+|**2023-03-15**|**Making Vision Transformers Efficient from A Token Sparsification View**|Shuning Chang et.al.|[2303.08685v1](http://arxiv.org/abs/2303.08685v1)|null|
+|**2023-03-15**|**Sensitivity-Aware Visual Parameter-Efficient Tuning**|Haoyu He et.al.|[2303.08566v1](http://arxiv.org/abs/2303.08566v1)|**[link](https://github.com/ziplab/spt)**|
+|**2023-03-15**|**MGA: Medical generalist agent through text-guided knowledge transformation**|Weijian Huang et.al.|[2303.08562v1](http://arxiv.org/abs/2303.08562v1)|null|
+|**2023-03-15**|**Reversing the Abnormal: Pseudo-Healthy Generative Networks for Anomaly Detection**|Cosmin I Bercea et.al.|[2303.08452v1](http://arxiv.org/abs/2303.08452v1)|null|
+|**2023-03-15**|**Task-specific Fine-tuning via Variational Information Bottleneck for Weakly-supervised Pathology Whole Slide Image Classification**|Honglin Li et.al.|[2303.08446v1](http://arxiv.org/abs/2303.08446v1)|null|
+|**2023-03-15**|**Learning Accurate Template Matching with Differentiable Coarse-to-Fine Correspondence Refinement**|Zhirui Gao et.al.|[2303.08438v1](http://arxiv.org/abs/2303.08438v1)|**[link](https://github.com/zhirui-gao/deep-template-matching)**|
+|**2023-03-15**|**DualFair: Fair Representation Learning at Both Group and Individual Levels via Contrastive Self-supervision**|Sungwon Han et.al.|[2303.08403v1](http://arxiv.org/abs/2303.08403v1)|**[link](https://github.com/sungwon-han/dualfair)**|
+|**2023-03-14**|**Efficiently Training Vision Transformers on Structural MRI Scans for Alzheimer's Disease Detection**|Nikhil J. Dhinagar et.al.|[2303.08216v1](http://arxiv.org/abs/2303.08216v1)|null|
 |**2023-03-14**|**Diversity-Aware Meta Visual Prompting**|Qidong Huang et.al.|[2303.08138v1](http://arxiv.org/abs/2303.08138v1)|**[link](https://github.com/shikiw/dam-vp)**|
 |**2023-03-14**|**Revisit Parameter-Efficient Transfer Learning: A Two-Stage Paradigm**|Hengyuan Zhao et.al.|[2303.07910v1](http://arxiv.org/abs/2303.07910v1)|null|
 |**2023-03-14**|**BLAT: Bootstrapping Language-Audio Pre-training based on AudioSet Tag-guided Synthetic Data**|Xuenan Xu et.al.|[2303.07902v1](http://arxiv.org/abs/2303.07902v1)|null|
@@ -1140,7 +1157,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230316>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230317>back to top</a>)</p>
 
 ## adaptor
 
@@ -1176,12 +1193,22 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230316>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230317>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-16**|**DeepMIM: Deep Supervision for Masked Image Modeling**|Sucheng Ren et.al.|[2303.08817v2](http://arxiv.org/abs/2303.08817v2)|**[link](https://github.com/oliverrensu/deepmim)**|
+|**2023-03-15**|**BiFormer: Vision Transformer with Bi-Level Routing Attention**|Lei Zhu et.al.|[2303.08810v1](http://arxiv.org/abs/2303.08810v1)|**[link](https://github.com/rayleizhu/biformer)**|
+|**2023-03-15**|**Query-guided Attention in Vision Transformers for Localizing Objects Using a Single Sketch**|Aditay Tripathi et.al.|[2303.08784v1](http://arxiv.org/abs/2303.08784v1)|null|
+|**2023-03-15**|**Cascaded Zoom-in Detector for High Resolution Aerial Images**|Akhil Meethal et.al.|[2303.08747v1](http://arxiv.org/abs/2303.08747v1)|**[link](https://github.com/akhilpm/dronedetectron2)**|
+|**2023-03-15**|**Towards Phytoplankton Parasite Detection Using Autoencoders**|Simon Bilik et.al.|[2303.08744v1](http://arxiv.org/abs/2303.08744v1)|null|
+|**2023-03-15**|**Weakly Supervised Monocular 3D Object Detection using Multi-View Projection and Direction Consistency**|Runzhou Tao et.al.|[2303.08686v1](http://arxiv.org/abs/2303.08686v1)|null|
+|**2023-03-15**|**Making Vision Transformers Efficient from A Token Sparsification View**|Shuning Chang et.al.|[2303.08685v1](http://arxiv.org/abs/2303.08685v1)|null|
+|**2023-03-15**|**BEVHeight: A Robust Framework for Vision-based Roadside 3D Object Detection**|Lei Yang et.al.|[2303.08498v1](http://arxiv.org/abs/2303.08498v1)|**[link](https://github.com/adlab-autodrive/bevheight)**|
+|**2023-03-15**|**SeqCo-DETR: Sequence Consistency Training for Self-Supervised Object Detection with Transformers**|Guoqiang Jin et.al.|[2303.08481v1](http://arxiv.org/abs/2303.08481v1)|null|
+|**2023-03-15**|**Online and Predictive Warning System for Forced Lane Changes using Risk Maps**|Tim Puphal et.al.|[2303.08458v1](http://arxiv.org/abs/2303.08458v1)|null|
 |**2023-03-14**|**PiMAE: Point Cloud and Image Interactive Masked Autoencoders for 3D Object Detection**|Anthony Chen et.al.|[2303.08129v1](http://arxiv.org/abs/2303.08129v1)|**[link](https://github.com/blvlab/pimae)**|
 |**2023-03-14**|**Adaptive Rotated Convolution for Rotated Object Detection**|Yifan Pu et.al.|[2303.07820v1](http://arxiv.org/abs/2303.07820v1)|null|
 |**2023-03-14**|**OVRL-V2: A simple state-of-art baseline for ImageNav and ObjectNav**|Karmesh Yadav et.al.|[2303.07798v1](http://arxiv.org/abs/2303.07798v1)|null|
@@ -1713,7 +1740,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230316>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230317>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
