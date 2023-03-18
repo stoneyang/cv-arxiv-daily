@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2023.03.17
+> Updated on 2023.03.18
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,14 @@
 
 ## pretrain
 
+- 2023-03-16, **DiffIR: Efficient Diffusion Model for Image Restoration**, Bin Xia et.al., Paper: [http://arxiv.org/abs/2303.09472v1](http://arxiv.org/abs/2303.09472v1)
+- 2023-03-16, **Team SheffieldVeraAI at SemEval-2023 Task 3: Mono and multilingual approaches for news genre, topic and persuasion technique classification**, Ben Wu et.al., Paper: [http://arxiv.org/abs/2303.09421v1](http://arxiv.org/abs/2303.09421v1)
+- 2023-03-16, **3D Masked Autoencoding and Pseudo-labeling for Domain Adaptive Segmentation of Heterogeneous Infant Brain MRI**, Xuzhe Zhang et.al., Paper: [http://arxiv.org/abs/2303.09373v1](http://arxiv.org/abs/2303.09373v1)
+- 2023-03-16, **StylerDALLE: Language-Guided Style Transfer Using a Vector-Quantized Tokenizer of a Large-Scale Generative Model**, Zipeng Xu et.al., Paper: [http://arxiv.org/abs/2303.09268v1](http://arxiv.org/abs/2303.09268v1)
+- 2023-03-16, **GridCLIP: One-Stage Object Detection by Grid-Level CLIP Representation Learning**, Jiayi Lin et.al., Paper: [http://arxiv.org/abs/2303.09252v1](http://arxiv.org/abs/2303.09252v1)
+- 2023-03-16, **Emotional Reaction Intensity Estimation Based on Multimodal Data**, Shangfei Wang et.al., Paper: [http://arxiv.org/abs/2303.09167v1](http://arxiv.org/abs/2303.09167v1)
+- 2023-03-15, **Deep Learning Weight Pruning with RMT-SVD: Increasing Accuracy and Reducing Overfitting**, Yitzchak Shmalo et.al., Paper: [http://arxiv.org/abs/2303.08986v1](http://arxiv.org/abs/2303.08986v1), Code: **[https://github.com/jtj5311/nn-rmt-svd](https://github.com/jtj5311/nn-rmt-svd)**
+- 2023-03-15, **Reinforce Data, Multiply Impact: Improved Model Accuracy and Robustness with Dataset Reinforcement**, Fartash Faghri et.al., Paper: [http://arxiv.org/abs/2303.08983v1](http://arxiv.org/abs/2303.08983v1)
 - 2023-03-15, **PLEX: Making the Most of the Available Data for Robotic Manipulation Pretraining**, Garrett Thomas et.al., Paper: [http://arxiv.org/abs/2303.08789v1](http://arxiv.org/abs/2303.08789v1)
 - 2023-03-15, **2D and 3D CNN-Based Fusion Approach for COVID-19 Severity Prediction from 3D CT-Scans**, Fares Bougourzi et.al., Paper: [http://arxiv.org/abs/2303.08740v1](http://arxiv.org/abs/2303.08740v1), Code: **[https://github.com/faresbougourzi/3rd-cov19d-competition](https://github.com/faresbougourzi/3rd-cov19d-competition)**
 - 2023-03-15, **Mapping Urban Population Growth from Sentinel-2 MSI and Census Data Using Deep Learning: A Case Study in Kigali, Rwanda**, Sebastian Hafner et.al., Paper: [http://arxiv.org/abs/2303.08511v1](http://arxiv.org/abs/2303.08511v1), Code: **[https://github.com/sebastianhafner/populationgrowthmapping_kigali](https://github.com/sebastianhafner/populationgrowthmapping_kigali)**
@@ -604,10 +612,20 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20230317>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230318>back to top</a>)</p>
 
 ## downstream
 
+- 2023-03-16, **CSSL-MHTR: Continual Self-Supervised Learning for Scalable Multi-script Handwritten Text Recognition**, Marwa Dhiaf et.al., Paper: [http://arxiv.org/abs/2303.09347v1](http://arxiv.org/abs/2303.09347v1)
+- 2023-03-16, **A New Benchmark: On the Utility of Synthetic Data with Blender for Bare Supervised Learning and Downstream Domain Adaptation**, Hui Tang et.al., Paper: [http://arxiv.org/abs/2303.09165v1](http://arxiv.org/abs/2303.09165v1), Code: **[https://github.com/huitangtang/on_the_utility_of_synthetic_data](https://github.com/huitangtang/on_the_utility_of_synthetic_data)**
+- 2023-03-16, **SSL-Cleanse: Trojan Detection and Mitigation in Self-Supervised Learning**, Mengxin Zheng et.al., Paper: [http://arxiv.org/abs/2303.09079v1](http://arxiv.org/abs/2303.09079v1)
+- 2023-03-16, **Self-Supervised Visual Representation Learning on Food Images**, Andrew Peng et.al., Paper: [http://arxiv.org/abs/2303.09046v1](http://arxiv.org/abs/2303.09046v1)
+- 2023-03-16, **Conditional Synthetic Food Image Generation**, Wenjin Fu et.al., Paper: [http://arxiv.org/abs/2303.09005v1](http://arxiv.org/abs/2303.09005v1)
+- 2023-03-15, **Reinforce Data, Multiply Impact: Improved Model Accuracy and Robustness with Dataset Reinforcement**, Fartash Faghri et.al., Paper: [http://arxiv.org/abs/2303.08983v1](http://arxiv.org/abs/2303.08983v1)
+- 2023-03-15, **PTMTorrent: A Dataset for Mining Open-source Pre-trained Model Packages**, Wenxin Jiang et.al., Paper: [http://arxiv.org/abs/2303.08934v1](http://arxiv.org/abs/2303.08934v1)
+- 2023-03-15, **Applying unsupervised keyphrase methods on concepts extracted from discharge sheets**, Hoda Memarzadeh et.al., Paper: [http://arxiv.org/abs/2303.08928v1](http://arxiv.org/abs/2303.08928v1)
+- 2023-03-15, **MAtch, eXpand and Improve: Unsupervised Finetuning for Zero-Shot Action Recognition with Language Knowledge**, Wei Lin et.al., Paper: [http://arxiv.org/abs/2303.08914v1](http://arxiv.org/abs/2303.08914v1), Code: **[https://github.com/wlin-at/maxi](https://github.com/wlin-at/maxi)**
+- 2023-03-15, **Class-Guided Image-to-Image Diffusion: Cell Painting from Brightfield Images with Class Labels**, Jan Oscar Cross-Zamirski et.al., Paper: [http://arxiv.org/abs/2303.08863v1](http://arxiv.org/abs/2303.08863v1)
 - 2023-03-16, **DeepMIM: Deep Supervision for Masked Image Modeling**, Sucheng Ren et.al., Paper: [http://arxiv.org/abs/2303.08817v2](http://arxiv.org/abs/2303.08817v2), Code: **[https://github.com/oliverrensu/deepmim](https://github.com/oliverrensu/deepmim)**
 - 2023-03-15, **Relax, it doesn't matter how you get there: A new self-supervised approach for multi-timescale behavior analysis**, Mehdi Azabou et.al., Paper: [http://arxiv.org/abs/2303.08811v1](http://arxiv.org/abs/2303.08811v1)
 - 2023-03-15, **Making Vision Transformers Efficient from A Token Sparsification View**, Shuning Chang et.al., Paper: [http://arxiv.org/abs/2303.08685v1](http://arxiv.org/abs/2303.08685v1)
@@ -1149,7 +1167,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20230317>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230318>back to top</a>)</p>
 
 ## adaptor
 
@@ -1183,10 +1201,20 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20230317>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230318>back to top</a>)</p>
 
 ## object detection
 
+- 2023-03-16, **SurroundOcc: Multi-Camera 3D Occupancy Prediction for Autonomous Driving**, Yi Wei et.al., Paper: [http://arxiv.org/abs/2303.09551v1](http://arxiv.org/abs/2303.09551v1), Code: **[https://github.com/weiyithu/surroundocc](https://github.com/weiyithu/surroundocc)**
+- 2023-03-16, **Tackling Clutter in Radar Data -- Label Generation and Detection Using PointNet++**, Johannes Kopp et.al., Paper: [http://arxiv.org/abs/2303.09530v1](http://arxiv.org/abs/2303.09530v1), Code: **[https://github.com/kopp-j/clutter-ds](https://github.com/kopp-j/clutter-ds)**
+- 2023-03-16, **Among Us: Adversarially Robust Collaborative Perception by Consensus**, Yiming Li et.al., Paper: [http://arxiv.org/abs/2303.09495v1](http://arxiv.org/abs/2303.09495v1)
+- 2023-03-16, **GridCLIP: One-Stage Object Detection by Grid-Level CLIP Representation Learning**, Jiayi Lin et.al., Paper: [http://arxiv.org/abs/2303.09252v1](http://arxiv.org/abs/2303.09252v1)
+- 2023-03-16, **A Framework for Real-time Object Detection and Image Restoration**, Rui-Yang Ju et.al., Paper: [http://arxiv.org/abs/2303.09190v1](http://arxiv.org/abs/2303.09190v1), Code: **[https://github.com/rubbbbbbbbby/swinoir](https://github.com/rubbbbbbbbby/swinoir)**
+- 2023-03-16, **Visual-Linguistic Causal Intervention for Radiology Report Generation**, Weixing Chen et.al., Paper: [http://arxiv.org/abs/2303.09117v1](http://arxiv.org/abs/2303.09117v1)
+- 2023-03-16, **Rethinking Model Ensemble in Transfer-based Adversarial Attacks**, Huanran Chen et.al., Paper: [http://arxiv.org/abs/2303.09105v1](http://arxiv.org/abs/2303.09105v1)
+- 2023-03-16, **MixTeacher: Mining Promising Labels with Mixed Scale Teacher for Semi-Supervised Object Detection**, Liang Liu et.al., Paper: [http://arxiv.org/abs/2303.09061v1](http://arxiv.org/abs/2303.09061v1), Code: **[https://github.com/lliuz/mixteacher](https://github.com/lliuz/mixteacher)**
+- 2023-03-16, **Large Selective Kernel Network for Remote Sensing Object Detection**, Yuxuan Li et.al., Paper: [http://arxiv.org/abs/2303.09030v1](http://arxiv.org/abs/2303.09030v1), Code: **[https://github.com/zcablii/Large-Selective-Kernel-Network](https://github.com/zcablii/Large-Selective-Kernel-Network)**
+- 2023-03-16, **Commonsense Knowledge Assisted Deep Learning for Resource-constrained and Fine-grained Object Detection**, Pu Zhang et.al., Paper: [http://arxiv.org/abs/2303.09026v1](http://arxiv.org/abs/2303.09026v1)
 - 2023-03-16, **DeepMIM: Deep Supervision for Masked Image Modeling**, Sucheng Ren et.al., Paper: [http://arxiv.org/abs/2303.08817v2](http://arxiv.org/abs/2303.08817v2), Code: **[https://github.com/oliverrensu/deepmim](https://github.com/oliverrensu/deepmim)**
 - 2023-03-15, **BiFormer: Vision Transformer with Bi-Level Routing Attention**, Lei Zhu et.al., Paper: [http://arxiv.org/abs/2303.08810v1](http://arxiv.org/abs/2303.08810v1), Code: **[https://github.com/rayleizhu/biformer](https://github.com/rayleizhu/biformer)**
 - 2023-03-15, **Query-guided Attention in Vision Transformers for Localizing Objects Using a Single Sketch**, Aditay Tripathi et.al., Paper: [http://arxiv.org/abs/2303.08784v1](http://arxiv.org/abs/2303.08784v1)
@@ -1728,7 +1756,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20230317>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230318>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
