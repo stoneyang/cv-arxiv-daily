@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.03.20
+## Updated on 2023.03.21
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,10 +23,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-17**|**Enhancing the Role of Context in Region-Word Alignment for Object Detection**|Kyle Buettner et.al.|[2303.10093v1](http://arxiv.org/abs/2303.10093v1)|null|
+|**2023-03-17**|**DialogPaint: A Dialog-based Image Editing Model**|Jingxuan Wei et.al.|[2303.10073v1](http://arxiv.org/abs/2303.10073v1)|null|
+|**2023-03-17**|**Breast Cancer Histopathology Image based Gene Expression Prediction using Spatial Transcriptomics data and Deep Learning**|Md Mamunur Rahaman et.al.|[2303.09987v1](http://arxiv.org/abs/2303.09987v1)|null|
+|**2023-03-17**|**Dual-path Adaptation from Image to Video Transformers**|Jungin Park et.al.|[2303.09857v1](http://arxiv.org/abs/2303.09857v1)|**[link](https://github.com/park-jungin/dualpath)**|
+|**2023-03-17**|**CHAMPAGNE: Learning Real-world Conversation from Large-Scale Web Videos**|Seungju Han et.al.|[2303.09713v1](http://arxiv.org/abs/2303.09713v1)|null|
+|**2023-03-16**|**VEIL: Vetting Extracted Image Labels from In-the-Wild Captions for Weakly-Supervised Object Detection**|Arushi Rai et.al.|[2303.09608v1](http://arxiv.org/abs/2303.09608v1)|null|
 |**2023-03-16**|**DiffIR: Efficient Diffusion Model for Image Restoration**|Bin Xia et.al.|[2303.09472v1](http://arxiv.org/abs/2303.09472v1)|null|
 |**2023-03-16**|**Team SheffieldVeraAI at SemEval-2023 Task 3: Mono and multilingual approaches for news genre, topic and persuasion technique classification**|Ben Wu et.al.|[2303.09421v1](http://arxiv.org/abs/2303.09421v1)|null|
 |**2023-03-16**|**3D Masked Autoencoding and Pseudo-labeling for Domain Adaptive Segmentation of Heterogeneous Infant Brain MRI**|Xuzhe Zhang et.al.|[2303.09373v1](http://arxiv.org/abs/2303.09373v1)|null|
-|**2023-03-16**|**StylerDALLE: Language-Guided Style Transfer Using a Vector-Quantized Tokenizer of a Large-Scale Generative Model**|Zipeng Xu et.al.|[2303.09268v1](http://arxiv.org/abs/2303.09268v1)|null|
+|**2023-03-16**|**StylerDALLE: Language-Guided Style Transfer Using a Vector-Quantized Tokenizer of a Large-Scale Generative Model**|Zipeng Xu et.al.|[2303.09268v1](http://arxiv.org/abs/2303.09268v1)|**[link](https://github.com/zipengxuc/stylerdalle)**|
 |**2023-03-16**|**GridCLIP: One-Stage Object Detection by Grid-Level CLIP Representation Learning**|Jiayi Lin et.al.|[2303.09252v1](http://arxiv.org/abs/2303.09252v1)|null|
 |**2023-03-16**|**Emotional Reaction Intensity Estimation Based on Multimodal Data**|Shangfei Wang et.al.|[2303.09167v1](http://arxiv.org/abs/2303.09167v1)|null|
 |**2023-03-15**|**Deep Learning Weight Pruning with RMT-SVD: Increasing Accuracy and Reducing Overfitting**|Yitzchak Shmalo et.al.|[2303.08986v1](http://arxiv.org/abs/2303.08986v1)|**[link](https://github.com/jtj5311/nn-rmt-svd)**|
@@ -618,12 +624,15 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230320>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230321>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-17**|**Toward Super-Resolution for Appearance-Based Gaze Estimation**|Galen O'Shea et.al.|[2303.10151v1](http://arxiv.org/abs/2303.10151v1)|null|
+|**2023-03-17**|**A Unified Continual Learning Framework with General Parameter-Efficient Tuning**|Qiankun Gao et.al.|[2303.10070v1](http://arxiv.org/abs/2303.10070v1)|**[link](https://github.com/gqk/lae)**|
+|**2023-03-16**|**Neural Architecture Search for Effective Teacher-Student Knowledge Transfer in Language Models**|Aashka Trivedi et.al.|[2303.09639v1](http://arxiv.org/abs/2303.09639v1)|null|
 |**2023-03-16**|**CSSL-MHTR: Continual Self-Supervised Learning for Scalable Multi-script Handwritten Text Recognition**|Marwa Dhiaf et.al.|[2303.09347v1](http://arxiv.org/abs/2303.09347v1)|null|
 |**2023-03-16**|**A New Benchmark: On the Utility of Synthetic Data with Blender for Bare Supervised Learning and Downstream Domain Adaptation**|Hui Tang et.al.|[2303.09165v1](http://arxiv.org/abs/2303.09165v1)|**[link](https://github.com/huitangtang/on_the_utility_of_synthetic_data)**|
 |**2023-03-16**|**SSL-Cleanse: Trojan Detection and Mitigation in Self-Supervised Learning**|Mengxin Zheng et.al.|[2303.09079v1](http://arxiv.org/abs/2303.09079v1)|null|
@@ -1175,12 +1184,13 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230320>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230321>back to top</a>)</p>
 
 ## adaptor
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-17**|**A Unified Continual Learning Framework with General Parameter-Efficient Tuning**|Qiankun Gao et.al.|[2303.10070v1](http://arxiv.org/abs/2303.10070v1)|**[link](https://github.com/gqk/lae)**|
 |**2023-03-02**|**Boosting Distributed Full-graph GNN Training with Asynchronous One-bit Communication**|Meng Zhang et.al.|[2303.01277v1](http://arxiv.org/abs/2303.01277v1)|null|
 |**2023-03-01**|**The style transformer with common knowledge optimization for image-text retrieval**|Wenrui Li et.al.|[2303.00448v1](http://arxiv.org/abs/2303.00448v1)|null|
 |**2023-02-16**|**LayoutDiffuse: Adapting Foundational Diffusion Models for Layout-to-Image Generation**|Jiaxin Cheng et.al.|[2302.08908v1](http://arxiv.org/abs/2302.08908v1)|null|
@@ -1211,12 +1221,21 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230320>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230321>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-17**|**Enhancing the Role of Context in Region-Word Alignment for Object Detection**|Kyle Buettner et.al.|[2303.10093v1](http://arxiv.org/abs/2303.10093v1)|null|
+|**2023-03-17**|**A Simple Attempt for 3D Occupancy Estimation in Autonomous Driving**|Wanshui Gan et.al.|[2303.10076v1](http://arxiv.org/abs/2303.10076v1)|null|
+|**2023-03-17**|**Dual Memory Aggregation Network for Event-Based Object Detection with Learnable Representation**|Dongsheng Wang et.al.|[2303.09919v1](http://arxiv.org/abs/2303.09919v1)|**[link](https://github.com/wds320/AAAI_Event_based_detection)**|
+|**2023-03-17**|**Adaptive Graph Convolution Module for Salient Object Detection**|Yongwoo Lee et.al.|[2303.09801v1](http://arxiv.org/abs/2303.09801v1)|null|
+|**2023-03-17**|**GOOD: General Optimization-based Fusion for 3D Object Detection via LiDAR-Camera Object Candidates**|Bingqi Shen et.al.|[2303.09800v1](http://arxiv.org/abs/2303.09800v1)|null|
+|**2023-03-17**|**Scribble-Supervised RGB-T Salient Object Detection**|Zhengyi Liu et.al.|[2303.09733v1](http://arxiv.org/abs/2303.09733v1)|**[link](https://github.com/liuzywen/rgbtscribble-icme2023)**|
+|**2023-03-17**|**Exorcising ''Wraith'': Protecting LiDAR-based Object Detector in Automated Driving System from Appearing Attacks**|Qifan Xiao et.al.|[2303.09731v1](http://arxiv.org/abs/2303.09731v1)|null|
+|**2023-03-16**|**DiGeo: Discriminative Geometry-Aware Learning for Generalized Few-Shot Object Detection**|Jiawei Ma et.al.|[2303.09674v1](http://arxiv.org/abs/2303.09674v1)|**[link](https://github.com/phoenix-v/digeo)**|
+|**2023-03-16**|**VEIL: Vetting Extracted Image Labels from In-the-Wild Captions for Weakly-Supervised Object Detection**|Arushi Rai et.al.|[2303.09608v1](http://arxiv.org/abs/2303.09608v1)|null|
 |**2023-03-16**|**SurroundOcc: Multi-Camera 3D Occupancy Prediction for Autonomous Driving**|Yi Wei et.al.|[2303.09551v1](http://arxiv.org/abs/2303.09551v1)|**[link](https://github.com/weiyithu/surroundocc)**|
 |**2023-03-16**|**Tackling Clutter in Radar Data -- Label Generation and Detection Using PointNet++**|Johannes Kopp et.al.|[2303.09530v1](http://arxiv.org/abs/2303.09530v1)|**[link](https://github.com/kopp-j/clutter-ds)**|
 |**2023-03-16**|**Among Us: Adversarially Robust Collaborative Perception by Consensus**|Yiming Li et.al.|[2303.09495v1](http://arxiv.org/abs/2303.09495v1)|**[link](https://github.com/coperception/robosac)**|
@@ -1768,7 +1787,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230320>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230321>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
