@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.04.02
+## Updated on 2023.04.03
 
 <details>
   <summary>Table of Contents</summary>
@@ -28,7 +28,7 @@ layout: default
 |**2023-03-30**|**Finetuning from Offline Reinforcement Learning: Challenges, Trade-offs and Practical Solutions**|Yicheng Luo et.al.|[2303.17396v1](http://arxiv.org/abs/2303.17396v1)|null|
 |**2023-03-30**|**A Study of Autoregressive Decoders for Multi-Tasking in Computer Vision**|Lucas Beyer et.al.|[2303.17376v1](http://arxiv.org/abs/2303.17376v1)|null|
 |**2023-03-30**|**PMatch: Paired Masked Image Modeling for Dense Geometric Matching**|Shengjie Zhu et.al.|[2303.17342v1](http://arxiv.org/abs/2303.17342v1)|null|
-|**2023-03-30**|**Discriminative Class Tokens for Text-to-Image Diffusion Models**|Idan Schwartz et.al.|[2303.17155v1](http://arxiv.org/abs/2303.17155v1)|**[link](https://github.com/idansc/discriminative_class_tokens)**|
+|**2023-03-30**|**Discriminative Class Tokens for Text-to-Image Diffusion Models**|Idan Schwartz et.al.|[2303.17155v1](http://arxiv.org/abs/2303.17155v1)|null|
 |**2023-03-29**|**Transductive few-shot adapters for medical image segmentation**|Julio Silva-Rodríguez et.al.|[2303.17051v1](http://arxiv.org/abs/2303.17051v1)|**[link](https://github.com/jusiro/fewshot-finetuning)**|
 |**2023-03-29**|**AutoAD: Movie Description in Context**|Tengda Han et.al.|[2303.16899v1](http://arxiv.org/abs/2303.16899v1)|**[link](https://github.com/Soldelli/MAD)**|
 |**2023-03-29**|**Towards Understanding the Effect of Pretraining Label Granularity**|Guan Zhe Hong et.al.|[2303.16887v1](http://arxiv.org/abs/2303.16887v1)|null|
@@ -687,7 +687,7 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230402>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230403>back to top</a>)</p>
 
 ## downstream
 
@@ -1315,7 +1315,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230402>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230403>back to top</a>)</p>
 
 ## adaptor
 
@@ -1357,7 +1357,7 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230402>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230403>back to top</a>)</p>
 
 ## object detection
 
@@ -1988,7 +1988,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230402>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230403>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
