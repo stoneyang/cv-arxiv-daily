@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.04.06
+## Updated on 2023.04.07
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,10 +23,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-05**|**VicTR: Video-conditioned Text Representations for Activity Recognition**|Kumara Kahatapitiya et.al.|[2304.02560v1](http://arxiv.org/abs/2304.02560v1)|null|
+|**2023-04-05**|**Deep Perceptual Similarity is Adaptable to Ambiguous Contexts**|Gustav Grund Pihlgren et.al.|[2304.02265v1](http://arxiv.org/abs/2304.02265v1)|null|
+|**2023-04-05**|**Towards Efficient Task-Driven Model Reprogramming with Foundation Models**|Shoukai Xu et.al.|[2304.02263v1](http://arxiv.org/abs/2304.02263v1)|null|
+|**2023-04-04**|**Pac-HuBERT: Self-Supervised Music Source Separation via Primitive Auditory Clustering and Hidden-Unit BERT**|Ke Chen et.al.|[2304.02160v1](http://arxiv.org/abs/2304.02160v1)|null|
+|**2023-04-04**|**Optimal operating MR contrast for brain ventricle parcellation**|Savannah P. Hays et.al.|[2304.02056v1](http://arxiv.org/abs/2304.02056v1)|null|
+|**2023-04-04**|**Online augmentation of learned grasp sequence policies for more adaptable and data-efficient in-hand manipulation**|Ethan K. Gordon et.al.|[2304.02052v1](http://arxiv.org/abs/2304.02052v1)|null|
 |**2023-04-04**|**AToMiC: An Image/Text Retrieval Test Collection to Support Multimedia Content Creation**|Jheng-Hong Yang et.al.|[2304.01961v1](http://arxiv.org/abs/2304.01961v1)|**[link](https://github.com/trec-atomic/atomic)**|
 |**2023-04-04**|**Unsupervised Improvement of Factual Knowledge in Language Models**|Nafis Sadeq et.al.|[2304.01597v1](http://arxiv.org/abs/2304.01597v1)|**[link](https://github.com/intuit/wmlm)**|
 |**2023-04-03**|**Creating Custom Event Data Without Dictionaries: A Bag-of-Tricks**|Andrew Halterman et.al.|[2304.01331v1](http://arxiv.org/abs/2304.01331v1)|**[link](https://github.com/philip-schrodt/ngec)**|
-|**2023-04-03**|**Burstormer: Burst Image Restoration and Enhancement Transformer**|Akshay Dudhane et.al.|[2304.01194v1](http://arxiv.org/abs/2304.01194v1)|null|
+|**2023-04-03**|**Burstormer: Burst Image Restoration and Enhancement Transformer**|Akshay Dudhane et.al.|[2304.01194v1](http://arxiv.org/abs/2304.01194v1)|**[link](https://github.com/akshaydudhane16/burstormer)**|
 |**2023-04-03**|**ScandEval: A Benchmark for Scandinavian Natural Language Processing**|Dan Saattrup Nielsen et.al.|[2304.00906v1](http://arxiv.org/abs/2304.00906v1)|**[link](https://github.com/scandeval/scandeval.github.io)**|
 |**2023-04-03**|**GreekBART: The First Pretrained Greek Sequence-to-Sequence Model**|Iakovos Evdaimon et.al.|[2304.00869v1](http://arxiv.org/abs/2304.00869v1)|null|
 |**2023-04-03**|**Few-shot Fine-tuning is All You Need for Source-free Domain Adaptation**|Suho Lee et.al.|[2304.00792v1](http://arxiv.org/abs/2304.00792v1)|**[link](https://github.com/daintlab/fewshot-sfda)**|
@@ -708,17 +714,21 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230406>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230407>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-05**|**HNeRV: A Hybrid Neural Representation for Videos**|Hao Chen et.al.|[2304.02633v1](http://arxiv.org/abs/2304.02633v1)|**[link](https://github.com/haochen-rye/hnerv)**|
+|**2023-04-05**|**Self-Supervised Siamese Autoencoders**|Friederike Baier et.al.|[2304.02549v1](http://arxiv.org/abs/2304.02549v1)|null|
+|**2023-04-05**|**Towards Efficient Task-Driven Model Reprogramming with Foundation Models**|Shoukai Xu et.al.|[2304.02263v1](http://arxiv.org/abs/2304.02263v1)|null|
+|**2023-04-05**|**Topology-Guided Multi-Class Cell Context Generation for Digital Pathology**|Shahira Abousamra et.al.|[2304.02255v1](http://arxiv.org/abs/2304.02255v1)|null|
 |**2023-04-04**|**Multi-Level Contrastive Learning for Dense Prediction Task**|Qiushan Guo et.al.|[2304.02010v1](http://arxiv.org/abs/2304.02010v1)|**[link](https://github.com/guoqiushan/mcl)**|
 |**2023-04-04**|**LLM-Adapters: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language Models**|Zhiqiang Hu et.al.|[2304.01933v1](http://arxiv.org/abs/2304.01933v1)|**[link](https://github.com/agi-edgerunners/llm-adapters)**|
-|**2023-04-04**|**EDeR: A Dataset for Exploring Dependency Relations Between Events**|Ruiqi Li et.al.|[2304.01612v1](http://arxiv.org/abs/2304.01612v1)|null|
+|**2023-04-04**|**EDeR: A Dataset for Exploring Dependency Relations Between Events**|Ruiqi Li et.al.|[2304.01612v1](http://arxiv.org/abs/2304.01612v1)|**[link](https://github.com/richielee93/eder)**|
 |**2023-04-04**|**G2PTL: A Pre-trained Model for Delivery Address and its Applications in Logistics System**|Lixia Wu et.al.|[2304.01559v1](http://arxiv.org/abs/2304.01559v1)|null|
-|**2023-04-04**|**RARE: Robust Masked Graph Autoencoder**|Wenxuan Tu et.al.|[2304.01507v1](http://arxiv.org/abs/2304.01507v1)|null|
+|**2023-04-06**|**RARE: Robust Masked Graph Autoencoder**|Wenxuan Tu et.al.|[2304.01507v2](http://arxiv.org/abs/2304.01507v2)|null|
 |**2023-04-04**|**OneShotSTL: One-Shot Seasonal-Trend Decomposition For Online Time Series Anomaly Detection And Forecasting**|Xiao He et.al.|[2304.01506v1](http://arxiv.org/abs/2304.01506v1)|**[link](https://github.com/xiao-he/oneshotstl)**|
 |**2023-04-04**|**Improved Visual Fine-tuning with Natural Language Supervision**|Junyang Wang et.al.|[2304.01489v1](http://arxiv.org/abs/2304.01489v1)|null|
 |**2023-04-03**|**Counterfactual Learning on Graphs: A Survey**|Zhimeng Guo et.al.|[2304.01391v1](http://arxiv.org/abs/2304.01391v1)|**[link](https://github.com/timelovercc/awesome-graph-causal-learning)**|
@@ -1363,7 +1373,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230406>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230407>back to top</a>)</p>
 
 ## adaptor
 
@@ -1405,12 +1415,17 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230406>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230407>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-05**|**MS3D: Leveraging Multiple Detectors for Unsupervised Domain Adaptation in 3D Object Detection**|Darren Tsai et.al.|[2304.02431v1](http://arxiv.org/abs/2304.02431v1)|**[link](https://github.com/darrenjkt/ms3d)**|
+|**2023-04-05**|**Semantic Validation in Structure from Motion**|Joseph Rowell et.al.|[2304.02420v1](http://arxiv.org/abs/2304.02420v1)|**[link](https://github.com/joerowelll/comp0132_rjxz25)**|
+|**2023-04-05**|**Trap-Based Pest Counting: Multiscale and Deformable Attention CenterNet Integrating Internal LR and HR Joint Feature Learning**|Jae-Hyeon Lee et.al.|[2304.02291v1](http://arxiv.org/abs/2304.02291v1)|null|
+|**2023-04-05**|**DPPD: Deformable Polar Polygon Object Detection**|Yang Zheng et.al.|[2304.02250v1](http://arxiv.org/abs/2304.02250v1)|null|
+|**2023-04-05**|**Training Strategies for Vision Transformers for Object Detection**|Apoorv Singh et.al.|[2304.02186v1](http://arxiv.org/abs/2304.02186v1)|null|
 |**2023-04-04**|**Learning to Name Classes for Vision and Language Models**|Sarah Parisot et.al.|[2304.01830v1](http://arxiv.org/abs/2304.01830v1)|null|
 |**2023-04-05**|**Form-NLU: Dataset for the Form Language Understanding**|Yihao Ding et.al.|[2304.01577v2](http://arxiv.org/abs/2304.01577v2)|**[link](https://github.com/adlnlp/form_nlu)**|
 |**2023-04-04**|**A real-time algorithm for human action recognition in RGB and thermal video**|Hannes Fassold et.al.|[2304.01567v1](http://arxiv.org/abs/2304.01567v1)|null|
@@ -2058,7 +2073,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230406>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230407>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
