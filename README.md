@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.04.09
+## Updated on 2023.04.10
 
 <details>
   <summary>Table of Contents</summary>
@@ -22,7 +22,7 @@
 |**2023-04-06**|**Visual Dependency Transformers: Dependency Tree Emerges from Reversed Attention**|Mingyu Ding et.al.|[2304.03282v1](http://arxiv.org/abs/2304.03282v1)|**[link](https://github.com/dingmyu/dependencyvit)**|
 |**2023-04-06**|**When do you need Chain-of-Thought Prompting for ChatGPT?**|Jiuhai Chen et.al.|[2304.03262v1](http://arxiv.org/abs/2304.03262v1)|null|
 |**2023-04-06**|**Zero-Shot Next-Item Recommendation using Large Pretrained Language Models**|Lei Wang et.al.|[2304.03153v1](http://arxiv.org/abs/2304.03153v1)|null|
-|**2023-04-06**|**Geometric-aware Pretraining for Vision-centric 3D Object Detection**|Linyan Huang et.al.|[2304.03105v1](http://arxiv.org/abs/2304.03105v1)|**[link](https://github.com/opendrivelab/bevperception-survey-recipe)**|
+|**2023-04-07**|**Geometric-aware Pretraining for Vision-centric 3D Object Detection**|Linyan Huang et.al.|[2304.03105v2](http://arxiv.org/abs/2304.03105v2)|**[link](https://github.com/opendrivelab/bevperception-survey-recipe)**|
 |**2023-04-06**|**Convolutional neural networks for crack detection on flexible road pavements**|Hermann Tapamo et.al.|[2304.02933v1](http://arxiv.org/abs/2304.02933v1)|null|
 |**2023-04-06**|**Mask Detection and Classification in Thermal Face Images**|Natalia Kowalczyk et.al.|[2304.02931v1](http://arxiv.org/abs/2304.02931v1)|**[link](https://github.com/natkowalczyk/thermal-mask-classification-and-detection)**|
 |**2023-04-06**|**Learning Instance-Level Representation for Large-Scale Multi-Modal Pretraining in E-commerce**|Yang Jin et.al.|[2304.02853v1](http://arxiv.org/abs/2304.02853v1)|null|
@@ -720,7 +720,7 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230409>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230410>back to top</a>)</p>
 
 ## downstream
 
@@ -1383,7 +1383,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230409>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230410>back to top</a>)</p>
 
 ## adaptor
 
@@ -1425,7 +1425,7 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230409>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230410>back to top</a>)</p>
 
 ## object detection
 
@@ -1435,7 +1435,7 @@
 |**2023-04-06**|**Advances in Data-Driven Analysis and Synthesis of 3D Indoor Scenes**|Akshay Gadi Patil et.al.|[2304.03188v1](http://arxiv.org/abs/2304.03188v1)|null|
 |**2023-04-06**|**Mutual Interference Mitigation for MIMO-FMCW Automotive Radar**|Sian Jin et.al.|[2304.03177v1](http://arxiv.org/abs/2304.03177v1)|null|
 |**2023-04-06**|**Continual Detection Transformer for Incremental Object Detection**|Yaoyao Liu et.al.|[2304.03110v1](http://arxiv.org/abs/2304.03110v1)|null|
-|**2023-04-06**|**Geometric-aware Pretraining for Vision-centric 3D Object Detection**|Linyan Huang et.al.|[2304.03105v1](http://arxiv.org/abs/2304.03105v1)|**[link](https://github.com/opendrivelab/bevperception-survey-recipe)**|
+|**2023-04-07**|**Geometric-aware Pretraining for Vision-centric 3D Object Detection**|Linyan Huang et.al.|[2304.03105v2](http://arxiv.org/abs/2304.03105v2)|**[link](https://github.com/opendrivelab/bevperception-survey-recipe)**|
 |**2023-04-06**|**Multi-view Adversarial Discriminator: Mine the Non-causal Factors for Object Detection in Unseen Domains**|Mingjun Xu et.al.|[2304.02950v1](http://arxiv.org/abs/2304.02950v1)|**[link](https://github.com/k2okoh/mad)**|
 |**2023-04-06**|**VPFusion: Towards Robust Vertical Representation Learning for 3D Object Detection**|Yuhao Huang et.al.|[2304.02867v1](http://arxiv.org/abs/2304.02867v1)|null|
 |**2023-04-06**|**MULLER: Multilayer Laplacian Resizer for Vision**|Zhengzhong Tu et.al.|[2304.02859v1](http://arxiv.org/abs/2304.02859v1)|null|
@@ -2093,7 +2093,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230409>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230410>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
