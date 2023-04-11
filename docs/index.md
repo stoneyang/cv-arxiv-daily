@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.04.10
+## Updated on 2023.04.11
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-07**|**Zero-shot CT Field-of-view Completion with Unconditional Generative Diffusion Prior**|Kaiwen Xu et.al.|[2304.03760v1](http://arxiv.org/abs/2304.03760v1)|null|
+|**2023-04-10**|**Anomalous Sound Detection using Audio Representation with Machine ID based Contrastive Learning Pretraining**|Jian Guan et.al.|[2304.03588v2](http://arxiv.org/abs/2304.03588v2)|null|
+|**2023-04-10**|**Graph Attention for Automated Audio Captioning**|Feiyang Xiao et.al.|[2304.03586v2](http://arxiv.org/abs/2304.03586v2)|**[link](https://github.com/littleflyingsheep/graphac)**|
+|**2023-04-07**|**Language-aware Multiple Datasets Detection Pretraining for DETRs**|Jing Hao et.al.|[2304.03580v1](http://arxiv.org/abs/2304.03580v1)|null|
+|**2023-04-07**|**Evaluating the Logical Reasoning Ability of ChatGPT and GPT-4**|Hanmeng Liu et.al.|[2304.03439v1](http://arxiv.org/abs/2304.03439v1)|**[link](https://github.com/csitfun/logiqa2.0)**|
+|**2023-04-06**|**RoSteALS: Robust Steganography using Autoencoder Latent Space**|Tu Bui et.al.|[2304.03400v1](http://arxiv.org/abs/2304.03400v1)|**[link](https://github.com/tubui/rosteals)**|
+|**2023-04-06**|**Self-Supervised Video Similarity Learning**|Giorgos Kordopatis-Zilos et.al.|[2304.03378v1](http://arxiv.org/abs/2304.03378v1)|**[link](https://github.com/gkordo/s2vs)**|
+|**2023-04-06**|**Vita-CLIP: Video and text adaptive CLIP via Multimodal Prompting**|Syed Talal Wasim et.al.|[2304.03307v1](http://arxiv.org/abs/2304.03307v1)|**[link](https://github.com/talalwasim/vita-clip)**|
 |**2023-04-06**|**Visual Dependency Transformers: Dependency Tree Emerges from Reversed Attention**|Mingyu Ding et.al.|[2304.03282v1](http://arxiv.org/abs/2304.03282v1)|**[link](https://github.com/dingmyu/dependencyvit)**|
 |**2023-04-06**|**When do you need Chain-of-Thought Prompting for ChatGPT?**|Jiuhai Chen et.al.|[2304.03262v1](http://arxiv.org/abs/2304.03262v1)|null|
 |**2023-04-06**|**Zero-Shot Next-Item Recommendation using Large Pretrained Language Models**|Lei Wang et.al.|[2304.03153v1](http://arxiv.org/abs/2304.03153v1)|null|
@@ -724,12 +732,17 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230410>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230411>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-07**|**Embodied Concept Learner: Self-supervised Learning of Concepts and Mapping through Instruction Following**|Mingyu Ding et.al.|[2304.03767v1](http://arxiv.org/abs/2304.03767v1)|null|
+|**2023-04-07**|**Probing Conceptual Understanding of Large Visual-Language Models**|Madeline Chantry Schiappa et.al.|[2304.03659v1](http://arxiv.org/abs/2304.03659v1)|null|
+|**2023-04-07**|**A Cross-Scale Hierarchical Transformer with Correspondence-Augmented Attention for inferring Bird's-Eye-View Semantic Segmentation**|Naiyu Fang et.al.|[2304.03650v1](http://arxiv.org/abs/2304.03650v1)|null|
+|**2023-04-07**|**Revisiting Automated Prompting: Are We Actually Doing Better?**|Yulin Zhou et.al.|[2304.03609v1](http://arxiv.org/abs/2304.03609v1)|null|
+|**2023-04-07**|**Lift3D: Synthesize 3D Training Data by Lifting 2D GAN to 3D Generative Radiance Field**|Leheng Li et.al.|[2304.03526v1](http://arxiv.org/abs/2304.03526v1)|null|
 |**2023-04-06**|**Patch-wise Features for Blur Image Classification**|Sri Charan Kattamuru et.al.|[2304.03156v1](http://arxiv.org/abs/2304.03156v1)|null|
 |**2023-04-06**|**Quantifying and Defending against Privacy Threats on Federated Knowledge Graph Embedding**|Yuke Hu et.al.|[2304.02932v1](http://arxiv.org/abs/2304.02932v1)|null|
 |**2023-04-06**|**Learning Instance-Level Representation for Large-Scale Multi-Modal Pretraining in E-commerce**|Yang Jin et.al.|[2304.02853v1](http://arxiv.org/abs/2304.02853v1)|null|
@@ -1387,7 +1400,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230410>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230411>back to top</a>)</p>
 
 ## adaptor
 
@@ -1429,12 +1442,18 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230410>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230411>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-07**|**V3Det: Vast Vocabulary Visual Detection Dataset**|Jiaqi Wang et.al.|[2304.03752v1](http://arxiv.org/abs/2304.03752v1)|null|
+|**2023-04-07**|**Reduce, Reuse, Recycle: Modular Multi-Object Navigation**|Sonia Raychaudhuri et.al.|[2304.03696v1](http://arxiv.org/abs/2304.03696v1)|null|
+|**2023-04-07**|**Language-aware Multiple Datasets Detection Pretraining for DETRs**|Jing Hao et.al.|[2304.03580v1](http://arxiv.org/abs/2304.03580v1)|null|
+|**2023-04-07**|**Lift3D: Synthesize 3D Training Data by Lifting 2D GAN to 3D Generative Radiance Field**|Leheng Li et.al.|[2304.03526v1](http://arxiv.org/abs/2304.03526v1)|null|
+|**2023-04-07**|**PSLT: A Light-weight Vision Transformer with Ladder Self-Attention and Progressive Shift**|Gaojie Wu et.al.|[2304.03481v1](http://arxiv.org/abs/2304.03481v1)|null|
+|**2023-04-07**|**TinyDet: Accurate Small Object Detection in Lightweight Generic Detectors**|Shaoyu Chen et.al.|[2304.03428v1](http://arxiv.org/abs/2304.03428v1)|null|
 |**2023-04-06**|**RFAConv: Innovating Spatital Attention and Standard Convolutional Operation**|Xin Zhang et.al.|[2304.03198v1](http://arxiv.org/abs/2304.03198v1)|**[link](https://github.com/liuchen1997/rfaconv)**|
 |**2023-04-06**|**Advances in Data-Driven Analysis and Synthesis of 3D Indoor Scenes**|Akshay Gadi Patil et.al.|[2304.03188v1](http://arxiv.org/abs/2304.03188v1)|null|
 |**2023-04-06**|**Mutual Interference Mitigation for MIMO-FMCW Automotive Radar**|Sian Jin et.al.|[2304.03177v1](http://arxiv.org/abs/2304.03177v1)|null|
@@ -2097,7 +2116,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230410>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230411>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
