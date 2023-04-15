@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.04.14
+## Updated on 2023.04.15
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-13**|**Single-Stage Diffusion NeRF: A Unified Approach to 3D Generation and Reconstruction**|Hansheng Chen et.al.|[2304.06714v1](http://arxiv.org/abs/2304.06714v1)|null|
+|**2023-04-13**|**Verbs in Action: Improving verb understanding in video-language models**|Liliane Momeni et.al.|[2304.06708v1](http://arxiv.org/abs/2304.06708v1)|null|
+|**2023-04-13**|**G2T: A simple but versatile framework for topic modeling based on pretrained language model and community detection**|Leihang Zhang et.al.|[2304.06653v1](http://arxiv.org/abs/2304.06653v1)|null|
+|**2023-04-13**|**Lossless Adaptation of Pretrained Vision Models For Robotic Manipulation**|Mohit Sharma et.al.|[2304.06600v1](http://arxiv.org/abs/2304.06600v1)|null|
 |**2023-04-12**|**RECLIP: Resource-efficient CLIP by Training with Small Images**|Runze Li et.al.|[2304.06028v1](http://arxiv.org/abs/2304.06028v1)|null|
 |**2023-04-12**|**DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion**|Johanna Karras et.al.|[2304.06025v1](http://arxiv.org/abs/2304.06025v1)|null|
 |**2023-04-12**|**HaDR: Applying Domain Randomization for Generating Synthetic Multimodal Dataset for Hand Instance Segmentation in Cluttered Industrial Environments**|Stefan Grushko et.al.|[2304.05826v1](http://arxiv.org/abs/2304.05826v1)|null|
@@ -751,12 +755,16 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230414>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230415>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-13**|**Verbs in Action: Improving verb understanding in video-language models**|Liliane Momeni et.al.|[2304.06708v1](http://arxiv.org/abs/2304.06708v1)|null|
+|**2023-04-13**|**SpectFormer: Frequency and Attention is what you need in a Vision Transformer**|Badri N. Patro et.al.|[2304.06446v1](http://arxiv.org/abs/2304.06446v1)|null|
+|**2023-04-13**|**Efficient Multimodal Fusion via Interactive Prompting**|Yaowei Li et.al.|[2304.06306v1](http://arxiv.org/abs/2304.06306v1)|null|
+|**2023-04-12**|**CLIP-Guided Vision-Language Pre-training for Question Answering in 3D Scenes**|Maria Parelli et.al.|[2304.06061v1](http://arxiv.org/abs/2304.06061v1)|**[link](https://github.com/alexdelitzas/3d-vqa)**|
 |**2023-04-12**|**Regularizing Contrastive Predictive Coding for Speech Applications**|Saurabhchand Bhati et.al.|[2304.05974v1](http://arxiv.org/abs/2304.05974v1)|null|
 |**2023-04-13**|**Measuring Gender Bias in West Slavic Language Models**|Sandra Martinková et.al.|[2304.05783v2](http://arxiv.org/abs/2304.05783v2)|null|
 |**2023-04-12**|**Impact of Pseudo Depth on Open World Object Segmentation with Minimal User Guidance**|Robin Schön et.al.|[2304.05716v1](http://arxiv.org/abs/2304.05716v1)|null|
@@ -1444,7 +1452,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230414>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230415>back to top</a>)</p>
 
 ## adaptor
 
@@ -1487,12 +1495,22 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230414>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230415>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-13**|**Class-Incremental Learning of Plant and Disease Detection: Growing Branches with Knowledge Distillation**|Mathieu Pagé Fortin et.al.|[2304.06619v1](http://arxiv.org/abs/2304.06619v1)|null|
+|**2023-04-13**|**RadarGNN: Transformation Invariant Graph Neural Network for Radar-based Perception**|Felix Fent et.al.|[2304.06547v1](http://arxiv.org/abs/2304.06547v1)|**[link](https://github.com/tumftm/radargnn)**|
+|**2023-04-13**|**SpectFormer: Frequency and Attention is what you need in a Vision Transformer**|Badri N. Patro et.al.|[2304.06446v1](http://arxiv.org/abs/2304.06446v1)|null|
+|**2023-04-13**|**Learning Accurate Performance Predictors for Ultrafast Automated Model Compression**|Ziwei Wang et.al.|[2304.06393v1](http://arxiv.org/abs/2304.06393v1)|**[link](https://github.com/ziweiwangthu/seernet)**|
+|**2023-04-13**|**You are here! Finding position and orientation on a 2D map from a single image: The Flatlandia localization problem and dataset**|Matteo Toso et.al.|[2304.06373v1](http://arxiv.org/abs/2304.06373v1)|**[link](https://github.com/IIT-PAVIS/Flatlandia)**|
+|**2023-04-13**|**ODAM: Gradient-based instance-specific visual explanations for object detection**|Chenyang Zhao et.al.|[2304.06354v1](http://arxiv.org/abs/2304.06354v1)|null|
+|**2023-04-13**|**An Automotive Case Study on the Limits of Approximation for Object Detection**|Martí Caro et.al.|[2304.06327v1](http://arxiv.org/abs/2304.06327v1)|null|
+|**2023-04-13**|**Boosting Convolutional Neural Networks with Middle Spectrum Grouped Convolution**|Zhuo Su et.al.|[2304.06305v1](http://arxiv.org/abs/2304.06305v1)|**[link](https://github.com/hellozhuo/msgc)**|
+|**2023-04-13**|**Gamifying Math Education using Object Detection**|Yueqiu Sun et.al.|[2304.06270v1](http://arxiv.org/abs/2304.06270v1)|null|
+|**2023-04-13**|**Quasi Real-Time Autonomous Satellite Detection and Orbit Estimation**|Jarred Jordan et.al.|[2304.06227v1](http://arxiv.org/abs/2304.06227v1)|null|
 |**2023-04-12**|**DynamicDet: A Unified Dynamic Architecture for Object Detection**|Zhihao Lin et.al.|[2304.05552v1](http://arxiv.org/abs/2304.05552v1)|**[link](https://github.com/VDIGPKU/DynamicDet)**|
 |**2023-04-11**|**CamDiff: Camouflage Image Augmentation via Diffusion Model**|Xue-Jing Luo et.al.|[2304.05469v1](http://arxiv.org/abs/2304.05469v1)|**[link](https://github.com/drlxj/camdiff)**|
 |**2023-04-11**|**The MONET dataset: Multimodal drone thermal dataset recorded in rural scenarios**|Luigi Riz et.al.|[2304.05417v1](http://arxiv.org/abs/2304.05417v1)|**[link](https://github.com/fabiopoiesi/monet_dataset)**|
@@ -2184,7 +2202,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230414>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230415>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
