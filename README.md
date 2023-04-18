@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.04.17
+## Updated on 2023.04.18
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-14**|**DINOv2: Learning Robust Visual Features without Supervision**|Maxime Oquab et.al.|[2304.07193v1](http://arxiv.org/abs/2304.07193v1)|**[link](https://github.com/facebookresearch/dinov2)**|
+|**2023-04-14**|**The Second Monocular Depth Estimation Challenge**|Jaime Spencer et.al.|[2304.07051v1](http://arxiv.org/abs/2304.07051v1)|null|
+|**2023-04-14**|**MVP-SEG: Multi-View Prompt Learning for Open-Vocabulary Semantic Segmentation**|Jie Guo et.al.|[2304.06957v1](http://arxiv.org/abs/2304.06957v1)|null|
+|**2023-04-14**|**Multimodal C4: An Open, Billion-scale Corpus of Images Interleaved With Text**|Wanrong Zhu et.al.|[2304.06939v1](http://arxiv.org/abs/2304.06939v1)|**[link](https://github.com/allenai/mmc4)**|
+|**2023-04-14**|**3D Feature Prediction for Masked-AutoEncoder-Based Point Cloud Pretraining**|Siming Yan et.al.|[2304.06911v1](http://arxiv.org/abs/2304.06911v1)|null|
+|**2023-04-14**|**Generating Adversarial Examples with Better Transferability via Masking Unimportant Parameters of Surrogate Model**|Dingcheng Yang et.al.|[2304.06908v1](http://arxiv.org/abs/2304.06908v1)|null|
+|**2023-04-14**|**Swin3D: A Pretrained Transformer Backbone for 3D Indoor Scene Understanding**|Yu-Qi Yang et.al.|[2304.06906v1](http://arxiv.org/abs/2304.06906v1)|null|
+|**2023-04-17**|**A Contrastive Method Based on Elevation Data for Remote Sensing with Scarce and High Level Semantic Labels**|Omar A. Castaño-Idarraga et.al.|[2304.06857v2](http://arxiv.org/abs/2304.06857v2)|null|
+|**2023-04-13**|**Shall We Pretrain Autoregressive Language Models with Retrieval? A Comprehensive Study**|Boxin Wang et.al.|[2304.06762v1](http://arxiv.org/abs/2304.06762v1)|**[link](https://github.com/NVIDIA/Megatron-LM)**|
 |**2023-04-13**|**Single-Stage Diffusion NeRF: A Unified Approach to 3D Generation and Reconstruction**|Hansheng Chen et.al.|[2304.06714v1](http://arxiv.org/abs/2304.06714v1)|null|
 |**2023-04-13**|**Verbs in Action: Improving verb understanding in video-language models**|Liliane Momeni et.al.|[2304.06708v1](http://arxiv.org/abs/2304.06708v1)|null|
 |**2023-04-14**|**G2T: A Simple but Effective Framework for Topic Modeling based on Pretrained Language Model and Community Detection**|Leihang Zhang et.al.|[2304.06653v2](http://arxiv.org/abs/2304.06653v2)|null|
@@ -751,14 +760,21 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230417>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230418>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-14**|**Learn What Is Possible, Then Choose What Is Best: Disentangling One-To-Many Relations in Language Through Text-based Games**|Benjamin Towle et.al.|[2304.07258v1](http://arxiv.org/abs/2304.07258v1)|**[link](https://github.com/benjamintowle/pasa)**|
+|**2023-04-14**|**Instance-aware Dynamic Prompt Tuning for Pre-trained Point Cloud Models**|Yaohua Zha et.al.|[2304.07221v1](http://arxiv.org/abs/2304.07221v1)|**[link](https://github.com/zyh16143998882/IDPT)**|
+|**2023-04-14**|**Prior based Sampling for Adaptive LiDAR**|Amit Shomer et.al.|[2304.07099v1](http://arxiv.org/abs/2304.07099v1)|null|
+|**2023-04-14**|**Swin3D: A Pretrained Transformer Backbone for 3D Indoor Scene Understanding**|Yu-Qi Yang et.al.|[2304.06906v1](http://arxiv.org/abs/2304.06906v1)|null|
+|**2023-04-17**|**A Contrastive Method Based on Elevation Data for Remote Sensing with Scarce and High Level Semantic Labels**|Omar A. Castaño-Idarraga et.al.|[2304.06857v2](http://arxiv.org/abs/2304.06857v2)|null|
+|**2023-04-13**|**On the Opportunities and Challenges of Foundation Models for Geospatial Artificial Intelligence**|Gengchen Mai et.al.|[2304.06798v1](http://arxiv.org/abs/2304.06798v1)|null|
+|**2023-04-13**|**Shall We Pretrain Autoregressive Language Models with Retrieval? A Comprehensive Study**|Boxin Wang et.al.|[2304.06762v1](http://arxiv.org/abs/2304.06762v1)|**[link](https://github.com/NVIDIA/Megatron-LM)**|
 |**2023-04-13**|**Verbs in Action: Improving verb understanding in video-language models**|Liliane Momeni et.al.|[2304.06708v1](http://arxiv.org/abs/2304.06708v1)|null|
-|**2023-04-13**|**SpectFormer: Frequency and Attention is what you need in a Vision Transformer**|Badri N. Patro et.al.|[2304.06446v1](http://arxiv.org/abs/2304.06446v1)|null|
+|**2023-04-14**|**SpectFormer: Frequency and Attention is what you need in a Vision Transformer**|Badri N. Patro et.al.|[2304.06446v2](http://arxiv.org/abs/2304.06446v2)|null|
 |**2023-04-13**|**Efficient Multimodal Fusion via Interactive Prompting**|Yaowei Li et.al.|[2304.06306v1](http://arxiv.org/abs/2304.06306v1)|null|
 |**2023-04-12**|**CLIP-Guided Vision-Language Pre-training for Question Answering in 3D Scenes**|Maria Parelli et.al.|[2304.06061v1](http://arxiv.org/abs/2304.06061v1)|**[link](https://github.com/alexdelitzas/3d-vqa)**|
 |**2023-04-12**|**Regularizing Contrastive Predictive Coding for Speech Applications**|Saurabhchand Bhati et.al.|[2304.05974v1](http://arxiv.org/abs/2304.05974v1)|null|
@@ -1448,7 +1464,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230417>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230418>back to top</a>)</p>
 
 ## adaptor
 
@@ -1457,7 +1473,7 @@
 |**2023-04-11**|**Density Map Distillation for Incremental Object Counting**|Chenshen Wu et.al.|[2304.05255v1](http://arxiv.org/abs/2304.05255v1)|null|
 |**2023-03-29**|**AVFormer: Injecting Vision into Frozen Speech Models for Zero-Shot AV-ASR**|Paul Hongsuck Seo et.al.|[2303.16501v1](http://arxiv.org/abs/2303.16501v1)|null|
 |**2023-03-27**|**3D-Aware Multi-Class Image-to-Image Translation with NeRFs**|Senmao Li et.al.|[2303.15012v1](http://arxiv.org/abs/2303.15012v1)|**[link](https://github.com/sen-mao/3di2i-translation)**|
-|**2023-03-28**|**Inherent Consistent Learning for Accurate Semi-supervised Medical Image Segmentation**|Ye Zhu et.al.|[2303.14175v2](http://arxiv.org/abs/2303.14175v2)|**[link](https://github.com/zhuye98/icl)**|
+|**2023-04-15**|**Inherent Consistent Learning for Accurate Semi-supervised Medical Image Segmentation**|Ye Zhu et.al.|[2303.14175v3](http://arxiv.org/abs/2303.14175v3)|**[link](https://github.com/zhuye98/icl)**|
 |**2023-04-05**|**Beyond Universal Transformer: block reusing with adaptor in Transformer for automatic speech recognition**|Haoyu Tang et.al.|[2303.13072v2](http://arxiv.org/abs/2303.13072v2)|null|
 |**2023-03-20**|**SeiT: Storage-Efficient Vision Training with Tokens Using 1% of Pixel Storage**|Song Park et.al.|[2303.11114v1](http://arxiv.org/abs/2303.11114v1)|**[link](https://github.com/naver-ai/seit)**|
 |**2023-03-17**|**A Unified Continual Learning Framework with General Parameter-Efficient Tuning**|Qiankun Gao et.al.|[2303.10070v1](http://arxiv.org/abs/2303.10070v1)|**[link](https://github.com/gqk/lae)**|
@@ -1491,17 +1507,20 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230417>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230418>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-14**|**Directly Optimizing IoU for Bounding Box Localization**|Mofassir ul Islam Arif et.al.|[2304.07256v1](http://arxiv.org/abs/2304.07256v1)|null|
+|**2023-04-14**|**DETR with Additional Global Aggregation for Cross-domain Weakly Supervised Object Detection**|Zongheng Tang et.al.|[2304.07082v1](http://arxiv.org/abs/2304.07082v1)|null|
+|**2023-04-14**|**YOLO-Drone:Airborne real-time detection of dense small objects from high-altitude perspective**|Li Zhu et.al.|[2304.06925v1](http://arxiv.org/abs/2304.06925v1)|null|
 |**2023-04-13**|**Class-Incremental Learning of Plant and Disease Detection: Growing Branches with Knowledge Distillation**|Mathieu Pagé Fortin et.al.|[2304.06619v1](http://arxiv.org/abs/2304.06619v1)|null|
 |**2023-04-13**|**RadarGNN: Transformation Invariant Graph Neural Network for Radar-based Perception**|Felix Fent et.al.|[2304.06547v1](http://arxiv.org/abs/2304.06547v1)|**[link](https://github.com/tumftm/radargnn)**|
-|**2023-04-13**|**SpectFormer: Frequency and Attention is what you need in a Vision Transformer**|Badri N. Patro et.al.|[2304.06446v1](http://arxiv.org/abs/2304.06446v1)|null|
+|**2023-04-14**|**SpectFormer: Frequency and Attention is what you need in a Vision Transformer**|Badri N. Patro et.al.|[2304.06446v2](http://arxiv.org/abs/2304.06446v2)|null|
 |**2023-04-13**|**Learning Accurate Performance Predictors for Ultrafast Automated Model Compression**|Ziwei Wang et.al.|[2304.06393v1](http://arxiv.org/abs/2304.06393v1)|**[link](https://github.com/ziweiwangthu/seernet)**|
-|**2023-04-14**|**You are here! Finding position and orientation on a 2D map from a single image: The Flatlandia localization problem and dataset**|Matteo Toso et.al.|[2304.06373v2](http://arxiv.org/abs/2304.06373v2)|**[link](https://github.com/IIT-PAVIS/Flatlandia)**|
+|**2023-04-17**|**You are here! Finding position and orientation on a 2D map from a single image: The Flatlandia localization problem and dataset**|Matteo Toso et.al.|[2304.06373v3](http://arxiv.org/abs/2304.06373v3)|**[link](https://github.com/IIT-PAVIS/Flatlandia)**|
 |**2023-04-13**|**ODAM: Gradient-based instance-specific visual explanations for object detection**|Chenyang Zhao et.al.|[2304.06354v1](http://arxiv.org/abs/2304.06354v1)|null|
 |**2023-04-13**|**An Automotive Case Study on the Limits of Approximation for Object Detection**|Martí Caro et.al.|[2304.06327v1](http://arxiv.org/abs/2304.06327v1)|null|
 |**2023-04-13**|**Boosting Convolutional Neural Networks with Middle Spectrum Grouped Convolution**|Zhuo Su et.al.|[2304.06305v1](http://arxiv.org/abs/2304.06305v1)|**[link](https://github.com/hellozhuo/msgc)**|
@@ -2198,7 +2217,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230417>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230418>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
