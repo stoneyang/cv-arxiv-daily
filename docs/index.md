@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.04.18
+## Updated on 2023.04.19
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-17**|**Delving into Shape-aware Zero-shot Semantic Segmentation**|Xinyu Liu et.al.|[2304.08491v1](http://arxiv.org/abs/2304.08491v1)|**[link](https://github.com/liuxinyv/sazs)**|
+|**2023-04-17**|**BenchMD: A Benchmark for Modality-Agnostic Learning on Medical Images and Sensors**|Kathryn Wantlin et.al.|[2304.08486v1](http://arxiv.org/abs/2304.08486v1)|**[link](https://github.com/rajpurkarlab/benchmd)**|
+|**2023-04-18**|**Latent-Shift: Latent Diffusion with Temporal Shift for Efficient Text-to-Video Generation**|Jie An et.al.|[2304.08477v2](http://arxiv.org/abs/2304.08477v2)|null|
+|**2023-04-18**|**Inverse design of next-generation superconductors using data-driven deep generative models**|Daniel Wines et.al.|[2304.08446v2](http://arxiv.org/abs/2304.08446v2)|null|
+|**2023-04-17**|**VALOR: Vision-Audio-Language Omni-Perception Pretraining Model and Dataset**|Sihan Chen et.al.|[2304.08345v1](http://arxiv.org/abs/2304.08345v1)|**[link](https://github.com/TXH-mercury/VALOR)**|
+|**2023-04-17**|**Human Pose Estimation in Monocular Omnidirectional Top-View Images**|Jingrui Yu et.al.|[2304.08186v1](http://arxiv.org/abs/2304.08186v1)|null|
+|**2023-04-17**|**DETRs Beat YOLOs on Real-time Object Detection**|Wenyu Lv et.al.|[2304.08069v1](http://arxiv.org/abs/2304.08069v1)|**[link](https://github.com/PaddlePaddle/PaddleDetection)**|
+|**2023-04-17**|**Self-Supervised Learning from Non-Object Centric Images with a Geometric Transformation Sensitive Architecture**|Taeho Kim Jong-Min Lee et.al.|[2304.08014v1](http://arxiv.org/abs/2304.08014v1)|null|
+|**2023-04-17**|**Learning to "Segment Anything" in Thermal Infrared Images through Knowledge Distillation with a Large Scale Dataset SATIR**|Junzhang Chen et.al.|[2304.07969v1](http://arxiv.org/abs/2304.07969v1)|**[link](https://github.com/chenjzbuaa/satir)**|
+|**2023-04-16**|**Sabiá: Portuguese Large Language Models**|Ramon Pires et.al.|[2304.07880v1](http://arxiv.org/abs/2304.07880v1)|null|
 |**2023-04-14**|**DINOv2: Learning Robust Visual Features without Supervision**|Maxime Oquab et.al.|[2304.07193v1](http://arxiv.org/abs/2304.07193v1)|**[link](https://github.com/facebookresearch/dinov2)**|
 |**2023-04-14**|**The Second Monocular Depth Estimation Challenge**|Jaime Spencer et.al.|[2304.07051v1](http://arxiv.org/abs/2304.07051v1)|null|
 |**2023-04-14**|**MVP-SEG: Multi-View Prompt Learning for Open-Vocabulary Semantic Segmentation**|Jie Guo et.al.|[2304.06957v1](http://arxiv.org/abs/2304.06957v1)|null|
@@ -764,12 +774,22 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230418>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230419>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-17**|**The MiniPile Challenge for Data-Efficient Language Models**|Jean Kaddour et.al.|[2304.08442v1](http://arxiv.org/abs/2304.08442v1)|null|
+|**2023-04-17**|**Progressive Visual Prompt Learning with Contrastive Feature Re-formation**|Chen Xu et.al.|[2304.08386v1](http://arxiv.org/abs/2304.08386v1)|null|
+|**2023-04-17**|**VALOR: Vision-Audio-Language Omni-Perception Pretraining Model and Dataset**|Sihan Chen et.al.|[2304.08345v1](http://arxiv.org/abs/2304.08345v1)|**[link](https://github.com/TXH-mercury/VALOR)**|
+|**2023-04-17**|**DIALITE: Discover, Align and Integrate Open Data Tables**|Aamod Khatiwada et.al.|[2304.08285v1](http://arxiv.org/abs/2304.08285v1)|null|
+|**2023-04-17**|**Learning Geometry-aware Representations by Sketching**|Hyundo Lee et.al.|[2304.08204v1](http://arxiv.org/abs/2304.08204v1)|null|
+|**2023-04-16**|**Chain of Thought Prompt Tuning in Vision Language Models**|Jiaxin Ge et.al.|[2304.07919v1](http://arxiv.org/abs/2304.07919v1)|null|
+|**2023-04-16**|**PBNR: Prompt-based News Recommender System**|Xinyi Li et.al.|[2304.07862v1](http://arxiv.org/abs/2304.07862v1)|null|
+|**2023-04-16**|**Automated Self-Admitted Technical Debt Tracking at Commit-Level: A Language-independent Approach**|Mohammad Sadegh Sheikhaei et.al.|[2304.07829v1](http://arxiv.org/abs/2304.07829v1)|null|
+|**2023-04-16**|**Data-OOB: Out-of-bag Estimate as a Simple and Efficient Data Value**|Yongchan Kwon et.al.|[2304.07718v1](http://arxiv.org/abs/2304.07718v1)|null|
+|**2023-04-16**|**Autoencoders with Intrinsic Dimension Constraints for Learning Low Dimensional Image Representations**|Jianzhang Zheng et.al.|[2304.07686v1](http://arxiv.org/abs/2304.07686v1)|null|
 |**2023-04-14**|**Learn What Is Possible, Then Choose What Is Best: Disentangling One-To-Many Relations in Language Through Text-based Games**|Benjamin Towle et.al.|[2304.07258v1](http://arxiv.org/abs/2304.07258v1)|**[link](https://github.com/benjamintowle/pasa)**|
 |**2023-04-14**|**Instance-aware Dynamic Prompt Tuning for Pre-trained Point Cloud Models**|Yaohua Zha et.al.|[2304.07221v1](http://arxiv.org/abs/2304.07221v1)|**[link](https://github.com/zyh16143998882/IDPT)**|
 |**2023-04-14**|**Prior based Sampling for Adaptive LiDAR**|Amit Shomer et.al.|[2304.07099v1](http://arxiv.org/abs/2304.07099v1)|null|
@@ -1468,7 +1488,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230418>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230419>back to top</a>)</p>
 
 ## adaptor
 
@@ -1477,7 +1497,7 @@ layout: default
 |**2023-04-11**|**Density Map Distillation for Incremental Object Counting**|Chenshen Wu et.al.|[2304.05255v1](http://arxiv.org/abs/2304.05255v1)|null|
 |**2023-03-29**|**AVFormer: Injecting Vision into Frozen Speech Models for Zero-Shot AV-ASR**|Paul Hongsuck Seo et.al.|[2303.16501v1](http://arxiv.org/abs/2303.16501v1)|null|
 |**2023-03-27**|**3D-Aware Multi-Class Image-to-Image Translation with NeRFs**|Senmao Li et.al.|[2303.15012v1](http://arxiv.org/abs/2303.15012v1)|**[link](https://github.com/sen-mao/3di2i-translation)**|
-|**2023-04-15**|**Inherent Consistent Learning for Accurate Semi-supervised Medical Image Segmentation**|Ye Zhu et.al.|[2303.14175v3](http://arxiv.org/abs/2303.14175v3)|**[link](https://github.com/zhuye98/icl)**|
+|**2023-04-18**|**Inherent Consistent Learning for Accurate Semi-supervised Medical Image Segmentation**|Ye Zhu et.al.|[2303.14175v4](http://arxiv.org/abs/2303.14175v4)|**[link](https://github.com/zhuye98/icl)**|
 |**2023-04-05**|**Beyond Universal Transformer: block reusing with adaptor in Transformer for automatic speech recognition**|Haoyu Tang et.al.|[2303.13072v2](http://arxiv.org/abs/2303.13072v2)|null|
 |**2023-03-20**|**SeiT: Storage-Efficient Vision Training with Tokens Using 1% of Pixel Storage**|Song Park et.al.|[2303.11114v1](http://arxiv.org/abs/2303.11114v1)|**[link](https://github.com/naver-ai/seit)**|
 |**2023-03-17**|**A Unified Continual Learning Framework with General Parameter-Efficient Tuning**|Qiankun Gao et.al.|[2303.10070v1](http://arxiv.org/abs/2303.10070v1)|**[link](https://github.com/gqk/lae)**|
@@ -1511,12 +1531,22 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230418>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230419>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-17**|**RadarFormer: Lightweight and Accurate Real-Time Radar Object Detection Model**|Yahia Dalbah et.al.|[2304.08447v1](http://arxiv.org/abs/2304.08447v1)|**[link](https://github.com/yahidar/radarformer)**|
+|**2023-04-17**|**SDVRF: Sparse-to-Dense Voxel Region Fusion for Multi-modal 3D Object Detection**|Binglu Ren et.al.|[2304.08304v1](http://arxiv.org/abs/2304.08304v1)|null|
+|**2023-04-17**|**Applications of Deep Learning for Top-View Omnidirectional Imaging: A Survey**|Jingrui Yu et.al.|[2304.08193v1](http://arxiv.org/abs/2304.08193v1)|null|
+|**2023-04-17**|**The Impact of Frame-Dropping on Performance and Energy Consumption for Multi-Object Tracking**|Matti Henning et.al.|[2304.08152v1](http://arxiv.org/abs/2304.08152v1)|null|
+|**2023-04-17**|**A Survey on Few-Shot Class-Incremental Learning**|Songsong Tian et.al.|[2304.08130v1](http://arxiv.org/abs/2304.08130v1)|null|
+|**2023-04-17**|**Leveraging Multi-view Data for Improved Detection Performance: An Industrial Use Case**|Faranak Shamsafar et.al.|[2304.08111v1](http://arxiv.org/abs/2304.08111v1)|null|
+|**2023-04-17**|**DETRs Beat YOLOs on Real-time Object Detection**|Wenyu Lv et.al.|[2304.08069v1](http://arxiv.org/abs/2304.08069v1)|**[link](https://github.com/PaddlePaddle/PaddleDetection)**|
+|**2023-04-16**|**Handling Heavy Occlusion in Dense Crowd Tracking by Focusing on the Heads**|Yu Zhang et.al.|[2304.07705v1](http://arxiv.org/abs/2304.07705v1)|null|
+|**2023-04-15**|**ODSmoothGrad: Generating Saliency Maps for Object Detectors**|Chul Gwon et.al.|[2304.07609v1](http://arxiv.org/abs/2304.07609v1)|null|
+|**2023-04-15**|**Align-DETR: Improving DETR with Simple IoU-aware BCE loss**|Zhi Cai et.al.|[2304.07527v1](http://arxiv.org/abs/2304.07527v1)|**[link](https://github.com/felixcaae/aligndetr)**|
 |**2023-04-14**|**Directly Optimizing IoU for Bounding Box Localization**|Mofassir ul Islam Arif et.al.|[2304.07256v1](http://arxiv.org/abs/2304.07256v1)|null|
 |**2023-04-14**|**DETR with Additional Global Aggregation for Cross-domain Weakly Supervised Object Detection**|Zongheng Tang et.al.|[2304.07082v1](http://arxiv.org/abs/2304.07082v1)|null|
 |**2023-04-14**|**YOLO-Drone:Airborne real-time detection of dense small objects from high-altitude perspective**|Li Zhu et.al.|[2304.06925v1](http://arxiv.org/abs/2304.06925v1)|null|
@@ -2221,7 +2251,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230418>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230419>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
