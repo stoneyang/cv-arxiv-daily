@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2023.04.28
+> Updated on 2023.04.29
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,15 @@
 
 ## pretrain
 
+- 2023-04-27, **We're Afraid Language Models Aren't Modeling Ambiguity**, Alisa Liu et.al., Paper: [http://arxiv.org/abs/2304.14399v1](http://arxiv.org/abs/2304.14399v1), Code: **[https://github.com/alisawuffles/ambient](https://github.com/alisawuffles/ambient)**
+- 2023-04-27, **UIO at SemEval-2023 Task 12: Multilingual fine-tuning for sentiment classification in low-resource languages**, Egil Rønningstad et.al., Paper: [http://arxiv.org/abs/2304.14189v1](http://arxiv.org/abs/2304.14189v1)
+- 2023-04-27, **Lightweight, Pre-trained Transformers for Remote Sensing Timeseries**, Gabriel Tseng et.al., Paper: [http://arxiv.org/abs/2304.14065v1](http://arxiv.org/abs/2304.14065v1), Code: **[https://github.com/nasaharvest/presto](https://github.com/nasaharvest/presto)**
+- 2023-04-27, **Retrieval-based Knowledge Augmented Vision Language Pre-training**, Jiahua Rao et.al., Paper: [http://arxiv.org/abs/2304.13923v1](http://arxiv.org/abs/2304.13923v1)
+- 2023-04-27, **Neural Keyphrase Generation: Analysis and Evaluation**, Tuhin Kundu et.al., Paper: [http://arxiv.org/abs/2304.13883v1](http://arxiv.org/abs/2304.13883v1)
+- 2023-04-26, **highway2vec -- representing OpenStreetMap microregions with respect to their road network characteristics**, Kacper Leśniara et.al., Paper: [http://arxiv.org/abs/2304.13865v1](http://arxiv.org/abs/2304.13865v1), Code: **[https://github.com/calychas/highway2vec](https://github.com/calychas/highway2vec)**
+- 2023-04-26, **A Deep Learning Framework for Verilog Autocompletion Towards Design and Verification Automation**, Enrique Dehaerne et.al., Paper: [http://arxiv.org/abs/2304.13840v1](http://arxiv.org/abs/2304.13840v1)
+- 2023-04-26, **Programmatically Grounded, Compositionally Generalizable Robotic Manipulation**, Renhao Wang et.al., Paper: [http://arxiv.org/abs/2304.13826v1](http://arxiv.org/abs/2304.13826v1)
+- 2023-04-26, **Translate to Disambiguate: Zero-shot Multilingual Word Sense Disambiguation with Pretrained Language Models**, Haoqiang Kang et.al., Paper: [http://arxiv.org/abs/2304.13803v1](http://arxiv.org/abs/2304.13803v1)
 - 2023-04-26, **Domain Adaptive and Generalizable Network Architectures and Training Strategies for Semantic Image Segmentation**, Lukas Hoyer et.al., Paper: [http://arxiv.org/abs/2304.13615v1](http://arxiv.org/abs/2304.13615v1), Code: **[https://github.com/lhoyer/hrda](https://github.com/lhoyer/hrda)**
 - 2023-04-26, **Tissue Classification During Needle Insertion Using Self-Supervised Contrastive Learning and Optical Coherence Tomography**, Debayan Bhattacharya et.al., Paper: [http://arxiv.org/abs/2304.13574v1](http://arxiv.org/abs/2304.13574v1)
 - 2023-04-26, **Self-Supervised Multi-Modal Sequential Recommendation**, Kunzhe Song et.al., Paper: [http://arxiv.org/abs/2304.13277v1](http://arxiv.org/abs/2304.13277v1)
@@ -813,15 +822,19 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20230428>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230429>back to top</a>)</p>
 
 ## downstream
 
+- 2023-04-27, **$π$-Tuning: Transferring Multimodal Foundation Models with Optimal Multi-task Interpolation**, Chengyue Wu et.al., Paper: [http://arxiv.org/abs/2304.14381v1](http://arxiv.org/abs/2304.14381v1)
+- 2023-04-26, **Towards Medical Artificial General Intelligence via Knowledge-Enhanced Multimodal Pretraining**, Bingqian Lin et.al., Paper: [http://arxiv.org/abs/2304.14204v1](http://arxiv.org/abs/2304.14204v1)
+- 2023-04-27, **Retrieval-based Knowledge Augmented Vision Language Pre-training**, Jiahua Rao et.al., Paper: [http://arxiv.org/abs/2304.13923v1](http://arxiv.org/abs/2304.13923v1)
+- 2023-04-26, **A Deep Learning Framework for Verilog Autocompletion Towards Design and Verification Automation**, Enrique Dehaerne et.al., Paper: [http://arxiv.org/abs/2304.13840v1](http://arxiv.org/abs/2304.13840v1)
 - 2023-04-26, **A Control-Centric Benchmark for Video Prediction**, Stephen Tian et.al., Paper: [http://arxiv.org/abs/2304.13723v1](http://arxiv.org/abs/2304.13723v1), Code: **[https://github.com/s-tian/vp2](https://github.com/s-tian/vp2)**
-- 2023-04-27, **Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond**, Jingfeng Yang et.al., Paper: [http://arxiv.org/abs/2304.13712v2](http://arxiv.org/abs/2304.13712v2)
+- 2023-04-27, **Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond**, Jingfeng Yang et.al., Paper: [http://arxiv.org/abs/2304.13712v2](http://arxiv.org/abs/2304.13712v2), Code: **[https://github.com/mooler0410/llmspracticalguide](https://github.com/mooler0410/llmspracticalguide)**
 - 2023-04-26, **PVP: Pre-trained Visual Parameter-Efficient Tuning**, Zhao Song et.al., Paper: [http://arxiv.org/abs/2304.13639v1](http://arxiv.org/abs/2304.13639v1)
 - 2023-04-26, **Impact of Position Bias on Language Models in Token Classification**, Mehdi Ben Amor et.al., Paper: [http://arxiv.org/abs/2304.13567v1](http://arxiv.org/abs/2304.13567v1)
-- 2023-04-25, **Connector 0.5: A unified framework for graph representation learning**, Thanh Sang Nguyen et.al., Paper: [http://arxiv.org/abs/2304.13195v1](http://arxiv.org/abs/2304.13195v1)
+- 2023-04-25, **Connector 0.5: A unified framework for graph representation learning**, Thanh Sang Nguyen et.al., Paper: [http://arxiv.org/abs/2304.13195v1](http://arxiv.org/abs/2304.13195v1), Code: **[https://github.com/nslab-cuk/connector](https://github.com/nslab-cuk/connector)**
 - 2023-04-25, **Towards Compute-Optimal Transfer Learning**, Massimo Caccia et.al., Paper: [http://arxiv.org/abs/2304.13164v1](http://arxiv.org/abs/2304.13164v1)
 - 2023-04-25, **Objectives Matter: Understanding the Impact of Self-Supervised Objectives on Vision Transformer Representations**, Shashank Shekhar et.al., Paper: [http://arxiv.org/abs/2304.13089v1](http://arxiv.org/abs/2304.13089v1)
 - 2023-04-25, **DuETT: Dual Event Time Transformer for Electronic Health Records**, Alex Labach et.al., Paper: [http://arxiv.org/abs/2304.13017v1](http://arxiv.org/abs/2304.13017v1), Code: **[https://github.com/layer6ai-labs/duett](https://github.com/layer6ai-labs/duett)**
@@ -1576,7 +1589,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20230428>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230429>back to top</a>)</p>
 
 ## adaptor
 
@@ -1618,10 +1631,14 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20230428>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230429>back to top</a>)</p>
 
 ## object detection
 
+- 2023-04-27, **SMAT: A Self-Reinforcing Framework for Simultaneous Mapping and Tracking in Unbounded Urban Environments**, Tingxiang Fan et.al., Paper: [http://arxiv.org/abs/2304.14356v1](http://arxiv.org/abs/2304.14356v1)
+- 2023-04-27, **SparseFusion: Fusing Multi-Modal Sparse Representations for Multi-Sensor 3D Object Detection**, Yichen Xie et.al., Paper: [http://arxiv.org/abs/2304.14340v1](http://arxiv.org/abs/2304.14340v1), Code: **[https://github.com/yichen928/sparsefusion](https://github.com/yichen928/sparsefusion)**
+- 2023-04-27, **Towards Precise Weakly Supervised Object Detection via Interactive Contrastive Learning of Context Information**, Lai Qi et.al., Paper: [http://arxiv.org/abs/2304.14114v1](http://arxiv.org/abs/2304.14114v1)
+- 2023-04-27, **Detection of Adversarial Physical Attacks in Time-Series Image Data**, Ramneet Kaur et.al., Paper: [http://arxiv.org/abs/2304.13919v1](http://arxiv.org/abs/2304.13919v1)
 - 2023-04-27, **From Chaos Comes Order: Ordering Event Representations for Object Detection**, Nikola Zubić et.al., Paper: [http://arxiv.org/abs/2304.13455v2](http://arxiv.org/abs/2304.13455v2)
 - 2023-04-26, **Training-Free Location-Aware Text-to-Image Synthesis**, Jiafeng Mao et.al., Paper: [http://arxiv.org/abs/2304.13427v1](http://arxiv.org/abs/2304.13427v1)
 - 2023-04-26, **Group Equivariant BEV for 3D Object Detection**, Hongwei Liu et.al., Paper: [http://arxiv.org/abs/2304.13390v1](http://arxiv.org/abs/2304.13390v1)
@@ -2370,7 +2387,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20230428>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230429>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
