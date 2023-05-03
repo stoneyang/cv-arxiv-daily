@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.02
+## Updated on 2023.05.03
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-01**|**Interpreting Pretrained Source-code Models using Neuron Redundancy Analyses**|Arushi Sharma et.al.|[2305.00875v1](http://arxiv.org/abs/2305.00875v1)|null|
+|**2023-04-30**|**Transfer of knowledge among instruments in automatic music transcription**|Michał Leś et.al.|[2305.00426v1](http://arxiv.org/abs/2305.00426v1)|null|
+|**2023-04-30**|**Cross-Shaped Windows Transformer with Self-supervised Pretraining for Clinically Significant Prostate Cancer Detection in Bi-parametric MRI**|Yuheng Li et.al.|[2305.00385v1](http://arxiv.org/abs/2305.00385v1)|null|
+|**2023-04-29**|**LD-GAN: Low-Dimensional Generative Adversarial Network for Spectral Image Generation with Variance Regularization**|Emmanuel Martinez et.al.|[2305.00132v1](http://arxiv.org/abs/2305.00132v1)|**[link](https://github.com/hdspgroup/LD-GAN)**|
+|**2023-04-28**|**Towards Better Domain Adaptation for Self-supervised Models: A Case Study of Child ASR**|Ruchao Fan et.al.|[2305.00115v1](http://arxiv.org/abs/2305.00115v1)|null|
+|**2023-04-28**|**NLNDE at SemEval-2023 Task 12: Adaptive Pretraining and Source Language Selection for Low-Resource Multilingual Sentiment Analysis**|Mingyang Wang et.al.|[2305.00090v1](http://arxiv.org/abs/2305.00090v1)|null|
+|**2023-04-28**|**Unsupervised Discovery of 3D Hierarchical Structure with Generative Diffusion Features**|Nurislam Tursynbek et.al.|[2305.00067v1](http://arxiv.org/abs/2305.00067v1)|null|
 |**2023-04-28**|**CCpdf: Building a High Quality Corpus for Visually Rich Documents from Web Crawl Data**|Michał Turski et.al.|[2304.14953v1](http://arxiv.org/abs/2304.14953v1)|**[link](https://github.com/applicaai/ccpdf)**|
 |**2023-04-28**|**Made of Steel? Learning Plausible Materials for Components in the Vehicle Repair Domain**|Annerose Eichel et.al.|[2304.14745v1](http://arxiv.org/abs/2304.14745v1)|**[link](https://github.com/anneroseeichel/eacl2023_made-of-steel)**|
 |**2023-04-28**|**DIAMANT: Dual Image-Attention Map Encoders For Medical Image Segmentation**|Yousef Yeganeh et.al.|[2304.14571v1](http://arxiv.org/abs/2304.14571v1)|null|
@@ -829,12 +836,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230502>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230503>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-01**|**Attack-SAM: Towards Evaluating Adversarial Robustness of Segment Anything Model**|Chenshuang Zhang et.al.|[2305.00866v1](http://arxiv.org/abs/2305.00866v1)|null|
+|**2023-05-01**|**What Do Self-Supervised Vision Transformers Learn?**|Namuk Park et.al.|[2305.00729v1](http://arxiv.org/abs/2305.00729v1)|**[link](https://github.com/naver-ai/cl-vs-mim)**|
+|**2023-04-30**|**Consolidator: Mergeable Adapter with Grouped Connections for Visual Adaptation**|Tianxiang Hao et.al.|[2305.00603v1](http://arxiv.org/abs/2305.00603v1)|null|
+|**2023-04-30**|**Reliable Gradient-free and Likelihood-free Prompt Tuning**|Maohao Shen et.al.|[2305.00593v1](http://arxiv.org/abs/2305.00593v1)|**[link](https://github.com/maohaos2/SBI_LLM)**|
+|**2023-04-30**|**EVREAL: Towards a Comprehensive Benchmark and Analysis Suite for Event-based Video Reconstruction**|Burak Ercan et.al.|[2305.00434v1](http://arxiv.org/abs/2305.00434v1)|**[link](https://github.com/ercanburak/EVREAL)**|
+|**2023-04-30**|**Cross-Shaped Windows Transformer with Self-supervised Pretraining for Clinically Significant Prostate Cancer Detection in Bi-parametric MRI**|Yuheng Li et.al.|[2305.00385v1](http://arxiv.org/abs/2305.00385v1)|null|
+|**2023-04-30**|**Enhancing Adversarial Contrastive Learning via Adversarial Invariant Regularization**|Xilie Xu et.al.|[2305.00374v1](http://arxiv.org/abs/2305.00374v1)|null|
+|**2023-04-29**|**POUF: Prompt-oriented unsupervised fine-tuning for large pre-trained models**|Korawat Tanwisuth et.al.|[2305.00350v1](http://arxiv.org/abs/2305.00350v1)|**[link](https://github.com/korawat-tanwisuth/pouf)**|
+|**2023-04-29**|**Instruction-ViT: Multi-Modal Prompts for Instruction Learning in ViT**|Zhenxiang Xiao et.al.|[2305.00201v1](http://arxiv.org/abs/2305.00201v1)|null|
+|**2023-04-28**|**Speak, Memory: An Archaeology of Books Known to ChatGPT/GPT-4**|Kent K. Chang et.al.|[2305.00118v1](http://arxiv.org/abs/2305.00118v1)|**[link](https://github.com/bamman-group/gpt4-books)**|
 |**2023-04-28**|**SGAligner : 3D Scene Alignment with Scene Graphs**|Sayan Deb Sarkar et.al.|[2304.14880v1](http://arxiv.org/abs/2304.14880v1)|**[link](https://github.com/sayands/sgaligner)**|
 |**2023-04-28**|**Differentiable Sensor Layouts for End-to-End Learning of Task-Specific Camera Parameters**|Hendrik Sommerhoff et.al.|[2304.14736v1](http://arxiv.org/abs/2304.14736v1)|null|
 |**2023-04-28**|**Deep Graph Reprogramming**|Yongcheng Jing et.al.|[2304.14593v1](http://arxiv.org/abs/2304.14593v1)|null|
@@ -1601,7 +1618,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230502>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230503>back to top</a>)</p>
 
 ## adaptor
 
@@ -1645,12 +1662,22 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230502>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230503>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-01**|**Hypernuclear event detection in the nuclear emulsion with Monte Carlo simulation and machine learning**|A. Kasagi et.al.|[2305.00884v1](http://arxiv.org/abs/2305.00884v1)|null|
+|**2023-05-02**|**SelfDocSeg: A Self-Supervised vision-based Approach towards Document Segmentation**|Subhajit Maity et.al.|[2305.00795v2](http://arxiv.org/abs/2305.00795v2)|**[link](https://github.com/maitysubhajit/selfdocseg)**|
+|**2023-05-01**|**Event Camera as Region Proposal Network**|Shrutarv Awasthi et.al.|[2305.00718v1](http://arxiv.org/abs/2305.00718v1)|null|
+|**2023-05-01**|**Refined Response Distillation for Class-Incremental Player Detection**|Liang Bai et.al.|[2305.00620v1](http://arxiv.org/abs/2305.00620v1)|null|
+|**2023-04-30**|**The MCC approaches the geometric mean of precision and recall as true negatives approach infinity**|Jon Crall et.al.|[2305.00594v1](http://arxiv.org/abs/2305.00594v1)|null|
+|**2023-04-30**|**Discriminative Co-Saliency and Background Mining Transformer for Co-Salient Object Detection**|Long Li et.al.|[2305.00514v1](http://arxiv.org/abs/2305.00514v1)|**[link](https://github.com/dragonlee258079/DMT)**|
+|**2023-04-30**|**A Simulation-Augmented Benchmarking Framework for Automatic RSO Streak Detection in Single-Frame Space Images**|Zhe Chen et.al.|[2305.00412v1](http://arxiv.org/abs/2305.00412v1)|null|
+|**2023-04-30**|**LIMOT: A Tightly-Coupled System for LiDAR-Inertial Odometry and Multi-Object Tracking**|Zhongyang Zhu et.al.|[2305.00406v1](http://arxiv.org/abs/2305.00406v1)|null|
+|**2023-04-30**|**TransCAR: Transformer-based Camera-And-Radar Fusion for 3D Object Detection**|Su Pang et.al.|[2305.00397v1](http://arxiv.org/abs/2305.00397v1)|null|
+|**2023-04-29**|**InfraDet3D: Multi-Modal 3D Object Detection based on Roadside Infrastructure Camera and LiDAR Sensors**|Walter Zimmer et.al.|[2305.00314v1](http://arxiv.org/abs/2305.00314v1)|null|
 |**2023-04-28**|**Evaluating the Stability of Semantic Concept Representations in CNNs for Robust Explainability**|Georgii Mikriukov et.al.|[2304.14864v1](http://arxiv.org/abs/2304.14864v1)|null|
 |**2023-04-28**|**A positive feedback method based on F-measure value for Salient Object Detection**|Ailing Pan et.al.|[2304.14619v1](http://arxiv.org/abs/2304.14619v1)|null|
 |**2023-04-28**|**Fusion is Not Enough: Single-Modal Attacks to Compromise Fusion Models in Autonomous Driving**|Zhiyuan Cheng et.al.|[2304.14614v1](http://arxiv.org/abs/2304.14614v1)|null|
@@ -2410,7 +2437,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230502>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230503>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
