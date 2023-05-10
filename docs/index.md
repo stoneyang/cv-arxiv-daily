@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.09
+## Updated on 2023.05.10
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-08**|**Toeplitz Neural Network for Sequence Modeling**|Zhen Qin et.al.|[2305.04749v1](http://arxiv.org/abs/2305.04749v1)|**[link](https://github.com/opennlplab/tnn)**|
+|**2023-05-08**|**Enhancing Knowledge Graph Construction Using Large Language Models**|Milena Trajanoska et.al.|[2305.04676v1](http://arxiv.org/abs/2305.04676v1)|null|
+|**2023-05-08**|**MultiTACRED: A Multilingual Version of the TAC Relation Extraction Dataset**|Leonhard Hennig et.al.|[2305.04582v1](http://arxiv.org/abs/2305.04582v1)|**[link](https://github.com/dfki-nlp/multitacred)**|
+|**2023-05-08**|**A Multi-Modal Context Reasoning Approach for Conditional Inference on Joint Textual and Visual Clues**|Yunxin Li et.al.|[2305.04530v1](http://arxiv.org/abs/2305.04530v1)|**[link](https://github.com/yunxinli/multimodal-context-reasoning)**|
+|**2023-05-08**|**SNT: Sharpness-Minimizing Network Transformation for Fast Compression-friendly Pretraining**|Jung Hwan Heo et.al.|[2305.04526v1](http://arxiv.org/abs/2305.04526v1)|null|
+|**2023-05-08**|**Retriever and Ranker Framework with Probabilistic Hard Negative Sampling for Code Search**|Hande Dong et.al.|[2305.04508v1](http://arxiv.org/abs/2305.04508v1)|null|
+|**2023-05-08**|**Token-level Fitting Issues of Seq2seq Models**|Guangsheng Bao et.al.|[2305.04493v1](http://arxiv.org/abs/2305.04493v1)|null|
+|**2023-05-09**|**Vision Langauge Pre-training by Contrastive Learning with Cross-Modal Similarity Regulation**|Chaoya Jiang et.al.|[2305.04474v2](http://arxiv.org/abs/2305.04474v2)|null|
+|**2023-05-08**|**Vision Transformer Off-the-Shelf: A Surprising Baseline for Few-Shot Class-Agnostic Counting**|Zhicheng Wang et.al.|[2305.04440v1](http://arxiv.org/abs/2305.04440v1)|null|
+|**2023-05-08**|**Breaking Through the Haze: An Advanced Non-Homogeneous Dehazing Method based on Fast Fourier Convolution and ConvNeXt**|Han Zhou et.al.|[2305.04430v1](http://arxiv.org/abs/2305.04430v1)|**[link](https://github.com/zhouh115/dwt-ffc)**|
 |**2023-05-05**|**Otter: A Multi-Modal Model with In-Context Instruction Tuning**|Bo Li et.al.|[2305.03726v1](http://arxiv.org/abs/2305.03726v1)|null|
 |**2023-05-05**|**COLA: How to adapt vision-language models to Compose Objects Localized with Attributes?**|Arijit Ray et.al.|[2305.03689v1](http://arxiv.org/abs/2305.03689v1)|null|
 |**2023-05-05**|**Retrieval Augmented Chest X-Ray Report Generation using OpenAI GPT models**|Mercy Ranjit et.al.|[2305.03660v1](http://arxiv.org/abs/2305.03660v1)|null|
@@ -864,12 +874,22 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230509>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230510>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-08**|**SignBERT+: Hand-model-aware Self-supervised Pre-training for Sign Language Understanding**|Hezhen Hu et.al.|[2305.04868v1](http://arxiv.org/abs/2305.04868v1)|null|
+|**2023-05-08**|**Augmented Large Language Models with Parametric Knowledge Guiding**|Ziyang Luo et.al.|[2305.04757v1](http://arxiv.org/abs/2305.04757v1)|null|
+|**2023-05-08**|**Toeplitz Neural Network for Sequence Modeling**|Zhen Qin et.al.|[2305.04749v1](http://arxiv.org/abs/2305.04749v1)|**[link](https://github.com/opennlplab/tnn)**|
+|**2023-05-09**|**PreCog: Exploring the Relation between Memorization and Performance in Pre-trained Language Models**|Leonardo Ranaldi et.al.|[2305.04673v2](http://arxiv.org/abs/2305.04673v2)|null|
+|**2023-05-08**|**CSGCL: Community-Strength-Enhanced Graph Contrastive Learning**|Han Chen et.al.|[2305.04658v1](http://arxiv.org/abs/2305.04658v1)|**[link](https://github.com/hanchen-hust/csgcl)**|
+|**2023-05-08**|**HiFi: High-Information Attention Heads Hold for Parameter-Efficient Model Adaptation**|Anchun Gui et.al.|[2305.04573v1](http://arxiv.org/abs/2305.04573v1)|null|
+|**2023-05-08**|**Toward Adversarial Training on Contextualized Language Representation**|Hongqiu Wu et.al.|[2305.04557v1](http://arxiv.org/abs/2305.04557v1)|**[link](https://github.com/gingasan/creat)**|
+|**2023-05-08**|**Behavior Contrastive Learning for Unsupervised Skill Discovery**|Rushuai Yang et.al.|[2305.04477v1](http://arxiv.org/abs/2305.04477v1)|**[link](https://github.com/rooshy-yang/becl)**|
+|**2023-05-08**|**WSFE: Wasserstein Sub-graph Feature Encoder for Effective User Segmentation in Collaborative Filtering**|Yankai Chen et.al.|[2305.04410v1](http://arxiv.org/abs/2305.04410v1)|null|
+|**2023-05-07**|**PELE scores: Pelvic X-ray Landmark Detection by Pelvis Extraction and Enhancement**|Zhen Huang et.al.|[2305.04294v1](http://arxiv.org/abs/2305.04294v1)|null|
 |**2023-05-05**|**On the Effectiveness of Equivariant Regularization for Robust Online Continual Learning**|Lorenzo Bonicelli et.al.|[2305.03648v1](http://arxiv.org/abs/2305.03648v1)|null|
 |**2023-05-04**|**Black-box Prompt Tuning with Subspace Learning**|Yuanhang Zheng et.al.|[2305.03518v1](http://arxiv.org/abs/2305.03518v1)|null|
 |**2023-05-03**|**ChatGraph: Interpretable Text Classification by Converting ChatGPT Knowledge to Graphs**|Yucheng Shi et.al.|[2305.03513v1](http://arxiv.org/abs/2305.03513v1)|null|
@@ -1666,12 +1686,13 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230509>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230510>back to top</a>)</p>
 
 ## adaptor
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-09**|**AlignSTS: Speech-to-Singing Conversion via Cross-Modal Alignment**|Ruiqi Li et.al.|[2305.04476v2](http://arxiv.org/abs/2305.04476v2)|null|
 |**2023-04-17**|**The Standard Problem**|Enrico Coiera et.al.|[2304.09114v1](http://arxiv.org/abs/2304.09114v1)|null|
 |**2023-04-11**|**Density Map Distillation for Incremental Object Counting**|Chenshen Wu et.al.|[2304.05255v1](http://arxiv.org/abs/2304.05255v1)|null|
 |**2023-03-29**|**AVFormer: Injecting Vision into Frozen Speech Models for Zero-Shot AV-ASR**|Paul Hongsuck Seo et.al.|[2303.16501v1](http://arxiv.org/abs/2303.16501v1)|null|
@@ -1710,12 +1731,18 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230509>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230510>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-08**|**PillarNeXt: Rethinking Network Designs for 3D Object Detection in LiDAR Point Clouds**|Jinyu Li et.al.|[2305.04925v1](http://arxiv.org/abs/2305.04925v1)|**[link](https://github.com/qcraftai/pillarnext)**|
+|**2023-05-08**|**Understanding Gaussian Attention Bias of Vision Transformers Using Effective Receptive Fields**|Bum Jun Kim et.al.|[2305.04722v1](http://arxiv.org/abs/2305.04722v1)|null|
+|**2023-05-08**|**Robust Traffic Light Detection Using Salience-Sensitive Loss: Computational Framework and Evaluations**|Ross Greer et.al.|[2305.04516v1](http://arxiv.org/abs/2305.04516v1)|null|
+|**2023-05-08**|**SegGPT Meets Co-Saliency Scene**|Yi Liu et.al.|[2305.04396v1](http://arxiv.org/abs/2305.04396v1)|null|
+|**2023-05-07**|**YOLOCS: Object Detection based on Dense Channel Compression for Feature Spatial Solidification**|Lin Huang et.al.|[2305.04170v1](http://arxiv.org/abs/2305.04170v1)|null|
+|**2023-05-07**|**Context-Aware Chart Element Detection**|Pengyu Yan et.al.|[2305.04151v1](http://arxiv.org/abs/2305.04151v1)|**[link](https://github.com/pengyu965/chartdete)**|
 |**2023-05-05**|**DSPDet3D: Dynamic Spatial Pruning for 3D Small Object Detection**|Xiuwei Xu et.al.|[2305.03716v1](http://arxiv.org/abs/2305.03716v1)|**[link](https://github.com/xuxw98/dspdet3d)**|
 |**2023-05-05**|**Human Attention-Guided Explainable Artificial Intelligence for Computer Vision Models**|Guoyang Liu et.al.|[2305.03601v1](http://arxiv.org/abs/2305.03601v1)|null|
 |**2023-05-05**|**GAANet: Ghost Auto Anchor Network for Detecting Varying Size Drones in Dark**|Misha Urooj Khan et.al.|[2305.03425v1](http://arxiv.org/abs/2305.03425v1)|**[link](https://github.com/zeeshankaleem/ghostautoanchornet)**|
@@ -2502,7 +2529,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230509>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230510>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
