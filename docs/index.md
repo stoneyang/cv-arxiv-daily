@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.11
+## Updated on 2023.05.12
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-10**|**Incorporating Structured Representations into Pretrained Vision & Language Models Using Scene Graphs**|Roei Herzig et.al.|[2305.06343v1](http://arxiv.org/abs/2305.06343v1)|null|
+|**2023-05-10**|**XTab: Cross-table Pretraining for Tabular Transformers**|Bingzhao Zhu et.al.|[2305.06090v1](http://arxiv.org/abs/2305.06090v1)|**[link](https://github.com/bingzhaozhu/xtab)**|
+|**2023-05-10**|**A Survey of Deep Code Search**|Yutao Xie et.al.|[2305.05959v1](http://arxiv.org/abs/2305.05959v1)|null|
+|**2023-05-10**|**Mover: Mask and Recovery based Facial Part Consistency Aware Method for Deepfake Video Detection**|Juan Hu et.al.|[2305.05943v1](http://arxiv.org/abs/2305.05943v1)|null|
+|**2023-05-10**|**SHS-Net: Learning Signed Hyper Surfaces for Oriented Normal Estimation of Point Clouds**|Qing Li et.al.|[2305.05873v1](http://arxiv.org/abs/2305.05873v1)|**[link](https://github.com/leoqli/shs-net)**|
+|**2023-05-10**|**Are ChatGPT and GPT-4 General-Purpose Solvers for Financial Text Analytics? An Examination on Several Typical Tasks**|Xianzhi Li et.al.|[2305.05862v1](http://arxiv.org/abs/2305.05862v1)|null|
+|**2023-05-10**|**Vārta: A Large-Scale Headline-Generation Dataset for Indic Languages**|Rahul Aralikatte et.al.|[2305.05858v1](http://arxiv.org/abs/2305.05858v1)|**[link](https://github.com/rahular/varta)**|
 |**2023-05-09**|**Region-based Contrastive Pretraining for Medical Image Retrieval with Anatomic Query**|Ho Hin Lee et.al.|[2305.05598v1](http://arxiv.org/abs/2305.05598v1)|null|
 |**2023-05-09**|**Recursions Are All You Need: Towards Efficient Deep Unfolding Networks**|Rawwad Alhejaili et.al.|[2305.05505v1](http://arxiv.org/abs/2305.05505v1)|**[link](https://github.com/rawwad-alhejaili/recursions-are-all-you-need)**|
 |**2023-05-09**|**BadCS: A Backdoor Attack Framework for Code search**|Shiyi Qi et.al.|[2305.05503v1](http://arxiv.org/abs/2305.05503v1)|null|
@@ -884,12 +891,16 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230511>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230512>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-10**|**Alternating Gradient Descent and Mixture-of-Experts for Integrated Multimodal Perception**|Hassan Akbari et.al.|[2305.06324v1](http://arxiv.org/abs/2305.06324v1)|null|
+|**2023-05-10**|**Multi-Prompt with Depth Partitioned Cross-Modal Learning**|Yiqi Wang et.al.|[2305.06221v1](http://arxiv.org/abs/2305.06221v1)|**[link](https://github.com/wangyiqi/pmpo)**|
+|**2023-05-10**|**Privacy-Preserving Prompt Tuning for Large Language Model Services**|Yansong Li et.al.|[2305.06212v1](http://arxiv.org/abs/2305.06212v1)|null|
+|**2023-05-10**|**Investigating Forgetting in Pre-Trained Representations Through Continual Learning**|Yun Luo et.al.|[2305.05968v1](http://arxiv.org/abs/2305.05968v1)|null|
 |**2023-05-09**|**ShapeCoder: Discovering Abstractions for Visual Programs from Unstructured Primitives**|R. Kenny Jones et.al.|[2305.05661v1](http://arxiv.org/abs/2305.05661v1)|**[link](https://github.com/rkjones4/shapecoder)**|
 |**2023-05-10**|**Representation Learning for Person or Entity-centric Knowledge Graphs: An Application in Healthcare**|Christos Theodoropoulos et.al.|[2305.05640v2](http://arxiv.org/abs/2305.05640v2)|**[link](https://github.com/ibm/hspo-ontology)**|
 |**2023-05-09**|**An Exploration into the Performance of Unsupervised Cross-Task Speech Representations for "In the Wild'' Edge Applications**|Heitor Guimarães et.al.|[2305.05443v1](http://arxiv.org/abs/2305.05443v1)|null|
@@ -1701,12 +1712,13 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230511>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230512>back to top</a>)</p>
 
 ## adaptor
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-10**|**Radious: Unveiling the Enigma of Dental Radiology with BEIT Adaptor and Mask2Former in Semantic Segmentation**|Mohammad Mashayekhi et.al.|[2305.06236v1](http://arxiv.org/abs/2305.06236v1)|null|
 |**2023-05-09**|**AlignSTS: Speech-to-Singing Conversion via Cross-Modal Alignment**|Ruiqi Li et.al.|[2305.04476v2](http://arxiv.org/abs/2305.04476v2)|null|
 |**2023-04-17**|**The Standard Problem**|Enrico Coiera et.al.|[2304.09114v1](http://arxiv.org/abs/2304.09114v1)|null|
 |**2023-04-11**|**Density Map Distillation for Incremental Object Counting**|Chenshen Wu et.al.|[2304.05255v1](http://arxiv.org/abs/2304.05255v1)|null|
@@ -1746,12 +1758,14 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230511>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230512>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-10**|**Extracting Complex Named Entities in Legal Documents via Weakly Supervised Object Detection**|Hsiu-Wei Yang et.al.|[2305.05836v1](http://arxiv.org/abs/2305.05836v1)|null|
+|**2023-05-09**|**Vision-Language Models in Remote Sensing: Current Progress and Future Trends**|Congcong Wen et.al.|[2305.05726v1](http://arxiv.org/abs/2305.05726v1)|null|
 |**2023-05-09**|**Self-supervised dense representation learning for live-cell microscopy with time arrow prediction**|Benjamin Gallusser et.al.|[2305.05511v1](http://arxiv.org/abs/2305.05511v1)|**[link](https://github.com/weigertlab/tarrow)**|
 |**2023-05-09**|**Effects of Real-Life Traffic Sign Alteration on YOLOv7- an Object Recognition Model**|Farhin Farhad Riya et.al.|[2305.05499v1](http://arxiv.org/abs/2305.05499v1)|null|
 |**2023-05-09**|**High-throughput Cotton Phenotyping Big Data Pipeline Lambda Architecture Computer Vision Deep Neural Networks**|Amanda Issac et.al.|[2305.05423v1](http://arxiv.org/abs/2305.05423v1)|null|
@@ -2548,7 +2562,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230511>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230512>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
