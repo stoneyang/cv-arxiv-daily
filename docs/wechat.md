@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2023.05.15
+> Updated on 2023.05.16
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,9 @@
 
 ## pretrain
 
+- 2023-05-12, **Measuring Progress in Fine-grained Vision-and-Language Understanding**, Emanuele Bugliarello et.al., Paper: [http://arxiv.org/abs/2305.07558v1](http://arxiv.org/abs/2305.07558v1), Code: **[https://github.com/e-bug/fine-grained-evals](https://github.com/e-bug/fine-grained-evals)**
+- 2023-05-12, **Comprehensive Solution Program Centric Pretraining for Table-and-Text Hybrid Numerical Reasoning**, Qianying Liu et.al., Paper: [http://arxiv.org/abs/2305.07475v1](http://arxiv.org/abs/2305.07475v1)
+- 2023-05-12, **CLIP-Count: Towards Text-Guided Zero-Shot Object Counting**, Ruixiang Jiang et.al., Paper: [http://arxiv.org/abs/2305.07304v1](http://arxiv.org/abs/2305.07304v1), Code: **[https://github.com/songrise/clip-count](https://github.com/songrise/clip-count)**
 - 2023-05-11, **Simple Token-Level Confidence Improves Caption Correctness**, Suzanne Petryk et.al., Paper: [http://arxiv.org/abs/2305.07021v1](http://arxiv.org/abs/2305.07021v1)
 - 2023-05-11, **A General-Purpose Multilingual Document Encoder**, Onur Galoğlu et.al., Paper: [http://arxiv.org/abs/2305.07016v1](http://arxiv.org/abs/2305.07016v1), Code: **[https://github.com/ogaloglu/pre-training-multilingual-document-encoders](https://github.com/ogaloglu/pre-training-multilingual-document-encoders)**
 - 2023-05-11, **Region-Aware Pretraining for Open-Vocabulary Object Detection with Vision Transformers**, Dahun Kim et.al., Paper: [http://arxiv.org/abs/2305.07011v1](http://arxiv.org/abs/2305.07011v1)
@@ -895,10 +898,13 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20230515>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230516>back to top</a>)</p>
 
 ## downstream
 
+- 2023-05-12, **Towards Versatile and Efficient Visual Knowledge Injection into Pre-trained Language Models with Cross-Modal Adapters**, Xinyun Zhang et.al., Paper: [http://arxiv.org/abs/2305.07358v1](http://arxiv.org/abs/2305.07358v1)
+- 2023-05-12, **Multi-Relational Hyperbolic Word Embeddings from Natural Language Definitions**, Marco Valentino et.al., Paper: [http://arxiv.org/abs/2305.07303v1](http://arxiv.org/abs/2305.07303v1)
+- 2023-05-11, **Promise and Limitations of Supervised Optimal Transport-Based Graph Summarization via Information Theoretic Measures**, Sepideh Neshatfar et.al., Paper: [http://arxiv.org/abs/2305.07138v1](http://arxiv.org/abs/2305.07138v1)
 - 2023-05-11, **Bi-level Dynamic Learning for Jointly Multi-modality Image Fusion and Beyond**, Zhu Liu et.al., Paper: [http://arxiv.org/abs/2305.06720v1](http://arxiv.org/abs/2305.06720v1)
 - 2023-05-11, **Extending Audio Masked Autoencoders Toward Audio Restoration**, Zhi Zhong et.al., Paper: [http://arxiv.org/abs/2305.06701v1](http://arxiv.org/abs/2305.06701v1)
 - 2023-05-11, **InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning**, Wenliang Dai et.al., Paper: [http://arxiv.org/abs/2305.06500v1](http://arxiv.org/abs/2305.06500v1), Code: **[https://github.com/salesforce/lavis](https://github.com/salesforce/lavis)**
@@ -1717,12 +1723,12 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20230515>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230516>back to top</a>)</p>
 
 ## adaptor
 
 - 2023-05-10, **Radious: Unveiling the Enigma of Dental Radiology with BEIT Adaptor and Mask2Former in Semantic Segmentation**, Mohammad Mashayekhi et.al., Paper: [http://arxiv.org/abs/2305.06236v1](http://arxiv.org/abs/2305.06236v1)
-- 2023-05-09, **AlignSTS: Speech-to-Singing Conversion via Cross-Modal Alignment**, Ruiqi Li et.al., Paper: [http://arxiv.org/abs/2305.04476v2](http://arxiv.org/abs/2305.04476v2)
+- 2023-05-13, **AlignSTS: Speech-to-Singing Conversion via Cross-Modal Alignment**, Ruiqi Li et.al., Paper: [http://arxiv.org/abs/2305.04476v3](http://arxiv.org/abs/2305.04476v3)
 - 2023-04-17, **The Standard Problem**, Enrico Coiera et.al., Paper: [http://arxiv.org/abs/2304.09114v1](http://arxiv.org/abs/2304.09114v1)
 - 2023-04-11, **Density Map Distillation for Incremental Object Counting**, Chenshen Wu et.al., Paper: [http://arxiv.org/abs/2304.05255v1](http://arxiv.org/abs/2304.05255v1)
 - 2023-03-29, **AVFormer: Injecting Vision into Frozen Speech Models for Zero-Shot AV-ASR**, Paul Hongsuck Seo et.al., Paper: [http://arxiv.org/abs/2303.16501v1](http://arxiv.org/abs/2303.16501v1)
@@ -1761,10 +1767,16 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20230515>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230516>back to top</a>)</p>
 
 ## object detection
 
+- 2023-05-15, **RHINO: Rotated DETR with Dynamic Denoising via Hungarian Matching for Oriented Object Detection**, Hakjin Lee et.al., Paper: [http://arxiv.org/abs/2305.07598v2](http://arxiv.org/abs/2305.07598v2)
+- 2023-05-12, **Dish detection in food platters: A framework for automated diet logging and nutrition management**, Mansi Goel et.al., Paper: [http://arxiv.org/abs/2305.07552v1](http://arxiv.org/abs/2305.07552v1)
+- 2023-05-12, **WEDGE: A multi-weather autonomous driving dataset built from generative vision-language models**, Aboli Marathe et.al., Paper: [http://arxiv.org/abs/2305.07528v1](http://arxiv.org/abs/2305.07528v1), Code: **[https://github.com/Infernolia/WEDGE](https://github.com/Infernolia/WEDGE)**
+- 2023-05-15, **PillarAcc: Sparse PointPillars Accelerator for Real-Time Point Cloud 3D Object Detection on Edge Devices**, Minjae Lee et.al., Paper: [http://arxiv.org/abs/2305.07522v2](http://arxiv.org/abs/2305.07522v2)
+- 2023-05-12, **CLIP-Count: Towards Text-Guided Zero-Shot Object Counting**, Ruixiang Jiang et.al., Paper: [http://arxiv.org/abs/2305.07304v1](http://arxiv.org/abs/2305.07304v1), Code: **[https://github.com/songrise/clip-count](https://github.com/songrise/clip-count)**
+- 2023-05-12, **SSD-MonoDTR: Supervised Scale-constrained Deformable Transformer for Monocular 3D Object Detection**, Xuan He et.al., Paper: [http://arxiv.org/abs/2305.07270v1](http://arxiv.org/abs/2305.07270v1), Code: **[https://github.com/mikasa3lili/ssd-monodetr](https://github.com/mikasa3lili/ssd-monodetr)**
 - 2023-05-11, **Region-Aware Pretraining for Open-Vocabulary Object Detection with Vision Transformers**, Dahun Kim et.al., Paper: [http://arxiv.org/abs/2305.07011v1](http://arxiv.org/abs/2305.07011v1)
 - 2023-05-11, **SalienDet: A Saliency-based Feature Enhancement Algorithm for Object Detection for Autonomous Driving**, Ning Ding et.al., Paper: [http://arxiv.org/abs/2305.06940v1](http://arxiv.org/abs/2305.06940v1), Code: **[https://github.com/dingmike001/saliendet-open-detection](https://github.com/dingmike001/saliendet-open-detection)**
 - 2023-05-11, **DeepSTEP -- Deep Learning-Based Spatio-Temporal End-To-End Perception for Autonomous Vehicles**, Sebastian Huch et.al., Paper: [http://arxiv.org/abs/2305.06820v1](http://arxiv.org/abs/2305.06820v1)
@@ -2568,7 +2580,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20230515>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230516>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
