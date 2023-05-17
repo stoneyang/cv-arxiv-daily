@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2023.05.16
+> Updated on 2023.05.17
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,16 @@
 
 ## pretrain
 
+- 2023-05-15, **CLIP-VG: Self-paced Curriculum Adapting of CLIP via Exploiting Pseudo-Language Labels for Visual Grounding**, Linhui Xiao et.al., Paper: [http://arxiv.org/abs/2305.08685v1](http://arxiv.org/abs/2305.08685v1)
+- 2023-05-15, **DarkBERT: A Language Model for the Dark Side of the Internet**, Youngjin Jin et.al., Paper: [http://arxiv.org/abs/2305.08596v1](http://arxiv.org/abs/2305.08596v1)
+- 2023-05-15, **What's the Meaning of Superhuman Performance in Today's NLU?**, Simone Tedeschi et.al., Paper: [http://arxiv.org/abs/2305.08414v1](http://arxiv.org/abs/2305.08414v1)
+- 2023-05-15, **TESS: Text-to-Text Self-Conditioned Simplex Diffusion**, Rabeeh Karimi Mahabadi et.al., Paper: [http://arxiv.org/abs/2305.08379v1](http://arxiv.org/abs/2305.08379v1)
+- 2023-05-15, **"Nothing Abnormal": Disambiguating Medical Reports via Contrastive Knowledge Infusion**, Zexue He et.al., Paper: [http://arxiv.org/abs/2305.08300v1](http://arxiv.org/abs/2305.08300v1)
+- 2023-05-15, **From Pretraining Data to Language Models to Downstream Tasks: Tracking the Trails of Political Biases Leading to Unfair NLP Models**, Shangbin Feng et.al., Paper: [http://arxiv.org/abs/2305.08283v1](http://arxiv.org/abs/2305.08283v1)
+- 2023-05-14, **FactKB: Generalizable Factuality Evaluation using Language Models Enhanced with Factual Knowledge**, Shangbin Feng et.al., Paper: [http://arxiv.org/abs/2305.08281v1](http://arxiv.org/abs/2305.08281v1)
+- 2023-05-14, **MatSci-NLP: Evaluating Scientific Language Models on Materials Science Language Tasks Using Text-to-Schema Modeling**, Yu Song et.al., Paper: [http://arxiv.org/abs/2305.08264v1](http://arxiv.org/abs/2305.08264v1), Code: **[https://github.com/banglab-udem-mila/nlp4matsci-acl23](https://github.com/banglab-udem-mila/nlp4matsci-acl23)**
+- 2023-05-14, **Evaluating the roughness of structure-property relationships using pretrained molecular representations**, David E. Graff et.al., Paper: [http://arxiv.org/abs/2305.08238v1](http://arxiv.org/abs/2305.08238v1)
+- 2023-05-14, **DeepFilterNet: Perceptually Motivated Real-Time Speech Enhancement**, Hendrik Schröter et.al., Paper: [http://arxiv.org/abs/2305.08227v1](http://arxiv.org/abs/2305.08227v1)
 - 2023-05-12, **Measuring Progress in Fine-grained Vision-and-Language Understanding**, Emanuele Bugliarello et.al., Paper: [http://arxiv.org/abs/2305.07558v1](http://arxiv.org/abs/2305.07558v1), Code: **[https://github.com/e-bug/fine-grained-evals](https://github.com/e-bug/fine-grained-evals)**
 - 2023-05-12, **Comprehensive Solution Program Centric Pretraining for Table-and-Text Hybrid Numerical Reasoning**, Qianying Liu et.al., Paper: [http://arxiv.org/abs/2305.07475v1](http://arxiv.org/abs/2305.07475v1)
 - 2023-05-12, **CLIP-Count: Towards Text-Guided Zero-Shot Object Counting**, Ruixiang Jiang et.al., Paper: [http://arxiv.org/abs/2305.07304v1](http://arxiv.org/abs/2305.07304v1), Code: **[https://github.com/songrise/clip-count](https://github.com/songrise/clip-count)**
@@ -898,10 +908,20 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20230516>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230517>back to top</a>)</p>
 
 ## downstream
 
+- 2023-05-15, **Exploring In-Context Learning Capabilities of Foundation Models for Generating Knowledge Graphs from Text**, Hanieh Khorashadizadeh et.al., Paper: [http://arxiv.org/abs/2305.08804v1](http://arxiv.org/abs/2305.08804v1)
+- 2023-05-15, **Enhancing Performance of Vision Transformers on Small Datasets through Local Inductive Bias Incorporation**, Ibrahim Batuhan Akkaya et.al., Paper: [http://arxiv.org/abs/2305.08551v1](http://arxiv.org/abs/2305.08551v1)
+- 2023-05-15, **PLIP: Language-Image Pre-training for Person Representation Learning**, Jialong Zuo et.al., Paper: [http://arxiv.org/abs/2305.08386v1](http://arxiv.org/abs/2305.08386v1), Code: **[https://github.com/zplusdragon/plip](https://github.com/zplusdragon/plip)**
+- 2023-05-15, **Mode Approximation Makes Good Vision-Language Prompts**, Haixin Wang et.al., Paper: [http://arxiv.org/abs/2305.08381v1](http://arxiv.org/abs/2305.08381v1), Code: **[https://github.com/willdreamer/aurora](https://github.com/willdreamer/aurora)**
+- 2023-05-15, **Parameter-Efficient Fine-Tuning with Layer Pruning on Medical Report Summarization and Medical Dialogue Generation**, Yunqi Zhu et.al., Paper: [http://arxiv.org/abs/2305.08285v1](http://arxiv.org/abs/2305.08285v1), Code: **[https://github.com/zhuyunqi96/LoraLPrun](https://github.com/zhuyunqi96/LoraLPrun)**
+- 2023-05-15, **From Pretraining Data to Language Models to Downstream Tasks: Tracking the Trails of Political Biases Leading to Unfair NLP Models**, Shangbin Feng et.al., Paper: [http://arxiv.org/abs/2305.08283v1](http://arxiv.org/abs/2305.08283v1)
+- 2023-05-14, **Decoupled Graph Neural Networks for Large Dynamic Graphs**, Yanping Zheng et.al., Paper: [http://arxiv.org/abs/2305.08273v1](http://arxiv.org/abs/2305.08273v1)
+- 2023-05-14, **Parameter-Efficient Fine-Tuning for Medical Image Analysis: The Missed Opportunity**, Raman Dutt et.al., Paper: [http://arxiv.org/abs/2305.08252v1](http://arxiv.org/abs/2305.08252v1)
+- 2023-05-14, **A Comprehensive Survey on Segment Anything Model for Vision and Beyond**, Chunhui Zhang et.al., Paper: [http://arxiv.org/abs/2305.08196v1](http://arxiv.org/abs/2305.08196v1), Code: **[https://github.com/liliu-avril/Awesome-Segment-Anything](https://github.com/liliu-avril/Awesome-Segment-Anything)**
+- 2023-05-14, **An Optimal and Scalable Matrix Mechanism for Noisy Marginals under Convex Loss Functions**, Yingtai Xiao et.al., Paper: [http://arxiv.org/abs/2305.08175v1](http://arxiv.org/abs/2305.08175v1)
 - 2023-05-12, **Towards Versatile and Efficient Visual Knowledge Injection into Pre-trained Language Models with Cross-Modal Adapters**, Xinyun Zhang et.al., Paper: [http://arxiv.org/abs/2305.07358v1](http://arxiv.org/abs/2305.07358v1)
 - 2023-05-12, **Multi-Relational Hyperbolic Word Embeddings from Natural Language Definitions**, Marco Valentino et.al., Paper: [http://arxiv.org/abs/2305.07303v1](http://arxiv.org/abs/2305.07303v1)
 - 2023-05-11, **Promise and Limitations of Supervised Optimal Transport-Based Graph Summarization via Information Theoretic Measures**, Sepideh Neshatfar et.al., Paper: [http://arxiv.org/abs/2305.07138v1](http://arxiv.org/abs/2305.07138v1)
@@ -1723,7 +1743,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20230516>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230517>back to top</a>)</p>
 
 ## adaptor
 
@@ -1767,10 +1787,20 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20230516>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230517>back to top</a>)</p>
 
 ## object detection
 
+- 2023-05-15, **GeoMAE: Masked Geometric Target Prediction for Self-supervised Point Cloud Pre-Training**, Xiaoyu Tian et.al., Paper: [http://arxiv.org/abs/2305.08808v1](http://arxiv.org/abs/2305.08808v1)
+- 2023-05-15, **Bridging the Domain Gap: Self-Supervised 3D Scene Understanding with Foundation Models**, Zhimin Chen et.al., Paper: [http://arxiv.org/abs/2305.08776v1](http://arxiv.org/abs/2305.08776v1)
+- 2023-05-15, **aUToLights: A Robust Multi-Camera Traffic Light Detection and Tracking System**, Sean Wu et.al., Paper: [http://arxiv.org/abs/2305.08673v1](http://arxiv.org/abs/2305.08673v1)
+- 2023-05-15, **GeNAS: Neural Architecture Search with Better Generalization**, Joonhyun Jeong et.al., Paper: [http://arxiv.org/abs/2305.08611v1](http://arxiv.org/abs/2305.08611v1)
+- 2023-05-15, **Enhancing Performance of Vision Transformers on Small Datasets through Local Inductive Bias Incorporation**, Ibrahim Batuhan Akkaya et.al., Paper: [http://arxiv.org/abs/2305.08551v1](http://arxiv.org/abs/2305.08551v1)
+- 2023-05-15, **Not All Pixels Are Equal: Learning Pixel Hardness for Semantic Segmentation**, Xin Xiao et.al., Paper: [http://arxiv.org/abs/2305.08462v1](http://arxiv.org/abs/2305.08462v1), Code: **[https://github.com/menoly-xin/hardness-level-learning](https://github.com/menoly-xin/hardness-level-learning)**
+- 2023-05-14, **Combining geolocation and height estimation of objects from street level imagery**, Matej Ulicny et.al., Paper: [http://arxiv.org/abs/2305.08232v1](http://arxiv.org/abs/2305.08232v1)
+- 2023-05-14, **Instance-Aware Repeat Factor Sampling for Long-Tailed Object Detection**, Burhaneddin Yaman et.al., Paper: [http://arxiv.org/abs/2305.08069v1](http://arxiv.org/abs/2305.08069v1)
+- 2023-05-14, **SCRNet: a Retinex Structure-based Low-light Enhancement Model Guided by Spatial Consistency**, Miao Zhang et.al., Paper: [http://arxiv.org/abs/2305.08053v1](http://arxiv.org/abs/2305.08053v1)
+- 2023-05-12, **ROI-based Deep Image Compression with Swin Transformers**, Binglin Li et.al., Paper: [http://arxiv.org/abs/2305.07783v1](http://arxiv.org/abs/2305.07783v1)
 - 2023-05-15, **RHINO: Rotated DETR with Dynamic Denoising via Hungarian Matching for Oriented Object Detection**, Hakjin Lee et.al., Paper: [http://arxiv.org/abs/2305.07598v2](http://arxiv.org/abs/2305.07598v2)
 - 2023-05-12, **Dish detection in food platters: A framework for automated diet logging and nutrition management**, Mansi Goel et.al., Paper: [http://arxiv.org/abs/2305.07552v1](http://arxiv.org/abs/2305.07552v1)
 - 2023-05-12, **WEDGE: A multi-weather autonomous driving dataset built from generative vision-language models**, Aboli Marathe et.al., Paper: [http://arxiv.org/abs/2305.07528v1](http://arxiv.org/abs/2305.07528v1), Code: **[https://github.com/Infernolia/WEDGE](https://github.com/Infernolia/WEDGE)**
@@ -2580,7 +2610,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20230516>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230517>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
