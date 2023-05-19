@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.18
+## Updated on 2023.05.19
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-17**|**DoReMi: Optimizing Data Mixtures Speeds Up Language Model Pretraining**|Sang Michael Xie et.al.|[2305.10429v1](http://arxiv.org/abs/2305.10429v1)|null|
+|**2023-05-17**|**What You See is What You Read? Improving Text-Image Alignment Evaluation**|Michal Yarom et.al.|[2305.10400v1](http://arxiv.org/abs/2305.10400v1)|**[link](https://github.com/yonatanbitton/wysiwyr)**|
+|**2023-05-17**|**OpenSLU: A Unified, Modularized, and Extensible Toolkit for Spoken Language Understanding**|Libo Qin et.al.|[2305.10231v1](http://arxiv.org/abs/2305.10231v1)|**[link](https://github.com/lightchen233/openslu)**|
+|**2023-05-17**|**Stop Uploading Test Data in Plain Text: Practical Strategies for Mitigating Data Contamination by Evaluation Benchmarks**|Alon Jacovi et.al.|[2305.10160v1](http://arxiv.org/abs/2305.10160v1)|null|
+|**2023-05-17**|**Selective Amnesia: A Continual Learning Approach to Forgetting in Deep Generative Models**|Alvin Heng et.al.|[2305.10120v1](http://arxiv.org/abs/2305.10120v1)|null|
+|**2023-05-17**|**CWD30: A Comprehensive and Holistic Dataset for Crop Weed Recognition in Precision Agriculture**|Talha Ilyas et.al.|[2305.10084v1](http://arxiv.org/abs/2305.10084v1)|null|
+|**2023-05-17**|**Dynamic Structural Brain Network Construction by Hierarchical Prototype Embedding GCN using T1-MRI**|Yilin Leng et.al.|[2305.10077v1](http://arxiv.org/abs/2305.10077v1)|null|
+|**2023-05-17**|**Equivariant Few-Shot Learning from Pretrained Models**|Sourya Basu et.al.|[2305.09900v1](http://arxiv.org/abs/2305.09900v1)|null|
 |**2023-05-16**|**The Interpreter Understands Your Meaning: End-to-end Spoken Language Understanding Aided by Speech Translation**|Mutian He et.al.|[2305.09652v1](http://arxiv.org/abs/2305.09652v1)|null|
 |**2023-05-16**|**Concurrent Misclassification and Out-of-Distribution Detection for Semantic Segmentation via Energy-Based Normalizing Flow**|Denis Gudovskiy et.al.|[2305.09610v1](http://arxiv.org/abs/2305.09610v1)|**[link](https://github.com/gudovskiy/flowenedet)**|
 |**2023-05-16**|**An Empirical Study on Google Research Football Multi-agent Scenarios**|Yan Song et.al.|[2305.09458v1](http://arxiv.org/abs/2305.09458v1)|**[link](https://github.com/shanghai-digital-brain-laboratory/db-football)**|
@@ -916,12 +924,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230518>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230519>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-17**|**DoReMi: Optimizing Data Mixtures Speeds Up Language Model Pretraining**|Sang Michael Xie et.al.|[2305.10429v1](http://arxiv.org/abs/2305.10429v1)|null|
+|**2023-05-17**|**PaLM 2 Technical Report**|Rohan Anil et.al.|[2305.10403v1](http://arxiv.org/abs/2305.10403v1)|null|
+|**2023-05-17**|**G-Adapter: Towards Structure-Aware Parameter-Efficient Transfer Learning for Graph Transformer Networks**|Anchun Gui et.al.|[2305.10329v1](http://arxiv.org/abs/2305.10329v1)|null|
+|**2023-05-17**|**Sharpness & Shift-Aware Self-Supervised Learning**|Ngoc N. Tran et.al.|[2305.10252v1](http://arxiv.org/abs/2305.10252v1)|null|
+|**2023-05-17**|**Shielded Representations: Protecting Sensitive Attributes Through Iterative Gradient-Based Projection**|Shadi Iskander et.al.|[2305.10204v1](http://arxiv.org/abs/2305.10204v1)|**[link](https://github.com/technion-cs-nlp/igbp_nonlinear-removal)**|
+|**2023-05-17**|**CWD30: A Comprehensive and Holistic Dataset for Crop Weed Recognition in Precision Agriculture**|Talha Ilyas et.al.|[2305.10084v1](http://arxiv.org/abs/2305.10084v1)|null|
+|**2023-05-17**|**DinoSR: Self-Distillation and Online Clustering for Self-supervised Speech Representation Learning**|Alexander H. Liu et.al.|[2305.10005v1](http://arxiv.org/abs/2305.10005v1)|null|
+|**2023-05-18**|**OSDP: Optimal Sharded Data Parallel for Distributed Deep Learning**|Youhe Jiang et.al.|[2305.09940v2](http://arxiv.org/abs/2305.09940v2)|null|
+|**2023-05-17**|**Equivariant Few-Shot Learning from Pretrained Models**|Sourya Basu et.al.|[2305.09900v1](http://arxiv.org/abs/2305.09900v1)|null|
+|**2023-05-16**|**Sasha: creative goal-oriented reasoning in smart homes with large language models**|Evan King et.al.|[2305.09802v1](http://arxiv.org/abs/2305.09802v1)|null|
 |**2023-05-16**|**Prompt-Tuning Decision Transformer with Preference Ranking**|Shengchao Hu et.al.|[2305.09648v1](http://arxiv.org/abs/2305.09648v1)|null|
 |**2023-05-16**|**UOR: Universal Backdoor Attacks on Pre-trained Language Models**|Wei Du et.al.|[2305.09574v1](http://arxiv.org/abs/2305.09574v1)|null|
 |**2023-05-16**|**Toward Falsifying Causal Graphs Using a Permutation-Based Test**|Elias Eulig et.al.|[2305.09565v1](http://arxiv.org/abs/2305.09565v1)|null|
@@ -1763,7 +1781,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230518>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230519>back to top</a>)</p>
 
 ## adaptor
 
@@ -1809,12 +1827,19 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230518>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230519>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-17**|**ZeroFlow: Fast Zero Label Scene Flow via Distillation**|Kyle Vedder et.al.|[2305.10424v1](http://arxiv.org/abs/2305.10424v1)|null|
+|**2023-05-17**|**Boosting Local Spectro-Temporal Features for Speech Analysis**|Michael Guerzhoy et.al.|[2305.10270v1](http://arxiv.org/abs/2305.10270v1)|null|
+|**2023-05-17**|**Rethinking Boundary Discontinuity Problem for Oriented Object Detection**|Hang Xu et.al.|[2305.10061v1](http://arxiv.org/abs/2305.10061v1)|null|
+|**2023-05-17**|**An Interactively Reinforced Paradigm for Joint Infrared-Visible Image Fusion and Saliency Object Detection**|Di Wang et.al.|[2305.09999v1](http://arxiv.org/abs/2305.09999v1)|**[link](https://github.com/wdhudiekou/irfs)**|
+|**2023-05-17**|**Real-Time Flying Object Detection with YOLOv8**|Dillon Reis et.al.|[2305.09972v1](http://arxiv.org/abs/2305.09972v1)|null|
+|**2023-05-16**|**Semi-Supervised Object Detection for Sorghum Panicles in UAV Imagery**|Enyu Cai et.al.|[2305.09810v1](http://arxiv.org/abs/2305.09810v1)|null|
+|**2023-05-16**|**Mobile User Interface Element Detection Via Adaptively Prompt Tuning**|Zhangxuan Gu et.al.|[2305.09699v1](http://arxiv.org/abs/2305.09699v1)|**[link](https://github.com/antmachineintelligence/mui-zh)**|
 |**2023-05-16**|**A Novel Strategy for Improving Robustness in Computer Vision Manufacturing Defect Detection**|Ahmad Mohamad Mezher et.al.|[2305.09407v1](http://arxiv.org/abs/2305.09407v1)|null|
 |**2023-05-16**|**Improved Type III solar radio burst detection using congruent deep learning models**|Jeremiah Scully et.al.|[2305.09327v1](http://arxiv.org/abs/2305.09327v1)|null|
 |**2023-05-16**|**Out-of-Distribution Detection for Adaptive Computer Vision**|Simon Kristoffersson Lind et.al.|[2305.09293v1](http://arxiv.org/abs/2305.09293v1)|null|
@@ -2637,7 +2662,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230518>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230519>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
