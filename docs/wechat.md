@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2023.05.19
+> Updated on 2023.05.20
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,16 @@
 
 ## pretrain
 
+- 2023-05-18, **ONE-PEACE: Exploring One General Representation Model Toward Unlimited Modalities**, Peng Wang et.al., Paper: [http://arxiv.org/abs/2305.11172v1](http://arxiv.org/abs/2305.11172v1), Code: **[https://github.com/OFA-Sys/ONE-PEACE](https://github.com/OFA-Sys/ONE-PEACE)**
+- 2023-05-18, **Exploring the Carbon Footprint of Hugging Face's ML Models: A Repository Mining Study**, Joel Castaño et.al., Paper: [http://arxiv.org/abs/2305.11164v1](http://arxiv.org/abs/2305.11164v1)
+- 2023-05-18, **UniControl: A Unified Diffusion Model for Controllable Visual Generation In the Wild**, Can Qin et.al., Paper: [http://arxiv.org/abs/2305.11147v1](http://arxiv.org/abs/2305.11147v1)
+- 2023-05-18, **mLongT5: A Multilingual and Efficient Text-To-Text Transformer for Longer Sequences**, David Uthus et.al., Paper: [http://arxiv.org/abs/2305.11129v1](http://arxiv.org/abs/2305.11129v1)
+- 2023-05-18, **Generalized Planning in PDDL Domains with Pretrained Large Language Models**, Tom Silver et.al., Paper: [http://arxiv.org/abs/2305.11014v1](http://arxiv.org/abs/2305.11014v1), Code: **[https://github.com/tomsilver/llm-genplan](https://github.com/tomsilver/llm-genplan)**
+- 2023-05-18, **The Web Can Be Your Oyster for Improving Large Language Models**, Junyi Li et.al., Paper: [http://arxiv.org/abs/2305.10998v1](http://arxiv.org/abs/2305.10998v1)
+- 2023-05-18, **How does the task complexity of masked pretraining objectives affect downstream performance?**, Atsuki Yamaguchi et.al., Paper: [http://arxiv.org/abs/2305.10992v1](http://arxiv.org/abs/2305.10992v1), Code: **[https://github.com/hitachi-nlp/mlm-probe-acl2023](https://github.com/hitachi-nlp/mlm-probe-acl2023)**
+- 2023-05-18, **FLIGHT Mode On: A Feather-Light Network for Low-Light Image Enhancement**, Mustafa Ozcan et.al., Paper: [http://arxiv.org/abs/2305.10889v1](http://arxiv.org/abs/2305.10889v1)
+- 2023-05-18, **VideoFactory: Swap Attention in Spatiotemporal Diffusions for Text-to-Video Generation**, Wenjing Wang et.al., Paper: [http://arxiv.org/abs/2305.10874v1](http://arxiv.org/abs/2305.10874v1)
+- 2023-05-18, **Semantically Aligned Task Decomposition in Multi-Agent Reinforcement Learning**, Wenhao Li et.al., Paper: [http://arxiv.org/abs/2305.10865v1](http://arxiv.org/abs/2305.10865v1)
 - 2023-05-17, **DoReMi: Optimizing Data Mixtures Speeds Up Language Model Pretraining**, Sang Michael Xie et.al., Paper: [http://arxiv.org/abs/2305.10429v1](http://arxiv.org/abs/2305.10429v1)
 - 2023-05-17, **What You See is What You Read? Improving Text-Image Alignment Evaluation**, Michal Yarom et.al., Paper: [http://arxiv.org/abs/2305.10400v1](http://arxiv.org/abs/2305.10400v1), Code: **[https://github.com/yonatanbitton/wysiwyr](https://github.com/yonatanbitton/wysiwyr)**
 - 2023-05-17, **OpenSLU: A Unified, Modularized, and Extensible Toolkit for Spoken Language Understanding**, Libo Qin et.al., Paper: [http://arxiv.org/abs/2305.10231v1](http://arxiv.org/abs/2305.10231v1), Code: **[https://github.com/lightchen233/openslu](https://github.com/lightchen233/openslu)**
@@ -922,10 +932,20 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20230519>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230520>back to top</a>)</p>
 
 ## downstream
 
+- 2023-05-18, **Universal Domain Adaptation from Foundation Models**, Bin Deng et.al., Paper: [http://arxiv.org/abs/2305.11092v1](http://arxiv.org/abs/2305.11092v1)
+- 2023-05-18, **How does the task complexity of masked pretraining objectives affect downstream performance?**, Atsuki Yamaguchi et.al., Paper: [http://arxiv.org/abs/2305.10992v1](http://arxiv.org/abs/2305.10992v1), Code: **[https://github.com/hitachi-nlp/mlm-probe-acl2023](https://github.com/hitachi-nlp/mlm-probe-acl2023)**
+- 2023-05-18, **Causal Document-Grounded Dialogue Pre-training**, Yingxiu Zhao et.al., Paper: [http://arxiv.org/abs/2305.10927v1](http://arxiv.org/abs/2305.10927v1)
+- 2023-05-18, **HMSN: Hyperbolic Self-Supervised Learning by Clustering with Ideal Prototypes**, Aiden Durrant et.al., Paper: [http://arxiv.org/abs/2305.10926v1](http://arxiv.org/abs/2305.10926v1)
+- 2023-05-18, **Free Lunch for Privacy Preserving Distributed Graph Learning**, Nimesh Agrawal et.al., Paper: [http://arxiv.org/abs/2305.10869v1](http://arxiv.org/abs/2305.10869v1)
+- 2023-05-18, **Democratized Diffusion Language Model**, Nikita Balagansky et.al., Paper: [http://arxiv.org/abs/2305.10818v1](http://arxiv.org/abs/2305.10818v1)
+- 2023-05-18, **Vision-Language Pre-training with Object Contrastive Learning for 3D Scene Understanding**, Taolin Zhang et.al., Paper: [http://arxiv.org/abs/2305.10714v1](http://arxiv.org/abs/2305.10714v1)
+- 2023-05-18, **Paxion: Patching Action Knowledge in Video-Language Foundation Models**, Zhenhailong Wang et.al., Paper: [http://arxiv.org/abs/2305.10683v1](http://arxiv.org/abs/2305.10683v1), Code: **[https://github.com/mikewangwzhl/paxion](https://github.com/mikewangwzhl/paxion)**
+- 2023-05-18, **Accurate and Reliable Confidence Estimation Based on Non-Autoregressive End-to-End Speech Recognition System**, Xian Shi et.al., Paper: [http://arxiv.org/abs/2305.10680v1](http://arxiv.org/abs/2305.10680v1)
+- 2023-05-18, **Learning Differentially Private Probabilistic Models for Privacy-Preserving Image Generation**, Bochao Liu et.al., Paper: [http://arxiv.org/abs/2305.10662v1](http://arxiv.org/abs/2305.10662v1)
 - 2023-05-17, **DoReMi: Optimizing Data Mixtures Speeds Up Language Model Pretraining**, Sang Michael Xie et.al., Paper: [http://arxiv.org/abs/2305.10429v1](http://arxiv.org/abs/2305.10429v1)
 - 2023-05-17, **PaLM 2 Technical Report**, Rohan Anil et.al., Paper: [http://arxiv.org/abs/2305.10403v1](http://arxiv.org/abs/2305.10403v1)
 - 2023-05-17, **G-Adapter: Towards Structure-Aware Parameter-Efficient Transfer Learning for Graph Transformer Networks**, Anchun Gui et.al., Paper: [http://arxiv.org/abs/2305.10329v1](http://arxiv.org/abs/2305.10329v1)
@@ -1777,7 +1797,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20230519>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230520>back to top</a>)</p>
 
 ## adaptor
 
@@ -1821,10 +1841,16 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20230519>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230520>back to top</a>)</p>
 
 ## object detection
 
+- 2023-05-18, **Going Denser with Open-Vocabulary Part Segmentation**, Peize Sun et.al., Paper: [http://arxiv.org/abs/2305.11173v1](http://arxiv.org/abs/2305.11173v1), Code: **[https://github.com/facebookresearch/vlpart](https://github.com/facebookresearch/vlpart)**
+- 2023-05-18, **MonoTDP: Twin Depth Perception for Monocular 3D Object Detection in Adverse Scenes**, Xingyuan Li et.al., Paper: [http://arxiv.org/abs/2305.10974v1](http://arxiv.org/abs/2305.10974v1)
+- 2023-05-18, **Selecting Learnable Training Samples is All DETRs Need in Crowded Pedestrian Detection**, Feng Gao et.al., Paper: [http://arxiv.org/abs/2305.10801v1](http://arxiv.org/abs/2305.10801v1)
+- 2023-05-18, **Adversarial Amendment is the Only Force Capable of Transforming an Enemy into a Friend**, Chong Yu et.al., Paper: [http://arxiv.org/abs/2305.10766v1](http://arxiv.org/abs/2305.10766v1)
+- 2023-05-18, **STREAMLINE: Streaming Active Learning for Realistic Multi-Distributional Settings**, Nathan Beck et.al., Paper: [http://arxiv.org/abs/2305.10643v1](http://arxiv.org/abs/2305.10643v1), Code: **[https://github.com/nab170130/new_streamline](https://github.com/nab170130/new_streamline)**
+- 2023-05-18, **Evaluation Metrics for CNNs Compression**, Abanoub Ghobrial et.al., Paper: [http://arxiv.org/abs/2305.10616v1](http://arxiv.org/abs/2305.10616v1)
 - 2023-05-17, **ZeroFlow: Fast Zero Label Scene Flow via Distillation**, Kyle Vedder et.al., Paper: [http://arxiv.org/abs/2305.10424v1](http://arxiv.org/abs/2305.10424v1)
 - 2023-05-17, **Boosting Local Spectro-Temporal Features for Speech Analysis**, Michael Guerzhoy et.al., Paper: [http://arxiv.org/abs/2305.10270v1](http://arxiv.org/abs/2305.10270v1)
 - 2023-05-17, **Rethinking Boundary Discontinuity Problem for Oriented Object Detection**, Hang Xu et.al., Paper: [http://arxiv.org/abs/2305.10061v1](http://arxiv.org/abs/2305.10061v1)
@@ -2654,7 +2680,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20230519>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230520>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
