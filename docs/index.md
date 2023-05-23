@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.22
+## Updated on 2023.05.23
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-19**|**Neural Foundations of Mental Simulation: Future Prediction of Latent Representations on Dynamic Scenes**|Aran Nayebi et.al.|[2305.11772v1](http://arxiv.org/abs/2305.11772v1)|null|
+|**2023-05-19**|**Language-Universal Phonetic Representation in Multilingual Speech Pretraining for Low-Resource Speech Recognition**|Siyuan Feng et.al.|[2305.11569v1](http://arxiv.org/abs/2305.11569v1)|null|
+|**2023-05-19**|**JOINEDTrans: Prior Guided Multi-task Transformer for Joint Optic Disc/Cup Segmentation and Fovea Detection**|Huaqing He et.al.|[2305.11504v1](http://arxiv.org/abs/2305.11504v1)|null|
+|**2023-05-19**|**TreePrompt: Learning to Compose Tree Prompts for Explainable Visual Grounding**|Chenchi Zhang et.al.|[2305.11497v1](http://arxiv.org/abs/2305.11497v1)|null|
+|**2023-05-19**|**ReDirTrans: Latent-to-Latent Translation for Gaze and Head Redirection**|Shiwei Jin et.al.|[2305.11452v1](http://arxiv.org/abs/2305.11452v1)|null|
+|**2023-05-18**|**CHBias: Bias Evaluation and Mitigation of Chinese Conversational Language Models**|Jiaxu Zhao et.al.|[2305.11262v1](http://arxiv.org/abs/2305.11262v1)|null|
+|**2023-05-18**|**Comparing Biases and the Impact of Multilingual Training across Multiple Languages**|Sharon Levy et.al.|[2305.11242v1](http://arxiv.org/abs/2305.11242v1)|null|
+|**2023-05-18**|**LIMA: Less Is More for Alignment**|Chunting Zhou et.al.|[2305.11206v1](http://arxiv.org/abs/2305.11206v1)|null|
 |**2023-05-18**|**ONE-PEACE: Exploring One General Representation Model Toward Unlimited Modalities**|Peng Wang et.al.|[2305.11172v1](http://arxiv.org/abs/2305.11172v1)|**[link](https://github.com/OFA-Sys/ONE-PEACE)**|
 |**2023-05-18**|**Exploring the Carbon Footprint of Hugging Face's ML Models: A Repository Mining Study**|Joel Castaño et.al.|[2305.11164v1](http://arxiv.org/abs/2305.11164v1)|null|
 |**2023-05-18**|**UniControl: A Unified Diffusion Model for Controllable Visual Generation In the Wild**|Can Qin et.al.|[2305.11147v1](http://arxiv.org/abs/2305.11147v1)|null|
@@ -938,12 +946,18 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230522>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230523>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-19**|**Pengi: An Audio Language Model for Audio Tasks**|Soham Deshmukh et.al.|[2305.11834v1](http://arxiv.org/abs/2305.11834v1)|null|
+|**2023-05-19**|**Enhancing Vision-Language Pre-Training with Jointly Learned Questioner and Dense Captioner**|Zikang Liu et.al.|[2305.11769v1](http://arxiv.org/abs/2305.11769v1)|null|
+|**2023-05-19**|**TreePrompt: Learning to Compose Tree Prompts for Explainable Visual Grounding**|Chenchi Zhang et.al.|[2305.11497v1](http://arxiv.org/abs/2305.11497v1)|null|
+|**2023-05-19**|**PointGPT: Auto-regressively Generative Pre-training from Point Clouds**|Guangyan Chen et.al.|[2305.11487v1](http://arxiv.org/abs/2305.11487v1)|null|
+|**2023-05-19**|**Analyzing and Reducing the Performance Gap in Cross-Lingual Transfer with Fine-tuning Slow and Fast**|Yiduo Guo et.al.|[2305.11449v1](http://arxiv.org/abs/2305.11449v1)|null|
+|**2023-05-19**|**Federated Foundation Models: Privacy-Preserving and Collaborative Learning for Large Models**|Sixing Yu et.al.|[2305.11414v1](http://arxiv.org/abs/2305.11414v1)|null|
 |**2023-05-18**|**Universal Domain Adaptation from Foundation Models**|Bin Deng et.al.|[2305.11092v1](http://arxiv.org/abs/2305.11092v1)|**[link](https://github.com/szubing/uniood)**|
 |**2023-05-18**|**How does the task complexity of masked pretraining objectives affect downstream performance?**|Atsuki Yamaguchi et.al.|[2305.10992v1](http://arxiv.org/abs/2305.10992v1)|**[link](https://github.com/hitachi-nlp/mlm-probe-acl2023)**|
 |**2023-05-19**|**Causal Document-Grounded Dialogue Pre-training**|Yingxiu Zhao et.al.|[2305.10927v2](http://arxiv.org/abs/2305.10927v2)|null|
@@ -1805,7 +1819,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230522>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230523>back to top</a>)</p>
 
 ## adaptor
 
@@ -1851,12 +1865,17 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230522>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230523>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-19**|**ViDaS Video Depth-aware Saliency Network**|Ioanna Diamanti et.al.|[2305.11729v1](http://arxiv.org/abs/2305.11729v1)|null|
+|**2023-05-19**|**Surgical-VQLA: Transformer with Gated Vision-Language Embedding for Visual Question Localized-Answering in Robotic Surgery**|Long Bai et.al.|[2305.11692v1](http://arxiv.org/abs/2305.11692v1)|**[link](https://github.com/longbai1006/surgical-vqla)**|
+|**2023-05-19**|**Tune-Mode ConvBN Blocks For Efficient Transfer Learning**|Kaichao You et.al.|[2305.11624v1](http://arxiv.org/abs/2305.11624v1)|null|
+|**2023-05-19**|**When SAM Meets Shadow Detection**|Leiping Jie et.al.|[2305.11513v1](http://arxiv.org/abs/2305.11513v1)|null|
+|**2023-05-19**|**RGB-D And Thermal Sensor Fusion: A Systematic Literature Review**|Martin Brenner et.al.|[2305.11427v1](http://arxiv.org/abs/2305.11427v1)|null|
 |**2023-05-18**|**Going Denser with Open-Vocabulary Part Segmentation**|Peize Sun et.al.|[2305.11173v1](http://arxiv.org/abs/2305.11173v1)|**[link](https://github.com/facebookresearch/vlpart)**|
 |**2023-05-18**|**MonoTDP: Twin Depth Perception for Monocular 3D Object Detection in Adverse Scenes**|Xingyuan Li et.al.|[2305.10974v1](http://arxiv.org/abs/2305.10974v1)|null|
 |**2023-05-18**|**Selecting Learnable Training Samples is All DETRs Need in Crowded Pedestrian Detection**|Feng Gao et.al.|[2305.10801v1](http://arxiv.org/abs/2305.10801v1)|null|
@@ -2692,7 +2711,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230522>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230523>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
