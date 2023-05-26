@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.25
+## Updated on 2023.05.26
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-24**|**What can generic neural networks learn from a child's visual experience?**|A. Emin Orhan et.al.|[2305.15372v1](http://arxiv.org/abs/2305.15372v1)|null|
+|**2023-05-24**|**Solving Diffusion ODEs with Optimal Boundary Conditions for Better Image Super-Resolution**|Yiyang Ma et.al.|[2305.15357v1](http://arxiv.org/abs/2305.15357v1)|null|
+|**2023-05-24**|**Visual Programming for Text-to-Image Generation and Evaluation**|Jaemin Cho et.al.|[2305.15328v1](http://arxiv.org/abs/2305.15328v1)|null|
+|**2023-05-24**|**Self-Evolution Learning for Discriminative Language Model Pretraining**|Qihuang Zhong et.al.|[2305.15275v1](http://arxiv.org/abs/2305.15275v1)|null|
+|**2023-05-24**|**Revisiting Token Dropping Strategy in Efficient BERT Pretraining**|Qihuang Zhong et.al.|[2305.15273v1](http://arxiv.org/abs/2305.15273v1)|null|
+|**2023-05-24**|**ViTMatte: Boosting Image Matting with Pretrained Plain Vision Transformers**|Jingfeng Yao et.al.|[2305.15272v1](http://arxiv.org/abs/2305.15272v1)|**[link](https://github.com/hustvl/ViTMatte)**|
+|**2023-05-24**|**Rethinking the Evaluation Protocol of Domain Generalization**|Han Yu et.al.|[2305.15253v1](http://arxiv.org/abs/2305.15253v1)|null|
+|**2023-05-24**|**L-CAD: Language-based Colorization with Any-level Descriptions**|Zheng Chang et.al.|[2305.15217v1](http://arxiv.org/abs/2305.15217v1)|null|
+|**2023-05-24**|**Fourier Transformer: Fast Long Range Modeling by Removing Sequence Redundancy with FFT Operator**|Ziwei He et.al.|[2305.15099v1](http://arxiv.org/abs/2305.15099v1)|null|
+|**2023-05-24**|**Dynamic Masking Rate Schedules for MLM Pretraining**|Zachary Ankner et.al.|[2305.15096v1](http://arxiv.org/abs/2305.15096v1)|null|
 |**2023-05-23**|**Video Prediction Models as Rewards for Reinforcement Learning**|Alejandro Escontrela et.al.|[2305.14343v1](http://arxiv.org/abs/2305.14343v1)|null|
 |**2023-05-23**|**ConGraT: Self-Supervised Contrastive Pretraining for Joint Graph and Text Embeddings**|William Brannon et.al.|[2305.14321v1](http://arxiv.org/abs/2305.14321v1)|**[link](https://github.com/wwbrannon/congrat)**|
 |**2023-05-23**|**QLoRA: Efficient Finetuning of Quantized LLMs**|Tim Dettmers et.al.|[2305.14314v1](http://arxiv.org/abs/2305.14314v1)|**[link](https://github.com/artidoro/qlora)**|
@@ -962,12 +972,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230525>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230526>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-24**|**Peek Across: Improving Multi-Document Modeling via Cross-Document Question-Answering**|Avi Caciularu et.al.|[2305.15387v1](http://arxiv.org/abs/2305.15387v1)|null|
+|**2023-05-24**|**What can generic neural networks learn from a child's visual experience?**|A. Emin Orhan et.al.|[2305.15372v1](http://arxiv.org/abs/2305.15372v1)|null|
+|**2023-05-24**|**A Tale of Two Features: Stable Diffusion Complements DINO for Zero-Shot Semantic Correspondence**|Junyi Zhang et.al.|[2305.15347v1](http://arxiv.org/abs/2305.15347v1)|null|
+|**2023-05-24**|**Revisiting Token Dropping Strategy in Efficient BERT Pretraining**|Qihuang Zhong et.al.|[2305.15273v1](http://arxiv.org/abs/2305.15273v1)|null|
+|**2023-05-24**|**Delving Deeper into Data Scaling in Masked Image Modeling**|Cheng-Ze Lu et.al.|[2305.15248v1](http://arxiv.org/abs/2305.15248v1)|null|
+|**2023-05-24**|**Towards Adaptive Prefix Tuning for Parameter-Efficient Language Model Fine-tuning**|Zhen-Ru Zhang et.al.|[2305.15212v1](http://arxiv.org/abs/2305.15212v1)|null|
+|**2023-05-24**|**Pre-training Multi-party Dialogue Models with Latent Discourse Inference**|Yiyang Li et.al.|[2305.15175v1](http://arxiv.org/abs/2305.15175v1)|null|
+|**2023-05-24**|**Is Summary Useful or Not? An Extrinsic Human Evaluation of Text Summaries on Downstream Tasks**|Xiao Pu et.al.|[2305.15044v1](http://arxiv.org/abs/2305.15044v1)|null|
+|**2023-05-24**|**Exploring Adapter-based Transfer Learning for Recommender Systems: Empirical Studies and Practical Insights**|Junchen Fu et.al.|[2305.15036v1](http://arxiv.org/abs/2305.15036v1)|null|
+|**2023-05-24**|**Injecting Knowledge into Biomedical Pre-trained Models via Polymorphism and Synonymous Substitution**|Hongbo Zhang et.al.|[2305.15010v1](http://arxiv.org/abs/2305.15010v1)|null|
 |**2023-05-23**|**Diffusion Hyperfeatures: Searching Through Time and Space for Semantic Correspondence**|Grace Luo et.al.|[2305.14334v1](http://arxiv.org/abs/2305.14334v1)|null|
 |**2023-05-23**|**ConGraT: Self-Supervised Contrastive Pretraining for Joint Graph and Text Embeddings**|William Brannon et.al.|[2305.14321v1](http://arxiv.org/abs/2305.14321v1)|**[link](https://github.com/wwbrannon/congrat)**|
 |**2023-05-23**|**Query Rewriting for Retrieval-Augmented Large Language Models**|Xinbei Ma et.al.|[2305.14283v1](http://arxiv.org/abs/2305.14283v1)|null|
@@ -1855,12 +1875,13 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230525>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230526>back to top</a>)</p>
 
 ## adaptor
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-24**|**Inference-Time Policy Adapters (IPA): Tailoring Extreme-Scale LMs without Fine-tuning**|Ximing Lu et.al.|[2305.15065v1](http://arxiv.org/abs/2305.15065v1)|null|
 |**2023-05-22**|**Single Domain Dynamic Generalization for Iris Presentation Attack Detection**|Yachun Li et.al.|[2305.12800v1](http://arxiv.org/abs/2305.12800v1)|null|
 |**2023-05-10**|**Radious: Unveiling the Enigma of Dental Radiology with BEIT Adaptor and Mask2Former in Semantic Segmentation**|Mohammad Mashayekhi et.al.|[2305.06236v1](http://arxiv.org/abs/2305.06236v1)|null|
 |**2023-05-24**|**AlignSTS: Speech-to-Singing Conversion via Cross-Modal Alignment**|Ruiqi Li et.al.|[2305.04476v4](http://arxiv.org/abs/2305.04476v4)|null|
@@ -1902,12 +1923,19 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230525>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230526>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-24**|**DynStatF: An Efficient Feature Fusion Strategy for LiDAR 3D Object Detection**|Yao Rong et.al.|[2305.15219v1](http://arxiv.org/abs/2305.15219v1)|null|
+|**2023-05-24**|**Computer Vision for Construction Progress Monitoring: A Real-Time Object Detection Approach**|Jiesheng Yang et.al.|[2305.15097v1](http://arxiv.org/abs/2305.15097v1)|null|
+|**2023-05-24**|**DC-Net: Divide-and-Conquer for Salient Object Detection**|Jiayi Zhu et.al.|[2305.14955v1](http://arxiv.org/abs/2305.14955v1)|null|
+|**2023-05-24**|**Semi-Supervised and Long-Tailed Object Detection with CascadeMatch**|Yuhang Zang et.al.|[2305.14813v1](http://arxiv.org/abs/2305.14813v1)|null|
+|**2023-05-24**|**Dual Path Transformer with Partition Attention**|Zhengkai Jiang et.al.|[2305.14768v1](http://arxiv.org/abs/2305.14768v1)|null|
+|**2023-05-24**|**Streaming Object Detection on Fisheye Cameras for Automatic Parking**|Yixiong Yan et.al.|[2305.14713v1](http://arxiv.org/abs/2305.14713v1)|null|
+|**2023-05-24**|**Realistically distributing object placements in synthetic training data improves the performance of vision-based object detection models**|Setareh Dabiri et.al.|[2305.14621v1](http://arxiv.org/abs/2305.14621v1)|null|
 |**2023-05-23**|**Weakly-Supervised Learning of Visual Relations in Multimodal Pretraining**|Emanuele Bugliarello et.al.|[2305.14281v1](http://arxiv.org/abs/2305.14281v1)|null|
 |**2023-05-24**|**DetGPT: Detect What You Need via Reasoning**|Renjie Pi et.al.|[2305.14167v2](http://arxiv.org/abs/2305.14167v2)|null|
 |**2023-05-23**|**Impact of Light and Shadow on Robustness of Deep Neural Networks**|Chengyin Hu et.al.|[2305.14165v1](http://arxiv.org/abs/2305.14165v1)|null|
@@ -2764,7 +2792,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230525>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230526>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
