@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.26
+## Updated on 2023.05.27
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-25**|**Parallel Sampling of Diffusion Models**|Andy Shih et.al.|[2305.16317v1](http://arxiv.org/abs/2305.16317v1)|null|
+|**2023-05-25**|**Cross-Lingual Knowledge Distillation for Answer Sentence Selection in Low-Resource Languages**|Shivanshu Gupta et.al.|[2305.16302v1](http://arxiv.org/abs/2305.16302v1)|null|
+|**2023-05-25**|**Diversify Your Vision Datasets with Automatic Diffusion-Based Augmentation**|Lisa Dunlap et.al.|[2305.16289v1](http://arxiv.org/abs/2305.16289v1)|**[link](https://github.com/lisadunlap/alia)**|
+|**2023-05-25**|**ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation**|Zhengyi Wang et.al.|[2305.16213v1](http://arxiv.org/abs/2305.16213v1)|**[link](https://github.com/thu-ml/prolificdreamer)**|
+|**2023-05-25**|**Diversity-Aware Coherence Loss for Improving Neural Topic Models**|Raymond Li et.al.|[2305.16199v1](http://arxiv.org/abs/2305.16199v1)|**[link](https://github.com/raymondzmc/topic-model-diversity-aware-coherence-loss)**|
+|**2023-05-25**|**Explainability Techniques for Chemical Language Models**|Stefan Hödl et.al.|[2305.16192v1](http://arxiv.org/abs/2305.16192v1)|null|
+|**2023-05-25**|**Language Models Implement Simple Word2Vec-style Vector Arithmetic**|Jack Merullo et.al.|[2305.16130v1](http://arxiv.org/abs/2305.16130v1)|**[link](https://github.com/jmerullo/lm_vector_arithmetic)**|
+|**2023-05-25**|**Knowledge Distillation for Neural Transducer-based Target-Speaker ASR: Exploiting Parallel Mixture/Single-Talker Speech Data**|Takafumi Moriya et.al.|[2305.15971v1](http://arxiv.org/abs/2305.15971v1)|null|
+|**2023-05-25**|**Latent Diffusion Model Based Foley Sound Generation System For DCASE Challenge 2023 Task 7**|Yi Yuan et.al.|[2305.15905v1](http://arxiv.org/abs/2305.15905v1)|null|
+|**2023-05-25**|**On Architectural Compression of Text-to-Image Diffusion Models**|Bo-Kyeong Kim et.al.|[2305.15798v1](http://arxiv.org/abs/2305.15798v1)|null|
 |**2023-05-24**|**What can generic neural networks learn from a child's visual experience?**|A. Emin Orhan et.al.|[2305.15372v1](http://arxiv.org/abs/2305.15372v1)|null|
 |**2023-05-24**|**Solving Diffusion ODEs with Optimal Boundary Conditions for Better Image Super-Resolution**|Yiyang Ma et.al.|[2305.15357v1](http://arxiv.org/abs/2305.15357v1)|null|
 |**2023-05-24**|**Visual Programming for Text-to-Image Generation and Evaluation**|Jaemin Cho et.al.|[2305.15328v1](http://arxiv.org/abs/2305.15328v1)|null|
@@ -972,12 +982,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230526>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230527>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-25**|**Candidate Set Re-ranking for Composed Image Retrieval with Dual Multi-modal Encoder**|Zheyuan Liu et.al.|[2305.16304v1](http://arxiv.org/abs/2305.16304v1)|null|
+|**2023-05-25**|**Incentivizing Honesty among Competitors in Collaborative Learning and Optimization**|Florian E. Dorner et.al.|[2305.16272v1](http://arxiv.org/abs/2305.16272v1)|null|
+|**2023-05-25**|**From Latent Graph to Latent Topology Inference: Differentiable Cell Complex Module**|Claudio Battiloro et.al.|[2305.16174v1](http://arxiv.org/abs/2305.16174v1)|null|
+|**2023-05-25**|**A Task-guided, Implicitly-searched and Meta-initialized Deep Model for Image Fusion**|Risheng Liu et.al.|[2305.15862v1](http://arxiv.org/abs/2305.15862v1)|null|
+|**2023-05-25**|**Unifying gradient regularization for Heterogeneous Graph Neural Networks**|Xiao Yang et.al.|[2305.15811v1](http://arxiv.org/abs/2305.15811v1)|**[link](https://github.com/anonymous2nips2023/grug)**|
+|**2023-05-25**|**Dynamic Context Pruning for Efficient and Interpretable Autoregressive Transformers**|Sotiris Anagnostidis et.al.|[2305.15805v1](http://arxiv.org/abs/2305.15805v1)|null|
+|**2023-05-25**|**Comparative Study of Pre-Trained BERT Models for Code-Mixed Hindi-English Data**|Aryan Patil et.al.|[2305.15722v1](http://arxiv.org/abs/2305.15722v1)|null|
+|**2023-05-24**|**Refocusing Is Key to Transfer Learning**|Baifeng Shi et.al.|[2305.15542v1](http://arxiv.org/abs/2305.15542v1)|**[link](https://github.com/bfshi/toast)**|
+|**2023-05-24**|**Post-processing Private Synthetic Data for Improving Utility on Selected Measures**|Hao Wang et.al.|[2305.15538v1](http://arxiv.org/abs/2305.15538v1)|null|
+|**2023-05-24**|**Foundational Models for Malware Embeddings Using Spatio-Temporal Parallel Convolutional Networks**|Dhruv Nandakumar et.al.|[2305.15488v1](http://arxiv.org/abs/2305.15488v1)|null|
 |**2023-05-24**|**Peek Across: Improving Multi-Document Modeling via Cross-Document Question-Answering**|Avi Caciularu et.al.|[2305.15387v1](http://arxiv.org/abs/2305.15387v1)|null|
 |**2023-05-24**|**What can generic neural networks learn from a child's visual experience?**|A. Emin Orhan et.al.|[2305.15372v1](http://arxiv.org/abs/2305.15372v1)|null|
 |**2023-05-24**|**A Tale of Two Features: Stable Diffusion Complements DINO for Zero-Shot Semantic Correspondence**|Junyi Zhang et.al.|[2305.15347v1](http://arxiv.org/abs/2305.15347v1)|null|
@@ -1875,7 +1895,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230526>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230527>back to top</a>)</p>
 
 ## adaptor
 
@@ -1923,12 +1943,22 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230526>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230527>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-25**|**Image is First-order Norm+Linear Autoregressive**|Yinpeng Chen et.al.|[2305.16319v1](http://arxiv.org/abs/2305.16319v1)|null|
+|**2023-05-25**|**Look Ma, No Hands! Agent-Environment Factorization of Egocentric Videos**|Matthew Chang et.al.|[2305.16301v1](http://arxiv.org/abs/2305.16301v1)|null|
+|**2023-05-25**|**Guided Attention for Next Active Object @ EGO4D STA Challenge**|Sanket Thakur et.al.|[2305.16066v1](http://arxiv.org/abs/2305.16066v1)|null|
+|**2023-05-25**|**Vision-based Safe Autonomous UAV Docking with Panoramic Sensors**|Phuoc Nguyen Thuan et.al.|[2305.16008v1](http://arxiv.org/abs/2305.16008v1)|null|
+|**2023-05-25**|**DiffCLIP: Leveraging Stable Diffusion for Language Grounded 3D Classification**|Sitian Shen et.al.|[2305.15957v1](http://arxiv.org/abs/2305.15957v1)|null|
+|**2023-05-25**|**RC-BEVFusion: A Plug-In Module for Radar-Camera Bird's Eye View Feature Fusion**|Lukas Stäcker et.al.|[2305.15883v1](http://arxiv.org/abs/2305.15883v1)|null|
+|**2023-05-25**|**Improved Multi-Scale Grid Rendering of Point Clouds for Radar Object Detection Networks**|Daniel Köhler et.al.|[2305.15836v1](http://arxiv.org/abs/2305.15836v1)|null|
+|**2023-05-25**|**Leveraging object detection for the identification of lung cancer**|Karthick Prasad Gunasekaran et.al.|[2305.15813v1](http://arxiv.org/abs/2305.15813v1)|null|
+|**2023-05-25**|**Language-Guided 3D Object Detection in Point Cloud for Autonomous Driving**|Wenhao Cheng et.al.|[2305.15765v1](http://arxiv.org/abs/2305.15765v1)|null|
+|**2023-05-25**|**Towards Large-scale Single-shot Millimeter-wave Imaging for Low-cost Security Inspection**|Liheng Bian et.al.|[2305.15750v1](http://arxiv.org/abs/2305.15750v1)|null|
 |**2023-05-24**|**DynStatF: An Efficient Feature Fusion Strategy for LiDAR 3D Object Detection**|Yao Rong et.al.|[2305.15219v1](http://arxiv.org/abs/2305.15219v1)|null|
 |**2023-05-24**|**Computer Vision for Construction Progress Monitoring: A Real-Time Object Detection Approach**|Jiesheng Yang et.al.|[2305.15097v1](http://arxiv.org/abs/2305.15097v1)|null|
 |**2023-05-24**|**DC-Net: Divide-and-Conquer for Salient Object Detection**|Jiayi Zhu et.al.|[2305.14955v1](http://arxiv.org/abs/2305.14955v1)|null|
@@ -2792,7 +2822,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230526>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230527>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
