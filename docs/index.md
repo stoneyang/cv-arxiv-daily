@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.30
+## Updated on 2023.05.31
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-29**|**CommonAccent: Exploring Large Acoustic Pretrained Models for Accent Classification Based on Common Voice**|Juan Zuluaga-Gomez et.al.|[2305.18283v1](http://arxiv.org/abs/2305.18283v1)|**[link](https://github.com/speechbrain/speechbrain)**|
+|**2023-05-29**|**Concept Decomposition for Visual Exploration and Inspiration**|Yael Vinker et.al.|[2305.18203v1](http://arxiv.org/abs/2305.18203v1)|null|
+|**2023-05-29**|**Multiscale Positive-Unlabeled Detection of AI-Generated Texts**|Yuchuan Tian et.al.|[2305.18149v1](http://arxiv.org/abs/2305.18149v1)|**[link](https://github.com/huawei-noah/Efficient-Computing)**|
+|**2023-05-29**|**Conditional Score Guidance for Text-Driven Image-to-Image Translation**|Hyunsoo Lee et.al.|[2305.18007v1](http://arxiv.org/abs/2305.18007v1)|null|
+|**2023-05-29**|**Data Augmentation for Low-Resource Keyphrase Generation**|Krishna Garg et.al.|[2305.17968v1](http://arxiv.org/abs/2305.17968v1)|**[link](https://github.com/kgarg8/kpgen-lowres-data-aug)**|
+|**2023-05-28**|**Transfer Learning for Power Outage Detection Task with Limited Training Data**|Olukunle Owolabi et.al.|[2305.17817v1](http://arxiv.org/abs/2305.17817v1)|null|
+|**2023-05-28**|**Adapting Language-Audio Models as Few-Shot Audio Learners**|Jinhua Liang et.al.|[2305.17719v1](http://arxiv.org/abs/2305.17719v1)|null|
+|**2023-05-28**|**Z-GMOT: Zero-shot Generic Multiple Object Tracking**|Kim Hoang Tran et.al.|[2305.17648v1](http://arxiv.org/abs/2305.17648v1)|null|
+|**2023-05-30**|**Learning from Children: Improving Image-Caption Pretraining via Curriculum**|Hammad A. Ayyubi et.al.|[2305.17540v2](http://arxiv.org/abs/2305.17540v2)|**[link](https://github.com/hayyubi/cur_vl)**|
+|**2023-05-27**|**Text-to-image Editing by Image Information Removal**|Zhongping Zhang et.al.|[2305.17489v1](http://arxiv.org/abs/2305.17489v1)|null|
 |**2023-05-26**|**BiomedGPT: A Unified and Generalist Biomedical Generative Pre-trained Transformer for Vision, Language, and Multimodal Tasks**|Kai Zhang et.al.|[2305.17100v1](http://arxiv.org/abs/2305.17100v1)|**[link](https://github.com/taokz/biomedgpt)**|
 |**2023-05-26**|**Learning and Leveraging Verifiers to Improve Planning Capabilities of Pre-trained Language Models**|Daman Arora et.al.|[2305.17077v1](http://arxiv.org/abs/2305.17077v1)|null|
 |**2023-05-26**|**Exploiting Abstract Meaning Representation for Open-Domain Question Answering**|Cunxiang Wang et.al.|[2305.17050v1](http://arxiv.org/abs/2305.17050v1)|null|
@@ -996,12 +1006,22 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230530>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230531>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-29**|**CommonAccent: Exploring Large Acoustic Pretrained Models for Accent Classification Based on Common Voice**|Juan Zuluaga-Gomez et.al.|[2305.18283v1](http://arxiv.org/abs/2305.18283v1)|**[link](https://github.com/speechbrain/speechbrain)**|
+|**2023-05-29**|**Exploration of Efficient End-to-End ASR using Discretized Input from Self-Supervised Learning**|Xuankai Chang et.al.|[2305.18108v1](http://arxiv.org/abs/2305.18108v1)|null|
+|**2023-05-30**|**Deeply Coupled Cross-Modal Prompt Learning**|Xuejing Liu et.al.|[2305.17903v2](http://arxiv.org/abs/2305.17903v2)|null|
+|**2023-05-29**|**propnet: Propagating 2D Annotation to 3D Segmentation for Gastric Tumors on CT Scans**|Zifan Chen et.al.|[2305.17871v1](http://arxiv.org/abs/2305.17871v1)|null|
+|**2023-05-28**|**NOTABLE: Transferable Backdoor Attacks Against Prompt-based NLP Models**|Kai Mei et.al.|[2305.17826v1](http://arxiv.org/abs/2305.17826v1)|null|
+|**2023-05-28**|**LowDINO -- A Low Parameter Self Supervised Learning Model**|Sai Krishna Prathapaneni et.al.|[2305.17791v1](http://arxiv.org/abs/2305.17791v1)|**[link](https://github.com/saikrishna-prathapaneni/LowDINO)**|
+|**2023-05-28**|**Plug-and-Play Knowledge Injection for Pre-trained Language Models**|Zhengyan Zhang et.al.|[2305.17691v1](http://arxiv.org/abs/2305.17691v1)|**[link](https://github.com/thunlp/knowledge-plugin)**|
+|**2023-05-28**|**One Network, Many Masks: Towards More Parameter-Efficient Transfer Learning**|Guangtao Zeng et.al.|[2305.17682v1](http://arxiv.org/abs/2305.17682v1)|**[link](https://github.com/chaoscodes/propetl)**|
+|**2023-05-28**|**Plug-and-Play Document Modules for Pre-trained Models**|Chaojun Xiao et.al.|[2305.17660v1](http://arxiv.org/abs/2305.17660v1)|**[link](https://github.com/thunlp/document-plugin)**|
+|**2023-05-29**|**MT-SLVR: Multi-Task Self-Supervised Learning for Transformation In(Variant) Representations**|Calum Heggan et.al.|[2305.17191v1](http://arxiv.org/abs/2305.17191v1)|**[link](https://github.com/cheggan/mt-slvr)**|
 |**2023-05-26**|**BiomedGPT: A Unified and Generalist Biomedical Generative Pre-trained Transformer for Vision, Language, and Multimodal Tasks**|Kai Zhang et.al.|[2305.17100v1](http://arxiv.org/abs/2305.17100v1)|**[link](https://github.com/taokz/biomedgpt)**|
 |**2023-05-26**|**A Mechanism for Sample-Efficient In-Context Learning for Sparse Retrieval Tasks**|Jacob Abernethy et.al.|[2305.17040v1](http://arxiv.org/abs/2305.17040v1)|null|
 |**2023-05-26**|**Inverse Dynamics Pretraining Learns Good Representations for Multitask Imitation**|David Brandfonbrener et.al.|[2305.16985v1](http://arxiv.org/abs/2305.16985v1)|null|
@@ -1919,12 +1939,14 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230530>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230531>back to top</a>)</p>
 
 ## adaptor
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-29**|**Mix-of-Show: Decentralized Low-Rank Adaptation for Multi-Concept Customization of Diffusion Models**|Yuchao Gu et.al.|[2305.18292v1](http://arxiv.org/abs/2305.18292v1)|null|
+|**2023-05-28**|**StyleS2ST: Zero-shot Style Transfer for Direct Speech-to-speech Translation**|Kun Song et.al.|[2305.17732v1](http://arxiv.org/abs/2305.17732v1)|null|
 |**2023-05-24**|**Inference-Time Policy Adapters (IPA): Tailoring Extreme-Scale LMs without Fine-tuning**|Ximing Lu et.al.|[2305.15065v1](http://arxiv.org/abs/2305.15065v1)|null|
 |**2023-05-22**|**Single Domain Dynamic Generalization for Iris Presentation Attack Detection**|Yachun Li et.al.|[2305.12800v1](http://arxiv.org/abs/2305.12800v1)|null|
 |**2023-05-10**|**Radious: Unveiling the Enigma of Dental Radiology with BEIT Adaptor and Mask2Former in Semantic Segmentation**|Mohammad Mashayekhi et.al.|[2305.06236v1](http://arxiv.org/abs/2305.06236v1)|null|
@@ -1967,12 +1989,22 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230530>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230531>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-29**|**Contextual Object Detection with Multimodal Large Language Models**|Yuhang Zang et.al.|[2305.18279v1](http://arxiv.org/abs/2305.18279v1)|**[link](https://github.com/yuhangzang/contextdet)**|
+|**2023-05-29**|**Development of a ROS-based Architecture for Intelligent Autonomous on Demand Last Mile Delivery**|Georg Novtony et.al.|[2305.18276v1](http://arxiv.org/abs/2305.18276v1)|null|
+|**2023-05-29**|**Contrastive Learning Based Recursive Dynamic Multi-Scale Network for Image Deraining**|Zhiying Jiang et.al.|[2305.18092v1](http://arxiv.org/abs/2305.18092v1)|null|
+|**2023-05-29**|**Mining Negative Temporal Contexts For False Positive Suppression In Real-Time Ultrasound Lesion Detection**|Haojun Yu et.al.|[2305.18060v1](http://arxiv.org/abs/2305.18060v1)|null|
+|**2023-05-29**|**View-to-Label: Multi-View Consistency for Self-Supervised 3D Object Detection**|Issa Mouawad et.al.|[2305.17972v1](http://arxiv.org/abs/2305.17972v1)|null|
+|**2023-05-29**|**CamoDiffusion: Camouflaged Object Detection via Conditional Diffusion Models**|Zhongxi Chen et.al.|[2305.17932v1](http://arxiv.org/abs/2305.17932v1)|**[link](https://github.com/rapisurazurite/camodiffusion)**|
+|**2023-05-29**|**Monocular 2D Camera-based Proximity Monitoring for Human-Machine Collision Warning on Construction Sites**|Yuexiong Ding et.al.|[2305.17931v1](http://arxiv.org/abs/2305.17931v1)|null|
+|**2023-05-29**|**VCVW-3D: A Virtual Construction Vehicles and Workers Dataset with 3D Annotations**|Yuexiong Ding et.al.|[2305.17927v1](http://arxiv.org/abs/2305.17927v1)|null|
+|**2023-05-29**|**SEIP: Simulation-based Design and Evaluation of Infrastructure-based Collective Perception**|Ao Qu et.al.|[2305.17892v1](http://arxiv.org/abs/2305.17892v1)|null|
+|**2023-05-28**|**Real-time Object Detection: YOLOv1 Re-Implementation in PyTorch**|Michael Shenoda et.al.|[2305.17786v1](http://arxiv.org/abs/2305.17786v1)|null|
 |**2023-05-26**|**Linear Object Detection in Document Images using Multiple Object Tracking**|Philippe Bernet et.al.|[2305.16968v1](http://arxiv.org/abs/2305.16968v1)|null|
 |**2023-05-25**|**Vision-based UAV Detection in Complex Backgrounds and Rainy Conditions**|Adnan Munir et.al.|[2305.16450v1](http://arxiv.org/abs/2305.16450v1)|null|
 |**2023-05-25**|**Image is First-order Norm+Linear Autoregressive**|Yinpeng Chen et.al.|[2305.16319v1](http://arxiv.org/abs/2305.16319v1)|null|
@@ -2848,7 +2880,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230530>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230531>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
