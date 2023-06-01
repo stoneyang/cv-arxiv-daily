@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.31
+## Updated on 2023.06.01
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-30**|**Jointly Reparametrized Multi-Layer Adaptation for Efficient and Private Tuning**|Umang Gupta et.al.|[2305.19264v1](http://arxiv.org/abs/2305.19264v1)|**[link](https://github.com/umgupta/jointly-reparametrized-finetuning)**|
+|**2023-05-30**|**DäRF: Boosting Radiance Fields from Sparse Inputs with Monocular Depth Adaptation**|Jiuhn Song et.al.|[2305.19201v1](http://arxiv.org/abs/2305.19201v1)|null|
+|**2023-05-30**|**Strategic Reasoning with Language Models**|Kanishk Gandhi et.al.|[2305.19165v1](http://arxiv.org/abs/2305.19165v1)|null|
+|**2023-05-30**|**LANCE: Stress-testing Visual Models by Generating Language-guided Counterfactual Images**|Viraj Prabhu et.al.|[2305.19164v1](http://arxiv.org/abs/2305.19164v1)|null|
+|**2023-05-30**|**Together We Make Sense -- Learning Meta-Sense Embeddings from Pretrained Static Sense Embeddings**|Haochen Luo et.al.|[2305.19092v1](http://arxiv.org/abs/2305.19092v1)|null|
+|**2023-05-30**|**Nested Diffusion Processes for Anytime Image Generation**|Noam Elata et.al.|[2305.19066v1](http://arxiv.org/abs/2305.19066v1)|**[link](https://github.com/noamelata/nesteddiffusion)**|
+|**2023-05-30**|**Voice Conversion With Just Nearest Neighbors**|Matthew Baas et.al.|[2305.18975v1](http://arxiv.org/abs/2305.18975v1)|**[link](https://github.com/bshall/knn-vc)**|
+|**2023-05-30**|**Prompt-based Tuning of Transformer Models for Multi-Center Medical Image Segmentation**|Numan Saeed et.al.|[2305.18948v1](http://arxiv.org/abs/2305.18948v1)|null|
+|**2023-05-30**|**Empirical Sufficiency Lower Bounds for Language Modeling with Locally-Bootstrapped Semantic Structures**|Jakob Prange et.al.|[2305.18915v1](http://arxiv.org/abs/2305.18915v1)|**[link](https://github.com/jakpra/sufficiencylowerbounds)**|
+|**2023-05-30**|**Dissecting Chain-of-Thought: A Study on Compositional In-Context Learning of MLPs**|Yingcong Li et.al.|[2305.18869v1](http://arxiv.org/abs/2305.18869v1)|null|
 |**2023-05-29**|**CommonAccent: Exploring Large Acoustic Pretrained Models for Accent Classification Based on Common Voice**|Juan Zuluaga-Gomez et.al.|[2305.18283v1](http://arxiv.org/abs/2305.18283v1)|**[link](https://github.com/speechbrain/speechbrain)**|
 |**2023-05-29**|**Concept Decomposition for Visual Exploration and Inspiration**|Yael Vinker et.al.|[2305.18203v1](http://arxiv.org/abs/2305.18203v1)|null|
 |**2023-05-29**|**Multiscale Positive-Unlabeled Detection of AI-Generated Texts**|Yuchuan Tian et.al.|[2305.18149v1](http://arxiv.org/abs/2305.18149v1)|**[link](https://github.com/huawei-noah/Efficient-Computing)**|
@@ -1006,12 +1016,21 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230531>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230601>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-30**|**ConES: Concept Embedding Search for Parameter Efficient Tuning Large Vision Language Models**|Huahui Yi et.al.|[2305.18993v1](http://arxiv.org/abs/2305.18993v1)|null|
+|**2023-05-30**|**Multi-modal Queried Object Detection in the Wild**|Yifan Xu et.al.|[2305.18980v1](http://arxiv.org/abs/2305.18980v1)|**[link](https://github.com/yifanxu74/mq-det)**|
+|**2023-05-30**|**Node Embedding from Neural Hamiltonian Orbits in Graph Neural Networks**|Qiyu Kang et.al.|[2305.18965v1](http://arxiv.org/abs/2305.18965v1)|**[link](https://github.com/zknus/hamiltonian-gnn)**|
+|**2023-05-30**|**Contrastive Shapelet Learning for Unsupervised Multivariate Time Series Representation Learning**|Zhiyu Liang et.al.|[2305.18888v1](http://arxiv.org/abs/2305.18888v1)|**[link](https://github.com/real2fish/csl)**|
+|**2023-05-30**|**Occ-BEV: Multi-Camera Unified Pre-training via 3D Scene Reconstruction**|Chen Min et.al.|[2305.18829v1](http://arxiv.org/abs/2305.18829v1)|**[link](https://github.com/chaytonmin/occ-bev)**|
+|**2023-05-30**|**LayoutMask: Enhance Text-Layout Interaction in Multi-modal Pre-training for Document Understanding**|Yi Tu et.al.|[2305.18721v1](http://arxiv.org/abs/2305.18721v1)|null|
+|**2023-05-30**|**Fine-Grained is Too Coarse: A Novel Data-Centric Approach for Efficient Scene Graph Generation**|Neau Maëlic et.al.|[2305.18668v1](http://arxiv.org/abs/2305.18668v1)|null|
+|**2023-05-29**|**Learning Linear Groups in Neural Networks**|Emmanouil Theodosis et.al.|[2305.18552v1](http://arxiv.org/abs/2305.18552v1)|null|
+|**2023-05-29**|**RLAD: Reinforcement Learning from Pixels for Autonomous Driving in Urban Environments**|Daniel Coelho et.al.|[2305.18510v1](http://arxiv.org/abs/2305.18510v1)|null|
 |**2023-05-29**|**CommonAccent: Exploring Large Acoustic Pretrained Models for Accent Classification Based on Common Voice**|Juan Zuluaga-Gomez et.al.|[2305.18283v1](http://arxiv.org/abs/2305.18283v1)|**[link](https://github.com/speechbrain/speechbrain)**|
 |**2023-05-29**|**Exploration of Efficient End-to-End ASR using Discretized Input from Self-Supervised Learning**|Xuankai Chang et.al.|[2305.18108v1](http://arxiv.org/abs/2305.18108v1)|null|
 |**2023-05-30**|**Deeply Coupled Cross-Modal Prompt Learning**|Xuejing Liu et.al.|[2305.17903v2](http://arxiv.org/abs/2305.17903v2)|null|
@@ -1939,7 +1958,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230531>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230601>back to top</a>)</p>
 
 ## adaptor
 
@@ -1989,12 +2008,19 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230531>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230601>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-30**|**Table Detection for Visually Rich Document Images**|Bin Xiao et.al.|[2305.19181v1](http://arxiv.org/abs/2305.19181v1)|null|
+|**2023-05-30**|**ConES: Concept Embedding Search for Parameter Efficient Tuning Large Vision Language Models**|Huahui Yi et.al.|[2305.18993v1](http://arxiv.org/abs/2305.18993v1)|null|
+|**2023-05-30**|**Multi-modal Queried Object Detection in the Wild**|Yifan Xu et.al.|[2305.18980v1](http://arxiv.org/abs/2305.18980v1)|**[link](https://github.com/yifanxu74/mq-det)**|
+|**2023-05-30**|**Sit Back and Relax: Learning to Drive Incrementally in All Weather Conditions**|Stefan Leitner et.al.|[2305.18953v1](http://arxiv.org/abs/2305.18953v1)|**[link](https://github.com/jmiemirza/dilam)**|
+|**2023-05-30**|**Occ-BEV: Multi-Camera Unified Pre-training via 3D Scene Reconstruction**|Chen Min et.al.|[2305.18829v1](http://arxiv.org/abs/2305.18829v1)|**[link](https://github.com/chaytonmin/occ-bev)**|
+|**2023-05-30**|**VVC Extension Scheme for Object Detection Using Contrast Reduction**|Takahiro Shindo et.al.|[2305.18782v1](http://arxiv.org/abs/2305.18782v1)|null|
+|**2023-05-29**|**PaLI-X: On Scaling up a Multilingual Vision and Language Model**|Xi Chen et.al.|[2305.18565v1](http://arxiv.org/abs/2305.18565v1)|null|
 |**2023-05-29**|**Contextual Object Detection with Multimodal Large Language Models**|Yuhang Zang et.al.|[2305.18279v1](http://arxiv.org/abs/2305.18279v1)|**[link](https://github.com/yuhangzang/contextdet)**|
 |**2023-05-29**|**Development of a ROS-based Architecture for Intelligent Autonomous on Demand Last Mile Delivery**|Georg Novtony et.al.|[2305.18276v1](http://arxiv.org/abs/2305.18276v1)|null|
 |**2023-05-29**|**Contrastive Learning Based Recursive Dynamic Multi-Scale Network for Image Deraining**|Zhiying Jiang et.al.|[2305.18092v1](http://arxiv.org/abs/2305.18092v1)|null|
@@ -2880,7 +2906,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230531>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230601>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
