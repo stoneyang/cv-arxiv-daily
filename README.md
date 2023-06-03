@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.02
+## Updated on 2023.06.03
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-01**|**Hiera: A Hierarchical Vision Transformer without the Bells-and-Whistles**|Chaitanya Ryali et.al.|[2306.00989v1](http://arxiv.org/abs/2306.00989v1)|**[link](https://github.com/facebookresearch/hiera)**|
+|**2023-06-01**|**Continual Learning for Abdominal Multi-Organ and Tumor Segmentation**|Yixiao Zhang et.al.|[2306.00988v1](http://arxiv.org/abs/2306.00988v1)|**[link](https://github.com/mrgiovanni/continuallearning)**|
+|**2023-06-01**|**StyleGAN knows Normal, Depth, Albedo, and More**|Anand Bhattad et.al.|[2306.00987v1](http://arxiv.org/abs/2306.00987v1)|null|
+|**2023-06-01**|**Diffusion Self-Guidance for Controllable Image Generation**|Dave Epstein et.al.|[2306.00986v1](http://arxiv.org/abs/2306.00986v1)|null|
+|**2023-06-01**|**Train Offline, Test Online: A Real Robot Learning Benchmark**|Gaoyue Zhou et.al.|[2306.00942v1](http://arxiv.org/abs/2306.00942v1)|**[link](https://github.com/AGI-Labs/toto_benchmark)**|
+|**2023-06-01**|**STEVE-1: A Generative Model for Text-to-Behavior in Minecraft**|Shalev Lifshitz et.al.|[2306.00937v1](http://arxiv.org/abs/2306.00937v1)|null|
+|**2023-06-01**|**"Let's not Quote out of Context": Unified Vision-Language Pretraining for Context Assisted Image Captioning**|Abisek Rajakumar Kalarani et.al.|[2306.00931v1](http://arxiv.org/abs/2306.00931v1)|null|
+|**2023-06-01**|**Inserting Anybody in Diffusion Models via Celeb Basis**|Ge Yuan et.al.|[2306.00926v1](http://arxiv.org/abs/2306.00926v1)|**[link](https://github.com/ygtxr1997/celebbasis)**|
+|**2023-06-01**|**Adapting a ConvNeXt model to audio classification on AudioSet**|Thomas Pellegrini et.al.|[2306.00830v1](http://arxiv.org/abs/2306.00830v1)|null|
+|**2023-06-01**|**In or Out? Fixing ImageNet Out-of-Distribution Detection Evaluation**|Julian Bitterwolf et.al.|[2306.00826v1](http://arxiv.org/abs/2306.00826v1)|**[link](https://github.com/j-cb/ninco)**|
 |**2023-06-01**|**Too Large; Data Reduction for Vision-Language Pre-Training**|Alex Jinpeng Wang et.al.|[2305.20087v2](http://arxiv.org/abs/2305.20087v2)|**[link](https://github.com/showlab/data-centric.vlp)**|
 |**2023-05-31**|**Efficient Shapley Values Estimation by Amortization for Text Classification**|Chenghao Yang et.al.|[2305.19998v1](http://arxiv.org/abs/2305.19998v1)|**[link](https://github.com/yangalan123/amortized-interpretability)**|
 |**2023-06-01**|**A Global Context Mechanism for Sequence Labeling**|Conglei Xu et.al.|[2305.19928v2](http://arxiv.org/abs/2305.19928v2)|**[link](https://github.com/conglei2xu/global-context-mechanism)**|
@@ -1022,13 +1032,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230602>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230603>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-05-31**|**Humans in 4D: Reconstructing and Tracking Humans with Transformers**|Shubham Goel et.al.|[2305.20091v1](http://arxiv.org/abs/2305.20091v1)|null|
+|**2023-06-01**|**Effective Structured Prompting by Meta-Learning and Representative Verbalizer**|Weisen Jiang et.al.|[2306.00618v1](http://arxiv.org/abs/2306.00618v1)|null|
+|**2023-06-01**|**We never go out of Style: Motion Disentanglement by Subspace Decomposition of Latent Space**|Rishubh Parihar et.al.|[2306.00559v1](http://arxiv.org/abs/2306.00559v1)|null|
+|**2023-06-01**|**Speech Self-Supervised Representation Benchmarking: Are We Doing it Right?**|Salah Zaiem et.al.|[2306.00452v1](http://arxiv.org/abs/2306.00452v1)|null|
+|**2023-06-01**|**End-to-end Knowledge Retrieval with Multi-modal Queries**|Man Luo et.al.|[2306.00424v1](http://arxiv.org/abs/2306.00424v1)|**[link](https://github.com/luomancs/remuq)**|
+|**2023-06-01**|**Towards Foundation Models for Scientific Machine Learning: Characterizing Scaling and Transfer Behavior**|Shashank Subramanian et.al.|[2306.00258v1](http://arxiv.org/abs/2306.00258v1)|null|
+|**2023-06-01**|**AfriNames: Most ASR models "butcher" African Names**|Tobi Olatunji et.al.|[2306.00253v1](http://arxiv.org/abs/2306.00253v1)|null|
+|**2023-05-31**|**Representation Reliability and Its Impact on Downstream Tasks**|Young-Jin Park et.al.|[2306.00206v1](http://arxiv.org/abs/2306.00206v1)|null|
+|**2023-05-31**|**SSL-CPCD: Self-supervised learning with composite pretext-class discrimination for improved generalisability in endoscopic image analysis**|Ziang Xu et.al.|[2306.00197v1](http://arxiv.org/abs/2306.00197v1)|null|
+|**2023-05-31**|**Diffused Redundancy in Pre-trained Representations**|Vedant Nanda et.al.|[2306.00183v1](http://arxiv.org/abs/2306.00183v1)|null|
+|**2023-05-31**|**Humans in 4D: Reconstructing and Tracking Humans with Transformers**|Shubham Goel et.al.|[2305.20091v1](http://arxiv.org/abs/2305.20091v1)|**[link](https://github.com/shubham-goel/4D-Humans)**|
 |**2023-06-01**|**Too Large; Data Reduction for Vision-Language Pre-Training**|Alex Jinpeng Wang et.al.|[2305.20087v2](http://arxiv.org/abs/2305.20087v2)|**[link](https://github.com/showlab/data-centric.vlp)**|
 |**2023-05-31**|**Data Augmentation Approaches for Source Code Models: A Survey**|Terry Yue Zhuo et.al.|[2305.19915v1](http://arxiv.org/abs/2305.19915v1)|**[link](https://github.com/terryyz/dataaug4code)**|
 |**2023-05-31**|**Improving Expressivity of GNNs with Subgraph-specific Factor Embedded Normalization**|Kaixuan Chen et.al.|[2305.19903v1](http://arxiv.org/abs/2305.19903v1)|**[link](https://github.com/chenchkx/supernorm)**|
@@ -1974,7 +1993,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230602>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230603>back to top</a>)</p>
 
 ## adaptor
 
@@ -2024,17 +2043,21 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230602>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230603>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-01**|**Edge-guided Representation Learning for Underwater Object Detection**|Linhui Dai et.al.|[2306.00440v1](http://arxiv.org/abs/2306.00440v1)|null|
+|**2023-06-01**|**End-to-end Knowledge Retrieval with Multi-modal Queries**|Man Luo et.al.|[2306.00424v1](http://arxiv.org/abs/2306.00424v1)|**[link](https://github.com/luomancs/remuq)**|
+|**2023-06-01**|**CALICO: Self-Supervised Camera-LiDAR Contrastive Pre-training for BEV Perception**|Jiachen Sun et.al.|[2306.00349v1](http://arxiv.org/abs/2306.00349v1)|null|
+|**2023-06-01**|**Doubly Robust Self-Training**|Banghua Zhu et.al.|[2306.00265v1](http://arxiv.org/abs/2306.00265v1)|**[link](https://github.com/dingmyu/doubly-robust-self-training)**|
 |**2023-05-31**|**Cross-Domain Car Detection Model with Integrated Convolutional Block Attention Mechanism**|Haoxuan Xu et.al.|[2305.20055v1](http://arxiv.org/abs/2305.20055v1)|null|
 |**2023-05-31**|**LOWA: Localize Objects in the Wild with Attributes**|Xiaoyuan Guo et.al.|[2305.20047v1](http://arxiv.org/abs/2305.20047v1)|null|
 |**2023-05-31**|**Evaluating Machine Learning Models with NERO: Non-Equivariance Revealed on Orbits**|Zhuokai Zhao et.al.|[2305.19889v1](http://arxiv.org/abs/2305.19889v1)|null|
 |**2023-05-31**|**Fast-SNN: Fast Spiking Neural Network by Converting Quantized ANN**|Yangfan Hu et.al.|[2305.19868v1](http://arxiv.org/abs/2305.19868v1)|**[link](https://github.com/yangfan-hu/fast-snn)**|
-|**2023-06-01**|**Point-GCC: Universal Self-supervised 3D Scene Pre-training via Geometry-Color Contrast**|Guofan Fan et.al.|[2305.19623v2](http://arxiv.org/abs/2305.19623v2)|null|
+|**2023-06-01**|**Point-GCC: Universal Self-supervised 3D Scene Pre-training via Geometry-Color Contrast**|Guofan Fan et.al.|[2305.19623v2](http://arxiv.org/abs/2305.19623v2)|**[link](https://github.com/asterisci/point-gcc)**|
 |**2023-05-31**|**An MCMC Approach to Bayesian Image Analysis in Fourier Space**|Konstantinos Bakas et.al.|[2305.19511v1](http://arxiv.org/abs/2305.19511v1)|null|
 |**2023-05-31**|**Bayesian Image Analysis in Fourier Space**|John Kornak et.al.|[2305.19481v1](http://arxiv.org/abs/2305.19481v1)|null|
 |**2023-05-30**|**Table Detection for Visually Rich Document Images**|Bin Xiao et.al.|[2305.19181v1](http://arxiv.org/abs/2305.19181v1)|null|
@@ -2929,7 +2952,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230602>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230603>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
