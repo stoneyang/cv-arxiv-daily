@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2023.06.05
+> Updated on 2023.06.06
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,15 @@
 
 ## pretrain
 
+- 2023-06-02, **Distilling Efficient Language-Specific Models for Cross-Lingual Transfer**, Alan Ansell et.al., Paper: [http://arxiv.org/abs/2306.01709v1](http://arxiv.org/abs/2306.01709v1), Code: **[https://github.com/alanansell/bistil](https://github.com/alanansell/bistil)**
+- 2023-06-02, **Towards In-context Scene Understanding**, Ivana Balažević et.al., Paper: [http://arxiv.org/abs/2306.01667v1](http://arxiv.org/abs/2306.01667v1)
+- 2023-06-02, **Pretrained Language Model based Web Search Ranking: From Relevance to Satisfaction**, Canjia Li et.al., Paper: [http://arxiv.org/abs/2306.01599v1](http://arxiv.org/abs/2306.01599v1)
+- 2023-06-02, **Evaluating The Robustness of Self-Supervised Representations to Background/Foreground Removal**, Xavier F. Cadet et.al., Paper: [http://arxiv.org/abs/2306.01398v1](http://arxiv.org/abs/2306.01398v1)
+- 2023-06-02, **Speech Translation with Foundation Models and Optimal Transport: UPC at IWSLT23**, Ioannis Tsiamas et.al., Paper: [http://arxiv.org/abs/2306.01327v1](http://arxiv.org/abs/2306.01327v1)
+- 2023-06-01, **Systematic Evaluation of GPT-3 for Zero-Shot Personality Estimation**, Adithya V Ganesan et.al., Paper: [http://arxiv.org/abs/2306.01183v1](http://arxiv.org/abs/2306.01183v1)
+- 2023-06-01, **TMI! Finetuned Models Leak Private Information from their Pretraining Data**, John Abascal et.al., Paper: [http://arxiv.org/abs/2306.01181v1](http://arxiv.org/abs/2306.01181v1)
+- 2023-06-01, **The RefinedWeb Dataset for Falcon LLM: Outperforming Curated Corpora with Web Data, and Web Data Only**, Guilherme Penedo et.al., Paper: [http://arxiv.org/abs/2306.01116v1](http://arxiv.org/abs/2306.01116v1)
+- 2023-06-01, **Exploring the Versatility of Zero-Shot CLIP for Interstitial Lung Disease Classification**, Cara Van Uden et.al., Paper: [http://arxiv.org/abs/2306.01111v1](http://arxiv.org/abs/2306.01111v1)
 - 2023-06-01, **Hiera: A Hierarchical Vision Transformer without the Bells-and-Whistles**, Chaitanya Ryali et.al., Paper: [http://arxiv.org/abs/2306.00989v1](http://arxiv.org/abs/2306.00989v1), Code: **[https://github.com/facebookresearch/hiera](https://github.com/facebookresearch/hiera)**
 - 2023-06-01, **Continual Learning for Abdominal Multi-Organ and Tumor Segmentation**, Yixiao Zhang et.al., Paper: [http://arxiv.org/abs/2306.00988v1](http://arxiv.org/abs/2306.00988v1), Code: **[https://github.com/mrgiovanni/continuallearning](https://github.com/mrgiovanni/continuallearning)**
 - 2023-06-01, **StyleGAN knows Normal, Depth, Albedo, and More**, Anand Bhattad et.al., Paper: [http://arxiv.org/abs/2306.00987v1](http://arxiv.org/abs/2306.00987v1)
@@ -1030,10 +1039,20 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20230605>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230606>back to top</a>)</p>
 
 ## downstream
 
+- 2023-06-02, **Resolving Interference When Merging Models**, Prateek Yadav et.al., Paper: [http://arxiv.org/abs/2306.01708v1](http://arxiv.org/abs/2306.01708v1), Code: **[https://github.com/prateeky2806/ties-merging](https://github.com/prateeky2806/ties-merging)**
+- 2023-06-02, **Harnessing large-language models to generate private synthetic text**, Alexey Kurakin et.al., Paper: [http://arxiv.org/abs/2306.01684v1](http://arxiv.org/abs/2306.01684v1)
+- 2023-06-02, **Enhancing CLIP with CLIP: Exploring Pseudolabeling for Limited-Label Prompt Tuning**, Cristina Menghini et.al., Paper: [http://arxiv.org/abs/2306.01669v1](http://arxiv.org/abs/2306.01669v1), Code: **[https://github.com/batsresearch/menghini-enhanceclipwithclip-code](https://github.com/batsresearch/menghini-enhanceclipwithclip-code)**
+- 2023-06-02, **HomE: Homography-Equivariant Video Representation Learning**, Anirudh Sriram et.al., Paper: [http://arxiv.org/abs/2306.01623v1](http://arxiv.org/abs/2306.01623v1), Code: **[https://github.com/anirudhs123/home](https://github.com/anirudhs123/home)**
+- 2023-06-02, **Segment Anything in High Quality**, Lei Ke et.al., Paper: [http://arxiv.org/abs/2306.01567v1](http://arxiv.org/abs/2306.01567v1), Code: **[https://github.com/syscv/sam-hq](https://github.com/syscv/sam-hq)**
+- 2023-06-02, **Data-Efficient French Language Modeling with CamemBERTa**, Wissam Antoun et.al., Paper: [http://arxiv.org/abs/2306.01497v1](http://arxiv.org/abs/2306.01497v1)
+- 2023-06-02, **Guiding Text-to-Text Privatization by Syntax**, Stefan Arnold et.al., Paper: [http://arxiv.org/abs/2306.01471v1](http://arxiv.org/abs/2306.01471v1)
+- 2023-06-02, **Masked Autoencoder for Unsupervised Video Summarization**, Minho Shim et.al., Paper: [http://arxiv.org/abs/2306.01395v1](http://arxiv.org/abs/2306.01395v1)
+- 2023-06-02, **Independent Modular Networks**, Hamed Damirchi et.al., Paper: [http://arxiv.org/abs/2306.01316v1](http://arxiv.org/abs/2306.01316v1)
+- 2023-06-02, **Learning Causally Disentangled Representations via the Principle of Independent Causal Mechanisms**, Aneesh Komanduri et.al., Paper: [http://arxiv.org/abs/2306.01213v1](http://arxiv.org/abs/2306.01213v1)
 - 2023-06-01, **Effective Structured Prompting by Meta-Learning and Representative Verbalizer**, Weisen Jiang et.al., Paper: [http://arxiv.org/abs/2306.00618v1](http://arxiv.org/abs/2306.00618v1)
 - 2023-06-01, **We never go out of Style: Motion Disentanglement by Subspace Decomposition of Latent Space**, Rishubh Parihar et.al., Paper: [http://arxiv.org/abs/2306.00559v1](http://arxiv.org/abs/2306.00559v1)
 - 2023-06-01, **Speech Self-Supervised Representation Benchmarking: Are We Doing it Right?**, Salah Zaiem et.al., Paper: [http://arxiv.org/abs/2306.00452v1](http://arxiv.org/abs/2306.00452v1), Code: **[https://github.com/salah-zaiem/speechbrain-2](https://github.com/salah-zaiem/speechbrain-2)**
@@ -1989,7 +2008,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20230605>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230606>back to top</a>)</p>
 
 ## adaptor
 
@@ -2037,10 +2056,14 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20230605>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230606>back to top</a>)</p>
 
 ## object detection
 
+- 2023-06-02, **OCBEV: Object-Centric BEV Transformer for Multi-View 3D Object Detection**, Zhangyang Qi et.al., Paper: [http://arxiv.org/abs/2306.01738v1](http://arxiv.org/abs/2306.01738v1)
+- 2023-06-02, **Group channel pruning and spatial attention distilling for object detection**, Yun Chu et.al., Paper: [http://arxiv.org/abs/2306.01526v1](http://arxiv.org/abs/2306.01526v1), Code: **[https://github.com/chumingqian/Model_Compression_For_YOLOV3-V4](https://github.com/chumingqian/Model_Compression_For_YOLOV3-V4)**
+- 2023-06-02, **Bi-LRFusion: Bi-Directional LiDAR-Radar Fusion for 3D Dynamic Object Detection**, Yingjie Wang et.al., Paper: [http://arxiv.org/abs/2306.01438v1](http://arxiv.org/abs/2306.01438v1), Code: **[https://github.com/jessiew0806/bi-lrfusion](https://github.com/jessiew0806/bi-lrfusion)**
+- 2023-06-02, **DeepScribe: Localization and Classification of Elamite Cuneiform Signs Via Deep Learning**, Edward C. Williams et.al., Paper: [http://arxiv.org/abs/2306.01268v1](http://arxiv.org/abs/2306.01268v1), Code: **[https://github.com/edwardclem/deepscribe](https://github.com/edwardclem/deepscribe)**
 - 2023-06-01, **Edge-guided Representation Learning for Underwater Object Detection**, Linhui Dai et.al., Paper: [http://arxiv.org/abs/2306.00440v1](http://arxiv.org/abs/2306.00440v1)
 - 2023-06-01, **End-to-end Knowledge Retrieval with Multi-modal Queries**, Man Luo et.al., Paper: [http://arxiv.org/abs/2306.00424v1](http://arxiv.org/abs/2306.00424v1), Code: **[https://github.com/luomancs/remuq](https://github.com/luomancs/remuq)**
 - 2023-06-01, **CALICO: Self-Supervised Camera-LiDAR Contrastive Pre-training for BEV Perception**, Jiachen Sun et.al., Paper: [http://arxiv.org/abs/2306.00349v1](http://arxiv.org/abs/2306.00349v1)
@@ -2944,7 +2967,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20230605>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230606>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
