@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.06
+## Updated on 2023.06.07
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-05**|**SpQR: A Sparse-Quantized Representation for Near-Lossless LLM Weight Compression**|Tim Dettmers et.al.|[2306.03078v1](http://arxiv.org/abs/2306.03078v1)|null|
+|**2023-06-05**|**Sensitivity-Aware Finetuning for Accuracy Recovery on Deep Learning Hardware**|Lakshmi Nair et.al.|[2306.03076v1](http://arxiv.org/abs/2306.03076v1)|null|
+|**2023-06-05**|**Continual Learning with Pretrained Backbones by Tuning in the Input Space**|Simone Marullo et.al.|[2306.02947v1](http://arxiv.org/abs/2306.02947v1)|null|
+|**2023-06-05**|**Second Language Acquisition of Neural Language Models**|Miyu Oba et.al.|[2306.02920v1](http://arxiv.org/abs/2306.02920v1)|null|
+|**2023-06-05**|**SelfEvolve: A Code Evolution Framework via Large Language Models**|Shuyang Jiang et.al.|[2306.02907v1](http://arxiv.org/abs/2306.02907v1)|null|
+|**2023-06-05**|**Learning Probabilistic Symmetrization for Architecture Agnostic Equivariance**|Jinwoo Kim et.al.|[2306.02866v1](http://arxiv.org/abs/2306.02866v1)|**[link](https://github.com/jw9730/lps)**|
+|**2023-06-05**|**Transformer-Based UNet with Multi-Headed Cross-Attention Skip Connections to Eliminate Artifacts in Scanned Documents**|David Kreuzer et.al.|[2306.02815v1](http://arxiv.org/abs/2306.02815v1)|null|
+|**2023-06-05**|**Explore and Exploit the Diverse Knowledge in Model Zoo for Domain Generalization**|Yimeng Chen et.al.|[2306.02595v1](http://arxiv.org/abs/2306.02595v1)|null|
+|**2023-06-05**|**Improved Active Multi-Task Representation Learning via Lasso**|Yiping Wang et.al.|[2306.02556v1](http://arxiv.org/abs/2306.02556v1)|null|
+|**2023-06-04**|**RadLing: Towards Efficient Radiology Report Understanding**|Rikhiya Ghosh et.al.|[2306.02492v1](http://arxiv.org/abs/2306.02492v1)|null|
 |**2023-06-02**|**Distilling Efficient Language-Specific Models for Cross-Lingual Transfer**|Alan Ansell et.al.|[2306.01709v1](http://arxiv.org/abs/2306.01709v1)|**[link](https://github.com/alanansell/bistil)**|
 |**2023-06-02**|**Towards In-context Scene Understanding**|Ivana Balažević et.al.|[2306.01667v1](http://arxiv.org/abs/2306.01667v1)|null|
 |**2023-06-02**|**Pretrained Language Model based Web Search Ranking: From Relevance to Satisfaction**|Canjia Li et.al.|[2306.01599v1](http://arxiv.org/abs/2306.01599v1)|null|
@@ -1041,12 +1051,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230606>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230607>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-05**|**InstructZero: Efficient Instruction Optimization for Black-Box Large Language Models**|Lichang Chen et.al.|[2306.03082v1](http://arxiv.org/abs/2306.03082v1)|**[link](https://github.com/lichang-chen/instructzero)**|
+|**2023-06-05**|**Simultaneous or Sequential Training? How Speech Representations Cooperate in a Multi-Task Self-Supervised Learning System**|Khazar Khorrami et.al.|[2306.02972v1](http://arxiv.org/abs/2306.02972v1)|null|
+|**2023-06-05**|**Zero shot framework for satellite image restoration**|Praveen Kandula et.al.|[2306.02921v1](http://arxiv.org/abs/2306.02921v1)|null|
+|**2023-06-05**|**Asymmetric Patch Sampling for Contrastive Learning**|Chengchao Shen et.al.|[2306.02854v1](http://arxiv.org/abs/2306.02854v1)|null|
+|**2023-06-05**|**Exploring the Relationship between Alignment and Cross-lingual Transfer in Multilingual Transformers**|Félix Gaschi et.al.|[2306.02790v1](http://arxiv.org/abs/2306.02790v1)|**[link](https://github.com/posos-tech/multilingual-alignment-and-transfer)**|
+|**2023-06-05**|**Efficient GPT Model Pre-training using Tensor Train Matrix Representation**|Viktoriia Chekalina et.al.|[2306.02697v1](http://arxiv.org/abs/2306.02697v1)|null|
+|**2023-06-05**|**Joint Pre-training and Local Re-training: Transferable Representation Learning on Multi-source Knowledge Graphs**|Zequn Sun et.al.|[2306.02679v1](http://arxiv.org/abs/2306.02679v1)|**[link](https://github.com/nju-websoft/mukge)**|
+|**2023-06-05**|**What Makes Entities Similar? A Similarity Flooding Perspective for Multi-sourced Knowledge Graph Embeddings**|Zequn Sun et.al.|[2306.02622v1](http://arxiv.org/abs/2306.02622v1)|**[link](https://github.com/nju-websoft/unify-ea-sf)**|
+|**2023-06-05**|**Explore and Exploit the Diverse Knowledge in Model Zoo for Domain Generalization**|Yimeng Chen et.al.|[2306.02595v1](http://arxiv.org/abs/2306.02595v1)|null|
+|**2023-06-05**|**Learning from Multi-View Representation for Point-Cloud Pre-Training**|Siming Yan et.al.|[2306.02558v1](http://arxiv.org/abs/2306.02558v1)|null|
 |**2023-06-02**|**Resolving Interference When Merging Models**|Prateek Yadav et.al.|[2306.01708v1](http://arxiv.org/abs/2306.01708v1)|**[link](https://github.com/prateeky2806/ties-merging)**|
 |**2023-06-02**|**Harnessing large-language models to generate private synthetic text**|Alexey Kurakin et.al.|[2306.01684v1](http://arxiv.org/abs/2306.01684v1)|null|
 |**2023-06-02**|**Enhancing CLIP with CLIP: Exploring Pseudolabeling for Limited-Label Prompt Tuning**|Cristina Menghini et.al.|[2306.01669v1](http://arxiv.org/abs/2306.01669v1)|**[link](https://github.com/batsresearch/menghini-enhanceclipwithclip-code)**|
@@ -2012,7 +2032,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230606>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230607>back to top</a>)</p>
 
 ## adaptor
 
@@ -2062,12 +2082,22 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230606>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230607>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-05**|**Asymmetric Patch Sampling for Contrastive Learning**|Chengchao Shen et.al.|[2306.02854v1](http://arxiv.org/abs/2306.02854v1)|null|
+|**2023-06-06**|**Towards Better Explanations for Object Detection**|Van Binh Truong et.al.|[2306.02744v2](http://arxiv.org/abs/2306.02744v2)|**[link](https://github.com/binh24399/d-close)**|
+|**2023-06-04**|**Sanity Checks for Saliency Methods Explaining Object Detectors**|Deepan Chakravarthi Padmanabhan et.al.|[2306.02424v1](http://arxiv.org/abs/2306.02424v1)|null|
+|**2023-06-04**|**RSSOD-Bench: A large-scale benchmark dataset for Salient Object Detection in Optical Remote Sensing Imagery**|Zhitong Xiong et.al.|[2306.02351v1](http://arxiv.org/abs/2306.02351v1)|null|
+|**2023-06-04**|**USD: Unknown Sensitive Detector Empowered by Decoupled Objectness and Segment Anything Model**|Yulin He et.al.|[2306.02275v1](http://arxiv.org/abs/2306.02275v1)|null|
+|**2023-06-04**|**Revisiting Class Imbalance for End-to-end Semi-Supervised Object Detection**|Purbayan Kar et.al.|[2306.02268v1](http://arxiv.org/abs/2306.02268v1)|null|
+|**2023-06-04**|**SAM3D: Zero-Shot 3D Object Detection via Segment Anything Model**|Dingyuan Zhang et.al.|[2306.02245v1](http://arxiv.org/abs/2306.02245v1)|**[link](https://github.com/dyzhang09/sam3d)**|
+|**2023-06-04**|**Detector Guidance for Multi-Object Text-to-Image Generation**|Luping Liu et.al.|[2306.02236v1](http://arxiv.org/abs/2306.02236v1)|**[link](https://github.com/luping-liu/detector-guidance)**|
+|**2023-06-03**|**Towards Complex Real-World Safety Factory Inspection: A High-Quality Dataset for Safety Clothing and Helmet Detection**|Fusheng Yu et.al.|[2306.02098v1](http://arxiv.org/abs/2306.02098v1)|null|
+|**2023-06-03**|**Mitigating Backdoor Attack Via Prerequisite Transformation**|Han Gao et.al.|[2306.01983v1](http://arxiv.org/abs/2306.01983v1)|null|
 |**2023-06-02**|**OCBEV: Object-Centric BEV Transformer for Multi-View 3D Object Detection**|Zhangyang Qi et.al.|[2306.01738v1](http://arxiv.org/abs/2306.01738v1)|null|
 |**2023-06-02**|**Group channel pruning and spatial attention distilling for object detection**|Yun Chu et.al.|[2306.01526v1](http://arxiv.org/abs/2306.01526v1)|**[link](https://github.com/chumingqian/Model_Compression_For_YOLOV3-V4)**|
 |**2023-06-02**|**Bi-LRFusion: Bi-Directional LiDAR-Radar Fusion for 3D Dynamic Object Detection**|Yingjie Wang et.al.|[2306.01438v1](http://arxiv.org/abs/2306.01438v1)|**[link](https://github.com/jessiew0806/bi-lrfusion)**|
@@ -2975,7 +3005,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230606>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230607>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
