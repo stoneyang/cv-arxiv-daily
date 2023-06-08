@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.07
+## Updated on 2023.06.08
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-06**|**Learning Human Mesh Recovery in 3D Scenes**|Zehong Shen et.al.|[2306.03847v1](http://arxiv.org/abs/2306.03847v1)|null|
+|**2023-06-06**|**Quick-Tune: Quickly Learning Which Pretrained Model to Finetune and How**|Sebastian Pineda Arango et.al.|[2306.03828v1](http://arxiv.org/abs/2306.03828v1)|null|
+|**2023-06-06**|**On the Difference of BERT-style and CLIP-style Text Encoders**|Zhihong Chen et.al.|[2306.03678v1](http://arxiv.org/abs/2306.03678v1)|**[link](https://github.com/zhjohnchan/bert-clip-synesthesia)**|
+|**2023-06-06**|**BioBLP: A Modular Framework for Learning on Multimodal Biomedical Knowledge Graphs**|Daniel Daza et.al.|[2306.03606v1](http://arxiv.org/abs/2306.03606v1)|**[link](https://github.com/elsevier-ai-lab/bioblp)**|
+|**2023-06-06**|**LegoNet: Alternating Model Blocks for Medical Image Segmentation**|Ikboljon Sobirov et.al.|[2306.03494v1](http://arxiv.org/abs/2306.03494v1)|null|
+|**2023-06-06**|**Alzheimer Disease Classification through ASR-based Transcriptions: Exploring the Impact of Punctuation and Pauses**|Lucía Gómez-Zaragozá et.al.|[2306.03443v1](http://arxiv.org/abs/2306.03443v1)|null|
+|**2023-06-06**|**Quantifying the Variability Collapse of Neural Networks**|Jing Xu et.al.|[2306.03440v1](http://arxiv.org/abs/2306.03440v1)|null|
+|**2023-06-06**|**Towards Alleviating the Object Bias in Prompt Tuning-based Factual Knowledge Extraction**|Yuhang Wang et.al.|[2306.03378v1](http://arxiv.org/abs/2306.03378v1)|**[link](https://github.com/astrodrew/mecod)**|
+|**2023-06-06**|**Identifying Shared Decodable Concepts in the Human Brain Using Image-Language Foundation Models**|Cory Efird et.al.|[2306.03375v1](http://arxiv.org/abs/2306.03375v1)|null|
+|**2023-06-07**|**Vid2Act: Activate Offline Videos for Visual RL**|Minting Pan et.al.|[2306.03360v2](http://arxiv.org/abs/2306.03360v2)|null|
 |**2023-06-05**|**SpQR: A Sparse-Quantized Representation for Near-Lossless LLM Weight Compression**|Tim Dettmers et.al.|[2306.03078v1](http://arxiv.org/abs/2306.03078v1)|null|
 |**2023-06-05**|**Sensitivity-Aware Finetuning for Accuracy Recovery on Deep Learning Hardware**|Lakshmi Nair et.al.|[2306.03076v1](http://arxiv.org/abs/2306.03076v1)|null|
 |**2023-06-05**|**Continual Learning with Pretrained Backbones by Tuning in the Input Space**|Simone Marullo et.al.|[2306.02947v1](http://arxiv.org/abs/2306.02947v1)|null|
@@ -1051,12 +1061,21 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230607>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230608>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-06**|**Learning with a Mole: Transferable latent spatial representations for navigation without reconstruction**|Guillaume Bono et.al.|[2306.03857v1](http://arxiv.org/abs/2306.03857v1)|null|
+|**2023-06-06**|**GEO-Bench: Toward Foundation Models for Earth Monitoring**|Alexandre Lacoste et.al.|[2306.03831v1](http://arxiv.org/abs/2306.03831v1)|**[link](https://github.com/servicenow/geo-bench)**|
+|**2023-06-06**|**Personalization Disentanglement for Federated Learning**|Peng Yan et.al.|[2306.03570v1](http://arxiv.org/abs/2306.03570v1)|null|
+|**2023-06-06**|**Take the Hint: Improving Arabic Diacritization with Partially-Diacritized Text**|Parnia Bahar et.al.|[2306.03557v1](http://arxiv.org/abs/2306.03557v1)|**[link](https://github.com/apptek/arabicdiacritizationinterspeech2023)**|
+|**2023-06-06**|**Subgraph Networks Based Contrastive Learning**|Jinhuan Wang et.al.|[2306.03506v1](http://arxiv.org/abs/2306.03506v1)|null|
+|**2023-06-06**|**On the Role of Attention in Prompt-tuning**|Samet Oymak et.al.|[2306.03435v1](http://arxiv.org/abs/2306.03435v1)|null|
+|**2023-06-05**|**Stack Over-Flowing with Results: The Case for Domain-Specific Pre-Training Over One-Size-Fits-All Models**|Manisha Mukherjee et.al.|[2306.03268v1](http://arxiv.org/abs/2306.03268v1)|null|
+|**2023-06-05**|**Discovering Novel Biological Traits From Images Using Phylogeny-Guided Neural Networks**|Mohannad Elhamod et.al.|[2306.03228v1](http://arxiv.org/abs/2306.03228v1)|**[link](https://github.com/elhamod/phylonn)**|
+|**2023-06-05**|**Fair Patient Model: Mitigating Bias in the Patient Representation Learned from the Electronic Health Records**|Sonish Sivarajkumar et.al.|[2306.03179v1](http://arxiv.org/abs/2306.03179v1)|null|
 |**2023-06-05**|**InstructZero: Efficient Instruction Optimization for Black-Box Large Language Models**|Lichang Chen et.al.|[2306.03082v1](http://arxiv.org/abs/2306.03082v1)|**[link](https://github.com/lichang-chen/instructzero)**|
 |**2023-06-05**|**Simultaneous or Sequential Training? How Speech Representations Cooperate in a Multi-Task Self-Supervised Learning System**|Khazar Khorrami et.al.|[2306.02972v1](http://arxiv.org/abs/2306.02972v1)|null|
 |**2023-06-05**|**Zero shot framework for satellite image restoration**|Praveen Kandula et.al.|[2306.02921v1](http://arxiv.org/abs/2306.02921v1)|null|
@@ -2032,7 +2051,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230607>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230608>back to top</a>)</p>
 
 ## adaptor
 
@@ -2082,12 +2101,20 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230607>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230608>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-06**|**Human-imperceptible, Machine-recognizable Images**|Fusheng Hao et.al.|[2306.03679v1](http://arxiv.org/abs/2306.03679v1)|**[link](https://github.com/fushenghao/privacypreservingml)**|
+|**2023-06-06**|**Mutual Information Regularization for Weakly-supervised RGB-D Salient Object Detection**|Aixuan Li et.al.|[2306.03630v1](http://arxiv.org/abs/2306.03630v1)|**[link](https://github.com/baneitixiaomai/mirv)**|
+|**2023-06-06**|**Real-Time Onboard Object Detection for Augmented Reality: Enhancing Head-Mounted Display with YOLOv8**|Mikołaj Łysakowski et.al.|[2306.03537v1](http://arxiv.org/abs/2306.03537v1)|null|
+|**2023-06-06**|**Benchmarking Robustness of AI-enabled Multi-sensor Fusion Systems: Challenges and Opportunities**|Xinyu Gao et.al.|[2306.03454v1](http://arxiv.org/abs/2306.03454v1)|null|
+|**2023-06-06**|**G-CAME: Gaussian-Class Activation Mapping Explainer for Object Detectors**|Quoc Khanh Nguyen et.al.|[2306.03400v1](http://arxiv.org/abs/2306.03400v1)|null|
+|**2023-06-05**|**RACECAR -- The Dataset for High-Speed Autonomous Racing**|Amar Kulkarni et.al.|[2306.03252v1](http://arxiv.org/abs/2306.03252v1)|null|
+|**2023-06-05**|**MoDAR: Using Motion Forecasting for 3D Object Detection in Point Cloud Sequences**|Yingwei Li et.al.|[2306.03206v1](http://arxiv.org/abs/2306.03206v1)|null|
+|**2023-06-05**|**ChatGPT as a mapping assistant: A novel method to enrich maps with generative AI and content derived from street-level photographs**|Levente Juhász et.al.|[2306.03204v1](http://arxiv.org/abs/2306.03204v1)|null|
 |**2023-06-05**|**Asymmetric Patch Sampling for Contrastive Learning**|Chengchao Shen et.al.|[2306.02854v1](http://arxiv.org/abs/2306.02854v1)|null|
 |**2023-06-06**|**Towards Better Explanations for Object Detection**|Van Binh Truong et.al.|[2306.02744v2](http://arxiv.org/abs/2306.02744v2)|**[link](https://github.com/binh24399/d-close)**|
 |**2023-06-04**|**Sanity Checks for Saliency Methods Explaining Object Detectors**|Deepan Chakravarthi Padmanabhan et.al.|[2306.02424v1](http://arxiv.org/abs/2306.02424v1)|null|
@@ -3005,7 +3032,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230607>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230608>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
