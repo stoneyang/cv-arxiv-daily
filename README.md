@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.08
+## Updated on 2023.06.09
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-07**|**Transformers as Statisticians: Provable In-Context Learning with In-Context Algorithm Selection**|Yu Bai et.al.|[2306.04637v1](http://arxiv.org/abs/2306.04637v1)|null|
+|**2023-06-07**|**Proximity-Informed Calibration for Deep Neural Networks**|Miao Xiong et.al.|[2306.04590v1](http://arxiv.org/abs/2306.04590v1)|**[link](https://github.com/miaoxiong2320/proximitybias-calibration)**|
+|**2023-06-07**|**Zambezi Voice: A Multilingual Speech Corpus for Zambian Languages**|Claytone Sikasote et.al.|[2306.04428v1](http://arxiv.org/abs/2306.04428v1)|**[link](https://github.com/unza-speech-lab/zambezi-voice)**|
+|**2023-06-07**|**SF-FSDA: Source-Free Few-Shot Domain Adaptive Object Detection with Efficient Labeled Data Factory**|Han Sun et.al.|[2306.04385v1](http://arxiv.org/abs/2306.04385v1)|null|
+|**2023-06-07**|**Youku-mPLUG: A 10 Million Large-scale Chinese Video-Language Dataset for Pre-training and Benchmarks**|Haiyang Xu et.al.|[2306.04362v1](http://arxiv.org/abs/2306.04362v1)|**[link](https://github.com/x-plug/youku-mplug)**|
+|**2023-06-08**|**GPT Self-Supervision for a Better Data Annotator**|Xiaohuan Pei et.al.|[2306.04349v2](http://arxiv.org/abs/2306.04349v2)|null|
+|**2023-06-08**|**Coarse Is Better? A New Pipeline Towards Self-Supervised Learning with Uncurated Images**|Ke Zhu et.al.|[2306.04244v2](http://arxiv.org/abs/2306.04244v2)|null|
+|**2023-06-07**|**Leveraging Knowledge Graph Embeddings to Enhance Contextual Representations for Relation Extraction**|Fréjus A. A. Laleye et.al.|[2306.04203v1](http://arxiv.org/abs/2306.04203v1)|null|
+|**2023-06-07**|**From the One, Judge of the Whole: Typed Entailment Graph Construction with Predicate Generation**|Zhibin Chen et.al.|[2306.04170v1](http://arxiv.org/abs/2306.04170v1)|**[link](https://github.com/zacharychenpk/tp-egg)**|
+|**2023-06-07**|**Matte Anything: Interactive Natural Image Matting with Segment Anything Models**|Jingfeng Yao et.al.|[2306.04121v1](http://arxiv.org/abs/2306.04121v1)|null|
 |**2023-06-06**|**Learning Human Mesh Recovery in 3D Scenes**|Zehong Shen et.al.|[2306.03847v1](http://arxiv.org/abs/2306.03847v1)|null|
 |**2023-06-06**|**Quick-Tune: Quickly Learning Which Pretrained Model to Finetune and How**|Sebastian Pineda Arango et.al.|[2306.03828v1](http://arxiv.org/abs/2306.03828v1)|null|
 |**2023-06-06**|**On the Difference of BERT-style and CLIP-style Text Encoders**|Zhihong Chen et.al.|[2306.03678v1](http://arxiv.org/abs/2306.03678v1)|**[link](https://github.com/zhjohnchan/bert-clip-synesthesia)**|
@@ -1061,12 +1071,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230608>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230609>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-07**|**Revisiting Out-of-distribution Robustness in NLP: Benchmark, Analysis, and LLMs Evaluations**|Lifan Yuan et.al.|[2306.04618v1](http://arxiv.org/abs/2306.04618v1)|null|
+|**2023-06-07**|**Optimal sensor placement for reconstructing wind pressure field around buildings using compressed sensing**|Xihaier Luo et.al.|[2306.04518v1](http://arxiv.org/abs/2306.04518v1)|null|
+|**2023-06-07**|**Improving neural network representations using human similarity judgments**|Lukas Muttenthaler et.al.|[2306.04507v1](http://arxiv.org/abs/2306.04507v1)|null|
+|**2023-06-07**|**Label Aware Speech Representation Learning For Language Identification**|Shikhar Vashishth et.al.|[2306.04374v1](http://arxiv.org/abs/2306.04374v1)|null|
+|**2023-06-07**|**Large-Scale Cell Representation Learning via Divide-and-Conquer Contrastive Learning**|Suyuan Zhao et.al.|[2306.04371v1](http://arxiv.org/abs/2306.04371v1)|null|
+|**2023-06-07**|**ViDA: Homeostatic Visual Domain Adapter for Continual Test Time Adaptation**|Jiaming Liu et.al.|[2306.04344v1](http://arxiv.org/abs/2306.04344v1)|null|
+|**2023-06-07**|**Cross-Genre Argument Mining: Can Language Models Automatically Fill in Missing Discourse Markers?**|Gil Rocha et.al.|[2306.04314v1](http://arxiv.org/abs/2306.04314v1)|null|
+|**2023-06-07**|**On the Generalization of Multi-modal Contrastive Learning**|Qi Zhang et.al.|[2306.04272v1](http://arxiv.org/abs/2306.04272v1)|null|
+|**2023-06-07**|**Randomized 3D Scene Generation for Generalizable Self-supervised Pre-training**|Lanxiao Li et.al.|[2306.04237v1](http://arxiv.org/abs/2306.04237v1)|null|
+|**2023-06-07**|**Self-supervised Audio Teacher-Student Transformer for Both Clip-level and Frame-level Tasks**|Xian Li et.al.|[2306.04186v1](http://arxiv.org/abs/2306.04186v1)|null|
 |**2023-06-06**|**Learning with a Mole: Transferable latent spatial representations for navigation without reconstruction**|Guillaume Bono et.al.|[2306.03857v1](http://arxiv.org/abs/2306.03857v1)|null|
 |**2023-06-06**|**GEO-Bench: Toward Foundation Models for Earth Monitoring**|Alexandre Lacoste et.al.|[2306.03831v1](http://arxiv.org/abs/2306.03831v1)|**[link](https://github.com/servicenow/geo-bench)**|
 |**2023-06-06**|**Personalization Disentanglement for Federated Learning**|Peng Yan et.al.|[2306.03570v1](http://arxiv.org/abs/2306.03570v1)|null|
@@ -2051,7 +2071,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230608>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230609>back to top</a>)</p>
 
 ## adaptor
 
@@ -2101,12 +2121,18 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230608>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230609>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-08**|**Integrating Geometric Control into Text-to-Image Diffusion Models for High-Quality Detection Data Generation via Text Prompt**|Kai Chen et.al.|[2306.04607v2](http://arxiv.org/abs/2306.04607v2)|null|
+|**2023-06-07**|**ICON$^2$: Reliably Benchmarking Predictive Inequity in Object Detection**|Sruthi Sudhakar et.al.|[2306.04482v1](http://arxiv.org/abs/2306.04482v1)|null|
+|**2023-06-06**|**Referring Expression Comprehension Using Language Adaptive Inference**|Wei Su et.al.|[2306.04451v1](http://arxiv.org/abs/2306.04451v1)|null|
+|**2023-06-07**|**SF-FSDA: Source-Free Few-Shot Domain Adaptive Object Detection with Efficient Labeled Data Factory**|Han Sun et.al.|[2306.04385v1](http://arxiv.org/abs/2306.04385v1)|null|
+|**2023-06-07**|**Randomized 3D Scene Generation for Generalizable Self-supervised Pre-training**|Lanxiao Li et.al.|[2306.04237v1](http://arxiv.org/abs/2306.04237v1)|null|
+|**2023-06-07**|**StructuredMesh: 3D Structured Optimization of Façade Components on Photogrammetric Mesh Models using Binary Integer Programming**|Libin Wang et.al.|[2306.04184v1](http://arxiv.org/abs/2306.04184v1)|null|
 |**2023-06-06**|**Human-imperceptible, Machine-recognizable Images**|Fusheng Hao et.al.|[2306.03679v1](http://arxiv.org/abs/2306.03679v1)|**[link](https://github.com/fushenghao/privacypreservingml)**|
 |**2023-06-06**|**Mutual Information Regularization for Weakly-supervised RGB-D Salient Object Detection**|Aixuan Li et.al.|[2306.03630v1](http://arxiv.org/abs/2306.03630v1)|**[link](https://github.com/baneitixiaomai/mirv)**|
 |**2023-06-06**|**Real-Time Onboard Object Detection for Augmented Reality: Enhancing Head-Mounted Display with YOLOv8**|Mikołaj Łysakowski et.al.|[2306.03537v1](http://arxiv.org/abs/2306.03537v1)|null|
@@ -3032,7 +3058,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230608>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230609>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
