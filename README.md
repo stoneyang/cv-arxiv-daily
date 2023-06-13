@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.12
+## Updated on 2023.06.13
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-09**|**Virtual Node Tuning for Few-shot Node Classification**|Zhen Tan et.al.|[2306.06063v1](http://arxiv.org/abs/2306.06063v1)|null|
+|**2023-06-09**|**Benchmarking self-supervised video representation learning**|Akash Kumar et.al.|[2306.06010v1](http://arxiv.org/abs/2306.06010v1)|null|
+|**2023-06-09**|**Exploring Effective Mask Sampling Modeling for Neural Image Compression**|Lin Liu et.al.|[2306.05704v1](http://arxiv.org/abs/2306.05704v1)|null|
+|**2023-06-09**|**Embodied Executable Policy Learning with Language-based Scene Summarization**|Jielin Qiu et.al.|[2306.05696v1](http://arxiv.org/abs/2306.05696v1)|null|
+|**2023-06-09**|**On the Importance of Feature Decorrelation for Unsupervised Representation Learning in Reinforcement Learning**|Hojoon Lee et.al.|[2306.05637v1](http://arxiv.org/abs/2306.05637v1)|**[link](https://github.com/dojeon-ai/simtpr)**|
+|**2023-06-08**|**Hexatagging: Projective Dependency Parsing as Tagging**|Afra Amini et.al.|[2306.05477v1](http://arxiv.org/abs/2306.05477v1)|null|
 |**2023-06-08**|**Tracking Objects with 3D Representation from Videos**|Jiawei He et.al.|[2306.05416v1](http://arxiv.org/abs/2306.05416v1)|null|
 |**2023-06-08**|**Mixture-of-Domain-Adapters: Decoupling and Injecting Domain Knowledge to Pre-trained Language Models Memories**|Shizhe Diao et.al.|[2306.05406v1](http://arxiv.org/abs/2306.05406v1)|**[link](https://github.com/amano-aki/mixture-of-domain-adapters)**|
 |**2023-06-08**|**RDumb: A simple approach that questions our progress in continual test-time adaptation**|Ori Press et.al.|[2306.05401v1](http://arxiv.org/abs/2306.05401v1)|**[link](https://github.com/oripress/ccc)**|
@@ -1081,12 +1087,19 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230612>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230613>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-09**|**HyP-NeRF: Learning Improved NeRF Priors using a HyperNetwork**|Bipasha Sen et.al.|[2306.06093v1](http://arxiv.org/abs/2306.06093v1)|null|
+|**2023-06-09**|**How Does Fine-Tuning Impact Out-of-Distribution Detection for Vision-Language Models?**|Yifei Ming et.al.|[2306.06048v1](http://arxiv.org/abs/2306.06048v1)|null|
+|**2023-06-09**|**Benchmarking self-supervised video representation learning**|Akash Kumar et.al.|[2306.06010v1](http://arxiv.org/abs/2306.06010v1)|null|
+|**2023-06-09**|**Agent market orders representation through a contrastive learning approach**|Ruihua Ruan et.al.|[2306.05987v1](http://arxiv.org/abs/2306.05987v1)|null|
+|**2023-06-09**|**On the Challenges and Perspectives of Foundation Models for Medical Image Analysis**|Shaoting Zhang et.al.|[2306.05705v1](http://arxiv.org/abs/2306.05705v1)|null|
+|**2023-06-09**|**Low-rank Adaptation Method for Wav2vec2-based Fake Audio Detection**|Chenglong Wang et.al.|[2306.05617v1](http://arxiv.org/abs/2306.05617v1)|null|
+|**2023-06-08**|**Learning Fine-grained View-Invariant Representations from Unpaired Ego-Exo Videos via Temporal Alignment**|Zihui Xue et.al.|[2306.05526v1](http://arxiv.org/abs/2306.05526v1)|null|
 |**2023-06-08**|**Predictive Modeling of Equine Activity Budgets Using a 3D Skeleton Reconstructed from Surveillance Recordings**|Ernest Pokropek et.al.|[2306.05311v1](http://arxiv.org/abs/2306.05311v1)|null|
 |**2023-06-08**|**Factorized Contrastive Learning: Going Beyond Multi-view Redundancy**|Paul Pu Liang et.al.|[2306.05268v1](http://arxiv.org/abs/2306.05268v1)|**[link](https://github.com/pliang279/factorcl)**|
 |**2023-06-08**|**Neuromorphic Sampling of Signals in Shift-Invariant Spaces**|Abijith Jagannath Kamath et.al.|[2306.05103v1](http://arxiv.org/abs/2306.05103v1)|null|
@@ -2088,7 +2101,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230612>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230613>back to top</a>)</p>
 
 ## adaptor
 
@@ -2138,15 +2151,21 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230612>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230613>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-09**|**DetZero: Rethinking Offboard 3D Object Detection with Long-term Sequential Point Clouds**|Tao Ma et.al.|[2306.06023v1](http://arxiv.org/abs/2306.06023v1)|**[link](https://github.com/pjlab-adg/detzero)**|
+|**2023-06-09**|**How Object Information Improves Skeleton-based Human Action Recognition in Assembly Tasks**|Dustin Aganian et.al.|[2306.05844v1](http://arxiv.org/abs/2306.05844v1)|null|
+|**2023-06-09**|**Learning Domain-Aware Detection Head with Prompt Tuning**|Haochen Li et.al.|[2306.05718v1](http://arxiv.org/abs/2306.05718v1)|null|
+|**2023-06-09**|**Illumination Controllable Dehazing Network based on Unsupervised Retinex Embedding**|Jie Gui et.al.|[2306.05675v1](http://arxiv.org/abs/2306.05675v1)|**[link](https://github.com/xiaofeng-life/icdehazing)**|
+|**2023-06-09**|**Improving LiDAR 3D Object Detection via Range-based Point Cloud Density Optimization**|Eduardo R. Corral-Soto et.al.|[2306.05663v1](http://arxiv.org/abs/2306.05663v1)|null|
+|**2023-06-08**|**Multi-Modal Classifiers for Open-Vocabulary Object Detection**|Prannay Kaul et.al.|[2306.05493v1](http://arxiv.org/abs/2306.05493v1)|null|
 |**2023-06-08**|**2D Supervised Monocular 3D Object Detection by Global-to-Local 3D Reconstruction**|Jiawei He et.al.|[2306.05418v1](http://arxiv.org/abs/2306.05418v1)|null|
 |**2023-06-08**|**R-MAE: Regions Meet Masked Autoencoders**|Duy-Kien Nguyen et.al.|[2306.05411v1](http://arxiv.org/abs/2306.05411v1)|**[link](https://github.com/facebookresearch/r-mae)**|
-|**2023-06-08**|**Automatic Image Blending Algorithm Based on SAM and DINO**|Haochen Xue et.al.|[2306.05382v1](http://arxiv.org/abs/2306.05382v1)|null|
+|**2023-06-11**|**Automatic Image Blending Algorithm Based on SAM and DINO**|Haochen Xue et.al.|[2306.05382v2](http://arxiv.org/abs/2306.05382v2)|null|
 |**2023-06-08**|**A Melting Pot of Evolution and Learning**|Moshe Sipper et.al.|[2306.04971v1](http://arxiv.org/abs/2306.04971v1)|null|
 |**2023-06-08**|**ExtPerFC: An Efficient 2D and 3D Perception Hardware-Software Framework for Mobile Cobot**|Tuan Dang et.al.|[2306.04853v1](http://arxiv.org/abs/2306.04853v1)|**[link](https://github.com/tuantdang/perception_framework)**|
 |**2023-06-08**|**ScaleDet: A Scalable Multi-Dataset Object Detector**|Yanbei Chen et.al.|[2306.04849v1](http://arxiv.org/abs/2306.04849v1)|null|
@@ -3083,7 +3102,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230612>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230613>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
