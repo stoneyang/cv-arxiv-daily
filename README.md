@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.14
+## Updated on 2023.06.15
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-13**|**Image Captioners Are Scalable Vision Learners Too**|Michael Tschannen et.al.|[2306.07915v1](http://arxiv.org/abs/2306.07915v1)|null|
+|**2023-06-13**|**GEmo-CLAP: Gender-Attribute-Enhanced Contrastive Language-Audio Pretraining for Speech Emotion Recognition**|Yu Pan et.al.|[2306.07848v1](http://arxiv.org/abs/2306.07848v1)|null|
+|**2023-06-13**|**Visual Language Pretrained Multiple Instance Zero-Shot Transfer for Histopathology Images**|Ming Y. Lu et.al.|[2306.07831v1](http://arxiv.org/abs/2306.07831v1)|null|
+|**2023-06-13**|**Monolingual and Cross-Lingual Knowledge Transfer for Topic Classification**|Dmitry Karpov et.al.|[2306.07797v1](http://arxiv.org/abs/2306.07797v1)|null|
+|**2023-06-13**|**Multi-objective Molecular Optimization for Opioid Use Disorder Treatment Using Generative Network Complex**|Hongsong Feng et.al.|[2306.07484v1](http://arxiv.org/abs/2306.07484v1)|null|
+|**2023-06-13**|**Resources for Brewing BEIR: Reproducible Reference Models and an Official Leaderboard**|Ehsan Kamalloo et.al.|[2306.07471v1](http://arxiv.org/abs/2306.07471v1)|null|
 |**2023-06-12**|**Scalable 3D Captioning with Pretrained Models**|Tiange Luo et.al.|[2306.07279v1](http://arxiv.org/abs/2306.07279v1)|null|
 |**2023-06-12**|**MovieFactory: Automatic Movie Creation from Text using Large Generative Models for Language and Images**|Junchen Zhu et.al.|[2306.07257v1](http://arxiv.org/abs/2306.07257v1)|null|
 |**2023-06-13**|**Fair Learning to Rank with Distribution-free Risk Control**|Ruocheng Guo et.al.|[2306.07188v2](http://arxiv.org/abs/2306.07188v2)|null|
@@ -1097,12 +1103,17 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230614>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230615>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-13**|**Visual Language Pretrained Multiple Instance Zero-Shot Transfer for Histopathology Images**|Ming Y. Lu et.al.|[2306.07831v1](http://arxiv.org/abs/2306.07831v1)|null|
+|**2023-06-13**|**Time-aware Graph Structure Learning via Sequence Prediction on Temporal Graphs**|Haozhen Zhang et.al.|[2306.07699v1](http://arxiv.org/abs/2306.07699v1)|null|
+|**2023-06-13**|**Rethink the Effectiveness of Text Data Augmentation: An Empirical Analysis**|Zhengxiang Shi et.al.|[2306.07664v1](http://arxiv.org/abs/2306.07664v1)|**[link](https://github.com/zhengxiangshi/powerfulpromptft)**|
+|**2023-06-13**|**TRACED: Execution-aware Pre-training for Source Code**|Yangruibo Ding et.al.|[2306.07487v1](http://arxiv.org/abs/2306.07487v1)|null|
+|**2023-06-12**|**Probing Quantifier Comprehension in Large Language Models**|Akshat Gupta et.al.|[2306.07384v1](http://arxiv.org/abs/2306.07384v1)|null|
 |**2023-06-12**|**Controlling Text-to-Image Diffusion by Orthogonal Finetuning**|Zeju Qiu et.al.|[2306.07280v1](http://arxiv.org/abs/2306.07280v1)|null|
 |**2023-06-12**|**A Survey of Vision-Language Pre-training from the Lens of Multimodal Machine Translation**|Jeremy Gwinnup et.al.|[2306.07198v1](http://arxiv.org/abs/2306.07198v1)|null|
 |**2023-06-12**|**Augmenting Language Models with Long-Term Memory**|Weizhi Wang et.al.|[2306.07174v1](http://arxiv.org/abs/2306.07174v1)|**[link](https://github.com/Victorwz/LongMem)**|
@@ -2121,7 +2132,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230614>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230615>back to top</a>)</p>
 
 ## adaptor
 
@@ -2171,12 +2182,18 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230614>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230615>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-13**|**Rethinking pose estimation in crowds: overcoming the detection information-bottleneck and ambiguity**|Mu Zhou et.al.|[2306.07879v1](http://arxiv.org/abs/2306.07879v1)|null|
+|**2023-06-13**|**LMD: Light-weight Prediction Quality Estimation for Object Detection in Lidar Point Clouds**|Tobias Riedlinger et.al.|[2306.07835v1](http://arxiv.org/abs/2306.07835v1)|**[link](https://github.com/janmarcelkezmann/metadetect3d)**|
+|**2023-06-13**|**Learning to Estimate 6DoF Pose from Limited Data: A Few-Shot, Generalizable Approach using RGB Images**|Panwang Pan et.al.|[2306.07598v1](http://arxiv.org/abs/2306.07598v1)|null|
+|**2023-06-13**|**Referring Camouflaged Object Detection**|Xuying Zhang et.al.|[2306.07532v1](http://arxiv.org/abs/2306.07532v1)|null|
+|**2023-06-13**|**Grounded Image Captioning in Top-down View**|Chen Cai et.al.|[2306.07490v1](http://arxiv.org/abs/2306.07490v1)|null|
+|**2023-06-12**|**Towards a Robust Sensor Fusion Step for 3D Object Detection on Corrupted Data**|Maciej K. Wozniak et.al.|[2306.07344v1](http://arxiv.org/abs/2306.07344v1)|null|
 |**2023-06-13**|**detrex: Benchmarking Detection Transformers**|Tianhe Ren et.al.|[2306.07265v2](http://arxiv.org/abs/2306.07265v2)|**[link](https://github.com/IDEA-Research/detrex)**|
 |**2023-06-12**|**Revisiting Token Pruning for Object Detection and Instance Segmentation**|Yifei Liu et.al.|[2306.07050v1](http://arxiv.org/abs/2306.07050v1)|null|
 |**2023-06-12**|**In-context Cross-Density Adaptation on Noisy Mammogram Abnormalities Detection**|Huy T. Nguyen et.al.|[2306.06893v1](http://arxiv.org/abs/2306.06893v1)|null|
@@ -3131,7 +3148,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230614>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230615>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
