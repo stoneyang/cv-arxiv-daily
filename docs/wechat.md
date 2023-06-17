@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2023.06.16
+> Updated on 2023.06.17
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,16 @@
 
 ## pretrain
 
+- 2023-06-15, **Segment Any Point Cloud Sequences by Distilling Vision Foundation Models**, Youquan Liu et.al., Paper: [http://arxiv.org/abs/2306.09347v1](http://arxiv.org/abs/2306.09347v1), Code: **[https://github.com/youquanl/segment-any-point-cloud](https://github.com/youquanl/segment-any-point-cloud)**
+- 2023-06-15, **Semantic HELM: An Interpretable Memory for Reinforcement Learning**, Fabian Paischer et.al., Paper: [http://arxiv.org/abs/2306.09312v1](http://arxiv.org/abs/2306.09312v1), Code: **[https://github.com/ml-jku/helm](https://github.com/ml-jku/helm)**
+- 2023-06-15, **Text Promptable Surgical Instrument Segmentation with Vision-Language Models**, Zijian Zhou et.al., Paper: [http://arxiv.org/abs/2306.09244v1](http://arxiv.org/abs/2306.09244v1)
+- 2023-06-15, **SCALE: Scaling up the Complexity for Advanced Language Model Evaluation**, Vishvaksenan Rasiah et.al., Paper: [http://arxiv.org/abs/2306.09237v1](http://arxiv.org/abs/2306.09237v1)
+- 2023-06-15, **Audio Tagging on an Embedded Hardware Platform**, Gabriel Bibbo et.al., Paper: [http://arxiv.org/abs/2306.09106v1](http://arxiv.org/abs/2306.09106v1)
+- 2023-06-15, **Macaw-LLM: Multi-Modal Language Modeling with Image, Audio, Video, and Text Integration**, Chenyang Lyu et.al., Paper: [http://arxiv.org/abs/2306.09093v1](http://arxiv.org/abs/2306.09093v1), Code: **[https://github.com/lyuchenyang/macaw-llm](https://github.com/lyuchenyang/macaw-llm)**
+- 2023-06-15, **COSA: Concatenated Sample Pretrained Vision-Language Foundation Model**, Sihan Chen et.al., Paper: [http://arxiv.org/abs/2306.09085v1](http://arxiv.org/abs/2306.09085v1), Code: **[https://github.com/txh-mercury/cosa](https://github.com/txh-mercury/cosa)**
+- 2023-06-15, **Behavioral Cloning via Search in Embedded Demonstration Dataset**, Federico Malato et.al., Paper: [http://arxiv.org/abs/2306.09082v1](http://arxiv.org/abs/2306.09082v1)
+- 2023-06-15, **When Hyperspectral Image Classification Meets Diffusion Models: An Unsupervised Feature Learning Framework**, Jingyi Zhou et.al., Paper: [http://arxiv.org/abs/2306.08964v1](http://arxiv.org/abs/2306.08964v1)
+- 2023-06-15, **A Comparison of Self-Supervised Pretraining Approaches for Predicting Disease Risk from Chest Radiograph Images**, Yanru Chen et.al., Paper: [http://arxiv.org/abs/2306.08955v1](http://arxiv.org/abs/2306.08955v1)
 - 2023-06-13, **Image Captioners Are Scalable Vision Learners Too**, Michael Tschannen et.al., Paper: [http://arxiv.org/abs/2306.07915v1](http://arxiv.org/abs/2306.07915v1)
 - 2023-06-13, **GEmo-CLAP: Gender-Attribute-Enhanced Contrastive Language-Audio Pretraining for Speech Emotion Recognition**, Yu Pan et.al., Paper: [http://arxiv.org/abs/2306.07848v1](http://arxiv.org/abs/2306.07848v1)
 - 2023-06-13, **Visual Language Pretrained Multiple Instance Zero-Shot Transfer for Histopathology Images**, Ming Y. Lu et.al., Paper: [http://arxiv.org/abs/2306.07831v1](http://arxiv.org/abs/2306.07831v1)
@@ -1101,10 +1111,20 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20230616>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230617>back to top</a>)</p>
 
 ## downstream
 
+- 2023-06-15, **Segment Any Point Cloud Sequences by Distilling Vision Foundation Models**, Youquan Liu et.al., Paper: [http://arxiv.org/abs/2306.09347v1](http://arxiv.org/abs/2306.09347v1), Code: **[https://github.com/youquanl/segment-any-point-cloud](https://github.com/youquanl/segment-any-point-cloud)**
+- 2023-06-15, **Seeing the Pose in the Pixels: Learning Pose-Aware Representations in Vision Transformers**, Dominick Reilly et.al., Paper: [http://arxiv.org/abs/2306.09331v1](http://arxiv.org/abs/2306.09331v1), Code: **[https://github.com/dominickrei/poseawarevt](https://github.com/dominickrei/poseawarevt)**
+- 2023-06-15, **Robustness Analysis on Foundational Segmentation Models**, Madeline Chantry Schiappa et.al., Paper: [http://arxiv.org/abs/2306.09278v1](http://arxiv.org/abs/2306.09278v1)
+- 2023-06-15, **DIFFender: Diffusion-Based Adversarial Defense against Patch Attacks in the Physical World**, Caixin Kang et.al., Paper: [http://arxiv.org/abs/2306.09124v1](http://arxiv.org/abs/2306.09124v1)
+- 2023-06-15, **On Certified Generalization in Structured Prediction**, Bastian Boll et.al., Paper: [http://arxiv.org/abs/2306.09112v1](http://arxiv.org/abs/2306.09112v1)
+- 2023-06-15, **COSA: Concatenated Sample Pretrained Vision-Language Foundation Model**, Sihan Chen et.al., Paper: [http://arxiv.org/abs/2306.09085v1](http://arxiv.org/abs/2306.09085v1), Code: **[https://github.com/txh-mercury/cosa](https://github.com/txh-mercury/cosa)**
+- 2023-06-15, **Improving Explainability of Disentangled Representations using Multipath-Attribution Mappings**, Lukas Klein et.al., Paper: [http://arxiv.org/abs/2306.09035v1](http://arxiv.org/abs/2306.09035v1), Code: **[https://github.com/iml-dkfz/m-pax_lib](https://github.com/iml-dkfz/m-pax_lib)**
+- 2023-06-15, **Neural Fields with Hard Constraints of Arbitrary Differential Order**, Fangcheng Zhong et.al., Paper: [http://arxiv.org/abs/2306.08943v1](http://arxiv.org/abs/2306.08943v1)
+- 2023-06-15, **LOVM: Language-Only Vision Model Selection**, Orr Zohar et.al., Paper: [http://arxiv.org/abs/2306.08893v1](http://arxiv.org/abs/2306.08893v1)
+- 2023-06-15, **Probabilistic-based Feature Embedding of 4-D Light Fields for Compressive Imaging and Denoising**, Xianqiang Lyu et.al., Paper: [http://arxiv.org/abs/2306.08836v1](http://arxiv.org/abs/2306.08836v1), Code: **[https://github.com/lyuxianqiang/lfca-cr-net](https://github.com/lyuxianqiang/lfca-cr-net)**
 - 2023-06-13, **Visual Language Pretrained Multiple Instance Zero-Shot Transfer for Histopathology Images**, Ming Y. Lu et.al., Paper: [http://arxiv.org/abs/2306.07831v1](http://arxiv.org/abs/2306.07831v1)
 - 2023-06-13, **Time-aware Graph Structure Learning via Sequence Prediction on Temporal Graphs**, Haozhen Zhang et.al., Paper: [http://arxiv.org/abs/2306.07699v1](http://arxiv.org/abs/2306.07699v1)
 - 2023-06-13, **Rethink the Effectiveness of Text Data Augmentation: An Empirical Analysis**, Zhengxiang Shi et.al., Paper: [http://arxiv.org/abs/2306.07664v1](http://arxiv.org/abs/2306.07664v1), Code: **[https://github.com/zhengxiangshi/powerfulpromptft](https://github.com/zhengxiangshi/powerfulpromptft)**
@@ -2128,7 +2148,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20230616>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230617>back to top</a>)</p>
 
 ## adaptor
 
@@ -2176,10 +2196,20 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20230616>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230617>back to top</a>)</p>
 
 ## object detection
 
+- 2023-06-15, **Single-Stage Visual Query Localization in Egocentric Videos**, Hanwen Jiang et.al., Paper: [http://arxiv.org/abs/2306.09324v1](http://arxiv.org/abs/2306.09324v1)
+- 2023-06-15, **Infinite Photorealistic Worlds using Procedural Generation**, Alexander Raistrick et.al., Paper: [http://arxiv.org/abs/2306.09310v1](http://arxiv.org/abs/2306.09310v1)
+- 2023-06-15, **Robustness Analysis on Foundational Segmentation Models**, Madeline Chantry Schiappa et.al., Paper: [http://arxiv.org/abs/2306.09278v1](http://arxiv.org/abs/2306.09278v1)
+- 2023-06-15, **DEYOv2: Rank Feature with Greedy Matching for End-to-End Object Detection**, Haodong Ouyang et.al., Paper: [http://arxiv.org/abs/2306.09165v1](http://arxiv.org/abs/2306.09165v1)
+- 2023-06-15, **Overcoming the Limitations of Localization Uncertainty: Efficient & Exact Non-Linear Post-Processing and Calibration**, Moussa Kassem Sbeyti et.al., Paper: [http://arxiv.org/abs/2306.08981v1](http://arxiv.org/abs/2306.08981v1)
+- 2023-06-15, **A Comparison of Self-Supervised Pretraining Approaches for Predicting Disease Risk from Chest Radiograph Images**, Yanru Chen et.al., Paper: [http://arxiv.org/abs/2306.08955v1](http://arxiv.org/abs/2306.08955v1)
+- 2023-06-14, **Predict to Detect: Prediction-guided 3D Object Detection using Sequential Images**, Sanmin Kim et.al., Paper: [http://arxiv.org/abs/2306.08528v1](http://arxiv.org/abs/2306.08528v1)
+- 2023-06-14, **X-Detect: Explainable Adversarial Patch Detection for Object Detectors in Retail**, Omer Hofman et.al., Paper: [http://arxiv.org/abs/2306.08422v1](http://arxiv.org/abs/2306.08422v1)
+- 2023-06-14, **Object Detection in Hyperspectral Image via Unified Spectral-Spatial Feature Aggregation**, Xiao He et.al., Paper: [http://arxiv.org/abs/2306.08370v1](http://arxiv.org/abs/2306.08370v1)
+- 2023-06-14, **Multiclass Confidence and Localization Calibration for Object Detection**, Bimsara Pathiraja et.al., Paper: [http://arxiv.org/abs/2306.08271v1](http://arxiv.org/abs/2306.08271v1), Code: **[https://github.com/bimsarapathiraja/mccl](https://github.com/bimsarapathiraja/mccl)**
 - 2023-06-13, **Rethinking pose estimation in crowds: overcoming the detection information-bottleneck and ambiguity**, Mu Zhou et.al., Paper: [http://arxiv.org/abs/2306.07879v1](http://arxiv.org/abs/2306.07879v1)
 - 2023-06-15, **LMD: Light-weight Prediction Quality Estimation for Object Detection in Lidar Point Clouds**, Tobias Riedlinger et.al., Paper: [http://arxiv.org/abs/2306.07835v2](http://arxiv.org/abs/2306.07835v2), Code: **[https://github.com/janmarcelkezmann/metadetect3d](https://github.com/janmarcelkezmann/metadetect3d)**
 - 2023-06-13, **Learning to Estimate 6DoF Pose from Limited Data: A Few-Shot, Generalizable Approach using RGB Images**, Panwang Pan et.al., Paper: [http://arxiv.org/abs/2306.07598v1](http://arxiv.org/abs/2306.07598v1)
@@ -3140,7 +3170,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20230616>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230617>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
