@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2023.06.19
+> Updated on 2023.06.20
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,16 @@
 
 ## pretrain
 
+- 2023-06-16, **CLIP2Protect: Protecting Facial Privacy using Text-Guided Makeup via Adversarial Latent Search**, Fahad Shamshad et.al., Paper: [http://arxiv.org/abs/2306.10008v1](http://arxiv.org/abs/2306.10008v1), Code: **[https://github.com/fahadshamshad/clip2protect](https://github.com/fahadshamshad/clip2protect)**
+- 2023-06-16, **Robot Learning with Sensorimotor Pre-training**, Ilija Radosavovic et.al., Paper: [http://arxiv.org/abs/2306.10007v1](http://arxiv.org/abs/2306.10007v1)
+- 2023-06-16, **SLACK: Stable Learning of Augmentations with Cold-start and KL regularization**, Juliette Marrie et.al., Paper: [http://arxiv.org/abs/2306.09998v1](http://arxiv.org/abs/2306.09998v1)
+- 2023-06-16, **LabelBench: A Comprehensive Framework for Benchmarking Label-Efficient Learning**, Jifan Zhang et.al., Paper: [http://arxiv.org/abs/2306.09910v1](http://arxiv.org/abs/2306.09910v1), Code: **[https://github.com/efficienttraining/labelbench](https://github.com/efficienttraining/labelbench)**
+- 2023-06-16, **Revealing the impact of social circumstances on the selection of cancer therapy through natural language processing of social work notes**, Shenghuan Sun et.al., Paper: [http://arxiv.org/abs/2306.09877v1](http://arxiv.org/abs/2306.09877v1)
+- 2023-06-16, **MixedTeacher : Knowledge Distillation for fast inference textural anomaly detection**, Simon Thomine et.al., Paper: [http://arxiv.org/abs/2306.09859v1](http://arxiv.org/abs/2306.09859v1)
+- 2023-06-16, **The Big Data Myth: Using Diffusion Models for Dataset Generation to Train Deep Detection Models**, Roy Voetman et.al., Paper: [http://arxiv.org/abs/2306.09762v1](http://arxiv.org/abs/2306.09762v1)
+- 2023-06-16, **Scaling Open-Vocabulary Object Detection**, Matthias Minderer et.al., Paper: [http://arxiv.org/abs/2306.09683v1](http://arxiv.org/abs/2306.09683v1)
+- 2023-06-16, **CLIPSonic: Text-to-Audio Synthesis with Unlabeled Videos and Pretrained Language-Vision Models**, Hao-Wen Dong et.al., Paper: [http://arxiv.org/abs/2306.09635v1](http://arxiv.org/abs/2306.09635v1)
+- 2023-06-16, **CMLM-CSE: Based on Conditional MLM Contrastive Learning for Sentence Embeddings**, Wei Zhang et.al., Paper: [http://arxiv.org/abs/2306.09594v1](http://arxiv.org/abs/2306.09594v1)
 - 2023-06-15, **Segment Any Point Cloud Sequences by Distilling Vision Foundation Models**, Youquan Liu et.al., Paper: [http://arxiv.org/abs/2306.09347v1](http://arxiv.org/abs/2306.09347v1), Code: **[https://github.com/youquanl/segment-any-point-cloud](https://github.com/youquanl/segment-any-point-cloud)**
 - 2023-06-15, **Semantic HELM: An Interpretable Memory for Reinforcement Learning**, Fabian Paischer et.al., Paper: [http://arxiv.org/abs/2306.09312v1](http://arxiv.org/abs/2306.09312v1), Code: **[https://github.com/ml-jku/helm](https://github.com/ml-jku/helm)**
 - 2023-06-15, **Text Promptable Surgical Instrument Segmentation with Vision-Language Models**, Zijian Zhou et.al., Paper: [http://arxiv.org/abs/2306.09244v1](http://arxiv.org/abs/2306.09244v1)
@@ -1111,10 +1121,17 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20230619>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230620>back to top</a>)</p>
 
 ## downstream
 
+- 2023-06-16, **Group Orthogonalization Regularization For Vision Models Adaptation and Robustness**, Yoav Kurtz et.al., Paper: [http://arxiv.org/abs/2306.10001v1](http://arxiv.org/abs/2306.10001v1), Code: **[https://github.com/yoavkurtz/gor](https://github.com/yoavkurtz/gor)**
+- 2023-06-16, **No Strong Feelings One Way or Another: Re-operationalizing Neutrality in Natural Language Inference**, Animesh Nighojkar et.al., Paper: [http://arxiv.org/abs/2306.09918v1](http://arxiv.org/abs/2306.09918v1)
+- 2023-06-16, **Multi-View Class Incremental Learning**, Depeng Li et.al., Paper: [http://arxiv.org/abs/2306.09675v1](http://arxiv.org/abs/2306.09675v1)
+- 2023-06-16, **Clickbait Detection via Large Language Models**, Yi Zhu et.al., Paper: [http://arxiv.org/abs/2306.09597v1](http://arxiv.org/abs/2306.09597v1)
+- 2023-06-16, **MedFMC: A Real-world Dataset and Benchmark For Foundation Model Adaptation in Medical Image Classification**, Dequan Wang et.al., Paper: [http://arxiv.org/abs/2306.09579v1](http://arxiv.org/abs/2306.09579v1)
+- 2023-06-16, **How do different tokenizers perform on downstream tasks in scriptio continua languages?: A case study in Japanese**, Takuro Fujii et.al., Paper: [http://arxiv.org/abs/2306.09572v1](http://arxiv.org/abs/2306.09572v1), Code: **[https://github.com/hitachi-nlp/compare-ja-tokenizer](https://github.com/hitachi-nlp/compare-ja-tokenizer)**
+- 2023-06-15, **Residual Q-Learning: Offline and Online Policy Customization without Value**, Chenran Li et.al., Paper: [http://arxiv.org/abs/2306.09526v1](http://arxiv.org/abs/2306.09526v1)
 - 2023-06-15, **Segment Any Point Cloud Sequences by Distilling Vision Foundation Models**, Youquan Liu et.al., Paper: [http://arxiv.org/abs/2306.09347v1](http://arxiv.org/abs/2306.09347v1), Code: **[https://github.com/youquanl/segment-any-point-cloud](https://github.com/youquanl/segment-any-point-cloud)**
 - 2023-06-15, **Seeing the Pose in the Pixels: Learning Pose-Aware Representations in Vision Transformers**, Dominick Reilly et.al., Paper: [http://arxiv.org/abs/2306.09331v1](http://arxiv.org/abs/2306.09331v1), Code: **[https://github.com/dominickrei/poseawarevt](https://github.com/dominickrei/poseawarevt)**
 - 2023-06-15, **Robustness Analysis on Foundational Segmentation Models**, Madeline Chantry Schiappa et.al., Paper: [http://arxiv.org/abs/2306.09278v1](http://arxiv.org/abs/2306.09278v1)
@@ -2148,7 +2165,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20230619>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230620>back to top</a>)</p>
 
 ## adaptor
 
@@ -2196,10 +2213,13 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20230619>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230620>back to top</a>)</p>
 
 ## object detection
 
+- 2023-06-16, **PanoOcc: Unified Occupancy Representation for Camera-based 3D Panoptic Segmentation**, Yuqi Wang et.al., Paper: [http://arxiv.org/abs/2306.10013v1](http://arxiv.org/abs/2306.10013v1)
+- 2023-06-16, **The Big Data Myth: Using Diffusion Models for Dataset Generation to Train Deep Detection Models**, Roy Voetman et.al., Paper: [http://arxiv.org/abs/2306.09762v1](http://arxiv.org/abs/2306.09762v1)
+- 2023-06-16, **Scaling Open-Vocabulary Object Detection**, Matthias Minderer et.al., Paper: [http://arxiv.org/abs/2306.09683v1](http://arxiv.org/abs/2306.09683v1)
 - 2023-06-15, **Single-Stage Visual Query Localization in Egocentric Videos**, Hanwen Jiang et.al., Paper: [http://arxiv.org/abs/2306.09324v1](http://arxiv.org/abs/2306.09324v1)
 - 2023-06-15, **Infinite Photorealistic Worlds using Procedural Generation**, Alexander Raistrick et.al., Paper: [http://arxiv.org/abs/2306.09310v1](http://arxiv.org/abs/2306.09310v1)
 - 2023-06-15, **Robustness Analysis on Foundational Segmentation Models**, Madeline Chantry Schiappa et.al., Paper: [http://arxiv.org/abs/2306.09278v1](http://arxiv.org/abs/2306.09278v1)
@@ -3170,7 +3190,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20230619>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230620>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
