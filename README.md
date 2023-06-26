@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.25
+## Updated on 2023.06.26
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,7 +23,7 @@
 |**2023-06-22**|**Can a single image processing algorithm work equally well across all phases of DCE-MRI?**|Adam G. Tattersall et.al.|[2306.12988v1](http://arxiv.org/abs/2306.12988v1)|null|
 |**2023-06-22**|**AudioPaLM: A Large Language Model That Can Speak and Listen**|Paul K. Rubenstein et.al.|[2306.12925v1](http://arxiv.org/abs/2306.12925v1)|null|
 |**2023-06-22**|**Learning from Visual Observation via Offline Pretrained State-to-Go Transformer**|Bohan Zhou et.al.|[2306.12860v1](http://arxiv.org/abs/2306.12860v1)|null|
-|**2023-06-22**|**Otter-Knowledge: benchmarks of multimodal knowledge graph representation learning from different sources for drug discovery**|Hoang Thanh Lam et.al.|[2306.12802v1](http://arxiv.org/abs/2306.12802v1)|null|
+|**2023-06-23**|**Otter-Knowledge: benchmarks of multimodal knowledge graph representation learning from different sources for drug discovery**|Hoang Thanh Lam et.al.|[2306.12802v2](http://arxiv.org/abs/2306.12802v2)|null|
 |**2023-06-22**|**Blended-NeRF: Zero-Shot Object Generation and Blending in Existing Neural Radiance Fields**|Ori Gordon et.al.|[2306.12760v1](http://arxiv.org/abs/2306.12760v1)|null|
 |**2023-06-22**|**Restoration of the JPEG Maximum Lossy Compressed Face Images with Hourglass Block based on Early Stopping Discriminator**|Jongwook Si et.al.|[2306.12757v1](http://arxiv.org/abs/2306.12757v1)|null|
 |**2023-06-22**|**FlowFace++: Explicit Semantic Flow-supervised End-to-End Face Swapping**|Yu Zhang et.al.|[2306.12686v1](http://arxiv.org/abs/2306.12686v1)|null|
@@ -1148,7 +1148,7 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230625>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230626>back to top</a>)</p>
 
 ## downstream
 
@@ -1158,7 +1158,7 @@
 |**2023-06-21**|**Exploring the Role of Audio in Video Captioning**|Yuhan Shen et.al.|[2306.12559v1](http://arxiv.org/abs/2306.12559v1)|null|
 |**2023-06-21**|**Optimistic Active Exploration of Dynamical Systems**|Bhavya Sukhija et.al.|[2306.12371v1](http://arxiv.org/abs/2306.12371v1)|null|
 |**2023-06-21**|**SIFTER: A Task-specific Alignment Strategy for Enhancing Sentence Embeddings**|Chao Yu et.al.|[2306.12280v1](http://arxiv.org/abs/2306.12280v1)|null|
-|**2023-06-21**|**Inter-Instance Similarity Modeling for Contrastive Learning**|Chengchao Shen et.al.|[2306.12243v1](http://arxiv.org/abs/2306.12243v1)|null|
+|**2023-06-21**|**Inter-Instance Similarity Modeling for Contrastive Learning**|Chengchao Shen et.al.|[2306.12243v1](http://arxiv.org/abs/2306.12243v1)|**[link](https://github.com/visresearch/patchmix)**|
 |**2023-06-21**|**Task-Robust Pre-Training for Worst-Case Downstream Adaptation**|Jianghui Wang et.al.|[2306.12070v1](http://arxiv.org/abs/2306.12070v1)|null|
 |**2023-06-21**|**Continual Learners are Incremental Model Generalizers**|Jaehong Yoon et.al.|[2306.12026v1](http://arxiv.org/abs/2306.12026v1)|null|
 |**2023-06-20**|**SPRINT: Scalable Policy Pre-Training via Language Instruction Relabeling**|Jesse Zhang et.al.|[2306.11886v1](http://arxiv.org/abs/2306.11886v1)|null|
@@ -2212,7 +2212,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230625>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230626>back to top</a>)</p>
 
 ## adaptor
 
@@ -2263,7 +2263,7 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230625>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230626>back to top</a>)</p>
 
 ## object detection
 
@@ -2273,7 +2273,7 @@
 |**2023-06-22**|**Data-Free Backbone Fine-Tuning for Pruned Neural Networks**|Adrian Holzbock et.al.|[2306.12881v1](http://arxiv.org/abs/2306.12881v1)|null|
 |**2023-06-22**|**RXFOOD: Plug-in RGB-X Fusion for Object of Interest Detection**|Jin Ma et.al.|[2306.12621v1](http://arxiv.org/abs/2306.12621v1)|null|
 |**2023-06-21**|**Multi-Task Consistency for Active Learning**|Aral Hekimoglu et.al.|[2306.12398v1](http://arxiv.org/abs/2306.12398v1)|null|
-|**2023-06-21**|**Inter-Instance Similarity Modeling for Contrastive Learning**|Chengchao Shen et.al.|[2306.12243v1](http://arxiv.org/abs/2306.12243v1)|null|
+|**2023-06-21**|**Inter-Instance Similarity Modeling for Contrastive Learning**|Chengchao Shen et.al.|[2306.12243v1](http://arxiv.org/abs/2306.12243v1)|**[link](https://github.com/visresearch/patchmix)**|
 |**2023-06-21**|**A Comprehensive Study on the Robustness of Image Classification and Object Detection in Remote Sensing: Surveying and Benchmarking**|Shaohui Mei et.al.|[2306.12111v1](http://arxiv.org/abs/2306.12111v1)|null|
 |**2023-06-21**|**Spiking Neural Network for Ultra-low-latency and High-accurate Object Detection**|Jinye Qu et.al.|[2306.12010v1](http://arxiv.org/abs/2306.12010v1)|null|
 |**2023-06-20**|**LVM-Med: Learning Large-Scale Self-Supervised Vision Models for Medical Imaging via Second-order Graph Matching**|Duy M. H. Nguyen et.al.|[2306.11925v1](http://arxiv.org/abs/2306.11925v1)|null|
@@ -3261,7 +3261,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230625>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230626>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
