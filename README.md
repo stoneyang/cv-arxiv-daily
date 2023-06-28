@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.27
+## Updated on 2023.06.28
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-26**|**Supervised Pretraining Can Learn In-Context Reinforcement Learning**|Jonathan N. Lee et.al.|[2306.14892v1](http://arxiv.org/abs/2306.14892v1)|null|
+|**2023-06-26**|**Composing Parameter-Efficient Modules with Arithmetic Operations**|Jinghan Zhang et.al.|[2306.14870v1](http://arxiv.org/abs/2306.14870v1)|**[link](https://github.com/sjtu-lit/pem_composition)**|
+|**2023-06-27**|**Kosmos-2: Grounding Multimodal Large Language Models to the World**|Zhiliang Peng et.al.|[2306.14824v2](http://arxiv.org/abs/2306.14824v2)|null|
+|**2023-06-26**|**DiffSketcher: Text Guided Vector Sketch Synthesis through Latent Diffusion Models**|Ximing Xing et.al.|[2306.14685v1](http://arxiv.org/abs/2306.14685v1)|null|
+|**2023-06-26**|**Improved Bayes Risk Can Yield Reduced Social Welfare Under Competition**|Meena Jagadeesan et.al.|[2306.14670v1](http://arxiv.org/abs/2306.14670v1)|null|
+|**2023-06-26**|**Localized Text-to-Image Generation for Free via Cross Attention Control**|Yutong He et.al.|[2306.14636v1](http://arxiv.org/abs/2306.14636v1)|null|
+|**2023-06-26**|**Transfer Learning across Several Centuries: Machine and Historian Integrated Method to Decipher Royal Secretary's Diary**|Sojung Lucia Kim et.al.|[2306.14592v1](http://arxiv.org/abs/2306.14592v1)|null|
+|**2023-06-26**|**A-STAR: Test-time Attention Segregation and Retention for Text-to-image Synthesis**|Aishwarya Agarwal et.al.|[2306.14544v1](http://arxiv.org/abs/2306.14544v1)|null|
+|**2023-06-26**|**ParameterNet: Parameters Are All You Need for Large-scale Visual Pretraining of Mobile Networks**|Kai Han et.al.|[2306.14525v1](http://arxiv.org/abs/2306.14525v1)|null|
+|**2023-06-27**|**DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing**|Yujun Shi et.al.|[2306.14435v2](http://arxiv.org/abs/2306.14435v2)|null|
 |**2023-06-23**|**Comparing the Efficacy of Fine-Tuning and Meta-Learning for Few-Shot Policy Imitation**|Massimiliano Patacchiola et.al.|[2306.13554v1](http://arxiv.org/abs/2306.13554v1)|**[link](https://github.com/mpatacchiola/imujoco)**|
 |**2023-06-23**|**DreamEditor: Text-Driven 3D Scene Editing with Neural Fields**|Jingyu Zhuang et.al.|[2306.13455v1](http://arxiv.org/abs/2306.13455v1)|null|
 |**2023-06-23**|**Long-range Language Modeling with Self-retrieval**|Ohad Rubin et.al.|[2306.13421v1](http://arxiv.org/abs/2306.13421v1)|null|
@@ -1152,12 +1162,19 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230627>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230628>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-26**|**Learning with Difference Attention for Visually Grounded Self-supervised Representations**|Aishwarya Agarwal et.al.|[2306.14603v1](http://arxiv.org/abs/2306.14603v1)|null|
+|**2023-06-26**|**Constraint-aware and Ranking-distilled Token Pruning for Efficient Transformer Inference**|Junyan Li et.al.|[2306.14393v1](http://arxiv.org/abs/2306.14393v1)|null|
+|**2023-06-25**|**Interpretable Neural Embeddings with Sparse Self-Representation**|Minxue Xia et.al.|[2306.14135v1](http://arxiv.org/abs/2306.14135v1)|null|
+|**2023-06-24**|**Stable Yaw Estimation of Boats from the Viewpoint of UAVs and USVs**|Benjamin Kiefer et.al.|[2306.14056v1](http://arxiv.org/abs/2306.14056v1)|null|
+|**2023-06-24**|**My Boli: Code-mixed Marathi-English Corpora, Pretrained Language Models and Evaluation Benchmarks**|Tanmay Chavan et.al.|[2306.14030v1](http://arxiv.org/abs/2306.14030v1)|**[link](https://github.com/l3cube-pune/MarathiNLP)**|
+|**2023-06-24**|**Structuring Representation Geometry with Rotationally Equivariant Contrastive Learning**|Sharut Gupta et.al.|[2306.13924v1](http://arxiv.org/abs/2306.13924v1)|null|
+|**2023-06-24**|**Similarity Preserving Adversarial Graph Contrastive Learning**|Yeonjun In et.al.|[2306.13854v1](http://arxiv.org/abs/2306.13854v1)|**[link](https://github.com/yeonjun-in/torch-sp-agcl)**|
 |**2023-06-23**|**NetBooster: Empowering Tiny Deep Learning By Standing on the Shoulders of Deep Giants**|Zhongzhi Yu et.al.|[2306.13586v1](http://arxiv.org/abs/2306.13586v1)|null|
 |**2023-06-23**|**Manifold Contrastive Learning with Variational Lie Group Operators**|Kion Fallah et.al.|[2306.13544v1](http://arxiv.org/abs/2306.13544v1)|null|
 |**2023-06-23**|**DISCO-10M: A Large-Scale Music Dataset**|Luca A. Lanzendörfer et.al.|[2306.13512v1](http://arxiv.org/abs/2306.13512v1)|null|
@@ -2222,7 +2239,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230627>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230628>back to top</a>)</p>
 
 ## adaptor
 
@@ -2273,12 +2290,22 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230627>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230628>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-26**|**A Flyweight CNN with Adaptive Decoder for Schistosoma mansoni Egg Detection**|Leonardo de Melo Joao et.al.|[2306.14840v1](http://arxiv.org/abs/2306.14840v1)|null|
+|**2023-06-26**|**MOVESe: MOVablE and Moving LiDAR Scene Segmentation with Improved Navigation in Seg-label free settings**|Prashant Kumar et.al.|[2306.14812v1](http://arxiv.org/abs/2306.14812v1)|null|
+|**2023-06-26**|**Video object detection for privacy-preserving patient monitoring in intensive care**|Raphael Emberger et.al.|[2306.14620v1](http://arxiv.org/abs/2306.14620v1)|**[link](https://github.com/raember/yolov5r_autodidact)**|
+|**2023-06-26**|**The race to robustness: exploiting fragile models for urban camouflage and the imperative for machine learning security**|Harriet Farlow et.al.|[2306.14609v1](http://arxiv.org/abs/2306.14609v1)|null|
+|**2023-06-26**|**CST-YOLO: A Novel Method for Blood Cell Detection Based on Improved YOLOv7 and CNN-Swin Transformer**|Ming Kang et.al.|[2306.14590v1](http://arxiv.org/abs/2306.14590v1)|**[link](https://github.com/mkang315/CST-YOLO)**|
+|**2023-06-25**|**Adaptive Sharpness-Aware Pruning for Robust Sparse Networks**|Anna Bair et.al.|[2306.14306v1](http://arxiv.org/abs/2306.14306v1)|null|
+|**2023-06-25**|**Screening Autism Spectrum Disorder in childrens using Deep Learning Approach : Evaluating the classification model of YOLOv8 by comparing with other models**|Subash Gautam et.al.|[2306.14300v1](http://arxiv.org/abs/2306.14300v1)|null|
+|**2023-06-25**|**Hyp-OW: Exploiting Hierarchical Structure Learning with Hyperbolic Distance Enhances Open World Object Detection**|Thang Doan et.al.|[2306.14291v1](http://arxiv.org/abs/2306.14291v1)|null|
+|**2023-06-25**|**Visual Question Answering in Remote Sensing with Cross-Attention and Multimodal Information Bottleneck**|Jayesh Songara et.al.|[2306.14264v1](http://arxiv.org/abs/2306.14264v1)|null|
+|**2023-06-25**|**A Gated Cross-domain Collaborative Network for Underwater Object Detection**|Linhui Dai et.al.|[2306.14141v1](http://arxiv.org/abs/2306.14141v1)|null|
 |**2023-06-23**|**Bridging the Performance Gap between DETR and R-CNN for Graphical Object Detection in Document Images**|Tahira Shehzadi et.al.|[2306.13526v1](http://arxiv.org/abs/2306.13526v1)|null|
 |**2023-06-23**|**Lesion Detection on Leaves using Class Activation Maps**|Enes Sadi Uysal et.al.|[2306.13366v1](http://arxiv.org/abs/2306.13366v1)|null|
 |**2023-06-23**|**Patch-Level Contrasting without Patch Correspondence for Accurate and Dense Contrastive Representation Learning**|Shaofeng Zhang et.al.|[2306.13337v1](http://arxiv.org/abs/2306.13337v1)|null|
@@ -3275,7 +3302,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230627>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230628>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
