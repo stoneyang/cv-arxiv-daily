@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.07
+## Updated on 2023.07.08
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-06**|**VideoGLUE: Video General Understanding Evaluation of Foundation Models**|Liangzhe Yuan et.al.|[2307.03166v1](http://arxiv.org/abs/2307.03166v1)|null|
+|**2023-07-06**|**Parameter-Efficient Fine-Tuning of LLaMA for the Clinical Domain**|Aryo Gema et.al.|[2307.03042v1](http://arxiv.org/abs/2307.03042v1)|null|
+|**2023-07-06**|**A Critical Look at the Current Usage of Foundation Model for Dense Recognition Task**|Shiqi Yang et.al.|[2307.02862v1](http://arxiv.org/abs/2307.02862v1)|null|
+|**2023-07-06**|**Large Language Models Empowered Autonomous Edge AI for Connected Intelligence**|Yifei Shen et.al.|[2307.02779v1](http://arxiv.org/abs/2307.02779v1)|null|
+|**2023-07-05**|**ODD: A Benchmark Dataset for the NLP-based Opioid Related Aberrant Behavior Detection**|Sunjae Kwon et.al.|[2307.02591v1](http://arxiv.org/abs/2307.02591v1)|null|
+|**2023-07-05**|**Named Entity Inclusion in Abstractive Text Summarization**|Sergey Berezin et.al.|[2307.02570v1](http://arxiv.org/abs/2307.02570v1)|null|
 |**2023-07-05**|**Reasoning or Reciting? Exploring the Capabilities and Limitations of Language Models Through Counterfactual Tasks**|Zhaofeng Wu et.al.|[2307.02477v1](http://arxiv.org/abs/2307.02477v1)|null|
 |**2023-07-05**|**Interactive Image Segmentation with Cross-Modality Vision Transformers**|Kun Li et.al.|[2307.02280v1](http://arxiv.org/abs/2307.02280v1)|**[link](https://github.com/lik1996/icmformer)**|
 |**2023-07-05**|**LOAF-M2L: Joint Learning of Wording and Formatting for Singable Melody-to-Lyric Generation**|Longshen Ou et.al.|[2307.02146v1](http://arxiv.org/abs/2307.02146v1)|null|
@@ -1209,12 +1215,20 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230707>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230708>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-06**|**VideoGLUE: Video General Understanding Evaluation of Foundation Models**|Liangzhe Yuan et.al.|[2307.03166v1](http://arxiv.org/abs/2307.03166v1)|null|
+|**2023-07-05**|**OpenDelta: A Plug-and-play Library for Parameter-efficient Adaptation of Pre-trained Models**|Shengding Hu et.al.|[2307.03084v1](http://arxiv.org/abs/2307.03084v1)|null|
+|**2023-07-06**|**Parameter-Efficient Fine-Tuning of LLaMA for the Clinical Domain**|Aryo Gema et.al.|[2307.03042v1](http://arxiv.org/abs/2307.03042v1)|null|
+|**2023-07-06**|**Self-supervised Optimization of Hand Pose Estimation using Anatomical Features and Iterative Learning**|Christian Jauch et.al.|[2307.03007v1](http://arxiv.org/abs/2307.03007v1)|null|
+|**2023-07-06**|**LEA: Improving Sentence Similarity Robustness to Typos Using Lexical Attention Bias**|Mario Almagro et.al.|[2307.02912v1](http://arxiv.org/abs/2307.02912v1)|null|
+|**2023-07-06**|**A Critical Look at the Current Usage of Foundation Model for Dense Recognition Task**|Shiqi Yang et.al.|[2307.02862v1](http://arxiv.org/abs/2307.02862v1)|null|
+|**2023-07-06**|**CPDG: A Contrastive Pre-Training Method for Dynamic Graph Neural Networks**|Yuanchen Bei et.al.|[2307.02813v1](http://arxiv.org/abs/2307.02813v1)|null|
+|**2023-07-06**|**Semi-supervised Domain Adaptive Medical Image Segmentation through Consistency Regularized Disentangled Contrastive Learning**|Hritam Basak et.al.|[2307.02798v1](http://arxiv.org/abs/2307.02798v1)|**[link](https://github.com/hritam-98/gfda-disentangled)**|
 |**2023-07-05**|**An Exploratory Literature Study on Sharing and Energy Use of Language Models for Source Code**|Max Hort et.al.|[2307.02443v1](http://arxiv.org/abs/2307.02443v1)|null|
 |**2023-07-04**|**Text + Sketch: Image Compression at Ultra Low Rates**|Eric Lei et.al.|[2307.01944v1](http://arxiv.org/abs/2307.01944v1)|null|
 |**2023-07-04**|**Learning ECG signal features without backpropagation**|Péter Pósfay et.al.|[2307.01930v1](http://arxiv.org/abs/2307.01930v1)|null|
@@ -2326,7 +2340,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230707>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230708>back to top</a>)</p>
 
 ## adaptor
 
@@ -2379,14 +2393,16 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230707>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230708>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-06**|**Art Authentication with Vision Transformers**|Ludovica Schaerf et.al.|[2307.03039v1](http://arxiv.org/abs/2307.03039v1)|null|
+|**2023-07-05**|**Semi-supervised Learning from Street-View Images and OpenStreetMap for Automatic Building Height Estimation**|Hao Li et.al.|[2307.02574v1](http://arxiv.org/abs/2307.02574v1)|**[link](https://github.com/bobleegogogo/building_height)**|
 |**2023-07-05**|**Base Layer Efficiency in Scalable Human-Machine Coding**|Yalda Foroutan et.al.|[2307.02430v1](http://arxiv.org/abs/2307.02430v1)|null|
-|**2023-07-05**|**Unbalanced Optimal Transport: A Unified Framework for Object Detection**|Henri De Plaen et.al.|[2307.02402v1](http://arxiv.org/abs/2307.02402v1)|null|
+|**2023-07-05**|**Unbalanced Optimal Transport: A Unified Framework for Object Detection**|Henri De Plaen et.al.|[2307.02402v1](http://arxiv.org/abs/2307.02402v1)|**[link](https://github.com/hdeplaen/uotod)**|
 |**2023-07-05**|**RADiff: Controllable Diffusion Models for Radio Astronomical Maps Generation**|Renato Sortino et.al.|[2307.02392v1](http://arxiv.org/abs/2307.02392v1)|null|
 |**2023-07-05**|**Focusing on what to decode and what to train: Efficient Training with HOI Split Decoders and Specific Target Guided DeNoising**|Junwen Chen et.al.|[2307.02291v1](http://arxiv.org/abs/2307.02291v1)|null|
 |**2023-07-05**|**SVDM: Single-View Diffusion Model for Pseudo-Stereo 3D Object Detection**|Yuguang Shi et.al.|[2307.02270v1](http://arxiv.org/abs/2307.02270v1)|null|
@@ -3438,7 +3454,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230707>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230708>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
