@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.10
+## Updated on 2023.07.11
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-06**|**Structure Guided Multi-modal Pre-trained Transformer for Knowledge Graph Reasoning**|Ke Liang et.al.|[2307.03591v1](http://arxiv.org/abs/2307.03591v1)|null|
+|**2023-07-07**|**Derivative Free Weight-space Ensembling**|Dean Ninalga et.al.|[2307.03506v1](http://arxiv.org/abs/2307.03506v1)|null|
+|**2023-07-07**|**Distilling Self-Supervised Vision Transformers for Weakly-Supervised Few-Shot Classification & Segmentation**|Dahyun Kang et.al.|[2307.03407v1](http://arxiv.org/abs/2307.03407v1)|null|
+|**2023-07-07**|**Teaching Arithmetic to Small Transformers**|Nayoung Lee et.al.|[2307.03381v1](http://arxiv.org/abs/2307.03381v1)|null|
+|**2023-07-06**|**Encoder-Decoder Networks for Self-Supervised Pretraining and Downstream Signal Bandwidth Regression on Digital Antenna Arrays**|Rajib Bhattacharjea et.al.|[2307.03327v1](http://arxiv.org/abs/2307.03327v1)|null|
+|**2023-07-06**|**To pretrain or not to pretrain? A case study of domain-specific pretraining for semantic segmentation in histopathology**|Tushar Kataria et.al.|[2307.03275v1](http://arxiv.org/abs/2307.03275v1)|null|
+|**2023-07-06**|**Vision Language Transformers: A Survey**|Clayton Fields et.al.|[2307.03254v1](http://arxiv.org/abs/2307.03254v1)|null|
 |**2023-07-06**|**VideoGLUE: Video General Understanding Evaluation of Foundation Models**|Liangzhe Yuan et.al.|[2307.03166v1](http://arxiv.org/abs/2307.03166v1)|null|
 |**2023-07-06**|**Parameter-Efficient Fine-Tuning of LLaMA for the Clinical Domain**|Aryo Gema et.al.|[2307.03042v1](http://arxiv.org/abs/2307.03042v1)|null|
 |**2023-07-06**|**A Critical Look at the Current Usage of Foundation Model for Dense Recognition Task**|Shiqi Yang et.al.|[2307.02862v1](http://arxiv.org/abs/2307.02862v1)|null|
@@ -1219,12 +1226,16 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230710>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230711>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-06**|**Structure Guided Multi-modal Pre-trained Transformer for Knowledge Graph Reasoning**|Ke Liang et.al.|[2307.03591v1](http://arxiv.org/abs/2307.03591v1)|null|
+|**2023-07-07**|**Beyond Geo-localization: Fine-grained Orientation of Street-view Images by Cross-view Matching with Satellite Imagery**|Wenmiao Hu et.al.|[2307.03398v1](http://arxiv.org/abs/2307.03398v1)|null|
+|**2023-07-06**|**Empirical Analysis of a Segmentation Foundation Model in Prostate Imaging**|Heejong Kim et.al.|[2307.03266v1](http://arxiv.org/abs/2307.03266v1)|null|
+|**2023-07-06**|**Region-Wise Attentive Multi-View Representation Learning for Urban Region Embeddings**|Weiliang Chan et.al.|[2307.03212v1](http://arxiv.org/abs/2307.03212v1)|null|
 |**2023-07-06**|**VideoGLUE: Video General Understanding Evaluation of Foundation Models**|Liangzhe Yuan et.al.|[2307.03166v1](http://arxiv.org/abs/2307.03166v1)|null|
 |**2023-07-05**|**OpenDelta: A Plug-and-play Library for Parameter-efficient Adaptation of Pre-trained Models**|Shengding Hu et.al.|[2307.03084v1](http://arxiv.org/abs/2307.03084v1)|null|
 |**2023-07-06**|**Parameter-Efficient Fine-Tuning of LLaMA for the Clinical Domain**|Aryo Gema et.al.|[2307.03042v1](http://arxiv.org/abs/2307.03042v1)|null|
@@ -2344,7 +2355,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230710>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230711>back to top</a>)</p>
 
 ## adaptor
 
@@ -2397,12 +2408,16 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230710>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230711>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-07**|**GPT4RoI: Instruction Tuning Large Language Model on Region-of-Interest**|Shilong Zhang et.al.|[2307.03601v1](http://arxiv.org/abs/2307.03601v1)|null|
+|**2023-07-07**|**Joint Perceptual Learning for Enhancement and Object Detection in Underwater Scenarios**|Chenping Fu et.al.|[2307.03536v1](http://arxiv.org/abs/2307.03536v1)|null|
+|**2023-07-07**|**Open-Vocabulary Object Detection via Scene Graph Discovery**|Hengcan Shi et.al.|[2307.03339v1](http://arxiv.org/abs/2307.03339v1)|null|
+|**2023-07-06**|**PseudoCell: Hard Negative Mining as Pseudo Labeling for Deep Learning-Based Centroblast Cell Detection**|Narongrid Seesawad et.al.|[2307.03211v1](http://arxiv.org/abs/2307.03211v1)|null|
 |**2023-07-06**|**Art Authentication with Vision Transformers**|Ludovica Schaerf et.al.|[2307.03039v1](http://arxiv.org/abs/2307.03039v1)|null|
 |**2023-07-05**|**Semi-supervised Learning from Street-View Images and OpenStreetMap for Automatic Building Height Estimation**|Hao Li et.al.|[2307.02574v1](http://arxiv.org/abs/2307.02574v1)|**[link](https://github.com/bobleegogogo/building_height)**|
 |**2023-07-05**|**Base Layer Efficiency in Scalable Human-Machine Coding**|Yalda Foroutan et.al.|[2307.02430v1](http://arxiv.org/abs/2307.02430v1)|null|
@@ -3458,7 +3473,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230710>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230711>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
