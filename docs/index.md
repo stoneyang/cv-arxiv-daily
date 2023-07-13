@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.12
+## Updated on 2023.07.13
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-11**|**Masked Vision and Language Pre-training with Unimodal and Multimodal Contrastive Losses for Medical Visual Question Answering**|Pengfei Li et.al.|[2307.05314v1](http://arxiv.org/abs/2307.05314v1)|null|
+|**2023-07-11**|**Attribute Controlled Dialogue Prompting**|Runcheng Liu et.al.|[2307.05228v1](http://arxiv.org/abs/2307.05228v1)|null|
+|**2023-07-11**|**Generative Pretraining in Multimodality**|Quan Sun et.al.|[2307.05222v1](http://arxiv.org/abs/2307.05222v1)|**[link](https://github.com/baaivision/emu)**|
+|**2023-07-11**|**ExFaceGAN: Exploring Identity Directions in GAN's Learned Latent Space for Synthetic Identity Generation**|Fadi Boutros et.al.|[2307.05151v1](http://arxiv.org/abs/2307.05151v1)|null|
+|**2023-07-11**|**Uni-Removal: A Semi-Supervised Framework for Simultaneously Addressing Multiple Degradations in Real-World Images**|Yongheng Zhang et.al.|[2307.05075v1](http://arxiv.org/abs/2307.05075v1)|null|
+|**2023-07-10**|**FedYolo: Augmenting Federated Learning with Pretrained Transformers**|Xuechen Zhang et.al.|[2307.04905v1](http://arxiv.org/abs/2307.04905v1)|null|
+|**2023-07-10**|**Learning Spatial Features from Audio-Visual Correspondence in Egocentric Videos**|Sagnik Majumder et.al.|[2307.04760v1](http://arxiv.org/abs/2307.04760v1)|null|
+|**2023-07-10**|**Divide, Evaluate, and Refine: Evaluating and Improving Text-to-Image Alignment with Iterative VQA Feedback**|Jaskirat Singh et.al.|[2307.04749v1](http://arxiv.org/abs/2307.04749v1)|null|
+|**2023-07-12**|**Weakly-supervised positional contrastive learning: application to cirrhosis classification**|Emma Sarfati et.al.|[2307.04617v2](http://arxiv.org/abs/2307.04617v2)|**[link](https://github.com/guerbet-ai/wsp-contrastive)**|
+|**2023-07-10**|**Q-YOLOP: Quantization-aware You Only Look Once for Panoptic Driving Perception**|Chi-Chih Chang et.al.|[2307.04537v1](http://arxiv.org/abs/2307.04537v1)|null|
 |**2023-07-06**|**Structure Guided Multi-modal Pre-trained Transformer for Knowledge Graph Reasoning**|Ke Liang et.al.|[2307.03591v1](http://arxiv.org/abs/2307.03591v1)|null|
 |**2023-07-07**|**Derivative Free Weight-space Ensembling**|Dean Ninalga et.al.|[2307.03506v1](http://arxiv.org/abs/2307.03506v1)|null|
 |**2023-07-07**|**Distilling Self-Supervised Vision Transformers for Weakly-Supervised Few-Shot Classification & Segmentation**|Dahyun Kang et.al.|[2307.03407v1](http://arxiv.org/abs/2307.03407v1)|null|
@@ -1226,12 +1236,22 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230712>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230713>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-11**|**EgoVLPv2: Egocentric Video-Language Pre-training with Fusion in the Backbone**|Shraman Pramanick et.al.|[2307.05463v1](http://arxiv.org/abs/2307.05463v1)|null|
+|**2023-07-11**|**GujiBERT and GujiGPT: Construction of Intelligent Information Processing Foundation Language Models for Ancient Texts**|Dongbo Wang et.al.|[2307.05354v1](http://arxiv.org/abs/2307.05354v1)|null|
+|**2023-07-11**|**Self-supervised adversarial masking for 3D point cloud representation learning**|Michał Szachniewicz et.al.|[2307.05325v1](http://arxiv.org/abs/2307.05325v1)|**[link](https://github.com/szacho/pointcam)**|
+|**2023-07-11**|**Attribute Controlled Dialogue Prompting**|Runcheng Liu et.al.|[2307.05228v1](http://arxiv.org/abs/2307.05228v1)|null|
+|**2023-07-11**|**Score Function Gradient Estimation to Widen the Applicability of Decision-Focused Learning**|Mattia Silvestri et.al.|[2307.05213v1](http://arxiv.org/abs/2307.05213v1)|null|
+|**2023-07-11**|**Vacaspati: A Diverse Corpus of Bangla Literature**|Pramit Bhattacharyya et.al.|[2307.05083v1](http://arxiv.org/abs/2307.05083v1)|null|
+|**2023-07-11**|**Benchmarking Bayesian Causal Discovery Methods for Downstream Treatment Effect Estimation**|Chris Chinenye Emezue et.al.|[2307.04988v1](http://arxiv.org/abs/2307.04988v1)|null|
+|**2023-07-10**|**Multimodal brain age estimation using interpretable adaptive population-graph learning**|Kyriaki-Margarita Bintsi et.al.|[2307.04639v1](http://arxiv.org/abs/2307.04639v1)|null|
+|**2023-07-10**|**Improving Heterogeneous Graph Learning with Weighted Mixed-Curvature Product Manifold**|Tuc Nguyen-Van et.al.|[2307.04514v1](http://arxiv.org/abs/2307.04514v1)|**[link](https://github.com/sharecodesubmission/weighted_product_manifold)**|
+|**2023-07-10**|**One-Shot Pruning for Fast-adapting Pre-trained Models on Devices**|Haiyan Zhao et.al.|[2307.04365v1](http://arxiv.org/abs/2307.04365v1)|null|
 |**2023-07-06**|**Structure Guided Multi-modal Pre-trained Transformer for Knowledge Graph Reasoning**|Ke Liang et.al.|[2307.03591v1](http://arxiv.org/abs/2307.03591v1)|null|
 |**2023-07-07**|**Beyond Geo-localization: Fine-grained Orientation of Street-view Images by Cross-view Matching with Satellite Imagery**|Wenmiao Hu et.al.|[2307.03398v1](http://arxiv.org/abs/2307.03398v1)|null|
 |**2023-07-06**|**Empirical Analysis of a Segmentation Foundation Model in Prostate Imaging**|Heejong Kim et.al.|[2307.03266v1](http://arxiv.org/abs/2307.03266v1)|null|
@@ -2355,7 +2375,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230712>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230713>back to top</a>)</p>
 
 ## adaptor
 
@@ -2408,13 +2428,21 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230712>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230713>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-07-07**|**GPT4RoI: Instruction Tuning Large Language Model on Region-of-Interest**|Shilong Zhang et.al.|[2307.03601v1](http://arxiv.org/abs/2307.03601v1)|null|
+|**2023-07-11**|**Bio-Inspired Night Image Enhancement Based on Contrast Enhancement and Denoising**|Xinyi Bai et.al.|[2307.05447v1](http://arxiv.org/abs/2307.05447v1)|null|
+|**2023-07-10**|**Joint Salient Object Detection and Camouflaged Object Detection via Uncertainty-aware Learning**|Aixuan Li et.al.|[2307.04651v1](http://arxiv.org/abs/2307.04651v1)|null|
+|**2023-07-10**|**Q-YOLOP: Quantization-aware You Only Look Once for Panoptic Driving Perception**|Chi-Chih Chang et.al.|[2307.04537v1](http://arxiv.org/abs/2307.04537v1)|null|
+|**2023-07-10**|**Preventing Errors in Person Detection: A Part-Based Self-Monitoring Framework**|Franziska Schwaiger et.al.|[2307.04533v1](http://arxiv.org/abs/2307.04533v1)|**[link](https://github.com/fraunhoferiks/smf-object-detection)**|
+|**2023-07-11**|**Parametric Depth Based Feature Representation Learning for Object Detection and Segmentation in Bird's Eye View**|Jiayu Yang et.al.|[2307.04106v2](http://arxiv.org/abs/2307.04106v2)|null|
+|**2023-07-09**|**Visible and infrared self-supervised fusion trained on a single example**|Nati Ofir et.al.|[2307.04100v1](http://arxiv.org/abs/2307.04100v1)|null|
+|**2023-07-08**|**Camouflaged Object Detection with Feature Grafting and Distractor Aware**|Yuxuan Song et.al.|[2307.03943v1](http://arxiv.org/abs/2307.03943v1)|**[link](https://github.com/syxvision/fdnet)**|
+|**2023-07-08**|**Edge-Aware Mirror Network for Camouflaged Object Detection**|Dongyue Sun et.al.|[2307.03932v1](http://arxiv.org/abs/2307.03932v1)|**[link](https://github.com/sdy1999/eamnet)**|
+|**2023-07-07**|**GPT4RoI: Instruction Tuning Large Language Model on Region-of-Interest**|Shilong Zhang et.al.|[2307.03601v1](http://arxiv.org/abs/2307.03601v1)|**[link](https://github.com/jshilong/gpt4roi)**|
 |**2023-07-07**|**Joint Perceptual Learning for Enhancement and Object Detection in Underwater Scenarios**|Chenping Fu et.al.|[2307.03536v1](http://arxiv.org/abs/2307.03536v1)|null|
 |**2023-07-07**|**Open-Vocabulary Object Detection via Scene Graph Discovery**|Hengcan Shi et.al.|[2307.03339v1](http://arxiv.org/abs/2307.03339v1)|null|
 |**2023-07-06**|**PseudoCell: Hard Negative Mining as Pseudo Labeling for Deep Learning-Based Centroblast Cell Detection**|Narongrid Seesawad et.al.|[2307.03211v1](http://arxiv.org/abs/2307.03211v1)|null|
@@ -3473,7 +3501,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230712>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230713>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
