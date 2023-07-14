@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2023.07.13
+> Updated on 2023.07.14
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,13 @@
 
 ## pretrain
 
+- 2023-07-12, **Patch n' Pack: NaViT, a Vision Transformer for any Aspect Ratio and Resolution**, Mostafa Dehghani et.al., Paper: [http://arxiv.org/abs/2307.06304v1](http://arxiv.org/abs/2307.06304v1)
+- 2023-07-12, **Instruction Mining: High-Quality Instruction Data Selection for Large Language Models**, Yihan Cao et.al., Paper: [http://arxiv.org/abs/2307.06290v1](http://arxiv.org/abs/2307.06290v1)
+- 2023-07-12, **Pluggable Neural Machine Translation Models via Memory-augmented Adapters**, Yuzhuang Xu et.al., Paper: [http://arxiv.org/abs/2307.06029v1](http://arxiv.org/abs/2307.06029v1), Code: **[https://github.com/urvashik/knnmt](https://github.com/urvashik/knnmt)**
+- 2023-07-12, **What Happens During Finetuning of Vision Transformers: An Invariance Based Investigation**, Gabriele Merlin et.al., Paper: [http://arxiv.org/abs/2307.06006v1](http://arxiv.org/abs/2307.06006v1)
+- 2023-07-13, **PIGEON: Predicting Image Geolocations**, Lukas Haas et.al., Paper: [http://arxiv.org/abs/2307.05845v2](http://arxiv.org/abs/2307.05845v2)
+- 2023-07-11, **EgoAdapt: A multi-stream evaluation study of adaptation to real-world egocentric user video**, Matthias De Lange et.al., Paper: [http://arxiv.org/abs/2307.05784v1](http://arxiv.org/abs/2307.05784v1), Code: **[https://github.com/facebookresearch/egocentricuseradaptation](https://github.com/facebookresearch/egocentricuseradaptation)**
+- 2023-07-13, **Rad-ReStruct: A Novel VQA Benchmark and Method for Structured Radiology Reporting**, Chantal Pellegrini et.al., Paper: [http://arxiv.org/abs/2307.05766v2](http://arxiv.org/abs/2307.05766v2), Code: **[https://github.com/chantalmp/rad-restruct](https://github.com/chantalmp/rad-restruct)**
 - 2023-07-11, **Masked Vision and Language Pre-training with Unimodal and Multimodal Contrastive Losses for Medical Visual Question Answering**, Pengfei Li et.al., Paper: [http://arxiv.org/abs/2307.05314v1](http://arxiv.org/abs/2307.05314v1)
 - 2023-07-11, **Attribute Controlled Dialogue Prompting**, Runcheng Liu et.al., Paper: [http://arxiv.org/abs/2307.05228v1](http://arxiv.org/abs/2307.05228v1)
 - 2023-07-11, **Generative Pretraining in Multimodality**, Quan Sun et.al., Paper: [http://arxiv.org/abs/2307.05222v1](http://arxiv.org/abs/2307.05222v1), Code: **[https://github.com/baaivision/emu](https://github.com/baaivision/emu)**
@@ -1230,10 +1237,14 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20230713>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230714>back to top</a>)</p>
 
 ## downstream
 
+- 2023-07-12, **Learning Hierarchical Interactive Multi-Object Search for Mobile Manipulation**, Fabian Schmalstieg et.al., Paper: [http://arxiv.org/abs/2307.06125v1](http://arxiv.org/abs/2307.06125v1)
+- 2023-07-12, **What Happens During Finetuning of Vision Transformers: An Invariance Based Investigation**, Gabriele Merlin et.al., Paper: [http://arxiv.org/abs/2307.06006v1](http://arxiv.org/abs/2307.06006v1)
+- 2023-07-12, **Unified Medical Image-Text-Label Contrastive Learning With Continuous Prompt**, Yuhao Wang et.al., Paper: [http://arxiv.org/abs/2307.05920v1](http://arxiv.org/abs/2307.05920v1)
+- 2023-07-12, **SwiFT: Swin 4D fMRI Transformer**, Peter Yongho Kim et.al., Paper: [http://arxiv.org/abs/2307.05916v1](http://arxiv.org/abs/2307.05916v1)
 - 2023-07-11, **EgoVLPv2: Egocentric Video-Language Pre-training with Fusion in the Backbone**, Shraman Pramanick et.al., Paper: [http://arxiv.org/abs/2307.05463v1](http://arxiv.org/abs/2307.05463v1)
 - 2023-07-11, **GujiBERT and GujiGPT: Construction of Intelligent Information Processing Foundation Language Models for Ancient Texts**, Dongbo Wang et.al., Paper: [http://arxiv.org/abs/2307.05354v1](http://arxiv.org/abs/2307.05354v1)
 - 2023-07-11, **Self-supervised adversarial masking for 3D point cloud representation learning**, Michał Szachniewicz et.al., Paper: [http://arxiv.org/abs/2307.05325v1](http://arxiv.org/abs/2307.05325v1), Code: **[https://github.com/szacho/pointcam](https://github.com/szacho/pointcam)**
@@ -2367,7 +2378,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20230713>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230714>back to top</a>)</p>
 
 ## adaptor
 
@@ -2418,10 +2429,16 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20230713>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230714>back to top</a>)</p>
 
 ## object detection
 
+- 2023-07-12, **Patch n' Pack: NaViT, a Vision Transformer for any Aspect Ratio and Resolution**, Mostafa Dehghani et.al., Paper: [http://arxiv.org/abs/2307.06304v1](http://arxiv.org/abs/2307.06304v1)
+- 2023-07-12, **Flexible and Fully Quantized Ultra-Lightweight TinyissimoYOLO for Ultra-Low-Power Edge Systems**, Julian Moosmann et.al., Paper: [http://arxiv.org/abs/2307.05999v1](http://arxiv.org/abs/2307.05999v1)
+- 2023-07-12, **GVCCI: Lifelong Learning of Visual Grounding for Language-Guided Robotic Manipulation**, Junghyun Kim et.al., Paper: [http://arxiv.org/abs/2307.05963v1](http://arxiv.org/abs/2307.05963v1)
+- 2023-07-12, **YOGA: Deep Object Detection in the Wild with Lightweight Feature Learning and Multiscale Attention**, Raja Sunkara et.al., Paper: [http://arxiv.org/abs/2307.05945v1](http://arxiv.org/abs/2307.05945v1)
+- 2023-07-12, **A New Dataset and Comparative Study for Aphid Cluster Detection**, Tianxiao Zhang et.al., Paper: [http://arxiv.org/abs/2307.05929v1](http://arxiv.org/abs/2307.05929v1)
+- 2023-07-09, **HA-ViD: A Human Assembly Video Dataset for Comprehensive Assembly Knowledge Understanding**, Hao Zheng et.al., Paper: [http://arxiv.org/abs/2307.05721v1](http://arxiv.org/abs/2307.05721v1)
 - 2023-07-11, **Bio-Inspired Night Image Enhancement Based on Contrast Enhancement and Denoising**, Xinyi Bai et.al., Paper: [http://arxiv.org/abs/2307.05447v1](http://arxiv.org/abs/2307.05447v1)
 - 2023-07-10, **Joint Salient Object Detection and Camouflaged Object Detection via Uncertainty-aware Learning**, Aixuan Li et.al., Paper: [http://arxiv.org/abs/2307.04651v1](http://arxiv.org/abs/2307.04651v1)
 - 2023-07-10, **Q-YOLOP: Quantization-aware You Only Look Once for Panoptic Driving Perception**, Chi-Chih Chang et.al., Paper: [http://arxiv.org/abs/2307.04537v1](http://arxiv.org/abs/2307.04537v1)
@@ -3489,7 +3506,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20230713>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230714>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
