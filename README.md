@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.14
+## Updated on 2023.07.15
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-13**|**In-context Autoencoder for Context Compression in a Large Language Model**|Tao Ge et.al.|[2307.06945v1](http://arxiv.org/abs/2307.06945v1)|null|
+|**2023-07-13**|**mBLIP: Efficient Bootstrapping of Multilingual Vision-LLMs**|Gregor Geigle et.al.|[2307.06930v1](http://arxiv.org/abs/2307.06930v1)|null|
+|**2023-07-13**|**Explainable 2D Vision Models for 3D Medical Data**|Alexander Ziller et.al.|[2307.06614v1](http://arxiv.org/abs/2307.06614v1)|null|
+|**2023-07-12**|**T2I-CompBench: A Comprehensive Benchmark for Open-world Compositional Text-to-image Generation**|Kaiyi Huang et.al.|[2307.06350v1](http://arxiv.org/abs/2307.06350v1)|null|
 |**2023-07-12**|**Patch n' Pack: NaViT, a Vision Transformer for any Aspect Ratio and Resolution**|Mostafa Dehghani et.al.|[2307.06304v1](http://arxiv.org/abs/2307.06304v1)|null|
 |**2023-07-12**|**Instruction Mining: High-Quality Instruction Data Selection for Large Language Models**|Yihan Cao et.al.|[2307.06290v1](http://arxiv.org/abs/2307.06290v1)|null|
 |**2023-07-12**|**Pluggable Neural Machine Translation Models via Memory-augmented Adapters**|Yuzhuang Xu et.al.|[2307.06029v1](http://arxiv.org/abs/2307.06029v1)|**[link](https://github.com/urvashik/knnmt)**|
@@ -1239,12 +1243,18 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230714>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230715>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-13**|**Self-regulating Prompts: Foundational Model Adaptation without Forgetting**|Muhammad Uzair Khattak et.al.|[2307.06948v1](http://arxiv.org/abs/2307.06948v1)|**[link](https://github.com/muzairkhattak/promptsrc)**|
+|**2023-07-12**|**FDAPT: Federated Domain-adaptive Pre-training for Language Models**|Lekang Jiang et.al.|[2307.06933v1](http://arxiv.org/abs/2307.06933v1)|null|
+|**2023-07-13**|**Provable Multi-Task Representation Learning by Two-Layer ReLU Neural Networks**|Liam Collins et.al.|[2307.06887v1](http://arxiv.org/abs/2307.06887v1)|null|
+|**2023-07-13**|**Leveraging Vision-Language Foundation Models for Fine-Grained Downstream Tasks**|Denis Coquenet et.al.|[2307.06795v1](http://arxiv.org/abs/2307.06795v1)|null|
+|**2023-07-13**|**IntelliGraphs: Datasets for Benchmarking Knowledge Graph Generation**|Thiviyan Thanapalasingam et.al.|[2307.06698v1](http://arxiv.org/abs/2307.06698v1)|null|
+|**2023-07-13**|**Introducing Foundation Models as Surrogate Models: Advancing Towards More Practical Adversarial Attacks**|Jiaming Zhang et.al.|[2307.06608v1](http://arxiv.org/abs/2307.06608v1)|null|
 |**2023-07-12**|**Learning Hierarchical Interactive Multi-Object Search for Mobile Manipulation**|Fabian Schmalstieg et.al.|[2307.06125v1](http://arxiv.org/abs/2307.06125v1)|null|
 |**2023-07-12**|**What Happens During Finetuning of Vision Transformers: An Invariance Based Investigation**|Gabriele Merlin et.al.|[2307.06006v1](http://arxiv.org/abs/2307.06006v1)|null|
 |**2023-07-12**|**Unified Medical Image-Text-Label Contrastive Learning With Continuous Prompt**|Yuhao Wang et.al.|[2307.05920v1](http://arxiv.org/abs/2307.05920v1)|null|
@@ -2382,7 +2392,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230714>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230715>back to top</a>)</p>
 
 ## adaptor
 
@@ -2435,12 +2445,17 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230714>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230715>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-13**|**Robotic surface exploration with vision and tactile sensing for cracks detection and characterisation**|Francesca Palermo et.al.|[2307.06784v1](http://arxiv.org/abs/2307.06784v1)|null|
+|**2023-07-13**|**Multimodal Object Detection in Remote Sensing**|Abdelbadie Belmouhcine et.al.|[2307.06724v1](http://arxiv.org/abs/2307.06724v1)|null|
+|**2023-07-13**|**YOLIC: An Efficient Method for Object Localization and Classification on Edge Devices**|Kai Su et.al.|[2307.06689v1](http://arxiv.org/abs/2307.06689v1)|null|
+|**2023-07-13**|**Aeolus Ocean -- A simulation environment for the autonomous COLREG-compliant navigation of Unmanned Surface Vehicles using Deep Reinforcement Learning and Maritime Object Detection**|Andrew Alexander Vekinis et.al.|[2307.06688v1](http://arxiv.org/abs/2307.06688v1)|null|
+|**2023-07-13**|**WaterScenes: A Multi-Task 4D Radar-Camera Fusion Dataset and Benchmark for Autonomous Driving on Water Surfaces**|Shanliang Yao et.al.|[2307.06505v1](http://arxiv.org/abs/2307.06505v1)|null|
 |**2023-07-12**|**Patch n' Pack: NaViT, a Vision Transformer for any Aspect Ratio and Resolution**|Mostafa Dehghani et.al.|[2307.06304v1](http://arxiv.org/abs/2307.06304v1)|null|
 |**2023-07-12**|**Flexible and Fully Quantized Ultra-Lightweight TinyissimoYOLO for Ultra-Low-Power Edge Systems**|Julian Moosmann et.al.|[2307.05999v1](http://arxiv.org/abs/2307.05999v1)|null|
 |**2023-07-12**|**GVCCI: Lifelong Learning of Visual Grounding for Language-Guided Robotic Manipulation**|Junghyun Kim et.al.|[2307.05963v1](http://arxiv.org/abs/2307.05963v1)|null|
@@ -3514,7 +3529,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230714>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230715>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
