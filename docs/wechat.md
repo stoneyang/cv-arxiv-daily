@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2023.07.17
+> Updated on 2023.07.18
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,11 @@
 
 ## pretrain
 
+- 2023-07-14, **DreamTeacher: Pretraining Image Backbones with Deep Generative Models**, Daiqing Li et.al., Paper: [http://arxiv.org/abs/2307.07487v1](http://arxiv.org/abs/2307.07487v1)
+- 2023-07-14, **Towards spoken dialect identification of Irish**, Liam Lonergan et.al., Paper: [http://arxiv.org/abs/2307.07436v1](http://arxiv.org/abs/2307.07436v1)
+- 2023-07-14, **Improving Zero-Shot Generalization for CLIP with Synthesized Prompts**, Zhengbo Wang et.al., Paper: [http://arxiv.org/abs/2307.07397v1](http://arxiv.org/abs/2307.07397v1), Code: **[https://github.com/mrflogs/SHIP](https://github.com/mrflogs/SHIP)**
+- 2023-07-14, **Using Large Language Models for Zero-Shot Natural Language Generation from Knowledge Graphs**, Agnes Axelsson et.al., Paper: [http://arxiv.org/abs/2307.07312v1](http://arxiv.org/abs/2307.07312v1)
+- 2023-07-13, **Leveraging Pretrained ASR Encoders for Effective and Efficient End-to-End Speech Intent Classification and Slot Filling**, He Huang et.al., Paper: [http://arxiv.org/abs/2307.07057v1](http://arxiv.org/abs/2307.07057v1)
 - 2023-07-13, **In-context Autoencoder for Context Compression in a Large Language Model**, Tao Ge et.al., Paper: [http://arxiv.org/abs/2307.06945v1](http://arxiv.org/abs/2307.06945v1)
 - 2023-07-13, **mBLIP: Efficient Bootstrapping of Multilingual Vision-LLMs**, Gregor Geigle et.al., Paper: [http://arxiv.org/abs/2307.06930v1](http://arxiv.org/abs/2307.06930v1), Code: **[https://github.com/gregor-ge/mblip](https://github.com/gregor-ge/mblip)**
 - 2023-07-13, **Explainable 2D Vision Models for 3D Medical Data**, Alexander Ziller et.al., Paper: [http://arxiv.org/abs/2307.06614v1](http://arxiv.org/abs/2307.06614v1)
@@ -1241,10 +1246,16 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20230717>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230718>back to top</a>)</p>
 
 ## downstream
 
+- 2023-07-14, **Can Large Language Models Empower Molecular Property Prediction?**, Chen Qian et.al., Paper: [http://arxiv.org/abs/2307.07443v1](http://arxiv.org/abs/2307.07443v1), Code: **[https://github.com/chnq/llm4mol](https://github.com/chnq/llm4mol)**
+- 2023-07-14, **Improving Zero-Shot Generalization for CLIP with Synthesized Prompts**, Zhengbo Wang et.al., Paper: [http://arxiv.org/abs/2307.07397v1](http://arxiv.org/abs/2307.07397v1), Code: **[https://github.com/mrflogs/SHIP](https://github.com/mrflogs/SHIP)**
+- 2023-07-14, **L-DAWA: Layer-wise Divergence Aware Weight Aggregation in Federated Self-Supervised Visual Representation Learning**, Yasar Abbas Ur Rehman et.al., Paper: [http://arxiv.org/abs/2307.07393v1](http://arxiv.org/abs/2307.07393v1)
+- 2023-07-14, **PiTL: Cross-modal Retrieval with Weakly-supervised Vision-language Pre-training via Prompting**, Zixin Guo et.al., Paper: [http://arxiv.org/abs/2307.07341v1](http://arxiv.org/abs/2307.07341v1)
+- 2023-07-14, **A Dynamic Points Removal Benchmark in Point Cloud Maps**, Qingwen Zhang et.al., Paper: [http://arxiv.org/abs/2307.07260v1](http://arxiv.org/abs/2307.07260v1), Code: **[https://github.com/kth-rpl/dynamicmap_benchmark](https://github.com/kth-rpl/dynamicmap_benchmark)**
+- 2023-07-14, **Improving BERT with Hybrid Pooling Network and Drop Mask**, Qian Chen et.al., Paper: [http://arxiv.org/abs/2307.07258v1](http://arxiv.org/abs/2307.07258v1)
 - 2023-07-13, **Self-regulating Prompts: Foundational Model Adaptation without Forgetting**, Muhammad Uzair Khattak et.al., Paper: [http://arxiv.org/abs/2307.06948v1](http://arxiv.org/abs/2307.06948v1), Code: **[https://github.com/muzairkhattak/promptsrc](https://github.com/muzairkhattak/promptsrc)**
 - 2023-07-12, **FDAPT: Federated Domain-adaptive Pre-training for Language Models**, Lekang Jiang et.al., Paper: [http://arxiv.org/abs/2307.06933v1](http://arxiv.org/abs/2307.06933v1)
 - 2023-07-13, **Provable Multi-Task Representation Learning by Two-Layer ReLU Neural Networks**, Liam Collins et.al., Paper: [http://arxiv.org/abs/2307.06887v1](http://arxiv.org/abs/2307.06887v1)
@@ -2388,7 +2399,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20230717>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230718>back to top</a>)</p>
 
 ## adaptor
 
@@ -2439,10 +2450,12 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20230717>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230718>back to top</a>)</p>
 
 ## object detection
 
+- 2023-07-14, **Multimodal Distillation for Egocentric Action Recognition**, Gorjan Radevski et.al., Paper: [http://arxiv.org/abs/2307.07483v1](http://arxiv.org/abs/2307.07483v1)
+- 2023-07-14, **PiTL: Cross-modal Retrieval with Weakly-supervised Vision-language Pre-training via Prompting**, Zixin Guo et.al., Paper: [http://arxiv.org/abs/2307.07341v1](http://arxiv.org/abs/2307.07341v1)
 - 2023-07-13, **Robotic surface exploration with vision and tactile sensing for cracks detection and characterisation**, Francesca Palermo et.al., Paper: [http://arxiv.org/abs/2307.06784v1](http://arxiv.org/abs/2307.06784v1)
 - 2023-07-13, **Multimodal Object Detection in Remote Sensing**, Abdelbadie Belmouhcine et.al., Paper: [http://arxiv.org/abs/2307.06724v1](http://arxiv.org/abs/2307.06724v1)
 - 2023-07-13, **YOLIC: An Efficient Method for Object Localization and Classification on Edge Devices**, Kai Su et.al., Paper: [http://arxiv.org/abs/2307.06689v1](http://arxiv.org/abs/2307.06689v1)
@@ -3521,7 +3534,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20230717>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230718>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
