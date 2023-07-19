@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.18
+## Updated on 2023.07.19
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-17**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698v1](http://arxiv.org/abs/2307.08698v1)|**[link](https://github.com/vinairesearch/lfm)**|
+|**2023-07-17**|**Deficiency-Aware Masked Transformer for Video Inpainting**|Yongsheng Yu et.al.|[2307.08629v1](http://arxiv.org/abs/2307.08629v1)|**[link](https://github.com/yeates/dmt)**|
+|**2023-07-17**|**Scale-Aware Modulation Meet Transformer**|Weifeng Lin et.al.|[2307.08579v1](http://arxiv.org/abs/2307.08579v1)|**[link](https://github.com/afeng-x/smt)**|
+|**2023-07-17**|**Does Visual Pretraining Help End-to-End Reasoning?**|Chen Sun et.al.|[2307.08506v1](http://arxiv.org/abs/2307.08506v1)|null|
+|**2023-07-17**|**Improving End-to-End Speech Translation by Imitation-Based Knowledge Distillation with Synthetic Transcripts**|Rebekka Hubert et.al.|[2307.08426v1](http://arxiv.org/abs/2307.08426v1)|**[link](https://github.com/hubreb/imitkd_ast)**|
+|**2023-07-18**|**CLIP-Guided StyleGAN Inversion for Text-Driven Real Image Editing**|Ahmet Canberk Baykal et.al.|[2307.08397v2](http://arxiv.org/abs/2307.08397v2)|null|
+|**2023-07-17**|**Adapting Large Language Model with Speech for Fully Formatted End-to-End Speech Recognition**|Shaoshi Ling et.al.|[2307.08234v1](http://arxiv.org/abs/2307.08234v1)|null|
+|**2023-07-17**|**Zero-Shot Image Harmonization with Generative Model Prior**|Jianqi Chen et.al.|[2307.08182v1](http://arxiv.org/abs/2307.08182v1)|**[link](https://github.com/windvchen/diff-harmonization)**|
+|**2023-07-16**|**Diffusion to Confusion: Naturalistic Adversarial Patch Generation Based on Diffusion Model for Object Detector**|Shuo-Yen Lin et.al.|[2307.08076v1](http://arxiv.org/abs/2307.08076v1)|null|
+|**2023-07-16**|**Disco-Bench: A Discourse-Aware Evaluation Benchmark for Language Modelling**|Longyue Wang et.al.|[2307.08074v1](http://arxiv.org/abs/2307.08074v1)|null|
 |**2023-07-14**|**DreamTeacher: Pretraining Image Backbones with Deep Generative Models**|Daiqing Li et.al.|[2307.07487v1](http://arxiv.org/abs/2307.07487v1)|null|
 |**2023-07-14**|**Towards spoken dialect identification of Irish**|Liam Lonergan et.al.|[2307.07436v1](http://arxiv.org/abs/2307.07436v1)|null|
 |**2023-07-14**|**Improving Zero-Shot Generalization for CLIP with Synthesized Prompts**|Zhengbo Wang et.al.|[2307.07397v1](http://arxiv.org/abs/2307.07397v1)|**[link](https://github.com/mrflogs/SHIP)**|
@@ -1248,12 +1258,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230718>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230719>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-17**|**Fast model inference and training on-board of Satellites**|Vít Růžička et.al.|[2307.08700v1](http://arxiv.org/abs/2307.08700v1)|**[link](https://github.com/previtus/ravaen-unibap-dorbit)**|
+|**2023-07-17**|**Pair then Relation: Pair-Net for Panoptic Scene Graph Generation**|Jinghao Wang et.al.|[2307.08699v1](http://arxiv.org/abs/2307.08699v1)|null|
+|**2023-07-17**|**Scale-Aware Modulation Meet Transformer**|Weifeng Lin et.al.|[2307.08579v1](http://arxiv.org/abs/2307.08579v1)|**[link](https://github.com/afeng-x/smt)**|
+|**2023-07-17**|**Utilization of Pre-trained Language Model for Adapter-based Knowledge Transfer in Software Engineering**|Iman Saberi et.al.|[2307.08540v1](http://arxiv.org/abs/2307.08540v1)|null|
+|**2023-07-17**|**BUS:Efficient and Effective Vision-language Pre-training with Bottom-Up Patch Summarization**|Chaoya Jiang et.al.|[2307.08504v1](http://arxiv.org/abs/2307.08504v1)|null|
+|**2023-07-18**|**From random-walks to graph-sprints: a low-latency node embedding framework on continuous-time dynamic graphs**|Ahmad Naser Eddin et.al.|[2307.08433v2](http://arxiv.org/abs/2307.08433v2)|null|
+|**2023-07-17**|**Dynamic Snake Convolution based on Topological Geometric Constraints for Tubular Structure Segmentation**|Yaolei Qi et.al.|[2307.08388v1](http://arxiv.org/abs/2307.08388v1)|**[link](https://github.com/yaoleiqi/dscnet)**|
+|**2023-07-17**|**M-FLAG: Medical Vision-Language Pre-training with Frozen Language Models and Latent Space Geometry Optimization**|Che Liu et.al.|[2307.08347v1](http://arxiv.org/abs/2307.08347v1)|**[link](https://github.com/cheliu-computation/m-flag-miccai2023)**|
+|**2023-07-16**|**MargCTGAN: A "Marginally'' Better CTGAN for the Low Sample Regime**|Tejumade Afonja et.al.|[2307.07997v1](http://arxiv.org/abs/2307.07997v1)|null|
+|**2023-07-15**|**Multilingual Adapter-based Knowledge Aggregation on Code Summarization for Low-Resource Languages**|Iman Saberi et.al.|[2307.07854v1](http://arxiv.org/abs/2307.07854v1)|null|
 |**2023-07-14**|**Can Large Language Models Empower Molecular Property Prediction?**|Chen Qian et.al.|[2307.07443v1](http://arxiv.org/abs/2307.07443v1)|**[link](https://github.com/chnq/llm4mol)**|
 |**2023-07-14**|**Improving Zero-Shot Generalization for CLIP with Synthesized Prompts**|Zhengbo Wang et.al.|[2307.07397v1](http://arxiv.org/abs/2307.07397v1)|**[link](https://github.com/mrflogs/SHIP)**|
 |**2023-07-14**|**L-DAWA: Layer-wise Divergence Aware Weight Aggregation in Federated Self-Supervised Visual Representation Learning**|Yasar Abbas Ur Rehman et.al.|[2307.07393v1](http://arxiv.org/abs/2307.07393v1)|null|
@@ -2403,7 +2423,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230718>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230719>back to top</a>)</p>
 
 ## adaptor
 
@@ -2456,12 +2476,22 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230718>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230719>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-17**|**Implementation of a perception system for autonomous vehicles using a detection-segmentation network in SoC FPGA**|Maciej Baczmanski et.al.|[2307.08682v1](http://arxiv.org/abs/2307.08682v1)|null|
+|**2023-07-17**|**Scale-Aware Modulation Meet Transformer**|Weifeng Lin et.al.|[2307.08579v1](http://arxiv.org/abs/2307.08579v1)|**[link](https://github.com/afeng-x/smt)**|
+|**2023-07-18**|**Deep Learning with Passive Optical Nonlinear Mapping**|Fei Xia et.al.|[2307.08558v2](http://arxiv.org/abs/2307.08558v2)|null|
+|**2023-07-17**|**Does Visual Pretraining Help End-to-End Reasoning?**|Chen Sun et.al.|[2307.08506v1](http://arxiv.org/abs/2307.08506v1)|null|
+|**2023-07-17**|**Monocular 3D Object Detection with LiDAR Guided Semi Supervised Active Learning**|Aral Hekimoglu et.al.|[2307.08415v1](http://arxiv.org/abs/2307.08415v1)|null|
+|**2023-07-17**|**Active Learning for Object Detection with Non-Redundant Informative Sampling**|Aral Hekimoglu et.al.|[2307.08414v1](http://arxiv.org/abs/2307.08414v1)|null|
+|**2023-07-18**|**Component-wise Power Estimation of Electrical Devices Using Thermal Imaging**|Christian Herglotz et.al.|[2307.08354v2](http://arxiv.org/abs/2307.08354v2)|null|
+|**2023-07-17**|**M-FLAG: Medical Vision-Language Pre-training with Frozen Language Models and Latent Space Geometry Optimization**|Che Liu et.al.|[2307.08347v1](http://arxiv.org/abs/2307.08347v1)|**[link](https://github.com/cheliu-computation/m-flag-miccai2023)**|
+|**2023-07-17**|**Multi-Task Cross-Modality Attention-Fusion for 2D Object Detection**|Huawei Sun et.al.|[2307.08339v1](http://arxiv.org/abs/2307.08339v1)|null|
+|**2023-07-17**|**Random Boxes Are Open-world Object Detectors**|Yanghao Wang et.al.|[2307.08249v1](http://arxiv.org/abs/2307.08249v1)|null|
 |**2023-07-14**|**Multimodal Distillation for Egocentric Action Recognition**|Gorjan Radevski et.al.|[2307.07483v1](http://arxiv.org/abs/2307.07483v1)|null|
 |**2023-07-14**|**PiTL: Cross-modal Retrieval with Weakly-supervised Vision-language Pre-training via Prompting**|Zixin Guo et.al.|[2307.07341v1](http://arxiv.org/abs/2307.07341v1)|null|
 |**2023-07-13**|**Robotic surface exploration with vision and tactile sensing for cracks detection and characterisation**|Francesca Palermo et.al.|[2307.06784v1](http://arxiv.org/abs/2307.06784v1)|null|
@@ -3542,7 +3572,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230718>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230719>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
