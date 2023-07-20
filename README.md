@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.19
+## Updated on 2023.07.20
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-19**|**Pseudo Outlier Exposure for Out-of-Distribution Detection using Pretrained Transformers**|Jaeyoung Kim et.al.|[2307.09455v2](http://arxiv.org/abs/2307.09455v2)|null|
+|**2023-07-19**|**Llama 2: Open Foundation and Fine-Tuned Chat Models**|Hugo Touvron et.al.|[2307.09288v2](http://arxiv.org/abs/2307.09288v2)|**[link](https://github.com/facebookresearch/llama)**|
+|**2023-07-18**|**UniTabE: Pretraining a Unified Tabular Encoder for Heterogeneous Tabular Data**|Yazheng Yang et.al.|[2307.09249v1](http://arxiv.org/abs/2307.09249v1)|null|
+|**2023-07-18**|**Division Gets Better: Learning Brightness-Aware and Detail-Sensitive Representations for Low-Light Image Enhancement**|Huake Wang et.al.|[2307.09104v1](http://arxiv.org/abs/2307.09104v1)|null|
+|**2023-07-18**|**Multimodal Machine Learning for Extraction of Theorems and Proofs in the Scientific Literature**|Shrey Mishra et.al.|[2307.09047v1](http://arxiv.org/abs/2307.09047v1)|**[link](https://github.com/mv96/mm_extraction)**|
+|**2023-07-18**|**Accuracy versus time frontiers of semi-supervised and self-supervised learning on medical images**|Zhe Huang et.al.|[2307.08919v1](http://arxiv.org/abs/2307.08919v1)|**[link](https://github.com/tufts-ml/ssl-vs-ssl-benchmark)**|
 |**2023-07-17**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698v1](http://arxiv.org/abs/2307.08698v1)|**[link](https://github.com/vinairesearch/lfm)**|
 |**2023-07-17**|**Deficiency-Aware Masked Transformer for Video Inpainting**|Yongsheng Yu et.al.|[2307.08629v1](http://arxiv.org/abs/2307.08629v1)|**[link](https://github.com/yeates/dmt)**|
 |**2023-07-17**|**Scale-Aware Modulation Meet Transformer**|Weifeng Lin et.al.|[2307.08579v1](http://arxiv.org/abs/2307.08579v1)|**[link](https://github.com/afeng-x/smt)**|
@@ -1258,14 +1264,18 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230719>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230720>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-18**|**Unsupervised Conditional Slot Attention for Object Centric Learning**|Avinash Kori et.al.|[2307.09437v1](http://arxiv.org/abs/2307.09437v1)|null|
+|**2023-07-18**|**Context-Conditional Navigation with a Learning-Based Terrain- and Robot-Aware Dynamics Model**|Suresh Guttikonda et.al.|[2307.09206v1](http://arxiv.org/abs/2307.09206v1)|null|
+|**2023-07-18**|**R-Cut: Enhancing Explainability in Vision Transformers with Relationship Weighted Out and Cut**|Yingjie Niu et.al.|[2307.09050v1](http://arxiv.org/abs/2307.09050v1)|null|
+|**2023-07-17**|**GEAR: Augmenting Language Models with Generalizable and Efficient Tool Resolution**|Yining Lu et.al.|[2307.08775v1](http://arxiv.org/abs/2307.08775v1)|**[link](https://github.com/yining610/gear)**|
 |**2023-07-17**|**Fast model inference and training on-board of Satellites**|Vít Růžička et.al.|[2307.08700v1](http://arxiv.org/abs/2307.08700v1)|**[link](https://github.com/previtus/ravaen-unibap-dorbit)**|
-|**2023-07-17**|**Pair then Relation: Pair-Net for Panoptic Scene Graph Generation**|Jinghao Wang et.al.|[2307.08699v1](http://arxiv.org/abs/2307.08699v1)|null|
+|**2023-07-17**|**Pair then Relation: Pair-Net for Panoptic Scene Graph Generation**|Jinghao Wang et.al.|[2307.08699v1](http://arxiv.org/abs/2307.08699v1)|**[link](https://github.com/king159/pair-net)**|
 |**2023-07-17**|**Scale-Aware Modulation Meet Transformer**|Weifeng Lin et.al.|[2307.08579v1](http://arxiv.org/abs/2307.08579v1)|**[link](https://github.com/afeng-x/smt)**|
 |**2023-07-17**|**Utilization of Pre-trained Language Model for Adapter-based Knowledge Transfer in Software Engineering**|Iman Saberi et.al.|[2307.08540v1](http://arxiv.org/abs/2307.08540v1)|null|
 |**2023-07-17**|**BUS:Efficient and Effective Vision-language Pre-training with Bottom-Up Patch Summarization**|Chaoya Jiang et.al.|[2307.08504v1](http://arxiv.org/abs/2307.08504v1)|null|
@@ -2423,7 +2433,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230719>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230720>back to top</a>)</p>
 
 ## adaptor
 
@@ -2476,13 +2486,19 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230719>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230720>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-07-17**|**Implementation of a perception system for autonomous vehicles using a detection-segmentation network in SoC FPGA**|Maciej Baczmanski et.al.|[2307.08682v1](http://arxiv.org/abs/2307.08682v1)|null|
+|**2023-07-18**|**Knowledge Distillation for Object Detection: from generic to remote sensing datasets**|Hoàng-Ân Lê et.al.|[2307.09264v1](http://arxiv.org/abs/2307.09264v1)|null|
+|**2023-07-18**|**A Survey on Open-Vocabulary Detection and Segmentation: Past, Present, and Future**|Chaoyang Zhu et.al.|[2307.09220v1](http://arxiv.org/abs/2307.09220v1)|null|
+|**2023-07-18**|**MLF-DET: Multi-Level Fusion for Cross-Modal 3D Object Detection**|Zewei Lin et.al.|[2307.09155v1](http://arxiv.org/abs/2307.09155v1)|null|
+|**2023-07-18**|**MVA2023 Small Object Detection Challenge for Spotting Birds: Dataset, Methods, and Results**|Yuki Kondo et.al.|[2307.09143v1](http://arxiv.org/abs/2307.09143v1)|**[link](https://github.com/iim-ttij/mva2023smallobjectdetection4spottingbirds)**|
+|**2023-07-18**|**EsaNet: Environment Semantics Enabled Physical Layer Authentication**|Ning Gao et.al.|[2307.08946v1](http://arxiv.org/abs/2307.08946v1)|null|
+|**2023-07-17**|**LiDAR-BEVMTN: Real-Time LiDAR Bird's-Eye View Multi-Task Perception Network for Autonomous Driving**|Sambit Mohapatra et.al.|[2307.08850v1](http://arxiv.org/abs/2307.08850v1)|null|
+|**2023-07-17**|**Implementation of a perception system for autonomous vehicles using a detection-segmentation network in SoC FPGA**|Maciej Baczmanski et.al.|[2307.08682v1](http://arxiv.org/abs/2307.08682v1)|**[link](https://github.com/vision-agh/mt_kria)**|
 |**2023-07-17**|**Scale-Aware Modulation Meet Transformer**|Weifeng Lin et.al.|[2307.08579v1](http://arxiv.org/abs/2307.08579v1)|**[link](https://github.com/afeng-x/smt)**|
 |**2023-07-18**|**Deep Learning with Passive Optical Nonlinear Mapping**|Fei Xia et.al.|[2307.08558v2](http://arxiv.org/abs/2307.08558v2)|null|
 |**2023-07-17**|**Does Visual Pretraining Help End-to-End Reasoning?**|Chen Sun et.al.|[2307.08506v1](http://arxiv.org/abs/2307.08506v1)|null|
@@ -3572,7 +3588,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230719>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230720>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
