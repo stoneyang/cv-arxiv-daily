@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.20
+## Updated on 2023.07.21
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-19**|**Gradient Sparsification For Masked Fine-Tuning of Transformers**|James O' Neill et.al.|[2307.10098v1](http://arxiv.org/abs/2307.10098v1)|null|
+|**2023-07-20**|**Class Attention to Regions of Lesion for Imbalanced Medical Image Recognition**|Jia-Xin Zhuang et.al.|[2307.10036v2](http://arxiv.org/abs/2307.10036v2)|null|
+|**2023-07-19**|**An analysis on the effects of speaker embedding choice in non auto-regressive TTS**|Adriana Stan et.al.|[2307.09898v1](http://arxiv.org/abs/2307.09898v1)|null|
 |**2023-07-19**|**Pseudo Outlier Exposure for Out-of-Distribution Detection using Pretrained Transformers**|Jaeyoung Kim et.al.|[2307.09455v2](http://arxiv.org/abs/2307.09455v2)|null|
 |**2023-07-19**|**Llama 2: Open Foundation and Fine-Tuned Chat Models**|Hugo Touvron et.al.|[2307.09288v2](http://arxiv.org/abs/2307.09288v2)|**[link](https://github.com/facebookresearch/llama)**|
 |**2023-07-18**|**UniTabE: Pretraining a Unified Tabular Encoder for Heterogeneous Tabular Data**|Yazheng Yang et.al.|[2307.09249v1](http://arxiv.org/abs/2307.09249v1)|null|
@@ -1268,14 +1271,19 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230720>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230721>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-19**|**LightPath: Lightweight and Scalable Path Representation Learning**|Sean Bin Yang et.al.|[2307.10171v1](http://arxiv.org/abs/2307.10171v1)|null|
+|**2023-07-19**|**Gradient Sparsification For Masked Fine-Tuning of Transformers**|James O' Neill et.al.|[2307.10098v1](http://arxiv.org/abs/2307.10098v1)|null|
+|**2023-07-19**|**Symmetric Equilibrium Learning of VAEs**|Boris Flach et.al.|[2307.09883v1](http://arxiv.org/abs/2307.09883v1)|null|
+|**2023-07-19**|**From West to East: Who can understand the music of the others better?**|Charilaos Papaioannou et.al.|[2307.09795v1](http://arxiv.org/abs/2307.09795v1)|**[link](https://github.com/pxaris/ccml)**|
+|**2023-07-19**|**DVPT: Dynamic Visual Prompt Tuning of Large Pre-trained Models for Medical Image Analysis**|Along He et.al.|[2307.09787v1](http://arxiv.org/abs/2307.09787v1)|null|
 |**2023-07-18**|**Unsupervised Conditional Slot Attention for Object Centric Learning**|Avinash Kori et.al.|[2307.09437v1](http://arxiv.org/abs/2307.09437v1)|null|
-|**2023-07-18**|**Context-Conditional Navigation with a Learning-Based Terrain- and Robot-Aware Dynamics Model**|Suresh Guttikonda et.al.|[2307.09206v1](http://arxiv.org/abs/2307.09206v1)|null|
+|**2023-07-20**|**Context-Conditional Navigation with a Learning-Based Terrain- and Robot-Aware Dynamics Model**|Suresh Guttikonda et.al.|[2307.09206v2](http://arxiv.org/abs/2307.09206v2)|null|
 |**2023-07-18**|**R-Cut: Enhancing Explainability in Vision Transformers with Relationship Weighted Out and Cut**|Yingjie Niu et.al.|[2307.09050v1](http://arxiv.org/abs/2307.09050v1)|null|
 |**2023-07-17**|**GEAR: Augmenting Language Models with Generalizable and Efficient Tool Resolution**|Yining Lu et.al.|[2307.08775v1](http://arxiv.org/abs/2307.08775v1)|**[link](https://github.com/yining610/gear)**|
 |**2023-07-17**|**Fast model inference and training on-board of Satellites**|Vít Růžička et.al.|[2307.08700v1](http://arxiv.org/abs/2307.08700v1)|**[link](https://github.com/previtus/ravaen-unibap-dorbit)**|
@@ -2437,7 +2445,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230720>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230721>back to top</a>)</p>
 
 ## adaptor
 
@@ -2490,12 +2498,14 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230720>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230721>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-19**|**TbExplain: A Text-based Explanation Method for Scene Classification Models with the Statistical Prediction Correction**|Amirhossein Aminimehr et.al.|[2307.10003v1](http://arxiv.org/abs/2307.10003v1)|null|
+|**2023-07-20**|**Domain Adaptation based Enhanced Detection for Autonomous Driving in Foggy and Rainy Weather**|Jinlong Li et.al.|[2307.09676v2](http://arxiv.org/abs/2307.09676v2)|null|
 |**2023-07-18**|**Knowledge Distillation for Object Detection: from generic to remote sensing datasets**|Hoàng-Ân Lê et.al.|[2307.09264v1](http://arxiv.org/abs/2307.09264v1)|null|
 |**2023-07-18**|**A Survey on Open-Vocabulary Detection and Segmentation: Past, Present, and Future**|Chaoyang Zhu et.al.|[2307.09220v1](http://arxiv.org/abs/2307.09220v1)|null|
 |**2023-07-18**|**MLF-DET: Multi-Level Fusion for Cross-Modal 3D Object Detection**|Zewei Lin et.al.|[2307.09155v1](http://arxiv.org/abs/2307.09155v1)|null|
@@ -3592,7 +3602,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230720>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230721>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
