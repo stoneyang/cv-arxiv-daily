@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.21
+## Updated on 2023.07.22
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-20**|**Integrating Pretrained ASR and LM to Perform Sequence Generation for Spoken Language Understanding**|Siddhant Arora et.al.|[2307.11005v1](http://arxiv.org/abs/2307.11005v1)|null|
+|**2023-07-20**|**PASTA: Pretrained Action-State Transformer Agents**|Raphael Boige et.al.|[2307.10936v1](http://arxiv.org/abs/2307.10936v1)|null|
+|**2023-07-20**|**BlendFace: Re-designing Identity Encoders for Face-Swapping**|Kaede Shiohara et.al.|[2307.10854v1](http://arxiv.org/abs/2307.10854v1)|**[link](https://github.com/mapooon/blendface)**|
+|**2023-07-20**|**HyperReenact: One-Shot Reenactment via Jointly Learning to Refine and Retarget Faces**|Stella Bounareli et.al.|[2307.10797v1](http://arxiv.org/abs/2307.10797v1)|**[link](https://github.com/stelabou/hyperreenact)**|
+|**2023-07-20**|**Vesper: A Compact and Effective Pretrained Model for Speech Emotion Recognition**|Weidong Chen et.al.|[2307.10757v1](http://arxiv.org/abs/2307.10757v1)|**[link](https://github.com/happycolor/vesper)**|
+|**2023-07-20**|**Learning Discriminative Visual-Text Representation for Polyp Re-Identification**|Suncheng Xiang et.al.|[2307.10625v1](http://arxiv.org/abs/2307.10625v1)|**[link](https://github.com/jeremyxsc/vt-reid)**|
+|**2023-07-20**|**Deep fused flow and topology features for botnet detection basing on pretrained GCN**|Meng Xiaoyuan et.al.|[2307.10583v1](http://arxiv.org/abs/2307.10583v1)|null|
+|**2023-07-20**|**SC VALL-E: Style-Controllable Zero-Shot Text to Speech Synthesizer**|Daegyeom Kim et.al.|[2307.10550v1](http://arxiv.org/abs/2307.10550v1)|null|
+|**2023-07-19**|**Interpreting and Correcting Medical Image Classification with PIP-Net**|Meike Nauta et.al.|[2307.10404v1](http://arxiv.org/abs/2307.10404v1)|null|
 |**2023-07-19**|**Gradient Sparsification For Masked Fine-Tuning of Transformers**|James O' Neill et.al.|[2307.10098v1](http://arxiv.org/abs/2307.10098v1)|null|
 |**2023-07-20**|**Class Attention to Regions of Lesion for Imbalanced Medical Image Recognition**|Jia-Xin Zhuang et.al.|[2307.10036v2](http://arxiv.org/abs/2307.10036v2)|null|
 |**2023-07-19**|**An analysis on the effects of speaker embedding choice in non auto-regressive TTS**|Adriana Stan et.al.|[2307.09898v1](http://arxiv.org/abs/2307.09898v1)|null|
@@ -1267,12 +1276,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230721>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230722>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-20**|**L-Eval: Instituting Standardized Evaluation for Long Context Language Models**|Chenxin An et.al.|[2307.11088v1](http://arxiv.org/abs/2307.11088v1)|**[link](https://github.com/openlmlab/leval)**|
+|**2023-07-20**|**Metric3D: Towards Zero-shot Metric 3D Prediction from A Single Image**|Wei Yin et.al.|[2307.10984v1](http://arxiv.org/abs/2307.10984v1)|**[link](https://github.com/yvanyin/metric3d)**|
+|**2023-07-20**|**MASR: Metadata Aware Speech Representation**|Anjali Raj et.al.|[2307.10982v1](http://arxiv.org/abs/2307.10982v1)|null|
+|**2023-07-20**|**PASTA: Pretrained Action-State Transformer Agents**|Raphael Boige et.al.|[2307.10936v1](http://arxiv.org/abs/2307.10936v1)|null|
+|**2023-07-20**|**Sequential Multi-Dimensional Self-Supervised Learning for Clinical Time Series**|Aniruddh Raghu et.al.|[2307.10923v1](http://arxiv.org/abs/2307.10923v1)|null|
+|**2023-07-20**|**Revisiting Fine-Tuning Strategies for Self-supervised Medical Imaging Analysis**|Muhammad Osama Khan et.al.|[2307.10915v1](http://arxiv.org/abs/2307.10915v1)|null|
+|**2023-07-20**|**Transfer Learning and Bias Correction with Pre-trained Audio Embeddings**|Changhong Wang et.al.|[2307.10834v1](http://arxiv.org/abs/2307.10834v1)|**[link](https://github.com/changhongw/audio-embedding-bias)**|
+|**2023-07-20**|**Meta-Transformer: A Unified Framework for Multimodal Learning**|Yiyuan Zhang et.al.|[2307.10802v1](http://arxiv.org/abs/2307.10802v1)|**[link](https://github.com/invictus717/MetaTransformer)**|
+|**2023-07-20**|**SLPD: Slide-level Prototypical Distillation for WSIs**|Zhimiao Yu et.al.|[2307.10696v1](http://arxiv.org/abs/2307.10696v1)|null|
+|**2023-07-20**|**Fractional Denoising for 3D Molecular Pre-training**|Shikun Feng et.al.|[2307.10683v1](http://arxiv.org/abs/2307.10683v1)|**[link](https://github.com/fengshikun/frad)**|
 |**2023-07-19**|**LightPath: Lightweight and Scalable Path Representation Learning**|Sean Bin Yang et.al.|[2307.10171v1](http://arxiv.org/abs/2307.10171v1)|null|
 |**2023-07-19**|**Gradient Sparsification For Masked Fine-Tuning of Transformers**|James O' Neill et.al.|[2307.10098v1](http://arxiv.org/abs/2307.10098v1)|null|
 |**2023-07-19**|**Symmetric Equilibrium Learning of VAEs**|Boris Flach et.al.|[2307.09883v1](http://arxiv.org/abs/2307.09883v1)|null|
@@ -2441,7 +2460,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230721>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230722>back to top</a>)</p>
 
 ## adaptor
 
@@ -2494,12 +2513,22 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230721>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230722>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-20**|**AlignDet: Aligning Pre-training and Fine-tuning in Object Detection**|Ming Li et.al.|[2307.11077v1](http://arxiv.org/abs/2307.11077v1)|**[link](https://github.com/liming-ai/AlignDet)**|
+|**2023-07-20**|**Cascade-DETR: Delving into High-Quality Universal Object Detection**|Mingqiao Ye et.al.|[2307.11035v1](http://arxiv.org/abs/2307.11035v1)|**[link](https://github.com/syscv/cascade-detr)**|
+|**2023-07-20**|**PE-YOLO: Pyramid Enhancement Network for Dark Object Detection**|Xiangchen Yin et.al.|[2307.10953v1](http://arxiv.org/abs/2307.10953v1)|**[link](https://github.com/xiangchenyin/pe-yolo)**|
+|**2023-07-20**|**Improving Online Lane Graph Extraction by Object-Lane Clustering**|Yigit Baran Can et.al.|[2307.10947v1](http://arxiv.org/abs/2307.10947v1)|null|
+|**2023-07-20**|**Object detection and rangefinding with quantum states using simple detection**|Richard J. Murchie et.al.|[2307.10785v1](http://arxiv.org/abs/2307.10785v1)|null|
+|**2023-07-20**|**SMURF: Spatial Multi-Representation Fusion for 3D Object Detection with 4D Imaging Radar**|Jianan Liu et.al.|[2307.10784v1](http://arxiv.org/abs/2307.10784v1)|null|
+|**2023-07-20**|**MSQNet: Actor-agnostic Action Recognition with Multi-modal Query**|Anindya Mondal et.al.|[2307.10763v1](http://arxiv.org/abs/2307.10763v1)|**[link](https://github.com/mondalanindya/msqnet)**|
+|**2023-07-20**|**Pre-train, Adapt and Detect: Multi-Task Adapter Tuning for Camouflaged Object Detection**|Yinghui Xing et.al.|[2307.10685v1](http://arxiv.org/abs/2307.10685v1)|null|
+|**2023-07-20**|**Quantized Feature Distillation for Network Quantization**|Ke Zhu et.al.|[2307.10638v1](http://arxiv.org/abs/2307.10638v1)|null|
+|**2023-07-19**|**Backdoor Attack against Object Detection with Clean Annotation**|Yize Cheng et.al.|[2307.10487v1](http://arxiv.org/abs/2307.10487v1)|null|
 |**2023-07-19**|**TbExplain: A Text-based Explanation Method for Scene Classification Models with the Statistical Prediction Correction**|Amirhossein Aminimehr et.al.|[2307.10003v1](http://arxiv.org/abs/2307.10003v1)|null|
 |**2023-07-20**|**Domain Adaptation based Enhanced Detection for Autonomous Driving in Foggy and Rainy Weather**|Jinlong Li et.al.|[2307.09676v2](http://arxiv.org/abs/2307.09676v2)|null|
 |**2023-07-18**|**Knowledge Distillation for Object Detection: from generic to remote sensing datasets**|Hoàng-Ân Lê et.al.|[2307.09264v1](http://arxiv.org/abs/2307.09264v1)|null|
@@ -3598,7 +3627,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230721>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230722>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
