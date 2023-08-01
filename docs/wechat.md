@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2023.07.31
+> Updated on 2023.08.01
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,14 @@
 
 ## pretrain
 
+- 2023-07-28, **SimDETR: Simplifying self-supervised pretraining for DETR**, Ioannis Maniadis Metaxas et.al., Paper: [http://arxiv.org/abs/2307.15697v1](http://arxiv.org/abs/2307.15697v1)
+- 2023-07-28, **The FlySpeech Audio-Visual Speaker Diarization System for MISP Challenge 2022**, Li Zhang et.al., Paper: [http://arxiv.org/abs/2307.15400v1](http://arxiv.org/abs/2307.15400v1)
+- 2023-07-28, **Improving Audio-Text Retrieval via Hierarchical Cross-Modal Interaction and Auxiliary Captions**, Yifei Xin et.al., Paper: [http://arxiv.org/abs/2307.15344v1](http://arxiv.org/abs/2307.15344v1)
+- 2023-07-28, **ChatHome: Development and Evaluation of a Domain-Specific Language Model for Home Renovation**, Cheng Wen et.al., Paper: [http://arxiv.org/abs/2307.15290v1](http://arxiv.org/abs/2307.15290v1), Code: **[https://github.com/lianjiatech/belle](https://github.com/lianjiatech/belle)**
+- 2023-07-28, **Multilingual Lexical Simplification via Paraphrase Generation**, Kang Liu et.al., Paper: [http://arxiv.org/abs/2307.15286v1](http://arxiv.org/abs/2307.15286v1), Code: **[https://github.com/kpkqwq/lspg](https://github.com/kpkqwq/lspg)**
+- 2023-07-28, **AC-Norm: Effective Tuning for Medical Image Analysis via Affine Collaborative Normalization**, Chuyan Zhang et.al., Paper: [http://arxiv.org/abs/2307.15282v1](http://arxiv.org/abs/2307.15282v1), Code: **[https://github.com/endoluminalsurgicalvision-imr/acnorm](https://github.com/endoluminalsurgicalvision-imr/acnorm)**
+- 2023-07-28, **A deep transfer learning network for structural condition identification with limited real-world training data**, Nengxin Bao et.al., Paper: [http://arxiv.org/abs/2307.15249v1](http://arxiv.org/abs/2307.15249v1)
+- 2023-07-27, **Seal-3D: Interactive Pixel-Level Editing for Neural Radiance Fields**, Xiangyu Wang et.al., Paper: [http://arxiv.org/abs/2307.15131v1](http://arxiv.org/abs/2307.15131v1), Code: **[https://github.com/windingwind/seal-3d](https://github.com/windingwind/seal-3d)**
 - 2023-07-27, **Sample Less, Learn More: Efficient Action Recognition via Frame Feature Restoration**, Harry Cheng et.al., Paper: [http://arxiv.org/abs/2307.14866v1](http://arxiv.org/abs/2307.14866v1)
 - 2023-07-27, **Gloss-free Sign Language Translation: Improving from Visual-Language Pretraining**, Benjia Zhou et.al., Paper: [http://arxiv.org/abs/2307.14768v1](http://arxiv.org/abs/2307.14768v1)
 - 2023-07-27, **A Weakly Supervised Segmentation Network Embedding Cross-scale Attention Guidance and Noise-sensitive Constraint for Detecting Tertiary Lymphoid Structures of Pancreatic Tumors**, Bingxue Wang et.al., Paper: [http://arxiv.org/abs/2307.14603v1](http://arxiv.org/abs/2307.14603v1)
@@ -1305,12 +1313,18 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20230731>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230801>back to top</a>)</p>
 
 ## downstream
 
+- 2023-07-28, **SimDETR: Simplifying self-supervised pretraining for DETR**, Ioannis Maniadis Metaxas et.al., Paper: [http://arxiv.org/abs/2307.15697v1](http://arxiv.org/abs/2307.15697v1)
+- 2023-07-28, **CLIP Brings Better Features to Visual Aesthetics Learners**, Liwu Xu et.al., Paper: [http://arxiv.org/abs/2307.15640v1](http://arxiv.org/abs/2307.15640v1)
+- 2023-07-28, **Cross-Modal Concept Learning and Inference for Vision-Language Models**, Yi Zhang et.al., Paper: [http://arxiv.org/abs/2307.15460v1](http://arxiv.org/abs/2307.15460v1)
+- 2023-07-27, **Learning Multi-modal Representations by Watching Hundreds of Surgical Video Lectures**, Kun Yuan et.al., Paper: [http://arxiv.org/abs/2307.15220v1](http://arxiv.org/abs/2307.15220v1), Code: **[https://github.com/camma-public/surgvlp](https://github.com/camma-public/surgvlp)**
+- 2023-07-27, **The Marginal Value of Momentum for Small Learning Rate SGD**, Runzhe Wang et.al., Paper: [http://arxiv.org/abs/2307.15196v1](http://arxiv.org/abs/2307.15196v1)
+- 2023-07-27, **PEANUT: A Human-AI Collaborative Tool for Annotating Audio-Visual Data**, Zheng Zhang et.al., Paper: [http://arxiv.org/abs/2307.15167v1](http://arxiv.org/abs/2307.15167v1)
 - 2023-07-27, **Regularized Mask Tuning: Uncovering Hidden Knowledge in Pre-trained Vision-Language Models**, Kecheng Zheng et.al., Paper: [http://arxiv.org/abs/2307.15049v1](http://arxiv.org/abs/2307.15049v1)
-- 2023-07-27, **Pre-training Vision Transformers with Very Limited Synthesized Images**, Ryo Nakamura1 et.al., Paper: [http://arxiv.org/abs/2307.14710v1](http://arxiv.org/abs/2307.14710v1), Code: **[https://github.com/ryoo-nakamura/ofdb](https://github.com/ryoo-nakamura/ofdb)**
+- 2023-07-31, **Pre-training Vision Transformers with Very Limited Synthesized Images**, Ryo Nakamura et.al., Paper: [http://arxiv.org/abs/2307.14710v2](http://arxiv.org/abs/2307.14710v2), Code: **[https://github.com/ryoo-nakamura/ofdb](https://github.com/ryoo-nakamura/ofdb)**
 - 2023-07-27, **BubbleML: A Multi-Physics Dataset and Benchmarks for Machine Learning**, Sheikh Md Shakeel Hassan et.al., Paper: [http://arxiv.org/abs/2307.14623v1](http://arxiv.org/abs/2307.14623v1), Code: **[https://github.com/hpcforge/bubbleml](https://github.com/hpcforge/bubbleml)**
 - 2023-07-26, **MiDaS v3.1 -- A Model Zoo for Robust Monocular Relative Depth Estimation**, Reiner Birkl et.al., Paper: [http://arxiv.org/abs/2307.14460v1](http://arxiv.org/abs/2307.14460v1), Code: **[https://github.com/isl-org/MiDaS](https://github.com/isl-org/MiDaS)**
 - 2023-07-26, **DisguisOR: Holistic Face Anonymization for the Operating Room**, Lennart Bastian et.al., Paper: [http://arxiv.org/abs/2307.14241v1](http://arxiv.org/abs/2307.14241v1), Code: **[https://github.com/wngtn/disguisor](https://github.com/wngtn/disguisor)**
@@ -2516,7 +2530,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20230731>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230801>back to top</a>)</p>
 
 ## adaptor
 
@@ -2568,10 +2582,16 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20230731>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230801>back to top</a>)</p>
 
 ## object detection
 
+- 2023-07-28, **Semi-Supervised Object Detection in the Open World**, Garvita Allabadi et.al., Paper: [http://arxiv.org/abs/2307.15710v1](http://arxiv.org/abs/2307.15710v1)
+- 2023-07-28, **SimDETR: Simplifying self-supervised pretraining for DETR**, Ioannis Maniadis Metaxas et.al., Paper: [http://arxiv.org/abs/2307.15697v1](http://arxiv.org/abs/2307.15697v1)
+- 2023-07-28, **Local and Global Information in Obstacle Detection on Railway Tracks**, Matthias Brucker et.al., Paper: [http://arxiv.org/abs/2307.15478v1](http://arxiv.org/abs/2307.15478v1)
+- 2023-07-28, **Robust Visual Sim-to-Real Transfer for Robotic Manipulation**, Ricardo Garcia et.al., Paper: [http://arxiv.org/abs/2307.15320v1](http://arxiv.org/abs/2307.15320v1)
+- 2023-07-27, **EnSolver: Uncertainty-Aware CAPTCHA Solver Using Deep Ensembles**, Duc C. Hoang et.al., Paper: [http://arxiv.org/abs/2307.15180v1](http://arxiv.org/abs/2307.15180v1), Code: **[https://github.com/hoangcongduc/ensolver](https://github.com/hoangcongduc/ensolver)**
+- 2023-07-27, **PEANUT: A Human-AI Collaborative Tool for Annotating Audio-Visual Data**, Zheng Zhang et.al., Paper: [http://arxiv.org/abs/2307.15167v1](http://arxiv.org/abs/2307.15167v1)
 - 2023-07-27, **FLiCR: A Fast and Lightweight LiDAR Point Cloud Compression Based on Lossy RI**, Jin Heo et.al., Paper: [http://arxiv.org/abs/2307.15005v1](http://arxiv.org/abs/2307.15005v1)
 - 2023-07-27, **Practical Implementation of RIS-Aided Spectrum Sensing: A Deep Learning-Based Solution**, Sefa Kayraklik et.al., Paper: [http://arxiv.org/abs/2307.14985v1](http://arxiv.org/abs/2307.14985v1)
 - 2023-07-27, **Unified Adversarial Patch for Visible-Infrared Cross-modal Attacks in the Physical World**, Xingxing Wei et.al., Paper: [http://arxiv.org/abs/2307.14682v1](http://arxiv.org/abs/2307.14682v1), Code: **[https://github.com/aries-iai/cross-modal_patch_attack](https://github.com/aries-iai/cross-modal_patch_attack)**
@@ -3718,7 +3738,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20230731>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230801>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
