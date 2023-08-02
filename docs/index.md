@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.01
+## Updated on 2023.08.02
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-31**|**Towards Trustworthy and Aligned Machine Learning: A Data-centric Survey with Causality Perspectives**|Haoyang Liu et.al.|[2307.16851v1](http://arxiv.org/abs/2307.16851v1)|null|
+|**2023-07-31**|**UniVTG: Towards Unified Video-Language Temporal Grounding**|Kevin Qinghong Lin et.al.|[2307.16715v1](http://arxiv.org/abs/2307.16715v1)|**[link](https://github.com/showlab/univtg)**|
+|**2023-07-31**|**DDG-Net: Discriminability-Driven Graph Network for Weakly-supervised Temporal Action Localization**|Xiaojun Tang et.al.|[2307.16415v1](http://arxiv.org/abs/2307.16415v1)|**[link](https://github.com/xiaojuntang22/iccv2023-ddgnet)**|
+|**2023-07-31**|**MobileVidFactory: Automatic Diffusion-Based Social Media Video Generation for Mobile Devices from Text**|Junchen Zhu et.al.|[2307.16371v1](http://arxiv.org/abs/2307.16371v1)|null|
+|**2023-07-31**|**AntGPT: Can Large Language Models Help Long-term Action Anticipation from Videos?**|Qi Zhao et.al.|[2307.16368v1](http://arxiv.org/abs/2307.16368v1)|null|
+|**2023-07-30**|**Unified Model for Image, Video, Audio and Language Tasks**|Mustafa Shukor et.al.|[2307.16184v1](http://arxiv.org/abs/2307.16184v1)|**[link](https://github.com/mshukor/unival)**|
+|**2023-07-30**|**HD-Fusion: Detailed Text-to-3D Generation Leveraging Multiple Noise Estimation**|Jinbo Wu et.al.|[2307.16183v1](http://arxiv.org/abs/2307.16183v1)|null|
+|**2023-08-01**|**Motion Degeneracy in Self-supervised Learning of Elevation Angle Estimation for 2D Forward-Looking Sonar**|Yusheng Wang et.al.|[2307.16160v2](http://arxiv.org/abs/2307.16160v2)|null|
+|**2023-07-29**|**Instance-Wise Adaptive Tuning and Caching for Vision-Language Models**|Chunjin Yang et.al.|[2307.15983v1](http://arxiv.org/abs/2307.15983v1)|null|
+|**2023-07-29**|**GeneMask: Fast Pretraining of Gene Sequences to Enable Few-Shot Learning**|Soumyadeep Roy et.al.|[2307.15933v1](http://arxiv.org/abs/2307.15933v1)|**[link](https://github.com/roysoumya/genemask)**|
 |**2023-07-28**|**SimDETR: Simplifying self-supervised pretraining for DETR**|Ioannis Maniadis Metaxas et.al.|[2307.15697v1](http://arxiv.org/abs/2307.15697v1)|null|
 |**2023-07-28**|**The FlySpeech Audio-Visual Speaker Diarization System for MISP Challenge 2022**|Li Zhang et.al.|[2307.15400v1](http://arxiv.org/abs/2307.15400v1)|null|
 |**2023-07-28**|**Improving Audio-Text Retrieval via Hierarchical Cross-Modal Interaction and Auxiliary Captions**|Yifei Xin et.al.|[2307.15344v1](http://arxiv.org/abs/2307.15344v1)|null|
@@ -1319,12 +1329,22 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230801>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230802>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-31**|**Disruptive Autoencoders: Leveraging Low-level features for 3D Medical Image Pre-training**|Jeya Maria Jose Valanarasu et.al.|[2307.16896v1](http://arxiv.org/abs/2307.16896v1)|null|
+|**2023-07-31**|**KoBBQ: Korean Bias Benchmark for Question Answering**|Jiho Jin et.al.|[2307.16778v1](http://arxiv.org/abs/2307.16778v1)|null|
+|**2023-07-31**|**Poly-MOT: A Polyhedral Framework For 3D Multi-Object Tracking**|Xiaoyu Li et.al.|[2307.16675v1](http://arxiv.org/abs/2307.16675v1)|**[link](https://github.com/lixiaoyu2000/Poly-MOT)**|
+|**2023-07-31**|**FULLER: Unified Multi-modality Multi-task 3D Perception via Multi-level Gradient Calibration**|Zhijian Huang et.al.|[2307.16617v1](http://arxiv.org/abs/2307.16617v1)|null|
+|**2023-07-28**|**VPP: Efficient Conditional 3D Generation via Voxel-Point Progressive Representation**|Zekun Qi et.al.|[2307.16605v1](http://arxiv.org/abs/2307.16605v1)|null|
+|**2023-07-31**|**Camoscio: an Italian Instruction-tuned LLaMA**|Andrea Santilli et.al.|[2307.16456v1](http://arxiv.org/abs/2307.16456v1)|**[link](https://github.com/teelinsan/camoscio)**|
+|**2023-07-30**|**Self-Supervised Learning of Gait-Based Biomarkers**|R. James Cotton et.al.|[2307.16321v1](http://arxiv.org/abs/2307.16321v1)|null|
+|**2023-07-29**|**Instance-Wise Adaptive Tuning and Caching for Vision-Language Models**|Chunjin Yang et.al.|[2307.15983v1](http://arxiv.org/abs/2307.15983v1)|null|
+|**2023-07-29**|**UniBriVL: Robust Universal Representation and Generation of Audio Driven Diffusion Models**|Sen Fang et.al.|[2307.15898v1](http://arxiv.org/abs/2307.15898v1)|null|
+|**2023-07-29**|**Effective Whole-body Pose Estimation with Two-stages Distillation**|Zhendong Yang et.al.|[2307.15880v1](http://arxiv.org/abs/2307.15880v1)|**[link](https://github.com/idea-research/dwpose)**|
 |**2023-07-28**|**SimDETR: Simplifying self-supervised pretraining for DETR**|Ioannis Maniadis Metaxas et.al.|[2307.15697v1](http://arxiv.org/abs/2307.15697v1)|null|
 |**2023-07-28**|**CLIP Brings Better Features to Visual Aesthetics Learners**|Liwu Xu et.al.|[2307.15640v1](http://arxiv.org/abs/2307.15640v1)|null|
 |**2023-07-28**|**Cross-Modal Concept Learning and Inference for Vision-Language Models**|Yi Zhang et.al.|[2307.15460v1](http://arxiv.org/abs/2307.15460v1)|null|
@@ -2538,7 +2558,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230801>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230802>back to top</a>)</p>
 
 ## adaptor
 
@@ -2592,12 +2612,21 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230801>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230802>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-31**|**High-Performance Fine Defect Detection in Artificial Leather Using Dual Feature Pool Object Detection**|Lin Huang et.al.|[2307.16751v1](http://arxiv.org/abs/2307.16751v1)|null|
+|**2023-07-31**|**DiffPose: SpatioTemporal Diffusion Model for Video-Based Human Pose Estimation**|Runyang Feng et.al.|[2307.16687v1](http://arxiv.org/abs/2307.16687v1)|null|
+|**2023-07-31**|**Towards Head Computed Tomography Image Reconstruction Standardization with Deep Learning Assisted Automatic Detection**|Bowen Zheng et.al.|[2307.16440v1](http://arxiv.org/abs/2307.16440v1)|null|
+|**2023-07-31**|**Detecting Out-of-distribution Objects Using Neuron Activation Patterns**|Bartłomiej Olber et.al.|[2307.16433v1](http://arxiv.org/abs/2307.16433v1)|**[link](https://github.com/safednn-group/naptron)**|
+|**2023-07-31**|**RCS-YOLO: A Fast and High-Accuracy Object Detector for Brain Tumor Detection**|Ming Kang et.al.|[2307.16412v1](http://arxiv.org/abs/2307.16412v1)|**[link](https://github.com/mkang315/rcs-yolo)**|
+|**2023-07-30**|**Implementing Edge Based Object Detection For Microplastic Debris**|Amardeep Singh et.al.|[2307.16289v1](http://arxiv.org/abs/2307.16289v1)|null|
+|**2023-07-30**|**Uncertainty-Encoded Multi-Modal Fusion for Robust Object Detection in Autonomous Driving**|Yang Lou et.al.|[2307.16121v1](http://arxiv.org/abs/2307.16121v1)|null|
+|**2023-07-29**|**Enhancing Object Detection in Ancient Documents with Synthetic Data Generation and Transformer-Based Models**|Zahra Ziran et.al.|[2307.16005v1](http://arxiv.org/abs/2307.16005v1)|null|
+|**2023-07-28**|**Multi-growth stage plant recognition: a case study of Palmer amaranth (Amaranthus palmeri) in cotton (Gossypium hirsutum)**|Guy RY Coleman et.al.|[2307.15816v1](http://arxiv.org/abs/2307.15816v1)|null|
 |**2023-07-28**|**Semi-Supervised Object Detection in the Open World**|Garvita Allabadi et.al.|[2307.15710v1](http://arxiv.org/abs/2307.15710v1)|null|
 |**2023-07-28**|**SimDETR: Simplifying self-supervised pretraining for DETR**|Ioannis Maniadis Metaxas et.al.|[2307.15697v1](http://arxiv.org/abs/2307.15697v1)|null|
 |**2023-07-28**|**Local and Global Information in Obstacle Detection on Railway Tracks**|Matthias Brucker et.al.|[2307.15478v1](http://arxiv.org/abs/2307.15478v1)|null|
@@ -3750,7 +3779,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230801>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230802>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
