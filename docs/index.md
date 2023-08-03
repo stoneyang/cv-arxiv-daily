@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.02
+## Updated on 2023.08.03
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-01**|**CodeBPE: Investigating Subtokenization Options for Large Language Model Pretraining on Source Code**|Nadezhda Chirkova et.al.|[2308.00683v1](http://arxiv.org/abs/2308.00683v1)|null|
+|**2023-08-01**|**An L2-Normalized Spatial Attention Network For Accurate And Fast Classification Of Brain Tumors In 2D T1-Weighted CE-MRI Images**|Grace Billingsley et.al.|[2308.00491v1](http://arxiv.org/abs/2308.00491v1)|**[link](https://github.com/juliadietlmeier/mri_image_classification)**|
+|**2023-08-01**|**DINO-CXR: A self supervised method based on vision transformer for chest X-ray classification**|Mohammadreza Shakouri et.al.|[2308.00475v1](http://arxiv.org/abs/2308.00475v1)|null|
+|**2023-08-01**|**ViT2EEG: Leveraging Hybrid Pretrained Vision Transformers for EEG Data**|Ruiqi Yang et.al.|[2308.00454v1](http://arxiv.org/abs/2308.00454v1)|**[link](https://github.com/ruiqirichard/eegeyenet-vit)**|
+|**2023-08-01**|**Fountain -- an intelligent contextual assistant combining knowledge representation and language models for manufacturing risk identification**|Saurabh Kumar et.al.|[2308.00364v1](http://arxiv.org/abs/2308.00364v1)|null|
+|**2023-08-01**|**Skills-in-Context Prompting: Unlocking Compositionality in Large Language Models**|Jiaao Chen et.al.|[2308.00304v1](http://arxiv.org/abs/2308.00304v1)|null|
+|**2023-08-01**|**The Algonauts Project 2023 Challenge: UARK-UAlbany Team Solution**|Xuan-Bac Nguyen et.al.|[2308.00262v1](http://arxiv.org/abs/2308.00262v1)|**[link](https://github.com/uark-cviu/algonauts2023)**|
+|**2023-08-01**|**Instructed to Bias: Instruction-Tuned Language Models Exhibit Emergent Cognitive Bias**|Itay Itzhak et.al.|[2308.00225v1](http://arxiv.org/abs/2308.00225v1)|null|
+|**2023-07-31**|**Generative Models as a Complex Systems Science: How can we make sense of large language model behavior?**|Ari Holtzman et.al.|[2308.00189v1](http://arxiv.org/abs/2308.00189v1)|null|
+|**2023-07-31**|**Pretrained deep models outperform GBDTs in Learning-To-Rank under label scarcity**|Charlie Hou et.al.|[2308.00177v1](http://arxiv.org/abs/2308.00177v1)|null|
 |**2023-07-31**|**Towards Trustworthy and Aligned Machine Learning: A Data-centric Survey with Causality Perspectives**|Haoyang Liu et.al.|[2307.16851v1](http://arxiv.org/abs/2307.16851v1)|null|
 |**2023-07-31**|**UniVTG: Towards Unified Video-Language Temporal Grounding**|Kevin Qinghong Lin et.al.|[2307.16715v1](http://arxiv.org/abs/2307.16715v1)|**[link](https://github.com/showlab/univtg)**|
 |**2023-07-31**|**DDG-Net: Discriminability-Driven Graph Network for Weakly-supervised Temporal Action Localization**|Xiaojun Tang et.al.|[2307.16415v1](http://arxiv.org/abs/2307.16415v1)|**[link](https://github.com/xiaojuntang22/iccv2023-ddgnet)**|
@@ -1329,12 +1339,15 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230802>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230803>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-01**|**Graph Contrastive Learning with Generative Adversarial Network**|Cheng Wu et.al.|[2308.00535v1](http://arxiv.org/abs/2308.00535v1)|null|
+|**2023-08-01**|**Shape Completion with Prediction of Uncertain Regions**|Matthias Humt et.al.|[2308.00377v1](http://arxiv.org/abs/2308.00377v1)|**[link](https://github.com/dlr-rm/shape-completion)**|
+|**2023-08-01**|**Improving Pixel-based MIM by Reducing Wasted Modeling Capability**|Yuan Liu et.al.|[2308.00261v1](http://arxiv.org/abs/2308.00261v1)|**[link](https://github.com/open-mmlab/mmpretrain)**|
 |**2023-07-31**|**Disruptive Autoencoders: Leveraging Low-level features for 3D Medical Image Pre-training**|Jeya Maria Jose Valanarasu et.al.|[2307.16896v1](http://arxiv.org/abs/2307.16896v1)|null|
 |**2023-07-31**|**KoBBQ: Korean Bias Benchmark for Question Answering**|Jiho Jin et.al.|[2307.16778v1](http://arxiv.org/abs/2307.16778v1)|null|
 |**2023-07-31**|**Poly-MOT: A Polyhedral Framework For 3D Multi-Object Tracking**|Xiaoyu Li et.al.|[2307.16675v1](http://arxiv.org/abs/2307.16675v1)|**[link](https://github.com/lixiaoyu2000/Poly-MOT)**|
@@ -2558,7 +2571,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230802>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230803>back to top</a>)</p>
 
 ## adaptor
 
@@ -2612,12 +2625,16 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230802>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230803>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-01**|**MonoNext: A 3D Monocular Object Detection with ConvNext**|Marcelo Eduardo Pederiva et.al.|[2308.00596v1](http://arxiv.org/abs/2308.00596v1)|null|
+|**2023-08-01**|**A Satellite Imagery Dataset for Long-Term Sustainable Development in United States Cities**|Yanxin Xi et.al.|[2308.00465v1](http://arxiv.org/abs/2308.00465v1)|**[link](https://github.com/axin1301/satellite-imagery-dataset)**|
+|**2023-08-01**|**Advancing Frame-Dropping in Multi-Object Tracking-by-Detection Systems Through Event-Based Detection Triggering**|Matti Henning et.al.|[2308.00330v1](http://arxiv.org/abs/2308.00330v1)|null|
+|**2023-08-01**|**Diffusion Model for Camouflaged Object Detection**|Zhennan Chen et.al.|[2308.00303v1](http://arxiv.org/abs/2308.00303v1)|null|
 |**2023-07-31**|**High-Performance Fine Defect Detection in Artificial Leather Using Dual Feature Pool Object Detection**|Lin Huang et.al.|[2307.16751v1](http://arxiv.org/abs/2307.16751v1)|null|
 |**2023-07-31**|**DiffPose: SpatioTemporal Diffusion Model for Video-Based Human Pose Estimation**|Runyang Feng et.al.|[2307.16687v1](http://arxiv.org/abs/2307.16687v1)|null|
 |**2023-07-31**|**Towards Head Computed Tomography Image Reconstruction Standardization with Deep Learning Assisted Automatic Detection**|Bowen Zheng et.al.|[2307.16440v1](http://arxiv.org/abs/2307.16440v1)|null|
@@ -3779,7 +3796,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230802>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230803>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
