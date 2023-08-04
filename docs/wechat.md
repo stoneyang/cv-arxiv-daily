@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2023.08.03
+> Updated on 2023.08.04
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,9 @@
 
 ## pretrain
 
+- 2023-08-02, **Teaching Smaller Language Models To Generalise To Unseen Compositional Questions**, Tim Hartill et.al., Paper: [http://arxiv.org/abs/2308.00946v1](http://arxiv.org/abs/2308.00946v1)
+- 2023-08-01, **Ada-DQA: Adaptive Diverse Quality-aware Feature Acquisition for Video Quality Assessment**, Hongbo Liu et.al., Paper: [http://arxiv.org/abs/2308.00729v1](http://arxiv.org/abs/2308.00729v1)
+- 2023-08-01, **Adaptive Semantic Consistency for Cross-domain Few-shot Classification**, Hengchu Lu et.al., Paper: [http://arxiv.org/abs/2308.00727v1](http://arxiv.org/abs/2308.00727v1)
 - 2023-08-01, **CodeBPE: Investigating Subtokenization Options for Large Language Model Pretraining on Source Code**, Nadezhda Chirkova et.al., Paper: [http://arxiv.org/abs/2308.00683v1](http://arxiv.org/abs/2308.00683v1)
 - 2023-08-01, **An L2-Normalized Spatial Attention Network For Accurate And Fast Classification Of Brain Tumors In 2D T1-Weighted CE-MRI Images**, Grace Billingsley et.al., Paper: [http://arxiv.org/abs/2308.00491v1](http://arxiv.org/abs/2308.00491v1), Code: **[https://github.com/juliadietlmeier/mri_image_classification](https://github.com/juliadietlmeier/mri_image_classification)**
 - 2023-08-01, **DINO-CXR: A self supervised method based on vision transformer for chest X-ray classification**, Mohammadreza Shakouri et.al., Paper: [http://arxiv.org/abs/2308.00475v1](http://arxiv.org/abs/2308.00475v1)
@@ -1333,10 +1336,15 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20230803>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230804>back to top</a>)</p>
 
 ## downstream
 
+- 2023-08-02, **Evaluating Instruction-Tuned Large Language Models on Code Comprehension and Generation**, Zhiqiang Yuan et.al., Paper: [http://arxiv.org/abs/2308.01240v1](http://arxiv.org/abs/2308.01240v1)
+- 2023-08-02, **Interpretable End-to-End Driving Model for Implicit Scene Understanding**, Yiyang Sun et.al., Paper: [http://arxiv.org/abs/2308.01180v1](http://arxiv.org/abs/2308.01180v1)
+- 2023-08-02, **Beyond Generic: Enhancing Image Captioning with Real-World Knowledge using Vision-Language Pre-Training Model**, Kanzhi Cheng et.al., Paper: [http://arxiv.org/abs/2308.01126v1](http://arxiv.org/abs/2308.01126v1), Code: **[https://github.com/njucckevin/knowcap](https://github.com/njucckevin/knowcap)**
+- 2023-08-02, **ImageBrush: Learning Visual In-Context Instructions for Exemplar-Based Image Manipulation**, Yasheng Sun et.al., Paper: [http://arxiv.org/abs/2308.00906v1](http://arxiv.org/abs/2308.00906v1)
+- 2023-08-01, **High-Fidelity Eye Animatable Neural Radiance Fields for Human Face**, Hengfei Wang et.al., Paper: [http://arxiv.org/abs/2308.00773v1](http://arxiv.org/abs/2308.00773v1)
 - 2023-08-01, **Graph Contrastive Learning with Generative Adversarial Network**, Cheng Wu et.al., Paper: [http://arxiv.org/abs/2308.00535v1](http://arxiv.org/abs/2308.00535v1)
 - 2023-08-01, **Shape Completion with Prediction of Uncertain Regions**, Matthias Humt et.al., Paper: [http://arxiv.org/abs/2308.00377v1](http://arxiv.org/abs/2308.00377v1), Code: **[https://github.com/dlr-rm/shape-completion](https://github.com/dlr-rm/shape-completion)**
 - 2023-08-01, **Improving Pixel-based MIM by Reducing Wasted Modeling Capability**, Yuan Liu et.al., Paper: [http://arxiv.org/abs/2308.00261v1](http://arxiv.org/abs/2308.00261v1), Code: **[https://github.com/open-mmlab/mmpretrain](https://github.com/open-mmlab/mmpretrain)**
@@ -2563,7 +2571,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20230803>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230804>back to top</a>)</p>
 
 ## adaptor
 
@@ -2615,10 +2623,16 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20230803>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230804>back to top</a>)</p>
 
 ## object detection
 
+- 2023-08-02, **Revisiting DETR Pre-training for Object Detection**, Yan Ma et.al., Paper: [http://arxiv.org/abs/2308.01300v1](http://arxiv.org/abs/2308.01300v1)
+- 2023-08-02, **Interpretable End-to-End Driving Model for Implicit Scene Understanding**, Yiyang Sun et.al., Paper: [http://arxiv.org/abs/2308.01180v1](http://arxiv.org/abs/2308.01180v1)
+- 2023-08-02, **Point Anywhere: Directed Object Estimation from Omnidirectional Images**, Nanami Kotani et.al., Paper: [http://arxiv.org/abs/2308.01010v1](http://arxiv.org/abs/2308.01010v1), Code: **[https://github.com/nkotani/pointanywhere](https://github.com/nkotani/pointanywhere)**
+- 2023-08-02, **MDT3D: Multi-Dataset Training for LiDAR 3D Object Detection Generalization**, Louis Soum-Fontez et.al., Paper: [http://arxiv.org/abs/2308.01000v1](http://arxiv.org/abs/2308.01000v1)
+- 2023-08-02, **Detection and Segmentation of Cosmic Objects Based on Adaptive Thresholding and Back Propagation Neural Network**, Samia Sultana et.al., Paper: [http://arxiv.org/abs/2308.00926v1](http://arxiv.org/abs/2308.00926v1)
+- 2023-08-01, **Boosting the Performance of Object Tracking with a Half-Precision Particle Filter on GPU**, Gabin Schieffer et.al., Paper: [http://arxiv.org/abs/2308.00763v1](http://arxiv.org/abs/2308.00763v1)
 - 2023-08-01, **MonoNext: A 3D Monocular Object Detection with ConvNext**, Marcelo Eduardo Pederiva et.al., Paper: [http://arxiv.org/abs/2308.00596v1](http://arxiv.org/abs/2308.00596v1)
 - 2023-08-01, **A Satellite Imagery Dataset for Long-Term Sustainable Development in United States Cities**, Yanxin Xi et.al., Paper: [http://arxiv.org/abs/2308.00465v1](http://arxiv.org/abs/2308.00465v1), Code: **[https://github.com/axin1301/satellite-imagery-dataset](https://github.com/axin1301/satellite-imagery-dataset)**
 - 2023-08-01, **Advancing Frame-Dropping in Multi-Object Tracking-by-Detection Systems Through Event-Based Detection Triggering**, Matti Henning et.al., Paper: [http://arxiv.org/abs/2308.00330v1](http://arxiv.org/abs/2308.00330v1)
@@ -3784,7 +3798,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20230803>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230804>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
