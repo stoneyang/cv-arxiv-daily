@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2023.08.08
+> Updated on 2023.08.09
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,8 +17,15 @@
 
 ## pretrain
 
+- 2023-08-07, **AdaptiveSAM: Towards Efficient Tuning of SAM for Surgical Scene Segmentation**, Jay N. Paranjape et.al., Paper: [http://arxiv.org/abs/2308.03726v1](http://arxiv.org/abs/2308.03726v1), Code: **[https://github.com/jayparanjape/biastuning](https://github.com/jayparanjape/biastuning)**
+- 2023-08-07, **Exploring Visual Pre-training for Robot Manipulation: Datasets, Models and Methods**, Ya Jing et.al., Paper: [http://arxiv.org/abs/2308.03620v1](http://arxiv.org/abs/2308.03620v1)
+- 2023-08-07, **When GPT Meets Program Analysis: Towards Intelligent Detection of Smart Contract Logic Vulnerabilities in GPTScan**, Yuqiang Sun et.al., Paper: [http://arxiv.org/abs/2308.03314v1](http://arxiv.org/abs/2308.03314v1)
+- 2023-08-06, **Introducing Feature Attention Module on Convolutional Neural Network for Diabetic Retinopathy Detection**, Susmita Ghosh et.al., Paper: [http://arxiv.org/abs/2308.02985v1](http://arxiv.org/abs/2308.02985v1)
+- 2023-08-05, **DiffDance: Cascaded Human Motion Diffusion Model for Dance Generation**, Qiaosong Qi et.al., Paper: [http://arxiv.org/abs/2308.02915v1](http://arxiv.org/abs/2308.02915v1)
+- 2023-08-05, **Improving Generalization of Image Captioning with Unsupervised Prompt Learning**, Hongchen Wei et.al., Paper: [http://arxiv.org/abs/2308.02862v1](http://arxiv.org/abs/2308.02862v1)
+- 2023-08-05, **Dual Degradation-Inspired Deep Unfolding Network for Low-Light Image Enhancement**, Huake Wang et.al., Paper: [http://arxiv.org/abs/2308.02776v1](http://arxiv.org/abs/2308.02776v1)
 - 2023-08-04, **Convolutions Die Hard: Open-Vocabulary Segmentation with Single Frozen Convolutional CLIP**, Qihang Yu et.al., Paper: [http://arxiv.org/abs/2308.02487v1](http://arxiv.org/abs/2308.02487v1), Code: **[https://github.com/bytedance/fc-clip](https://github.com/bytedance/fc-clip)**
-- 2023-08-04, **A Parameter-efficient Multi-subject Model for Predicting fMRI Activity**, Connor Lane et.al., Paper: [http://arxiv.org/abs/2308.02351v1](http://arxiv.org/abs/2308.02351v1)
+- 2023-08-04, **A Parameter-efficient Multi-subject Model for Predicting fMRI Activity**, Connor Lane et.al., Paper: [http://arxiv.org/abs/2308.02351v1](http://arxiv.org/abs/2308.02351v1), Code: **[https://github.com/cmi-dair/algonauts23](https://github.com/cmi-dair/algonauts23)**
 - 2023-08-04, **Explaining Relation Classification Models with Semantic Extents**, Lars Klöser et.al., Paper: [http://arxiv.org/abs/2308.02193v1](http://arxiv.org/abs/2308.02193v1), Code: **[https://github.com/mslars/semantic_extents](https://github.com/mslars/semantic_extents)**
 - 2023-08-03, **DualCoOp++: Fast and Effective Adaptation to Multi-Label Recognition with Limited Annotations**, Ping Hu et.al., Paper: [http://arxiv.org/abs/2308.01890v1](http://arxiv.org/abs/2308.01890v1)
 - 2023-08-03, **MAP: A Model-agnostic Pretraining Framework for Click-through Rate Prediction**, Jianghao Lin et.al., Paper: [http://arxiv.org/abs/2308.01737v1](http://arxiv.org/abs/2308.01737v1), Code: **[https://github.com/chiangel/map-code](https://github.com/chiangel/map-code)**
@@ -1345,10 +1352,19 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20230808>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230809>back to top</a>)</p>
 
 ## downstream
 
+- 2023-08-07, **Emotionally Numb or Empathetic? Evaluating How LLMs Feel Using EmotionBench**, Jen-tse Huang et.al., Paper: [http://arxiv.org/abs/2308.03656v1](http://arxiv.org/abs/2308.03656v1), Code: **[https://github.com/cuhk-arise/emotionbench](https://github.com/cuhk-arise/emotionbench)**
+- 2023-08-07, **FeatEnHancer: Enhancing Hierarchical Features for Object Detection and Beyond Under Low-Light Vision**, Khurram Azeem Hashmi et.al., Paper: [http://arxiv.org/abs/2308.03594v1](http://arxiv.org/abs/2308.03594v1)
+- 2023-08-07, **WIKITIDE: A Wikipedia-Based Timestamped Definition Pairs Dataset**, Hsuvas Borkakoty et.al., Paper: [http://arxiv.org/abs/2308.03582v1](http://arxiv.org/abs/2308.03582v1)
+- 2023-08-07, **Balanced Face Dataset: Guiding StyleGAN to Generate Labeled Synthetic Face Image Dataset for Underrepresented Group**, Kidist Amde Mekonnen et.al., Paper: [http://arxiv.org/abs/2308.03495v1](http://arxiv.org/abs/2308.03495v1)
+- 2023-08-07, **COPA: Efficient Vision-Language Pre-training Through Collaborative Object- and Patch-Text Alignment**, Chaoya Jiang et.al., Paper: [http://arxiv.org/abs/2308.03475v1](http://arxiv.org/abs/2308.03475v1)
+- 2023-08-07, **Learning a Graph Neural Network with Cross Modality Interaction for Image Fusion**, Jiawei Li et.al., Paper: [http://arxiv.org/abs/2308.03256v1](http://arxiv.org/abs/2308.03256v1), Code: **[https://github.com/lok-18/ignet](https://github.com/lok-18/ignet)**
+- 2023-08-06, **Food-500 Cap: A Fine-Grained Food Caption Benchmark for Evaluating Vision-Language Models**, Zheng Ma et.al., Paper: [http://arxiv.org/abs/2308.03151v1](http://arxiv.org/abs/2308.03151v1)
+- 2023-08-05, **PromptCARE: Prompt Copyright Protection by Watermark Injection and Verification**, Hongwei Yao et.al., Paper: [http://arxiv.org/abs/2308.02816v1](http://arxiv.org/abs/2308.02816v1)
+- 2023-08-04, **Uncertainty Estimation and Propagation in Accelerated MRI Reconstruction**, Paul Fischer et.al., Paper: [http://arxiv.org/abs/2308.02631v1](http://arxiv.org/abs/2308.02631v1), Code: **[https://github.com/paulkogni/mr-recon-uq](https://github.com/paulkogni/mr-recon-uq)**
 - 2023-08-04, **On the Calibration of Uncertainty Estimation in LiDAR-based Semantic Segmentation**, Mariella Dreissig et.al., Paper: [http://arxiv.org/abs/2308.02248v1](http://arxiv.org/abs/2308.02248v1)
 - 2023-08-03, **A Graphical Approach to Document Layout Analysis**, Jilin Wang et.al., Paper: [http://arxiv.org/abs/2308.02051v1](http://arxiv.org/abs/2308.02051v1)
 - 2023-08-03, **Silence Speaks Volumes: Re-weighting Techniques for Under-Represented Users in Fake News Detection**, Mansooreh Karami et.al., Paper: [http://arxiv.org/abs/2308.02011v1](http://arxiv.org/abs/2308.02011v1)
@@ -2590,7 +2606,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20230808>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230809>back to top</a>)</p>
 
 ## adaptor
 
@@ -2643,10 +2659,20 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20230808>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230809>back to top</a>)</p>
 
 ## object detection
 
+- 2023-08-07, **FSD V2: Improving Fully Sparse 3D Object Detection with Virtual Voxels**, Lue Fan et.al., Paper: [http://arxiv.org/abs/2308.03755v1](http://arxiv.org/abs/2308.03755v1), Code: **[https://github.com/tusen-ai/sst](https://github.com/tusen-ai/sst)**
+- 2023-08-07, **Mask Frozen-DETR: High Quality Instance Segmentation with One GPU**, Zhanhao Liang et.al., Paper: [http://arxiv.org/abs/2308.03747v1](http://arxiv.org/abs/2308.03747v1)
+- 2023-08-07, **Automated Real Time Delineation of Supraclavicular Brachial Plexus in Neck Ultrasonography Videos: A Deep Learning Approach**, Abhay Tyagi et.al., Paper: [http://arxiv.org/abs/2308.03717v1](http://arxiv.org/abs/2308.03717v1)
+- 2023-08-07, **FeatEnHancer: Enhancing Hierarchical Features for Object Detection and Beyond Under Low-Light Vision**, Khurram Azeem Hashmi et.al., Paper: [http://arxiv.org/abs/2308.03594v1](http://arxiv.org/abs/2308.03594v1)
+- 2023-08-07, **Keyword Spotting Simplified: A Segmentation-Free Approach using Character Counting and CTC re-scoring**, George Retsinas et.al., Paper: [http://arxiv.org/abs/2308.03515v1](http://arxiv.org/abs/2308.03515v1)
+- 2023-08-07, **COPA: Efficient Vision-Language Pre-training Through Collaborative Object- and Patch-Text Alignment**, Chaoya Jiang et.al., Paper: [http://arxiv.org/abs/2308.03475v1](http://arxiv.org/abs/2308.03475v1)
+- 2023-08-07, **RoadScan: A Novel and Robust Transfer Learning Framework for Autonomous Pothole Detection in Roads**, Guruprasad Parasnis et.al., Paper: [http://arxiv.org/abs/2308.03467v1](http://arxiv.org/abs/2308.03467v1)
+- 2023-08-07, **DiT: Efficient Vision Transformers with Dynamic Token Routing**, Yuchen Ma et.al., Paper: [http://arxiv.org/abs/2308.03409v1](http://arxiv.org/abs/2308.03409v1), Code: **[https://github.com/maycbj/dit](https://github.com/maycbj/dit)**
+- 2023-08-07, **Distortion-aware Transformer in 360° Salient Object Detection**, Yinjie Zhao et.al., Paper: [http://arxiv.org/abs/2308.03359v1](http://arxiv.org/abs/2308.03359v1)
+- 2023-08-06, **Syn-Mediverse: A Multimodal Synthetic Dataset for Intelligent Scene Understanding of Healthcare Facilities**, Rohit Mohan et.al., Paper: [http://arxiv.org/abs/2308.03193v1](http://arxiv.org/abs/2308.03193v1)
 - 2023-08-04, **Balanced Classification: A Unified Framework for Long-Tailed Object Detection**, Tianhao Qi et.al., Paper: [http://arxiv.org/abs/2308.02213v1](http://arxiv.org/abs/2308.02213v1), Code: **[https://github.com/tianhao-qi/bacl](https://github.com/tianhao-qi/bacl)**
 - 2023-08-03, **ETran: Energy-Based Transferability Estimation**, Mohsen Gholami et.al., Paper: [http://arxiv.org/abs/2308.02027v1](http://arxiv.org/abs/2308.02027v1)
 - 2023-08-03, **FROD: Robust Object Detection for Free**, Muhammad et.al., Paper: [http://arxiv.org/abs/2308.01888v1](http://arxiv.org/abs/2308.01888v1)
@@ -3827,7 +3853,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20230808>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230809>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
