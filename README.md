@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.09
+## Updated on 2023.08.10
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-08**|**Pengembangan Model untuk Mendeteksi Kerusakan pada Terumbu Karang dengan Klasifikasi Citra**|Fadhil Muhammad et.al.|[2308.04337v1](http://arxiv.org/abs/2308.04337v1)|null|
+|**2023-08-08**|**In-Context Alignment: Chat with Vanilla Language Models Before Fine-Tuning**|Xiaochuang Han et.al.|[2308.04275v1](http://arxiv.org/abs/2308.04275v1)|**[link](https://github.com/xhan77/in-context-alignment)**|
+|**2023-08-08**|**Prompted Contrast with Masked Motion Modeling: Towards Versatile 3D Action Representation Learning**|Jiahang Zhang et.al.|[2308.03975v1](http://arxiv.org/abs/2308.03975v1)|null|
 |**2023-08-07**|**AdaptiveSAM: Towards Efficient Tuning of SAM for Surgical Scene Segmentation**|Jay N. Paranjape et.al.|[2308.03726v1](http://arxiv.org/abs/2308.03726v1)|**[link](https://github.com/jayparanjape/biastuning)**|
 |**2023-08-07**|**Exploring Visual Pre-training for Robot Manipulation: Datasets, Models and Methods**|Ya Jing et.al.|[2308.03620v1](http://arxiv.org/abs/2308.03620v1)|null|
 |**2023-08-07**|**When GPT Meets Program Analysis: Towards Intelligent Detection of Smart Contract Logic Vulnerabilities in GPTScan**|Yuqiang Sun et.al.|[2308.03314v1](http://arxiv.org/abs/2308.03314v1)|null|
@@ -1354,12 +1357,16 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230809>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230810>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-08**|**Contour Location for Reliability in Airfoil Simulation Experiments using Deep Gaussian Processes**|Annie S. Booth et.al.|[2308.04420v1](http://arxiv.org/abs/2308.04420v1)|null|
+|**2023-08-09**|**Person Re-Identification without Identification via Event Anonymization**|Shafiq Ahmad et.al.|[2308.04402v2](http://arxiv.org/abs/2308.04402v2)|null|
+|**2023-08-08**|**3D-VisTA: Pre-trained Transformer for 3D Vision and Text Alignment**|Ziyu Zhu et.al.|[2308.04352v1](http://arxiv.org/abs/2308.04352v1)|null|
+|**2023-08-08**|**Prompted Contrast with Masked Motion Modeling: Towards Versatile 3D Action Representation Learning**|Jiahang Zhang et.al.|[2308.03975v1](http://arxiv.org/abs/2308.03975v1)|null|
 |**2023-08-07**|**Emotionally Numb or Empathetic? Evaluating How LLMs Feel Using EmotionBench**|Jen-tse Huang et.al.|[2308.03656v1](http://arxiv.org/abs/2308.03656v1)|**[link](https://github.com/cuhk-arise/emotionbench)**|
 |**2023-08-07**|**FeatEnHancer: Enhancing Hierarchical Features for Object Detection and Beyond Under Low-Light Vision**|Khurram Azeem Hashmi et.al.|[2308.03594v1](http://arxiv.org/abs/2308.03594v1)|null|
 |**2023-08-07**|**WIKITIDE: A Wikipedia-Based Timestamped Definition Pairs Dataset**|Hsuvas Borkakoty et.al.|[2308.03582v1](http://arxiv.org/abs/2308.03582v1)|null|
@@ -2610,12 +2617,13 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230809>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230810>back to top</a>)</p>
 
 ## adaptor
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-31**|**Cross-Dataset Adaptation for Instrument Classification in Cataract Surgery Videos**|Jay N. Paranjape et.al.|[2308.04035v1](http://arxiv.org/abs/2308.04035v1)|null|
 |**2023-08-03**|**Efficient Model Adaptation for Continual Learning at the Edge**|Zachary A. Daniels et.al.|[2308.02084v1](http://arxiv.org/abs/2308.02084v1)|null|
 |**2023-07-26**|**Accelerating Recursive and Variance Reduced Stochastic Gradient Methods by Adaptive Barzilai-Borwein Step Sizes**|Jiangshan Wang et.al.|[2307.13930v1](http://arxiv.org/abs/2307.13930v1)|null|
 |**2023-07-05**|**RanPAC: Random Projections and Pre-trained Models for Continual Learning**|Mark D. McDonnell et.al.|[2307.02251v1](http://arxiv.org/abs/2307.02251v1)|null|
@@ -2665,12 +2673,21 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230809>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230810>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-08**|**V-DETR: DETR with Vertex Relative Position Encoding for 3D Object Detection**|Yichao Shen et.al.|[2308.04409v1](http://arxiv.org/abs/2308.04409v1)|**[link](https://github.com/yichaoshen-ms/v-detr)**|
+|**2023-08-08**|**When Super-Resolution Meets Camouflaged Object Detection: A Comparison Study**|Juan Wen et.al.|[2308.04370v1](http://arxiv.org/abs/2308.04370v1)|null|
+|**2023-08-08**|**Vision-Based Autonomous Navigation for Unmanned Surface Vessel in Extreme Marine Conditions**|Muhayyuddin Ahmed et.al.|[2308.04283v1](http://arxiv.org/abs/2308.04283v1)|null|
+|**2023-08-08**|**An Empirical Analysis of Range for 3D Object Detection**|Neehar Peri et.al.|[2308.04054v1](http://arxiv.org/abs/2308.04054v1)|null|
+|**2023-08-08**|**SODFormer: Streaming Object Detection with Transformer Using Events and Frames**|Dianze Li et.al.|[2308.04047v1](http://arxiv.org/abs/2308.04047v1)|null|
+|**2023-08-08**|**Multi-level Map Construction for Dynamic Scenes**|Xinggang Hu et.al.|[2308.04000v1](http://arxiv.org/abs/2308.04000v1)|null|
+|**2023-08-08**|**Real-time Strawberry Detection Based on Improved YOLOv5s Architecture for Robotic Harvesting in open-field environment**|Zixuan He et.al.|[2308.03998v1](http://arxiv.org/abs/2308.03998v1)|null|
+|**2023-08-08**|**PARTNER: Level up the Polar Representation for LiDAR 3D Object Detection**|Ming Nie et.al.|[2308.03982v1](http://arxiv.org/abs/2308.03982v1)|null|
+|**2023-08-07**|**TIJO: Trigger Inversion with Joint Optimization for Defending Multimodal Backdoored Models**|Indranil Sur et.al.|[2308.03906v1](http://arxiv.org/abs/2308.03906v1)|null|
 |**2023-08-07**|**FSD V2: Improving Fully Sparse 3D Object Detection with Virtual Voxels**|Lue Fan et.al.|[2308.03755v1](http://arxiv.org/abs/2308.03755v1)|**[link](https://github.com/tusen-ai/sst)**|
 |**2023-08-07**|**Mask Frozen-DETR: High Quality Instance Segmentation with One GPU**|Zhanhao Liang et.al.|[2308.03747v1](http://arxiv.org/abs/2308.03747v1)|null|
 |**2023-08-07**|**Automated Real Time Delineation of Supraclavicular Brachial Plexus in Neck Ultrasonography Videos: A Deep Learning Approach**|Abhay Tyagi et.al.|[2308.03717v1](http://arxiv.org/abs/2308.03717v1)|null|
@@ -3861,7 +3878,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230809>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230810>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
