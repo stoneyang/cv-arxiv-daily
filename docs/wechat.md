@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2023.08.16
+> Updated on 2023.08.17
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,13 @@
 
 ## pretrain
 
+- 2023-08-15, **RAVEN: In-Context Learning with Retrieval Augmented Encoder-Decoder Language Models**, Jie Huang et.al., Paper: [http://arxiv.org/abs/2308.07922v1](http://arxiv.org/abs/2308.07922v1)
+- 2023-08-15, **Dancing Avatar: Pose and Text-Guided Human Motion Videos Synthesis with Image Diffusion Model**, Bosheng Qin et.al., Paper: [http://arxiv.org/abs/2308.07749v1](http://arxiv.org/abs/2308.07749v1)
+- 2023-08-16, **SPM: Structured Pretraining and Matching Architectures for Relevance Modeling in Meituan Search**, Wen Zan et.al., Paper: [http://arxiv.org/abs/2308.07711v2](http://arxiv.org/abs/2308.07711v2)
+- 2023-08-15, **Self-supervised Hypergraphs for Learning Multiple World Interpretations**, Alina Marcu et.al., Paper: [http://arxiv.org/abs/2308.07615v1](http://arxiv.org/abs/2308.07615v1)
+- 2023-08-15, **SGDiff: A Style Guided Diffusion Model for Fashion Synthesis**, Zhengwentai Sun et.al., Paper: [http://arxiv.org/abs/2308.07605v1](http://arxiv.org/abs/2308.07605v1)
+- 2023-08-15, **AKVSR: Audio Knowledge Empowered Visual Speech Recognition by Compressing Audio Knowledge of a Pretrained Model**, Jeong Hun Yeo et.al., Paper: [http://arxiv.org/abs/2308.07593v1](http://arxiv.org/abs/2308.07593v1)
+- 2023-08-14, **Semantic Similarity Loss for Neural Source Code Summarization**, Chia-Yi Su et.al., Paper: [http://arxiv.org/abs/2308.07429v1](http://arxiv.org/abs/2308.07429v1), Code: **[https://github.com/apcl-research/funcom-useloss](https://github.com/apcl-research/funcom-useloss)**
 - 2023-08-14, **Platypus: Quick, Cheap, and Powerful Refinement of LLMs**, Ariel N. Lee et.al., Paper: [http://arxiv.org/abs/2308.07317v1](http://arxiv.org/abs/2308.07317v1), Code: **[https://github.com/arielnlee/Platypus](https://github.com/arielnlee/Platypus)**
 - 2023-08-15, **SEMI-CenterNet: A Machine Learning Facilitated Approach for Semiconductor Defect Inspection**, Vic De Ridder et.al., Paper: [http://arxiv.org/abs/2308.07180v2](http://arxiv.org/abs/2308.07180v2)
 - 2023-08-14, **CTP: Towards Vision-Language Continual Pretraining via Compatible Momentum Contrast and Topology Preservation**, Hongguang Zhu et.al., Paper: [http://arxiv.org/abs/2308.07146v1](http://arxiv.org/abs/2308.07146v1), Code: **[https://github.com/kevinlight831/ctp](https://github.com/kevinlight831/ctp)**
@@ -1378,10 +1385,12 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20230816>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230817>back to top</a>)</p>
 
 ## downstream
 
+- 2023-08-15, **A Review of Adversarial Attacks in Computer Vision**, Yutong Zhang et.al., Paper: [http://arxiv.org/abs/2308.07673v1](http://arxiv.org/abs/2308.07673v1)
+- 2023-08-15, **SST: A Simplified Swin Transformer-based Model for Taxi Destination Prediction based on Existing Trajectory**, Zepu Wang et.al., Paper: [http://arxiv.org/abs/2308.07555v1](http://arxiv.org/abs/2308.07555v1)
 - 2023-08-14, **UniWorld: Autonomous Driving Pre-training via World Models**, Chen Min et.al., Paper: [http://arxiv.org/abs/2308.07234v1](http://arxiv.org/abs/2308.07234v1), Code: **[https://github.com/chaytonmin/uniworld](https://github.com/chaytonmin/uniworld)**
 - 2023-08-14, **Neural Categorical Priors for Physics-Based Character Control**, Qingxu Zhu et.al., Paper: [http://arxiv.org/abs/2308.07200v1](http://arxiv.org/abs/2308.07200v1)
 - 2023-08-14, **CTP: Towards Vision-Language Continual Pretraining via Compatible Momentum Contrast and Topology Preservation**, Hongguang Zhu et.al., Paper: [http://arxiv.org/abs/2308.07146v1](http://arxiv.org/abs/2308.07146v1), Code: **[https://github.com/kevinlight831/ctp](https://github.com/kevinlight831/ctp)**
@@ -2667,7 +2676,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20230816>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230817>back to top</a>)</p>
 
 ## adaptor
 
@@ -2722,10 +2731,18 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20230816>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230817>back to top</a>)</p>
 
 ## object detection
 
+- 2023-08-15, **Exploiting Sparsity in Automotive Radar Object Detection Networks**, Marius Lippke et.al., Paper: [http://arxiv.org/abs/2308.07748v1](http://arxiv.org/abs/2308.07748v1)
+- 2023-08-15, **Identity-Consistent Aggregation for Video Object Detection**, Chaorui Deng et.al., Paper: [http://arxiv.org/abs/2308.07737v1](http://arxiv.org/abs/2308.07737v1), Code: **[https://github.com/bladewaltz1/clipvid](https://github.com/bladewaltz1/clipvid)**
+- 2023-08-15, **UniTR: A Unified and Efficient Multi-Modal Transformer for Bird's-Eye-View Representation**, Haiyang Wang et.al., Paper: [http://arxiv.org/abs/2308.07732v1](http://arxiv.org/abs/2308.07732v1), Code: **[https://github.com/haiyang-w/unitr](https://github.com/haiyang-w/unitr)**
+- 2023-08-15, **Real-time Automatic M-mode Echocardiography Measurement with Panel Attention from Local-to-Global Pixels**, Ching-Hsun Tseng et.al., Paper: [http://arxiv.org/abs/2308.07717v1](http://arxiv.org/abs/2308.07717v1), Code: **[https://github.com/hanktseng131415go/ramem](https://github.com/hanktseng131415go/ramem)**
+- 2023-08-15, **Improved Region Proposal Network for Enhanced Few-Shot Object Detection**, Zeyu Shangguan et.al., Paper: [http://arxiv.org/abs/2308.07535v1](http://arxiv.org/abs/2308.07535v1), Code: **[https://github.com/zshanggu/htrpn](https://github.com/zshanggu/htrpn)**
+- 2023-08-15, **ICAFusion: Iterative Cross-Attention Guided Feature Fusion for Multispectral Object Detection**, Jifeng Shen et.al., Paper: [http://arxiv.org/abs/2308.07504v1](http://arxiv.org/abs/2308.07504v1), Code: **[https://github.com/chanchanchan97/icafusion](https://github.com/chanchanchan97/icafusion)**
+- 2023-08-14, **BSED: Baseline Shapley-Based Explainable Detector**, Michihiro Kuroki et.al., Paper: [http://arxiv.org/abs/2308.07490v1](http://arxiv.org/abs/2308.07490v1)
+- 2023-08-14, **Multiple-Hypothesis Path Planning with Uncertain Object Detections**, Brian H. Wang et.al., Paper: [http://arxiv.org/abs/2308.07420v1](http://arxiv.org/abs/2308.07420v1)
 - 2023-08-14, **Efficient Real-time Smoke Filtration with 3D LiDAR for Search and Rescue with Autonomous Heterogeneous Robotic Systems**, Alexander Kyuroson et.al., Paper: [http://arxiv.org/abs/2308.07264v1](http://arxiv.org/abs/2308.07264v1)
 - 2023-08-14, **UniWorld: Autonomous Driving Pre-training via World Models**, Chen Min et.al., Paper: [http://arxiv.org/abs/2308.07234v1](http://arxiv.org/abs/2308.07234v1), Code: **[https://github.com/chaytonmin/uniworld](https://github.com/chaytonmin/uniworld)**
 - 2023-08-15, **FOLT: Fast Multiple Object Tracking from UAV-captured Videos Based on Optical Flow**, Mufeng Yao et.al., Paper: [http://arxiv.org/abs/2308.07207v2](http://arxiv.org/abs/2308.07207v2)
@@ -3955,7 +3972,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20230816>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230817>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
