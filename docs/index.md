@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.17
+## Updated on 2023.08.18
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,11 +23,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-16**|**Tem-adapter: Adapting Image-Text Pretraining for Video Question Answer**|Guangyi Chen et.al.|[2308.08414v1](http://arxiv.org/abs/2308.08414v1)|null|
+|**2023-08-16**|**Advancing continual lifelong learning in neural information retrieval: definition, dataset, framework, and empirical evaluation**|Jingrui Hou et.al.|[2308.08378v1](http://arxiv.org/abs/2308.08378v1)|null|
+|**2023-08-16**|**Boosting Commit Classification with Contrastive Learning**|Jiajun Tong et.al.|[2308.08263v1](http://arxiv.org/abs/2308.08263v1)|null|
+|**2023-08-16**|**Is Self-Supervised Pretraining Good for Extrapolation in Molecular Property Prediction?**|Shun Takashige et.al.|[2308.08129v1](http://arxiv.org/abs/2308.08129v1)|null|
+|**2023-08-15**|**End-to-End Open Vocabulary Keyword Search With Multilingual Neural Representations**|Bolaji Yusuf et.al.|[2308.08027v1](http://arxiv.org/abs/2308.08027v1)|null|
 |**2023-08-15**|**RAVEN: In-Context Learning with Retrieval Augmented Encoder-Decoder Language Models**|Jie Huang et.al.|[2308.07922v1](http://arxiv.org/abs/2308.07922v1)|null|
 |**2023-08-15**|**Dancing Avatar: Pose and Text-Guided Human Motion Videos Synthesis with Image Diffusion Model**|Bosheng Qin et.al.|[2308.07749v1](http://arxiv.org/abs/2308.07749v1)|null|
 |**2023-08-16**|**SPM: Structured Pretraining and Matching Architectures for Relevance Modeling in Meituan Search**|Wen Zan et.al.|[2308.07711v2](http://arxiv.org/abs/2308.07711v2)|null|
 |**2023-08-15**|**Self-supervised Hypergraphs for Learning Multiple World Interpretations**|Alina Marcu et.al.|[2308.07615v1](http://arxiv.org/abs/2308.07615v1)|null|
-|**2023-08-15**|**SGDiff: A Style Guided Diffusion Model for Fashion Synthesis**|Zhengwentai Sun et.al.|[2308.07605v1](http://arxiv.org/abs/2308.07605v1)|null|
+|**2023-08-15**|**SGDiff: A Style Guided Diffusion Model for Fashion Synthesis**|Zhengwentai Sun et.al.|[2308.07605v1](http://arxiv.org/abs/2308.07605v1)|**[link](https://github.com/taited/sgdiff)**|
 |**2023-08-15**|**AKVSR: Audio Knowledge Empowered Visual Speech Recognition by Compressing Audio Knowledge of a Pretrained Model**|Jeong Hun Yeo et.al.|[2308.07593v1](http://arxiv.org/abs/2308.07593v1)|null|
 |**2023-08-14**|**Semantic Similarity Loss for Neural Source Code Summarization**|Chia-Yi Su et.al.|[2308.07429v1](http://arxiv.org/abs/2308.07429v1)|**[link](https://github.com/apcl-research/funcom-useloss)**|
 |**2023-08-14**|**Platypus: Quick, Cheap, and Powerful Refinement of LLMs**|Ariel N. Lee et.al.|[2308.07317v1](http://arxiv.org/abs/2308.07317v1)|**[link](https://github.com/arielnlee/Platypus)**|
@@ -1391,12 +1396,19 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230817>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230818>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-16**|**InsightMapper: A Closer Look at Inner-instance Information for Vectorized High-Definition Mapping**|Zhenhua Xu et.al.|[2308.08543v1](http://arxiv.org/abs/2308.08543v1)|null|
+|**2023-08-16**|**Time Travel in LLMs: Tracing Data Contamination in Large Language Models**|Shahriar Golchin et.al.|[2308.08493v1](http://arxiv.org/abs/2308.08493v1)|null|
+|**2023-08-16**|**ALIP: Adaptive Language-Image Pre-training with Synthetic Caption**|Kaicheng Yang et.al.|[2308.08428v1](http://arxiv.org/abs/2308.08428v1)|**[link](https://github.com/deepglint/alip)**|
+|**2023-08-16**|**Tem-adapter: Adapting Image-Text Pretraining for Video Question Answer**|Guangyi Chen et.al.|[2308.08414v1](http://arxiv.org/abs/2308.08414v1)|null|
+|**2023-08-16**|**SceNeRFlow: Time-Consistent Reconstruction of General Dynamic Scenes**|Edith Tretschk et.al.|[2308.08258v1](http://arxiv.org/abs/2308.08258v1)|null|
+|**2023-08-16**|**Microstructure-Empowered Stock Factor Extraction and Utilization**|Xianfeng Jiao et.al.|[2308.08135v1](http://arxiv.org/abs/2308.08135v1)|null|
+|**2023-08-15**|**Automated Test Case Generation Using Code Models and Domain Adaptation**|Sepehr Hashtroudi et.al.|[2308.08033v1](http://arxiv.org/abs/2308.08033v1)|null|
 |**2023-08-15**|**A Review of Adversarial Attacks in Computer Vision**|Yutong Zhang et.al.|[2308.07673v1](http://arxiv.org/abs/2308.07673v1)|null|
 |**2023-08-15**|**SST: A Simplified Swin Transformer-based Model for Taxi Destination Prediction based on Existing Trajectory**|Zepu Wang et.al.|[2308.07555v1](http://arxiv.org/abs/2308.07555v1)|null|
 |**2023-08-14**|**UniWorld: Autonomous Driving Pre-training via World Models**|Chen Min et.al.|[2308.07234v1](http://arxiv.org/abs/2308.07234v1)|**[link](https://github.com/chaytonmin/uniworld)**|
@@ -2684,7 +2696,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230817>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230818>back to top</a>)</p>
 
 ## adaptor
 
@@ -2741,12 +2753,18 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230817>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230818>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-16**|**Deployment and Analysis of Instance Segmentation Algorithm for In-field Grade Estimation of Sweetpotatoes**|Hoang M. Nguyen et.al.|[2308.08534v1](http://arxiv.org/abs/2308.08534v1)|null|
+|**2023-08-16**|**Diagnosing Human-object Interaction Detectors**|Fangrui Zhu et.al.|[2308.08529v1](http://arxiv.org/abs/2308.08529v1)|**[link](https://github.com/neu-vi/diag-hoi)**|
+|**2023-08-16**|**Classification Committee for Active Deep Object Detection**|Lei Zhao et.al.|[2308.08476v1](http://arxiv.org/abs/2308.08476v1)|null|
+|**2023-08-16**|**Agglomerative Transformer for Human-Object Interaction Detection**|Danyang Tu et.al.|[2308.08370v1](http://arxiv.org/abs/2308.08370v1)|null|
+|**2023-08-16**|**ECPC-IDS:A benchmark endometrail cancer PET/CT image dataset for evaluation of semantic segmentation and detection of hypermetabolic regions**|Dechao Tang et.al.|[2308.08313v1](http://arxiv.org/abs/2308.08313v1)|null|
+|**2023-08-16**|**GPA-3D: Geometry-aware Prototype Alignment for Unsupervised Domain Adaptive 3D Object Detection from Point Clouds**|Ziyu Li et.al.|[2308.08140v1](http://arxiv.org/abs/2308.08140v1)|**[link](https://github.com/liz66666/gpa3d)**|
 |**2023-08-15**|**Exploiting Sparsity in Automotive Radar Object Detection Networks**|Marius Lippke et.al.|[2308.07748v1](http://arxiv.org/abs/2308.07748v1)|null|
 |**2023-08-15**|**Identity-Consistent Aggregation for Video Object Detection**|Chaorui Deng et.al.|[2308.07737v1](http://arxiv.org/abs/2308.07737v1)|**[link](https://github.com/bladewaltz1/clipvid)**|
 |**2023-08-15**|**UniTR: A Unified and Efficient Multi-Modal Transformer for Bird's-Eye-View Representation**|Haiyang Wang et.al.|[2308.07732v1](http://arxiv.org/abs/2308.07732v1)|**[link](https://github.com/haiyang-w/unitr)**|
@@ -3984,7 +4002,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230817>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230818>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
