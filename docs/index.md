@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.22
+## Updated on 2023.08.23
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-21**|**EALink: An Efficient and Accurate Pre-trained Framework for Issue-Commit Link Recovery**|Chenyuan Zhang et.al.|[2308.10759v1](http://arxiv.org/abs/2308.10759v1)|null|
+|**2023-08-21**|**Foundation Model-oriented Robustness: Robust Image Model Evaluation with Pretrained Models**|Peiyan Zhang et.al.|[2308.10632v1](http://arxiv.org/abs/2308.10632v1)|null|
+|**2023-08-21**|**When Prompt-based Incremental Learning Does Not Meet Strong Pretraining**|Yu-Ming Tang et.al.|[2308.10445v1](http://arxiv.org/abs/2308.10445v1)|**[link](https://github.com/tom-tym/apg)**|
+|**2023-08-21**|**Turning a CLIP Model into a Scene Text Spotter**|Wenwen Yu et.al.|[2308.10408v1](http://arxiv.org/abs/2308.10408v1)|**[link](https://github.com/wenwenyu/tcm)**|
+|**2023-08-20**|**cantnlp@LT-EDI@RANLP-2023: Homophobia/Transphobia Detection in Social Media Comments using Spatio-Temporally Retrained Language Models**|Sidney G. -J. Wong et.al.|[2308.10370v1](http://arxiv.org/abs/2308.10370v1)|null|
+|**2023-08-22**|**Improving Adversarial Robustness of Masked Autoencoders via Test-time Frequency-domain Prompting**|Qidong Huang et.al.|[2308.10315v2](http://arxiv.org/abs/2308.10315v2)|**[link](https://github.com/shikiw/robustmae)**|
+|**2023-08-20**|**Make-It-4D: Synthesizing a Consistent Long-Term Dynamic Scene Video from a Single Image**|Liao Shen et.al.|[2308.10257v1](http://arxiv.org/abs/2308.10257v1)|null|
+|**2023-08-20**|**From Global to Local: Multi-scale Out-of-distribution Detection**|Ji Zhang et.al.|[2308.10239v1](http://arxiv.org/abs/2308.10239v1)|**[link](https://github.com/jimzai/mode-ood)**|
+|**2023-08-20**|**ViT-Lens: Towards Omni-modal Representations**|Weixian Lei et.al.|[2308.10185v1](http://arxiv.org/abs/2308.10185v1)|**[link](https://github.com/TencentARC/ViT-Lens)**|
+|**2023-08-19**|**Efficient Representation Learning for Healthcare with Cross-Architectural Self-Supervision**|Pranav Singh et.al.|[2308.10064v1](http://arxiv.org/abs/2308.10064v1)|**[link](https://github.com/pranavsinghps1/CASS)**|
 |**2023-08-18**|**Artificial-Spiking Hierarchical Networks for Vision-Language Representation Learning**|Yeming Chen et.al.|[2308.09455v1](http://arxiv.org/abs/2308.09455v1)|null|
 |**2023-08-18**|**Accelerated materials language processing enabled by GPT**|Jaewoong Choi et.al.|[2308.09354v1](http://arxiv.org/abs/2308.09354v1)|null|
 |**2023-08-18**|**DiffDis: Empowering Generative Diffusion Model with Cross-Modal Discrimination Capability**|Runhui Huang et.al.|[2308.09306v1](http://arxiv.org/abs/2308.09306v1)|null|
@@ -1405,12 +1415,22 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230822>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230823>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-21**|**Unlocking Accuracy and Fairness in Differentially Private Image Classification**|Leonard Berrada et.al.|[2308.10888v1](http://arxiv.org/abs/2308.10888v1)|null|
+|**2023-08-21**|**KGrEaT: A Framework to Evaluate Knowledge Graphs via Downstream Tasks**|Nicolas Heist et.al.|[2308.10537v1](http://arxiv.org/abs/2308.10537v1)|null|
+|**2023-08-21**|**Exploring Parameter-Efficient Fine-Tuning Techniques for Code Generation with Large Language Models**|Martin Weyssow et.al.|[2308.10462v1](http://arxiv.org/abs/2308.10462v1)|null|
+|**2023-08-20**|**How Good Are Large Language Models at Out-of-Distribution Detection?**|Bo Liu et.al.|[2308.10261v1](http://arxiv.org/abs/2308.10261v1)|null|
+|**2023-08-20**|**A Survey on Fairness in Large Language Models**|Yingji Li et.al.|[2308.10149v1](http://arxiv.org/abs/2308.10149v1)|null|
+|**2023-08-19**|**DPL: Decoupled Prompt Learning for Vision-Language Models**|Chen Xu et.al.|[2308.10061v1](http://arxiv.org/abs/2308.10061v1)|null|
+|**2023-08-19**|**An Empirical Study of CLIP for Text-based Person Search**|Min Cao et.al.|[2308.10045v1](http://arxiv.org/abs/2308.10045v1)|**[link](https://github.com/flame-chasers/tbps-clip)**|
+|**2023-08-19**|**Voucher Abuse Detection with Prompt-based Fine-tuning on Graph Neural Networks**|Zhihao Wen et.al.|[2308.10028v1](http://arxiv.org/abs/2308.10028v1)|null|
+|**2023-08-19**|**HICL: Hashtag-Driven In-Context Learning for Social Media Natural Language Understanding**|Hanzhuo Tan et.al.|[2308.09985v1](http://arxiv.org/abs/2308.09985v1)|**[link](https://github.com/albertan017/hicl)**|
+|**2023-08-19**|**Generative Adversarial Networks Unlearning**|Hui Sun et.al.|[2308.09881v1](http://arxiv.org/abs/2308.09881v1)|null|
 |**2023-08-18**|**Towards Large-scale 3D Representation Learning with Multi-dataset Point Prompt Training**|Xiaoyang Wu et.al.|[2308.09718v1](http://arxiv.org/abs/2308.09718v1)|**[link](https://github.com/Pointcept/Pointcept)**|
 |**2023-08-18**|**GiGaMAE: Generalizable Graph Masked Autoencoder via Collaborative Latent Space Reconstruction**|Yucheng Shi et.al.|[2308.09663v1](http://arxiv.org/abs/2308.09663v1)|**[link](https://github.com/sycny/gigamae)**|
 |**2023-08-18**|**Transitivity-Preserving Graph Representation Learning for Bridging Local Connectivity and Role-based Similarity**|Van Thuy Hoang et.al.|[2308.09517v1](http://arxiv.org/abs/2308.09517v1)|**[link](https://github.com/nslab-cuk/unified-graph-transformer)**|
@@ -2715,12 +2735,14 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230822>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230823>back to top</a>)</p>
 
 ## adaptor
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-21**|**STEERER: Resolving Scale Variations for Counting and Localization via Selective Inheritance Learning**|Tao Han et.al.|[2308.10468v1](http://arxiv.org/abs/2308.10468v1)|**[link](https://github.com/taohan10200/steerer)**|
+|**2023-08-19**|**Understanding Self-attention Mechanism via Dynamical System Perspective**|Zhongzhan Huang et.al.|[2308.09939v1](http://arxiv.org/abs/2308.09939v1)|null|
 |**2023-08-14**|**CBA: Improving Online Continual Learning via Continual Bias Adaptor**|Quanziang Wang et.al.|[2308.06925v1](http://arxiv.org/abs/2308.06925v1)|**[link](https://github.com/wqza/cba-online-cl)**|
 |**2023-07-31**|**Cross-Dataset Adaptation for Instrument Classification in Cataract Surgery Videos**|Jay N. Paranjape et.al.|[2308.04035v1](http://arxiv.org/abs/2308.04035v1)|**[link](https://github.com/jayparanjape/barlow-adaptor)**|
 |**2023-08-03**|**Efficient Model Adaptation for Continual Learning at the Edge**|Zachary A. Daniels et.al.|[2308.02084v1](http://arxiv.org/abs/2308.02084v1)|null|
@@ -2772,12 +2794,22 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230822>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230823>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-21**|**Reducing Object Detection Uncertainty from RGB and Thermal Data for UAV Outdoor Surveillance**|Juan Sandino et.al.|[2308.10671v1](http://arxiv.org/abs/2308.10671v1)|null|
+|**2023-08-21**|**Spatial Transform Decoupling for Oriented Object Detection**|Hongtian Yu et.al.|[2308.10561v1](http://arxiv.org/abs/2308.10561v1)|**[link](https://github.com/yuhongtian17/spatial-transform-decoupling)**|
+|**2023-08-21**|**Dataset Quantization**|Daquan Zhou et.al.|[2308.10524v1](http://arxiv.org/abs/2308.10524v1)|**[link](https://github.com/magic-research/dataset_quantization)**|
+|**2023-08-21**|**PHE-SICH-CT-IDS: A Benchmark CT Image Dataset for Evaluation Semantic Segmentation, Object Detection and Radiomic Feature Extraction of Perihematomal Edema in Spontaneous Intracerebral Hemorrhage**|Deguo Ma et.al.|[2308.10521v1](http://arxiv.org/abs/2308.10521v1)|null|
+|**2023-08-21**|**QD-BEV : Quantization-aware View-guided Distillation for Multi-view 3D Object Detection**|Yifan Zhang et.al.|[2308.10515v1](http://arxiv.org/abs/2308.10515v1)|null|
+|**2023-08-21**|**UniM$^2$AE: Multi-modal Masked Autoencoders with Unified 3D Representation for 3D Perception in Autonomous Driving**|Jian Zou et.al.|[2308.10421v1](http://arxiv.org/abs/2308.10421v1)|**[link](https://github.com/hollow-503/unim2ae)**|
+|**2023-08-21**|**In-Rack Test Tube Pose Estimation Using RGB-D Data**|Hao Chen et.al.|[2308.10411v1](http://arxiv.org/abs/2308.10411v1)|null|
+|**2023-08-21**|**Turning a CLIP Model into a Scene Text Spotter**|Wenwen Yu et.al.|[2308.10408v1](http://arxiv.org/abs/2308.10408v1)|**[link](https://github.com/wenwenyu/tcm)**|
+|**2023-08-20**|**Representation Disparity-aware Distillation for 3D Object Detection**|Yanjing Li et.al.|[2308.10308v1](http://arxiv.org/abs/2308.10308v1)|null|
+|**2023-08-20**|**Efficient-VRNet: An Exquisite Fusion Network for Riverway Panoptic Perception based on Asymmetric Fair Fusion of Vision and 4D mmWave Radar**|Runwei Guan et.al.|[2308.10287v1](http://arxiv.org/abs/2308.10287v1)|**[link](https://github.com/GuanRunwei/Efficient-VRNet)**|
 |**2023-08-18**|**Far3D: Expanding the Horizon for Surround-view 3D Object Detection**|Xiaohui Jiang et.al.|[2308.09616v1](http://arxiv.org/abs/2308.09616v1)|null|
 |**2023-08-18**|**Deep Equilibrium Object Detection**|Shuai Wang et.al.|[2308.09564v1](http://arxiv.org/abs/2308.09564v1)|null|
 |**2023-08-18**|**Meta-ZSDETR: Zero-shot DETR with Meta-learning**|Lu Zhang et.al.|[2308.09540v1](http://arxiv.org/abs/2308.09540v1)|null|
@@ -4031,7 +4063,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230822>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230823>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
