@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.23
+## Updated on 2023.08.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,8 +19,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-08-21**|**EALink: An Efficient and Accurate Pre-trained Framework for Issue-Commit Link Recovery**|Chenyuan Zhang et.al.|[2308.10759v1](http://arxiv.org/abs/2308.10759v1)|null|
-|**2023-08-21**|**Foundation Model-oriented Robustness: Robust Image Model Evaluation with Pretrained Models**|Peiyan Zhang et.al.|[2308.10632v1](http://arxiv.org/abs/2308.10632v1)|null|
+|**2023-08-22**|**Open Set Synthetic Image Source Attribution**|Shengbang Fang et.al.|[2308.11557v1](http://arxiv.org/abs/2308.11557v1)|null|
+|**2023-08-22**|**Masked Momentum Contrastive Learning for Zero-shot Semantic Understanding**|Jiantao Wu et.al.|[2308.11448v1](http://arxiv.org/abs/2308.11448v1)|null|
+|**2023-08-22**|**Music Understanding LLaMA: Advancing Text-to-Music Generation with Question Answering and Captioning**|Shansong Liu et.al.|[2308.11276v1](http://arxiv.org/abs/2308.11276v1)|null|
+|**2023-08-21**|**UnLoc: A Unified Framework for Video Localization Tasks**|Shen Yan et.al.|[2308.11062v1](http://arxiv.org/abs/2308.11062v1)|**[link](https://github.com/google-research/scenic)**|
+|**2023-08-21**|**SupEuclid: Extremely Simple, High Quality OoD Detection with Supervised Contrastive Learning and Euclidean Distance**|Jarrod Haas et.al.|[2308.10973v1](http://arxiv.org/abs/2308.10973v1)|null|
+|**2023-08-21**|**DocPrompt: Large-scale continue pretrain for zero-shot and few-shot document question answering**|Sijin Wu et.al.|[2308.10959v1](http://arxiv.org/abs/2308.10959v1)|null|
+|**2023-08-21**|**EALink: An Efficient and Accurate Pre-trained Framework for Issue-Commit Link Recovery**|Chenyuan Zhang et.al.|[2308.10759v1](http://arxiv.org/abs/2308.10759v1)|**[link](https://github.com/kdegroup/ealink)**|
+|**2023-08-23**|**Foundation Model-oriented Robustness: Robust Image Model Evaluation with Pretrained Models**|Peiyan Zhang et.al.|[2308.10632v2](http://arxiv.org/abs/2308.10632v2)|null|
 |**2023-08-21**|**When Prompt-based Incremental Learning Does Not Meet Strong Pretraining**|Yu-Ming Tang et.al.|[2308.10445v1](http://arxiv.org/abs/2308.10445v1)|**[link](https://github.com/tom-tym/apg)**|
 |**2023-08-21**|**Turning a CLIP Model into a Scene Text Spotter**|Wenwen Yu et.al.|[2308.10408v1](http://arxiv.org/abs/2308.10408v1)|**[link](https://github.com/wenwenyu/tcm)**|
 |**2023-08-20**|**cantnlp@LT-EDI@RANLP-2023: Homophobia/Transphobia Detection in Social Media Comments using Spatio-Temporally Retrained Language Models**|Sidney G. -J. Wong et.al.|[2308.10370v1](http://arxiv.org/abs/2308.10370v1)|null|
@@ -1411,12 +1417,20 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230823>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230824>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-22**|**Tryage: Real-time, intelligent Routing of User Prompts to Large Language Model**|Surya Narayanan Hari et.al.|[2308.11601v1](http://arxiv.org/abs/2308.11601v1)|null|
+|**2023-08-22**|**Unsupervised Prototype Adapter for Vision-Language Models**|Yi Zhang et.al.|[2308.11507v1](http://arxiv.org/abs/2308.11507v1)|null|
+|**2023-08-22**|**A Survey on Self-Supervised Representation Learning**|Tobias Uelwer et.al.|[2308.11455v1](http://arxiv.org/abs/2308.11455v1)|**[link](https://github.com/microsoft/esvit)**|
+|**2023-08-22**|**GrowCLIP: Data-aware Automatic Model Growing for Large-scale Contrastive Language-Image Pre-training**|Xinchi Deng et.al.|[2308.11331v1](http://arxiv.org/abs/2308.11331v1)|null|
+|**2023-08-22**|**LDP-Feat: Image Features with Local Differential Privacy**|Francesco Pittaluga et.al.|[2308.11223v1](http://arxiv.org/abs/2308.11223v1)|null|
+|**2023-08-22**|**Hamiltonian GAN**|Christine Allen-Blanchette et.al.|[2308.11216v1](http://arxiv.org/abs/2308.11216v1)|null|
+|**2023-08-22**|**Adversarial Attacks on Code Models with Discriminative Graph Patterns**|Thanh-Dat Nguyen et.al.|[2308.11161v1](http://arxiv.org/abs/2308.11161v1)|null|
+|**2023-08-22**|**Exploring Unsupervised Cell Recognition with Prior Self-activation Maps**|Pingyi Chen et.al.|[2308.11144v1](http://arxiv.org/abs/2308.11144v1)|**[link](https://github.com/cpystan/psm)**|
 |**2023-08-21**|**Unlocking Accuracy and Fairness in Differentially Private Image Classification**|Leonard Berrada et.al.|[2308.10888v1](http://arxiv.org/abs/2308.10888v1)|null|
 |**2023-08-21**|**KGrEaT: A Framework to Evaluate Knowledge Graphs via Downstream Tasks**|Nicolas Heist et.al.|[2308.10537v1](http://arxiv.org/abs/2308.10537v1)|null|
 |**2023-08-21**|**Exploring Parameter-Efficient Fine-Tuning Techniques for Code Generation with Large Language Models**|Martin Weyssow et.al.|[2308.10462v1](http://arxiv.org/abs/2308.10462v1)|null|
@@ -2731,7 +2745,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230823>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230824>back to top</a>)</p>
 
 ## adaptor
 
@@ -2790,12 +2804,17 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230823>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230824>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-22**|**Delving into Motion-Aware Matching for Monocular 3D Object Tracking**|Kuan-Chih Huang et.al.|[2308.11607v1](http://arxiv.org/abs/2308.11607v1)|null|
+|**2023-08-22**|**A Survey on Self-Supervised Representation Learning**|Tobias Uelwer et.al.|[2308.11455v1](http://arxiv.org/abs/2308.11455v1)|**[link](https://github.com/microsoft/esvit)**|
+|**2023-08-22**|**Object Detection Difficulty: Suppressing Over-aggregation for Faster and Better Video Object Detection**|Bingqing Zhang et.al.|[2308.11327v1](http://arxiv.org/abs/2308.11327v1)|**[link](https://github.com/bingqingzhang/odd-vod)**|
+|**2023-08-22**|**ViLLA: Fine-Grained Vision-Language Representation Learning from Real-World Data**|Maya Varma et.al.|[2308.11194v1](http://arxiv.org/abs/2308.11194v1)|**[link](https://github.com/stanfordmimi/villa)**|
+|**2023-08-21**|**Embedded Object Detection and Mapping in Soft Materials Using Optical Tactile Sensing**|Jose A. Solano-Castellanos et.al.|[2308.11087v1](http://arxiv.org/abs/2308.11087v1)|null|
 |**2023-08-21**|**Reducing Object Detection Uncertainty from RGB and Thermal Data for UAV Outdoor Surveillance**|Juan Sandino et.al.|[2308.10671v1](http://arxiv.org/abs/2308.10671v1)|null|
 |**2023-08-21**|**Spatial Transform Decoupling for Oriented Object Detection**|Hongtian Yu et.al.|[2308.10561v1](http://arxiv.org/abs/2308.10561v1)|**[link](https://github.com/yuhongtian17/spatial-transform-decoupling)**|
 |**2023-08-21**|**Dataset Quantization**|Daquan Zhou et.al.|[2308.10524v1](http://arxiv.org/abs/2308.10524v1)|**[link](https://github.com/magic-research/dataset_quantization)**|
@@ -4059,7 +4078,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230823>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230824>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
