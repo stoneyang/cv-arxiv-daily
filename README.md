@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.24
+## Updated on 2023.08.25
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-23**|**D4: Improving LLM Pretraining via Document De-Duplication and Diversification**|Kushal Tirumala et.al.|[2308.12284v1](http://arxiv.org/abs/2308.12284v1)|null|
+|**2023-08-23**|**Language Reward Modulation for Pretraining Reinforcement Learning**|Ademi Adeniji et.al.|[2308.12270v1](http://arxiv.org/abs/2308.12270v1)|**[link](https://github.com/ademiadeniji/lamp)**|
+|**2023-08-23**|**Prompt2Model: Generating Deployable Models from Natural Language Instructions**|Vijay Viswanathan et.al.|[2308.12261v1](http://arxiv.org/abs/2308.12261v1)|**[link](https://github.com/neulab/prompt2model)**|
+|**2023-08-23**|**Diffusion Language Models Can Perform Many Tasks with Scaling and Instruction-Finetuning**|Jiasheng Ye et.al.|[2308.12219v1](http://arxiv.org/abs/2308.12219v1)|**[link](https://github.com/yegcjs/diffusionllm)**|
+|**2023-08-23**|**DR-Tune: Improving Fine-tuning of Pretrained Visual Models by Distribution Regularization with Semantic Calibration**|Nan Zhou et.al.|[2308.12058v1](http://arxiv.org/abs/2308.12058v1)|**[link](https://github.com/weeknan/dr-tune)**|
+|**2023-08-23**|**Large Multilingual Models Pivot Zero-Shot Multimodal Learning across Languages**|Jinyi Hu et.al.|[2308.12038v1](http://arxiv.org/abs/2308.12038v1)|**[link](https://github.com/openbmb/viscpm)**|
+|**2023-08-23**|**Local Distortion Aware Efficient Transformer Adaptation for Image Quality Assessment**|Kangmin Xu et.al.|[2308.12001v1](http://arxiv.org/abs/2308.12001v1)|null|
+|**2023-08-23**|**Blending-NeRF: Text-Driven Localized Editing in Neural Radiance Fields**|Hyeonseop Song et.al.|[2308.11974v1](http://arxiv.org/abs/2308.11974v1)|null|
+|**2023-08-23**|**CED: Consistent ensemble distillation for audio tagging**|Heinrich Dinkel et.al.|[2308.11957v1](http://arxiv.org/abs/2308.11957v1)|**[link](https://github.com/richermans/ced)**|
+|**2023-08-22**|**Time Does Tell: Self-Supervised Time-Tuning of Dense Image Representations**|Mohammadreza Salehi et.al.|[2308.11796v1](http://arxiv.org/abs/2308.11796v1)|**[link](https://github.com/smsd75/timetuning)**|
 |**2023-08-22**|**Open Set Synthetic Image Source Attribution**|Shengbang Fang et.al.|[2308.11557v1](http://arxiv.org/abs/2308.11557v1)|null|
 |**2023-08-22**|**Masked Momentum Contrastive Learning for Zero-shot Semantic Understanding**|Jiantao Wu et.al.|[2308.11448v1](http://arxiv.org/abs/2308.11448v1)|null|
 |**2023-08-22**|**Music Understanding LLaMA: Advancing Text-to-Music Generation with Question Answering and Captioning**|Shansong Liu et.al.|[2308.11276v1](http://arxiv.org/abs/2308.11276v1)|null|
@@ -1417,13 +1427,20 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230824>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230825>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-08-22**|**Tryage: Real-time, intelligent Routing of User Prompts to Large Language Model**|Surya Narayanan Hari et.al.|[2308.11601v1](http://arxiv.org/abs/2308.11601v1)|null|
+|**2023-08-23**|**A Generative Approach for Image Registration of Visible-Thermal (VT) Cancer Faces**|Catherine Ordun et.al.|[2308.12271v1](http://arxiv.org/abs/2308.12271v1)|null|
+|**2023-08-23**|**Language Reward Modulation for Pretraining Reinforcement Learning**|Ademi Adeniji et.al.|[2308.12270v1](http://arxiv.org/abs/2308.12270v1)|**[link](https://github.com/ademiadeniji/lamp)**|
+|**2023-08-23**|**DR-Tune: Improving Fine-tuning of Pretrained Visual Models by Distribution Regularization with Semantic Calibration**|Nan Zhou et.al.|[2308.12058v1](http://arxiv.org/abs/2308.12058v1)|**[link](https://github.com/weeknan/dr-tune)**|
+|**2023-08-23**|**IncreLoRA: Incremental Parameter Allocation Method for Parameter-Efficient Fine-tuning**|Feiyu Zhang et.al.|[2308.12043v1](http://arxiv.org/abs/2308.12043v1)|**[link](https://github.com/feiyuzhang98/increlora)**|
+|**2023-08-23**|**EVE: Efficient Vision-Language Pre-training with Masked Prediction and Modality-Aware MoE**|Junyi Chen et.al.|[2308.11971v1](http://arxiv.org/abs/2308.11971v1)|null|
+|**2023-08-22**|**Ceci n'est pas une pomme: Adversarial Illusions in Multi-Modal Embeddings**|Eugene Bagdasaryan et.al.|[2308.11804v1](http://arxiv.org/abs/2308.11804v1)|null|
+|**2023-08-22**|**Time Does Tell: Self-Supervised Time-Tuning of Dense Image Representations**|Mohammadreza Salehi et.al.|[2308.11796v1](http://arxiv.org/abs/2308.11796v1)|**[link](https://github.com/smsd75/timetuning)**|
+|**2023-08-23**|**Tryage: Real-time, intelligent Routing of User Prompts to Large Language Models**|Surya Narayanan Hari et.al.|[2308.11601v2](http://arxiv.org/abs/2308.11601v2)|null|
 |**2023-08-22**|**Unsupervised Prototype Adapter for Vision-Language Models**|Yi Zhang et.al.|[2308.11507v1](http://arxiv.org/abs/2308.11507v1)|null|
 |**2023-08-22**|**A Survey on Self-Supervised Representation Learning**|Tobias Uelwer et.al.|[2308.11455v1](http://arxiv.org/abs/2308.11455v1)|**[link](https://github.com/microsoft/esvit)**|
 |**2023-08-22**|**GrowCLIP: Data-aware Automatic Model Growing for Large-scale Contrastive Language-Image Pre-training**|Xinchi Deng et.al.|[2308.11331v1](http://arxiv.org/abs/2308.11331v1)|null|
@@ -2745,7 +2762,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230824>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230825>back to top</a>)</p>
 
 ## adaptor
 
@@ -2804,13 +2821,17 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230824>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230825>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-08-22**|**Delving into Motion-Aware Matching for Monocular 3D Object Tracking**|Kuan-Chih Huang et.al.|[2308.11607v1](http://arxiv.org/abs/2308.11607v1)|null|
+|**2023-08-23**|**Distribution-Aware Calibration for Object Detection with Noisy Bounding Boxes**|Donghao Zhou et.al.|[2308.12017v1](http://arxiv.org/abs/2308.12017v1)|null|
+|**2023-08-23**|**AMSP-UOD: When Vortex Convolution and Stochastic Perturbation Meet Underwater Object Detection**|Jingchun Zhou et.al.|[2308.11918v1](http://arxiv.org/abs/2308.11918v1)|null|
+|**2023-08-23**|**Multi-object Detection, Tracking and Prediction in Rugged Dynamic Environments**|Shixing Huang et.al.|[2308.11870v1](http://arxiv.org/abs/2308.11870v1)|null|
+|**2023-08-22**|**An extensible point-based method for data chart value detection**|Carlos Soto et.al.|[2308.11788v1](http://arxiv.org/abs/2308.11788v1)|**[link](https://github.com/bnlnlp/ppn_model)**|
+|**2023-08-22**|**Delving into Motion-Aware Matching for Monocular 3D Object Tracking**|Kuan-Chih Huang et.al.|[2308.11607v1](http://arxiv.org/abs/2308.11607v1)|**[link](https://github.com/kuanchihhuang/moma-m3t)**|
 |**2023-08-22**|**A Survey on Self-Supervised Representation Learning**|Tobias Uelwer et.al.|[2308.11455v1](http://arxiv.org/abs/2308.11455v1)|**[link](https://github.com/microsoft/esvit)**|
 |**2023-08-22**|**Object Detection Difficulty: Suppressing Over-aggregation for Faster and Better Video Object Detection**|Bingqing Zhang et.al.|[2308.11327v1](http://arxiv.org/abs/2308.11327v1)|**[link](https://github.com/bingqingzhang/odd-vod)**|
 |**2023-08-22**|**ViLLA: Fine-Grained Vision-Language Representation Learning from Real-World Data**|Maya Varma et.al.|[2308.11194v1](http://arxiv.org/abs/2308.11194v1)|**[link](https://github.com/stanfordmimi/villa)**|
@@ -4078,7 +4099,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230824>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230825>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
