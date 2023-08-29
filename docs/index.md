@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.28
+## Updated on 2023.08.29
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-25**|**In-context learning for model-free system identification**|Marco Forgione et.al.|[2308.13380v1](http://arxiv.org/abs/2308.13380v1)|**[link](https://github.com/forgi86/sysid-transformers)**|
+|**2023-08-25**|**Refine Neutrino Events Reconstruction with BEiT-3**|Chen Li et.al.|[2308.13285v1](http://arxiv.org/abs/2308.13285v1)|**[link](https://github.com/ChenLi2049/ISeeCube)**|
+|**2023-08-25**|**Self-supervised Scene Text Segmentation with Object-centric Layered Representations Augmented by Text Regions**|Yibo Wang et.al.|[2308.13178v1](http://arxiv.org/abs/2308.13178v1)|null|
 |**2023-08-25**|**Can Linguistic Knowledge Improve Multimodal Alignment in Vision-Language Pretraining?**|Fei Wang et.al.|[2308.12898v2](http://arxiv.org/abs/2308.12898v2)|**[link](https://github.com/wangfei-2019/snare)**|
 |**2023-08-24**|**A Parse-Then-Place Approach for Generating Graphic Layouts from Textual Descriptions**|Jiawei Lin et.al.|[2308.12700v1](http://arxiv.org/abs/2308.12700v1)|null|
 |**2023-08-25**|**Masked Feature Modelling: Feature Masking for the Unsupervised Pre-training of a Graph Attention Network Block for Bottom-up Video Event Recognition**|Dimitrios Daskalakis et.al.|[2308.12673v2](http://arxiv.org/abs/2308.12673v2)|null|
@@ -1437,12 +1440,17 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230828>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230829>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-25**|**Unveiling the Role of Message Passing in Dual-Privacy Preservation on GNNs**|Tianyi Zhao et.al.|[2308.13513v1](http://arxiv.org/abs/2308.13513v1)|null|
+|**2023-08-25**|**Self-Supervised Representation Learning with Cross-Context Learning between Global and Hypercolumn Features**|Zheng Gao et.al.|[2308.13392v1](http://arxiv.org/abs/2308.13392v1)|null|
+|**2023-08-25**|**Fine-tuning can cripple your foundation model; preserving features may be the solution**|Jishnu Mukhoti et.al.|[2308.13320v1](http://arxiv.org/abs/2308.13320v1)|null|
+|**2023-08-25**|**Knowledge-Driven CoT: Exploring Faithful Reasoning in LLMs for Knowledge-intensive Question Answering**|Keheng Wang et.al.|[2308.13259v1](http://arxiv.org/abs/2308.13259v1)|null|
+|**2023-08-25**|**GEMTrans: A General, Echocardiography-based, Multi-Level Transformer Framework for Cardiovascular Diagnosis**|Masoud Mokhtari et.al.|[2308.13217v1](http://arxiv.org/abs/2308.13217v1)|**[link](https://github.com/dsl-lab/gemtrans)**|
 |**2023-08-24**|**POCO: 3D Pose and Shape Estimation with Confidence**|Sai Kumar Dwivedi et.al.|[2308.12965v1](http://arxiv.org/abs/2308.12965v1)|null|
 |**2023-08-24**|**kTrans: Knowledge-Aware Transformer for Binary Code Embedding**|Wenyu Zhu et.al.|[2308.12659v1](http://arxiv.org/abs/2308.12659v1)|**[link](https://github.com/learner0x5a/ktrans-release)**|
 |**2023-08-24**|**Emotion-Aligned Contrastive Learning Between Images and Music**|Shanti Stewart et.al.|[2308.12610v1](http://arxiv.org/abs/2308.12610v1)|null|
@@ -2778,7 +2786,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230828>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230829>back to top</a>)</p>
 
 ## adaptor
 
@@ -2837,14 +2845,20 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230828>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230829>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-25**|**Eventful Transformers: Leveraging Temporal Redundancy in Vision Transformers**|Matthew Dutson et.al.|[2308.13494v1](http://arxiv.org/abs/2308.13494v1)|**[link](https://github.com/WISION-Lab/eventful-transformer)**|
+|**2023-08-25**|**iCub Detecting Gazed Objects: A Pipeline Estimating Human Attention**|Shiva Hanifi et.al.|[2308.13318v1](http://arxiv.org/abs/2308.13318v1)|null|
+|**2023-08-25**|**Black-box Unsupervised Domain Adaptation with Bi-directional Atkinson-Shiffrin Memory**|Jingyi Zhang et.al.|[2308.13236v1](http://arxiv.org/abs/2308.13236v1)|null|
+|**2023-08-25**|**STRIDE: Street View-based Environmental Feature Detection and Pedestrian Collision Prediction**|Cristina González et.al.|[2308.13183v1](http://arxiv.org/abs/2308.13183v1)|**[link](https://github.com/bcv-uniandes/stride)**|
+|**2023-08-25**|**How to Evaluate the Generalization of Detection? A Benchmark for Comprehensive Open-Vocabulary Detection**|Yiyang Yao et.al.|[2308.13177v1](http://arxiv.org/abs/2308.13177v1)|null|
+|**2023-08-24**|**Data-Side Efficiencies for Lightweight Convolutional Neural Networks**|Bryan Bo Cao et.al.|[2308.13057v1](http://arxiv.org/abs/2308.13057v1)|null|
 |**2023-08-24**|**Perspective-aware Convolution for Monocular 3D Object Detection**|Jia-Quan Yu et.al.|[2308.12938v1](http://arxiv.org/abs/2308.12938v1)|**[link](https://github.com/KenYu910645/perspective-aware-convolution)**|
-|**2023-08-24**|**CDAN: Convolutional Dense Attention-guided Network for Low-light Image Enhancement**|Hossein Shakibania et.al.|[2308.12902v1](http://arxiv.org/abs/2308.12902v1)|null|
+|**2023-08-26**|**CDAN: Convolutional Dense Attention-guided Network for Low-light Image Enhancement**|Hossein Shakibania et.al.|[2308.12902v2](http://arxiv.org/abs/2308.12902v2)|null|
 |**2023-08-24**|**On Offline Evaluation of 3D Object Detection for Autonomous Driving**|Tim Schreier et.al.|[2308.12779v1](http://arxiv.org/abs/2308.12779v1)|null|
 |**2023-08-24**|**Learning Heavily-Degraded Prior for Underwater Object Detection**|Chenping Fu et.al.|[2308.12738v1](http://arxiv.org/abs/2308.12738v1)|**[link](https://github.com/xiaodetection/learning-heavily-degraed-prior)**|
 |**2023-08-24**|**DeepLOC: Deep Learning-based Bone Pathology Localization and Classification in Wrist X-ray Images**|Razan Dibo et.al.|[2308.12727v1](http://arxiv.org/abs/2308.12727v1)|null|
@@ -4123,7 +4137,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230828>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230829>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
