@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.29
+## Updated on 2023.08.30
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-28**|**VideoCutLER: Surprisingly Simple Unsupervised Video Instance Segmentation**|Xudong Wang et.al.|[2308.14710v1](http://arxiv.org/abs/2308.14710v1)|**[link](https://github.com/facebookresearch/cutler)**|
+|**2023-08-28**|**Fine-Tuning Llama 2 Large Language Models for Detecting Online Sexual Predatory Chats and Abusive Texts**|Thanh Thi Nguyen et.al.|[2308.14683v1](http://arxiv.org/abs/2308.14683v1)|null|
+|**2023-08-28**|**Adversarial Attacks on Foundational Vision Models**|Nathan Inkawhich et.al.|[2308.14597v1](http://arxiv.org/abs/2308.14597v1)|null|
+|**2023-08-28**|**Multimodal Detection of Social Spambots in Twitter using Transformers**|Loukas Ilias et.al.|[2308.14484v1](http://arxiv.org/abs/2308.14484v1)|null|
+|**2023-08-28**|**Self-Supervision for Tackling Unsupervised Anomaly Detection: Pitfalls and Opportunities**|Leman Akoglu et.al.|[2308.14380v1](http://arxiv.org/abs/2308.14380v1)|null|
+|**2023-08-28**|**FonMTL: Towards Multitask Learning for the Fon Language**|Bonaventure F. P. Dossou et.al.|[2308.14280v1](http://arxiv.org/abs/2308.14280v1)|**[link](https://github.com/bonaventuredossou/multitask_fon)**|
+|**2023-08-28**|**Parameter-Efficient Transfer Learning for Audio-Visual-Language Tasks**|Hongye Liu et.al.|[2308.14274v1](http://arxiv.org/abs/2308.14274v1)|null|
+|**2023-08-27**|**SketchDreamer: Interactive Text-Augmented Creative Sketch Ideation**|Zhiyu Qu et.al.|[2308.14191v1](http://arxiv.org/abs/2308.14191v1)|null|
+|**2023-08-27**|**Only Encode Once: Making Content-based News Recommender Greener**|Qijiong Liu et.al.|[2308.14155v1](http://arxiv.org/abs/2308.14155v1)|null|
+|**2023-08-27**|**Situated Natural Language Explanations**|Zining Zhu et.al.|[2308.14115v1](http://arxiv.org/abs/2308.14115v1)|null|
 |**2023-08-25**|**In-context learning for model-free system identification**|Marco Forgione et.al.|[2308.13380v1](http://arxiv.org/abs/2308.13380v1)|**[link](https://github.com/forgi86/sysid-transformers)**|
 |**2023-08-25**|**Refine Neutrino Events Reconstruction with BEiT-3**|Chen Li et.al.|[2308.13285v1](http://arxiv.org/abs/2308.13285v1)|**[link](https://github.com/ChenLi2049/ISeeCube)**|
 |**2023-08-25**|**Self-supervised Scene Text Segmentation with Object-centric Layered Representations Augmented by Text Regions**|Yibo Wang et.al.|[2308.13178v1](http://arxiv.org/abs/2308.13178v1)|null|
@@ -1436,12 +1446,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230829>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230830>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-28**|**Adversarial Attacks on Foundational Vision Models**|Nathan Inkawhich et.al.|[2308.14597v1](http://arxiv.org/abs/2308.14597v1)|null|
+|**2023-08-28**|**Speech Self-Supervised Representations Benchmarking: a Case for Larger Probing Heads**|Salah Zaiem et.al.|[2308.14456v1](http://arxiv.org/abs/2308.14456v1)|null|
+|**2023-08-28**|**Rethinking Mobile AI Ecosystem in the LLM Era**|Jinliang Yuan et.al.|[2308.14363v1](http://arxiv.org/abs/2308.14363v1)|null|
+|**2023-08-28**|**UniPT: Universal Parallel Tuning for Transfer Learning with Efficient Parameter and Memory**|Haiwen Diao et.al.|[2308.14316v1](http://arxiv.org/abs/2308.14316v1)|**[link](https://github.com/Paranioar/UniPT)**|
+|**2023-08-27**|**SPEED: Streaming Partition and Parallel Acceleration for Temporal Interaction Graph Embedding**|Xi Chen et.al.|[2308.14129v1](http://arxiv.org/abs/2308.14129v1)|null|
+|**2023-08-27**|**Calibrating Panoramic Depth Estimation for Practical Localization and Mapping**|Junho Kim et.al.|[2308.14005v1](http://arxiv.org/abs/2308.14005v1)|null|
+|**2023-08-27**|**Label Denoising through Cross-Model Agreement**|Yu Wang et.al.|[2308.13976v1](http://arxiv.org/abs/2308.13976v1)|null|
+|**2023-08-26**|**Improving Knowledge Distillation for BERT Models: Loss Functions, Mapping Methods, and Weight Tuning**|Apoorv Dankar et.al.|[2308.13958v1](http://arxiv.org/abs/2308.13958v1)|null|
+|**2023-08-26**|**Transfer Learning for Microstructure Segmentation with CS-UNet: A Hybrid Algorithm with Transformer and CNN Encoders**|Khaled Alrfou et.al.|[2308.13917v1](http://arxiv.org/abs/2308.13917v1)|**[link](https://github.com/kalrfou/swint-pretrained-microscopy-models)**|
+|**2023-08-26**|**LMSanitator: Defending Prompt-Tuning Against Task-Agnostic Backdoors**|Chengkun Wei et.al.|[2308.13904v1](http://arxiv.org/abs/2308.13904v1)|**[link](https://github.com/meng-wenlong/lmsanitator)**|
 |**2023-08-25**|**Unveiling the Role of Message Passing in Dual-Privacy Preservation on GNNs**|Tianyi Zhao et.al.|[2308.13513v1](http://arxiv.org/abs/2308.13513v1)|null|
 |**2023-08-25**|**Self-Supervised Representation Learning with Cross-Context Learning between Global and Hypercolumn Features**|Zheng Gao et.al.|[2308.13392v1](http://arxiv.org/abs/2308.13392v1)|null|
 |**2023-08-25**|**Fine-tuning can cripple your foundation model; preserving features may be the solution**|Jishnu Mukhoti et.al.|[2308.13320v1](http://arxiv.org/abs/2308.13320v1)|null|
@@ -2782,7 +2802,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230829>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230830>back to top</a>)</p>
 
 ## adaptor
 
@@ -2841,12 +2861,18 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230829>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230830>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-28**|**PanoSwin: a Pano-style Swin Transformer for Panorama Understanding**|Zhixin Ling et.al.|[2308.14726v1](http://arxiv.org/abs/2308.14726v1)|null|
+|**2023-08-28**|**Group Regression for Query Based Object Detection and Tracking**|Felicia Ruppel et.al.|[2308.14481v1](http://arxiv.org/abs/2308.14481v1)|null|
+|**2023-08-28**|**Improving the performance of object detection by preserving label distribution**|Heewon Lee et.al.|[2308.14466v1](http://arxiv.org/abs/2308.14466v1)|**[link](https://github.com/leeheewon-01/yolostratifiedkfold)**|
+|**2023-08-28**|**Bridging Cross-task Protocol Inconsistency for Distillation in Dense Object Detection**|Longrong Yang et.al.|[2308.14286v1](http://arxiv.org/abs/2308.14286v1)|**[link](https://github.com/tinytigerpan/bckd)**|
+|**2023-08-26**|**Joint Gaze-Location and Gaze-Object Detection**|Danyang Tu et.al.|[2308.13857v1](http://arxiv.org/abs/2308.13857v1)|null|
+|**2023-08-26**|**SOGDet: Semantic-Occupancy Guided Multi-view 3D Object Detection**|Qiu Zhou et.al.|[2308.13794v1](http://arxiv.org/abs/2308.13794v1)|null|
 |**2023-08-25**|**Eventful Transformers: Leveraging Temporal Redundancy in Vision Transformers**|Matthew Dutson et.al.|[2308.13494v1](http://arxiv.org/abs/2308.13494v1)|**[link](https://github.com/WISION-Lab/eventful-transformer)**|
 |**2023-08-25**|**iCub Detecting Gazed Objects: A Pipeline Estimating Human Attention**|Shiva Hanifi et.al.|[2308.13318v1](http://arxiv.org/abs/2308.13318v1)|null|
 |**2023-08-25**|**Black-box Unsupervised Domain Adaptation with Bi-directional Atkinson-Shiffrin Memory**|Jingyi Zhang et.al.|[2308.13236v1](http://arxiv.org/abs/2308.13236v1)|null|
@@ -4133,7 +4159,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230829>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230830>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
