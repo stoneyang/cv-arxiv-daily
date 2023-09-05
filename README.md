@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.04
+## Updated on 2023.09.05
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,8 +19,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-01**|**Catalyst Property Prediction with CatBERTa: Unveiling Feature Exploration Strategies through Large Language Models**|Janghoon Ock et.al.|[2309.00563v1](http://arxiv.org/abs/2309.00563v1)|null|
+|**2023-09-01**|**Trust your Good Friends: Source-free Domain Adaptation by Reciprocal Neighborhood Clustering**|Shiqi Yang et.al.|[2309.00528v1](http://arxiv.org/abs/2309.00528v1)|null|
+|**2023-09-01**|**CPSP: Learning Speech Concepts From Phoneme Supervision**|Chunyu Qiang et.al.|[2309.00424v1](http://arxiv.org/abs/2309.00424v1)|null|
+|**2023-09-01**|**FactLLaMA: Optimizing Instruction-Following Language Models with External Knowledge for Automated Fact-Checking**|Tsun-Hin Cheung et.al.|[2309.00240v1](http://arxiv.org/abs/2309.00240v1)|null|
+|**2023-08-31**|**A Sequential Framework for Detection and Classification of Abnormal Teeth in Panoramic X-rays**|Tudor Dascalu et.al.|[2309.00027v1](http://arxiv.org/abs/2309.00027v1)|**[link](https://github.com/tudordascalu/2d-teeth-detection-challenge)**|
 |**2023-08-31**|**StyleInV: A Temporal Style Modulated Inversion Network for Unconditional Video Generation**|Yuhan Wang et.al.|[2308.16909v1](http://arxiv.org/abs/2308.16909v1)|**[link](https://github.com/johannwyh/styleinv)**|
-|**2023-08-31**|**The Belebele Benchmark: a Parallel Reading Comprehension Dataset in 122 Language Variants**|Lucas Bandarkar et.al.|[2308.16884v1](http://arxiv.org/abs/2308.16884v1)|null|
+|**2023-08-31**|**The Belebele Benchmark: a Parallel Reading Comprehension Dataset in 122 Language Variants**|Lucas Bandarkar et.al.|[2308.16884v1](http://arxiv.org/abs/2308.16884v1)|**[link](https://github.com/facebookresearch/belebele)**|
 |**2023-08-31**|**Towards Multilingual Automatic Dialogue Evaluation**|John Mendonça et.al.|[2308.16795v1](http://arxiv.org/abs/2308.16795v1)|null|
 |**2023-08-31**|**Generate Your Own Scotland: Satellite Image Generation Conditioned on Maps**|Miguel Espinosa et.al.|[2308.16648v1](http://arxiv.org/abs/2308.16648v1)|**[link](https://github.com/miquel-espinosa/map-sat)**|
 |**2023-08-31**|**Expanding Frozen Vision-Language Models without Retraining: Towards Improved Robot Perception**|Riley Tavassoli et.al.|[2308.16493v1](http://arxiv.org/abs/2308.16493v1)|null|
@@ -1462,12 +1467,18 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230904>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230905>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-01**|**CPSP: Learning Speech Concepts From Phoneme Supervision**|Chunyu Qiang et.al.|[2309.00424v1](http://arxiv.org/abs/2309.00424v1)|null|
+|**2023-09-01**|**FederatedScope-LLM: A Comprehensive Package for Fine-tuning Large Language Models in Federated Learning**|Weirui Kuang et.al.|[2309.00363v1](http://arxiv.org/abs/2309.00363v1)|**[link](https://github.com/alibaba/federatedscope)**|
+|**2023-09-01**|**Towards Contrastive Learning in Music Video Domain**|Karel Veldkamp et.al.|[2309.00347v1](http://arxiv.org/abs/2309.00347v1)|null|
+|**2023-09-01**|**Robust Point Cloud Processing through Positional Embedding**|Jianqiao Zheng et.al.|[2309.00339v1](http://arxiv.org/abs/2309.00339v1)|null|
+|**2023-09-01**|**Learning State-Space Models for Mapping Spatial Motion Patterns**|Junyi Shi et.al.|[2309.00333v1](http://arxiv.org/abs/2309.00333v1)|null|
+|**2023-09-01**|**Fine-Grained Spatiotemporal Motion Alignment for Contrastive Video Representation Learning**|Minghao Zhu et.al.|[2309.00297v1](http://arxiv.org/abs/2309.00297v1)|null|
 |**2023-08-31**|**CL-MAE: Curriculum-Learned Masked Autoencoders**|Neelu Madan et.al.|[2308.16572v1](http://arxiv.org/abs/2308.16572v1)|null|
 |**2023-08-31**|**Contrastive Representation Learning Based on Multiple Node-centered Subgraphs**|Dong Li et.al.|[2308.16441v1](http://arxiv.org/abs/2308.16441v1)|null|
 |**2023-08-31**|**RGB-T Tracking via Multi-Modal Mutual Prompt Learning**|Yang Luo et.al.|[2308.16386v1](http://arxiv.org/abs/2308.16386v1)|**[link](https://github.com/husteryoung/mplt)**|
@@ -2832,7 +2843,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230904>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230905>back to top</a>)</p>
 
 ## adaptor
 
@@ -2891,12 +2902,17 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230904>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230905>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-01**|**A Theoretical and Practical Framework for Evaluating Uncertainty Calibration in Object Detection**|Pedro Conde et.al.|[2309.00464v1](http://arxiv.org/abs/2309.00464v1)|**[link](https://github.com/pedrormconde/uncertainty_calibration_object_detection)**|
+|**2023-09-01**|**Object-Centric Multiple Object Tracking**|Zixu Zhao et.al.|[2309.00233v1](http://arxiv.org/abs/2309.00233v1)|null|
+|**2023-09-01**|**What Makes Good Open-Vocabulary Detector: A Disassembling Perspective**|Jincheng Li et.al.|[2309.00227v1](http://arxiv.org/abs/2309.00227v1)|null|
+|**2023-08-31**|**FACET: Fairness in Computer Vision Evaluation Benchmark**|Laura Gustafson et.al.|[2309.00035v1](http://arxiv.org/abs/2309.00035v1)|null|
+|**2023-08-31**|**An Energy-Aware Approach to Design Self-Adaptive AI-based Applications on the Edge**|Alessandro Tundo et.al.|[2309.00022v1](http://arxiv.org/abs/2309.00022v1)|**[link](https://gitlab.com/sustainable-continuum-monitoring/self-adaptive-moop)**|
 |**2023-08-31**|**SoccerNet 2023 Tracking Challenge -- 3rd place MOT4MOT Team Technical Report**|Gal Shitrit et.al.|[2308.16651v1](http://arxiv.org/abs/2308.16651v1)|null|
 |**2023-08-31**|**Object Detection for Caries or Pit and Fissure Sealing Requirement in Children's First Permanent Molars**|Chenyao Jiang et.al.|[2308.16551v1](http://arxiv.org/abs/2308.16551v1)|null|
 |**2023-08-31**|**Unsupervised Recognition of Unknown Objects for Open-World Object Detection**|Ruohuan Fang et.al.|[2308.16527v1](http://arxiv.org/abs/2308.16527v1)|**[link](https://github.com/frh23333/mepu-owod)**|
@@ -4210,7 +4226,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230904>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230905>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
