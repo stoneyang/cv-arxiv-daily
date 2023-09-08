@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.07
+## Updated on 2023.09.08
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-06**|**Leveraging ASR Pretrained Conformers for Speaker Verification through Transfer Learning and Knowledge Distillation**|Danwei Cai et.al.|[2309.03019v1](http://arxiv.org/abs/2309.03019v1)|null|
+|**2023-09-07**|**HAE-RAE Bench: Evaluation of Korean Knowledge in Language Models**|Guijin Son et.al.|[2309.02706v2](http://arxiv.org/abs/2309.02706v2)|null|
+|**2023-09-05**|**Self-Supervised Pretraining Improves Performance and Inference Efficiency in Multiple Lung Ultrasound Interpretation Tasks**|Blake VanBerlo et.al.|[2309.02596v1](http://arxiv.org/abs/2309.02596v1)|null|
+|**2023-09-05**|**Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning**|Lili Yu et.al.|[2309.02591v1](http://arxiv.org/abs/2309.02591v1)|null|
+|**2023-09-05**|**A Survey of the Impact of Self-Supervised Pretraining for Diagnostic Tasks with Radiological Images**|Blake VanBerlo et.al.|[2309.02555v1](http://arxiv.org/abs/2309.02555v1)|null|
 |**2023-09-05**|**Building a Winning Team: Selecting Source Model Ensembles using a Submodular Transferability Estimation Approach**|Vimal K B et.al.|[2309.02429v1](http://arxiv.org/abs/2309.02429v1)|null|
 |**2023-09-05**|**Weigh Your Own Words: Improving Hate Speech Counter Narrative Generation via Attention Regularization**|Helena Bonaldi et.al.|[2309.02311v1](http://arxiv.org/abs/2309.02311v1)|null|
 |**2023-09-05**|**Bring the Noise: Introducing Noise Robustness to Pretrained Automatic Speech Recognition**|Patrick Eickhoff et.al.|[2309.02145v1](http://arxiv.org/abs/2309.02145v1)|null|
@@ -1477,12 +1482,20 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230907>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230908>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-06**|**SLiMe: Segment Like Me**|Aliasghar Khani et.al.|[2309.03179v1](http://arxiv.org/abs/2309.03179v1)|null|
+|**2023-09-06**|**Combining pre-trained Vision Transformers and CIDER for Out Of Domain Detection**|Grégor Jouet et.al.|[2309.03047v1](http://arxiv.org/abs/2309.03047v1)|null|
+|**2023-09-06**|**Demystifying RCE Vulnerabilities in LLM-Integrated Apps**|Tong Liu et.al.|[2309.02926v1](http://arxiv.org/abs/2309.02926v1)|null|
+|**2023-09-06**|**On the Challenges of Building Datasets for Hate Speech Detection**|Vitthal Bhandari et.al.|[2309.02912v1](http://arxiv.org/abs/2309.02912v1)|null|
+|**2023-09-06**|**Prompt-based Node Feature Extractor for Few-shot Learning on Text-Attributed Graphs**|Xuanwen Huang et.al.|[2309.02848v1](http://arxiv.org/abs/2309.02848v1)|null|
+|**2023-09-06**|**Seismic Foundation Model (SFM): a new generation deep learning model in geophysics**|Hanlin Sheng et.al.|[2309.02791v1](http://arxiv.org/abs/2309.02791v1)|null|
+|**2023-09-06**|**GRASS: Unified Generation Model for Speech Semantic Understanding**|Aobo Xia et.al.|[2309.02780v1](http://arxiv.org/abs/2309.02780v1)|null|
+|**2023-09-05**|**A Survey of the Impact of Self-Supervised Pretraining for Diagnostic Tasks with Radiological Images**|Blake VanBerlo et.al.|[2309.02555v1](http://arxiv.org/abs/2309.02555v1)|null|
 |**2023-09-05**|**Building a Winning Team: Selecting Source Model Ensembles using a Submodular Transferability Estimation Approach**|Vimal K B et.al.|[2309.02429v1](http://arxiv.org/abs/2309.02429v1)|null|
 |**2023-09-05**|**Delta-LoRA: Fine-Tuning High-Rank Parameters with the Delta of Low-Rank Matrices**|Bojia Zi et.al.|[2309.02411v1](http://arxiv.org/abs/2309.02411v1)|null|
 |**2023-09-05**|**SeisCLIP: A seismology foundation model pre-trained by multi-modal data for multi-purpose seismic feature extraction**|Xu Si et.al.|[2309.02320v1](http://arxiv.org/abs/2309.02320v1)|**[link](https://github.com/sixu0/SeisCLIP)**|
@@ -2863,12 +2876,14 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230907>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230908>back to top</a>)</p>
 
 ## adaptor
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-06**|**Leveraging ASR Pretrained Conformers for Speaker Verification through Transfer Learning and Knowledge Distillation**|Danwei Cai et.al.|[2309.03019v1](http://arxiv.org/abs/2309.03019v1)|null|
+|**2023-09-06**|**Prompt-based Node Feature Extractor for Few-shot Learning on Text-Attributed Graphs**|Xuanwen Huang et.al.|[2309.02848v1](http://arxiv.org/abs/2309.02848v1)|null|
 |**2023-09-05**|**Decomposed Guided Dynamic Filters for Efficient RGB-Guided Depth Completion**|Yufei Wang et.al.|[2309.02043v1](http://arxiv.org/abs/2309.02043v1)|null|
 |**2023-09-04**|**Adapting Segment Anything Model for Change Detection in HR Remote Sensing Images**|Lei Ding et.al.|[2309.01429v1](http://arxiv.org/abs/2309.01429v1)|null|
 |**2023-08-21**|**STEERER: Resolving Scale Variations for Counting and Localization via Selective Inheritance Learning**|Tao Han et.al.|[2308.10468v1](http://arxiv.org/abs/2308.10468v1)|**[link](https://github.com/taohan10200/steerer)**|
@@ -2924,12 +2939,17 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230907>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230908>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-06**|**Do We Still Need Non-Maximum Suppression? Accurate Confidence Estimates and Implicit Duplication Modeling with IoU-Aware Calibration**|Johannes Gilg et.al.|[2309.03110v1](http://arxiv.org/abs/2309.03110v1)|null|
+|**2023-09-06**|**FishMOT: A Simple and Effective Method for Fish Tracking Based on IoU Matching**|Shuo Liu et.al.|[2309.02975v1](http://arxiv.org/abs/2309.02975v1)|null|
+|**2023-09-07**|**DMKD: Improving Feature-based Knowledge Distillation for Object Detection Via Dual Masking Augmentation**|Guang Yang et.al.|[2309.02719v2](http://arxiv.org/abs/2309.02719v2)|null|
+|**2023-09-05**|**Compressing Vision Transformers for Low-Resource Visual Learning**|Eric Youn et.al.|[2309.02617v1](http://arxiv.org/abs/2309.02617v1)|null|
+|**2023-09-05**|**Anatomy-Driven Pathology Detection on Chest X-rays**|Philip Müller et.al.|[2309.02578v1](http://arxiv.org/abs/2309.02578v1)|**[link](https://github.com/philip-mueller/adpd)**|
 |**2023-09-05**|**The Adversarial Implications of Variable-Time Inference**|Dudi Biton et.al.|[2309.02159v1](http://arxiv.org/abs/2309.02159v1)|**[link](https://github.com/dudi709/Timing-Based-Attack)**|
 |**2023-09-05**|**Traffic Light Recognition using Convolutional Neural Networks: A Survey**|Svetlana Pavlitska et.al.|[2309.02158v1](http://arxiv.org/abs/2309.02158v1)|null|
 |**2023-09-05**|**Diffusion-based 3D Object Detection with Random Boxes**|Xin Zhou et.al.|[2309.02049v1](http://arxiv.org/abs/2309.02049v1)|null|
@@ -4258,7 +4278,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230907>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230908>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
