@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.13
+## Updated on 2023.09.14
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-12**|**Attention De-sparsification Matters: Inducing Diversity in Digital Pathology Representation Learning**|Saarthak Kapse et.al.|[2309.06439v1](http://arxiv.org/abs/2309.06439v1)|null|
+|**2023-09-12**|**Learning to Predict Concept Ordering for Common Sense Generation**|Tianhui Zhang et.al.|[2309.06363v1](http://arxiv.org/abs/2309.06363v1)|**[link](https://github.com/tianhuizhang/concept_ordering)**|
+|**2023-09-12**|**360$^\circ$ from a Single Camera: A Few-Shot Approach for LiDAR Segmentation**|Laurenz Reichardt et.al.|[2309.06197v1](http://arxiv.org/abs/2309.06197v1)|null|
+|**2023-09-12**|**Active Label Refinement for Semantic Segmentation of Satellite Images**|Tuan Pham Minh et.al.|[2309.06159v1](http://arxiv.org/abs/2309.06159v1)|null|
+|**2023-09-12**|**Annotating Data for Fine-Tuning a Neural Ranker? Current Active Learning Strategies are not Better than Random Selection**|Sophia Althammer et.al.|[2309.06131v1](http://arxiv.org/abs/2309.06131v1)|null|
+|**2023-09-12**|**Do PLMs Know and Understand Ontological Knowledge?**|Weiqi Wu et.al.|[2309.05936v1](http://arxiv.org/abs/2309.05936v1)|**[link](https://github.com/vickywu1022/ontoprobe-plms)**|
+|**2023-09-12**|**Frequency-Aware Masked Autoencoders for Multimodal Pretraining on Biosignals**|Ran Liu et.al.|[2309.05927v1](http://arxiv.org/abs/2309.05927v1)|null|
+|**2023-09-11**|**Natural Language Supervision for General-Purpose Audio Representations**|Benjamin Elizalde et.al.|[2309.05767v1](http://arxiv.org/abs/2309.05767v1)|null|
 |**2023-09-11**|**Learning the Geodesic Embedding with Graph Neural Networks**|Bo Pang et.al.|[2309.05613v1](http://arxiv.org/abs/2309.05613v1)|null|
 |**2023-09-11**|**Temporal Action Localization with Enhanced Instant Discriminability**|Dingfeng Shi et.al.|[2309.05590v1](http://arxiv.org/abs/2309.05590v1)|**[link](https://github.com/dingfengshi/tridetplus)**|
 |**2023-09-11**|**Diffusion-Based Co-Speech Gesture Generation Using Joint Text and Audio Representation**|Anna Deichler et.al.|[2309.05455v1](http://arxiv.org/abs/2309.05455v1)|null|
@@ -1508,12 +1516,19 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230913>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230914>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-12**|**Jersey Number Recognition using Keyframe Identification from Low-Resolution Broadcast Videos**|Bavesh Balaji et.al.|[2309.06285v1](http://arxiv.org/abs/2309.06285v1)|null|
+|**2023-09-12**|**SynVox2: Towards a privacy-friendly VoxCeleb2 dataset**|Xiaoxiao Miao et.al.|[2309.06141v1](http://arxiv.org/abs/2309.06141v1)|null|
+|**2023-09-12**|**Dynamic Visual Prompt Tuning for Parameter Efficient Transfer Learning**|Chunqing Ruan et.al.|[2309.06123v1](http://arxiv.org/abs/2309.06123v1)|null|
+|**2023-09-12**|**Circuit Breaking: Removing Model Behaviors with Targeted Ablation**|Maximilian Li et.al.|[2309.05973v1](http://arxiv.org/abs/2309.05973v1)|null|
+|**2023-09-11**|**SCD-Net: Spatiotemporal Clues Disentanglement Network for Self-supervised Skeleton-based Action Recognition**|Cong Wu et.al.|[2309.05834v1](http://arxiv.org/abs/2309.05834v1)|null|
+|**2023-09-11**|**Natural Language Supervision for General-Purpose Audio Representations**|Benjamin Elizalde et.al.|[2309.05767v1](http://arxiv.org/abs/2309.05767v1)|null|
+|**2023-09-11**|**TransferDoc: A Self-Supervised Transferable Document Representation Learning Model Unifying Vision and Language**|Souhail Bakkali et.al.|[2309.05756v1](http://arxiv.org/abs/2309.05756v1)|null|
 |**2023-09-11**|**LeBenchmark 2.0: a Standardized, Replicable and Enhanced Framework for Self-supervised Representations of French Speech**|Titouan Parcollet et.al.|[2309.05472v1](http://arxiv.org/abs/2309.05472v1)|null|
 |**2023-09-11**|**Towards generalisable and calibrated synthetic speech detection with self-supervised representations**|Dan Oneata et.al.|[2309.05384v1](http://arxiv.org/abs/2309.05384v1)|null|
 |**2023-09-11**|**Learning Geometric Representations of Objects via Interaction**|Alfredo Reichlin et.al.|[2309.05346v1](http://arxiv.org/abs/2309.05346v1)|**[link](https://github.com/reichlin/geomrepobj)**|
@@ -2923,13 +2938,13 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230913>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230914>back to top</a>)</p>
 
 ## adaptor
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-11**|**NExT-GPT: Any-to-Any Multimodal LLM**|Shengqiong Wu et.al.|[2309.05519v1](http://arxiv.org/abs/2309.05519v1)|null|
+|**2023-09-13**|**NExT-GPT: Any-to-Any Multimodal LLM**|Shengqiong Wu et.al.|[2309.05519v2](http://arxiv.org/abs/2309.05519v2)|null|
 |**2023-09-06**|**Leveraging ASR Pretrained Conformers for Speaker Verification through Transfer Learning and Knowledge Distillation**|Danwei Cai et.al.|[2309.03019v1](http://arxiv.org/abs/2309.03019v1)|null|
 |**2023-09-06**|**Prompt-based Node Feature Extractor for Few-shot Learning on Text-Attributed Graphs**|Xuanwen Huang et.al.|[2309.02848v1](http://arxiv.org/abs/2309.02848v1)|null|
 |**2023-09-05**|**Decomposed Guided Dynamic Filters for Efficient RGB-Guided Depth Completion**|Yufei Wang et.al.|[2309.02043v1](http://arxiv.org/abs/2309.02043v1)|null|
@@ -2987,12 +3002,19 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230913>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230914>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-12**|**Semantic and Articulated Pedestrian Sensing Onboard a Moving Vehicle**|Maria Priisalu et.al.|[2309.06313v1](http://arxiv.org/abs/2309.06313v1)|null|
+|**2023-09-12**|**Self-Training and Multi-Task Learning for Limited Data: Evaluation Study on Object Detection**|Hoàng-Ân Lê et.al.|[2309.06288v1](http://arxiv.org/abs/2309.06288v1)|null|
+|**2023-09-12**|**SCP: Scene Completion Pre-training for 3D Object Detection**|Yiming Shan et.al.|[2309.06199v1](http://arxiv.org/abs/2309.06199v1)|null|
+|**2023-09-12**|**Beyond Generation: Harnessing Text to Image Models for Object Detection and Segmentation**|Yunhao Ge et.al.|[2309.05956v1](http://arxiv.org/abs/2309.05956v1)|null|
+|**2023-09-12**|**Adversarial Attacks Assessment of Salient Object Detection via Symbolic Learning**|Gustavo Olague et.al.|[2309.05900v1](http://arxiv.org/abs/2309.05900v1)|null|
+|**2023-09-11**|**SHIFT3D: Synthesizing Hard Inputs For Tricking 3D Detectors**|Hongge Chen et.al.|[2309.05810v1](http://arxiv.org/abs/2309.05810v1)|null|
+|**2023-09-11**|**Adaptive User-centered Neuro-symbolic Learning for Multimodal Interaction with Autonomous Systems**|Amr Gomaa et.al.|[2309.05787v1](http://arxiv.org/abs/2309.05787v1)|null|
 |**2023-09-11**|**An Effective Two-stage Training Paradigm Detector for Small Dataset**|Zheng Wang et.al.|[2309.05652v1](http://arxiv.org/abs/2309.05652v1)|null|
 |**2023-09-11**|**CitDet: A Benchmark Dataset for Citrus Fruit Detection**|Jordan A. James et.al.|[2309.05645v1](http://arxiv.org/abs/2309.05645v1)|null|
 |**2023-09-11**|**Zero-Shot Co-salient Object Detection Framework**|Haoke Xiao et.al.|[2309.05499v1](http://arxiv.org/abs/2309.05499v1)|null|
@@ -4343,7 +4365,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230913>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230914>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
