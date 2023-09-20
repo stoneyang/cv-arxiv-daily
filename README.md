@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.19
+## Updated on 2023.09.20
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-18**|**Plug in the Safety Chip: Enforcing Constraints for LLM-driven Robot Agents**|Ziyi Yang et.al.|[2309.09919v1](http://arxiv.org/abs/2309.09919v1)|null|
+|**2023-09-19**|**Harnessing Collective Intelligence Under a Lack of Cultural Consensus**|Necdet Gürkan et.al.|[2309.09787v2](http://arxiv.org/abs/2309.09787v2)|null|
+|**2023-09-18**|**DGM-DR: Domain Generalization with Mutual Information Regularized Diabetic Retinopathy Classification**|Aleksandr Matsun et.al.|[2309.09670v1](http://arxiv.org/abs/2309.09670v1)|null|
+|**2023-09-18**|**DFormer: Rethinking RGBD Representation Learning for Semantic Segmentation**|Bowen Yin et.al.|[2309.09668v1](http://arxiv.org/abs/2309.09668v1)|**[link](https://github.com/VCIP-RGBD/DFormer)**|
+|**2023-09-18**|**Electrolaryngeal Speech Intelligibility Enhancement Through Robust Linguistic Encoders**|Lester Phillip Violeta et.al.|[2309.09627v1](http://arxiv.org/abs/2309.09627v1)|null|
+|**2023-09-18**|**PromptST: Prompt-Enhanced Spatio-Temporal Multi-Attribute Prediction**|Zijian Zhang et.al.|[2309.09500v1](http://arxiv.org/abs/2309.09500v1)|null|
+|**2023-09-18**|**Self-supervised TransUNet for Ultrasound regional segmentation of the distal radius in children**|Yuyue Zhou et.al.|[2309.09490v1](http://arxiv.org/abs/2309.09490v1)|null|
+|**2023-09-18**|**Face-Driven Zero-Shot Voice Conversion with Memory-based Face-Voice Alignment**|Zheng-Yan Sheng et.al.|[2309.09470v1](http://arxiv.org/abs/2309.09470v1)|null|
+|**2023-09-18**|**Investigating Zero- and Few-shot Generalization in Fact Verification**|Liangming Pan et.al.|[2309.09444v1](http://arxiv.org/abs/2309.09444v1)|**[link](https://github.com/teacherpeterpan/fact-checking-generalization)**|
+|**2023-09-18**|**Unified Pretraining Target Based Video-music Retrieval With Music Rhythm And Video Optical Flow Information**|Tianjun Mao et.al.|[2309.09421v1](http://arxiv.org/abs/2309.09421v1)|null|
 |**2023-09-15**|**How Transferable are Attribute Controllers on Pretrained Multilingual Translation Models?**|Danni Liu et.al.|[2309.08565v1](http://arxiv.org/abs/2309.08565v1)|**[link](https://github.com/dannigt/attribute-controller-transfer)**|
 |**2023-09-15**|**Breathing New Life into 3D Assets with Generative Repainting**|Tianfu Wang et.al.|[2309.08523v1](http://arxiv.org/abs/2309.08523v1)|**[link](https://github.com/toshas/remesh_isotropic_planar)**|
 |**2023-09-15**|**Scaling Laws for Sparsely-Connected Foundation Models**|Elias Frantar et.al.|[2309.08520v1](http://arxiv.org/abs/2309.08520v1)|null|
@@ -1538,12 +1548,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230919>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230920>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-19**|**Graph topological property recovery with heat and wave dynamics-based features on graphs**|Dhananjay Bhaskar et.al.|[2309.09924v2](http://arxiv.org/abs/2309.09924v2)|null|
+|**2023-09-18**|**Towards Better Modeling with Missing Data: A Contrastive Learning-based Visual Analytics Perspective**|Laixin Xie et.al.|[2309.09744v1](http://arxiv.org/abs/2309.09744v1)|null|
+|**2023-09-18**|**Multi-Dictionary Tensor Decomposition**|Maxwell McNeil et.al.|[2309.09717v1](http://arxiv.org/abs/2309.09717v1)|null|
+|**2023-09-18**|**HumTrans: A Novel Open-Source Dataset for Humming Melody Transcription and Beyond**|Shansong Liu et.al.|[2309.09623v1](http://arxiv.org/abs/2309.09623v1)|null|
+|**2023-09-18**|**Gradpaint: Gradient-Guided Inpainting with Diffusion Models**|Asya Grechka et.al.|[2309.09614v1](http://arxiv.org/abs/2309.09614v1)|null|
+|**2023-09-18**|**MEDL-U: Uncertainty-aware 3D Automatic Annotator based on Evidential Deep Learning**|Helbert Paat et.al.|[2309.09599v1](http://arxiv.org/abs/2309.09599v1)|null|
+|**2023-09-18**|**Fabricator: An Open Source Toolkit for Generating Labeled Training Data with Teacher LLMs**|Jonas Golde et.al.|[2309.09582v1](http://arxiv.org/abs/2309.09582v1)|null|
+|**2023-09-18**|**Are Soft Prompts Good Zero-shot Learners for Speech Recognition?**|Dianwen Ng et.al.|[2309.09413v1](http://arxiv.org/abs/2309.09413v1)|null|
+|**2023-09-17**|**OWL: A Large Language Model for IT Operations**|Hongcheng Guo et.al.|[2309.09298v1](http://arxiv.org/abs/2309.09298v1)|null|
+|**2023-09-17**|**MVP: Meta Visual Prompt Tuning for Few-Shot Remote Sensing Image Scene Classification**|Junjie Zhu et.al.|[2309.09276v1](http://arxiv.org/abs/2309.09276v1)|null|
 |**2023-09-15**|**SCT: A Simple Baseline for Parameter-Efficient Fine-Tuning via Salient Channels**|Henry Hengyuan Zhao et.al.|[2309.08513v1](http://arxiv.org/abs/2309.08513v1)|**[link](https://github.com/zhaohengyuan1/sct)**|
 |**2023-09-15**|**Audio-free Prompt Tuning for Language-Audio Models**|Yiming Li et.al.|[2309.08357v1](http://arxiv.org/abs/2309.08357v1)|null|
 |**2023-09-15**|**Estimation of Counterfactual Interventions under Uncertainties**|Juliane Weilbach et.al.|[2309.08332v1](http://arxiv.org/abs/2309.08332v1)|null|
@@ -2988,7 +3008,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230919>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230920>back to top</a>)</p>
 
 ## adaptor
 
@@ -3052,12 +3072,22 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230919>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230920>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-18**|**Application-driven Validation of Posteriors in Inverse Problems**|Tim J. Adler et.al.|[2309.09764v1](http://arxiv.org/abs/2309.09764v1)|null|
+|**2023-09-18**|**Drawing the Same Bounding Box Twice? Coping Noisy Annotations in Object Detection with Repeated Labels**|David Tschirschwitz et.al.|[2309.09742v1](http://arxiv.org/abs/2309.09742v1)|**[link](https://github.com/madave94/gtiod)**|
+|**2023-09-18**|**Moving Object Detection and Tracking with 4D Radar Point Cloud**|Zhijun Pan et.al.|[2309.09737v1](http://arxiv.org/abs/2309.09737v1)|null|
+|**2023-09-18**|**DFormer: Rethinking RGBD Representation Learning for Semantic Segmentation**|Bowen Yin et.al.|[2309.09668v1](http://arxiv.org/abs/2309.09668v1)|**[link](https://github.com/VCIP-RGBD/DFormer)**|
+|**2023-09-18**|**MEDL-U: Uncertainty-aware 3D Automatic Annotator based on Evidential Deep Learning**|Helbert Paat et.al.|[2309.09599v1](http://arxiv.org/abs/2309.09599v1)|null|
+|**2023-09-18**|**Mutual Information-calibrated Conformal Feature Fusion for Uncertainty-Aware Multimodal 3D Object Detection at the Edge**|Alex C. Stutts et.al.|[2309.09593v1](http://arxiv.org/abs/2309.09593v1)|null|
+|**2023-09-18**|**Heterogeneous Generative Knowledge Distillation with Masked Image Modeling**|Ziming Wang et.al.|[2309.09571v1](http://arxiv.org/abs/2309.09571v1)|null|
+|**2023-09-18**|**The DECam Ecliptic Exploration Project (DEEP): V. The Absolute Magnitude Distribution of the Cold Classical Kuiper Belt**|Kevin J. Napier et.al.|[2309.09478v1](http://arxiv.org/abs/2309.09478v1)|null|
+|**2023-09-18**|**Object2Scene: Putting Objects in Context for Open-Vocabulary 3D Detection**|Chenming Zhu et.al.|[2309.09456v1](http://arxiv.org/abs/2309.09456v1)|null|
+|**2023-09-17**|**Chasing Day and Night: Towards Robust and Efficient All-Day Object Detection Guided by an Event Camera**|Jiahang Cao et.al.|[2309.09297v1](http://arxiv.org/abs/2309.09297v1)|null|
 |**2023-09-15**|**The Impact of Different Backbone Architecture on Autonomous Vehicle Dataset**|Ning Ding et.al.|[2309.08564v1](http://arxiv.org/abs/2309.08564v1)|null|
 |**2023-09-15**|**OccupancyDETR: Making Semantic Scene Completion as Straightforward as Object Detection**|Yupeng Jia et.al.|[2309.08504v1](http://arxiv.org/abs/2309.08504v1)|**[link](https://github.com/jypjypjypjyp/occupancydetr)**|
 |**2023-09-15**|**Double Domain Guided Real-Time Low-Light Image Enhancement for Ultra-High-Definition Transportation Surveillance**|Jingxiang Qu et.al.|[2309.08382v1](http://arxiv.org/abs/2309.08382v1)|**[link](https://github.com/qujx/ddnet)**|
@@ -4439,7 +4469,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230919>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230920>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
