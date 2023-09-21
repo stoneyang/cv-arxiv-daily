@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.20
+## Updated on 2023.09.21
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-19**|**Motif-Centric Representation Learning for Symbolic Music**|Yuxuan Wu et.al.|[2309.10597v1](http://arxiv.org/abs/2309.10597v1)|null|
+|**2023-09-19**|**A Neighbourhood-Aware Differential Privacy Mechanism for Static Word Embeddings**|Danushka Bollegala et.al.|[2309.10551v1](http://arxiv.org/abs/2309.10551v1)|null|
+|**2023-09-19**|**OpenMSD: Towards Multilingual Scientific Documents Similarity Measurement**|Yang Gao et.al.|[2309.10539v1](http://arxiv.org/abs/2309.10539v1)|**[link](https://github.com/google-research/google-research)**|
+|**2023-09-19**|**FoleyGen: Visually-Guided Audio Generation**|Xinhao Mei et.al.|[2309.10537v1](http://arxiv.org/abs/2309.10537v1)|null|
+|**2023-09-19**|**Improving CLIP Robustness with Knowledge Distillation and Self-Training**|Clement Laroudie et.al.|[2309.10361v1](http://arxiv.org/abs/2309.10361v1)|null|
+|**2023-09-19**|**KoBigBird-large: Transformation of Transformer for Korean Language Understanding**|Kisu Yang et.al.|[2309.10339v1](http://arxiv.org/abs/2309.10339v1)|null|
+|**2023-09-19**|**Mixed-Distil-BERT: Code-mixed Language Modeling for Bangla, English, and Hindi**|Md Nishat Raihan et.al.|[2309.10272v1](http://arxiv.org/abs/2309.10272v1)|null|
+|**2023-09-18**|**Generative modeling, design and analysis of spider silk protein sequences for enhanced mechanical properties**|Wei Lu et.al.|[2309.10170v1](http://arxiv.org/abs/2309.10170v1)|null|
+|**2023-09-18**|**Understanding Catastrophic Forgetting in Language Models via Implicit Inference**|Suhas Kotha et.al.|[2309.10105v1](http://arxiv.org/abs/2309.10105v1)|**[link](https://github.com/kothasuhas/understanding-forgetting)**|
 |**2023-09-18**|**Plug in the Safety Chip: Enforcing Constraints for LLM-driven Robot Agents**|Ziyi Yang et.al.|[2309.09919v1](http://arxiv.org/abs/2309.09919v1)|null|
 |**2023-09-19**|**Harnessing Collective Intelligence Under a Lack of Cultural Consensus**|Necdet Gürkan et.al.|[2309.09787v2](http://arxiv.org/abs/2309.09787v2)|null|
 |**2023-09-18**|**DGM-DR: Domain Generalization with Mutual Information Regularized Diabetic Retinopathy Classification**|Aleksandr Matsun et.al.|[2309.09670v1](http://arxiv.org/abs/2309.09670v1)|null|
@@ -1548,16 +1557,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230920>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230921>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-20**|**AI Foundation Models for Weather and Climate: Applications, Design, and Implementation**|S. Karthik Mukkavilli et.al.|[2309.10808v2](http://arxiv.org/abs/2309.10808v2)|null|
+|**2023-09-19**|**Unsupervised Deep Cross-Language Entity Alignment**|Chuanyu Jiang et.al.|[2309.10598v1](http://arxiv.org/abs/2309.10598v1)|**[link](https://github.com/chuanyus/udcea)**|
+|**2023-09-19**|**A Neighbourhood-Aware Differential Privacy Mechanism for Static Word Embeddings**|Danushka Bollegala et.al.|[2309.10551v1](http://arxiv.org/abs/2309.10551v1)|null|
+|**2023-09-19**|**SPOT: Scalable 3D Pre-training via Occupancy Prediction for Autonomous Driving**|Xiangchao Yan et.al.|[2309.10527v1](http://arxiv.org/abs/2309.10527v1)|**[link](https://github.com/pjlab-adg/3dtrans)**|
+|**2023-09-19**|**Mixed-Distil-BERT: Code-mixed Language Modeling for Bangla, English, and Hindi**|Md Nishat Raihan et.al.|[2309.10272v1](http://arxiv.org/abs/2309.10272v1)|null|
+|**2023-09-18**|**ProtoKD: Learning from Extremely Scarce Data for Parasite Ova Recognition**|Shubham Trehan et.al.|[2309.10210v1](http://arxiv.org/abs/2309.10210v1)|null|
 |**2023-09-19**|**Graph topological property recovery with heat and wave dynamics-based features on graphs**|Dhananjay Bhaskar et.al.|[2309.09924v2](http://arxiv.org/abs/2309.09924v2)|null|
 |**2023-09-18**|**Towards Better Modeling with Missing Data: A Contrastive Learning-based Visual Analytics Perspective**|Laixin Xie et.al.|[2309.09744v1](http://arxiv.org/abs/2309.09744v1)|null|
 |**2023-09-18**|**Multi-Dictionary Tensor Decomposition**|Maxwell McNeil et.al.|[2309.09717v1](http://arxiv.org/abs/2309.09717v1)|null|
-|**2023-09-18**|**HumTrans: A Novel Open-Source Dataset for Humming Melody Transcription and Beyond**|Shansong Liu et.al.|[2309.09623v1](http://arxiv.org/abs/2309.09623v1)|null|
+|**2023-09-18**|**HumTrans: A Novel Open-Source Dataset for Humming Melody Transcription and Beyond**|Shansong Liu et.al.|[2309.09623v1](http://arxiv.org/abs/2309.09623v1)|**[link](https://github.com/shansongliu/humtrans)**|
 |**2023-09-18**|**Gradpaint: Gradient-Guided Inpainting with Diffusion Models**|Asya Grechka et.al.|[2309.09614v1](http://arxiv.org/abs/2309.09614v1)|null|
 |**2023-09-18**|**MEDL-U: Uncertainty-aware 3D Automatic Annotator based on Evidential Deep Learning**|Helbert Paat et.al.|[2309.09599v1](http://arxiv.org/abs/2309.09599v1)|null|
 |**2023-09-18**|**Fabricator: An Open Source Toolkit for Generating Labeled Training Data with Teacher LLMs**|Jonas Golde et.al.|[2309.09582v1](http://arxiv.org/abs/2309.09582v1)|null|
@@ -3008,7 +3023,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230920>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230921>back to top</a>)</p>
 
 ## adaptor
 
@@ -3072,12 +3087,17 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230920>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230921>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-19**|**Intelligent Debris Mass Estimation Model for Autonomous Underwater Vehicle**|Mohana Sri S et.al.|[2309.10617v1](http://arxiv.org/abs/2309.10617v1)|null|
+|**2023-09-19**|**Few-shot Object Detection in Remote Sensing: Lifting the Curse of Incompletely Annotated Novel Objects**|Fahong Zhang et.al.|[2309.10588v1](http://arxiv.org/abs/2309.10588v1)|null|
+|**2023-09-19**|**SPOT: Scalable 3D Pre-training via Occupancy Prediction for Autonomous Driving**|Xiangchao Yan et.al.|[2309.10527v1](http://arxiv.org/abs/2309.10527v1)|**[link](https://github.com/pjlab-adg/3dtrans)**|
+|**2023-09-19**|**LineMarkNet: Line Landmark Detection for Valet Parking**|Zizhang Wu et.al.|[2309.10475v1](http://arxiv.org/abs/2309.10475v1)|null|
+|**2023-09-19**|**Exploring Different Levels of Supervision for Detecting and Localizing Solar Panels on Remote Sensing Imagery**|Maarten Burger et.al.|[2309.10421v1](http://arxiv.org/abs/2309.10421v1)|null|
 |**2023-09-18**|**Application-driven Validation of Posteriors in Inverse Problems**|Tim J. Adler et.al.|[2309.09764v1](http://arxiv.org/abs/2309.09764v1)|null|
 |**2023-09-18**|**Drawing the Same Bounding Box Twice? Coping Noisy Annotations in Object Detection with Repeated Labels**|David Tschirschwitz et.al.|[2309.09742v1](http://arxiv.org/abs/2309.09742v1)|**[link](https://github.com/madave94/gtiod)**|
 |**2023-09-18**|**Moving Object Detection and Tracking with 4D Radar Point Cloud**|Zhijun Pan et.al.|[2309.09737v1](http://arxiv.org/abs/2309.09737v1)|null|
@@ -4469,7 +4489,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230920>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230921>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
