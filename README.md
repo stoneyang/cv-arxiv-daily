@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.26
+## Updated on 2023.09.27
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-25**|**SINCERE: Supervised Information Noise-Contrastive Estimation REvisited**|Patrick Feeney et.al.|[2309.14277v1](http://arxiv.org/abs/2309.14277v1)|**[link](https://github.com/tufts-ml/supcontrast)**|
+|**2023-09-26**|**Species196: A One-Million Semi-supervised Dataset for Fine-grained Species Recognition**|Wei He et.al.|[2309.14183v2](http://arxiv.org/abs/2309.14183v2)|null|
+|**2023-09-25**|**VidChapters-7M: Video Chapters at Scale**|Antoine Yang et.al.|[2309.13952v1](http://arxiv.org/abs/2309.13952v1)|**[link](https://github.com/antoyang/VidChapters)**|
+|**2023-09-25**|**TouchUp-G: Improving Feature Representation through Graph-Centric Finetuning**|Jing Zhu et.al.|[2309.13885v1](http://arxiv.org/abs/2309.13885v1)|null|
+|**2023-09-24**|**Accelerating Large Batch Training via Gradient Signal to Noise Ratio (GSNR)**|Guo-qing Jiang et.al.|[2309.13681v1](http://arxiv.org/abs/2309.13681v1)|null|
+|**2023-09-24**|**VoiceLDM: Text-to-Speech with Environmental Context**|Yeonghyeon Lee et.al.|[2309.13664v1](http://arxiv.org/abs/2309.13664v1)|null|
+|**2023-09-24**|**Cross-modal Alignment with Optimal Transport for CTC-based ASR**|Xugang Lu et.al.|[2309.13650v1](http://arxiv.org/abs/2309.13650v1)|null|
+|**2023-09-24**|**Robust data driven discovery of a seismic wave equation**|Shijun Cheng et.al.|[2309.13645v1](http://arxiv.org/abs/2309.13645v1)|null|
+|**2023-09-24**|**Towards Robust Robot 3D Perception in Urban Environments: The UT Campus Object Dataset**|Arthur Zhang et.al.|[2309.13549v1](http://arxiv.org/abs/2309.13549v1)|null|
+|**2023-09-24**|**InSpaceType: Reconsider Space Type in Indoor Monocular Depth Estimation**|Cho-Ying Wu et.al.|[2309.13516v1](http://arxiv.org/abs/2309.13516v1)|null|
 |**2023-09-22**|**A matter of attitude: Focusing on positive and active gradients to boost saliency maps**|Oscar Llorente et.al.|[2309.12913v1](http://arxiv.org/abs/2309.12913v1)|**[link](https://github.com/oscarllorente/positive_active_saliency_maps)**|
 |**2023-09-22**|**SRFNet: Monocular Depth Estimation with Fine-grained Structure via Spatial Reliability-oriented Fusion of Frames and Events**|Tianbo Pan et.al.|[2309.12842v1](http://arxiv.org/abs/2309.12842v1)|null|
 |**2023-09-22**|**Synthetic Boost: Leveraging Synthetic Data for Enhanced Vision-Language Segmentation in Echocardiography**|Rabin Adhikari et.al.|[2309.12829v1](http://arxiv.org/abs/2309.12829v1)|**[link](https://github.com/naamiinepal/synthetic-boost)**|
@@ -1582,12 +1592,21 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230926>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230927>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-25**|**Masked Image Residual Learning for Scaling Deeper Vision Transformers**|Guoxi Huang et.al.|[2309.14136v1](http://arxiv.org/abs/2309.14136v1)|null|
+|**2023-09-25**|**Audio classification with Dilated Convolution with Learnable Spacings**|Ismail Khalfaoui-Hassani et.al.|[2309.13972v1](http://arxiv.org/abs/2309.13972v1)|**[link](https://github.com/k-h-ismail/dcls-audio)**|
+|**2023-09-25**|**Fast-HuBERT: An Efficient Training Framework for Self-Supervised Speech Representation Learning**|Guanrou Yang et.al.|[2309.13860v1](http://arxiv.org/abs/2309.13860v1)|null|
+|**2023-09-24**|**GraphAdapter: Tuning Vision-Language Models With Dual Knowledge Graph**|Xin Li et.al.|[2309.13625v1](http://arxiv.org/abs/2309.13625v1)|null|
+|**2023-09-24**|**Seeing Is Not Always Believing: Invisible Collision Attack and Defence on Pre-Trained Models**|Minghang Deng et.al.|[2309.13579v1](http://arxiv.org/abs/2309.13579v1)|null|
+|**2023-09-24**|**MediViSTA-SAM: Zero-shot Medical Video Analysis with Spatio-temporal SAM Adaptation**|Sekeun Kim et.al.|[2309.13539v1](http://arxiv.org/abs/2309.13539v1)|null|
+|**2023-09-23**|**Finding Order in Chaos: A Novel Data Augmentation Method for Time Series in Contrastive Learning**|Berken Utku Demirel et.al.|[2309.13439v1](http://arxiv.org/abs/2309.13439v1)|null|
+|**2023-09-23**|**M$^3$CS: Multi-Target Masked Point Modeling with Learnable Codebook and Siamese Decoders**|Qibo Qiu et.al.|[2309.13235v1](http://arxiv.org/abs/2309.13235v1)|null|
+|**2023-09-22**|**AI-Copilot for Business Optimisation: A Framework and A Case Study in Production Scheduling**|Pivithuru Thejan Amarasinghe et.al.|[2309.13218v1](http://arxiv.org/abs/2309.13218v1)|null|
 |**2023-09-22**|**On Separate Normalization in Self-supervised Transformers**|Xiaohui Chen et.al.|[2309.12931v1](http://arxiv.org/abs/2309.12931v1)|null|
 |**2023-09-22**|**Reduce, Reuse, Recycle: Is Perturbed Data better than Other Language augmentation for Low Resource Self-Supervised Speech Models**|Asad Ullah et.al.|[2309.12763v1](http://arxiv.org/abs/2309.12763v1)|null|
 |**2023-09-22**|**Masking Improves Contrastive Self-Supervised Learning for ConvNets, and Saliency Tells You Where**|Zhi-Yi Chin et.al.|[2309.12757v1](http://arxiv.org/abs/2309.12757v1)|null|
@@ -3066,7 +3085,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230926>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230927>back to top</a>)</p>
 
 ## adaptor
 
@@ -3131,12 +3150,22 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230926>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230927>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-25**|**Masked Image Residual Learning for Scaling Deeper Vision Transformers**|Guoxi Huang et.al.|[2309.14136v1](http://arxiv.org/abs/2309.14136v1)|null|
+|**2023-09-26**|**Preferential Multi-Target Search in Indoor Environments using Semantic SLAM**|Akash Chikhalikar et.al.|[2309.14063v2](http://arxiv.org/abs/2309.14063v2)|null|
+|**2023-09-24**|**Deep Learning-Based Connector Detection for Robotized Assembly of Automotive Wire Harnesses**|Hao Wang et.al.|[2309.13746v1](http://arxiv.org/abs/2309.13746v1)|null|
+|**2023-09-24**|**A SAM-based Solution for Hierarchical Panoptic Segmentation of Crops and Weeds Competition**|Khoa Dang Nguyen et.al.|[2309.13578v1](http://arxiv.org/abs/2309.13578v1)|null|
+|**2023-09-24**|**Towards Robust Robot 3D Perception in Urban Environments: The UT Campus Object Dataset**|Arthur Zhang et.al.|[2309.13549v1](http://arxiv.org/abs/2309.13549v1)|null|
+|**2023-09-24**|**AdaMap: High-Scalable Real-Time Cooperative Perception at the Edge**|Qiang Liu et.al.|[2309.13526v1](http://arxiv.org/abs/2309.13526v1)|null|
+|**2023-09-24**|**Semi-Supervised Domain Generalization for Object Detection via Language-Guided Feature Alignment**|Sina Malakouti et.al.|[2309.13525v1](http://arxiv.org/abs/2309.13525v1)|null|
+|**2023-09-23**|**Identifying Systematic Errors in Object Detectors with the SCROD Pipeline**|Valentyn Boreiko et.al.|[2309.13489v1](http://arxiv.org/abs/2309.13489v1)|null|
+|**2023-09-23**|**A Unified Scheme of ResNet and Softmax**|Zhao Song et.al.|[2309.13482v1](http://arxiv.org/abs/2309.13482v1)|null|
+|**2023-09-23**|**Class Attendance System in Education with Deep Learning Method**|Hüdaverdi Demir et.al.|[2309.13317v1](http://arxiv.org/abs/2309.13317v1)|null|
 |**2023-09-22**|**Detect Every Thing with Few Examples**|Xinyu Zhang et.al.|[2309.12969v1](http://arxiv.org/abs/2309.12969v1)|**[link](https://github.com/mlzxy/devit)**|
 |**2023-09-22**|**Maximum gravitational mass $M_{\rm TOV}=2.25^{+0.08}_{-0.07}M_\odot$ inferred at about $3\%$ precision with multimessenger data of neutron stars**|Yi-Zhong Fan et.al.|[2309.12644v1](http://arxiv.org/abs/2309.12644v1)|null|
 |**2023-09-22**|**BGF-YOLO: Enhanced YOLOv8 with Multiscale Attentional Feature Fusion for Brain Tumor Detection**|Ming Kang et.al.|[2309.12585v1](http://arxiv.org/abs/2309.12585v1)|**[link](https://github.com/mkang315/bgf-yolo)**|
@@ -4547,7 +4576,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230926>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230927>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
