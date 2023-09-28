@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.27
+## Updated on 2023.09.28
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-26**|**Language-EXtended Indoor SLAM (LEXIS): A Versatile System for Real-time Visual Scene Understanding**|Christina Kassab et.al.|[2309.15065v1](http://arxiv.org/abs/2309.15065v1)|null|
+|**2023-09-25**|**When Automated Assessment Meets Automated Content Generation: Examining Text Quality in the Era of GPTs**|Marialena Bevilacqua et.al.|[2309.14488v1](http://arxiv.org/abs/2309.14488v1)|null|
 |**2023-09-25**|**SINCERE: Supervised Information Noise-Contrastive Estimation REvisited**|Patrick Feeney et.al.|[2309.14277v1](http://arxiv.org/abs/2309.14277v1)|**[link](https://github.com/tufts-ml/supcontrast)**|
 |**2023-09-26**|**Species196: A One-Million Semi-supervised Dataset for Fine-grained Species Recognition**|Wei He et.al.|[2309.14183v2](http://arxiv.org/abs/2309.14183v2)|null|
 |**2023-09-25**|**VidChapters-7M: Video Chapters at Scale**|Antoine Yang et.al.|[2309.13952v1](http://arxiv.org/abs/2309.13952v1)|**[link](https://github.com/antoyang/VidChapters)**|
@@ -1592,19 +1594,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230927>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230928>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-26**|**PHRIT: Parametric Hand Representation with Implicit Template**|Zhisheng Huang et.al.|[2309.14916v1](http://arxiv.org/abs/2309.14916v1)|null|
+|**2023-09-26**|**Label Deconvolution for Node Representation Learning on Large-scale Attributed Graphs against Learning Bias**|Zhihao Shi et.al.|[2309.14907v1](http://arxiv.org/abs/2309.14907v1)|null|
+|**2023-09-25**|**Dynamic Scene Graph Representation for Surgical Video**|Felix Holm et.al.|[2309.14538v1](http://arxiv.org/abs/2309.14538v1)|null|
 |**2023-09-25**|**Masked Image Residual Learning for Scaling Deeper Vision Transformers**|Guoxi Huang et.al.|[2309.14136v1](http://arxiv.org/abs/2309.14136v1)|null|
 |**2023-09-25**|**Audio classification with Dilated Convolution with Learnable Spacings**|Ismail Khalfaoui-Hassani et.al.|[2309.13972v1](http://arxiv.org/abs/2309.13972v1)|**[link](https://github.com/k-h-ismail/dcls-audio)**|
-|**2023-09-25**|**Fast-HuBERT: An Efficient Training Framework for Self-Supervised Speech Representation Learning**|Guanrou Yang et.al.|[2309.13860v1](http://arxiv.org/abs/2309.13860v1)|null|
-|**2023-09-24**|**GraphAdapter: Tuning Vision-Language Models With Dual Knowledge Graph**|Xin Li et.al.|[2309.13625v1](http://arxiv.org/abs/2309.13625v1)|null|
-|**2023-09-24**|**Seeing Is Not Always Believing: Invisible Collision Attack and Defence on Pre-Trained Models**|Minghang Deng et.al.|[2309.13579v1](http://arxiv.org/abs/2309.13579v1)|null|
+|**2023-09-25**|**Fast-HuBERT: An Efficient Training Framework for Self-Supervised Speech Representation Learning**|Guanrou Yang et.al.|[2309.13860v1](http://arxiv.org/abs/2309.13860v1)|**[link](https://github.com/yanghaha0908/fasthubert)**|
+|**2023-09-24**|**GraphAdapter: Tuning Vision-Language Models With Dual Knowledge Graph**|Xin Li et.al.|[2309.13625v1](http://arxiv.org/abs/2309.13625v1)|**[link](https://github.com/lixinustc/graphadapter)**|
+|**2023-09-24**|**Seeing Is Not Always Believing: Invisible Collision Attack and Defence on Pre-Trained Models**|Minghang Deng et.al.|[2309.13579v1](http://arxiv.org/abs/2309.13579v1)|**[link](https://github.com/anonymous10240/framework)**|
 |**2023-09-24**|**MediViSTA-SAM: Zero-shot Medical Video Analysis with Spatio-temporal SAM Adaptation**|Sekeun Kim et.al.|[2309.13539v1](http://arxiv.org/abs/2309.13539v1)|null|
-|**2023-09-23**|**Finding Order in Chaos: A Novel Data Augmentation Method for Time Series in Contrastive Learning**|Berken Utku Demirel et.al.|[2309.13439v1](http://arxiv.org/abs/2309.13439v1)|null|
+|**2023-09-23**|**Finding Order in Chaos: A Novel Data Augmentation Method for Time Series in Contrastive Learning**|Berken Utku Demirel et.al.|[2309.13439v1](http://arxiv.org/abs/2309.13439v1)|**[link](https://github.com/eth-siplab/Finding_Order_in_Chaos)**|
 |**2023-09-23**|**M$^3$CS: Multi-Target Masked Point Modeling with Learnable Codebook and Siamese Decoders**|Qibo Qiu et.al.|[2309.13235v1](http://arxiv.org/abs/2309.13235v1)|null|
 |**2023-09-22**|**AI-Copilot for Business Optimisation: A Framework and A Case Study in Production Scheduling**|Pivithuru Thejan Amarasinghe et.al.|[2309.13218v1](http://arxiv.org/abs/2309.13218v1)|null|
 |**2023-09-22**|**On Separate Normalization in Self-supervised Transformers**|Xiaohui Chen et.al.|[2309.12931v1](http://arxiv.org/abs/2309.12931v1)|null|
@@ -3085,7 +3090,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230927>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230928>back to top</a>)</p>
 
 ## adaptor
 
@@ -3150,12 +3155,20 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230927>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230928>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-26**|**DistillBEV: Boosting Multi-Camera 3D Object Detection with Cross-Modal Knowledge Distillation**|Zeyu Wang et.al.|[2309.15109v1](http://arxiv.org/abs/2309.15109v1)|null|
+|**2023-09-26**|**An Ensemble Model for Distorted Images in Real Scenarios**|Boyuan Ji et.al.|[2309.14998v1](http://arxiv.org/abs/2309.14998v1)|null|
+|**2023-09-26**|**MoCaE: Mixture of Calibrated Experts Significantly Improves Object Detection**|Kemal Oksuz et.al.|[2309.14976v1](http://arxiv.org/abs/2309.14976v1)|null|
+|**2023-09-26**|**Multi-Source Domain Adaptation for Object Detection with Prototype-based Mean-teacher**|Atif Belal et.al.|[2309.14950v1](http://arxiv.org/abs/2309.14950v1)|**[link](https://github.com/imatif17/Prototype-Mean-Teacher)**|
+|**2023-09-26**|**SSPFusion: A Semantic Structure-Preserving Approach for Infrared and Visible Image Fusion**|Qiao Yang et.al.|[2309.14745v1](http://arxiv.org/abs/2309.14745v1)|null|
+|**2023-09-26**|**DONNAv2 -- Lightweight Neural Architecture Search for Vision tasks**|Sweta Priyadarshi et.al.|[2309.14670v1](http://arxiv.org/abs/2309.14670v1)|null|
+|**2023-09-26**|**ZiCo-BC: A Bias Corrected Zero-Shot NAS for Vision Tasks**|Kartikeya Bhardwaj et.al.|[2309.14666v1](http://arxiv.org/abs/2309.14666v1)|null|
+|**2023-09-25**|**UniBEV: Multi-modal 3D Object Detection with Uniform BEV Encoders for Robustness against Missing Sensor Modalities**|Shiming Wang et.al.|[2309.14516v1](http://arxiv.org/abs/2309.14516v1)|null|
 |**2023-09-25**|**Masked Image Residual Learning for Scaling Deeper Vision Transformers**|Guoxi Huang et.al.|[2309.14136v1](http://arxiv.org/abs/2309.14136v1)|null|
 |**2023-09-26**|**Preferential Multi-Target Search in Indoor Environments using Semantic SLAM**|Akash Chikhalikar et.al.|[2309.14063v2](http://arxiv.org/abs/2309.14063v2)|null|
 |**2023-09-24**|**Deep Learning-Based Connector Detection for Robotized Assembly of Automotive Wire Harnesses**|Hao Wang et.al.|[2309.13746v1](http://arxiv.org/abs/2309.13746v1)|null|
@@ -4576,7 +4589,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230927>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230928>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
