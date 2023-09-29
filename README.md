@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.28
+## Updated on 2023.09.29
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-27**|**One For All: Video Conversation is Feasible Without Video Instruction Tuning**|Ruyang Liu et.al.|[2309.15785v1](http://arxiv.org/abs/2309.15785v1)|null|
+|**2023-09-27**|**Question answering using deep learning in low resource Indian language Marathi**|Dhiraj Amin et.al.|[2309.15779v1](http://arxiv.org/abs/2309.15779v1)|null|
+|**2023-09-27**|**ChatGPT-BCI: Word-Level Neural State Classification Using GPT, EEG, and Eye-Tracking Biomarkers in Semantic Inference Reading Comprehension**|Yuhong Zhang et.al.|[2309.15714v1](http://arxiv.org/abs/2309.15714v1)|null|
+|**2023-09-27**|**Jointly Training Large Autoregressive Multimodal Models**|Emanuele Aiello et.al.|[2309.15564v1](http://arxiv.org/abs/2309.15564v1)|null|
+|**2023-09-27**|**High-Fidelity Speech Synthesis with Minimal Supervision: All Using Diffusion Models**|Chunyu Qiang et.al.|[2309.15512v1](http://arxiv.org/abs/2309.15512v1)|null|
+|**2023-09-27**|**DreamCom: Finetuning Text-guided Inpainting Model for Image Composition**|Lingxiao Lu et.al.|[2309.15508v1](http://arxiv.org/abs/2309.15508v1)|null|
+|**2023-09-27**|**VideoAdviser: Video Knowledge Distillation for Multimodal Transfer Learning**|Yanan Wang et.al.|[2309.15494v1](http://arxiv.org/abs/2309.15494v1)|null|
+|**2023-09-27**|**Tackling VQA with Pretrained Foundation Models without Further Training**|Alvin De Jun Tan et.al.|[2309.15487v1](http://arxiv.org/abs/2309.15487v1)|null|
+|**2023-09-27**|**Towards Foundation Models Learned from Anatomy in Medical Imaging via Self-Supervision**|Mohammad Reza Hosseinzadeh Taher et.al.|[2309.15358v1](http://arxiv.org/abs/2309.15358v1)|null|
+|**2023-09-26**|**SEPT: Towards Efficient Scene Representation Learning for Motion Prediction**|Zhiqian Lan et.al.|[2309.15289v1](http://arxiv.org/abs/2309.15289v1)|null|
 |**2023-09-26**|**Language-EXtended Indoor SLAM (LEXIS): A Versatile System for Real-time Visual Scene Understanding**|Christina Kassab et.al.|[2309.15065v1](http://arxiv.org/abs/2309.15065v1)|null|
 |**2023-09-25**|**When Automated Assessment Meets Automated Content Generation: Examining Text Quality in the Era of GPTs**|Marialena Bevilacqua et.al.|[2309.14488v1](http://arxiv.org/abs/2309.14488v1)|null|
 |**2023-09-25**|**SINCERE: Supervised Information Noise-Contrastive Estimation REvisited**|Patrick Feeney et.al.|[2309.14277v1](http://arxiv.org/abs/2309.14277v1)|**[link](https://github.com/tufts-ml/supcontrast)**|
@@ -1594,12 +1604,19 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230928>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230929>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-27**|**CAIT: Triple-Win Compression towards High Accuracy, Fast Inference, and Favorable Transferability For ViTs**|Ao Wang et.al.|[2309.15755v1](http://arxiv.org/abs/2309.15755v1)|null|
+|**2023-09-27**|**Factorized Diffusion Architectures for Unsupervised Image Generation and Segmentation**|Xin Yuan et.al.|[2309.15726v1](http://arxiv.org/abs/2309.15726v1)|null|
+|**2023-09-27**|**SANGEA: Scalable and Attributed Network Generation**|Valentin Lemaire et.al.|[2309.15648v1](http://arxiv.org/abs/2309.15648v1)|null|
+|**2023-09-27**|**CCBERT: Self-Supervised Code Change Representation Learning**|Xin Zhou et.al.|[2309.15474v1](http://arxiv.org/abs/2309.15474v1)|null|
+|**2023-09-26**|**M$^{3}$3D: Learning 3D priors using Multi-Modal Masked Autoencoders for 2D image and video understanding**|Muhammad Abdullah Jamal et.al.|[2309.15313v1](http://arxiv.org/abs/2309.15313v1)|null|
+|**2023-09-26**|**Scaling Representation Learning from Ubiquitous ECG with State-Space Models**|Kleanthis Avramidis et.al.|[2309.15292v1](http://arxiv.org/abs/2309.15292v1)|null|
+|**2023-09-26**|**VPA: Fully Test-Time Visual Prompt Adaptation**|Jiachen Sun et.al.|[2309.15251v1](http://arxiv.org/abs/2309.15251v1)|null|
 |**2023-09-26**|**PHRIT: Parametric Hand Representation with Implicit Template**|Zhisheng Huang et.al.|[2309.14916v1](http://arxiv.org/abs/2309.14916v1)|null|
 |**2023-09-26**|**Label Deconvolution for Node Representation Learning on Large-scale Attributed Graphs against Learning Bias**|Zhihao Shi et.al.|[2309.14907v1](http://arxiv.org/abs/2309.14907v1)|null|
 |**2023-09-25**|**Dynamic Scene Graph Representation for Surgical Video**|Felix Holm et.al.|[2309.14538v1](http://arxiv.org/abs/2309.14538v1)|null|
@@ -3090,7 +3107,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20230928>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230929>back to top</a>)</p>
 
 ## adaptor
 
@@ -3155,15 +3172,22 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230928>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230929>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-09-26**|**DistillBEV: Boosting Multi-Camera 3D Object Detection with Cross-Modal Knowledge Distillation**|Zeyu Wang et.al.|[2309.15109v1](http://arxiv.org/abs/2309.15109v1)|null|
+|**2023-09-27**|**Joint-YODNet: A Light-weight Object Detector for UAVs to Achieve Above 100fps**|Vipin Gautam et.al.|[2309.15782v1](http://arxiv.org/abs/2309.15782v1)|null|
+|**2023-09-27**|**InfraParis: A multi-modal and multi-task autonomous driving dataset**|Gianni Franchi et.al.|[2309.15751v1](http://arxiv.org/abs/2309.15751v1)|null|
+|**2023-09-27**|**A Study on Tiny YOLO for Resource Constrained Xray Threat Detection**|Raghav Ambati et.al.|[2309.15601v1](http://arxiv.org/abs/2309.15601v1)|null|
+|**2023-09-27**|**Low Latency of object detection for spikng neural network**|Nemin Qiu et.al.|[2309.15555v1](http://arxiv.org/abs/2309.15555v1)|null|
+|**2023-09-27**|**Cross-Dataset Experimental Study of Radar-Camera Fusion in Bird's-Eye View**|Lukas Stäcker et.al.|[2309.15465v1](http://arxiv.org/abs/2309.15465v1)|null|
+|**2023-09-27**|**Multimodal Dataset for Localization, Mapping and Crop Monitoring in Citrus Tree Farms**|Hanzhe Teng et.al.|[2309.15332v1](http://arxiv.org/abs/2309.15332v1)|**[link](https://github.com/ucr-robotics/citrus-farm-dataset)**|
+|**2023-09-26**|**ObVi-SLAM: Long-Term Object-Visual SLAM**|Amanda Adkins et.al.|[2309.15268v1](http://arxiv.org/abs/2309.15268v1)|null|
+|**2023-09-26**|**DistillBEV: Boosting Multi-Camera 3D Object Detection with Cross-Modal Knowledge Distillation**|Zeyu Wang et.al.|[2309.15109v1](http://arxiv.org/abs/2309.15109v1)|**[link](https://github.com/qcraftai/distill-bev)**|
 |**2023-09-26**|**An Ensemble Model for Distorted Images in Real Scenarios**|Boyuan Ji et.al.|[2309.14998v1](http://arxiv.org/abs/2309.14998v1)|null|
-|**2023-09-26**|**MoCaE: Mixture of Calibrated Experts Significantly Improves Object Detection**|Kemal Oksuz et.al.|[2309.14976v1](http://arxiv.org/abs/2309.14976v1)|null|
+|**2023-09-27**|**MoCaE: Mixture of Calibrated Experts Significantly Improves Object Detection**|Kemal Oksuz et.al.|[2309.14976v2](http://arxiv.org/abs/2309.14976v2)|null|
 |**2023-09-26**|**Multi-Source Domain Adaptation for Object Detection with Prototype-based Mean-teacher**|Atif Belal et.al.|[2309.14950v1](http://arxiv.org/abs/2309.14950v1)|**[link](https://github.com/imatif17/Prototype-Mean-Teacher)**|
 |**2023-09-26**|**SSPFusion: A Semantic Structure-Preserving Approach for Infrared and Visible Image Fusion**|Qiao Yang et.al.|[2309.14745v1](http://arxiv.org/abs/2309.14745v1)|null|
 |**2023-09-26**|**DONNAv2 -- Lightweight Neural Architecture Search for Vision tasks**|Sweta Priyadarshi et.al.|[2309.14670v1](http://arxiv.org/abs/2309.14670v1)|null|
@@ -4589,7 +4613,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20230928>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230929>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
