@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.05
+## Updated on 2023.10.06
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-04**|**Retrieval meets Long Context Large Language Models**|Peng Xu et.al.|[2310.03025v1](http://arxiv.org/abs/2310.03025v1)|null|
+|**2023-10-04**|**AstroCLIP: Cross-Modal Pre-Training for Astronomical Foundation Models**|Francois Lanusse et.al.|[2310.03024v1](http://arxiv.org/abs/2310.03024v1)|null|
+|**2023-10-04**|**Understanding In-Context Learning in Transformers and LLMs by Learning to Learn Discrete Functions**|Satwik Bhattamishra et.al.|[2310.03016v1](http://arxiv.org/abs/2310.03016v1)|null|
+|**2023-10-04**|**Multiple Physics Pretraining for Physical Surrogate Models**|Michael McCabe et.al.|[2310.02994v1](http://arxiv.org/abs/2310.02994v1)|null|
+|**2023-10-04**|**Never Train from Scratch: Fair Comparison of Long-Sequence Models Requires Data-Driven Priors**|Ido Amos et.al.|[2310.02980v1](http://arxiv.org/abs/2310.02980v1)|null|
+|**2023-10-04**|**T$^3$Bench: Benchmarking Current Progress in Text-to-3D Generation**|Yuze He et.al.|[2310.02977v1](http://arxiv.org/abs/2310.02977v1)|null|
+|**2023-10-04**|**Sweeping Heterogeneity with Smart MoPs: Mixture of Prompts for LLM Task Adaptation**|Chen Dun et.al.|[2310.02842v1](http://arxiv.org/abs/2310.02842v1)|null|
+|**2023-10-03**|**Implicit regularization of multi-task learning and finetuning in overparameterized neural networks**|Jack W. Lindsey et.al.|[2310.02396v1](http://arxiv.org/abs/2310.02396v1)|null|
 |**2023-10-04**|**Who's Harry Potter? Approximate Unlearning in LLMs**|Ronen Eldan et.al.|[2310.02238v2](http://arxiv.org/abs/2310.02238v2)|null|
 |**2023-10-03**|**Think before you speak: Training Language Models With Pause Tokens**|Sachin Goyal et.al.|[2310.02226v1](http://arxiv.org/abs/2310.02226v1)|null|
 |**2023-10-03**|**SIEVE: Multimodal Dataset Pruning Using Image Captioning Models**|Anas Mahmoud et.al.|[2310.02110v1](http://arxiv.org/abs/2310.02110v1)|null|
@@ -1630,12 +1638,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231005>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231006>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-04**|**Retrieval meets Long Context Large Language Models**|Peng Xu et.al.|[2310.03025v1](http://arxiv.org/abs/2310.03025v1)|null|
+|**2023-10-04**|**ECoFLaP: Efficient Coarse-to-Fine Layer-Wise Pruning for Vision-Language Models**|Yi-Lin Sung et.al.|[2310.02998v1](http://arxiv.org/abs/2310.02998v1)|null|
+|**2023-10-04**|**Multiple Physics Pretraining for Physical Surrogate Models**|Michael McCabe et.al.|[2310.02994v1](http://arxiv.org/abs/2310.02994v1)|null|
+|**2023-10-04**|**Never Train from Scratch: Fair Comparison of Long-Sequence Models Requires Data-Driven Priors**|Ido Amos et.al.|[2310.02980v1](http://arxiv.org/abs/2310.02980v1)|null|
+|**2023-10-05**|**Co-modeling the Sequential and Graphical Routes for Peptide Representation Learning**|Zihan Liu et.al.|[2310.02964v2](http://arxiv.org/abs/2310.02964v2)|**[link](https://github.com/zihan-liu-00/repcon)**|
+|**2023-10-04**|**Sweeping Heterogeneity with Smart MoPs: Mixture of Prompts for LLM Task Adaptation**|Chen Dun et.al.|[2310.02842v1](http://arxiv.org/abs/2310.02842v1)|null|
+|**2023-10-04**|**A Deep Instance Generative Framework for MILP Solvers Under Limited Data Availability**|Zijie Geng et.al.|[2310.02807v1](http://arxiv.org/abs/2310.02807v1)|null|
+|**2023-10-04**|**scHyena: Foundation Model for Full-Length Single-Cell RNA-Seq Analysis in Brain**|Gyutaek Oh et.al.|[2310.02713v1](http://arxiv.org/abs/2310.02713v1)|null|
+|**2023-10-04**|**GET: Group Event Transformer for Event-Based Vision**|Yansong Peng et.al.|[2310.02642v1](http://arxiv.org/abs/2310.02642v1)|**[link](https://github.com/peterande/get-group-event-transformer)**|
+|**2023-10-04**|**Foundation Reinforcement Learning: towards Embodied Generalist Agents with Foundation Prior Assistance**|Weirui Ye et.al.|[2310.02635v1](http://arxiv.org/abs/2310.02635v1)|null|
 |**2023-10-03**|**Think before you speak: Training Language Models With Pause Tokens**|Sachin Goyal et.al.|[2310.02226v1](http://arxiv.org/abs/2310.02226v1)|null|
 |**2023-10-03**|**SIEVE: Multimodal Dataset Pruning Using Image Captioning Models**|Anas Mahmoud et.al.|[2310.02110v1](http://arxiv.org/abs/2310.02110v1)|null|
 |**2023-10-03**|**AlignDiff: Aligning Diverse Human Preferences via Behavior-Customisable Diffusion Model**|Zibin Dong et.al.|[2310.02054v1](http://arxiv.org/abs/2310.02054v1)|null|
@@ -3161,12 +3179,13 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20231005>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231006>back to top</a>)</p>
 
 ## adaptor
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-04**|**scHyena: Foundation Model for Full-Length Single-Cell RNA-Seq Analysis in Brain**|Gyutaek Oh et.al.|[2310.02713v1](http://arxiv.org/abs/2310.02713v1)|null|
 |**2023-09-28**|**Diverse and Aligned Audio-to-Video Generation via Text-to-Video Model Adaptation**|Guy Yariv et.al.|[2309.16429v1](http://arxiv.org/abs/2309.16429v1)|**[link](https://github.com/guyyariv/TempoTokens)**|
 |**2023-09-20**|**Forgery-aware Adaptive Vision Transformer for Face Forgery Detection**|Anwei Luo et.al.|[2309.11092v1](http://arxiv.org/abs/2309.11092v1)|null|
 |**2023-09-13**|**NExT-GPT: Any-to-Any Multimodal LLM**|Shengqiong Wu et.al.|[2309.05519v2](http://arxiv.org/abs/2309.05519v2)|**[link](https://github.com/NExT-GPT/NExT-GPT)**|
@@ -3227,13 +3246,20 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20231005>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231006>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-10-03**|**Exploring Model Learning Heterogeneity for Boosting Ensemble Robustness**|Yanzhao Wu et.al.|[2310.02237v1](http://arxiv.org/abs/2310.02237v1)|null|
+|**2023-10-05**|**COOLer: Class-Incremental Learning for Appearance-Based Multiple Object Tracking**|Zhizheng Liu et.al.|[2310.03006v2](http://arxiv.org/abs/2310.03006v2)|**[link](https://github.com/BoSmallEar/COOLer)**|
+|**2023-10-04**|**CoDA: Collaborative Novel Box Discovery and Cross-modal Alignment for Open-vocabulary 3D Object Detection**|Yang Cao et.al.|[2310.02960v1](http://arxiv.org/abs/2310.02960v1)|**[link](https://github.com/yangcaoai/CoDA_NeurIPS2023)**|
+|**2023-10-04**|**CoBEV: Elevating Roadside 3D Object Detection with Depth and Height Complementarity**|Hao Shi et.al.|[2310.02815v1](http://arxiv.org/abs/2310.02815v1)|null|
+|**2023-10-04**|**GET: Group Event Transformer for Event-Based Vision**|Yansong Peng et.al.|[2310.02642v1](http://arxiv.org/abs/2310.02642v1)|**[link](https://github.com/peterande/get-group-event-transformer)**|
+|**2023-10-05**|**MagicDrive: Street View Generation with Diverse 3D Geometry Control**|Ruiyuan Gao et.al.|[2310.02601v2](http://arxiv.org/abs/2310.02601v2)|null|
+|**2023-10-04**|**ViT-ReciproCAM: Gradient and Attention-Free Visual Explanations for Vision Transformer**|Seok-Yong Byun et.al.|[2310.02588v1](http://arxiv.org/abs/2310.02588v1)|null|
+|**2023-10-03**|**OneAdapt: Fast Adaptation for Deep Learning Applications via Backpropagation**|Kuntai Du et.al.|[2310.02422v1](http://arxiv.org/abs/2310.02422v1)|null|
+|**2023-10-03**|**Exploring Model Learning Heterogeneity for Boosting Ensemble Robustness**|Yanzhao Wu et.al.|[2310.02237v1](http://arxiv.org/abs/2310.02237v1)|**[link](https://github.com/git-disl/heterobust)**|
 |**2023-10-03**|**Constructing Image-Text Pair Dataset from Books**|Yamato Okamoto et.al.|[2310.01936v1](http://arxiv.org/abs/2310.01936v1)|null|
 |**2023-10-03**|**MarineDet: Towards Open-Marine Object Detection**|Liang Haixin et.al.|[2310.01931v1](http://arxiv.org/abs/2310.01931v1)|null|
 |**2023-10-03**|**DARTH: Holistic Test-time Adaptation for Multiple Object Tracking**|Mattia Segu et.al.|[2310.01926v1](http://arxiv.org/abs/2310.01926v1)|null|
@@ -4689,7 +4715,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20231005>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231006>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
