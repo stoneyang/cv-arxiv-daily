@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.09
+## Updated on 2023.10.10
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-06**|**Transferring speech-generic and depression-specific knowledge for Alzheimer's disease detection**|Ziyun Cui et.al.|[2310.04358v1](http://arxiv.org/abs/2310.04358v1)|null|
+|**2023-10-06**|**A Comprehensive Evaluation of Large Language Models on Benchmark Biomedical Text Processing Tasks**|Israt Jahan et.al.|[2310.04270v1](http://arxiv.org/abs/2310.04270v1)|null|
+|**2023-10-06**|**Self-Supervised Neuron Segmentation with Multi-Agent Reinforcement Learning**|Yinda Chen et.al.|[2310.04148v1](http://arxiv.org/abs/2310.04148v1)|**[link](https://github.com/ydchen0806/dbmim)**|
+|**2023-10-06**|**Robust Multimodal Learning with Missing Modalities via Parameter-Efficient Adaptation**|Md Kaykobad Reza et.al.|[2310.03986v1](http://arxiv.org/abs/2310.03986v1)|null|
+|**2023-10-05**|**Hard View Selection for Contrastive Learning**|Fabio Ferreira et.al.|[2310.03940v1](http://arxiv.org/abs/2310.03940v1)|null|
+|**2023-10-05**|**Bridging Low-level Geometry to High-level Concepts in Visual Servoing of Robot Manipulation Task Using Event Knowledge Graphs and Vision-Language Models**|Chen Jiang et.al.|[2310.03932v1](http://arxiv.org/abs/2310.03932v1)|null|
+|**2023-10-05**|**Less is More: On the Feature Redundancy of Pretrained Models When Transferring to Few-shot Tasks**|Xu Luo et.al.|[2310.03843v1](http://arxiv.org/abs/2310.03843v1)|null|
+|**2023-10-05**|**PrIeD-KIE: Towards Privacy Preserved Document Key Information Extraction**|Saifullah Saifullah et.al.|[2310.03777v1](http://arxiv.org/abs/2310.03777v1)|null|
 |**2023-10-05**|**Stylist: Style-Driven Feature Ranking for Robust Novelty Detection**|Stefan Smeu et.al.|[2310.03738v1](http://arxiv.org/abs/2310.03738v1)|null|
 |**2023-10-05**|**Tik-to-Tok: Translating Language Models One Token at a Time: An Embedding Initialization Strategy for Efficient Language Adaptation**|François Remy et.al.|[2310.03477v1](http://arxiv.org/abs/2310.03477v1)|null|
 |**2023-10-05**|**FreeReg: Image-to-Point Cloud Registration Leveraging Pretrained Diffusion Models and Monocular Depth Estimators**|Haiping Wang et.al.|[2310.03420v1](http://arxiv.org/abs/2310.03420v1)|null|
@@ -1648,12 +1656,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231009>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231010>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-06**|**Identifying Representations for Intervention Extrapolation**|Sorawit Saengkyongam et.al.|[2310.04295v1](http://arxiv.org/abs/2310.04295v1)|null|
+|**2023-10-06**|**Graph learning in robotics: a survey**|Francesca Pistilli et.al.|[2310.04294v1](http://arxiv.org/abs/2310.04294v1)|null|
+|**2023-10-06**|**Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets**|Dominique Beaini et.al.|[2310.04292v1](http://arxiv.org/abs/2310.04292v1)|**[link](https://github.com/datamol-io/graphium)**|
+|**2023-10-06**|**Self-Supervised Neuron Segmentation with Multi-Agent Reinforcement Learning**|Yinda Chen et.al.|[2310.04148v1](http://arxiv.org/abs/2310.04148v1)|**[link](https://github.com/ydchen0806/dbmim)**|
+|**2023-10-06**|**Robust Multimodal Learning with Missing Modalities via Parameter-Efficient Adaptation**|Md Kaykobad Reza et.al.|[2310.03986v1](http://arxiv.org/abs/2310.03986v1)|null|
+|**2023-10-06**|**Perfect Alignment May be Poisonous to Graph Contrastive Learning**|Jingyu Liu et.al.|[2310.03977v1](http://arxiv.org/abs/2310.03977v1)|null|
+|**2023-10-06**|**HuBERTopic: Enhancing Semantic Representation of HuBERT through Self-supervision Utilizing Topic Model**|Takashi Maekaku et.al.|[2310.03975v1](http://arxiv.org/abs/2310.03975v1)|null|
+|**2023-10-05**|**GroundLink: A Dataset Unifying Human Body Movement and Ground Reaction Dynamics**|Xingjian Han et.al.|[2310.03930v1](http://arxiv.org/abs/2310.03930v1)|null|
+|**2023-10-05**|**Toward a Foundation Model for Time Series Data**|Chin-Chia Michael Yeh et.al.|[2310.03916v1](http://arxiv.org/abs/2310.03916v1)|null|
+|**2023-10-05**|**Less is More: On the Feature Redundancy of Pretrained Models When Transferring to Few-shot Tasks**|Xu Luo et.al.|[2310.03843v1](http://arxiv.org/abs/2310.03843v1)|null|
 |**2023-10-05**|**Aligning Text-to-Image Diffusion Models with Reward Backpropagation**|Mihir Prabhudesai et.al.|[2310.03739v1](http://arxiv.org/abs/2310.03739v1)|**[link](https://github.com/mihirp1998/alignprop)**|
 |**2023-10-05**|**LumiNet: The Bright Side of Perceptual Knowledge Distillation**|Md. Ismail Hossain et.al.|[2310.03669v1](http://arxiv.org/abs/2310.03669v1)|null|
 |**2023-10-05**|**PeaTMOSS: Mining Pre-Trained Models in Open-Source Software**|Wenxin Jiang et.al.|[2310.03620v1](http://arxiv.org/abs/2310.03620v1)|**[link](https://github.com/purduedualitylab/peatmoss-demos)**|
@@ -3199,12 +3217,13 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20231009>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231010>back to top</a>)</p>
 
 ## adaptor
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-06**|**DiffPrompter: Differentiable Implicit Visual Prompts for Semantic-Segmentation in Adverse Conditions**|Sanket Kalwar et.al.|[2310.04181v1](http://arxiv.org/abs/2310.04181v1)|null|
 |**2023-10-04**|**scHyena: Foundation Model for Full-Length Single-Cell RNA-Seq Analysis in Brain**|Gyutaek Oh et.al.|[2310.02713v1](http://arxiv.org/abs/2310.02713v1)|null|
 |**2023-09-28**|**Diverse and Aligned Audio-to-Video Generation via Text-to-Video Model Adaptation**|Guy Yariv et.al.|[2309.16429v1](http://arxiv.org/abs/2309.16429v1)|**[link](https://github.com/guyyariv/TempoTokens)**|
 |**2023-09-20**|**Forgery-aware Adaptive Vision Transformer for Face Forgery Detection**|Anwei Luo et.al.|[2309.11092v1](http://arxiv.org/abs/2309.11092v1)|null|
@@ -3266,12 +3285,16 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20231009>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231010>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-06**|**Collaborative Camouflaged Object Detection: A Large-Scale Dataset and Benchmark**|Cong Zhang et.al.|[2310.04253v1](http://arxiv.org/abs/2310.04253v1)|**[link](https://github.com/zc199823/bbnet--cocod)**|
+|**2023-10-06**|**Dense Random Texture Detection using Beta Distribution Statistics**|Soeren Molander et.al.|[2310.04111v1](http://arxiv.org/abs/2310.04111v1)|null|
+|**2023-10-06**|**CUPre: Cross-domain Unsupervised Pre-training for Few-Shot Cell Segmentation**|Weibin Liao et.al.|[2310.03981v1](http://arxiv.org/abs/2310.03981v1)|null|
+|**2023-10-05**|**WLST: Weak Labels Guided Self-training for Weakly-supervised Domain Adaptation on 3D Object Detection**|Tsung-Lin Tsou et.al.|[2310.03821v1](http://arxiv.org/abs/2310.03821v1)|null|
 |**2023-10-05**|**Visual inspection for illicit items in X-ray images using Deep Learning**|Ioannis Mademlis et.al.|[2310.03658v1](http://arxiv.org/abs/2310.03658v1)|null|
 |**2023-10-05**|**Swin-Tempo: Temporal-Aware Lung Nodule Detection in CT Scans as Video Sequences Using Swin Transformer-Enhanced UNet**|Hossein Jafari et.al.|[2310.03365v1](http://arxiv.org/abs/2310.03365v1)|null|
 |**2023-10-05**|**Real-time Multi-modal Object Detection and Tracking on Edge for Regulatory Compliance Monitoring**|Jia Syuen Lim et.al.|[2310.03333v1](http://arxiv.org/abs/2310.03333v1)|null|
@@ -4738,7 +4761,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20231009>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231010>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
