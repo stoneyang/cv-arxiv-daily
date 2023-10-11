@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.10
+## Updated on 2023.10.11
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-09**|**TAIL: Task-specific Adapters for Imitation Learning with Large Pretrained Models**|Zuxin Liu et.al.|[2310.05905v1](http://arxiv.org/abs/2310.05905v1)|null|
+|**2023-10-09**|**Planning to Go Out-of-Distribution in Offline-to-Online Reinforcement Learning**|Trevor McInroe et.al.|[2310.05723v1](http://arxiv.org/abs/2310.05723v1)|null|
+|**2023-10-09**|**A Survey of Large Language Models for Healthcare: from Data, Technology, and Applications to Accountability and Ethics**|Kai He et.al.|[2310.05694v1](http://arxiv.org/abs/2310.05694v1)|**[link](https://github.com/kaihe-better/llm-for-healthcare)**|
+|**2023-10-09**|**No Token Left Behind: Efficient Vision Transformer via Dynamic Token Idling**|Xuwei Xu et.al.|[2310.05654v1](http://arxiv.org/abs/2310.05654v1)|null|
+|**2023-10-09**|**UAVs and Neural Networks for search and rescue missions**|Hartmut Surmann et.al.|[2310.05512v1](http://arxiv.org/abs/2310.05512v1)|null|
+|**2023-10-09**|**Sentence-level Prompts Benefit Composed Image Retrieval**|Yang Bai et.al.|[2310.05473v1](http://arxiv.org/abs/2310.05473v1)|**[link](https://github.com/chunmeifeng/sprc)**|
+|**2023-10-09**|**Augmented Embeddings for Custom Retrievals**|Anirudh Khatry et.al.|[2310.05380v1](http://arxiv.org/abs/2310.05380v1)|null|
+|**2023-10-08**|**Visual Storytelling with Question-Answer Plans**|Danyang Liu et.al.|[2310.05295v1](http://arxiv.org/abs/2310.05295v1)|null|
+|**2023-10-08**|**Do Large Language Models Know about Facts?**|Xuming Hu et.al.|[2310.05177v1](http://arxiv.org/abs/2310.05177v1)|null|
+|**2023-10-08**|**UReader: Universal OCR-free Visually-situated Language Understanding with Multimodal Large Language Model**|Jiabo Ye et.al.|[2310.05126v1](http://arxiv.org/abs/2310.05126v1)|**[link](https://github.com/lukeforeveryoung/ureader)**|
 |**2023-10-06**|**Transferring speech-generic and depression-specific knowledge for Alzheimer's disease detection**|Ziyun Cui et.al.|[2310.04358v1](http://arxiv.org/abs/2310.04358v1)|null|
 |**2023-10-06**|**A Comprehensive Evaluation of Large Language Models on Benchmark Biomedical Text Processing Tasks**|Israt Jahan et.al.|[2310.04270v1](http://arxiv.org/abs/2310.04270v1)|null|
 |**2023-10-06**|**Self-Supervised Neuron Segmentation with Multi-Agent Reinforcement Learning**|Yinda Chen et.al.|[2310.04148v1](http://arxiv.org/abs/2310.04148v1)|**[link](https://github.com/ydchen0806/dbmim)**|
@@ -1656,12 +1666,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231010>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231011>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-10**|**Geom-Erasing: Geometry-Driven Removal of Implicit Concept in Diffusion Models**|Zhili Liu et.al.|[2310.05873v2](http://arxiv.org/abs/2310.05873v2)|null|
+|**2023-10-09**|**Foundation Models Meet Visualizations: Challenges and Opportunities**|Weikai Yang et.al.|[2310.05771v1](http://arxiv.org/abs/2310.05771v1)|null|
+|**2023-10-09**|**Unleashing the power of Neural Collapse for Transferability Estimation**|Yuhe Ding et.al.|[2310.05754v1](http://arxiv.org/abs/2310.05754v1)|null|
+|**2023-10-09**|**Locality-Aware Generalizable Implicit Neural Representation}**|Doyup Lee et.al.|[2310.05624v1](http://arxiv.org/abs/2310.05624v1)|null|
+|**2023-10-10**|**Hierarchical Side-Tuning for Vision Transformers**|Weifeng Lin et.al.|[2310.05393v2](http://arxiv.org/abs/2310.05393v2)|null|
+|**2023-10-09**|**CCAE: A Corpus of Chinese-based Asian Englishes**|Yang Liu et.al.|[2310.05381v1](http://arxiv.org/abs/2310.05381v1)|null|
+|**2023-10-10**|**Enhancing Long-form Text Generation in Mental Health with Task-adaptive Tokenization**|Siyang Liu et.al.|[2310.05317v2](http://arxiv.org/abs/2310.05317v2)|**[link](https://github.com/lsy641/task-adptive-tokenization)**|
+|**2023-10-08**|**Do Large Language Models Know about Facts?**|Xuming Hu et.al.|[2310.05177v1](http://arxiv.org/abs/2310.05177v1)|null|
+|**2023-10-08**|**GSLB: The Graph Structure Learning Benchmark**|Zhixun Li et.al.|[2310.05174v1](http://arxiv.org/abs/2310.05174v1)|**[link](https://github.com/gsl-benchmark/gslb)**|
+|**2023-10-08**|**ed-cec: improving rare word recognition using asr postprocessing based on error detection and context-aware error correction**|Jiajun He et.al.|[2310.05129v1](http://arxiv.org/abs/2310.05129v1)|null|
 |**2023-10-06**|**Identifying Representations for Intervention Extrapolation**|Sorawit Saengkyongam et.al.|[2310.04295v1](http://arxiv.org/abs/2310.04295v1)|null|
 |**2023-10-06**|**Graph learning in robotics: a survey**|Francesca Pistilli et.al.|[2310.04294v1](http://arxiv.org/abs/2310.04294v1)|null|
 |**2023-10-06**|**Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets**|Dominique Beaini et.al.|[2310.04292v1](http://arxiv.org/abs/2310.04292v1)|**[link](https://github.com/datamol-io/graphium)**|
@@ -3217,12 +3237,13 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20231010>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231011>back to top</a>)</p>
 
 ## adaptor
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-07**|**Neural2Speech: A Transfer Learning Framework for Neural-Driven Speech Reconstruction**|Jiawei Li et.al.|[2310.04644v1](http://arxiv.org/abs/2310.04644v1)|null|
 |**2023-10-06**|**DiffPrompter: Differentiable Implicit Visual Prompts for Semantic-Segmentation in Adverse Conditions**|Sanket Kalwar et.al.|[2310.04181v1](http://arxiv.org/abs/2310.04181v1)|null|
 |**2023-10-04**|**scHyena: Foundation Model for Full-Length Single-Cell RNA-Seq Analysis in Brain**|Gyutaek Oh et.al.|[2310.02713v1](http://arxiv.org/abs/2310.02713v1)|null|
 |**2023-09-28**|**Diverse and Aligned Audio-to-Video Generation via Text-to-Video Model Adaptation**|Guy Yariv et.al.|[2309.16429v1](http://arxiv.org/abs/2309.16429v1)|**[link](https://github.com/guyyariv/TempoTokens)**|
@@ -3285,12 +3306,22 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20231010>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231011>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-09**|**SimPLR: A Simple and Plain Transformer for Object Detection and Segmentation**|Duy-Kien Nguyen et.al.|[2310.05920v1](http://arxiv.org/abs/2310.05920v1)|null|
+|**2023-10-09**|**Joint object detection and re-identification for 3D obstacle multi-camera systems**|Irene Cortés et.al.|[2310.05785v1](http://arxiv.org/abs/2310.05785v1)|null|
+|**2023-10-09**|**DANet: Enhancing Small Object Detection through an Efficient Deformable Attention Network**|Md Sohag Mia et.al.|[2310.05768v1](http://arxiv.org/abs/2310.05768v1)|null|
+|**2023-10-09**|**Anchor-Intermediate Detector: Decoupling and Coupling Bounding Boxes for Accurate Object Detection**|Yilong Lv et.al.|[2310.05666v1](http://arxiv.org/abs/2310.05666v1)|**[link](https://github.com/yilonglv/aid)**|
+|**2023-10-09**|**Care3D: An Active 3D Object Detection Dataset of Real Robotic-Care Environments**|Michael G. Adam et.al.|[2310.05600v1](http://arxiv.org/abs/2310.05600v1)|**[link](https://github.com/m-g-a/care3d)**|
+|**2023-10-09**|**UAVs and Neural Networks for search and rescue missions**|Hartmut Surmann et.al.|[2310.05512v1](http://arxiv.org/abs/2310.05512v1)|null|
+|**2023-10-09**|**Semi-Supervised Object Detection with Uncurated Unlabeled Data for Remote Sensing Images**|Nanqing Liu et.al.|[2310.05498v1](http://arxiv.org/abs/2310.05498v1)|null|
+|**2023-10-09**|**Towards Fair and Comprehensive Comparisons for Image-Based 3D Object Detection**|Xinzhu Ma et.al.|[2310.05447v1](http://arxiv.org/abs/2310.05447v1)|null|
+|**2023-10-10**|**Hierarchical Side-Tuning for Vision Transformers**|Weifeng Lin et.al.|[2310.05393v2](http://arxiv.org/abs/2310.05393v2)|null|
+|**2023-10-09**|**Rotation Matters: Generalized Monocular 3D Object Detection for Various Camera Systems**|SungHo Moon et.al.|[2310.05366v1](http://arxiv.org/abs/2310.05366v1)|null|
 |**2023-10-06**|**Collaborative Camouflaged Object Detection: A Large-Scale Dataset and Benchmark**|Cong Zhang et.al.|[2310.04253v1](http://arxiv.org/abs/2310.04253v1)|**[link](https://github.com/zc199823/bbnet--cocod)**|
 |**2023-10-06**|**Dense Random Texture Detection using Beta Distribution Statistics**|Soeren Molander et.al.|[2310.04111v1](http://arxiv.org/abs/2310.04111v1)|null|
 |**2023-10-06**|**CUPre: Cross-domain Unsupervised Pre-training for Few-Shot Cell Segmentation**|Weibin Liao et.al.|[2310.03981v1](http://arxiv.org/abs/2310.03981v1)|null|
@@ -4761,7 +4792,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20231010>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231011>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
