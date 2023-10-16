@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.15
+## Updated on 2023.10.16
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-12**|**Is ImageNet worth 1 video? Learning strong image encoders from 1 long unlabelled video**|Shashanka Venkataramanan et.al.|[2310.08584v1](http://arxiv.org/abs/2310.08584v1)|null|
+|**2023-10-12**|**Transformers as Decision Makers: Provable In-Context Reinforcement Learning via Supervised Pretraining**|Licong Lin et.al.|[2310.08566v1](http://arxiv.org/abs/2310.08566v1)|null|
+|**2023-10-12**|**Do pretrained Transformers Really Learn In-context by Gradient Descent?**|Lingfeng Shen et.al.|[2310.08540v1](http://arxiv.org/abs/2310.08540v1)|null|
+|**2023-10-12**|**"SegLoc": Study on Novel Visual Self-supervised Learning Scheme (Segment Localization) Tailored for Dense Prediction Tasks of Security Inspection X-ray Images**|Shervin Halat et.al.|[2310.08421v1](http://arxiv.org/abs/2310.08421v1)|null|
+|**2023-10-12**|**How Many Pretraining Tasks Are Needed for In-Context Learning of Linear Regression?**|Jingfeng Wu et.al.|[2310.08391v1](http://arxiv.org/abs/2310.08391v1)|null|
+|**2023-10-12**|**Improving Factual Consistency for Knowledge-Grounded Dialogue Systems via Knowledge Enhancement and Alignment**|Boyang Xue et.al.|[2310.08372v1](http://arxiv.org/abs/2310.08372v1)|null|
+|**2023-10-12**|**GePSAn: Generative Procedure Step Anticipation in Cooking Videos**|Mohamed Ashraf Abdelsalam et.al.|[2310.08312v1](http://arxiv.org/abs/2310.08312v1)|null|
+|**2023-10-12**|**CHIP: Contrastive Hierarchical Image Pretraining**|Arpit Mittal et.al.|[2310.08304v1](http://arxiv.org/abs/2310.08304v1)|null|
+|**2023-10-12**|**Expanding the Vocabulary of BERT for Knowledge Base Construction**|Dong Yang et.al.|[2310.08291v1](http://arxiv.org/abs/2310.08291v1)|**[link](https://github.com/MaastrichtU-IDS/LMKBC-2023)**|
+|**2023-10-12**|**Tailored Visions: Enhancing Text-to-Image Generation with Personalized Prompt Rewriting**|Zijie Chen et.al.|[2310.08129v1](http://arxiv.org/abs/2310.08129v1)|null|
 |**2023-10-11**|**InstructRetro: Instruction Tuning post Retrieval-Augmented Pretraining**|Boxin Wang et.al.|[2310.07713v1](http://arxiv.org/abs/2310.07713v1)|null|
 |**2023-10-12**|**Rethinking the BERT-like Pretraining for DNA Sequences**|Chaoqi Liang et.al.|[2310.07644v2](http://arxiv.org/abs/2310.07644v2)|null|
 |**2023-10-12**|**Multimodal Graph Learning for Generative Tasks**|Minji Yoon et.al.|[2310.07478v2](http://arxiv.org/abs/2310.07478v2)|**[link](https://github.com/minjiyoon/mmgl)**|
@@ -1690,12 +1700,22 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231015>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231016>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-13**|**PonderV2: Pave the Way for 3D Foundation Model with A Universal Pre-training Paradigm**|Haoyi Zhu et.al.|[2310.08586v2](http://arxiv.org/abs/2310.08586v2)|**[link](https://github.com/OpenGVLab/PonderV2)**|
+|**2023-10-12**|**Is ImageNet worth 1 video? Learning strong image encoders from 1 long unlabelled video**|Shashanka Venkataramanan et.al.|[2310.08584v1](http://arxiv.org/abs/2310.08584v1)|null|
+|**2023-10-12**|**Not All Demonstration Examples are Equally Beneficial: Reweighting Demonstration Examples for In-Context Learning**|Zhe Yang et.al.|[2310.08309v1](http://arxiv.org/abs/2310.08309v1)|**[link](https://github.com/Zhe-Young/WICL)**|
+|**2023-10-12**|**Learn From Model Beyond Fine-Tuning: A Survey**|Hongling Zheng et.al.|[2310.08184v1](http://arxiv.org/abs/2310.08184v1)|**[link](https://github.com/ruthless-man/awesome-learn-from-model)**|
+|**2023-10-12**|**Generalized Logit Adjustment: Calibrating Fine-tuned Models by Removing Label Bias in Foundation Models**|Beier Zhu et.al.|[2310.08106v1](http://arxiv.org/abs/2310.08106v1)|**[link](https://github.com/BeierZhu/GLA)**|
+|**2023-10-12**|**Voice Conversion for Stuttered Speech, Instruments, Unseen Languages and Textually Described Voices**|Matthew Baas et.al.|[2310.08104v1](http://arxiv.org/abs/2310.08104v1)|null|
+|**2023-10-12**|**Consistent123: Improve Consistency for One Image to 3D Object Synthesis**|Haohan Weng et.al.|[2310.08092v1](http://arxiv.org/abs/2310.08092v1)|null|
+|**2023-10-11**|**Pit One Against Many: Leveraging Attention-head Embeddings for Parameter-efficient Multi-head Attention**|Huiyin Xue et.al.|[2310.07911v1](http://arxiv.org/abs/2310.07911v1)|null|
+|**2023-10-11**|**Hierarchical Pretraining on Multimodal Electronic Health Records**|Xiaochen Wang et.al.|[2310.07871v1](http://arxiv.org/abs/2310.07871v1)|null|
+|**2023-10-11**|**Large Language Models Are Zero-Shot Time Series Forecasters**|Nate Gruver et.al.|[2310.07820v1](http://arxiv.org/abs/2310.07820v1)|**[link](https://github.com/ngruver/llmtime)**|
 |**2023-10-11**|**Composite Backdoor Attacks Against Large Language Models**|Hai Huang et.al.|[2310.07676v1](http://arxiv.org/abs/2310.07676v1)|null|
 |**2023-10-12**|**Rethinking the BERT-like Pretraining for DNA Sequences**|Chaoqi Liang et.al.|[2310.07644v2](http://arxiv.org/abs/2310.07644v2)|null|
 |**2023-10-11**|**KwaiYiiMath: Technical Report**|Jiayi Fu et.al.|[2310.07488v1](http://arxiv.org/abs/2310.07488v1)|null|
@@ -3280,7 +3300,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20231015>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231016>back to top</a>)</p>
 
 ## adaptor
 
@@ -3295,7 +3315,7 @@ layout: default
 |**2023-09-06**|**Leveraging ASR Pretrained Conformers for Speaker Verification through Transfer Learning and Knowledge Distillation**|Danwei Cai et.al.|[2309.03019v1](http://arxiv.org/abs/2309.03019v1)|null|
 |**2023-09-06**|**Prompt-based Node Feature Extractor for Few-shot Learning on Text-Attributed Graphs**|Xuanwen Huang et.al.|[2309.02848v1](http://arxiv.org/abs/2309.02848v1)|null|
 |**2023-09-05**|**Decomposed Guided Dynamic Filters for Efficient RGB-Guided Depth Completion**|Yufei Wang et.al.|[2309.02043v1](http://arxiv.org/abs/2309.02043v1)|null|
-|**2023-09-04**|**Adapting Segment Anything Model for Change Detection in HR Remote Sensing Images**|Lei Ding et.al.|[2309.01429v1](http://arxiv.org/abs/2309.01429v1)|**[link](https://github.com/ggsding/sam-cd)**|
+|**2023-10-13**|**Adapting Segment Anything Model for Change Detection in HR Remote Sensing Images**|Lei Ding et.al.|[2309.01429v2](http://arxiv.org/abs/2309.01429v2)|**[link](https://github.com/ggsding/sam-cd)**|
 |**2023-08-21**|**STEERER: Resolving Scale Variations for Counting and Localization via Selective Inheritance Learning**|Tao Han et.al.|[2308.10468v1](http://arxiv.org/abs/2308.10468v1)|**[link](https://github.com/taohan10200/steerer)**|
 |**2023-08-19**|**Understanding Self-attention Mechanism via Dynamical System Perspective**|Zhongzhan Huang et.al.|[2308.09939v1](http://arxiv.org/abs/2308.09939v1)|null|
 |**2023-08-14**|**CBA: Improving Online Continual Learning via Continual Bias Adaptor**|Quanziang Wang et.al.|[2308.06925v1](http://arxiv.org/abs/2308.06925v1)|**[link](https://github.com/wqza/cba-online-cl)**|
@@ -3349,12 +3369,19 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20231015>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231016>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-12**|**MUN-FRL: A Visual Inertial LiDAR Dataset for Aerial Autonomous Navigation and Mapping**|Ravindu G. Thalagala et.al.|[2310.08435v1](http://arxiv.org/abs/2310.08435v1)|null|
+|**2023-10-12**|**Performance/power assessment of CNN packages on embedded automotive platforms**|Paolo Burgio et.al.|[2310.08401v1](http://arxiv.org/abs/2310.08401v1)|null|
+|**2023-10-12**|**MeanAP-Guided Reinforced Active Learning for Object Detection**|Zhixuan Liang et.al.|[2310.08387v1](http://arxiv.org/abs/2310.08387v1)|null|
+|**2023-10-12**|**UniPAD: A Universal Pre-training Paradigm for Autonomous Driving**|Honghui Yang et.al.|[2310.08370v1](http://arxiv.org/abs/2310.08370v1)|**[link](https://github.com/Nightmare-n/UniPAD)**|
+|**2023-10-12**|**Extended target tracking utilizing machine-learning software -- with applications to animal classification**|Magnus Malmström et.al.|[2310.08316v1](http://arxiv.org/abs/2310.08316v1)|null|
+|**2023-10-12**|**GraphAlign: Enhancing Accurate Feature Alignment by Graph matching for Multi-Modal 3D Object Detection**|Ziying Song et.al.|[2310.08261v1](http://arxiv.org/abs/2310.08261v1)|null|
+|**2023-10-11**|**LangNav: Language as a Perceptual Representation for Navigation**|Bowen Pan et.al.|[2310.07889v1](http://arxiv.org/abs/2310.07889v1)|null|
 |**2023-10-11**|**Dual Radar: A Multi-modal Dataset with Dual 4D Radar for Autononous Driving**|Xinyu Zhang et.al.|[2310.07602v1](http://arxiv.org/abs/2310.07602v1)|**[link](https://github.com/adept-thu/dual-radar)**|
 |**2023-10-11**|**PeP: a Point enhanced Painting method for unified point cloud tasks**|Zichao Dong et.al.|[2310.07591v1](http://arxiv.org/abs/2310.07591v1)|null|
 |**2023-10-11**|**Relational Prior Knowledge Graphs for Detection and Instance Segmentation**|Osman Ülger et.al.|[2310.07573v1](http://arxiv.org/abs/2310.07573v1)|null|
@@ -4851,7 +4878,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20231015>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231016>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
