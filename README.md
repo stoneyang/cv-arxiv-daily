@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.16
+## Updated on 2023.10.17
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-13**|**PromptRE: Weakly-Supervised Document-Level Relation Extraction via Prompting-Based Data Programming**|Chufan Gao et.al.|[2310.09265v1](http://arxiv.org/abs/2310.09265v1)|null|
+|**2023-10-13**|**Hypernymy Understanding Evaluation of Text-to-Image Models via WordNet Hierarchy**|Anton Baryshnikov et.al.|[2310.09247v1](http://arxiv.org/abs/2310.09247v1)|**[link](https://github.com/yandex-research/text-to-img-hypernymy)**|
+|**2023-10-13**|**ClickPrompt: CTR Models are Strong Prompt Generators for Adapting Language Models to CTR Prediction**|Jianghao Lin et.al.|[2310.09234v1](http://arxiv.org/abs/2310.09234v1)|null|
+|**2023-10-13**|**PaLI-3 Vision Language Models: Smaller, Faster, Stronger**|Xi Chen et.al.|[2310.09199v1](http://arxiv.org/abs/2310.09199v1)|null|
+|**2023-10-13**|**Jointly-Learned Exit and Inference for a Dynamic Neural Network : JEI-DNN**|Florence Regol et.al.|[2310.09163v1](http://arxiv.org/abs/2310.09163v1)|null|
+|**2023-10-13**|**UniParser: Multi-Human Parsing with Unified Correlation Representation Learning**|Jiaming Chu et.al.|[2310.08984v1](http://arxiv.org/abs/2310.08984v1)|**[link](https://github.com/cjm-sfw/Uniparser)**|
+|**2023-10-13**|**Exploration with Principles for Diverse AI Supervision**|Hao Liu et.al.|[2310.08899v1](http://arxiv.org/abs/2310.08899v1)|null|
+|**2023-10-13**|**Open X-Embodiment: Robotic Learning Datasets and RT-X Models**|Abhishek Padalkar et.al.|[2310.08864v1](http://arxiv.org/abs/2310.08864v1)|null|
+|**2023-10-13**|**Speaking rate attention-based duration prediction for speed control TTS**|Jesuraj Bandekar et.al.|[2310.08846v1](http://arxiv.org/abs/2310.08846v1)|null|
+|**2023-10-13**|**From CLIP to DINO: Visual Encoders Shout in Multi-modal Large Language Models**|Dongsheng Jiang et.al.|[2310.08825v1](http://arxiv.org/abs/2310.08825v1)|**[link](https://github.com/yuchenliu98/comm)**|
 |**2023-10-12**|**Is ImageNet worth 1 video? Learning strong image encoders from 1 long unlabelled video**|Shashanka Venkataramanan et.al.|[2310.08584v1](http://arxiv.org/abs/2310.08584v1)|null|
 |**2023-10-12**|**Transformers as Decision Makers: Provable In-Context Reinforcement Learning via Supervised Pretraining**|Licong Lin et.al.|[2310.08566v1](http://arxiv.org/abs/2310.08566v1)|null|
 |**2023-10-12**|**Do pretrained Transformers Really Learn In-context by Gradient Descent?**|Lingfeng Shen et.al.|[2310.08540v1](http://arxiv.org/abs/2310.08540v1)|null|
@@ -1696,12 +1706,19 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231016>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231017>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-13**|**Split-and-Denoise: Protect large language model inference with local differential privacy**|Peihua Mai et.al.|[2310.09130v1](http://arxiv.org/abs/2310.09130v1)|null|
+|**2023-10-13**|**DSG: An End-to-End Document Structure Generator**|Johannes Rausch et.al.|[2310.09118v1](http://arxiv.org/abs/2310.09118v1)|null|
+|**2023-10-13**|**Towards Informative Few-Shot Prompt with Maximum Information Gain for In-Context Learning**|Hongfu Liu et.al.|[2310.08923v1](http://arxiv.org/abs/2310.08923v1)|null|
+|**2023-10-13**|**METRA: Scalable Unsupervised RL with Metric-Aware Abstraction**|Seohong Park et.al.|[2310.08887v1](http://arxiv.org/abs/2310.08887v1)|**[link](https://github.com/seohongpark/metra)**|
+|**2023-10-12**|**AcTExplore: Active Tactile Exploration on Unknown Objects**|Amir-Hossein Shahidzadeh et.al.|[2310.08745v1](http://arxiv.org/abs/2310.08745v1)|null|
+|**2023-10-12**|**Splicing Up Your Predictions with RNA Contrastive Learning**|Philip Fradkin et.al.|[2310.08738v1](http://arxiv.org/abs/2310.08738v1)|null|
+|**2023-10-12**|**LoftQ: LoRA-Fine-Tuning-Aware Quantization for Large Language Models**|Yixiao Li et.al.|[2310.08659v1](http://arxiv.org/abs/2310.08659v1)|null|
 |**2023-10-13**|**PonderV2: Pave the Way for 3D Foundation Model with A Universal Pre-training Paradigm**|Haoyi Zhu et.al.|[2310.08586v2](http://arxiv.org/abs/2310.08586v2)|**[link](https://github.com/OpenGVLab/PonderV2)**|
 |**2023-10-12**|**Is ImageNet worth 1 video? Learning strong image encoders from 1 long unlabelled video**|Shashanka Venkataramanan et.al.|[2310.08584v1](http://arxiv.org/abs/2310.08584v1)|null|
 |**2023-10-12**|**Not All Demonstration Examples are Equally Beneficial: Reweighting Demonstration Examples for In-Context Learning**|Zhe Yang et.al.|[2310.08309v1](http://arxiv.org/abs/2310.08309v1)|**[link](https://github.com/Zhe-Young/WICL)**|
@@ -3296,12 +3313,13 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20231016>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231017>back to top</a>)</p>
 
 ## adaptor
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-12**|**Search-Adaptor: Text Embedding Customization for Information Retrieval**|Jinsung Yoon et.al.|[2310.08750v1](http://arxiv.org/abs/2310.08750v1)|null|
 |**2023-10-07**|**Neural2Speech: A Transfer Learning Framework for Neural-Driven Speech Reconstruction**|Jiawei Li et.al.|[2310.04644v1](http://arxiv.org/abs/2310.04644v1)|**[link](https://github.com/cctn-bci/neural2speech)**|
 |**2023-10-06**|**DiffPrompter: Differentiable Implicit Visual Prompts for Semantic-Segmentation in Adverse Conditions**|Sanket Kalwar et.al.|[2310.04181v1](http://arxiv.org/abs/2310.04181v1)|null|
 |**2023-10-04**|**scHyena: Foundation Model for Full-Length Single-Cell RNA-Seq Analysis in Brain**|Gyutaek Oh et.al.|[2310.02713v1](http://arxiv.org/abs/2310.02713v1)|null|
@@ -3365,12 +3383,17 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20231016>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231017>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-13**|**A Spatial-Temporal Dual-Mode Mixed Flow Network for Panoramic Video Salient Object Detection**|Xiaolei Chen et.al.|[2310.09016v1](http://arxiv.org/abs/2310.09016v1)|null|
+|**2023-10-13**|**VCL Challenges 2023 at ICCV 2023 Technical Report: Bi-level Adaptation Method for Test-time Adaptive Object Detection**|Chenyu Lin et.al.|[2310.08986v1](http://arxiv.org/abs/2310.08986v1)|null|
+|**2023-10-13**|**Rank-DETR for High Quality Object Detection**|Yifan Pu et.al.|[2310.08854v1](http://arxiv.org/abs/2310.08854v1)|null|
+|**2023-10-13**|**Incremental Object Detection with CLIP**|Yupeng He et.al.|[2310.08815v1](http://arxiv.org/abs/2310.08815v1)|null|
+|**2023-10-12**|**Investigating the Robustness and Properties of Detection Transformers (DETR) Toward Difficult Images**|Zhao Ning Zou et.al.|[2310.08772v1](http://arxiv.org/abs/2310.08772v1)|null|
 |**2023-10-12**|**MUN-FRL: A Visual Inertial LiDAR Dataset for Aerial Autonomous Navigation and Mapping**|Ravindu G. Thalagala et.al.|[2310.08435v1](http://arxiv.org/abs/2310.08435v1)|null|
 |**2023-10-12**|**Performance/power assessment of CNN packages on embedded automotive platforms**|Paolo Burgio et.al.|[2310.08401v1](http://arxiv.org/abs/2310.08401v1)|null|
 |**2023-10-12**|**MeanAP-Guided Reinforced Active Learning for Object Detection**|Zhixuan Liang et.al.|[2310.08387v1](http://arxiv.org/abs/2310.08387v1)|null|
@@ -4874,7 +4897,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20231016>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231017>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
