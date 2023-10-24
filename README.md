@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.23
+## Updated on 2023.10.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-20**|**Technical Report for ICCV 2023 Visual Continual Learning Challenge: Continuous Test-time Adaptation for Semantic Segmentation**|Damian Sójka et.al.|[2310.13533v1](http://arxiv.org/abs/2310.13533v1)|null|
+|**2023-10-20**|**Cache me if you Can: an Online Cost-aware Teacher-Student framework to Reduce the Calls to Large Language Models**|Ilias Stogiannidis et.al.|[2310.13395v1](http://arxiv.org/abs/2310.13395v1)|null|
+|**2023-10-20**|**SILC: Improving Vision Language Pretraining with Self-Distillation**|Muhammad Ferjad Naeem et.al.|[2310.13355v1](http://arxiv.org/abs/2310.13355v1)|null|
+|**2023-10-20**|**Exploring the Impact of Corpus Diversity on Financial Pretrained Language Models**|Jaeyoung Choe et.al.|[2310.13312v1](http://arxiv.org/abs/2310.13312v1)|null|
+|**2023-10-20**|**Unified Pretraining for Recommendation via Task Hypergraphs**|Mingdai Yang et.al.|[2310.13286v1](http://arxiv.org/abs/2310.13286v1)|**[link](https://github.com/mdyfrank/uprth)**|
+|**2023-10-20**|**DPM-Solver-v3: Improved Diffusion ODE Solver with Empirical Model Statistics**|Kaiwen Zheng et.al.|[2310.13268v1](http://arxiv.org/abs/2310.13268v1)|**[link](https://github.com/thu-ml/dpm-solver-v3)**|
+|**2023-10-20**|**On the Language Encoder of Contrastive Cross-modal Models**|Mengjie Zhao et.al.|[2310.13267v1](http://arxiv.org/abs/2310.13267v1)|null|
+|**2023-10-20**|**Anomaly Detection of Command Shell Sessions based on DistilBERT: Unsupervised and Supervised Approaches**|Zefang Liu et.al.|[2310.13247v1](http://arxiv.org/abs/2310.13247v1)|null|
+|**2023-10-19**|**A Car Model Identification System for Streamlining the Automobile Sales Process**|Said Togru et.al.|[2310.13198v1](http://arxiv.org/abs/2310.13198v1)|null|
+|**2023-10-19**|**Do Language Models Learn about Legal Entity Types during Pretraining?**|Claire Barale et.al.|[2310.13092v1](http://arxiv.org/abs/2310.13092v1)|**[link](https://github.com/clairebarale/probing_legal_entity_types)**|
 |**2023-10-19**|**A Predictive Factor Analysis of Social Biases and Task-Performance in Pretrained Masked Language Models**|Yi Zhou et.al.|[2310.12936v1](http://arxiv.org/abs/2310.12936v1)|null|
 |**2023-10-19**|**Vision-Language Models are Zero-Shot Reward Models for Reinforcement Learning**|Juan Rocamonde et.al.|[2310.12921v1](http://arxiv.org/abs/2310.12921v1)|null|
 |**2023-10-19**|**A Systematic Study of Performance Disparities in Multilingual Task-Oriented Dialogue Systems**|Songbo Hu et.al.|[2310.12892v1](http://arxiv.org/abs/2310.12892v1)|null|
@@ -1742,12 +1752,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231023>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231024>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-20**|**Controlled Randomness Improves the Performance of Transformer Models**|Tobias Deußer et.al.|[2310.13526v1](http://arxiv.org/abs/2310.13526v1)|null|
+|**2023-10-20**|**Multiscale Superpixel Structured Difference Graph Convolutional Network for VL Representation**|Siyu Zhang et.al.|[2310.13447v1](http://arxiv.org/abs/2310.13447v1)|null|
+|**2023-10-20**|**GenDistiller: Distilling Pre-trained Language Models based on Generative Models**|Yingying Gao et.al.|[2310.13418v1](http://arxiv.org/abs/2310.13418v1)|null|
+|**2023-10-20**|**ScalableMap: Scalable Map Learning for Online Long-Range Vectorized HD Map Construction**|Jingyi Yu et.al.|[2310.13378v1](http://arxiv.org/abs/2310.13378v1)|**[link](https://github.com/jingy1yu/scalablemap)**|
+|**2023-10-20**|**Analyzing Cognitive Plausibility of Subword Tokenization**|Lisa Beinborn et.al.|[2310.13348v1](http://arxiv.org/abs/2310.13348v1)|null|
+|**2023-10-20**|**Exploring the Impact of Corpus Diversity on Financial Pretrained Language Models**|Jaeyoung Choe et.al.|[2310.13312v1](http://arxiv.org/abs/2310.13312v1)|null|
+|**2023-10-20**|**A Quality-based Syntactic Template Retriever for Syntactically-controlled Paraphrase Generation**|Xue Zhang et.al.|[2310.13262v1](http://arxiv.org/abs/2310.13262v1)|**[link](https://github.com/xzhang00/qstr)**|
+|**2023-10-20**|**DIG-MILP: a Deep Instance Generator for Mixed-Integer Linear Programming with Feasibility Guarantee**|Haoyu Wang et.al.|[2310.13261v1](http://arxiv.org/abs/2310.13261v1)|null|
+|**2023-10-20**|**The Less the Merrier? Investigating Language Representation in Multilingual Models**|Hellina Hailu Nigatu et.al.|[2310.13228v1](http://arxiv.org/abs/2310.13228v1)|null|
+|**2023-10-19**|**RSAdapter: Adapting Multimodal Models for Remote Sensing Visual Question Answering**|Yuduo Wang et.al.|[2310.13120v1](http://arxiv.org/abs/2310.13120v1)|null|
 |**2023-10-19**|**A Predictive Factor Analysis of Social Biases and Task-Performance in Pretrained Masked Language Models**|Yi Zhou et.al.|[2310.12936v1](http://arxiv.org/abs/2310.12936v1)|null|
 |**2023-10-19**|**The Locality and Symmetry of Positional Encodings**|Lihu Chen et.al.|[2310.12864v1](http://arxiv.org/abs/2310.12864v1)|**[link](https://github.com/tigerchen52/locality_symmetry)**|
 |**2023-10-19**|**MolCA: Molecular Graph-Language Modeling with Cross-Modal Projector and Uni-Modal Adapter**|Zhiyuan Liu et.al.|[2310.12798v1](http://arxiv.org/abs/2310.12798v1)|**[link](https://github.com/acharkq/molca)**|
@@ -3383,7 +3403,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20231023>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231024>back to top</a>)</p>
 
 ## adaptor
 
@@ -3454,14 +3474,21 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20231023>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231024>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-20**|**Exploring the Potential of Flexible 8-bit Format: Design and Algorithm**|Zhuoyi Zhang et.al.|[2310.13513v1](http://arxiv.org/abs/2310.13513v1)|null|
+|**2023-10-20**|**A review of individual tree crown detection and delineation from optical remote sensing images**|Juepeng Zheng et.al.|[2310.13481v1](http://arxiv.org/abs/2310.13481v1)|null|
+|**2023-10-20**|**ScalableMap: Scalable Map Learning for Online Long-Range Vectorized HD Map Construction**|Jingyi Yu et.al.|[2310.13378v1](http://arxiv.org/abs/2310.13378v1)|**[link](https://github.com/jingy1yu/scalablemap)**|
+|**2023-10-20**|**EarlyBird: Early-Fusion for Multi-View Tracking in the Bird's Eye View**|Torben Teepe et.al.|[2310.13350v1](http://arxiv.org/abs/2310.13350v1)|**[link](https://github.com/tteepe/earlybird)**|
+|**2023-10-20**|**Dynamic Object Detection in Range data using Spatiotemporal Normals**|Raphael Falque et.al.|[2310.13273v1](http://arxiv.org/abs/2310.13273v1)|null|
+|**2023-10-20**|**Zone Evaluation: Revealing Spatial Bias in Object Detection**|Zhaohui Zheng et.al.|[2310.13215v1](http://arxiv.org/abs/2310.13215v1)|**[link](https://github.com/zzh-tju/zoneeval)**|
+|**2023-10-19**|**Dynamic STEM-EELS for single atom and defect measurement during electron beam transformations**|Kevin M. Roccapriore et.al.|[2310.13187v1](http://arxiv.org/abs/2310.13187v1)|null|
 |**2023-10-19**|**End-to-End Delay Minimization based on Joint Optimization of DNN Partitioning and Resource Allocation for Cooperative Edge Inference**|Xinrui Ye et.al.|[2310.12937v1](http://arxiv.org/abs/2310.12937v1)|null|
-|**2023-10-19**|**DT/MARS-CycleGAN: Improved Object Detection for MARS Phenotyping Robot**|David Liu et.al.|[2310.12787v1](http://arxiv.org/abs/2310.12787v1)|null|
+|**2023-10-20**|**DT/MARS-CycleGAN: Improved Object Detection for MARS Phenotyping Robot**|David Liu et.al.|[2310.12787v2](http://arxiv.org/abs/2310.12787v2)|null|
 |**2023-10-19**|**Exploiting Low-confidence Pseudo-labels for Source-free Object Detection**|Zhihong Chen et.al.|[2310.12705v1](http://arxiv.org/abs/2310.12705v1)|null|
 |**2023-10-19**|**Fully Onboard Low-Power Localization with Semantic Sensor Fusion on a Nano-UAV using Floor Plans**|Nicky Zimmerman et.al.|[2310.12536v1](http://arxiv.org/abs/2310.12536v1)|**[link](https://github.com/eth-pbl/nano-smcl)**|
 |**2023-10-19**|**Lost in Translation: When GPT-4V(ision) Can't See Eye to Eye with Text. A Vision-Language-Consistency Analysis of VLLMs and Beyond**|Xiang Zhang et.al.|[2310.12520v1](http://arxiv.org/abs/2310.12520v1)|null|
@@ -4995,7 +5022,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20231023>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231024>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
