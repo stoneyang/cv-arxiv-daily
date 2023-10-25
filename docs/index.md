@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.24
+## Updated on 2023.10.25
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-23**|**FreeNoise: Tuning-Free Longer Video Diffusion Via Noise Rescheduling**|Haonan Qiu et.al.|[2310.15169v1](http://arxiv.org/abs/2310.15169v1)|null|
+|**2023-10-23**|**Novel-View Acoustic Synthesis from 3D Reconstructed Rooms**|Byeongjoo Ahn et.al.|[2310.15130v1](http://arxiv.org/abs/2310.15130v1)|**[link](https://github.com/apple/ml-nvas3d)**|
+|**2023-10-23**|**Zero123++: a Single Image to Consistent Multi-view Diffusion Base Model**|Ruoxi Shi et.al.|[2310.15110v1](http://arxiv.org/abs/2310.15110v1)|**[link](https://github.com/sudo-ai-3d/zero123plus)**|
+|**2023-10-23**|**E4S: Fine-grained Face Swapping via Editing With Regional GAN Inversion**|Maomao Li et.al.|[2310.15081v1](http://arxiv.org/abs/2310.15081v1)|**[link](https://github.com/e4s2023/e4s2023)**|
+|**2023-10-23**|**SLOG: A Structural Generalization Benchmark for Semantic Parsing**|Bingzhi Li et.al.|[2310.15040v1](http://arxiv.org/abs/2310.15040v1)|null|
+|**2023-10-23**|**Fast 2D Bicephalous Convolutional Autoencoder for Compressing 3D Time Projection Chamber Data**|Yi Huang et.al.|[2310.15026v1](http://arxiv.org/abs/2310.15026v1)|null|
+|**2023-10-23**|**Once Upon a $\textit{Time}$ in $\textit{Graph}$: Relative-Time Pretraining for Complex Temporal Reasoning**|Sen Yang et.al.|[2310.14709v1](http://arxiv.org/abs/2310.14709v1)|null|
+|**2023-10-23**|**Extending Input Contexts of Language Models through Training on Segmented Sequences**|Petros Karypis et.al.|[2310.14633v1](http://arxiv.org/abs/2310.14633v1)|null|
+|**2023-10-23**|**Generative Pre-trained Transformer for Vietnamese Community-based COVID-19 Question Answering**|Tam Minh Vo et.al.|[2310.14602v1](http://arxiv.org/abs/2310.14602v1)|null|
+|**2023-10-23**|**The Skipped Beat: A Study of Sociopragmatic Understanding in LLMs for 64 Languages**|Chiyu Zhang et.al.|[2310.14557v1](http://arxiv.org/abs/2310.14557v1)|null|
 |**2023-10-20**|**Technical Report for ICCV 2023 Visual Continual Learning Challenge: Continuous Test-time Adaptation for Semantic Segmentation**|Damian Sójka et.al.|[2310.13533v1](http://arxiv.org/abs/2310.13533v1)|null|
 |**2023-10-20**|**Cache me if you Can: an Online Cost-aware Teacher-Student framework to Reduce the Calls to Large Language Models**|Ilias Stogiannidis et.al.|[2310.13395v1](http://arxiv.org/abs/2310.13395v1)|null|
 |**2023-10-20**|**SILC: Improving Vision Language Pretraining with Self-Distillation**|Muhammad Ferjad Naeem et.al.|[2310.13355v1](http://arxiv.org/abs/2310.13355v1)|null|
@@ -1756,12 +1766,22 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231024>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231025>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-23**|**Unlocking the Transferability of Tokens in Deep Models for Tabular Data**|Qi-Le Zhou et.al.|[2310.15149v1](http://arxiv.org/abs/2310.15149v1)|null|
+|**2023-10-23**|**GRENADE: Graph-Centric Language Model for Self-Supervised Representation Learning on Text-Attributed Graphs**|Yichuan Li et.al.|[2310.15109v1](http://arxiv.org/abs/2310.15109v1)|null|
+|**2023-10-23**|**FD-Align: Feature Discrimination Alignment for Fine-tuning Pre-Trained Models in Few-Shot Learning**|Kun Song et.al.|[2310.15105v1](http://arxiv.org/abs/2310.15105v1)|**[link](https://github.com/skingorz/fd-align)**|
+|**2023-10-23**|**The BLA Benchmark: Investigating Basic Language Abilities of Pre-Trained Multimodal Models**|Xinyi Chen et.al.|[2310.15061v1](http://arxiv.org/abs/2310.15061v1)|null|
+|**2023-10-23**|**A Study on Knowledge Graph Embeddings and Graph Neural Networks for Web Of Things**|Rohith Teja Mittakola et.al.|[2310.14866v1](http://arxiv.org/abs/2310.14866v1)|**[link](https://github.com/kgrl2021/submission-one)**|
+|**2023-10-23**|**ULTRA-DP: Unifying Graph Pre-training with Multi-task Graph Dual Prompt**|Mouxiang Chen et.al.|[2310.14845v1](http://arxiv.org/abs/2310.14845v1)|null|
+|**2023-10-23**|**Once Upon a $\textit{Time}$ in $\textit{Graph}$: Relative-Time Pretraining for Complex Temporal Reasoning**|Sen Yang et.al.|[2310.14709v1](http://arxiv.org/abs/2310.14709v1)|null|
+|**2023-10-23**|**Pre-Trained Language Models Augmented with Synthetic Scanpaths for Natural Language Understanding**|Shuwen Deng et.al.|[2310.14676v1](http://arxiv.org/abs/2310.14676v1)|null|
+|**2023-10-23**|**Investigating the Fairness of Large Language Models for Predictions on Tabular Data**|Yanchen Liu et.al.|[2310.14607v1](http://arxiv.org/abs/2310.14607v1)|null|
+|**2023-10-23**|**Marginal Nodes Matter: Towards Structure Fairness in Graphs**|Xiaotian Han et.al.|[2310.14527v1](http://arxiv.org/abs/2310.14527v1)|null|
 |**2023-10-20**|**Controlled Randomness Improves the Performance of Transformer Models**|Tobias Deußer et.al.|[2310.13526v1](http://arxiv.org/abs/2310.13526v1)|null|
 |**2023-10-20**|**Multiscale Superpixel Structured Difference Graph Convolutional Network for VL Representation**|Siyu Zhang et.al.|[2310.13447v1](http://arxiv.org/abs/2310.13447v1)|null|
 |**2023-10-20**|**GenDistiller: Distilling Pre-trained Language Models based on Generative Models**|Yingying Gao et.al.|[2310.13418v1](http://arxiv.org/abs/2310.13418v1)|null|
@@ -3407,7 +3427,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20231024>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231025>back to top</a>)</p>
 
 ## adaptor
 
@@ -3478,12 +3498,21 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20231024>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231025>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-23**|**Rethinking Scale Imbalance in Semi-supervised Object Detection for Aerial Images**|Ruixiang Zhang et.al.|[2310.14718v1](http://arxiv.org/abs/2310.14718v1)|null|
+|**2023-10-23**|**Pre-Training LiDAR-Based 3D Object Detectors Through Colorization**|Tai-Yu Pan et.al.|[2310.14592v1](http://arxiv.org/abs/2310.14592v1)|null|
+|**2023-10-22**|**Skipped Feature Pyramid Network with Grid Anchor for Object Detection**|Li Pengfei et.al.|[2310.14453v1](http://arxiv.org/abs/2310.14453v1)|null|
+|**2023-10-22**|**OV-VG: A Benchmark for Open-Vocabulary Visual Grounding**|Chunlei Wang et.al.|[2310.14374v1](http://arxiv.org/abs/2310.14374v1)|**[link](https://github.com/cv516buaa/ov-vg)**|
+|**2023-10-22**|**Deep MDP: A Modular Framework for Multi-Object Tracking**|Abhineet Singh et.al.|[2310.14294v1](http://arxiv.org/abs/2310.14294v1)|**[link](https://github.com/abhineet123/deep_mdp)**|
+|**2023-10-22**|**Guidance system for Visually Impaired Persons using Deep Learning and Optical flow**|Shwetang Dubey et.al.|[2310.14239v1](http://arxiv.org/abs/2310.14239v1)|null|
+|**2023-10-22**|**The Importance of Anti-Aliasing in Tiny Object Detection**|Jinlai Ning et.al.|[2310.14221v1](http://arxiv.org/abs/2310.14221v1)|null|
+|**2023-10-21**|**Fuzzy-NMS: Improving 3D Object Detection with Fuzzy Classification in NMS**|Li Wang et.al.|[2310.13951v1](http://arxiv.org/abs/2310.13951v1)|null|
+|**2023-10-21**|**Multimodal Transformer Using Cross-Channel attention for Object Detection in Remote Sensing Images**|Bissmella Bahaduri et.al.|[2310.13876v1](http://arxiv.org/abs/2310.13876v1)|null|
 |**2023-10-20**|**Exploring the Potential of Flexible 8-bit Format: Design and Algorithm**|Zhuoyi Zhang et.al.|[2310.13513v1](http://arxiv.org/abs/2310.13513v1)|null|
 |**2023-10-20**|**A review of individual tree crown detection and delineation from optical remote sensing images**|Juepeng Zheng et.al.|[2310.13481v1](http://arxiv.org/abs/2310.13481v1)|null|
 |**2023-10-20**|**ScalableMap: Scalable Map Learning for Online Long-Range Vectorized HD Map Construction**|Jingyi Yu et.al.|[2310.13378v1](http://arxiv.org/abs/2310.13378v1)|**[link](https://github.com/jingy1yu/scalablemap)**|
@@ -5026,7 +5055,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20231024>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231025>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
