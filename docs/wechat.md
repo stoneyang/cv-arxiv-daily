@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2023.11.01
+> Updated on 2023.11.02
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,16 @@
 
 ## pretrain
 
+- 2023-10-31, **Vanishing Gradients in Reinforcement Finetuning of Language Models**, Noam Razin et.al., Paper: [http://arxiv.org/abs/2310.20703v1](http://arxiv.org/abs/2310.20703v1)
+- 2023-10-31, **The Unreasonable Effectiveness of Random Target Embeddings for Continuous-Output Neural Machine Translation**, Evgeniia Tokarchuk et.al., Paper: [http://arxiv.org/abs/2310.20620v1](http://arxiv.org/abs/2310.20620v1)
+- 2023-10-31, **Increasing The Performance of Cognitively Inspired Data-Efficient Language Models via Implicit Structure Building**, Omar Momen et.al., Paper: [http://arxiv.org/abs/2310.20589v1](http://arxiv.org/abs/2310.20589v1)
+- 2023-10-31, **Breaking the Token Barrier: Chunking and Convolution for Efficient Long Text Classification with BERT**, Aman Jaiswal et.al., Paper: [http://arxiv.org/abs/2310.20558v1](http://arxiv.org/abs/2310.20558v1)
+- 2023-10-31, **CapsFusion: Rethinking Image-Text Data at Scale**, Qiying Yu et.al., Paper: [http://arxiv.org/abs/2310.20550v1](http://arxiv.org/abs/2310.20550v1)
+- 2023-10-31, **HWD: A Novel Evaluation Score for Styled Handwritten Text Generation**, Vittorio Pippi et.al., Paper: [http://arxiv.org/abs/2310.20316v1](http://arxiv.org/abs/2310.20316v1), Code: **[https://github.com/aimagelab/hwd](https://github.com/aimagelab/hwd)**
+- 2023-10-31, **AutoMixer for Improved Multivariate Time-Series Forecasting on BizITOps Data**, Santosh Palaskar et.al., Paper: [http://arxiv.org/abs/2310.20280v1](http://arxiv.org/abs/2310.20280v1)
+- 2023-10-31, **DEPN: Detecting and Editing Privacy Neurons in Pretrained Language Models**, Xinwei Wu et.al., Paper: [http://arxiv.org/abs/2310.20138v1](http://arxiv.org/abs/2310.20138v1)
+- 2023-10-31, **Improving Prompt Tuning with Learned Prompting Layers**, Wei Zhu et.al., Paper: [http://arxiv.org/abs/2310.20127v1](http://arxiv.org/abs/2310.20127v1)
+- 2023-10-30, **GOPlan: Goal-conditioned Offline Reinforcement Learning by Planning with Learned Models**, Mianchu Wang et.al., Paper: [http://arxiv.org/abs/2310.20025v1](http://arxiv.org/abs/2310.20025v1)
 - 2023-10-30, **LitCab: Lightweight Calibration of Language Models on Outputs of Varied Lengths**, Xin Liu et.al., Paper: [http://arxiv.org/abs/2310.19208v1](http://arxiv.org/abs/2310.19208v1), Code: **[https://github.com/launchnlp/litcab](https://github.com/launchnlp/litcab)**
 - 2023-10-29, **Deep Audio Analyzer: a Framework to Industrialize the Research on Audio Forensics**, Valerio Francesco Puglisi et.al., Paper: [http://arxiv.org/abs/2310.19081v1](http://arxiv.org/abs/2310.19081v1)
 - 2023-10-29, **Prompt-Engineering and Transformer-based Question Generation and Evaluation**, Rubaba Amyeen et.al., Paper: [http://arxiv.org/abs/2310.18867v1](http://arxiv.org/abs/2310.18867v1)
@@ -1805,10 +1815,20 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20231101>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231102>back to top</a>)</p>
 
 ## downstream
 
+- 2023-10-31, **Vanishing Gradients in Reinforcement Finetuning of Language Models**, Noam Razin et.al., Paper: [http://arxiv.org/abs/2310.20703v1](http://arxiv.org/abs/2310.20703v1)
+- 2023-10-31, **FLODCAST: Flow and Depth Forecasting via Multimodal Recurrent Architectures**, Andrea Ciamarra et.al., Paper: [http://arxiv.org/abs/2310.20593v1](http://arxiv.org/abs/2310.20593v1)
+- 2023-10-31, **AutoMixer for Improved Multivariate Time-Series Forecasting on BizITOps Data**, Santosh Palaskar et.al., Paper: [http://arxiv.org/abs/2310.20280v1](http://arxiv.org/abs/2310.20280v1)
+- 2023-10-31, **EELBERT: Tiny Models through Dynamic Embeddings**, Gabrielle Cohn et.al., Paper: [http://arxiv.org/abs/2310.20144v1](http://arxiv.org/abs/2310.20144v1)
+- 2023-10-31, **Improving Prompt Tuning with Learned Prompting Layers**, Wei Zhu et.al., Paper: [http://arxiv.org/abs/2310.20127v1](http://arxiv.org/abs/2310.20127v1)
+- 2023-10-30, **Integrating Summarization and Retrieval for Enhanced Personalization via Large Language Models**, Chris Richardson et.al., Paper: [http://arxiv.org/abs/2310.20081v1](http://arxiv.org/abs/2310.20081v1)
+- 2023-10-30, **FOCAL: Contrastive Learning for Multimodal Time-Series Sensing Signals in Factorized Orthogonal Latent Space**, Shengzhong Liu et.al., Paper: [http://arxiv.org/abs/2310.20071v1](http://arxiv.org/abs/2310.20071v1)
+- 2023-10-30, **Towards Few-Annotation Learning for Object Detection: Are Transformer-based Models More Efficient ?**, Quentin Bouniot et.al., Paper: [http://arxiv.org/abs/2310.19936v1](http://arxiv.org/abs/2310.19936v1), Code: **[https://github.com/cea-list/mt-detr](https://github.com/cea-list/mt-detr)**
+- 2023-10-30, **Interpretable Prototype-based Graph Information Bottleneck**, Sangwoo Seo et.al., Paper: [http://arxiv.org/abs/2310.19906v1](http://arxiv.org/abs/2310.19906v1), Code: **[https://github.com/sang-woo-seo/pgib](https://github.com/sang-woo-seo/pgib)**
+- 2023-10-30, **Intra-Modal Proxy Learning for Zero-Shot Visual Categorization with CLIP**, Qi Qian et.al., Paper: [http://arxiv.org/abs/2310.19752v1](http://arxiv.org/abs/2310.19752v1), Code: **[https://github.com/idstcv/inmap](https://github.com/idstcv/inmap)**
 - 2023-10-29, **Fast Trainable Projection for Robust Fine-Tuning**, Junjiao Tian et.al., Paper: [http://arxiv.org/abs/2310.19182v1](http://arxiv.org/abs/2310.19182v1)
 - 2023-10-29, **BirdSAT: Cross-View Contrastive Masked Autoencoders for Bird Species Classification and Mapping**, Srikumar Sastry et.al., Paper: [http://arxiv.org/abs/2310.19168v1](http://arxiv.org/abs/2310.19168v1), Code: **[https://github.com/mvrl/birdsat](https://github.com/mvrl/birdsat)**
 - 2023-10-29, **Bipartite Graph Pre-training for Unsupervised Extractive Summarization with Graph Convolutional Auto-Encoders**, Qianren Mao et.al., Paper: [http://arxiv.org/abs/2310.18992v1](http://arxiv.org/abs/2310.18992v1)
@@ -3509,10 +3529,11 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20231101>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231102>back to top</a>)</p>
 
 ## adaptor
 
+- 2023-10-30, **Exploiting Image-Related Inductive Biases in Single-Branch Visual Tracking**, Chuanming Tang et.al., Paper: [http://arxiv.org/abs/2310.19542v1](http://arxiv.org/abs/2310.19542v1)
 - 2023-10-31, **LoRAShear: Efficient Large Language Model Structured Pruning and Knowledge Recovery**, Tianyi Chen et.al., Paper: [http://arxiv.org/abs/2310.18356v2](http://arxiv.org/abs/2310.18356v2)
 - 2023-10-17, **SODA: Robust Training of Test-Time Data Adaptors**, Zige Wang et.al., Paper: [http://arxiv.org/abs/2310.11093v1](http://arxiv.org/abs/2310.11093v1), Code: **[https://github.com/tmlr-group/soda](https://github.com/tmlr-group/soda)**
 - 2023-10-12, **Search-Adaptor: Text Embedding Customization for Information Retrieval**, Jinsung Yoon et.al., Paper: [http://arxiv.org/abs/2310.08750v1](http://arxiv.org/abs/2310.08750v1)
@@ -3579,10 +3600,20 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20231101>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231102>back to top</a>)</p>
 
 ## object detection
 
+- 2023-10-31, **GACE: Geometry Aware Confidence Enhancement for Black-Box 3D Object Detectors on LiDAR-Data**, David Schinagl et.al., Paper: [http://arxiv.org/abs/2310.20319v1](http://arxiv.org/abs/2310.20319v1), Code: **[https://github.com/dschinagl/gace](https://github.com/dschinagl/gace)**
+- 2023-10-31, **HEDNet: A Hierarchical Encoder-Decoder Network for 3D Object Detection in Point Clouds**, Gang Zhang et.al., Paper: [http://arxiv.org/abs/2310.20234v1](http://arxiv.org/abs/2310.20234v1), Code: **[https://github.com/zhanggang001/hednet](https://github.com/zhanggang001/hednet)**
+- 2023-10-31, **ZoomNeXt: A Unified Collaborative Pyramid Network for Camouflaged Object Detection**, Youwei Pang et.al., Paper: [http://arxiv.org/abs/2310.20208v1](http://arxiv.org/abs/2310.20208v1)
+- 2023-10-31, **Team I2R-VI-FF Technical Report on EPIC-KITCHENS VISOR Hand Object Segmentation Challenge 2023**, Fen Fang et.al., Paper: [http://arxiv.org/abs/2310.20120v1](http://arxiv.org/abs/2310.20120v1)
+- 2023-10-30, **Towards Few-Annotation Learning for Object Detection: Are Transformer-based Models More Efficient ?**, Quentin Bouniot et.al., Paper: [http://arxiv.org/abs/2310.19936v1](http://arxiv.org/abs/2310.19936v1), Code: **[https://github.com/cea-list/mt-detr](https://github.com/cea-list/mt-detr)**
+- 2023-10-30, **Battle of the Backbones: A Large-Scale Comparison of Pretrained Models across Computer Vision Tasks**, Micah Goldblum et.al., Paper: [http://arxiv.org/abs/2310.19909v1](http://arxiv.org/abs/2310.19909v1), Code: **[https://github.com/hsouri/battle-of-the-backbones](https://github.com/hsouri/battle-of-the-backbones)**
+- 2023-10-30, **Radar-Lidar Fusion for Object Detection by Designing Effective Convolution Networks**, Farzeen Munir et.al., Paper: [http://arxiv.org/abs/2310.19405v1](http://arxiv.org/abs/2310.19405v1)
+- 2023-10-30, **RGB-X Object Detection via Scene-Specific Fusion Modules**, Sri Aditya Deevi et.al., Paper: [http://arxiv.org/abs/2310.19372v1](http://arxiv.org/abs/2310.19372v1), Code: **[https://github.com/dsriaditya999/rgbxfusion](https://github.com/dsriaditya999/rgbxfusion)**
+- 2023-10-30, **Semi- and Weakly-Supervised Domain Generalization for Object Detection**, Ryosuke Furuta et.al., Paper: [http://arxiv.org/abs/2310.19351v1](http://arxiv.org/abs/2310.19351v1)
+- 2023-10-30, **L2T-DLN: Learning to Teach with Dynamic Loss Network**, Zhoyang Hai et.al., Paper: [http://arxiv.org/abs/2310.19313v1](http://arxiv.org/abs/2310.19313v1)
 - 2023-10-29, **Out-of-distribution Object Detection through Bayesian Uncertainty Estimation**, Tianhao Zhang et.al., Paper: [http://arxiv.org/abs/2310.19119v1](http://arxiv.org/abs/2310.19119v1)
 - 2023-10-29, **Dynamic V2X Autonomous Perception from Road-to-Vehicle Vision**, Jiayao Tan et.al., Paper: [http://arxiv.org/abs/2310.19113v1](http://arxiv.org/abs/2310.19113v1)
 - 2023-10-29, **Astrometry with PRAIA**, M. Assafin et.al., Paper: [http://arxiv.org/abs/2310.18866v1](http://arxiv.org/abs/2310.18866v1)
@@ -5160,7 +5191,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20231101>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231102>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
