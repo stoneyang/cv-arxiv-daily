@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2023.11.02
+> Updated on 2023.11.03
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,16 @@
 
 ## pretrain
 
+- 2023-11-01, **Crosslingual Retrieval Augmented In-context Learning for Bangla**, Xiaoqian Li et.al., Paper: [http://arxiv.org/abs/2311.00587v1](http://arxiv.org/abs/2311.00587v1)
+- 2023-11-01, **MNN: Mixed Nearest-Neighbors for Self-Supervised Learning**, Chen Peng et.al., Paper: [http://arxiv.org/abs/2311.00562v1](http://arxiv.org/abs/2311.00562v1), Code: **[https://github.com/pc-cp/mnn](https://github.com/pc-cp/mnn)**
+- 2023-11-01, **Form follows Function: Text-to-Text Conditional Graph Generation based on Functional Requirements**, Peter A. Zachares et.al., Paper: [http://arxiv.org/abs/2311.00444v1](http://arxiv.org/abs/2311.00444v1)
+- 2023-11-01, **An analysis of large speech models-based representations for speech emotion recognition**, Adrian Bogdan Stânea et.al., Paper: [http://arxiv.org/abs/2311.00394v1](http://arxiv.org/abs/2311.00394v1)
+- 2023-11-01, **fMRI-PTE: A Large-scale fMRI Pretrained Transformer Encoder for Multi-Subject Brain Activity Decoding**, Xuelin Qian et.al., Paper: [http://arxiv.org/abs/2311.00342v1](http://arxiv.org/abs/2311.00342v1)
+- 2023-11-01, **Syntactic Inductive Bias in Transformer Language Models: Especially Helpful for Low-Resource Languages?**, Luke Gessler et.al., Paper: [http://arxiv.org/abs/2311.00268v1](http://arxiv.org/abs/2311.00268v1)
+- 2023-11-01, **ChatGPT-Powered Hierarchical Comparisons for Image Classification**, Zhiyuan Ren et.al., Paper: [http://arxiv.org/abs/2311.00206v1](http://arxiv.org/abs/2311.00206v1), Code: **[https://github.com/zhiyuan-r/chatgpt-powered-hierarchical-comparisons-for-image-classification](https://github.com/zhiyuan-r/chatgpt-powered-hierarchical-comparisons-for-image-classification)**
+- 2023-10-31, **Object-centric Video Representation for Long-term Action Anticipation**, Ce Zhang et.al., Paper: [http://arxiv.org/abs/2311.00180v1](http://arxiv.org/abs/2311.00180v1), Code: **[https://github.com/brown-palm/objectprompt](https://github.com/brown-palm/objectprompt)**
+- 2023-10-31, **ChipNeMo: Domain-Adapted LLMs for Chip Design**, Mingjie Liu et.al., Paper: [http://arxiv.org/abs/2311.00176v1](http://arxiv.org/abs/2311.00176v1)
+- 2023-10-31, **Neuroformer: Multimodal and Multitask Generative Pretraining for Brain Data**, Antonis Antoniades et.al., Paper: [http://arxiv.org/abs/2311.00136v1](http://arxiv.org/abs/2311.00136v1)
 - 2023-10-31, **Vanishing Gradients in Reinforcement Finetuning of Language Models**, Noam Razin et.al., Paper: [http://arxiv.org/abs/2310.20703v1](http://arxiv.org/abs/2310.20703v1)
 - 2023-10-31, **The Unreasonable Effectiveness of Random Target Embeddings for Continuous-Output Neural Machine Translation**, Evgeniia Tokarchuk et.al., Paper: [http://arxiv.org/abs/2310.20620v1](http://arxiv.org/abs/2310.20620v1)
 - 2023-10-31, **Increasing The Performance of Cognitively Inspired Data-Efficient Language Models via Implicit Structure Building**, Omar Momen et.al., Paper: [http://arxiv.org/abs/2310.20589v1](http://arxiv.org/abs/2310.20589v1)
@@ -1815,10 +1825,19 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20231102>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231103>back to top</a>)</p>
 
 ## downstream
 
+- 2023-11-01, **Latent Space Translation via Semantic Alignment**, Valentino Maiorca et.al., Paper: [http://arxiv.org/abs/2311.00664v1](http://arxiv.org/abs/2311.00664v1), Code: **[https://github.com/flegyas/latent-translation](https://github.com/flegyas/latent-translation)**
+- 2023-11-01, **Text Rendering Strategies for Pixel Language Models**, Jonas F. Lotz et.al., Paper: [http://arxiv.org/abs/2311.00522v1](http://arxiv.org/abs/2311.00522v1)
+- 2023-11-01, **Retrieval-Based Reconstruction For Time-series Contrastive Learning**, Maxwell A. Xu et.al., Paper: [http://arxiv.org/abs/2311.00519v1](http://arxiv.org/abs/2311.00519v1)
+- 2023-11-01, **Form follows Function: Text-to-Text Conditional Graph Generation based on Functional Requirements**, Peter A. Zachares et.al., Paper: [http://arxiv.org/abs/2311.00444v1](http://arxiv.org/abs/2311.00444v1)
+- 2023-11-01, **An analysis of large speech models-based representations for speech emotion recognition**, Adrian Bogdan Stânea et.al., Paper: [http://arxiv.org/abs/2311.00394v1](http://arxiv.org/abs/2311.00394v1)
+- 2023-11-01, **fMRI-PTE: A Large-scale fMRI Pretrained Transformer Encoder for Multi-Subject Brain Activity Decoding**, Xuelin Qian et.al., Paper: [http://arxiv.org/abs/2311.00342v1](http://arxiv.org/abs/2311.00342v1)
+- 2023-11-01, **AMSP: Super-Scaling LLM Training via Advanced Model States Partitioning**, Qiaoling Chen et.al., Paper: [http://arxiv.org/abs/2311.00257v1](http://arxiv.org/abs/2311.00257v1)
+- 2023-10-31, **Decodable and Sample Invariant Continuous Object Encoder**, Dehao Yuan et.al., Paper: [http://arxiv.org/abs/2311.00187v1](http://arxiv.org/abs/2311.00187v1), Code: **[https://github.com/dhyuan99/hdfe](https://github.com/dhyuan99/hdfe)**
+- 2023-10-31, **Neuroformer: Multimodal and Multitask Generative Pretraining for Brain Data**, Antonis Antoniades et.al., Paper: [http://arxiv.org/abs/2311.00136v1](http://arxiv.org/abs/2311.00136v1)
 - 2023-10-31, **Vanishing Gradients in Reinforcement Finetuning of Language Models**, Noam Razin et.al., Paper: [http://arxiv.org/abs/2310.20703v1](http://arxiv.org/abs/2310.20703v1)
 - 2023-10-31, **FLODCAST: Flow and Depth Forecasting via Multimodal Recurrent Architectures**, Andrea Ciamarra et.al., Paper: [http://arxiv.org/abs/2310.20593v1](http://arxiv.org/abs/2310.20593v1)
 - 2023-10-31, **AutoMixer for Improved Multivariate Time-Series Forecasting on BizITOps Data**, Santosh Palaskar et.al., Paper: [http://arxiv.org/abs/2310.20280v1](http://arxiv.org/abs/2310.20280v1)
@@ -3529,7 +3548,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20231102>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231103>back to top</a>)</p>
 
 ## adaptor
 
@@ -3600,10 +3619,17 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20231102>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231103>back to top</a>)</p>
 
 ## object detection
 
+- 2023-11-01, **TPSeNCE: Towards Artifact-Free Realistic Rain Generation for Deraining and Object Detection in Rain**, Shen Zheng et.al., Paper: [http://arxiv.org/abs/2311.00660v1](http://arxiv.org/abs/2311.00660v1), Code: **[https://github.com/shenzheng2000/tpsence](https://github.com/shenzheng2000/tpsence)**
+- 2023-11-01, **Enhancing Traffic Object Detection in Variable Illumination with RGB-Event Fusion**, Zhanwen Liu et.al., Paper: [http://arxiv.org/abs/2311.00436v1](http://arxiv.org/abs/2311.00436v1)
+- 2023-11-01, **Re-Scoring Using Image-Language Similarity for Few-Shot Object Detection**, Min Jae Jung et.al., Paper: [http://arxiv.org/abs/2311.00278v1](http://arxiv.org/abs/2311.00278v1)
+- 2023-10-31, **Object-centric Video Representation for Long-term Action Anticipation**, Ce Zhang et.al., Paper: [http://arxiv.org/abs/2311.00180v1](http://arxiv.org/abs/2311.00180v1), Code: **[https://github.com/brown-palm/objectprompt](https://github.com/brown-palm/objectprompt)**
+- 2023-10-31, **Spuriosity Rankings for Free: A Simple Framework for Last Layer Retraining Based on Object Detection**, Mohammad Azizmalayeri et.al., Paper: [http://arxiv.org/abs/2311.00079v1](http://arxiv.org/abs/2311.00079v1)
+- 2023-10-31, **YOLOv8-Based Visual Detection of Road Hazards: Potholes, Sewer Covers, and Manholes**, Om M. Khare et.al., Paper: [http://arxiv.org/abs/2311.00073v1](http://arxiv.org/abs/2311.00073v1)
+- 2023-10-31, **View Classification and Object Detection in Cardiac Ultrasound to Localize Valves via Deep Learning**, Derya Gol Gungor et.al., Paper: [http://arxiv.org/abs/2311.00068v1](http://arxiv.org/abs/2311.00068v1)
 - 2023-10-31, **GACE: Geometry Aware Confidence Enhancement for Black-Box 3D Object Detectors on LiDAR-Data**, David Schinagl et.al., Paper: [http://arxiv.org/abs/2310.20319v1](http://arxiv.org/abs/2310.20319v1), Code: **[https://github.com/dschinagl/gace](https://github.com/dschinagl/gace)**
 - 2023-10-31, **HEDNet: A Hierarchical Encoder-Decoder Network for 3D Object Detection in Point Clouds**, Gang Zhang et.al., Paper: [http://arxiv.org/abs/2310.20234v1](http://arxiv.org/abs/2310.20234v1), Code: **[https://github.com/zhanggang001/hednet](https://github.com/zhanggang001/hednet)**
 - 2023-10-31, **ZoomNeXt: A Unified Collaborative Pyramid Network for Camouflaged Object Detection**, Youwei Pang et.al., Paper: [http://arxiv.org/abs/2310.20208v1](http://arxiv.org/abs/2310.20208v1)
@@ -5191,7 +5217,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20231102>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231103>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
