@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.06
+## Updated on 2023.11.07
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-03**|**Leveraging Large-Scale Pretrained Vision Foundation Models for Label-Efficient 3D Point Cloud Segmentation**|Shichao Dong et.al.|[2311.01989v1](http://arxiv.org/abs/2311.01989v1)|null|
+|**2023-11-03**|**Generalization of Graph-Based Active Learning Relaxation Strategies Across Materials**|Xiaoxiao Wang et.al.|[2311.01987v1](http://arxiv.org/abs/2311.01987v1)|null|
+|**2023-11-03**|**The language of prompting: What linguistic properties make a prompt successful?**|Alina Leidinger et.al.|[2311.01967v1](http://arxiv.org/abs/2311.01967v1)|null|
+|**2023-11-03**|**ForecastPFN: Synthetically-Trained Zero-Shot Forecasting**|Samuel Dooley et.al.|[2311.01933v1](http://arxiv.org/abs/2311.01933v1)|**[link](https://github.com/abacusai/forecastpfn)**|
+|**2023-11-03**|**Towards Concept-Aware Large Language Models**|Chen Shani et.al.|[2311.01866v1](http://arxiv.org/abs/2311.01866v1)|null|
+|**2023-11-03**|**TCM-GPT: Efficient Pre-training of Large Language Models for Domain Adaptation in Traditional Chinese Medicine**|Guoxing Yang et.al.|[2311.01786v1](http://arxiv.org/abs/2311.01786v1)|null|
+|**2023-11-03**|**Data-Free Distillation of Language Model by Text-to-Text Transfer**|Zheyuan Bai et.al.|[2311.01689v1](http://arxiv.org/abs/2311.01689v1)|null|
 |**2023-11-02**|**Distilling Out-of-Distribution Robustness from Vision-Language Foundation Models**|Andy Zhou et.al.|[2311.01441v1](http://arxiv.org/abs/2311.01441v1)|**[link](https://github.com/andyz245/discreteadversarialdistillation)**|
 |**2023-11-02**|**Recognize Any Regions**|Haosen Yang et.al.|[2311.01373v1](http://arxiv.org/abs/2311.01373v1)|null|
 |**2023-11-02**|**Collaborative Large Language Model for Recommender Systems**|Yaochen Zhu et.al.|[2311.01343v1](http://arxiv.org/abs/2311.01343v1)|**[link](https://github.com/yaochenzhu/llm4rec)**|
@@ -1841,12 +1848,19 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231106>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231107>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-03**|**Hint-enhanced In-Context Learning wakes Large Language Models up for knowledge-intensive tasks**|Yifan Wang et.al.|[2311.01949v1](http://arxiv.org/abs/2311.01949v1)|null|
+|**2023-11-03**|**ProS: Facial Omni-Representation Learning via Prototype-based Self-Distillation**|Xing Di et.al.|[2311.01929v1](http://arxiv.org/abs/2311.01929v1)|null|
+|**2023-11-03**|**ChartGPT: Leveraging LLMs to Generate Charts from Abstract Natural Language**|Yuan Tian et.al.|[2311.01920v1](http://arxiv.org/abs/2311.01920v1)|null|
+|**2023-11-03**|**EmojiLM: Modeling the New Emoji Language**|Letian Peng et.al.|[2311.01751v1](http://arxiv.org/abs/2311.01751v1)|**[link](https://github.com/komeijiforce/emojilm)**|
+|**2023-11-03**|**Data-Free Distillation of Language Model by Text-to-Text Transfer**|Zheyuan Bai et.al.|[2311.01689v1](http://arxiv.org/abs/2311.01689v1)|null|
+|**2023-11-03**|**Disentangled Representation Learning with Transmitted Information Bottleneck**|Zhuohang Dang et.al.|[2311.01686v1](http://arxiv.org/abs/2311.01686v1)|null|
+|**2023-11-02**|**Improving Fairness using Vision-Language Driven Image Augmentation**|Moreno D'Incà et.al.|[2311.01573v1](http://arxiv.org/abs/2311.01573v1)|**[link](https://github.com/moreno98/vision-language-bias-control)**|
 |**2023-11-02**|**Align Your Prompts: Test-Time Prompting with Distribution Alignment for Zero-Shot Generalization**|Jameel Hassan et.al.|[2311.01459v1](http://arxiv.org/abs/2311.01459v1)|null|
 |**2023-11-02**|**Generating QM1B with PySCF$_{\text{IPU}}$**|Alexander Mathiasen et.al.|[2311.01135v1](http://arxiv.org/abs/2311.01135v1)|**[link](https://github.com/graphcore-research/pyscf-ipu)**|
 |**2023-11-02**|**Better with Less: A Data-Active Perspective on Pre-Training Graph Neural Networks**|Jiarong Xu et.al.|[2311.01038v1](http://arxiv.org/abs/2311.01038v1)|**[link](https://github.com/galina0217/apt)**|
@@ -3571,7 +3585,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20231106>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231107>back to top</a>)</p>
 
 ## adaptor
 
@@ -3644,12 +3658,18 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20231106>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231107>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-03**|**Towards Unsupervised Object Detection From LiDAR Point Clouds**|Lunjun Zhang et.al.|[2311.02007v1](http://arxiv.org/abs/2311.02007v1)|null|
+|**2023-11-03**|**Bridging the Gap between Multi-focus and Multi-modal: A Focused Integration Framework for Multi-modal Image Fusion**|Xilai Li et.al.|[2311.01886v1](http://arxiv.org/abs/2311.01886v1)|null|
+|**2023-11-03**|**Quantitative Evaluation of a Multi-Modal Camera Setup for Fusing Event Data with RGB Images**|Julian Moosmann et.al.|[2311.01881v1](http://arxiv.org/abs/2311.01881v1)|null|
+|**2023-11-03**|**Taking a PEEK into YOLOv5 for Satellite Component Recognition via Entropy-based Visual Explanations**|Mackenzie J. Meni et.al.|[2311.01703v1](http://arxiv.org/abs/2311.01703v1)|null|
+|**2023-11-03**|**Flow-Based Feature Fusion for Vehicle-Infrastructure Cooperative 3D Object Detection**|Haibao Yu et.al.|[2311.01682v1](http://arxiv.org/abs/2311.01682v1)|**[link](https://github.com/haibao-yu/ffnet-vic3d)**|
+|**2023-11-02**|**InsPLAD: A Dataset and Benchmark for Power Line Asset Inspection in UAV Images**|André Luiz Buarque Vieira e Silva et.al.|[2311.01619v1](http://arxiv.org/abs/2311.01619v1)|**[link](https://github.com/andreluizbvs/insplad)**|
 |**2023-11-02**|**Efficient Vision Transformer for Accurate Traffic Sign Detection**|Javad Mirzapour Kaleybar et.al.|[2311.01429v1](http://arxiv.org/abs/2311.01429v1)|null|
 |**2023-11-02**|**CenterRadarNet: Joint 3D Object Detection and Tracking Framework using 4D FMCW Radar**|Jen-Hao Cheng et.al.|[2311.01423v1](http://arxiv.org/abs/2311.01423v1)|null|
 |**2023-11-02**|**Recognize Any Regions**|Haosen Yang et.al.|[2311.01373v1](http://arxiv.org/abs/2311.01373v1)|null|
@@ -5253,7 +5273,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20231106>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231107>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
