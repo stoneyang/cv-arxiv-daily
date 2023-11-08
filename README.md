@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.07
+## Updated on 2023.11.08
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-06**|**Uni-O4: Unifying Online and Offline Deep Reinforcement Learning with Multi-Step On-Policy Optimization**|Kun Lei et.al.|[2311.03351v1](http://arxiv.org/abs/2311.03351v1)|null|
+|**2023-11-06**|**A Foundation Model for Music Informatics**|Minz Won et.al.|[2311.03318v1](http://arxiv.org/abs/2311.03318v1)|**[link](https://github.com/minzwon/musicfm)**|
+|**2023-11-06**|**S-LoRA: Serving Thousands of Concurrent LoRA Adapters**|Ying Sheng et.al.|[2311.03285v1](http://arxiv.org/abs/2311.03285v1)|null|
+|**2023-11-06**|**An Efficient Self-Supervised Cross-View Training For Sentence Embedding**|Peerat Limkonchotiwat et.al.|[2311.03228v1](http://arxiv.org/abs/2311.03228v1)|**[link](https://github.com/mrpeerat/sct)**|
+|**2023-11-06**|**LDM3D-VR: Latent Diffusion Model for 3D VR**|Gabriela Ben Melech Stan et.al.|[2311.03226v1](http://arxiv.org/abs/2311.03226v1)|null|
+|**2023-11-06**|**A Simple yet Efficient Ensemble Approach for AI-generated Text Detection**|Harika Abburi et.al.|[2311.03084v1](http://arxiv.org/abs/2311.03084v1)|null|
+|**2023-11-06**|**CogVLM: Visual Expert for Pretrained Language Models**|Weihan Wang et.al.|[2311.03079v1](http://arxiv.org/abs/2311.03079v1)|**[link](https://github.com/thudm/cogvlm)**|
+|**2023-11-06**|**SugarViT -- Multi-objective Regression of UAV Images with Vision Transformers and Deep Label Distribution Learning Demonstrated on Disease Severity Prediction in Sugar Beet**|Maurice Günder et.al.|[2311.03076v1](http://arxiv.org/abs/2311.03076v1)|null|
+|**2023-11-06**|**Masking Hyperspectral Imaging Data with Pretrained Models**|Elias Arbash et.al.|[2311.03053v1](http://arxiv.org/abs/2311.03053v1)|null|
+|**2023-11-06**|**The Pursuit of Human Labeling: A New Perspective on Unsupervised Learning**|Artyom Gadetsky et.al.|[2311.02940v1](http://arxiv.org/abs/2311.02940v1)|**[link](https://github.com/mlbio-epfl/hume)**|
 |**2023-11-03**|**Leveraging Large-Scale Pretrained Vision Foundation Models for Label-Efficient 3D Point Cloud Segmentation**|Shichao Dong et.al.|[2311.01989v1](http://arxiv.org/abs/2311.01989v1)|null|
 |**2023-11-03**|**Generalization of Graph-Based Active Learning Relaxation Strategies Across Materials**|Xiaoxiao Wang et.al.|[2311.01987v1](http://arxiv.org/abs/2311.01987v1)|null|
 |**2023-11-03**|**The language of prompting: What linguistic properties make a prompt successful?**|Alina Leidinger et.al.|[2311.01967v1](http://arxiv.org/abs/2311.01967v1)|null|
@@ -1844,12 +1854,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231107>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231108>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-06**|**GLaMM: Pixel Grounding Large Multimodal Model**|Hanoona Rasheed et.al.|[2311.03356v1](http://arxiv.org/abs/2311.03356v1)|null|
+|**2023-11-06**|**A Foundation Model for Music Informatics**|Minz Won et.al.|[2311.03318v1](http://arxiv.org/abs/2311.03318v1)|**[link](https://github.com/minzwon/musicfm)**|
+|**2023-11-06**|**Advancing Post Hoc Case Based Explanation with Feature Highlighting**|Eoin Kenny et.al.|[2311.03246v1](http://arxiv.org/abs/2311.03246v1)|null|
+|**2023-11-06**|**Asymmetric Masked Distillation for Pre-Training Small Foundation Models**|Zhiyu Zhao et.al.|[2311.03149v1](http://arxiv.org/abs/2311.03149v1)|null|
+|**2023-11-06**|**Unified Multi-modal Unsupervised Representation Learning for Skeleton-based Action Understanding**|Shengkai Sun et.al.|[2311.03106v1](http://arxiv.org/abs/2311.03106v1)|**[link](https://github.com/huiguanlab/umurl)**|
+|**2023-11-06**|**Tailoring Self-Rationalizers with Multi-Reward Distillation**|Sahana Ramnath et.al.|[2311.02805v1](http://arxiv.org/abs/2311.02805v1)|**[link](https://github.com/ink-usc/rationalemultirewarddistillation)**|
+|**2023-11-05**|**From molecules to scaffolds to functional groups: building context-dependent molecular representation via multi-channel learning**|Yue Wan et.al.|[2311.02798v1](http://arxiv.org/abs/2311.02798v1)|null|
+|**2023-11-05**|**ChEF: A Comprehensive Evaluation Framework for Standardized Assessment of Multimodal Large Language Models**|Zhelun Shi et.al.|[2311.02692v1](http://arxiv.org/abs/2311.02692v1)|**[link](https://github.com/openlamm/lamm)**|
+|**2023-11-05**|**Octavius: Mitigating Task Interference in MLLMs via MoE**|Zeren Chen et.al.|[2311.02684v1](http://arxiv.org/abs/2311.02684v1)|null|
+|**2023-11-05**|**A Critical Perceptual Pre-trained Model for Complex Trajectory Recovery**|Dedong Li et.al.|[2311.02631v1](http://arxiv.org/abs/2311.02631v1)|null|
 |**2023-11-03**|**Hint-enhanced In-Context Learning wakes Large Language Models up for knowledge-intensive tasks**|Yifan Wang et.al.|[2311.01949v1](http://arxiv.org/abs/2311.01949v1)|null|
 |**2023-11-03**|**ProS: Facial Omni-Representation Learning via Prototype-based Self-Distillation**|Xing Di et.al.|[2311.01929v1](http://arxiv.org/abs/2311.01929v1)|null|
 |**2023-11-03**|**ChartGPT: Leveraging LLMs to Generate Charts from Abstract Natural Language**|Yuan Tian et.al.|[2311.01920v1](http://arxiv.org/abs/2311.01920v1)|null|
@@ -3581,7 +3601,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20231107>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231108>back to top</a>)</p>
 
 ## adaptor
 
@@ -3654,12 +3674,19 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20231107>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231108>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-06**|**Segmentation of Drone Collision Hazards in Airborne RADAR Point Clouds Using PointNet**|Hector Arroyo et.al.|[2311.03221v1](http://arxiv.org/abs/2311.03221v1)|null|
+|**2023-11-06**|**Masking Hyperspectral Imaging Data with Pretrained Models**|Elias Arbash et.al.|[2311.03053v1](http://arxiv.org/abs/2311.03053v1)|null|
+|**2023-11-05**|**Scenario Diffusion: Controllable Driving Scenario Generation With Diffusion**|Ethan Pronovost et.al.|[2311.02738v1](http://arxiv.org/abs/2311.02738v1)|null|
+|**2023-11-05**|**ISAR: A Benchmark for Single- and Few-Shot Object Instance Segmentation and Re-Identification**|Nicolas Gorlo et.al.|[2311.02734v1](http://arxiv.org/abs/2311.02734v1)|null|
+|**2023-11-05**|**TokenMotion: Motion-Guided Vision Transformer for Video Camouflaged Object Detection Via Learnable Token Selection**|Zifan Yu et.al.|[2311.02535v1](http://arxiv.org/abs/2311.02535v1)|null|
+|**2023-11-04**|**Proposal-Level Unsupervised Domain Adaptation for Open World Unbiased Detector**|Xuanyi Liu et.al.|[2311.02342v1](http://arxiv.org/abs/2311.02342v1)|**[link](https://github.com/lxycopper/plu)**|
+|**2023-11-03**|**Patch-based Selection and Refinement for Early Object Detection**|Tianyi Zhang et.al.|[2311.02274v1](http://arxiv.org/abs/2311.02274v1)|null|
 |**2023-11-03**|**Towards Unsupervised Object Detection From LiDAR Point Clouds**|Lunjun Zhang et.al.|[2311.02007v1](http://arxiv.org/abs/2311.02007v1)|null|
 |**2023-11-03**|**Bridging the Gap between Multi-focus and Multi-modal: A Focused Integration Framework for Multi-modal Image Fusion**|Xilai Li et.al.|[2311.01886v1](http://arxiv.org/abs/2311.01886v1)|null|
 |**2023-11-03**|**Quantitative Evaluation of a Multi-Modal Camera Setup for Fusing Event Data with RGB Images**|Julian Moosmann et.al.|[2311.01881v1](http://arxiv.org/abs/2311.01881v1)|null|
@@ -5269,7 +5296,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20231107>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231108>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
