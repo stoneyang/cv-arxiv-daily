@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.15
+## Updated on 2023.11.16
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-14**|**Open-vocabulary keyword spotting in any language through multilingual contrastive speech-phoneme pretraining**|Jian Zhu et.al.|[2311.08323v1](http://arxiv.org/abs/2311.08323v1)|null|
+|**2023-11-14**|**ARTEMIS: Using GANs with Multiple Discriminators to Generate Art**|James Baker et.al.|[2311.08278v1](http://arxiv.org/abs/2311.08278v1)|null|
+|**2023-11-14**|**Investigating the Encoding of Words in BERT's Neurons using Feature Textualization**|Tanja Baeumel et.al.|[2311.08240v1](http://arxiv.org/abs/2311.08240v1)|null|
+|**2023-11-14**|**Unlock the Power: Competitive Distillation for Multi-Modal Large Language Models**|Xinwei Li et.al.|[2311.08213v1](http://arxiv.org/abs/2311.08213v1)|null|
+|**2023-11-14**|**A Survey on Language Models for Code**|Ziyin Zhang et.al.|[2311.07989v1](http://arxiv.org/abs/2311.07989v1)|**[link](https://github.com/codefuse-ai/awesome-code-llm)**|
+|**2023-11-14**|**Test-Time Training for Semantic Segmentation with Output Contrastive Loss**|Yunlong Zhang et.al.|[2311.07877v1](http://arxiv.org/abs/2311.07877v1)|**[link](https://github.com/dazhangyu123/ocl)**|
+|**2023-11-14**|**Probing clustering in neural network representations**|Thao Nguyen et.al.|[2311.07864v1](http://arxiv.org/abs/2311.07864v1)|null|
+|**2023-11-14**|**Overview of the TREC 2023 Product Product Search Track**|Daniel Campos et.al.|[2311.07861v1](http://arxiv.org/abs/2311.07861v1)|null|
+|**2023-11-14**|**Learning Mutually Informed Representations for Characters and Subwords**|Yilin Wang et.al.|[2311.07853v1](http://arxiv.org/abs/2311.07853v1)|null|
+|**2023-11-13**|**IruMozhi: Automatically classifying diglossia in Tamil**|Kabilan Prasanna et.al.|[2311.07804v1](http://arxiv.org/abs/2311.07804v1)|null|
 |**2023-11-13**|**Masked Face Dataset Generation and Masked Face Recognition**|Rui Cai et.al.|[2311.07475v1](http://arxiv.org/abs/2311.07475v1)|**[link](https://github.com/luisrui/seeing-ai-system)**|
 |**2023-11-13**|**Are We Falling in a Middle-Intelligence Trap? An Analysis and Mitigation of the Reversal Curse**|Ang Lv et.al.|[2311.07468v1](http://arxiv.org/abs/2311.07468v1)|null|
 |**2023-11-13**|**Language Grounded QFormer for Efficient Vision Language Understanding**|Moulik Choraria et.al.|[2311.07449v1](http://arxiv.org/abs/2311.07449v1)|null|
@@ -1889,12 +1899,21 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231115>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231116>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-14**|**Radio Galaxy Zoo: Leveraging latent space representations from variational autoencoder**|Sambatra Andrianomena et.al.|[2311.08331v1](http://arxiv.org/abs/2311.08331v1)|null|
+|**2023-11-14**|**Eval-GCSC: A New Metric for Evaluating ChatGPT's Performance in Chinese Spelling Correction**|Kunting Li et.al.|[2311.08219v1](http://arxiv.org/abs/2311.08219v1)|**[link](https://github.com/ktlktl/eval-gcsc)**|
+|**2023-11-14**|**Learning based Deep Disentangling Light Field Reconstruction and Disparity Estimation Application**|Langqing Shi et.al.|[2311.08129v1](http://arxiv.org/abs/2311.08129v1)|null|
+|**2023-11-14**|**Carpe Diem: On the Evaluation of World Knowledge in Lifelong Language Models**|Yujin Kim et.al.|[2311.08106v1](http://arxiv.org/abs/2311.08106v1)|null|
+|**2023-11-14**|**How to get better embeddings with code pre-trained models? An empirical study**|Yu Zhao et.al.|[2311.08066v1](http://arxiv.org/abs/2311.08066v1)|null|
+|**2023-11-14**|**Language Models are Better Bug Detector Through Code-Pair Classification**|Kamel Alrashedy et.al.|[2311.07957v1](http://arxiv.org/abs/2311.07957v1)|**[link](https://github.com/kamel773/code_pair_classification)**|
+|**2023-11-14**|**PEMS: Pre-trained Epidmic Time-series Models**|Harshavardhan Kamarthi et.al.|[2311.07841v1](http://arxiv.org/abs/2311.07841v1)|null|
+|**2023-11-13**|**Amodal Optical Flow**|Maximilian Luz et.al.|[2311.07761v1](http://arxiv.org/abs/2311.07761v1)|null|
+|**2023-11-13**|**Dynamic Local Attention with Hierarchical Patching for Irregular Clinical Time Series**|Xingyu Chen et.al.|[2311.07744v1](http://arxiv.org/abs/2311.07744v1)|null|
 |**2023-11-13**|**Robust semi-supervised segmentation with timestep ensembling diffusion models**|Margherita Rosnati et.al.|[2311.07421v1](http://arxiv.org/abs/2311.07421v1)|null|
 |**2023-11-13**|**SpectralGPT: Spectral Foundation Model**|Danfeng Hong et.al.|[2311.07113v1](http://arxiv.org/abs/2311.07113v1)|null|
 |**2023-11-13**|**ExpNote: Black-box Large Language Models are Better Task Solvers with Experience Notebook**|Wangtao Sun et.al.|[2311.07032v1](http://arxiv.org/abs/2311.07032v1)|**[link](https://github.com/forangel2014/expnote)**|
@@ -3657,12 +3676,13 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20231115>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231116>back to top</a>)</p>
 
 ## adaptor
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-11**|**Finetuning Text-to-Image Diffusion Models for Fairness**|Xudong Shen et.al.|[2311.07604v1](http://arxiv.org/abs/2311.07604v1)|null|
 |**2023-11-11**|**Exploiting Image-Related Inductive Biases in Single-Branch Visual Tracking**|Chuanming Tang et.al.|[2310.19542v2](http://arxiv.org/abs/2310.19542v2)|null|
 |**2023-10-31**|**LoRAShear: Efficient Large Language Model Structured Pruning and Knowledge Recovery**|Tianyi Chen et.al.|[2310.18356v2](http://arxiv.org/abs/2310.18356v2)|null|
 |**2023-10-17**|**SODA: Robust Training of Test-Time Data Adaptors**|Zige Wang et.al.|[2310.11093v1](http://arxiv.org/abs/2310.11093v1)|**[link](https://github.com/tmlr-group/soda)**|
@@ -3730,12 +3750,18 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20231115>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231116>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-14**|**GMTR: Graph Matching Transformers**|Jinpei Guo et.al.|[2311.08141v1](http://arxiv.org/abs/2311.08141v1)|null|
+|**2023-11-14**|**Identifying Light-curve Signals with a Deep Learning Based Object Detection Algorithm. II. A General Light Curve Classification Framework**|Kaiming Cui et.al.|[2311.08080v1](http://arxiv.org/abs/2311.08080v1)|**[link](https://github.com/ckm3/deep-lc)**|
+|**2023-11-14**|**Contrastive Learning for Multi-Object Tracking with Transformers**|Pierre-François De Plaen et.al.|[2311.08043v1](http://arxiv.org/abs/2311.08043v1)|null|
+|**2023-11-14**|**Deep Learning-Based Object Detection in Maritime Unmanned Aerial Vehicle Imagery: Review and Experimental Comparisons**|Chenjie Zhao et.al.|[2311.07955v1](http://arxiv.org/abs/2311.07955v1)|null|
+|**2023-11-14**|**Towards Improving Robustness Against Common Corruptions in Object Detectors Using Adversarial Contrastive Learning**|Shashank Kotyan et.al.|[2311.07928v1](http://arxiv.org/abs/2311.07928v1)|null|
+|**2023-11-14**|**Enabling Decision-Support Systems through Automated Cell Tower Detection**|Natasha Krell et.al.|[2311.07840v1](http://arxiv.org/abs/2311.07840v1)|null|
 |**2023-11-13**|**ViKi-HyCo: A Hybrid-Control approach for complex car-like maneuvers**|Edison P. Velasco-Sánchez et.al.|[2311.07268v1](http://arxiv.org/abs/2311.07268v1)|null|
 |**2023-11-13**|**Enhancing Lightweight Neural Networks for Small Object Detection in IoT Applications**|Liam Boyle et.al.|[2311.07163v1](http://arxiv.org/abs/2311.07163v1)|null|
 |**2023-11-13**|**Detecting As Labeling: Rethinking LiDAR-camera Fusion in 3D Object Detection**|Junjie Huang et.al.|[2311.07152v1](http://arxiv.org/abs/2311.07152v1)|**[link](https://github.com/HuangJunJie2017/BEVDet)**|
@@ -5386,7 +5412,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20231115>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231116>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
