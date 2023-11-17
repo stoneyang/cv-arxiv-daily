@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.16
+## Updated on 2023.11.17
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-15**|**Single-Image 3D Human Digitization with Shape-Guided Diffusion**|Badour AlBahar et.al.|[2311.09221v1](http://arxiv.org/abs/2311.09221v1)|null|
+|**2023-11-15**|**TableLlama: Towards Open Large Generalist Models for Tables**|Tianshu Zhang et.al.|[2311.09206v1](http://arxiv.org/abs/2311.09206v1)|null|
+|**2023-11-15**|**Do Localization Methods Actually Localize Memorized Data in LLMs?**|Ting-Yun Chang et.al.|[2311.09060v1](http://arxiv.org/abs/2311.09060v1)|null|
+|**2023-11-15**|**Data Similarity is Not Enough to Explain Language Model Performance**|Gregory Yauney et.al.|[2311.09006v1](http://arxiv.org/abs/2311.09006v1)|**[link](https://github.com/gyauney/data-similarity-is-not-enough)**|
+|**2023-11-15**|**Incremental Object-Based Novelty Detection with Feedback Loop**|Simone Caldarella et.al.|[2311.09004v1](http://arxiv.org/abs/2311.09004v1)|null|
+|**2023-11-15**|**OFA: A Framework of Initializing Unseen Subword Embeddings for Efficient Large-scale Multilingual Continued Pretraining**|Yihong Liu et.al.|[2311.08849v1](http://arxiv.org/abs/2311.08849v1)|null|
+|**2023-11-15**|**An Eye on Clinical BERT: Investigating Language Model Generalization for Diabetic Eye Disease Phenotyping**|Keith Harrigian et.al.|[2311.08687v1](http://arxiv.org/abs/2311.08687v1)|null|
+|**2023-11-15**|**Multistage Collaborative Knowledge Distillation from Large Language Models**|Jiachen Zhao et.al.|[2311.08640v1](http://arxiv.org/abs/2311.08640v1)|null|
+|**2023-11-14**|**Unsupervised segmentation of irradiation$\unicode{x2010}$induced order$\unicode{x2010}$disorder phase transitions in electron microscopy**|Arman H Ter-Petrosyan et.al.|[2311.08585v1](http://arxiv.org/abs/2311.08585v1)|null|
+|**2023-11-14**|**UT5: Pretraining Non autoregressive T5 with unrolled denoising**|Mahmoud G. Salem et.al.|[2311.08552v1](http://arxiv.org/abs/2311.08552v1)|null|
 |**2023-11-14**|**Open-vocabulary keyword spotting in any language through multilingual contrastive speech-phoneme pretraining**|Jian Zhu et.al.|[2311.08323v1](http://arxiv.org/abs/2311.08323v1)|null|
 |**2023-11-14**|**ARTEMIS: Using GANs with Multiple Discriminators to Generate Art**|James Baker et.al.|[2311.08278v1](http://arxiv.org/abs/2311.08278v1)|null|
 |**2023-11-14**|**Investigating the Encoding of Words in BERT's Neurons using Feature Textualization**|Tanja Baeumel et.al.|[2311.08240v1](http://arxiv.org/abs/2311.08240v1)|null|
@@ -1903,12 +1913,22 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231116>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231117>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-15**|**Domain Aligned CLIP for Few-shot Classification**|Muhammad Waleed Gondal et.al.|[2311.09191v1](http://arxiv.org/abs/2311.09191v1)|null|
+|**2023-11-15**|**SiRA: Sparse Mixture of Low Rank Adaptation**|Yun Zhu et.al.|[2311.09179v1](http://arxiv.org/abs/2311.09179v1)|null|
+|**2023-11-15**|**Cross-view and Cross-pose Completion for 3D Human Understanding**|Matthieu Armando et.al.|[2311.09104v1](http://arxiv.org/abs/2311.09104v1)|null|
+|**2023-11-15**|**Data Similarity is Not Enough to Explain Language Model Performance**|Gregory Yauney et.al.|[2311.09006v1](http://arxiv.org/abs/2311.09006v1)|**[link](https://github.com/gyauney/data-similarity-is-not-enough)**|
+|**2023-11-15**|**Reasoning over Description Logic-based Contexts with Transformers**|Angelos Poulis et.al.|[2311.08941v1](http://arxiv.org/abs/2311.08941v1)|null|
+|**2023-11-15**|**OFA: A Framework of Initializing Unseen Subword Embeddings for Efficient Large-scale Multilingual Continued Pretraining**|Yihong Liu et.al.|[2311.08849v1](http://arxiv.org/abs/2311.08849v1)|null|
+|**2023-11-15**|**Self-Supervised Disentanglement by Leveraging Structure in Data Augmentations**|Cian Eastwood et.al.|[2311.08815v1](http://arxiv.org/abs/2311.08815v1)|null|
+|**2023-11-15**|**German FinBERT: A German Pre-trained Language Model**|Moritz Scherrmann et.al.|[2311.08793v1](http://arxiv.org/abs/2311.08793v1)|null|
+|**2023-11-15**|**Safer-Instruct: Aligning Language Models with Automated Preference Data**|Taiwei Shi et.al.|[2311.08685v1](http://arxiv.org/abs/2311.08685v1)|**[link](https://github.com/uscnlp-lime/safer-instruct)**|
+|**2023-11-14**|**PEMA: Plug-in External Memory Adaptation for Language Models**|HyunJin Kim et.al.|[2311.08590v1](http://arxiv.org/abs/2311.08590v1)|null|
 |**2023-11-14**|**Radio Galaxy Zoo: Leveraging latent space representations from variational autoencoder**|Sambatra Andrianomena et.al.|[2311.08331v1](http://arxiv.org/abs/2311.08331v1)|null|
 |**2023-11-14**|**Eval-GCSC: A New Metric for Evaluating ChatGPT's Performance in Chinese Spelling Correction**|Kunting Li et.al.|[2311.08219v1](http://arxiv.org/abs/2311.08219v1)|**[link](https://github.com/ktlktl/eval-gcsc)**|
 |**2023-11-14**|**Learning based Deep Disentangling Light Field Reconstruction and Disparity Estimation Application**|Langqing Shi et.al.|[2311.08129v1](http://arxiv.org/abs/2311.08129v1)|null|
@@ -3680,7 +3700,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20231116>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231117>back to top</a>)</p>
 
 ## adaptor
 
@@ -3754,16 +3774,21 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20231116>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231117>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-15**|**Applications of Computer Vision in Autonomous Vehicles: Methods, Challenges and Future Directions**|Xingshuai Dong et.al.|[2311.09093v1](http://arxiv.org/abs/2311.09093v1)|null|
+|**2023-11-15**|**Incremental Object-Based Novelty Detection with Feedback Loop**|Simone Caldarella et.al.|[2311.09004v1](http://arxiv.org/abs/2311.09004v1)|null|
+|**2023-11-15**|**Scalable Federated Learning for Clients with Different Input Image Sizes and Numbers of Output Categories**|Shuhei Nitta et.al.|[2311.08716v1](http://arxiv.org/abs/2311.08716v1)|null|
+|**2023-11-14**|**Physical Adversarial Examples for Multi-Camera Systems**|Ana Răduţoiu et.al.|[2311.08539v1](http://arxiv.org/abs/2311.08539v1)|null|
+|**2023-11-14**|**LocaliseBot: Multi-view 3D object localisation with differentiable rendering for robot grasping**|Sujal Vijayaraghavan et.al.|[2311.08438v1](http://arxiv.org/abs/2311.08438v1)|null|
 |**2023-11-14**|**GMTR: Graph Matching Transformers**|Jinpei Guo et.al.|[2311.08141v1](http://arxiv.org/abs/2311.08141v1)|null|
 |**2023-11-14**|**Identifying Light-curve Signals with a Deep Learning Based Object Detection Algorithm. II. A General Light Curve Classification Framework**|Kaiming Cui et.al.|[2311.08080v1](http://arxiv.org/abs/2311.08080v1)|**[link](https://github.com/ckm3/deep-lc)**|
 |**2023-11-14**|**Contrastive Learning for Multi-Object Tracking with Transformers**|Pierre-François De Plaen et.al.|[2311.08043v1](http://arxiv.org/abs/2311.08043v1)|null|
-|**2023-11-14**|**Deep Learning-Based Object Detection in Maritime Unmanned Aerial Vehicle Imagery: Review and Experimental Comparisons**|Chenjie Zhao et.al.|[2311.07955v1](http://arxiv.org/abs/2311.07955v1)|null|
+|**2023-11-15**|**Deep Learning-Based Object Detection in Maritime Unmanned Aerial Vehicle Imagery: Review and Experimental Comparisons**|Chenjie Zhao et.al.|[2311.07955v2](http://arxiv.org/abs/2311.07955v2)|null|
 |**2023-11-14**|**Towards Improving Robustness Against Common Corruptions in Object Detectors Using Adversarial Contrastive Learning**|Shashank Kotyan et.al.|[2311.07928v1](http://arxiv.org/abs/2311.07928v1)|null|
 |**2023-11-14**|**Enabling Decision-Support Systems through Automated Cell Tower Detection**|Natasha Krell et.al.|[2311.07840v1](http://arxiv.org/abs/2311.07840v1)|null|
 |**2023-11-13**|**ViKi-HyCo: A Hybrid-Control approach for complex car-like maneuvers**|Edison P. Velasco-Sánchez et.al.|[2311.07268v1](http://arxiv.org/abs/2311.07268v1)|null|
@@ -5416,7 +5441,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20231116>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231117>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
