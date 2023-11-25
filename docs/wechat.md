@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2023.11.24
+> Updated on 2023.11.25
 
 <details>
   <summary>Table of Contents</summary>
@@ -22,7 +22,7 @@
 - 2023-11-22, **High-Quality Face Caricature via Style Translation**, Lamyanba Laishram et.al., Paper: [http://arxiv.org/abs/2311.13338v1](http://arxiv.org/abs/2311.13338v1)
 - 2023-11-22, **FedFN: Feature Normalization for Alleviating Data Heterogeneity Problem in Federated Learning**, Seongyoon Kim et.al., Paper: [http://arxiv.org/abs/2311.13267v1](http://arxiv.org/abs/2311.13267v1)
 - 2023-11-22, **On the Calibration of Large Language Models and Alignment**, Chiwei Zhu et.al., Paper: [http://arxiv.org/abs/2311.13240v1](http://arxiv.org/abs/2311.13240v1)
-- 2023-11-22, **Volumetric Reconstruction Resolves Off-Resonance Artifacts in Static and Dynamic PROPELLER MRI**, Annesha Ghosh et.al., Paper: [http://arxiv.org/abs/2311.13177v1](http://arxiv.org/abs/2311.13177v1)
+- 2023-11-22, **Volumetric Reconstruction Resolves Off-Resonance Artifacts in Static and Dynamic PROPELLER MRI**, Annesha Ghosh et.al., Paper: [http://arxiv.org/abs/2311.13177v1](http://arxiv.org/abs/2311.13177v1), Code: **[https://github.com/sarafridov/volumetric-propeller](https://github.com/sarafridov/volumetric-propeller)**
 - 2023-11-22, **GENET: Unleashing the Power of Side Information for Recommendation via Hypergraph Pre-training**, Yang Li et.al., Paper: [http://arxiv.org/abs/2311.13121v1](http://arxiv.org/abs/2311.13121v1)
 - 2023-11-21, **Diffusion Model Alignment Using Direct Preference Optimization**, Bram Wallace et.al., Paper: [http://arxiv.org/abs/2311.12908v1](http://arxiv.org/abs/2311.12908v1)
 - 2023-11-21, **Mechanistically analyzing the effects of fine-tuning on procedurally defined tasks**, Samyak Jain et.al., Paper: [http://arxiv.org/abs/2311.12786v1](http://arxiv.org/abs/2311.12786v1)
@@ -1948,18 +1948,18 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20231124>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231125>back to top</a>)</p>
 
 ## downstream
 
 - 2023-11-22, **Guided Flows for Generative Modeling and Decision Making**, Qinqing Zheng et.al., Paper: [http://arxiv.org/abs/2311.13443v1](http://arxiv.org/abs/2311.13443v1)
 - 2023-11-22, **Test-Time Augmentation for 3D Point Cloud Classification and Segmentation**, Tuan-Anh Vu et.al., Paper: [http://arxiv.org/abs/2311.13152v1](http://arxiv.org/abs/2311.13152v1)
-- 2023-11-21, **Camera-Independent Single Image Depth Estimation from Defocus Blur**, Lahiru Wijayasingha et.al., Paper: [http://arxiv.org/abs/2311.13045v1](http://arxiv.org/abs/2311.13045v1)
+- 2023-11-21, **Camera-Independent Single Image Depth Estimation from Defocus Blur**, Lahiru Wijayasingha et.al., Paper: [http://arxiv.org/abs/2311.13045v1](http://arxiv.org/abs/2311.13045v1), Code: **[https://github.com/sleekeagle/defocus_camind](https://github.com/sleekeagle/defocus_camind)**
 - 2023-11-21, **Mechanistically analyzing the effects of fine-tuning on procedurally defined tasks**, Samyak Jain et.al., Paper: [http://arxiv.org/abs/2311.12786v1](http://arxiv.org/abs/2311.12786v1)
 - 2023-11-21, **Prompting Frameworks for Large Language Models: A Survey**, Xiaoxia Liu et.al., Paper: [http://arxiv.org/abs/2311.12785v1](http://arxiv.org/abs/2311.12785v1)
 - 2023-11-21, **BEND: Benchmarking DNA Language Models on biologically meaningful tasks**, Frederikke Isa Marin et.al., Paper: [http://arxiv.org/abs/2311.12570v1](http://arxiv.org/abs/2311.12570v1), Code: **[https://github.com/frederikkemarin/bend](https://github.com/frederikkemarin/bend)**
-- 2023-11-21, **PhayaThaiBERT: Enhancing a Pretrained Thai Language Model with Unassimilated Loanwords**, Panyut Sriwirote et.al., Paper: [http://arxiv.org/abs/2311.12475v1](http://arxiv.org/abs/2311.12475v1)
-- 2023-11-21, **Demystifying Graph Sparsification Algorithms in Graph Properties Preservation**, Yuhan Chen et.al., Paper: [http://arxiv.org/abs/2311.12314v1](http://arxiv.org/abs/2311.12314v1)
+- 2023-11-21, **PhayaThaiBERT: Enhancing a Pretrained Thai Language Model with Unassimilated Loanwords**, Panyut Sriwirote et.al., Paper: [http://arxiv.org/abs/2311.12475v1](http://arxiv.org/abs/2311.12475v1), Code: **[https://github.com/clicknext-ai/phayathaibert](https://github.com/clicknext-ai/phayathaibert)**
+- 2023-11-21, **Demystifying Graph Sparsification Algorithms in Graph Properties Preservation**, Yuhan Chen et.al., Paper: [http://arxiv.org/abs/2311.12314v1](http://arxiv.org/abs/2311.12314v1), Code: **[https://github.com/yuhanchan/sparsification](https://github.com/yuhanchan/sparsification)**
 - 2023-11-20, **BadCLIP: Dual-Embedding Guided Backdoor Attack on Multimodal Contrastive Learning**, Siyuan Liang et.al., Paper: [http://arxiv.org/abs/2311.12075v1](http://arxiv.org/abs/2311.12075v1)
 - 2023-11-20, **AMES: A Differentiable Embedding Space Selection Framework for Latent Graph Inference**, Yuan Lu et.al., Paper: [http://arxiv.org/abs/2311.11891v1](http://arxiv.org/abs/2311.11891v1)
 - 2023-11-20, **MUVO: A Multimodal Generative World Model for Autonomous Driving with Geometric Representations**, Daniel Bogdoll et.al., Paper: [http://arxiv.org/abs/2311.11762v1](http://arxiv.org/abs/2311.11762v1)
@@ -3764,7 +3764,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20231124>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231125>back to top</a>)</p>
 
 ## adaptor
 
@@ -3837,7 +3837,7 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20231124>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231125>back to top</a>)</p>
 
 ## object detection
 
@@ -3845,7 +3845,7 @@
 - 2023-11-22, **DoubleAUG: Single-domain Generalized Object Detector in Urban via Color Perturbation and Dual-style Memory**, Lei Qi et.al., Paper: [http://arxiv.org/abs/2311.13198v1](http://arxiv.org/abs/2311.13198v1)
 - 2023-11-22, **P2RBox: A Single Point is All You Need for Oriented Object Detection**, Guangming Cao et.al., Paper: [http://arxiv.org/abs/2311.13128v1](http://arxiv.org/abs/2311.13128v1)
 - 2023-11-21, **Do we listen to what we are told? An empirical study on human behaviour during the COVID-19 pandemic: neural networks vs. regression analysis**, Yuxi Heluo et.al., Paper: [http://arxiv.org/abs/2311.13046v1](http://arxiv.org/abs/2311.13046v1)
-- 2023-11-21, **Innovative Horizons in Aerial Imagery: LSKNet Meets DiffusionDet for Advanced Object Detection**, Ahmed Sharshar et.al., Paper: [http://arxiv.org/abs/2311.12956v1](http://arxiv.org/abs/2311.12956v1)
+- 2023-11-21, **Innovative Horizons in Aerial Imagery: LSKNet Meets DiffusionDet for Advanced Object Detection**, Ahmed Sharshar et.al., Paper: [http://arxiv.org/abs/2311.12956v1](http://arxiv.org/abs/2311.12956v1), Code: **[https://github.com/sashamatsun/lskdiffdet](https://github.com/sashamatsun/lskdiffdet)**
 - 2023-11-22, **Investigating Weight-Perturbed Deep Neural Networks With Application in Iris Presentation Attack Detection**, Renu Sharma et.al., Paper: [http://arxiv.org/abs/2311.12764v2](http://arxiv.org/abs/2311.12764v2), Code: **[https://github.com/redwankarimsony/weightperturbation-msu](https://github.com/redwankarimsony/weightperturbation-msu)**
 - 2023-11-21, **LiFi: Learn to Incentivize Federated Learning in Automotive Edge Computing**, Ming Zhao et.al., Paper: [http://arxiv.org/abs/2311.12720v1](http://arxiv.org/abs/2311.12720v1)
 - 2023-11-21, **Cascade Learning Localises Discriminant Features in Visual Scene Classification**, Junwen Wang et.al., Paper: [http://arxiv.org/abs/2311.12704v1](http://arxiv.org/abs/2311.12704v1)
@@ -5532,7 +5532,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20231124>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231125>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
