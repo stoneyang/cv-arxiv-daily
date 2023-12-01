@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.30
+## Updated on 2023.12.01
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-29**|**A Simple Recipe for Language-guided Domain Generalized Segmentation**|Mohammad Fahes et.al.|[2311.17922v1](http://arxiv.org/abs/2311.17922v1)|null|
+|**2023-11-29**|**Betrayed by Attention: A Simple yet Effective Approach for Self-supervised Video Object Segmentation**|Shuangrui Ding et.al.|[2311.17893v1](http://arxiv.org/abs/2311.17893v1)|null|
+|**2023-11-29**|**Evaluating VLMs for Score-Based, Multi-Probe Annotation of 3D Objects**|Rishabh Kabra et.al.|[2311.17851v1](http://arxiv.org/abs/2311.17851v1)|null|
+|**2023-11-29**|**SPiC-E : Structural Priors in 3D Diffusion Models using Cross Entity Attention**|Etai Sella et.al.|[2311.17834v1](http://arxiv.org/abs/2311.17834v1)|null|
+|**2023-11-29**|**DAP: Domain-aware Prompt Learning for Vision-and-Language Navigation**|Ting Liu et.al.|[2311.17812v1](http://arxiv.org/abs/2311.17812v1)|null|
+|**2023-11-29**|**PillarNeSt: Embracing Backbone Scaling and Pretraining for Pillar-based 3D Object Detection**|Weixin Mao et.al.|[2311.17770v1](http://arxiv.org/abs/2311.17770v1)|null|
+|**2023-11-29**|**SAMPro3D: Locating SAM Prompts in 3D for Zero-Shot Scene Segmentation**|Mutian Xu et.al.|[2311.17707v1](http://arxiv.org/abs/2311.17707v1)|null|
+|**2023-11-29**|**Vulnerability of Automatic Identity Recognition to Audio-Visual Deepfakes**|Pavel Korshunov et.al.|[2311.17655v1](http://arxiv.org/abs/2311.17655v1)|null|
+|**2023-11-29**|**Continual Learning with Low Rank Adaptation**|Martin Wistuba et.al.|[2311.17601v1](http://arxiv.org/abs/2311.17601v1)|null|
+|**2023-11-29**|**HiDiffusion: Unlocking High-Resolution Creativity and Efficiency in Low-Resolution Trained Diffusion Models**|Shen Zhang et.al.|[2311.17528v1](http://arxiv.org/abs/2311.17528v1)|null|
 |**2023-11-28**|**Self-Supervised Motion Magnification by Backpropagating Through Optical Flow**|Zhaoying Pan et.al.|[2311.17056v1](http://arxiv.org/abs/2311.17056v1)|null|
 |**2023-11-28**|**Surf-D: High-Quality Surface Generation for Arbitrary Topologies using Diffusion Models**|Zhengming Yu et.al.|[2311.17050v1](http://arxiv.org/abs/2311.17050v1)|null|
 |**2023-11-28**|**MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training**|Pavan Kumar Anasosalu Vasu et.al.|[2311.17049v1](http://arxiv.org/abs/2311.17049v1)|null|
@@ -1980,12 +1990,19 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231130>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231201>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-29**|**Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications**|Junyi Ma et.al.|[2311.17663v1](http://arxiv.org/abs/2311.17663v1)|**[link](https://github.com/haomo-ai/cam4docc)**|
+|**2023-11-29**|**TARGET: Template-Transferable Backdoor Attack Against Prompt-based NLP Models via GPT4**|Zihao Tan et.al.|[2311.17429v1](http://arxiv.org/abs/2311.17429v1)|null|
+|**2023-11-29**|**Gene-MOE: A Sparsely-gated Framework for Pan-Cancer Genomic Analysis**|Xiangyu Meng et.al.|[2311.17401v1](http://arxiv.org/abs/2311.17401v1)|null|
+|**2023-11-29**|**Improving the Robustness of Transformer-based Large Language Models with Dynamic Attention**|Lujia Shen et.al.|[2311.17400v1](http://arxiv.org/abs/2311.17400v1)|null|
+|**2023-11-28**|**SatCLIP: Global, General-Purpose Location Embeddings with Satellite Imagery**|Konstantin Klemmer et.al.|[2311.17179v1](http://arxiv.org/abs/2311.17179v1)|null|
+|**2023-11-28**|**Continuous Pose for Monocular Cameras in Neural Implicit Representation**|Qi Ma et.al.|[2311.17119v1](http://arxiv.org/abs/2311.17119v1)|**[link](https://github.com/qimaqi/continuous-pose-in-nerf)**|
+|**2023-11-28**|**Neural Texture Puppeteer: A Framework for Neural Geometry and Texture Rendering of Articulated Shapes, Enabling Re-Identification at Interactive Speed**|Urs Waldmann et.al.|[2311.17109v1](http://arxiv.org/abs/2311.17109v1)|null|
 |**2023-11-28**|**MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training**|Pavan Kumar Anasosalu Vasu et.al.|[2311.17049v1](http://arxiv.org/abs/2311.17049v1)|null|
 |**2023-11-28**|**Brain-ID: Learning Robust Feature Representations for Brain Imaging**|Peirong Liu et.al.|[2311.16914v1](http://arxiv.org/abs/2311.16914v1)|**[link](https://github.com/peirong26/Brain-ID)**|
 |**2023-11-28**|**Denoising Diffusion Probabilistic Models for Image Inpainting of Cell Distributions in the Human Brain**|Jan-Oliver Kropp et.al.|[2311.16821v1](http://arxiv.org/abs/2311.16821v1)|null|
@@ -3819,7 +3836,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20231130>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231201>back to top</a>)</p>
 
 ## adaptor
 
@@ -3830,7 +3847,7 @@
 |**2023-11-11**|**Finetuning Text-to-Image Diffusion Models for Fairness**|Xudong Shen et.al.|[2311.07604v1](http://arxiv.org/abs/2311.07604v1)|null|
 |**2023-11-11**|**Exploiting Image-Related Inductive Biases in Single-Branch Visual Tracking**|Chuanming Tang et.al.|[2310.19542v2](http://arxiv.org/abs/2310.19542v2)|null|
 |**2023-10-31**|**LoRAShear: Efficient Large Language Model Structured Pruning and Knowledge Recovery**|Tianyi Chen et.al.|[2310.18356v2](http://arxiv.org/abs/2310.18356v2)|null|
-|**2023-10-17**|**SODA: Robust Training of Test-Time Data Adaptors**|Zige Wang et.al.|[2310.11093v1](http://arxiv.org/abs/2310.11093v1)|**[link](https://github.com/tmlr-group/soda)**|
+|**2023-10-17**|**SODA: Robust Training of Test-Time Data Adaptors**|Zige Wang et.al.|[2310.11093v1](http://arxiv.org/abs/2310.11093v1)|null|
 |**2023-10-12**|**Search-Adaptor: Text Embedding Customization for Information Retrieval**|Jinsung Yoon et.al.|[2310.08750v1](http://arxiv.org/abs/2310.08750v1)|null|
 |**2023-10-07**|**Neural2Speech: A Transfer Learning Framework for Neural-Driven Speech Reconstruction**|Jiawei Li et.al.|[2310.04644v1](http://arxiv.org/abs/2310.04644v1)|**[link](https://github.com/cctn-bci/neural2speech)**|
 |**2023-10-06**|**DiffPrompter: Differentiable Implicit Visual Prompts for Semantic-Segmentation in Adverse Conditions**|Sanket Kalwar et.al.|[2310.04181v1](http://arxiv.org/abs/2310.04181v1)|null|
@@ -3895,12 +3912,22 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20231130>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231201>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-29**|**Do text-free diffusion models learn discriminative visual representations?**|Soumik Mukhopadhyay et.al.|[2311.17921v1](http://arxiv.org/abs/2311.17921v1)|null|
+|**2023-11-29**|**Language-conditioned Detection Transformer**|Jang Hyun Cho et.al.|[2311.17902v1](http://arxiv.org/abs/2311.17902v1)|**[link](https://github.com/janghyuncho/decola)**|
+|**2023-11-29**|**PillarNeSt: Embracing Backbone Scaling and Pretraining for Pillar-based 3D Object Detection**|Weixin Mao et.al.|[2311.17770v1](http://arxiv.org/abs/2311.17770v1)|null|
+|**2023-11-29**|**Efficient Decoder for End-to-End Oriented Object Detection in Remote Sensing Images**|Jiaqi Zhao et.al.|[2311.17629v1](http://arxiv.org/abs/2311.17629v1)|null|
+|**2023-11-29**|**An Efficient Illumination Invariant Tiger Detection Framework for Wildlife Surveillance**|Gaurav Pendharkar et.al.|[2311.17552v1](http://arxiv.org/abs/2311.17552v1)|null|
+|**2023-11-29**|**The devil is in the fine-grained details: Evaluating open-vocabulary object detectors for fine-grained understanding**|Lorenzo Bianchi et.al.|[2311.17518v1](http://arxiv.org/abs/2311.17518v1)|**[link](https://github.com/lorebianchi98/fg-ovd)**|
+|**2023-11-29**|**Weakly-semi-supervised object detection in remotely sensed imagery**|Ji Hun Wang et.al.|[2311.17449v1](http://arxiv.org/abs/2311.17449v1)|null|
+|**2023-11-29**|**LEOD: Label-Efficient Object Detection for Event Cameras**|Ziyi Wu et.al.|[2311.17286v1](http://arxiv.org/abs/2311.17286v1)|null|
+|**2023-11-28**|**TransNeXt: Robust Foveal Visual Perception for Vision Transformers**|Dai Shi et.al.|[2311.17132v1](http://arxiv.org/abs/2311.17132v1)|null|
+|**2023-11-28**|**Feedback RoI Features Improve Aerial Object Detection**|Botao Ren et.al.|[2311.17129v1](http://arxiv.org/abs/2311.17129v1)|null|
 |**2023-11-28**|**Unified-modal Salient Object Detection via Adaptive Prompt Learning**|Kunpeng Wang et.al.|[2311.16835v1](http://arxiv.org/abs/2311.16835v1)|null|
 |**2023-11-28**|**Cross-level Attention with Overlapped Windows for Camouflaged Object Detection**|Jiepan Li et.al.|[2311.16618v1](http://arxiv.org/abs/2311.16618v1)|null|
 |**2023-11-27**|**Segment Every Out-of-Distribution Object**|Wenjie Zhao et.al.|[2311.16516v1](http://arxiv.org/abs/2311.16516v1)|null|
@@ -5616,7 +5643,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20231130>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231201>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
