@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.01
+## Updated on 2023.12.02
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-30**|**Initializing Models with Larger Ones**|Zhiqiu Xu et.al.|[2311.18823v1](http://arxiv.org/abs/2311.18823v1)|**[link](https://github.com/oscarxzq/weight-selection)**|
+|**2023-11-30**|**ElasticDiffusion: Training-free Arbitrary Size Image Generation**|Moayed Haji-Ali et.al.|[2311.18822v1](http://arxiv.org/abs/2311.18822v1)|**[link](https://github.com/moayedhajiali/elasticdiffusion-official)**|
+|**2023-11-30**|**ArthModel: Enhance Arithmetic Skills to Large Language Model**|Yingdi Guo et.al.|[2311.18609v1](http://arxiv.org/abs/2311.18609v1)|null|
+|**2023-11-30**|**Dataset Distillation via the Wasserstein Metric**|Haoyang Liu et.al.|[2311.18531v1](http://arxiv.org/abs/2311.18531v1)|null|
+|**2023-11-30**|**MV-CLIP: Multi-View CLIP for Zero-shot 3D Shape Recognition**|Dan Song et.al.|[2311.18402v1](http://arxiv.org/abs/2311.18402v1)|null|
+|**2023-11-30**|**Transfer Learning across Different Chemical Domains: Virtual Screening of Organic Materials with Deep Learning Models Pretrained on Small Molecule and Chemical Reaction Data**|Chengwei Zhang et.al.|[2311.18377v1](http://arxiv.org/abs/2311.18377v1)|null|
+|**2023-11-30**|**Hubness Reduction Improves Sentence-BERT Semantic Spaces**|Beatrix M. G. Nielsen et.al.|[2311.18364v1](http://arxiv.org/abs/2311.18364v1)|**[link](https://github.com/bemigini/hubness-reduction-improves-sbert-semantic-spaces)**|
+|**2023-11-30**|**OmniMotionGPT: Animal Motion Generation with Limited Data**|Zhangsihao Yang et.al.|[2311.18303v1](http://arxiv.org/abs/2311.18303v1)|null|
+|**2023-11-30**|**HKUST at SemEval-2023 Task 1: Visual Word Sense Disambiguation with Context Augmentation and Visual Assistance**|Zhuohao Yin et.al.|[2311.18273v1](http://arxiv.org/abs/2311.18273v1)|**[link](https://github.com/thomas-yin/semeval-2023-task1)**|
+|**2023-11-30**|**LLVMs4Protest: Harnessing the Power of Large Language and Vision Models for Deciphering Protests in the News**|Yongjun Zhang et.al.|[2311.18241v1](http://arxiv.org/abs/2311.18241v1)|**[link](https://github.com/joshzyj/llvms4protest)**|
 |**2023-11-29**|**A Simple Recipe for Language-guided Domain Generalized Segmentation**|Mohammad Fahes et.al.|[2311.17922v1](http://arxiv.org/abs/2311.17922v1)|null|
 |**2023-11-29**|**Betrayed by Attention: A Simple yet Effective Approach for Self-supervised Video Object Segmentation**|Shuangrui Ding et.al.|[2311.17893v1](http://arxiv.org/abs/2311.17893v1)|null|
 |**2023-11-29**|**Evaluating VLMs for Score-Based, Multi-Probe Annotation of 3D Objects**|Rishabh Kabra et.al.|[2311.17851v1](http://arxiv.org/abs/2311.17851v1)|null|
@@ -1990,16 +2000,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231201>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231202>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-30**|**CoRec: An Easy Approach for Coordination Recognition**|Qing Wang et.al.|[2311.18712v1](http://arxiv.org/abs/2311.18712v1)|**[link](https://github.com/qingwang-isu/corec)**|
+|**2023-11-30**|**Learning Part Segmentation from Synthetic Animals**|Jiawei Peng et.al.|[2311.18661v1](http://arxiv.org/abs/2311.18661v1)|null|
+|**2023-11-30**|**Can Large Language Models Be Good Companions? An LLM-Based Eyewear System with Conversational Common Ground**|Zhenyu Xu et.al.|[2311.18251v1](http://arxiv.org/abs/2311.18251v1)|null|
+|**2023-11-30**|**LLVMs4Protest: Harnessing the Power of Large Language and Vision Models for Deciphering Protests in the News**|Yongjun Zhang et.al.|[2311.18241v1](http://arxiv.org/abs/2311.18241v1)|**[link](https://github.com/joshzyj/llvms4protest)**|
+|**2023-11-30**|**Label-efficient Training of Small Task-specific Models by Leveraging Vision Foundation Models**|Raviteja Vemulapalli et.al.|[2311.18237v1](http://arxiv.org/abs/2311.18237v1)|null|
+|**2023-11-30**|**TCP:Textual-based Class-aware Prompt tuning for Visual-Language Model**|Hantao Yao et.al.|[2311.18231v1](http://arxiv.org/abs/2311.18231v1)|**[link](https://github.com/htyao89/textual-based_class-aware_prompt_tuning)**|
 |**2023-11-29**|**Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications**|Junyi Ma et.al.|[2311.17663v1](http://arxiv.org/abs/2311.17663v1)|**[link](https://github.com/haomo-ai/cam4docc)**|
 |**2023-11-29**|**TARGET: Template-Transferable Backdoor Attack Against Prompt-based NLP Models via GPT4**|Zihao Tan et.al.|[2311.17429v1](http://arxiv.org/abs/2311.17429v1)|null|
 |**2023-11-29**|**Gene-MOE: A Sparsely-gated Framework for Pan-Cancer Genomic Analysis**|Xiangyu Meng et.al.|[2311.17401v1](http://arxiv.org/abs/2311.17401v1)|null|
-|**2023-11-29**|**Improving the Robustness of Transformer-based Large Language Models with Dynamic Attention**|Lujia Shen et.al.|[2311.17400v1](http://arxiv.org/abs/2311.17400v1)|null|
+|**2023-11-30**|**Improving the Robustness of Transformer-based Large Language Models with Dynamic Attention**|Lujia Shen et.al.|[2311.17400v2](http://arxiv.org/abs/2311.17400v2)|null|
 |**2023-11-28**|**SatCLIP: Global, General-Purpose Location Embeddings with Satellite Imagery**|Konstantin Klemmer et.al.|[2311.17179v1](http://arxiv.org/abs/2311.17179v1)|null|
 |**2023-11-28**|**Continuous Pose for Monocular Cameras in Neural Implicit Representation**|Qi Ma et.al.|[2311.17119v1](http://arxiv.org/abs/2311.17119v1)|**[link](https://github.com/qimaqi/continuous-pose-in-nerf)**|
 |**2023-11-28**|**Neural Texture Puppeteer: A Framework for Neural Geometry and Texture Rendering of Articulated Shapes, Enabling Re-Identification at Interactive Speed**|Urs Waldmann et.al.|[2311.17109v1](http://arxiv.org/abs/2311.17109v1)|null|
@@ -3836,12 +3852,13 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20231201>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231202>back to top</a>)</p>
 
 ## adaptor
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-30**|**HiPA: Enabling One-Step Text-to-Image Diffusion Models via High-Frequency-Promoting Adaptation**|Yifan Zhang et.al.|[2311.18158v1](http://arxiv.org/abs/2311.18158v1)|null|
 |**2023-11-24**|**One Fits All: Universal Time Series Analysis by Pretrained LM and Specially Designed Adaptors**|Tian Zhou et.al.|[2311.14782v1](http://arxiv.org/abs/2311.14782v1)|**[link](https://github.com/psacfc/gpt4ts_adapter)**|
 |**2023-11-27**|**Concept Sliders: LoRA Adaptors for Precise Control in Diffusion Models**|Rohit Gandikota et.al.|[2311.12092v2](http://arxiv.org/abs/2311.12092v2)|**[link](https://github.com/rohitgandikota/sliders)**|
 |**2023-11-11**|**Finetuning Text-to-Image Diffusion Models for Fairness**|Xudong Shen et.al.|[2311.07604v1](http://arxiv.org/abs/2311.07604v1)|null|
@@ -3912,13 +3929,21 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20231201>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231202>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-11-29**|**Do text-free diffusion models learn discriminative visual representations?**|Soumik Mukhopadhyay et.al.|[2311.17921v1](http://arxiv.org/abs/2311.17921v1)|null|
+|**2023-11-30**|**Is Underwater Image Enhancement All Object Detectors Need?**|Yudong Wang et.al.|[2311.18814v1](http://arxiv.org/abs/2311.18814v1)|**[link](https://github.com/bigwangyudong/lqit)**|
+|**2023-11-30**|**Cascaded Interaction with Eroded Deep Supervision for Salient Object Detection**|Hewen Xiao et.al.|[2311.18675v1](http://arxiv.org/abs/2311.18675v1)|null|
+|**2023-11-30**|**Revisiting Proposal-based Object Detection**|Aritra Bhowmik et.al.|[2311.18512v1](http://arxiv.org/abs/2311.18512v1)|null|
+|**2023-11-30**|**TIDE: Test Time Few Shot Object Detection**|Weikai Li et.al.|[2311.18358v1](http://arxiv.org/abs/2311.18358v1)|**[link](https://github.com/deku-0621/tide)**|
+|**2023-11-30**|**Multi-label Annotation for Visual Multi-Task Learning Models**|G. Sharma et.al.|[2311.18300v1](http://arxiv.org/abs/2311.18300v1)|null|
+|**2023-11-30**|**SimulFlow: Simultaneously Extracting Feature and Identifying Target for Unsupervised Video Object Segmentation**|Lingyi Hong et.al.|[2311.18286v1](http://arxiv.org/abs/2311.18286v1)|null|
+|**2023-11-30**|**Hy-Tracker: A Novel Framework for Enhancing Efficiency and Accuracy of Object Tracking in Hyperspectral Videos**|Mohammad Aminul Islam et.al.|[2311.18199v1](http://arxiv.org/abs/2311.18199v1)|null|
+|**2023-11-29**|**AutArch: An AI-assisted workflow for object detection and automated recording in archaeological catalogues**|Kevin Klein et.al.|[2311.17978v1](http://arxiv.org/abs/2311.17978v1)|null|
+|**2023-11-30**|**Do text-free diffusion models learn discriminative visual representations?**|Soumik Mukhopadhyay et.al.|[2311.17921v2](http://arxiv.org/abs/2311.17921v2)|**[link](https://github.com/soumik-kanad/diffssl)**|
 |**2023-11-29**|**Language-conditioned Detection Transformer**|Jang Hyun Cho et.al.|[2311.17902v1](http://arxiv.org/abs/2311.17902v1)|**[link](https://github.com/janghyuncho/decola)**|
 |**2023-11-29**|**PillarNeSt: Embracing Backbone Scaling and Pretraining for Pillar-based 3D Object Detection**|Weixin Mao et.al.|[2311.17770v1](http://arxiv.org/abs/2311.17770v1)|null|
 |**2023-11-29**|**Efficient Decoder for End-to-End Oriented Object Detection in Remote Sensing Images**|Jiaqi Zhao et.al.|[2311.17629v1](http://arxiv.org/abs/2311.17629v1)|null|
@@ -5643,7 +5668,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20231201>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231202>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
