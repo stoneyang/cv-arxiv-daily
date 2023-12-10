@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2023.12.09
+> Updated on 2023.12.10
 
 <details>
   <summary>Table of Contents</summary>
@@ -20,13 +20,13 @@
 - 2023-12-07, **Intelligent Anomaly Detection for Lane Rendering Using Transformer with Self-Supervised Pre-Training and Customized Fine-Tuning**, Yongqi Dong et.al., Paper: [http://arxiv.org/abs/2312.04398v1](http://arxiv.org/abs/2312.04398v1)
 - 2023-12-07, **Multi-View Unsupervised Image Generation with Cross Attention Guidance**, Llukman Cerkezi et.al., Paper: [http://arxiv.org/abs/2312.04337v1](http://arxiv.org/abs/2312.04337v1)
 - 2023-12-07, **Diffusing Colors: Image Colorization with Text Guided Diffusion**, Nir Zabari et.al., Paper: [http://arxiv.org/abs/2312.04145v1](http://arxiv.org/abs/2312.04145v1)
-- 2023-12-07, **Instance Tracking in 3D Scenes from Egocentric Videos**, Yunhan Zhao et.al., Paper: [http://arxiv.org/abs/2312.04117v1](http://arxiv.org/abs/2312.04117v1)
+- 2023-12-07, **Instance Tracking in 3D Scenes from Egocentric Videos**, Yunhan Zhao et.al., Paper: [http://arxiv.org/abs/2312.04117v1](http://arxiv.org/abs/2312.04117v1), Code: **[https://github.com/it3dego/it3dego](https://github.com/it3dego/it3dego)**
 - 2023-12-07, **Enhancing the Rationale-Input Alignment for Self-explaining Rationalization**, Wei Liu et.al., Paper: [http://arxiv.org/abs/2312.04103v1](http://arxiv.org/abs/2312.04103v1)
 - 2023-12-05, **DiffusionAtlas: High-Fidelity Consistent Diffusion Video Editing**, Shao-Yu Chang et.al., Paper: [http://arxiv.org/abs/2312.03772v1](http://arxiv.org/abs/2312.03772v1)
 - 2023-12-06, **Blueprinting the Future: Automatic Item Categorization using Hierarchical Zero-Shot and Few-Shot Classifiers**, Ting Wang et.al., Paper: [http://arxiv.org/abs/2312.03561v1](http://arxiv.org/abs/2312.03561v1)
 - 2023-12-06, **PneumoLLM: Harnessing the Power of Large Language Model for Pneumoconiosis Diagnosis**, Meiyue Song et.al., Paper: [http://arxiv.org/abs/2312.03490v1](http://arxiv.org/abs/2312.03490v1), Code: **[https://github.com/codemonsterphd/pneumollm](https://github.com/codemonsterphd/pneumollm)**
 - 2023-12-06, **Molecule Joint Auto-Encoding: Trajectory Pretraining with 2D and 3D Diffusion**, Weitao Du et.al., Paper: [http://arxiv.org/abs/2312.03475v1](http://arxiv.org/abs/2312.03475v1)
-- 2023-12-05, **Leveraging Laryngograph Data for Robust Voicing Detection in Speech**, Yixuan Zhang et.al., Paper: [http://arxiv.org/abs/2312.03129v1](http://arxiv.org/abs/2312.03129v1)
+- 2023-12-05, **Leveraging Laryngograph Data for Robust Voicing Detection in Speech**, Yixuan Zhang et.al., Paper: [http://arxiv.org/abs/2312.03129v1](http://arxiv.org/abs/2312.03129v1), Code: **[https://github.com/yixuanz/rvd](https://github.com/yixuanz/rvd)**
 - 2023-12-05, **DGInStyle: Domain-Generalizable Semantic Segmentation with Image Diffusion Models and Stylized Semantic Control**, Yuru Jia et.al., Paper: [http://arxiv.org/abs/2312.03048v1](http://arxiv.org/abs/2312.03048v1)
 - 2023-12-05, **MagicStick: Controllable Video Editing via Control Handle Transformations**, Yue Ma et.al., Paper: [http://arxiv.org/abs/2312.03047v1](http://arxiv.org/abs/2312.03047v1), Code: **[https://github.com/mayuelala/magicstick](https://github.com/mayuelala/magicstick)**
 - 2023-12-05, **Zero-Shot Point Cloud Registration**, Weijie Wang et.al., Paper: [http://arxiv.org/abs/2312.03032v1](http://arxiv.org/abs/2312.03032v1)
@@ -2039,7 +2039,7 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20231209>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231210>back to top</a>)</p>
 
 ## downstream
 
@@ -2050,7 +2050,7 @@
 - 2023-12-07, **Occlusion-based Detection of Trojan-triggering Inputs in Large Language Models of Code**, Aftab Hussain et.al., Paper: [http://arxiv.org/abs/2312.04004v1](http://arxiv.org/abs/2312.04004v1)
 - 2023-12-07, **LiDAR: Sensing Linear Probing Performance in Joint Embedding SSL Architectures**, Vimal Thilak et.al., Paper: [http://arxiv.org/abs/2312.04000v1](http://arxiv.org/abs/2312.04000v1)
 - 2023-12-06, **SYNC-CLIP: Synthetic Data Make CLIP Generalize Better in Data-Limited Scenarios**, Mushui Liu et.al., Paper: [http://arxiv.org/abs/2312.03805v1](http://arxiv.org/abs/2312.03805v1)
-- 2023-12-07, **Parameter-Efficient Transfer Learning of Audio Spectrogram Transformers**, Umberto Cappellazzo et.al., Paper: [http://arxiv.org/abs/2312.03694v2](http://arxiv.org/abs/2312.03694v2)
+- 2023-12-07, **Parameter-Efficient Transfer Learning of Audio Spectrogram Transformers**, Umberto Cappellazzo et.al., Paper: [http://arxiv.org/abs/2312.03694v2](http://arxiv.org/abs/2312.03694v2), Code: **[https://github.com/umbertocappellazzo/petl_ast](https://github.com/umbertocappellazzo/petl_ast)**
 - 2023-12-06, **Improving the Generalization of Segmentation Foundation Model under Distribution Shift via Weakly Supervised Adaptation**, Haojie Zhang et.al., Paper: [http://arxiv.org/abs/2312.03502v1](http://arxiv.org/abs/2312.03502v1), Code: **[https://github.com/zhang-haojie/wesam](https://github.com/zhang-haojie/wesam)**
 - 2023-12-06, **Action Scene Graphs for Long-Form Understanding of Egocentric Videos**, Ivan Rodin et.al., Paper: [http://arxiv.org/abs/2312.03391v1](http://arxiv.org/abs/2312.03391v1), Code: **[https://github.com/fpv-iplab/easg](https://github.com/fpv-iplab/easg)**
 - 2023-12-06, **A Text-to-Text Model for Multilingual Offensive Language Identification**, Tharindu Ranasinghe et.al., Paper: [http://arxiv.org/abs/2312.03379v1](http://arxiv.org/abs/2312.03379v1)
@@ -3928,7 +3928,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20231209>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231210>back to top</a>)</p>
 
 ## adaptor
 
@@ -4004,7 +4004,7 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20231209>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231210>back to top</a>)</p>
 
 ## object detection
 
@@ -5777,7 +5777,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20231209>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231210>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
