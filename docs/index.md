@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.12
+## Updated on 2023.12.13
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-11**|**De novo Design of Polymer Electrolytes with High Conductivity using GPT-based and Diffusion-based Generative Models**|Zhenze Yang et.al.|[2312.06470v1](http://arxiv.org/abs/2312.06470v1)|null|
+|**2023-12-11**|**PointVoxel: A Simple and Effective Pipeline for Multi-View Multi-Modal 3D Human Pose Estimation**|Zhiyu Pan et.al.|[2312.06409v1](http://arxiv.org/abs/2312.06409v1)|null|
+|**2023-12-11**|**MMDesign: Multi-Modality Transfer Learning for Generative Protein Design**|Jiangbin Zheng et.al.|[2312.06297v1](http://arxiv.org/abs/2312.06297v1)|null|
+|**2023-12-11**|**Medical Vision Language Pretraining: A survey**|Prashant Shrestha et.al.|[2312.06224v1](http://arxiv.org/abs/2312.06224v1)|null|
+|**2023-12-10**|**NovaCOMET: Open Commonsense Foundation Models with Symbolic Knowledge Distillation**|Peter West et.al.|[2312.05979v1](http://arxiv.org/abs/2312.05979v1)|null|
+|**2023-12-10**|**A Comprehensive Dataset and Automated Pipeline for Nailfold Capillary Analysis**|Linxi Zhao et.al.|[2312.05930v1](http://arxiv.org/abs/2312.05930v1)|**[link](https://github.com/thu-cs-pi-lab/anfc-automated-nailfold-capillary)**|
+|**2023-12-10**|**Building Variable-sized Models via Learngene Pool**|Boyu Shi et.al.|[2312.05743v1](http://arxiv.org/abs/2312.05743v1)|null|
+|**2023-12-10**|**Initialization Matters for Adversarial Transfer Learning**|Andong Hua et.al.|[2312.05716v1](http://arxiv.org/abs/2312.05716v1)|null|
+|**2023-12-09**|**Understanding the Effect of Model Compression on Social Bias in Large Language Models**|Gustavo Gonçalves et.al.|[2312.05662v1](http://arxiv.org/abs/2312.05662v1)|**[link](https://github.com/gsgoncalves/emnlp2023_llm_compression_and_social_bias)**|
+|**2023-12-09**|**Enhancing Medical Specialty Assignment to Patients using NLP Techniques**|Chris Solomou et.al.|[2312.05585v1](http://arxiv.org/abs/2312.05585v1)|null|
 |**2023-12-08**|**SwiftBrush: One-Step Text-to-Image Diffusion Model with Variational Score Distillation**|Thuan Hoang Nguyen et.al.|[2312.05239v1](http://arxiv.org/abs/2312.05239v1)|null|
 |**2023-12-08**|**Datasets, Models, and Algorithms for Multi-Sensor, Multi-agent Autonomy Using AVstack**|R. Spencer Hallyburton et.al.|[2312.04970v1](http://arxiv.org/abs/2312.04970v1)|null|
 |**2023-12-08**|**Zoology: Measuring and Improving Recall in Efficient Language Models**|Simran Arora et.al.|[2312.04927v1](http://arxiv.org/abs/2312.04927v1)|**[link](https://github.com/hazyresearch/zoology)**|
@@ -2055,12 +2065,22 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231212>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231213>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-11**|**Dense X Retrieval: What Retrieval Granularity Should We Use?**|Tong Chen et.al.|[2312.06648v1](http://arxiv.org/abs/2312.06648v1)|**[link](https://github.com/ct123098/factoid-wiki)**|
+|**2023-12-11**|**4M: Massively Multimodal Masked Modeling**|David Mizrahi et.al.|[2312.06647v1](http://arxiv.org/abs/2312.06647v1)|null|
+|**2023-12-11**|**HyPE-GT: where Graph Transformers meet Hyperbolic Positional Encodings**|Kushal Bose et.al.|[2312.06576v1](http://arxiv.org/abs/2312.06576v1)|**[link](https://github.com/kushalbose92/hype-gt)**|
+|**2023-12-11**|**A GAN Approach for Node Embedding in Heterogeneous Graphs Using Subgraph Sampling**|Hung Chun Hsu et.al.|[2312.06519v1](http://arxiv.org/abs/2312.06519v1)|null|
+|**2023-12-11**|**DreamControl: Control-Based Text-to-3D Generation with 3D Self-Prior**|Tianyu Huang et.al.|[2312.06439v1](http://arxiv.org/abs/2312.06439v1)|null|
+|**2023-12-11**|**Compound Text-Guided Prompt Tuning via Image-Adaptive Cues**|Hao Tan et.al.|[2312.06401v1](http://arxiv.org/abs/2312.06401v1)|**[link](https://github.com/erictan7/tgp-t)**|
+|**2023-12-11**|**MMICT: Boosting Multi-Modal Fine-Tuning with In-Context Examples**|Tao Chen et.al.|[2312.06363v1](http://arxiv.org/abs/2312.06363v1)|null|
+|**2023-12-11**|**Learning Hierarchical Prompt with Structured Linguistic Knowledge for Vision-Language Models**|Yubin Wang et.al.|[2312.06323v1](http://arxiv.org/abs/2312.06323v1)|**[link](https://github.com/vill-lab/2024-aaai-hpt)**|
+|**2023-12-11**|**Medical Vision Language Pretraining: A survey**|Prashant Shrestha et.al.|[2312.06224v1](http://arxiv.org/abs/2312.06224v1)|null|
+|**2023-12-11**|**Music-PAW: Learning Music Representations via Hierarchical Part-whole Interaction and Contrast**|Dong Yao et.al.|[2312.06197v1](http://arxiv.org/abs/2312.06197v1)|null|
 |**2023-12-08**|**TaskMet: Task-Driven Metric Learning for Model Learning**|Dishank Bansal et.al.|[2312.05250v1](http://arxiv.org/abs/2312.05250v1)|null|
 |**2023-12-08**|**DeltaZip: Multi-Tenant Language Model Serving via Delta Compression**|Xiaozhe Yao et.al.|[2312.05215v1](http://arxiv.org/abs/2312.05215v1)|null|
 |**2023-12-08**|**SparQ Attention: Bandwidth-Efficient LLM Inference**|Luka Ribar et.al.|[2312.04985v1](http://arxiv.org/abs/2312.04985v1)|null|
@@ -3952,12 +3972,14 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20231212>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231213>back to top</a>)</p>
 
 ## adaptor
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-09**|**Better Neural PDE Solvers Through Data-Free Mesh Movers**|Peiyan Hu et.al.|[2312.05583v1](http://arxiv.org/abs/2312.05583v1)|**[link](https://github.com/mm-pde/mm-pde)**|
+|**2023-12-08**|**Noise Adaptor in Spiking Neural Networks**|Chen Li et.al.|[2312.05290v1](http://arxiv.org/abs/2312.05290v1)|null|
 |**2023-12-01**|**Unleashing Cheapfakes through Trojan Plugins of Large Language Models**|Tian Dong et.al.|[2312.00374v1](http://arxiv.org/abs/2312.00374v1)|null|
 |**2023-11-30**|**HiPA: Enabling One-Step Text-to-Image Diffusion Models via High-Frequency-Promoting Adaptation**|Yifan Zhang et.al.|[2311.18158v1](http://arxiv.org/abs/2311.18158v1)|null|
 |**2023-11-24**|**One Fits All: Universal Time Series Analysis by Pretrained LM and Specially Designed Adaptors**|Tian Zhou et.al.|[2311.14782v1](http://arxiv.org/abs/2311.14782v1)|**[link](https://github.com/psacfc/gpt4ts_adapter)**|
@@ -4030,12 +4052,21 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20231212>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231213>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-11**|**Beyond Classification: Definition and Density-based Estimation of Calibration in Object Detection**|Teodora Popordanoska et.al.|[2312.06645v1](http://arxiv.org/abs/2312.06645v1)|null|
+|**2023-12-08**|**Search and Rescue on a Poset**|Jan-Tino Brethouwer et.al.|[2312.06622v1](http://arxiv.org/abs/2312.06622v1)|null|
+|**2023-12-11**|**Mitigating Perspective Distortion-induced Shape Ambiguity in Image Crops**|Aditya Prakash et.al.|[2312.06594v1](http://arxiv.org/abs/2312.06594v1)|null|
+|**2023-12-11**|**Adversarial Camera Patch: An Effective and Robust Physical-World Attack on Object Detectors**|Kalibinuer Tiliwalidi et.al.|[2312.06163v1](http://arxiv.org/abs/2312.06163v1)|null|
+|**2023-12-11**|**SimMining-3D: Altitude-Aware 3D Object Detection in Complex Mining Environments: A Novel Dataset and ROS-Based Automatic Annotation Pipeline**|Mehala Balamurali et.al.|[2312.06113v1](http://arxiv.org/abs/2312.06113v1)|null|
+|**2023-12-10**|**Correcting Diffusion Generation through Resampling**|Yujian Liu et.al.|[2312.06038v1](http://arxiv.org/abs/2312.06038v1)|**[link](https://github.com/ucsb-nlp-chang/diffusion_resampling)**|
+|**2023-12-10**|**Spatial-wise Dynamic Distillation for MLP-like Efficient Visual Fault Detection of Freight Trains**|Yang Zhang et.al.|[2312.05832v1](http://arxiv.org/abs/2312.05832v1)|**[link](https://github.com/mvme-hbut/sdd-fti-fdet)**|
+|**2023-12-10**|**Open World Object Detection in the Era of Foundation Models**|Orr Zohar et.al.|[2312.05745v1](http://arxiv.org/abs/2312.05745v1)|null|
+|**2023-12-08**|**Lyrics: Boosting Fine-grained Language-Vision Alignment and Comprehension via Semantic-aware Visual Objects**|Junyu Lu et.al.|[2312.05278v1](http://arxiv.org/abs/2312.05278v1)|null|
 |**2023-12-08**|**Design and Implementation of Automatic Assisted Aiming System For Robomaster EP Based on YOLOv5**|Junjia Qin et.al.|[2312.05055v1](http://arxiv.org/abs/2312.05055v1)|null|
 |**2023-12-08**|**SiCP: Simultaneous Individual and Cooperative Perception for 3D Object Detection in Connected and Automated Vehicles**|Deyuan Qu et.al.|[2312.04822v1](http://arxiv.org/abs/2312.04822v1)|null|
 |**2023-12-08**|**Unify Change Point Detection and Segment Classification in a Regression Task for Transportation Mode Identification**|Rongsong Li et.al.|[2312.04821v1](http://arxiv.org/abs/2312.04821v1)|**[link](https://github.com/radetzkyli/trajyolo-ssd)**|
@@ -5809,7 +5840,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20231212>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231213>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
