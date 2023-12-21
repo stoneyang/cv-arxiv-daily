@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.20
+## Updated on 2023.12.21
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-19**|**Value Explicit Pretraining for Goal-Based Transfer Learning**|Kiran Lekkala et.al.|[2312.12339v1](http://arxiv.org/abs/2312.12339v1)|null|
+|**2023-12-19**|**Parameter-Efficient Fine-Tuning Methods for Pretrained Language Models: A Critical Review and Assessment**|Lingling Xu et.al.|[2312.12148v1](http://arxiv.org/abs/2312.12148v1)|null|
+|**2023-12-19**|**ZS-SRT: An Efficient Zero-Shot Super-Resolution Training Method for Neural Radiance Fields**|Xiang Feng et.al.|[2312.12122v1](http://arxiv.org/abs/2312.12122v1)|null|
+|**2023-12-19**|**DMT: Comprehensive Distillation with Multiple Self-supervised Teachers**|Yuang Liu et.al.|[2312.11938v1](http://arxiv.org/abs/2312.11938v1)|null|
+|**2023-12-19**|**Empowering Dual-Level Graph Self-Supervised Pretraining with Motif Discovery**|Pengwei Yan et.al.|[2312.11927v1](http://arxiv.org/abs/2312.11927v1)|**[link](https://github.com/rocccyan/dgpm)**|
+|**2023-12-18**|**Ultrasound Image Enhancement using CycleGAN and Perceptual Loss**|Shreeram Athreya et.al.|[2312.11748v1](http://arxiv.org/abs/2312.11748v1)|**[link](https://github.com/ShreeramAthreya/CDX-USChallenge)**|
+|**2023-12-18**|**Evaluating Language-Model Agents on Realistic Autonomous Tasks**|Megan Kinniment et.al.|[2312.11671v1](http://arxiv.org/abs/2312.11671v1)|null|
+|**2023-12-18**|**Implicit Affordance Acquisition via Causal Action-Effect Modeling in the Video Domain**|Hsiu-Yu Yang et.al.|[2312.11345v1](http://arxiv.org/abs/2312.11345v1)|null|
+|**2023-12-18**|**UniDCP: Unifying Multiple Medical Vision-language Tasks via Dynamic Cross-modal Learnable Prompts**|Chenlu Zhan et.al.|[2312.11171v1](http://arxiv.org/abs/2312.11171v1)|null|
+|**2023-12-19**|**Split and Rephrase with Large Language Models**|David Ponce et.al.|[2312.11075v2](http://arxiv.org/abs/2312.11075v2)|null|
 |**2023-12-17**|**CEIR: Concept-based Explainable Image Representation Learning**|Yan Cui et.al.|[2312.10747v1](http://arxiv.org/abs/2312.10747v1)|null|
 |**2023-12-17**|**Addressing Sample Inefficiency in Multi-View Representation Learning**|Kumar Krishna Agrawal et.al.|[2312.10725v1](http://arxiv.org/abs/2312.10725v1)|null|
 |**2023-12-17**|**T2M-HiFiGPT: Generating High Quality Human Motion from Textual Descriptions with Residual Discrete Representations**|Congyi Wang et.al.|[2312.10628v1](http://arxiv.org/abs/2312.10628v1)|null|
@@ -2109,12 +2119,22 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231220>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231221>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-19**|**Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model**|Shraman Pramanick et.al.|[2312.12423v1](http://arxiv.org/abs/2312.12423v1)|null|
+|**2023-12-19**|**CUDC: A Curiosity-Driven Unsupervised Data Collection Method with Adaptive Temporal Distances for Offline Reinforcement Learning**|Chenyu Sun et.al.|[2312.12191v1](http://arxiv.org/abs/2312.12191v1)|null|
+|**2023-12-19**|**Parameter-Efficient Fine-Tuning Methods for Pretrained Language Models: A Critical Review and Assessment**|Lingling Xu et.al.|[2312.12148v1](http://arxiv.org/abs/2312.12148v1)|null|
+|**2023-12-19**|**Curated LLM: Synergy of LLMs and Data Curation for tabular augmentation in ultra low-data regimes**|Nabeel Seedat et.al.|[2312.12112v1](http://arxiv.org/abs/2312.12112v1)|null|
+|**2023-12-19**|**Designing and Evaluating General-Purpose User Representations Based on Behavioral Logs from a Measurement Process Perspective: A Case Study with Snapchat**|Qixiang Fang et.al.|[2312.12111v1](http://arxiv.org/abs/2312.12111v1)|null|
+|**2023-12-19**|**Sparse is Enough in Fine-tuning Pre-trained Large Language Model**|Weixi Song et.al.|[2312.11875v1](http://arxiv.org/abs/2312.11875v1)|**[link](https://github.com/song-wx/sift)**|
+|**2023-12-18**|**Towards Establishing Dense Correspondence on Multiview Coronary Angiography: From Point-to-Point to Curve-to-Curve Query Matching**|Yifan Wu et.al.|[2312.11593v1](http://arxiv.org/abs/2312.11593v1)|null|
+|**2023-12-18**|**Diffusion-Based Particle-DETR for BEV Perception**|Asen Nachkov et.al.|[2312.11578v1](http://arxiv.org/abs/2312.11578v1)|null|
+|**2023-12-18**|**Evaluation of Barlow Twins and VICReg self-supervised learning for sound patterns of bird and anuran species**|Fábio Felix Dias et.al.|[2312.11240v1](http://arxiv.org/abs/2312.11240v1)|null|
+|**2023-12-18**|**LaViP:Language-Grounded Visual Prompts**|Nilakshan Kunananthaseelan et.al.|[2312.10945v1](http://arxiv.org/abs/2312.10945v1)|null|
 |**2023-12-17**|**Re-parameterized Low-rank Prompt: Generalize a Vision-Language Model within 0.5K Parameters**|Tianxiang Hao et.al.|[2312.10813v1](http://arxiv.org/abs/2312.10813v1)|null|
 |**2023-12-17**|**Understanding the Instruction Mixture for Large Language Model**|Renxi Wang et.al.|[2312.10793v1](http://arxiv.org/abs/2312.10793v1)|null|
 |**2023-12-17**|**CEIR: Concept-based Explainable Image Representation Learning**|Yan Cui et.al.|[2312.10747v1](http://arxiv.org/abs/2312.10747v1)|null|
@@ -4066,7 +4086,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20231220>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231221>back to top</a>)</p>
 
 ## adaptor
 
@@ -4149,12 +4169,22 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20231220>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231221>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-19**|**Weakly Supervised Open-Vocabulary Object Detection**|Jianghang Lin et.al.|[2312.12437v1](http://arxiv.org/abs/2312.12437v1)|null|
+|**2023-12-19**|**The Endoscapes Dataset for Surgical Scene Segmentation, Object Detection, and Critical View of Safety Assessment: Official Splits and Benchmark**|Aditya Murali et.al.|[2312.12429v1](http://arxiv.org/abs/2312.12429v1)|null|
+|**2023-12-19**|**LASA: Instance Reconstruction from Real Scans using A Large-scale Aligned Shape Annotation Dataset**|Haolin Liu et.al.|[2312.12418v1](http://arxiv.org/abs/2312.12418v1)|null|
+|**2023-12-19**|**First qualitative observations on deep learning vision model YOLO and DETR for automated driving in Austria**|Stefan Schoder et.al.|[2312.12314v1](http://arxiv.org/abs/2312.12314v1)|null|
+|**2023-12-19**|**Vertex Reconstruction with MaskFormers**|Samuel Van Stroud et.al.|[2312.12272v1](http://arxiv.org/abs/2312.12272v1)|null|
+|**2023-12-19**|**Object Detection for Automated Coronary Artery Using Deep Learning**|Hadis Keshavarz et.al.|[2312.12135v1](http://arxiv.org/abs/2312.12135v1)|null|
+|**2023-12-19**|**Object-Aware Domain Generalization for Object Detection**|Wooju Lee et.al.|[2312.12133v1](http://arxiv.org/abs/2312.12133v1)|**[link](https://github.com/WoojuLee24/OA-DG)**|
+|**2023-12-19**|**Diffusing More Objects for Semi-Supervised Domain Adaptation with Less Labeling**|Leander van den Heuvel et.al.|[2312.12000v1](http://arxiv.org/abs/2312.12000v1)|null|
+|**2023-12-19**|**Transformer Network for Multi-Person Tracking and Re-Identification in Unconstrained Environment**|Hamza Mukhtar et.al.|[2312.11929v1](http://arxiv.org/abs/2312.11929v1)|null|
+|**2023-12-19**|**Regulating Intermediate 3D Features for Vision-Centric Autonomous Driving**|Junkai Xu et.al.|[2312.11837v1](http://arxiv.org/abs/2312.11837v1)|**[link](https://github.com/cskkxjk/vampire)**|
 |**2023-12-17**|**Automated object detection for muon tomography data analysis**|A. Georgadze et.al.|[2312.10733v1](http://arxiv.org/abs/2312.10733v1)|null|
 |**2023-12-16**|**Transformers in Unsupervised Structure-from-Motion**|Hemang Chawla et.al.|[2312.10529v1](http://arxiv.org/abs/2312.10529v1)|**[link](https://github.com/neurai-lab/mt-sfmlearner)**|
 |**2023-12-16**|**PETDet: Proposal Enhancement for Two-Stage Fine-Grained Object Detection**|Wentao Li et.al.|[2312.10515v1](http://arxiv.org/abs/2312.10515v1)|**[link](https://github.com/canoe-z/petdet)**|
@@ -5972,7 +6002,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20231220>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231221>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
