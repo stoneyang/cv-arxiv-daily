@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.23
+## Updated on 2023.12.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-21**|**DUSt3R: Geometric 3D Vision Made Easy**|Shuzhe Wang et.al.|[2312.14132v1](http://arxiv.org/abs/2312.14132v1)|null|
+|**2023-12-21**|**VideoPoet: A Large Language Model for Zero-Shot Video Generation**|Dan Kondratyuk et.al.|[2312.14125v1](http://arxiv.org/abs/2312.14125v1)|null|
+|**2023-12-21**|**Typhoon: Thai Large Language Models**|Kunat Pipatanakul et.al.|[2312.13951v1](http://arxiv.org/abs/2312.13951v1)|null|
+|**2023-12-21**|**TinySAM: Pushing the Envelope for Efficient Segment Anything Model**|Han Shu et.al.|[2312.13789v1](http://arxiv.org/abs/2312.13789v1)|**[link](https://github.com/xinghaochen/tinysam)**|
+|**2023-12-21**|**DreamTuner: Single Image is Enough for Subject-Driven Generation**|Miao Hua et.al.|[2312.13691v1](http://arxiv.org/abs/2312.13691v1)|null|
+|**2023-12-21**|**DyBluRF: Dynamic Deblurring Neural Radiance Fields for Blurry Monocular Video**|Minh-Quan Viet Bui et.al.|[2312.13528v1](http://arxiv.org/abs/2312.13528v1)|null|
+|**2023-12-20**|**Time is Encoded in the Weights of Finetuned Language Models**|Kai Nylund et.al.|[2312.13401v1](http://arxiv.org/abs/2312.13401v1)|null|
+|**2023-12-20**|**Conditional Image Generation with Pretrained Generative Model**|Rajesh Shrestha et.al.|[2312.13253v1](http://arxiv.org/abs/2312.13253v1)|null|
+|**2023-12-20**|**A 3D super-resolution of wind fields via physics-informed pixel-wise self-attention generative adversarial network**|Takuya Kurihana et.al.|[2312.13212v1](http://arxiv.org/abs/2312.13212v1)|null|
+|**2023-12-21**|**Molecular Hypergraph Neural Networks**|Junwu Chen et.al.|[2312.13136v2](http://arxiv.org/abs/2312.13136v2)|**[link](https://github.com/schwallergroup/mhnn)**|
 |**2023-12-19**|**Value Explicit Pretraining for Goal-Based Transfer Learning**|Kiran Lekkala et.al.|[2312.12339v1](http://arxiv.org/abs/2312.12339v1)|null|
 |**2023-12-19**|**Parameter-Efficient Fine-Tuning Methods for Pretrained Language Models: A Critical Review and Assessment**|Lingling Xu et.al.|[2312.12148v1](http://arxiv.org/abs/2312.12148v1)|null|
 |**2023-12-19**|**ZS-SRT: An Efficient Zero-Shot Super-Resolution Training Method for Neural Radiance Fields**|Xiang Feng et.al.|[2312.12122v1](http://arxiv.org/abs/2312.12122v1)|null|
@@ -2119,12 +2129,21 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231223>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231224>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-21**|**Diversifying Knowledge Enhancement of Biomedical Language Models using Adapter Modules and Knowledge Graphs**|Juraj Vladika et.al.|[2312.13881v1](http://arxiv.org/abs/2312.13881v1)|null|
+|**2023-12-21**|**Adapt & Align: Continual Learning with Generative Models Latent Space Alignment**|Kamil Deja et.al.|[2312.13699v1](http://arxiv.org/abs/2312.13699v1)|**[link](https://github.com/jrx-napoli/cl_classifier)**|
+|**2023-12-20**|**DSPy Assertions: Computational Constraints for Self-Refining Language Model Pipelines**|Arnav Singhvi et.al.|[2312.13382v1](http://arxiv.org/abs/2312.13382v1)|**[link](https://github.com/stanfordnlp/dspy)**|
+|**2023-12-20**|**Deep Learning on 3D Neural Fields**|Pierluigi Zama Ramirez et.al.|[2312.13277v1](http://arxiv.org/abs/2312.13277v1)|null|
+|**2023-12-20**|**Continuous-time Graph Representation with Sequential Survival Process**|Abdulkadir Celikkanat et.al.|[2312.13068v1](http://arxiv.org/abs/2312.13068v1)|null|
+|**2023-12-20**|**TagCLIP: A Local-to-Global Framework to Enhance Open-Vocabulary Multi-Label Classification of CLIP Without Training**|Yuqi Lin et.al.|[2312.12828v1](http://arxiv.org/abs/2312.12828v1)|**[link](https://github.com/linyq2117/tagclip)**|
+|**2023-12-20**|**Learning and Forgetting Unsafe Examples in Large Language Models**|Jiachen Zhao et.al.|[2312.12736v1](http://arxiv.org/abs/2312.12736v1)|null|
+|**2023-12-20**|**A Closer Look at the Few-Shot Adaptation of Large Vision-Language Models**|Julio Silva-Rodriguez et.al.|[2312.12730v1](http://arxiv.org/abs/2312.12730v1)|**[link](https://github.com/jusiro/clap)**|
+|**2023-12-19**|**Fixed-point Inversion for Text-to-image diffusion models**|Barak Meiri et.al.|[2312.12540v1](http://arxiv.org/abs/2312.12540v1)|null|
 |**2023-12-19**|**Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model**|Shraman Pramanick et.al.|[2312.12423v1](http://arxiv.org/abs/2312.12423v1)|null|
 |**2023-12-19**|**CUDC: A Curiosity-Driven Unsupervised Data Collection Method with Adaptive Temporal Distances for Offline Reinforcement Learning**|Chenyu Sun et.al.|[2312.12191v1](http://arxiv.org/abs/2312.12191v1)|null|
 |**2023-12-19**|**Parameter-Efficient Fine-Tuning Methods for Pretrained Language Models: A Critical Review and Assessment**|Lingling Xu et.al.|[2312.12148v1](http://arxiv.org/abs/2312.12148v1)|null|
@@ -4086,7 +4105,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20231223>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231224>back to top</a>)</p>
 
 ## adaptor
 
@@ -4169,12 +4188,22 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20231223>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231224>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-21**|**Universal Noise Annotation: Unveiling the Impact of Noisy annotation on Object Detection**|Kwangrok Ryoo et.al.|[2312.13822v1](http://arxiv.org/abs/2312.13822v1)|**[link](https://github.com/ryoo72/una)**|
+|**2023-12-21**|**DECO: Query-Based End-to-End Object Detection with ConvNets**|Xinghao Chen et.al.|[2312.13735v1](http://arxiv.org/abs/2312.13735v1)|null|
+|**2023-12-21**|**SPGroup3D: Superpoint Grouping Network for Indoor 3D Object Detection**|Yun Zhu et.al.|[2312.13641v1](http://arxiv.org/abs/2312.13641v1)|**[link](https://github.com/zyrant/spgroup3d)**|
+|**2023-12-20**|**Multi-sensory Anti-collision Design for Autonomous Nano-swarm Exploration**|Mahyar Pourjabar et.al.|[2312.13086v1](http://arxiv.org/abs/2312.13086v1)|null|
+|**2023-12-20**|**On the Energy Consumption of UAV Edge Computing in Non-Terrestrial Networks**|Alessandro Traspadini et.al.|[2312.12940v1](http://arxiv.org/abs/2312.12940v1)|null|
+|**2023-12-20**|**Integration and Performance Analysis of Artificial Intelligence and Computer Vision Based on Deep Learning Algorithms**|Bo Liu et.al.|[2312.12872v1](http://arxiv.org/abs/2312.12872v1)|null|
+|**2023-12-20**|**Realistic Rainy Weather Simulation for LiDARs in CARLA Simulator**|Donglin Yang et.al.|[2312.12772v1](http://arxiv.org/abs/2312.12772v1)|**[link](https://github.com/pjlab-adg/pcsim)**|
+|**2023-12-20**|**PointeNet: A Lightweight Framework for Effective and Efficient Point Cloud Analysis**|Lipeng Gu et.al.|[2312.12743v1](http://arxiv.org/abs/2312.12743v1)|null|
+|**2023-12-20**|**Cached Transformers: Improving Transformers with Differentiable Memory Cache**|Zhaoyang Zhang et.al.|[2312.12742v1](http://arxiv.org/abs/2312.12742v1)|null|
+|**2023-12-19**|**UnionDet: Union-Level Detector Towards Real-Time Human-Object Interaction Detection**|Bumsoo Kim et.al.|[2312.12664v1](http://arxiv.org/abs/2312.12664v1)|null|
 |**2023-12-19**|**Weakly Supervised Open-Vocabulary Object Detection**|Jianghang Lin et.al.|[2312.12437v1](http://arxiv.org/abs/2312.12437v1)|null|
 |**2023-12-19**|**The Endoscapes Dataset for Surgical Scene Segmentation, Object Detection, and Critical View of Safety Assessment: Official Splits and Benchmark**|Aditya Murali et.al.|[2312.12429v1](http://arxiv.org/abs/2312.12429v1)|null|
 |**2023-12-19**|**LASA: Instance Reconstruction from Real Scans using A Large-scale Aligned Shape Annotation Dataset**|Haolin Liu et.al.|[2312.12418v1](http://arxiv.org/abs/2312.12418v1)|null|
@@ -6002,7 +6031,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20231223>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231224>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
