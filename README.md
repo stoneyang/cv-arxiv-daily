@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.03
+## Updated on 2024.01.04
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-02**|**Deep-ELA: Deep Exploratory Landscape Analysis with Self-Supervised Pretrained Transformers for Single- and Multi-Objective Continuous Optimization Problems**|Moritz Vinzent Seiler et.al.|[2401.01192v1](http://arxiv.org/abs/2401.01192v1)|null|
+|**2024-01-02**|**Query-Based Knowledge Sharing for Open-Vocabulary Multi-Label Classification**|Xuelin Zhu et.al.|[2401.01181v1](http://arxiv.org/abs/2401.01181v1)|null|
+|**2024-01-02**|**Quokka: An Open-source Large Language Model ChatBot for Material Science**|Xianjun Yang et.al.|[2401.01089v1](http://arxiv.org/abs/2401.01089v1)|**[link](https://github.com/xianjun-yang/quokka)**|
+|**2024-01-02**|**LLaMA Beyond English: An Empirical Study on Language Capability Transfer**|Jun Zhao et.al.|[2401.01055v1](http://arxiv.org/abs/2401.01055v1)|null|
+|**2024-01-02**|**Cheetah: Natural Language Generation for 517 African Languages**|Ife Adebara et.al.|[2401.01053v1](http://arxiv.org/abs/2401.01053v1)|null|
+|**2024-01-01**|**Multi-Lattice Sampling of Quantum Field Theories via Neural Operators**|Bálint Máté et.al.|[2401.00828v1](http://arxiv.org/abs/2401.00828v1)|null|
+|**2024-01-01**|**Self-supervised learning for skin cancer diagnosis with limited training data**|Hamish Haggerty et.al.|[2401.00692v1](http://arxiv.org/abs/2401.00692v1)|null|
+|**2024-01-01**|**Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models**|Guangji Bai et.al.|[2401.00625v1](http://arxiv.org/abs/2401.00625v1)|null|
+|**2023-12-31**|**Neural Networks Against (and For) Self-Training: Classification with Small Labeled and Large Unlabeled Sets**|Payam Karisani et.al.|[2401.00575v1](http://arxiv.org/abs/2401.00575v1)|**[link](https://github.com/p-karisani/rst)**|
+|**2023-12-31**|**A Generalist FaceX via Learning Unified Facial Representation**|Yue Han et.al.|[2401.00551v1](http://arxiv.org/abs/2401.00551v1)|**[link](https://github.com/diffusion-facex/facex)**|
 |**2023-12-29**|**MosaicBERT: A Bidirectional Encoder Optimized for Fast Pretraining**|Jacob Portes et.al.|[2312.17482v1](http://arxiv.org/abs/2312.17482v1)|null|
 |**2023-12-29**|**FerKD: Surgical Label Adaptation for Efficient Distillation**|Zhiqiang Shen et.al.|[2312.17473v1](http://arxiv.org/abs/2312.17473v1)|**[link](https://github.com/szq0214/fkd)**|
 |**2023-12-29**|**Video Understanding with Large Language Models: A Survey**|Yunlong Tang et.al.|[2312.17432v1](http://arxiv.org/abs/2312.17432v1)|**[link](https://github.com/yunlong10/awesome-llms-for-video-understanding)**|
@@ -2147,12 +2157,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240103>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240104>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-02**|**DialCLIP: Empowering CLIP as Multi-Modal Dialog Retriever**|Zhichao Yin et.al.|[2401.01076v1](http://arxiv.org/abs/2401.01076v1)|null|
+|**2024-01-02**|**Learning in the Wild: Towards Leveraging Unlabeled Data for Effectively Tuning Pre-trained Code Models**|Shuzheng Gao et.al.|[2401.01060v1](http://arxiv.org/abs/2401.01060v1)|null|
+|**2024-01-02**|**Cheetah: Natural Language Generation for 517 African Languages**|Ife Adebara et.al.|[2401.01053v1](http://arxiv.org/abs/2401.01053v1)|null|
+|**2024-01-01**|**Downstream Task-Oriented Generative Model Selections on Synthetic Data Training for Fraud Detection Models**|Yinan Cheng et.al.|[2401.00974v1](http://arxiv.org/abs/2401.00974v1)|null|
+|**2023-12-31**|**LaFFi: Leveraging Hybrid Natural Language Feedback for Fine-tuning Language Models**|Qianxi Li et.al.|[2401.00907v1](http://arxiv.org/abs/2401.00907v1)|null|
+|**2024-01-01**|**If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code Empowers Large Language Models to Serve as Intelligent Agents**|Ke Yang et.al.|[2401.00812v1](http://arxiv.org/abs/2401.00812v1)|null|
+|**2024-01-01**|**A & B == B & A: Triggering Logical Reasoning Failures in Large Language Models**|Yuxuan Wan et.al.|[2401.00757v1](http://arxiv.org/abs/2401.00757v1)|null|
+|**2023-12-31**|**State of What Art? A Call for Multi-Prompt LLM Evaluation**|Moran Mizrahi et.al.|[2401.00595v1](http://arxiv.org/abs/2401.00595v1)|**[link](https://github.com/slab-nlp/multi-prompt-llm-evaluation)**|
+|**2023-12-31**|**Exploring the Effectiveness of Instruction Tuning in Biomedical Language Processing**|Omid Rohanian et.al.|[2401.00579v1](http://arxiv.org/abs/2401.00579v1)|null|
+|**2023-12-31**|**AllSpark: a multimodal spatiotemporal general model**|Run Shao et.al.|[2401.00546v1](http://arxiv.org/abs/2401.00546v1)|null|
 |**2023-12-28**|**MIVC: Multiple Instance Visual Component for Visual-Language Models**|Wenyi Wu et.al.|[2312.17109v1](http://arxiv.org/abs/2312.17109v1)|null|
 |**2023-12-28**|**BBScore: A Brownian Bridge Based Metric for Assessing Text Coherence**|Zhecheng Sheng et.al.|[2312.16893v1](http://arxiv.org/abs/2312.16893v1)|null|
 |**2023-12-27**|**Understanding News Creation Intents: Frame, Dataset, and Method**|Zhengjia Wang et.al.|[2312.16490v1](http://arxiv.org/abs/2312.16490v1)|**[link](https://github.com/ictmcg/newsint)**|
@@ -4140,14 +4160,15 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20240103>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240104>back to top</a>)</p>
 
 ## adaptor
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-02**|**Freeze the backbones: A Parameter-Efficient Contrastive Approach to Robust Medical Vision-Language Pre-training**|Jiuming Qin et.al.|[2401.01179v1](http://arxiv.org/abs/2401.01179v1)|null|
 |**2023-12-24**|**Deformable Audio Transformer for Audio Event Detection**|Wentao Zhu et.al.|[2312.16228v1](http://arxiv.org/abs/2312.16228v1)|null|
-|**2023-12-17**|**StyleSinger: Style Transfer for Out-Of-Domain Singing Voice Synthesis**|Yu Zhang et.al.|[2312.10741v1](http://arxiv.org/abs/2312.10741v1)|null|
+|**2024-01-02**|**StyleSinger: Style Transfer for Out-of-Domain Singing Voice Synthesis**|Yu Zhang et.al.|[2312.10741v2](http://arxiv.org/abs/2312.10741v2)|null|
 |**2023-12-14**|**Context-PEFT: Efficient Multi-Modal, Multi-Task Fine-Tuning**|Avelina Asada Hadji-Kyriacou et.al.|[2312.08900v1](http://arxiv.org/abs/2312.08900v1)|null|
 |**2023-12-12**|**What, How, and When Should Object Detectors Update in Continually Changing Test Domains?**|Jayeon Yoo et.al.|[2312.08875v1](http://arxiv.org/abs/2312.08875v1)|null|
 |**2023-12-09**|**Better Neural PDE Solvers Through Data-Free Mesh Movers**|Peiyan Hu et.al.|[2312.05583v1](http://arxiv.org/abs/2312.05583v1)|**[link](https://github.com/mm-pde/mm-pde)**|
@@ -4224,12 +4245,22 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240103>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240104>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-02**|**Deep Learning-Based Computational Model for Disease Identification in Cocoa Pods (Theobroma cacao L.)**|Darlyn Buenaño Vera et.al.|[2401.01247v1](http://arxiv.org/abs/2401.01247v1)|null|
+|**2024-01-02**|**Hybrid Pooling and Convolutional Network for Improving Accuracy and Training Convergence Speed in Object Detection**|Shiwen Zhao et.al.|[2401.01134v1](http://arxiv.org/abs/2401.01134v1)|null|
+|**2024-01-02**|**Exploring Hyperspectral Anomaly Detection with Human Vision: A Small Target Aware Detector**|Jitao Ma et.al.|[2401.01093v1](http://arxiv.org/abs/2401.01093v1)|null|
+|**2024-01-02**|**Depth-discriminative Metric Learning for Monocular 3D Object Detection**|Wonhyeok Choi et.al.|[2401.01075v1](http://arxiv.org/abs/2401.01075v1)|null|
+|**2024-01-02**|**Real-Time Object Detection in Occluded Environment with Background Cluttering Effects Using Deep Learning**|Syed Muhammad Aamir et.al.|[2401.00986v1](http://arxiv.org/abs/2401.00986v1)|null|
+|**2024-01-01**|**Credible Teacher for Semi-Supervised Object Detection in Open Scene**|Jingyu Zhuang et.al.|[2401.00695v1](http://arxiv.org/abs/2401.00695v1)|null|
+|**2023-12-31**|**RainSD: Rain Style Diversification Module for Image Synthesis Enhancement using Feature-Level Style Distribution**|Hyeonjae Jeon et.al.|[2401.00460v1](http://arxiv.org/abs/2401.00460v1)|null|
+|**2023-12-31**|**From Text to Pixels: A Context-Aware Semantic Synergy Solution for Infrared and Visible Image Fusion**|Xingyuan Li et.al.|[2401.00421v1](http://arxiv.org/abs/2401.00421v1)|null|
+|**2023-12-31**|**Horizontal Federated Computer Vision**|Paul K. Mandal et.al.|[2401.00390v1](http://arxiv.org/abs/2401.00390v1)|null|
+|**2023-12-30**|**TPatch: A Triggered Physical Adversarial Patch**|Wenjun Zhu et.al.|[2401.00148v1](http://arxiv.org/abs/2401.00148v1)|**[link](https://github.com/usslab/tpatch)**|
 |**2023-12-28**|**SAR-Net: Multi-scale Direction-aware SAR Network via Global Information Fusion**|Mingxiang Cao et.al.|[2312.16943v1](http://arxiv.org/abs/2312.16943v1)|null|
 |**2023-12-28**|**EvPlug: Learn a Plug-and-Play Module for Event and Image Fusion**|Jianping Jiang et.al.|[2312.16933v1](http://arxiv.org/abs/2312.16933v1)|null|
 |**2023-12-28**|**DeLR: Active Learning for Detection with Decoupled Localization and Recognition Query**|Yuhang Zhang et.al.|[2312.16931v1](http://arxiv.org/abs/2312.16931v1)|null|
@@ -6085,7 +6116,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20240103>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240104>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
