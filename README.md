@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.04
+## Updated on 2024.01.05
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-03**|**The Power of Training: How Different Neural Network Setups Influence the Energy Demand**|Daniel Geißler et.al.|[2401.01851v1](http://arxiv.org/abs/2401.01851v1)|null|
+|**2024-01-03**|**FullLoRA-AT: Efficiently Boosting the Robustness of Pretrained Vision Transformers**|Zheng Yuan et.al.|[2401.01752v1](http://arxiv.org/abs/2401.01752v1)|null|
+|**2024-01-03**|**De-Confusing Pseudo-Labels in Source-Free Domain Adaptation**|Idit Diamant et.al.|[2401.01650v1](http://arxiv.org/abs/2401.01650v1)|null|
+|**2024-01-03**|**Towards a Foundation Purchasing Model: Pretrained Generative Autoregression on Transaction Sequences**|Piotr Skalski et.al.|[2401.01641v1](http://arxiv.org/abs/2401.01641v1)|**[link](https://github.com/featurespace/foundation-model-paper)**|
 |**2024-01-02**|**Deep-ELA: Deep Exploratory Landscape Analysis with Self-Supervised Pretrained Transformers for Single- and Multi-Objective Continuous Optimization Problems**|Moritz Vinzent Seiler et.al.|[2401.01192v1](http://arxiv.org/abs/2401.01192v1)|null|
 |**2024-01-02**|**Query-Based Knowledge Sharing for Open-Vocabulary Multi-Label Classification**|Xuelin Zhu et.al.|[2401.01181v1](http://arxiv.org/abs/2401.01181v1)|null|
 |**2024-01-02**|**Quokka: An Open-source Large Language Model ChatBot for Material Science**|Xianjun Yang et.al.|[2401.01089v1](http://arxiv.org/abs/2401.01089v1)|**[link](https://github.com/xianjun-yang/quokka)**|
@@ -2157,13 +2161,15 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240104>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240105>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-01-02**|**DialCLIP: Empowering CLIP as Multi-Modal Dialog Retriever**|Zhichao Yin et.al.|[2401.01076v1](http://arxiv.org/abs/2401.01076v1)|null|
+|**2024-01-03**|**Few-shot Adaptation of Multi-modal Foundation Models: A Survey**|Fan Liu et.al.|[2401.01736v1](http://arxiv.org/abs/2401.01736v1)|null|
+|**2024-01-03**|**Towards a Foundation Purchasing Model: Pretrained Generative Autoregression on Transaction Sequences**|Piotr Skalski et.al.|[2401.01641v1](http://arxiv.org/abs/2401.01641v1)|**[link](https://github.com/featurespace/foundation-model-paper)**|
+|**2024-01-03**|**DialCLIP: Empowering CLIP as Multi-Modal Dialog Retriever**|Zhichao Yin et.al.|[2401.01076v2](http://arxiv.org/abs/2401.01076v2)|null|
 |**2024-01-02**|**Learning in the Wild: Towards Leveraging Unlabeled Data for Effectively Tuning Pre-trained Code Models**|Shuzheng Gao et.al.|[2401.01060v1](http://arxiv.org/abs/2401.01060v1)|null|
 |**2024-01-02**|**Cheetah: Natural Language Generation for 517 African Languages**|Ife Adebara et.al.|[2401.01053v1](http://arxiv.org/abs/2401.01053v1)|null|
 |**2024-01-01**|**Downstream Task-Oriented Generative Model Selections on Synthetic Data Training for Fraud Detection Models**|Yinan Cheng et.al.|[2401.00974v1](http://arxiv.org/abs/2401.00974v1)|null|
@@ -4160,7 +4166,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20240104>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240105>back to top</a>)</p>
 
 ## adaptor
 
@@ -4245,18 +4251,19 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240104>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240105>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-03**|**DiffYOLO: Object Detection for Anti-Noise via YOLO and Diffusion Models**|Yichen Liu et.al.|[2401.01659v1](http://arxiv.org/abs/2401.01659v1)|null|
 |**2024-01-02**|**Deep Learning-Based Computational Model for Disease Identification in Cocoa Pods (Theobroma cacao L.)**|Darlyn Buenaño Vera et.al.|[2401.01247v1](http://arxiv.org/abs/2401.01247v1)|null|
 |**2024-01-02**|**Hybrid Pooling and Convolutional Network for Improving Accuracy and Training Convergence Speed in Object Detection**|Shiwen Zhao et.al.|[2401.01134v1](http://arxiv.org/abs/2401.01134v1)|null|
 |**2024-01-02**|**Exploring Hyperspectral Anomaly Detection with Human Vision: A Small Target Aware Detector**|Jitao Ma et.al.|[2401.01093v1](http://arxiv.org/abs/2401.01093v1)|null|
 |**2024-01-02**|**Depth-discriminative Metric Learning for Monocular 3D Object Detection**|Wonhyeok Choi et.al.|[2401.01075v1](http://arxiv.org/abs/2401.01075v1)|null|
 |**2024-01-02**|**Real-Time Object Detection in Occluded Environment with Background Cluttering Effects Using Deep Learning**|Syed Muhammad Aamir et.al.|[2401.00986v1](http://arxiv.org/abs/2401.00986v1)|null|
-|**2024-01-01**|**Credible Teacher for Semi-Supervised Object Detection in Open Scene**|Jingyu Zhuang et.al.|[2401.00695v1](http://arxiv.org/abs/2401.00695v1)|null|
+|**2024-01-03**|**Credible Teacher for Semi-Supervised Object Detection in Open Scene**|Jingyu Zhuang et.al.|[2401.00695v2](http://arxiv.org/abs/2401.00695v2)|null|
 |**2023-12-31**|**RainSD: Rain Style Diversification Module for Image Synthesis Enhancement using Feature-Level Style Distribution**|Hyeonjae Jeon et.al.|[2401.00460v1](http://arxiv.org/abs/2401.00460v1)|null|
 |**2023-12-31**|**From Text to Pixels: A Context-Aware Semantic Synergy Solution for Infrared and Visible Image Fusion**|Xingyuan Li et.al.|[2401.00421v1](http://arxiv.org/abs/2401.00421v1)|null|
 |**2023-12-31**|**Horizontal Federated Computer Vision**|Paul K. Mandal et.al.|[2401.00390v1](http://arxiv.org/abs/2401.00390v1)|null|
@@ -6116,7 +6123,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20240104>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240105>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
