@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.08
+## Updated on 2024.01.09
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-05**|**Locally Adaptive Neural 3D Morphable Models**|Michail Tarasiou et.al.|[2401.02937v1](http://arxiv.org/abs/2401.02937v1)|**[link](https://github.com/michaeltrs/lamm)**|
+|**2024-01-05**|**MLLM-Protector: Ensuring MLLM's Safety without Hurting Performance**|Renjie Pi et.al.|[2401.02906v1](http://arxiv.org/abs/2401.02906v1)|**[link](https://github.com/pipilurj/mllm-protector)**|
+|**2024-01-05**|**Pheme: Efficient and Conversational Speech Generation**|Paweł Budzianowski et.al.|[2401.02839v1](http://arxiv.org/abs/2401.02839v1)|null|
+|**2024-01-05**|**Fus-MAE: A cross-attention-based data fusion approach for Masked Autoencoders in remote sensing**|Hugo Chan-To-Hing et.al.|[2401.02764v1](http://arxiv.org/abs/2401.02764v1)|null|
+|**2024-01-05**|**Detection and Classification of Diabetic Retinopathy using Deep Learning Algorithms for Segmentation to Facilitate Referral Recommendation for Test and Treatment Prediction**|Manoj S H et.al.|[2401.02759v1](http://arxiv.org/abs/2401.02759v1)|**[link](https://github.com/Manoj-Sh-AI/Diabetic-Retinopathy-Detection-and-Clasification-System)**|
+|**2024-01-05**|**MAMI: Multi-Attentional Mutual-Information for Long Sequence Neuron Captioning**|Alfirsa Damasyifa Fauzulhaq et.al.|[2401.02744v1](http://arxiv.org/abs/2401.02744v1)|null|
+|**2024-01-05**|**Synergistic Formulaic Alpha Generation for Quantitative Trading based on Reinforcement Learning**|Hong-Gi Shin et.al.|[2401.02710v1](http://arxiv.org/abs/2401.02710v1)|null|
+|**2024-01-05**|**Benchmarking PathCLIP for Pathology Image Analysis**|Sunyi Zheng et.al.|[2401.02651v1](http://arxiv.org/abs/2401.02651v1)|null|
+|**2024-01-05**|**MOODv2: Masked Image Modeling for Out-of-Distribution Detection**|Jingyao Li et.al.|[2401.02611v1](http://arxiv.org/abs/2401.02611v1)|null|
+|**2024-01-04**|**Vulnerabilities Unveiled: Adversarially Attacking a Multimodal Vision Langauge Model for Pathology Imaging**|Jai Prakash Veerla et.al.|[2401.02565v1](http://arxiv.org/abs/2401.02565v1)|null|
 |**2024-01-04**|**LLaMA Pro: Progressive LLaMA with Block Expansion**|Chengyue Wu et.al.|[2401.02415v1](http://arxiv.org/abs/2401.02415v1)|**[link](https://github.com/tencentarc/llama-pro)**|
 |**2024-01-04**|**TinyLlama: An Open-Source Small Language Model**|Peiyuan Zhang et.al.|[2401.02385v1](http://arxiv.org/abs/2401.02385v1)|**[link](https://github.com/jzhang38/tinyllama)**|
 |**2024-01-04**|**DIALIGHT: Lightweight Multilingual Development and Evaluation of Task-Oriented Dialogue Systems with Large Language Models**|Songbo Hu et.al.|[2401.02208v1](http://arxiv.org/abs/2401.02208v1)|null|
@@ -2168,12 +2178,14 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240108>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240109>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-05**|**Denoising Vision Transformers**|Jiawei Yang et.al.|[2401.02957v1](http://arxiv.org/abs/2401.02957v1)|null|
+|**2024-01-05**|**Homophily-Related: Adaptive Hybrid Graph Filter for Multi-View Graph Clustering**|Zichen Wen et.al.|[2401.02682v1](http://arxiv.org/abs/2401.02682v1)|null|
 |**2024-01-04**|**Learning to Prompt with Text Only Supervision for Vision-Language Models**|Muhammad Uzair Khattak et.al.|[2401.02418v1](http://arxiv.org/abs/2401.02418v1)|**[link](https://github.com/muzairkhattak/protext)**|
 |**2024-01-04**|**TinyLlama: An Open-Source Small Language Model**|Peiyuan Zhang et.al.|[2401.02385v1](http://arxiv.org/abs/2401.02385v1)|**[link](https://github.com/jzhang38/tinyllama)**|
 |**2024-01-04**|**ClassWise-SAM-Adapter: Parameter Efficient Fine-tuning Adapts Segment Anything to SAR Domain for Semantic Segmentation**|Xinyang Pu et.al.|[2401.02326v1](http://arxiv.org/abs/2401.02326v1)|**[link](https://github.com/xypu98/cwsam)**|
@@ -4182,7 +4194,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20240108>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240109>back to top</a>)</p>
 
 ## adaptor
 
@@ -4267,12 +4279,15 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240108>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240109>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-05**|**VoxelNextFusion: A Simple, Unified and Effective Voxel Fusion Framework for Multi-Modal 3D Object Detection**|Ziying Song et.al.|[2401.02702v1](http://arxiv.org/abs/2401.02702v1)|null|
+|**2024-01-05**|**Hubble Asteroid Hunter III. Physical properties of newly found asteroids**|Pablo García-Martín et.al.|[2401.02605v1](http://arxiv.org/abs/2401.02605v1)|null|
+|**2024-01-04**|**Autonomous Multi-Rotor UAVs: A Holistic Approach to Design, Optimization, and Fabrication**|Aniruth A et.al.|[2401.02541v1](http://arxiv.org/abs/2401.02541v1)|null|
 |**2024-01-04**|**ShapeAug: Occlusion Augmentation for Event Camera Data**|Katharina Bendig et.al.|[2401.02274v1](http://arxiv.org/abs/2401.02274v1)|null|
 |**2024-01-03**|**FMGS: Foundation Model Embedded 3D Gaussian Splatting for Holistic 3D Scene Understanding**|Xingxing Zuo et.al.|[2401.01970v1](http://arxiv.org/abs/2401.01970v1)|null|
 |**2024-01-03**|**Distilling Temporal Knowledge with Masked Feature Reconstruction for 3D Object Detection**|Haowen Zheng et.al.|[2401.01918v1](http://arxiv.org/abs/2401.01918v1)|null|
@@ -6142,7 +6157,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20240108>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240109>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
