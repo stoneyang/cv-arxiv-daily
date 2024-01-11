@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.10
+## Updated on 2024.01.11
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-09**|**RoSA: Accurate Parameter-Efficient Fine-Tuning via Robust Adaptation**|Mahdi Nikdan et.al.|[2401.04679v1](http://arxiv.org/abs/2401.04679v1)|null|
+|**2024-01-09**|**DepressionEmo: A novel dataset for multilabel classification of depression emotions**|Abu Bakar Siddiqur Rahman et.al.|[2401.04655v1](http://arxiv.org/abs/2401.04655v1)|**[link](https://github.com/abubakarsiddiqurrahman/depressionemo)**|
+|**2024-01-09**|**Representative Feature Extraction During Diffusion Process for Sketch Extraction with One Example**|Kwan Yun et.al.|[2401.04362v1](http://arxiv.org/abs/2401.04362v1)|null|
+|**2024-01-09**|**Private Fine-tuning of Large Language Models with Zeroth-order Optimization**|Xinyu Tang et.al.|[2401.04343v1](http://arxiv.org/abs/2401.04343v1)|null|
+|**2024-01-08**|**Dr$^2$Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning**|Chen Zhao et.al.|[2401.04105v1](http://arxiv.org/abs/2401.04105v1)|null|
+|**2024-01-08**|**FFSplit: Split Feed-Forward Network For Optimizing Accuracy-Efficiency Trade-off in Language Model Inference**|Zirui Liu et.al.|[2401.04044v1](http://arxiv.org/abs/2401.04044v1)|null|
+|**2024-01-08**|**TTMs: Fast Multi-level Tiny Time Mixers for Improved Zero-shot and Few-shot Forecasting of Multivariate Time Series**|Vijay Ekambaram et.al.|[2401.03955v1](http://arxiv.org/abs/2401.03955v1)|null|
+|**2024-01-08**|**TeleChat Technical Report**|Zihan Wang et.al.|[2401.03804v1](http://arxiv.org/abs/2401.03804v1)|null|
+|**2024-01-08**|**Anatomy of Neural Language Models**|Majd Saleh et.al.|[2401.03797v1](http://arxiv.org/abs/2401.03797v1)|**[link](https://github.com/b-com/anatomynlm)**|
+|**2024-01-07**|**Transfer the linguistic representations from TTS to accent conversion with non-parallel data**|Xi Chen et.al.|[2401.03538v1](http://arxiv.org/abs/2401.03538v1)|null|
 |**2024-01-05**|**Locally Adaptive Neural 3D Morphable Models**|Michail Tarasiou et.al.|[2401.02937v1](http://arxiv.org/abs/2401.02937v1)|**[link](https://github.com/michaeltrs/lamm)**|
 |**2024-01-05**|**MLLM-Protector: Ensuring MLLM's Safety without Hurting Performance**|Renjie Pi et.al.|[2401.02906v1](http://arxiv.org/abs/2401.02906v1)|**[link](https://github.com/pipilurj/mllm-protector)**|
 |**2024-01-05**|**Pheme: Efficient and Conversational Speech Generation**|Paweł Budzianowski et.al.|[2401.02839v1](http://arxiv.org/abs/2401.02839v1)|null|
@@ -2178,12 +2188,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240110>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240111>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-09**|**Low-resource finetuning of foundation models beats state-of-the-art in histopathology**|Benedikt Roth et.al.|[2401.04720v1](http://arxiv.org/abs/2401.04720v1)|null|
+|**2024-01-09**|**Generic Knowledge Boosted Pre-training For Remote Sensing Images**|Ziyue Huang et.al.|[2401.04614v1](http://arxiv.org/abs/2401.04614v1)|**[link](https://github.com/floatingstarZ/GeRSP)**|
+|**2024-01-09**|**PhilEO Bench: Evaluating Geo-Spatial Foundation Models**|Casper Fibaek et.al.|[2401.04464v1](http://arxiv.org/abs/2401.04464v1)|null|
+|**2024-01-08**|**Dr$^2$Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning**|Chen Zhao et.al.|[2401.04105v1](http://arxiv.org/abs/2401.04105v1)|null|
+|**2024-01-08**|**Empirical Analysis of Efficient Fine-Tuning Methods for Large Pre-Trained Language Models**|Nigel Doering et.al.|[2401.04051v1](http://arxiv.org/abs/2401.04051v1)|null|
+|**2024-01-08**|**Exploratory Evaluation of Speech Content Masking**|Jennifer Williams et.al.|[2401.03936v1](http://arxiv.org/abs/2401.03936v1)|null|
+|**2024-01-08**|**Fully Attentional Networks with Self-emerging Token Labeling**|Bingyin Zhao et.al.|[2401.03844v1](http://arxiv.org/abs/2401.03844v1)|**[link](https://github.com/NVlabs/STL)**|
+|**2024-01-06**|**Understanding Representation Learnability of Nonlinear Self-Supervised Learning**|Ruofeng Yang et.al.|[2401.03214v1](http://arxiv.org/abs/2401.03214v1)|**[link](https://github.com/wanshuiyin/AAAI-2023-The-Learnability-of-Nonlinear-SSL)**|
+|**2024-01-06**|**Part-of-Speech Tagger for Bodo Language using Deep Learning approach**|Dhrubajyoti Pathak et.al.|[2401.03175v1](http://arxiv.org/abs/2401.03175v1)|null|
+|**2024-01-06**|**Preserving Silent Features for Domain Generalization**|Chujie Zhao et.al.|[2401.03170v1](http://arxiv.org/abs/2401.03170v1)|null|
 |**2024-01-05**|**Denoising Vision Transformers**|Jiawei Yang et.al.|[2401.02957v1](http://arxiv.org/abs/2401.02957v1)|null|
 |**2024-01-05**|**Homophily-Related: Adaptive Hybrid Graph Filter for Multi-View Graph Clustering**|Zichen Wen et.al.|[2401.02682v1](http://arxiv.org/abs/2401.02682v1)|null|
 |**2024-01-04**|**Learning to Prompt with Text Only Supervision for Vision-Language Models**|Muhammad Uzair Khattak et.al.|[2401.02418v1](http://arxiv.org/abs/2401.02418v1)|**[link](https://github.com/muzairkhattak/protext)**|
@@ -4194,14 +4214,15 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20240110>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240111>back to top</a>)</p>
 
 ## adaptor
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-06**|**Self-supervised Feature Adaptation for 3D Industrial Anomaly Detection**|Yuanpeng Tu et.al.|[2401.03145v1](http://arxiv.org/abs/2401.03145v1)|null|
 |**2024-01-02**|**Freeze the backbones: A Parameter-Efficient Contrastive Approach to Robust Medical Vision-Language Pre-training**|Jiuming Qin et.al.|[2401.01179v1](http://arxiv.org/abs/2401.01179v1)|null|
-|**2023-12-24**|**Deformable Audio Transformer for Audio Event Detection**|Wentao Zhu et.al.|[2312.16228v1](http://arxiv.org/abs/2312.16228v1)|null|
+|**2024-01-08**|**Deformable Audio Transformer for Audio Event Detection**|Wentao Zhu et.al.|[2312.16228v2](http://arxiv.org/abs/2312.16228v2)|null|
 |**2024-01-02**|**StyleSinger: Style Transfer for Out-of-Domain Singing Voice Synthesis**|Yu Zhang et.al.|[2312.10741v2](http://arxiv.org/abs/2312.10741v2)|null|
 |**2023-12-14**|**Context-PEFT: Efficient Multi-Modal, Multi-Task Fine-Tuning**|Avelina Asada Hadji-Kyriacou et.al.|[2312.08900v1](http://arxiv.org/abs/2312.08900v1)|null|
 |**2023-12-12**|**What, How, and When Should Object Detectors Update in Continually Changing Test Domains?**|Jayeon Yoo et.al.|[2312.08875v1](http://arxiv.org/abs/2312.08875v1)|null|
@@ -4279,12 +4300,22 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240110>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240111>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-09**|**Generic Knowledge Boosted Pre-training For Remote Sensing Images**|Ziyue Huang et.al.|[2401.04614v1](http://arxiv.org/abs/2401.04614v1)|**[link](https://github.com/floatingstarZ/GeRSP)**|
+|**2024-01-08**|**SOAP: Cross-sensor Domain Adaptation for 3D Object Detection Using Stationary Object Aggregation Pseudo-labelling**|Chengjie Huang et.al.|[2401.04230v1](http://arxiv.org/abs/2401.04230v1)|null|
+|**2024-01-08**|**Dr$^2$Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning**|Chen Zhao et.al.|[2401.04105v1](http://arxiv.org/abs/2401.04105v1)|null|
+|**2024-01-08**|**Resident space object detection method based on the connection between Fourier spectrum of the video data difference frame and the linear velocity projection**|V. S. Baranova et.al.|[2401.04021v1](http://arxiv.org/abs/2401.04021v1)|null|
+|**2024-01-08**|**MS-DETR: Efficient DETR Training with Mixed Supervision**|Chuyang Zhao et.al.|[2401.03989v1](http://arxiv.org/abs/2401.03989v1)|null|
+|**2024-01-08**|**RoboFusion: Towards Robust Multi-Modal 3D obiect Detection via SAM**|Ziying Song et.al.|[2401.03907v1](http://arxiv.org/abs/2401.03907v1)|null|
+|**2024-01-08**|**UFO: Unidentified Foreground Object Detection in 3D Point Cloud**|Hyunjun Choi et.al.|[2401.03846v1](http://arxiv.org/abs/2401.03846v1)|null|
+|**2024-01-09**|**WidthFormer: Toward Efficient Transformer-based BEV View Transformation**|Chenhongyi Yang et.al.|[2401.03836v2](http://arxiv.org/abs/2401.03836v2)|null|
+|**2024-01-08**|**Flying Bird Object Detection Algorithm in Surveillance Video**|Ziwei Sun et.al.|[2401.03749v1](http://arxiv.org/abs/2401.03749v1)|null|
+|**2024-01-07**|**A Multi-objective Newton Optimization Algorithm for Hyper-Parameter Search**|Qinwu Xu et.al.|[2401.03580v1](http://arxiv.org/abs/2401.03580v1)|null|
 |**2024-01-05**|**VoxelNextFusion: A Simple, Unified and Effective Voxel Fusion Framework for Multi-Modal 3D Object Detection**|Ziying Song et.al.|[2401.02702v1](http://arxiv.org/abs/2401.02702v1)|null|
 |**2024-01-05**|**Hubble Asteroid Hunter III. Physical properties of newly found asteroids**|Pablo García-Martín et.al.|[2401.02605v1](http://arxiv.org/abs/2401.02605v1)|null|
 |**2024-01-04**|**Autonomous Multi-Rotor UAVs: A Holistic Approach to Design, Optimization, and Fabrication**|Aniruth A et.al.|[2401.02541v1](http://arxiv.org/abs/2401.02541v1)|null|
@@ -6157,7 +6188,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20240110>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240111>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
