@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.01.11
+> Updated on 2024.01.12
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,7 +17,11 @@
 
 ## pretrain
 
-- 2024-01-09, **RoSA: Accurate Parameter-Efficient Fine-Tuning via Robust Adaptation**, Mahdi Nikdan et.al., Paper: [http://arxiv.org/abs/2401.04679v1](http://arxiv.org/abs/2401.04679v1)
+- 2024-01-10, **Physics guided dual Self-supervised learning for structure-based materials property prediction**, Nihang Fu et.al., Paper: [http://arxiv.org/abs/2401.05223v1](http://arxiv.org/abs/2401.05223v1)
+- 2024-01-10, **Pre-trained Large Language Models for Financial Sentiment Analysis**, Wei Luo et.al., Paper: [http://arxiv.org/abs/2401.05215v1](http://arxiv.org/abs/2401.05215v1)
+- 2024-01-10, **MISS: A Generative Pretraining and Finetuning Approach for Med-VQA**, Jiawei Chen et.al., Paper: [http://arxiv.org/abs/2401.05163v1](http://arxiv.org/abs/2401.05163v1)
+- 2024-01-09, **Phishing Website Detection through Multi-Model Analysis of HTML Content**, Furkan Çolhak et.al., Paper: [http://arxiv.org/abs/2401.04820v1](http://arxiv.org/abs/2401.04820v1)
+- 2024-01-10, **RoSA: Accurate Parameter-Efficient Fine-Tuning via Robust Adaptation**, Mahdi Nikdan et.al., Paper: [http://arxiv.org/abs/2401.04679v2](http://arxiv.org/abs/2401.04679v2)
 - 2024-01-09, **DepressionEmo: A novel dataset for multilabel classification of depression emotions**, Abu Bakar Siddiqur Rahman et.al., Paper: [http://arxiv.org/abs/2401.04655v1](http://arxiv.org/abs/2401.04655v1), Code: **[https://github.com/abubakarsiddiqurrahman/depressionemo](https://github.com/abubakarsiddiqurrahman/depressionemo)**
 - 2024-01-09, **Representative Feature Extraction During Diffusion Process for Sketch Extraction with One Example**, Kwan Yun et.al., Paper: [http://arxiv.org/abs/2401.04362v1](http://arxiv.org/abs/2401.04362v1)
 - 2024-01-09, **Private Fine-tuning of Large Language Models with Zeroth-order Optimization**, Xinyu Tang et.al., Paper: [http://arxiv.org/abs/2401.04343v1](http://arxiv.org/abs/2401.04343v1)
@@ -2186,11 +2190,16 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20240111>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240112>back to top</a>)</p>
 
 ## downstream
 
-- 2024-01-09, **Low-resource finetuning of foundation models beats state-of-the-art in histopathology**, Benedikt Roth et.al., Paper: [http://arxiv.org/abs/2401.04720v1](http://arxiv.org/abs/2401.04720v1)
+- 2024-01-10, **Do Vision and Language Encoders Represent the World Similarly?**, Mayug Maniparambil et.al., Paper: [http://arxiv.org/abs/2401.05224v1](http://arxiv.org/abs/2401.05224v1)
+- 2024-01-10, **SwiMDiff: Scene-wide Matching Contrastive Learning with Diffusion Constraint for Remote Sensing Image**, Jiayuan Tian et.al., Paper: [http://arxiv.org/abs/2401.05093v1](http://arxiv.org/abs/2401.05093v1)
+- 2024-01-10, **HiMTM: Hierarchical Multi-Scale Masked Time Series Modeling for Long-Term Forecasting**, Shubao Zhao et.al., Paper: [http://arxiv.org/abs/2401.05012v1](http://arxiv.org/abs/2401.05012v1)
+- 2024-01-10, **Structure-Preserving Physics-Informed Neural Networks With Energy or Lyapunov Structure**, Haoyu Chu et.al., Paper: [http://arxiv.org/abs/2401.04986v1](http://arxiv.org/abs/2401.04986v1)
+- 2024-01-10, **Learning Audio Concepts from Counterfactual Natural Language**, Ali Vosoughi et.al., Paper: [http://arxiv.org/abs/2401.04935v1](http://arxiv.org/abs/2401.04935v1), Code: **[https://github.com/ali-vosoughi/counterfactual-audio](https://github.com/ali-vosoughi/counterfactual-audio)**
+- 2024-01-09, **Low-resource finetuning of foundation models beats state-of-the-art in histopathology**, Benedikt Roth et.al., Paper: [http://arxiv.org/abs/2401.04720v1](http://arxiv.org/abs/2401.04720v1), Code: **[https://github.com/beneroth13/dinov2](https://github.com/beneroth13/dinov2)**
 - 2024-01-09, **Generic Knowledge Boosted Pre-training For Remote Sensing Images**, Ziyue Huang et.al., Paper: [http://arxiv.org/abs/2401.04614v1](http://arxiv.org/abs/2401.04614v1), Code: **[https://github.com/floatingstarZ/GeRSP](https://github.com/floatingstarZ/GeRSP)**
 - 2024-01-09, **PhilEO Bench: Evaluating Geo-Spatial Foundation Models**, Casper Fibaek et.al., Paper: [http://arxiv.org/abs/2401.04464v1](http://arxiv.org/abs/2401.04464v1)
 - 2024-01-08, **Dr$^2$Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning**, Chen Zhao et.al., Paper: [http://arxiv.org/abs/2401.04105v1](http://arxiv.org/abs/2401.04105v1)
@@ -4210,7 +4219,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20240111>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240112>back to top</a>)</p>
 
 ## adaptor
 
@@ -4294,15 +4303,18 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20240111>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240112>back to top</a>)</p>
 
 ## object detection
 
+- 2024-01-10, **CLIP-guided Source-free Object Detection in Aerial Images**, Nanqing Liu et.al., Paper: [http://arxiv.org/abs/2401.05168v1](http://arxiv.org/abs/2401.05168v1)
+- 2024-01-10, **Dual-Perspective Knowledge Enrichment for Semi-Supervised 3D Object Detection**, Yucheng Han et.al., Paper: [http://arxiv.org/abs/2401.05011v1](http://arxiv.org/abs/2401.05011v1)
+- 2024-01-10, **Optimising Graph Representation for Hardware Implementation of Graph Convolutional Networks for Event-based Vision**, Kamil Jeziorek et.al., Paper: [http://arxiv.org/abs/2401.04988v1](http://arxiv.org/abs/2401.04988v1)
 - 2024-01-09, **Generic Knowledge Boosted Pre-training For Remote Sensing Images**, Ziyue Huang et.al., Paper: [http://arxiv.org/abs/2401.04614v1](http://arxiv.org/abs/2401.04614v1), Code: **[https://github.com/floatingstarZ/GeRSP](https://github.com/floatingstarZ/GeRSP)**
 - 2024-01-08, **SOAP: Cross-sensor Domain Adaptation for 3D Object Detection Using Stationary Object Aggregation Pseudo-labelling**, Chengjie Huang et.al., Paper: [http://arxiv.org/abs/2401.04230v1](http://arxiv.org/abs/2401.04230v1)
 - 2024-01-08, **Dr$^2$Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning**, Chen Zhao et.al., Paper: [http://arxiv.org/abs/2401.04105v1](http://arxiv.org/abs/2401.04105v1)
 - 2024-01-08, **Resident space object detection method based on the connection between Fourier spectrum of the video data difference frame and the linear velocity projection**, V. S. Baranova et.al., Paper: [http://arxiv.org/abs/2401.04021v1](http://arxiv.org/abs/2401.04021v1)
-- 2024-01-08, **MS-DETR: Efficient DETR Training with Mixed Supervision**, Chuyang Zhao et.al., Paper: [http://arxiv.org/abs/2401.03989v1](http://arxiv.org/abs/2401.03989v1)
+- 2024-01-08, **MS-DETR: Efficient DETR Training with Mixed Supervision**, Chuyang Zhao et.al., Paper: [http://arxiv.org/abs/2401.03989v1](http://arxiv.org/abs/2401.03989v1), Code: **[https://github.com/atten4vis/ms-detr](https://github.com/atten4vis/ms-detr)**
 - 2024-01-08, **RoboFusion: Towards Robust Multi-Modal 3D obiect Detection via SAM**, Ziying Song et.al., Paper: [http://arxiv.org/abs/2401.03907v1](http://arxiv.org/abs/2401.03907v1)
 - 2024-01-08, **UFO: Unidentified Foreground Object Detection in 3D Point Cloud**, Hyunjun Choi et.al., Paper: [http://arxiv.org/abs/2401.03846v1](http://arxiv.org/abs/2401.03846v1)
 - 2024-01-09, **WidthFormer: Toward Efficient Transformer-based BEV View Transformation**, Chenhongyi Yang et.al., Paper: [http://arxiv.org/abs/2401.03836v2](http://arxiv.org/abs/2401.03836v2)
@@ -6180,7 +6192,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20240111>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240112>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
