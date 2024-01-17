@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.01.16
+> Updated on 2024.01.17
 
 <details>
   <summary>Table of Contents</summary>
@@ -2206,14 +2206,14 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20240116>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240117>back to top</a>)</p>
 
 ## downstream
 
 - 2024-01-12, **Deep Manifold Graph Auto-Encoder for Attributed Graph Embedding**, Bozhen Hu et.al., Paper: [http://arxiv.org/abs/2401.06727v1](http://arxiv.org/abs/2401.06727v1)
 - 2024-01-12, **A General Benchmark Framework is Dynamic Graph Neural Network Need**, Yusen Zhang et.al., Paper: [http://arxiv.org/abs/2401.06559v1](http://arxiv.org/abs/2401.06559v1)
 - 2024-01-12, **Self-supervised Learning of Dense Hierarchical Representations for Medical Image Segmentation**, Eytan Kats et.al., Paper: [http://arxiv.org/abs/2401.06473v1](http://arxiv.org/abs/2401.06473v1), Code: **[https://github.com/multimodallearning/hierarchical-dense-ssl](https://github.com/multimodallearning/hierarchical-dense-ssl)**
-- 2024-01-12, **Improving Graph Convolutional Networks with Transformer Layer in social-based items recommendation**, Thi Linh Hoang et.al., Paper: [http://arxiv.org/abs/2401.06436v1](http://arxiv.org/abs/2401.06436v1)
+- 2024-01-12, **Improving Graph Convolutional Networks with Transformer Layer in social-based items recommendation**, Thi Linh Hoang et.al., Paper: [http://arxiv.org/abs/2401.06436v1](http://arxiv.org/abs/2401.06436v1), Code: **[https://github.com/linhthi/ts](https://github.com/linhthi/ts)**
 - 2024-01-11, **Axis Tour: Word Tour Determines the Order of Axes in ICA-transformed Embeddings**, Hiroaki Yamagiwa et.al., Paper: [http://arxiv.org/abs/2401.06112v1](http://arxiv.org/abs/2401.06112v1)
 - 2024-01-11, **Investigating Data Contamination for Pre-training Language Models**, Minhao Jiang et.al., Paper: [http://arxiv.org/abs/2401.06059v1](http://arxiv.org/abs/2401.06059v1)
 - 2024-01-11, **Scaling Laws for Forgetting When Fine-Tuning Large Language Models**, Damjan Kalajdzievski et.al., Paper: [http://arxiv.org/abs/2401.05605v1](http://arxiv.org/abs/2401.05605v1)
@@ -4244,7 +4244,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20240116>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240117>back to top</a>)</p>
 
 ## adaptor
 
@@ -4328,7 +4328,7 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20240116>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240117>back to top</a>)</p>
 
 ## object detection
 
@@ -4337,8 +4337,8 @@
 - 2024-01-12, **Improving the Detection of Small Oriented Objects in Aerial Images**, Chandler Timm C. Doloriel et.al., Paper: [http://arxiv.org/abs/2401.06503v1](http://arxiv.org/abs/2401.06503v1), Code: **[https://github.com/chandlerbing65nm/apdetection](https://github.com/chandlerbing65nm/apdetection)**
 - 2024-01-12, **Dense Optical Flow Estimation Using Sparse Regularizers from Reduced Measurements**, Muhammad Wasim Nawaz et.al., Paper: [http://arxiv.org/abs/2401.06396v1](http://arxiv.org/abs/2401.06396v1)
 - 2024-01-11, **YOLO-Former: YOLO Shakes Hand With ViT**, Javad Khoramdel et.al., Paper: [http://arxiv.org/abs/2401.06244v1](http://arxiv.org/abs/2401.06244v1)
-- 2024-01-12, **Wasserstein Distance-based Expansion of Low-Density Latent Regions for Unknown Class Detection**, Prakash Mallick et.al., Paper: [http://arxiv.org/abs/2401.05594v2](http://arxiv.org/abs/2401.05594v2)
-- 2024-01-10, **Consensus Focus for Object Detection and minority classes**, Erik Isai Valle Salgado et.al., Paper: [http://arxiv.org/abs/2401.05530v1](http://arxiv.org/abs/2401.05530v1)
+- 2024-01-12, **Wasserstein Distance-based Expansion of Low-Density Latent Regions for Unknown Class Detection**, Prakash Mallick et.al., Paper: [http://arxiv.org/abs/2401.05594v2](http://arxiv.org/abs/2401.05594v2), Code: **[https://github.com/proxymallick/OpenDet_CWA](https://github.com/proxymallick/OpenDet_CWA)**
+- 2024-01-10, **Consensus Focus for Object Detection and minority classes**, Erik Isai Valle Salgado et.al., Paper: [http://arxiv.org/abs/2401.05530v1](http://arxiv.org/abs/2401.05530v1), Code: **[https://github.com/erikvalle/consensus-focus-for-object-detection](https://github.com/erikvalle/consensus-focus-for-object-detection)**
 - 2024-01-10, **CLIP-guided Source-free Object Detection in Aerial Images**, Nanqing Liu et.al., Paper: [http://arxiv.org/abs/2401.05168v1](http://arxiv.org/abs/2401.05168v1)
 - 2024-01-10, **Dual-Perspective Knowledge Enrichment for Semi-Supervised 3D Object Detection**, Yucheng Han et.al., Paper: [http://arxiv.org/abs/2401.05011v1](http://arxiv.org/abs/2401.05011v1), Code: **[https://github.com/tingxueronghua/dpke](https://github.com/tingxueronghua/dpke)**
 - 2024-01-10, **Optimising Graph Representation for Hardware Implementation of Graph Convolutional Networks for Event-based Vision**, Kamil Jeziorek et.al., Paper: [http://arxiv.org/abs/2401.04988v1](http://arxiv.org/abs/2401.04988v1)
@@ -6224,7 +6224,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20240116>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240117>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
