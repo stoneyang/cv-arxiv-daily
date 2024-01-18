@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.17
+## Updated on 2024.01.18
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-16**|**Salute the Classic: Revisiting Challenges of Machine Translation in the Age of Large Language Models**|Jianhui Pang et.al.|[2401.08350v1](http://arxiv.org/abs/2401.08350v1)|null|
+|**2024-01-16**|**MCRPL: A Pretrain, Prompt & Fine-tune Paradigm for Non-overlapping Many-to-one Cross-domain Recommendation**|Hao Liu et.al.|[2401.08228v1](http://arxiv.org/abs/2401.08228v1)|null|
+|**2024-01-16**|**SCoFT: Self-Contrastive Fine-Tuning for Equitable Image Generation**|Zhixuan Liu et.al.|[2401.08053v1](http://arxiv.org/abs/2401.08053v1)|null|
+|**2024-01-15**|**How does self-supervised pretraining improve robustness against noisy labels across various medical image classification datasets?**|Bidur Khanal et.al.|[2401.07990v1](http://arxiv.org/abs/2401.07990v1)|null|
+|**2024-01-15**|**Word Boundary Information Isn't Useful for Encoder Language Models**|Edward Gow-Smith et.al.|[2401.07923v1](http://arxiv.org/abs/2401.07923v1)|null|
+|**2024-01-15**|**EMBRE: Entity-aware Masking for Biomedical Relation Extraction**|Mingjie Li et.al.|[2401.07877v1](http://arxiv.org/abs/2401.07877v1)|null|
+|**2024-01-15**|**VeCAF: VLM-empowered Collaborative Active Finetuning with Training Objective Awareness**|Rongyu Zhang et.al.|[2401.07853v1](http://arxiv.org/abs/2401.07853v1)|null|
+|**2024-01-15**|**Fusing Echocardiography Images and Medical Records for Continuous Patient Stratification**|Nathan Painchaud et.al.|[2401.07796v1](http://arxiv.org/abs/2401.07796v1)|null|
+|**2024-01-15**|**On the importance of Data Scale in Pretraining Arabic Language Models**|Abbas Ghaddar et.al.|[2401.07760v1](http://arxiv.org/abs/2401.07760v1)|**[link](https://github.com/huawei-noah/Pretrained-Language-Model)**|
+|**2024-01-15**|**HexaGen3D: StableDiffusion is just one step away from Fast and Diverse Text-to-3D Generation**|Antoine Mercier et.al.|[2401.07727v1](http://arxiv.org/abs/2401.07727v1)|null|
 |**2024-01-12**|**Scalable 3D Panoptic Segmentation With Superpoint Graph Clustering**|Damien Robert et.al.|[2401.06704v1](http://arxiv.org/abs/2401.06704v1)|**[link](https://github.com/drprojects/superpoint_transformer)**|
 |**2024-01-12**|**TransliCo: A Contrastive Learning Framework to Address the Script Barrier in Multilingual Pretrained Language Models**|Yihong Liu et.al.|[2401.06620v1](http://arxiv.org/abs/2401.06620v1)|null|
 |**2024-01-12**|**BOK-VQA: Bilingual Outside Knowledge-based Visual Question Answering via Graph Representation Pretraining**|Minjun Kim et.al.|[2401.06443v1](http://arxiv.org/abs/2401.06443v1)|null|
@@ -2212,12 +2222,22 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240117>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240118>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-16**|**ECAPA2: A Hybrid Neural Network Architecture and Training Strategy for Robust Speaker Embeddings**|Jenthe Thienpondt et.al.|[2401.08342v1](http://arxiv.org/abs/2401.08342v1)|null|
+|**2024-01-16**|**Transferring Core Knowledge via Learngenes**|Fu Feng et.al.|[2401.08139v1](http://arxiv.org/abs/2401.08139v1)|null|
+|**2024-01-16**|**Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities**|Xu Yan et.al.|[2401.08045v1](http://arxiv.org/abs/2401.08045v1)|**[link](https://github.com/zhanghm1995/forge_vfm4ad)**|
+|**2024-01-15**|**MAPLE: Multilingual Evaluation of Parameter Efficient Finetuning of Large Language Models**|Divyanshu Aggarwal et.al.|[2401.07598v1](http://arxiv.org/abs/2401.07598v1)|null|
+|**2024-01-15**|**Must: Maximizing Latent Capacity of Spatial Transcriptomics Data**|Zelin Zang et.al.|[2401.07543v1](http://arxiv.org/abs/2401.07543v1)|null|
+|**2024-01-15**|**One for All: Toward Unified Foundation Models for Earth Vision**|Zhitong Xiong et.al.|[2401.07527v1](http://arxiv.org/abs/2401.07527v1)|null|
+|**2024-01-15**|**Model Editing at Scale leads to Gradual and Catastrophic Forgetting**|Akshat Gupta et.al.|[2401.07453v1](http://arxiv.org/abs/2401.07453v1)|null|
+|**2024-01-14**|**Small Language Model Can Self-correct**|Haixia Han et.al.|[2401.07301v1](http://arxiv.org/abs/2401.07301v1)|null|
+|**2024-01-14**|**CANDLE: Iterative Conceptualization and Instantiation Distillation from Large Language Models for Commonsense Reasoning**|Weiqi Wang et.al.|[2401.07286v1](http://arxiv.org/abs/2401.07286v1)|null|
+|**2024-01-14**|**Enhanced Few-Shot Class-Incremental Learning via Ensemble Models**|Mingli Zhu et.al.|[2401.07208v1](http://arxiv.org/abs/2401.07208v1)|null|
 |**2024-01-12**|**Deep Manifold Graph Auto-Encoder for Attributed Graph Embedding**|Bozhen Hu et.al.|[2401.06727v1](http://arxiv.org/abs/2401.06727v1)|null|
 |**2024-01-12**|**A General Benchmark Framework is Dynamic Graph Neural Network Need**|Yusen Zhang et.al.|[2401.06559v1](http://arxiv.org/abs/2401.06559v1)|null|
 |**2024-01-12**|**Self-supervised Learning of Dense Hierarchical Representations for Medical Image Segmentation**|Eytan Kats et.al.|[2401.06473v1](http://arxiv.org/abs/2401.06473v1)|**[link](https://github.com/multimodallearning/hierarchical-dense-ssl)**|
@@ -4252,12 +4272,15 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20240117>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240118>back to top</a>)</p>
 
 ## adaptor
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-16**|**Cross-Domain Few-Shot Segmentation via Iterative Support-Query Correspondence Mining**|Jiahao Nie et.al.|[2401.08407v1](http://arxiv.org/abs/2401.08407v1)|null|
+|**2024-01-13**|**Quantized Side Tuning: Fast and Memory-Efficient Tuning of Quantized Large Language Models**|Zhengxin Zhang et.al.|[2401.07159v1](http://arxiv.org/abs/2401.07159v1)|**[link](https://github.com/youarespecialtome/qst)**|
+|**2024-01-13**|**Adaptoring: Adapter Generation to Provide an Alternative API for a Library**|Lars Reimann et.al.|[2401.07053v1](http://arxiv.org/abs/2401.07053v1)|null|
 |**2024-01-06**|**Self-supervised Feature Adaptation for 3D Industrial Anomaly Detection**|Yuanpeng Tu et.al.|[2401.03145v1](http://arxiv.org/abs/2401.03145v1)|null|
 |**2024-01-02**|**Freeze the backbones: A Parameter-Efficient Contrastive Approach to Robust Medical Vision-Language Pre-training**|Jiuming Qin et.al.|[2401.01179v1](http://arxiv.org/abs/2401.01179v1)|null|
 |**2024-01-08**|**Deformable Audio Transformer for Audio Event Detection**|Wentao Zhu et.al.|[2312.16228v2](http://arxiv.org/abs/2312.16228v2)|null|
@@ -4338,12 +4361,22 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240117>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240118>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-16**|**Robotic Imitation of Human Actions**|Josua Spisak et.al.|[2401.08381v1](http://arxiv.org/abs/2401.08381v1)|null|
+|**2024-01-16**|**SAMF: Small-Area-Aware Multi-focus Image Fusion for Object Detection**|Xilai Li et.al.|[2401.08357v1](http://arxiv.org/abs/2401.08357v1)|**[link](https://github.com/ixilai/samf)**|
+|**2024-01-16**|**Generative Denoise Distillation: Simple Stochastic Noises Induce Efficient Knowledge Transfer for Dense Prediction**|Zhaoge Liu et.al.|[2401.08332v1](http://arxiv.org/abs/2401.08332v1)|**[link](https://github.com/ZhgLiu/GDD)**|
+|**2024-01-16**|**End-to-End Optimized Image Compression with the Frequency-Oriented Transform**|Yuefeng Zhang et.al.|[2401.08194v1](http://arxiv.org/abs/2401.08194v1)|null|
+|**2024-01-16**|**Object-Oriented Semantic Mapping for Reliable UAVs Navigation**|Thanh Nguyen Canh et.al.|[2401.08132v1](http://arxiv.org/abs/2401.08132v1)|null|
+|**2024-01-16**|**Robust Tiny Object Detection in Aerial Images amidst Label Noise**|Haoran Zhu et.al.|[2401.08056v1](http://arxiv.org/abs/2401.08056v1)|null|
+|**2024-01-16**|**Small Object Detection by DETR via Information Augmentation and Adaptive Feature Fusion**|Ji Huang et.al.|[2401.08017v1](http://arxiv.org/abs/2401.08017v1)|null|
+|**2024-01-15**|**Machine Learning Based Object Tracking**|Md Rakibul Karim Akanda et.al.|[2401.07929v1](http://arxiv.org/abs/2401.07929v1)|null|
+|**2024-01-15**|**Seeing the Unseen: Visual Common Sense for Semantic Placement**|Ram Ramrakhya et.al.|[2401.07770v1](http://arxiv.org/abs/2401.07770v1)|null|
+|**2024-01-15**|**Fine-Grained Prototypes Distillation for Few-Shot Object Detection**|Zichen Wang et.al.|[2401.07629v1](http://arxiv.org/abs/2401.07629v1)|null|
 |**2024-01-12**|**Embedded Planogram Compliance Control System**|M. Erkin Yücel et.al.|[2401.06690v1](http://arxiv.org/abs/2401.06690v1)|null|
 |**2024-01-12**|**Robustness-Aware 3D Object Detection in Autonomous Driving: A Review and Outlook**|Ziying Song et.al.|[2401.06542v1](http://arxiv.org/abs/2401.06542v1)|null|
 |**2024-01-12**|**Improving the Detection of Small Oriented Objects in Aerial Images**|Chandler Timm C. Doloriel et.al.|[2401.06503v1](http://arxiv.org/abs/2401.06503v1)|**[link](https://github.com/chandlerbing65nm/apdetection)**|
@@ -6236,7 +6269,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20240117>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240118>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
