@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.22
+## Updated on 2024.01.23
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-19**|**Mitigating Hallucinations of Large Language Models via Knowledge Consistent Alignment**|Fanqi Wan et.al.|[2401.10768v1](http://arxiv.org/abs/2401.10768v1)|null|
+|**2024-01-19**|**DGL: Dynamic Global-Local Prompt Tuning for Text-Video Retrieval**|Xiangpeng Yang et.al.|[2401.10588v1](http://arxiv.org/abs/2401.10588v1)|null|
+|**2024-01-19**|**Name Tagging Under Domain Shift via Metric Learning for Life Sciences**|Hongyi Liu et.al.|[2401.10472v1](http://arxiv.org/abs/2401.10472v1)|null|
+|**2024-01-19**|**Investigating Training Strategies and Model Robustness of Low-Rank Adaptation for Language Modeling in Speech Recognition**|Yu Yu et.al.|[2401.10447v1](http://arxiv.org/abs/2401.10447v1)|null|
 |**2024-01-18**|**Supervised Fine-tuning in turn Improves Visual Foundation Models**|Xiaohu Jiang et.al.|[2401.10222v1](http://arxiv.org/abs/2401.10222v1)|**[link](https://github.com/tencentarc/visft)**|
 |**2024-01-18**|**Evolutionary Computation in the Era of Large Language Model: Survey and Roadmap**|Xingyu Wu et.al.|[2401.10034v1](http://arxiv.org/abs/2401.10034v1)|null|
 |**2024-01-18**|**Gender Bias in Machine Translation and The Era of Large Language Models**|Eva Vanmassenhove et.al.|[2401.10016v1](http://arxiv.org/abs/2401.10016v1)|null|
@@ -2241,12 +2245,18 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240122>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240123>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-19**|**FIMBA: Evaluating the Robustness of AI in Genomics via Feature Importance Adversarial Attacks**|Heorhii Skovorodnikov et.al.|[2401.10657v1](http://arxiv.org/abs/2401.10657v1)|null|
+|**2024-01-19**|**AAT: Adapting Audio Transformer for Various Acoustics Recognition Tasks**|Yun Liang et.al.|[2401.10544v1](http://arxiv.org/abs/2401.10544v1)|null|
+|**2024-01-19**|**Enhancing medical vision-language contrastive learning via inter-matching relation modelling**|Mingjian Li et.al.|[2401.10501v1](http://arxiv.org/abs/2401.10501v1)|null|
+|**2024-01-19**|**CBVS: A Large-Scale Chinese Image-Text Benchmark for Real-World Short Video Search Scenarios**|Xiangshuo Qiao et.al.|[2401.10475v1](http://arxiv.org/abs/2401.10475v1)|null|
+|**2024-01-19**|**LDReg: Local Dimensionality Regularized Self-Supervised Learning**|Hanxun Huang et.al.|[2401.10474v1](http://arxiv.org/abs/2401.10474v1)|**[link](https://github.com/HanxunH/LDReg)**|
+|**2024-01-19**|**Breaking the Curse of Multilinguality with Cross-lingual Expert Language Models**|Terra Blevins et.al.|[2401.10440v1](http://arxiv.org/abs/2401.10440v1)|null|
 |**2024-01-18**|**Explaining the Implicit Neural Canvas: Connecting Pixels to Neurons by Tracing their Contributions**|Namitha Padmanabhan et.al.|[2401.10217v1](http://arxiv.org/abs/2401.10217v1)|null|
 |**2024-01-18**|**Explicitly Disentangled Representations in Object-Centric Learning**|Riccardo Majellaro et.al.|[2401.10148v1](http://arxiv.org/abs/2401.10148v1)|**[link](https://github.com/riccardomajellaro/disentangled-slot-attention)**|
 |**2024-01-18**|**Marrying Adapters and Mixup to Efficiently Enhance the Adversarial Robustness of Pre-Trained Language Models for Text Classification**|Tuc Nguyen et.al.|[2401.10111v1](http://arxiv.org/abs/2401.10111v1)|null|
@@ -4306,7 +4316,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20240122>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240123>back to top</a>)</p>
 
 ## adaptor
 
@@ -4395,12 +4405,19 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240122>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240123>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-19**|**TDC-less Direct Time-of-Flight Imaging Using Spiking Neural Networks**|Jack MacLean et.al.|[2401.10793v1](http://arxiv.org/abs/2401.10793v1)|null|
+|**2024-01-19**|**Measuring the Impact of Scene Level Objects on Object Detection: Towards Quantitative Explanations of Detection Decisions**|Lynn Vonder Haar et.al.|[2401.10790v1](http://arxiv.org/abs/2401.10790v1)|null|
+|**2024-01-19**|**Removal and Selection: Improving RGB-Infrared Object Detection via Coarse-to-Fine Fusion**|Tianyi Zhao et.al.|[2401.10731v1](http://arxiv.org/abs/2401.10731v1)|null|
+|**2024-01-19**|**BadODD: Bangladeshi Autonomous Driving Object Detection Dataset**|Mirza Nihal Baig et.al.|[2401.10659v1](http://arxiv.org/abs/2401.10659v1)|null|
+|**2024-01-19**|**Focaler-IoU: More Focused Intersection over Union Loss**|Hao Zhang et.al.|[2401.10525v1](http://arxiv.org/abs/2401.10525v1)|null|
+|**2024-01-18**|**M3BUNet: Mobile Mean Max UNet for Pancreas Segmentation on CT-Scans**|Juwita juwita et.al.|[2401.10419v1](http://arxiv.org/abs/2401.10419v1)|null|
+|**2024-01-18**|**Agricultural Object Detection with You Look Only Once (YOLO) Algorithm: A Bibliometric and Systematic Literature Review**|Chetan M Badgujar et.al.|[2401.10379v1](http://arxiv.org/abs/2401.10379v1)|null|
 |**2024-01-18**|**A Simple Latent Diffusion Approach for Panoptic Segmentation and Mask Inpainting**|Wouter Van Gansbeke et.al.|[2401.10227v1](http://arxiv.org/abs/2401.10227v1)|**[link](https://github.com/segments-ai/latent-diffusion-segmentation)**|
 |**2024-01-18**|**Depth Over RGB: Automatic Evaluation of Open Surgery Skills Using Depth Camera**|Ido Zuckerman et.al.|[2401.10037v1](http://arxiv.org/abs/2401.10037v1)|null|
 |**2024-01-18**|**Developing an AI-based Integrated System for Bee Health Evaluation**|Andrew Liang et.al.|[2401.09988v1](http://arxiv.org/abs/2401.09988v1)|null|
@@ -6311,7 +6328,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20240122>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240123>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
