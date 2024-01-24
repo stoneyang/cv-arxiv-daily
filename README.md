@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.23
+## Updated on 2024.01.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,7 +19,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-01-19**|**Mitigating Hallucinations of Large Language Models via Knowledge Consistent Alignment**|Fanqi Wan et.al.|[2401.10768v1](http://arxiv.org/abs/2401.10768v1)|null|
+|**2024-01-22**|**APT: Adaptive Pruning and Tuning Pretrained Language Models for Efficient Training and Inference**|Bowen Zhao et.al.|[2401.12200v1](http://arxiv.org/abs/2401.12200v1)|null|
+|**2024-01-22**|**An Empirical Analysis of In-context Learning Abilities of LLMs for MT**|Pranjal A. Chitale et.al.|[2401.12097v1](http://arxiv.org/abs/2401.12097v1)|null|
+|**2024-01-22**|**Multi-level Cross-modal Alignment for Image Clustering**|Liping Qiu et.al.|[2401.11740v1](http://arxiv.org/abs/2401.11740v1)|null|
+|**2024-01-22**|**M2-CLIP: A Multimodal, Multi-task Adapting Framework for Video Action Recognition**|Mengmeng Wang et.al.|[2401.11649v1](http://arxiv.org/abs/2401.11649v1)|null|
+|**2024-01-21**|**MolTailor: Tailoring Chemical Molecular Representation to Specific Tasks via Text Prompts**|Haoqiang Guo et.al.|[2401.11403v1](http://arxiv.org/abs/2401.11403v1)|**[link](https://github.com/scir-hi/moltailor)**|
+|**2024-01-21**|**LLMRA: Multi-modal Large Language Model based Restoration Assistant**|Xiaoyu Jin et.al.|[2401.11401v1](http://arxiv.org/abs/2401.11401v1)|null|
+|**2024-01-19**|**Revealing Emotional Clusters in Speaker Embeddings: A Contrastive Learning Strategy for Speech Emotion Recognition**|Ismail Rasim Ulgen et.al.|[2401.11017v1](http://arxiv.org/abs/2401.11017v1)|null|
+|**2024-01-19**|**Mitigating Hallucinations of Large Language Models via Knowledge Consistent Alignment**|Fanqi Wan et.al.|[2401.10768v1](http://arxiv.org/abs/2401.10768v1)|**[link](https://github.com/fanqiwan/kca)**|
 |**2024-01-19**|**DGL: Dynamic Global-Local Prompt Tuning for Text-Video Retrieval**|Xiangpeng Yang et.al.|[2401.10588v1](http://arxiv.org/abs/2401.10588v1)|null|
 |**2024-01-19**|**Name Tagging Under Domain Shift via Metric Learning for Life Sciences**|Hongyi Liu et.al.|[2401.10472v1](http://arxiv.org/abs/2401.10472v1)|null|
 |**2024-01-19**|**Investigating Training Strategies and Model Robustness of Low-Rank Adaptation for Language Modeling in Speech Recognition**|Yu Yu et.al.|[2401.10447v1](http://arxiv.org/abs/2401.10447v1)|null|
@@ -2241,13 +2248,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240123>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240124>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-01-19**|**FIMBA: Evaluating the Robustness of AI in Genomics via Feature Importance Adversarial Attacks**|Heorhii Skovorodnikov et.al.|[2401.10657v1](http://arxiv.org/abs/2401.10657v1)|null|
+|**2024-01-22**|**An Empirical Analysis of In-context Learning Abilities of LLMs for MT**|Pranjal A. Chitale et.al.|[2401.12097v1](http://arxiv.org/abs/2401.12097v1)|null|
+|**2024-01-22**|**LightDiC: A Simple yet Effective Approach for Large-scale Digraph Representation Learning**|Xunkai Li et.al.|[2401.11772v1](http://arxiv.org/abs/2401.11772v1)|**[link](https://github.com/xkli-allen/lightdic)**|
+|**2024-01-22**|**Multi-level Cross-modal Alignment for Image Clustering**|Liping Qiu et.al.|[2401.11740v1](http://arxiv.org/abs/2401.11740v1)|null|
+|**2024-01-21**|**Deformable Endoscopic Tissues Reconstruction with Gaussian Splatting**|Lingting Zhu et.al.|[2401.11535v1](http://arxiv.org/abs/2401.11535v1)|null|
+|**2024-01-21**|**Embedded Hyperspectral Band Selection with Adaptive Optimization for Image Semantic Segmentation**|Yaniv Zimmer et.al.|[2401.11420v1](http://arxiv.org/abs/2401.11420v1)|null|
+|**2024-01-20**|**PRILoRA: Pruned and Rank-Increasing Low-Rank Adaptation**|Nadav Benedek et.al.|[2401.11316v1](http://arxiv.org/abs/2401.11316v1)|null|
+|**2024-01-20**|**Selecting Walk Schemes for Database Embedding**|Yuval Lev Lubarsky et.al.|[2401.11215v1](http://arxiv.org/abs/2401.11215v1)|null|
+|**2024-01-20**|**InferAligner: Inference-Time Alignment for Harmlessness through Cross-Model Guidance**|Pengyu Wang et.al.|[2401.11206v1](http://arxiv.org/abs/2401.11206v1)|**[link](https://github.com/jihuai-wpy/inferaligner)**|
+|**2024-01-19**|**One Step Learning, One Step Review**|Xiaolong Huang et.al.|[2401.10962v1](http://arxiv.org/abs/2401.10962v1)|**[link](https://github.com/rainbow-xiao/olor-aaai-2024)**|
+|**2024-01-19**|**FIMBA: Evaluating the Robustness of AI in Genomics via Feature Importance Adversarial Attacks**|Heorhii Skovorodnikov et.al.|[2401.10657v1](http://arxiv.org/abs/2401.10657v1)|**[link](https://github.com/heorhiis/fimba-attack)**|
 |**2024-01-19**|**AAT: Adapting Audio Transformer for Various Acoustics Recognition Tasks**|Yun Liang et.al.|[2401.10544v1](http://arxiv.org/abs/2401.10544v1)|null|
 |**2024-01-19**|**Enhancing medical vision-language contrastive learning via inter-matching relation modelling**|Mingjian Li et.al.|[2401.10501v1](http://arxiv.org/abs/2401.10501v1)|null|
 |**2024-01-19**|**CBVS: A Large-Scale Chinese Image-Text Benchmark for Real-World Short Video Search Scenarios**|Xiangshuo Qiao et.al.|[2401.10475v1](http://arxiv.org/abs/2401.10475v1)|null|
@@ -4312,7 +4328,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20240123>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240124>back to top</a>)</p>
 
 ## adaptor
 
@@ -4401,12 +4417,22 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240123>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240124>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-22**|**OK-Robot: What Really Matters in Integrating Open-Knowledge Models for Robotics**|Peiqi Liu et.al.|[2401.12202v1](http://arxiv.org/abs/2401.12202v1)|null|
+|**2024-01-22**|**Out-of-Distribution Detection & Applications With Ablated Learned Temperature Energy**|Will LeVine et.al.|[2401.12129v1](http://arxiv.org/abs/2401.12129v1)|**[link](https://github.com/anonymousoodauthor/abet)**|
+|**2024-01-22**|**A Saliency Enhanced Feature Fusion based multiscale RGB-D Salient Object Detection Network**|Rui Huang et.al.|[2401.11914v1](http://arxiv.org/abs/2401.11914v1)|null|
+|**2024-01-22**|**Large receptive field strategy and important feature extraction strategy in 3D object detection**|Leichao Cui et.al.|[2401.11913v1](http://arxiv.org/abs/2401.11913v1)|null|
+|**2024-01-22**|**Detect-Order-Construct: A Tree Construction based Approach for Hierarchical Document Structure Analysis**|Jiawei Wang et.al.|[2401.11874v1](http://arxiv.org/abs/2401.11874v1)|null|
+|**2024-01-22**|**Rethinking Centered Kernel Alignment in Knowledge Distillation**|Zikai Zhou et.al.|[2401.11824v1](http://arxiv.org/abs/2401.11824v1)|null|
+|**2024-01-22**|**Concealed Object Segmentation with Hierarchical Coherence Modeling**|Fengyang Xiao et.al.|[2401.11767v1](http://arxiv.org/abs/2401.11767v1)|null|
+|**2024-01-22**|**MsSVT++: Mixed-scale Sparse Voxel Transformer with Center Voting for 3D Object Detection**|Jianan Li et.al.|[2401.11718v1](http://arxiv.org/abs/2401.11718v1)|null|
+|**2024-01-21**|**A Survey on African Computer Vision Datasets, Topics and Researchers**|Abdul-Hakeem Omotayo et.al.|[2401.11617v1](http://arxiv.org/abs/2401.11617v1)|null|
+|**2024-01-21**|**ANNA: A Deep Learning Based Dataset in Heterogeneous Traffic for Autonomous Vehicles**|Mahedi Kamal et.al.|[2401.11358v1](http://arxiv.org/abs/2401.11358v1)|null|
 |**2024-01-19**|**TDC-less Direct Time-of-Flight Imaging Using Spiking Neural Networks**|Jack MacLean et.al.|[2401.10793v1](http://arxiv.org/abs/2401.10793v1)|null|
 |**2024-01-19**|**Measuring the Impact of Scene Level Objects on Object Detection: Towards Quantitative Explanations of Detection Decisions**|Lynn Vonder Haar et.al.|[2401.10790v1](http://arxiv.org/abs/2401.10790v1)|null|
 |**2024-01-19**|**Removal and Selection: Improving RGB-Infrared Object Detection via Coarse-to-Fine Fusion**|Tianyi Zhao et.al.|[2401.10731v1](http://arxiv.org/abs/2401.10731v1)|null|
@@ -6324,7 +6350,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20240123>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240124>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
