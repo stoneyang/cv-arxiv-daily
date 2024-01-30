@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.01.29
+> Updated on 2024.01.30
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,12 @@
 
 ## pretrain
 
+- 2024-01-26, **RESPRECT: Speeding-up Multi-fingered Grasping with Residual Reinforcement Learning**, Federico Ceola et.al., Paper: [http://arxiv.org/abs/2401.14858v1](http://arxiv.org/abs/2401.14858v1)
+- 2024-01-26, **Endowing Protein Language Models with Structural Knowledge**, Dexiong Chen et.al., Paper: [http://arxiv.org/abs/2401.14819v1](http://arxiv.org/abs/2401.14819v1)
+- 2024-01-26, **MaLLaM -- Malaysia Large Language Model**, Husein Zolkepli et.al., Paper: [http://arxiv.org/abs/2401.14680v1](http://arxiv.org/abs/2401.14680v1)
+- 2024-01-26, **An Empirical Investigation of Domain Adaptation Ability for Chinese Spelling Check Models**, Xi Wang et.al., Paper: [http://arxiv.org/abs/2401.14630v1](http://arxiv.org/abs/2401.14630v1)
+- 2024-01-26, **Towards Lifelong Scene Graph Generation with Knowledge-ware In-context Prompt Learning**, Tao He et.al., Paper: [http://arxiv.org/abs/2401.14626v1](http://arxiv.org/abs/2401.14626v1)
+- 2024-01-25, **MResT: Multi-Resolution Sensing for Real-Time Control with Vision-Language Models**, Saumya Saxena et.al., Paper: [http://arxiv.org/abs/2401.14502v1](http://arxiv.org/abs/2401.14502v1)
 - 2024-01-25, **Rethinking Patch Dependence for Masked Autoencoders**, Letian Fu et.al., Paper: [http://arxiv.org/abs/2401.14391v1](http://arxiv.org/abs/2401.14391v1)
 - 2024-01-25, **TURNA: A Turkish Encoder-Decoder Language Model for Enhanced Understanding and Generation**, Gökçe Uludoğan et.al., Paper: [http://arxiv.org/abs/2401.14373v1](http://arxiv.org/abs/2401.14373v1), Code: **[https://github.com/boun-tabi-lmg/turkish-lm-tuner](https://github.com/boun-tabi-lmg/turkish-lm-tuner)**
 - 2024-01-25, **Sketch2NeRF: Multi-view Sketch-guided Text-to-3D Generation**, Minglin Chen et.al., Paper: [http://arxiv.org/abs/2401.14257v1](http://arxiv.org/abs/2401.14257v1)
@@ -2270,10 +2276,14 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20240129>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240130>back to top</a>)</p>
 
 ## downstream
 
+- 2024-01-26, **LongFin: A Multimodal Document Understanding Model for Long Financial Domain Documents**, Ahmed Masry et.al., Paper: [http://arxiv.org/abs/2401.15050v1](http://arxiv.org/abs/2401.15050v1)
+- 2024-01-26, **Memory-Inspired Temporal Prompt Interaction for Text-Image Classification**, Xinyao Yu et.al., Paper: [http://arxiv.org/abs/2401.14856v1](http://arxiv.org/abs/2401.14856v1)
+- 2024-01-26, **An Empirical Investigation of Domain Adaptation Ability for Chinese Spelling Check Models**, Xi Wang et.al., Paper: [http://arxiv.org/abs/2401.14630v1](http://arxiv.org/abs/2401.14630v1)
+- 2024-01-26, **Toward Practical Automatic Speech Recognition and Post-Processing: a Call for Explainable Error Benchmark Guideline**, Seonmin Koo et.al., Paper: [http://arxiv.org/abs/2401.14625v1](http://arxiv.org/abs/2401.14625v1)
 - 2024-01-25, **Modular Adaptation of Multilingual Encoders to Written Swiss German Dialect**, Jannis Vamvas et.al., Paper: [http://arxiv.org/abs/2401.14400v1](http://arxiv.org/abs/2401.14400v1), Code: **[https://github.com/zurichnlp/swiss-german-text-encoders](https://github.com/zurichnlp/swiss-german-text-encoders)**
 - 2024-01-25, **BayesPrompt: Prompting Large-Scale Pre-Trained Language Models on Few-shot Inference via Debiased Domain Abstraction**, Jiangmeng Li et.al., Paper: [http://arxiv.org/abs/2401.14166v1](http://arxiv.org/abs/2401.14166v1), Code: **[https://github.com/ff2127/bayesprompt](https://github.com/ff2127/bayesprompt)**
 - 2024-01-25, **On the Affinity, Rationality, and Diversity of Hierarchical Topic Modeling**, Xiaobao Wu et.al., Paper: [http://arxiv.org/abs/2401.14113v1](http://arxiv.org/abs/2401.14113v1), Code: **[https://github.com/bobxwu/traco](https://github.com/bobxwu/traco)**
@@ -4366,7 +4376,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20240129>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240130>back to top</a>)</p>
 
 ## adaptor
 
@@ -4453,10 +4463,12 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20240129>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240130>back to top</a>)</p>
 
 ## object detection
 
+- 2024-01-26, **pLitterStreet: Street Level Plastic Litter Detection and Mapping**, Sriram Reddy Mandhati et.al., Paper: [http://arxiv.org/abs/2401.14719v1](http://arxiv.org/abs/2401.14719v1)
+- 2024-01-26, **From Blurry to Brilliant Detection: YOLOv5-Based Aerial Object Detection with Super Resolution**, Ragib Amin Nihal et.al., Paper: [http://arxiv.org/abs/2401.14661v1](http://arxiv.org/abs/2401.14661v1)
 - 2024-01-25, **UrbanGenAI: Reconstructing Urban Landscapes using Panoptic Segmentation and Diffusion Models**, Timo Kapsalis et.al., Paper: [http://arxiv.org/abs/2401.14379v1](http://arxiv.org/abs/2401.14379v1)
 - 2024-01-25, **MultiTest: Physical-Aware Object Insertion for Testing Multi-sensor Fusion Perception Systems**, Xinyu Gao et.al., Paper: [http://arxiv.org/abs/2401.14314v1](http://arxiv.org/abs/2401.14314v1)
 - 2024-01-25, **Grounded SAM: Assembling Open-World Models for Diverse Visual Tasks**, Tianhe Ren et.al., Paper: [http://arxiv.org/abs/2401.14159v1](http://arxiv.org/abs/2401.14159v1), Code: **[https://github.com/IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything)**
@@ -6396,7 +6408,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20240129>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240130>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
