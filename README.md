@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.09
+## Updated on 2024.02.10
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-08**|**WebLINX: Real-World Website Navigation with Multi-Turn Dialogue**|Xing Han Lù et.al.|[2402.05930v1](http://arxiv.org/abs/2402.05930v1)|null|
+|**2024-02-08**|**Collaborative Control for Geometry-Conditioned PBR Image Generation**|Shimon Vainer et.al.|[2402.05919v1](http://arxiv.org/abs/2402.05919v1)|null|
+|**2024-02-08**|**Efficient Stagewise Pretraining via Progressive Subnetworks**|Abhishek Panigrahi et.al.|[2402.05913v1](http://arxiv.org/abs/2402.05913v1)|null|
+|**2024-02-08**|**SpiRit-LM: Interleaved Spoken and Written Language Model**|Tu Anh Nguyen et.al.|[2402.05755v1](http://arxiv.org/abs/2402.05755v1)|null|
+|**2024-02-08**|**Unified Speech-Text Pretraining for Spoken Dialog Modeling**|Heeseung Kim et.al.|[2402.05706v1](http://arxiv.org/abs/2402.05706v1)|null|
+|**2024-02-08**|**Pretrained Generative Language Models as General Learning Frameworks for Sequence-Based Tasks**|Ben Fauber et.al.|[2402.05616v1](http://arxiv.org/abs/2402.05616v1)|null|
+|**2024-02-08**|**Establishing degrees of closeness between audio recordings along different dimensions using large-scale cross-lingual models**|Maxime Fily et.al.|[2402.05581v1](http://arxiv.org/abs/2402.05581v1)|null|
+|**2024-02-07**|**BIKED++: A Multimodal Dataset of 1.4 Million Bicycle Image and Parametric CAD Designs**|Lyle Regenwetter et.al.|[2402.05301v1](http://arxiv.org/abs/2402.05301v1)|null|
+|**2024-02-07**|**SPAD : Spatially Aware Multiview Diffusers**|Yash Kant et.al.|[2402.05235v1](http://arxiv.org/abs/2402.05235v1)|null|
 |**2024-02-07**|**A Sober Look at LLMs for Material Discovery: Are They Actually Good for Bayesian Optimization Over Molecules?**|Agustinus Kristiadi et.al.|[2402.05015v1](http://arxiv.org/abs/2402.05015v1)|**[link](https://github.com/wiseodd/lapeft-bayesopt)**|
 |**2024-02-07**|**Personalized Text Generation with Fine-Grained Linguistic Control**|Bashar Alhafni et.al.|[2402.04914v1](http://arxiv.org/abs/2402.04914v1)|**[link](https://github.com/balhafni/personalized-gen)**|
 |**2024-02-07**|**OV-NeRF: Open-vocabulary Neural Radiance Fields with Vision and Language Foundation Models for 3D Semantic Understanding**|Guibiao Liao et.al.|[2402.04648v1](http://arxiv.org/abs/2402.04648v1)|null|
@@ -2353,13 +2362,19 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240209>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240210>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-02-07**|**Two Trades is not Baffled: Condense Graph via Crafting Rational Gradient Matching**|Tianle Zhang et.al.|[2402.04924v1](http://arxiv.org/abs/2402.04924v1)|**[link](https://github.com/nus-hpc-ai-lab/ctrl)**|
+|**2024-02-08**|**Large Language Model Meets Graph Neural Network in Knowledge Distillation**|Shengxiang Hu et.al.|[2402.05894v1](http://arxiv.org/abs/2402.05894v1)|null|
+|**2024-02-08**|**Integrating Self-supervised Speech Model with Pseudo Word-level Targets from Visually-grounded Speech Model**|Hung-Chieh Fang et.al.|[2402.05819v1](http://arxiv.org/abs/2402.05819v1)|null|
+|**2024-02-08**|**Text-to-Code Generation with Modality-relative Pre-training**|Fenia Christopoulou et.al.|[2402.05783v1](http://arxiv.org/abs/2402.05783v1)|null|
+|**2024-02-08**|**In-Context Principle Learning from Mistakes**|Tianjun Zhang et.al.|[2402.05403v1](http://arxiv.org/abs/2402.05403v1)|null|
+|**2024-02-08**|**Task-customized Masked AutoEncoder via Mixture of Cluster-conditional Experts**|Zhili Liu et.al.|[2402.05382v1](http://arxiv.org/abs/2402.05382v1)|null|
+|**2024-02-08**|**Exploring Learning Complexity for Downstream Data Pruning**|Wenyu Jiang et.al.|[2402.05356v1](http://arxiv.org/abs/2402.05356v1)|null|
+|**2024-02-08**|**Two Trades is not Baffled: Condensing Graph via Crafting Rational Gradient Matching**|Tianle Zhang et.al.|[2402.04924v2](http://arxiv.org/abs/2402.04924v2)|**[link](https://github.com/nus-hpc-ai-lab/ctrl)**|
 |**2024-02-07**|**Multi-Patch Prediction: Adapting LLMs for Time Series Representation Learning**|Yuxuan Bian et.al.|[2402.04852v1](http://arxiv.org/abs/2402.04852v1)|null|
 |**2024-02-07**|**InstructScene: Instruction-Driven 3D Indoor Scene Synthesis with Semantic Graph Prior**|Chenguo Lin et.al.|[2402.04717v1](http://arxiv.org/abs/2402.04717v1)|null|
 |**2024-02-07**|**LEVI: Generalizable Fine-tuning via Layer-wise Ensemble of Different Views**|Yuji Roh et.al.|[2402.04644v1](http://arxiv.org/abs/2402.04644v1)|null|
@@ -4515,7 +4530,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20240209>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240210>back to top</a>)</p>
 
 ## adaptor
 
@@ -4606,12 +4621,16 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240209>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240210>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-08**|**InstaGen: Enhancing Object Detection by Training on Synthetic Dataset**|Chengjian Feng et.al.|[2402.05937v1](http://arxiv.org/abs/2402.05937v1)|null|
+|**2024-02-08**|**YOLO-CIANNA: Galaxy detection with deep learning in radio data. I. A new YOLO-inspired source detection method applied to the SKAO SDC1**|D. Cornu et.al.|[2402.05925v1](http://arxiv.org/abs/2402.05925v1)|null|
+|**2024-02-08**|**Using YOLO v7 to Detect Kidney in Magnetic Resonance Imaging: A Supervised Contrastive Learning**|Pouria Yazdian Anari et.al.|[2402.05817v1](http://arxiv.org/abs/2402.05817v1)|null|
+|**2024-02-08**|**Scrapping The Web For Early Wildfire Detection**|Mateo Lostanlen et.al.|[2402.05349v1](http://arxiv.org/abs/2402.05349v1)|null|
 |**2024-02-07**|**Toward Accurate Camera-based 3D Object Detection via Cascade Depth Estimation and Calibration**|Chaoqun Wang et.al.|[2402.04883v1](http://arxiv.org/abs/2402.04883v1)|null|
 |**2024-02-07**|**STAR: Shape-focused Texture Agnostic Representations for Improved Object Detection and 6D Pose Estimation**|Peter Hönig et.al.|[2402.04878v1](http://arxiv.org/abs/2402.04878v1)|null|
 |**2024-02-07**|**Streamlined Hybrid Annotation Framework using Scalable Codestream for Bandwidth-Restricted UAV Object Detection**|Karim El Khoury et.al.|[2402.04673v1](http://arxiv.org/abs/2402.04673v1)|null|
@@ -6612,7 +6631,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20240209>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240210>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
