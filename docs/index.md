@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.14
+## Updated on 2024.02.15
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,7 +23,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-02-12**|**Prismatic VLMs: Investigating the Design Space of Visually-Conditioned Language Models**|Siddharth Karamcheti et.al.|[2402.07865v1](http://arxiv.org/abs/2402.07865v1)|null|
+|**2024-02-13**|**Human Curriculum Effects Emerge with In-Context Learning in Neural Networks**|Jacob Russin et.al.|[2402.08674v1](http://arxiv.org/abs/2402.08674v1)|null|
+|**2024-02-13**|**Tandem Transformers for Inference Efficient LLMs**|Aishwarya P S et.al.|[2402.08644v1](http://arxiv.org/abs/2402.08644v1)|null|
+|**2024-02-13**|**Captions Are Worth a Thousand Words: Enhancing Product Retrieval with Pretrained Image-to-Text Models**|Jason Tang et.al.|[2402.08532v1](http://arxiv.org/abs/2402.08532v1)|null|
+|**2024-02-13**|**Concept-1K: A Novel Benchmark for Instance Incremental Learning**|Junhao Zheng et.al.|[2402.08526v1](http://arxiv.org/abs/2402.08526v1)|**[link](https://github.com/zzz47zzz/pretrained-lm-for-incremental-learning)**|
+|**2024-02-13**|**Pixel Sentence Representation Learning**|Chenghao Xiao et.al.|[2402.08183v1](http://arxiv.org/abs/2402.08183v1)|null|
+|**2024-02-12**|**Which Pretrain Samples to Rehearse when Finetuning Pretrained Models?**|Andrew Bai et.al.|[2402.08096v1](http://arxiv.org/abs/2402.08096v1)|null|
+|**2024-02-12**|**Prismatic VLMs: Investigating the Design Space of Visually-Conditioned Language Models**|Siddharth Karamcheti et.al.|[2402.07865v1](http://arxiv.org/abs/2402.07865v1)|**[link](https://github.com/tri-ml/vlm-evaluation)**|
 |**2024-02-12**|**Differentially Private Zeroth-Order Methods for Scalable Large Language Model Finetuning**|Z Liu et.al.|[2402.07818v1](http://arxiv.org/abs/2402.07818v1)|null|
 |**2024-02-12**|**AutoMathText: Autonomous Data Selection with Language Models for Mathematical Texts**|Yifan Zhang et.al.|[2402.07625v1](http://arxiv.org/abs/2402.07625v1)|**[link](https://github.com/yifanzhang-pro/automathtext)**|
 |**2024-02-12**|**Foundational Inference Models for Dynamical Systems**|Patrick Seifner et.al.|[2402.07594v1](http://arxiv.org/abs/2402.07594v1)|null|
@@ -2382,12 +2388,16 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240214>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240215>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-13**|**SAGMAN: Stability Analysis of Graph Neural Networks on the Manifolds**|Wuxinlin Cheng et.al.|[2402.08653v1](http://arxiv.org/abs/2402.08653v1)|null|
+|**2024-02-13**|**Tandem Transformers for Inference Efficient LLMs**|Aishwarya P S et.al.|[2402.08644v1](http://arxiv.org/abs/2402.08644v1)|null|
+|**2024-02-13**|**Bayesian Multi-Task Transfer Learning for Soft Prompt Tuning**|Haeju Lee et.al.|[2402.08594v1](http://arxiv.org/abs/2402.08594v1)|**[link](https://github.com/heyzude/bmtpt)**|
+|**2024-02-12**|**A Universal Non-Parametric Approach For Improved Molecular Sequence Analysis**|Sarwan Ali et.al.|[2402.08117v1](http://arxiv.org/abs/2402.08117v1)|null|
 |**2024-02-12**|**Differentially Private Zeroth-Order Methods for Scalable Large Language Model Finetuning**|Z Liu et.al.|[2402.07818v1](http://arxiv.org/abs/2402.07818v1)|null|
 |**2024-02-12**|**Task-conditioned adaptation of visual features in multi-task policy learning**|Pierre Marza et.al.|[2402.07739v1](http://arxiv.org/abs/2402.07739v1)|null|
 |**2024-02-12**|**Tighter Bounds on the Information Bottleneck with Application to Deep Learning**|Nir Weingarten et.al.|[2402.07639v1](http://arxiv.org/abs/2402.07639v1)|**[link](https://github.com/hopl1t/vub)**|
@@ -4565,7 +4575,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20240214>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240215>back to top</a>)</p>
 
 ## adaptor
 
@@ -4656,12 +4666,15 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240214>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240215>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-13**|**Leveraging Self-Supervised Instance Contrastive Learning for Radar Object Detection**|Colin Decourt et.al.|[2402.08427v1](http://arxiv.org/abs/2402.08427v1)|null|
+|**2024-02-13**|**Improving Image Coding for Machines through Optimizing Encoder via Auxiliary Loss**|Kei Iino et.al.|[2402.08267v1](http://arxiv.org/abs/2402.08267v1)|null|
+|**2024-02-13**|**Object Detection in Thermal Images Using Deep Learning for Unmanned Aerial Vehicles**|Minh Dang Tu et.al.|[2402.08251v1](http://arxiv.org/abs/2402.08251v1)|null|
 |**2024-02-12**|**MODIPHY: Multimodal Obscured Detection for IoT using PHantom Convolution-Enabled Faster YOLO**|Shubhabrata Mukherjee et.al.|[2402.07894v1](http://arxiv.org/abs/2402.07894v1)|**[link](https://github.com/shubha07m/On-device-computer-vision-experiments-with-IoT)**|
 |**2024-02-12**|**Evaluation of a Smart Mobile Robotic System for Industrial Plant Inspection and Supervision**|Georg K. J. Fischer et.al.|[2402.07691v1](http://arxiv.org/abs/2402.07691v1)|null|
 |**2024-02-12**|**AYDIV: Adaptable Yielding 3D Object Detection via Integrated Contextual Vision Transformer**|Tanmoy Dam et.al.|[2402.07680v1](http://arxiv.org/abs/2402.07680v1)|**[link](https://github.com/sanjay-810/aydiv2)**|
@@ -6678,7 +6691,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20240214>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240215>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
