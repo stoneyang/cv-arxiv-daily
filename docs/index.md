@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.15
+## Updated on 2024.02.16
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-14**|**Deep Rib Fracture Instance Segmentation and Classification from CT on the RibFrac Challenge**|Jiancheng Yang et.al.|[2402.09372v1](http://arxiv.org/abs/2402.09372v1)|null|
+|**2024-02-14**|**Massively Multi-Cultural Knowledge Acquisition & LM Benchmarking**|Yi Fung et.al.|[2402.09369v1](http://arxiv.org/abs/2402.09369v1)|null|
+|**2024-02-14**|**HiRE: High Recall Approximate Top-$k$ Estimation for Efficient LLM Inference**|Yashas Samaga B L et.al.|[2402.09360v1](http://arxiv.org/abs/2402.09360v1)|null|
+|**2024-02-14**|**Few-Shot Object Detection with Sparse Context Transformers**|Jie Mei et.al.|[2402.09315v1](http://arxiv.org/abs/2402.09315v1)|null|
+|**2024-02-14**|**Embracing the black box: Heading towards foundation models for causal discovery from time series data**|Gideon Stein et.al.|[2402.09305v1](http://arxiv.org/abs/2402.09305v1)|null|
+|**2024-02-14**|**Spectral Filters, Dark Signals, and Attention Sinks**|Nicola Cancedda et.al.|[2402.09221v1](http://arxiv.org/abs/2402.09221v1)|null|
+|**2024-02-14**|**MPIrigen: MPI Code Generation through Domain-Specific Language Models**|Nadav Schneider et.al.|[2402.09126v1](http://arxiv.org/abs/2402.09126v1)|**[link](https://github.com/scientific-computing-lab-nrcn/mpi-rigen)**|
+|**2024-02-14**|**I can't see it but I can Fine-tune it: On Encrypted Fine-tuning of Transformers using Fully Homomorphic Encryption**|Prajwal Panzade et.al.|[2402.09059v1](http://arxiv.org/abs/2402.09059v1)|null|
+|**2024-02-14**|**Pretraining Vision-Language Model for Difference Visual Question Answering in Longitudinal Chest X-rays**|Yeongjae Cho et.al.|[2402.08966v1](http://arxiv.org/abs/2402.08966v1)|null|
+|**2024-02-14**|**Moving Object Proposals with Deep Learned Optical Flow for Video Object Segmentation**|Ge Shi et.al.|[2402.08882v1](http://arxiv.org/abs/2402.08882v1)|null|
 |**2024-02-13**|**Human Curriculum Effects Emerge with In-Context Learning in Neural Networks**|Jacob Russin et.al.|[2402.08674v1](http://arxiv.org/abs/2402.08674v1)|null|
 |**2024-02-13**|**Tandem Transformers for Inference Efficient LLMs**|Aishwarya P S et.al.|[2402.08644v1](http://arxiv.org/abs/2402.08644v1)|null|
 |**2024-02-13**|**Captions Are Worth a Thousand Words: Enhancing Product Retrieval with Pretrained Image-to-Text Models**|Jason Tang et.al.|[2402.08532v1](http://arxiv.org/abs/2402.08532v1)|null|
@@ -2388,12 +2398,17 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240215>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240216>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-14**|**DoRA: Weight-Decomposed Low-Rank Adaptation**|Shih-Yang Liu et.al.|[2402.09353v1](http://arxiv.org/abs/2402.09353v1)|null|
+|**2024-02-14**|**Fast Window-Based Event Denoising with Spatiotemporal Correlation Enhancement**|Huachen Fang et.al.|[2402.09270v1](http://arxiv.org/abs/2402.09270v1)|null|
+|**2024-02-14**|**MPIrigen: MPI Code Generation through Domain-Specific Language Models**|Nadav Schneider et.al.|[2402.09126v1](http://arxiv.org/abs/2402.09126v1)|**[link](https://github.com/scientific-computing-lab-nrcn/mpi-rigen)**|
+|**2024-02-14**|**DUEL: Duplicate Elimination on Active Memory for Self-Supervised Class-Imbalanced Learning**|Won-Seok Choi et.al.|[2402.08963v1](http://arxiv.org/abs/2402.08963v1)|null|
+|**2024-02-14**|**DUDF: Differentiable Unsigned Distance Fields with Hyperbolic Scaling**|Miguel Fainstein et.al.|[2402.08876v1](http://arxiv.org/abs/2402.08876v1)|null|
 |**2024-02-13**|**SAGMAN: Stability Analysis of Graph Neural Networks on the Manifolds**|Wuxinlin Cheng et.al.|[2402.08653v1](http://arxiv.org/abs/2402.08653v1)|null|
 |**2024-02-13**|**Tandem Transformers for Inference Efficient LLMs**|Aishwarya P S et.al.|[2402.08644v1](http://arxiv.org/abs/2402.08644v1)|null|
 |**2024-02-13**|**Bayesian Multi-Task Transfer Learning for Soft Prompt Tuning**|Haeju Lee et.al.|[2402.08594v1](http://arxiv.org/abs/2402.08594v1)|**[link](https://github.com/heyzude/bmtpt)**|
@@ -4575,7 +4590,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20240215>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240216>back to top</a>)</p>
 
 ## adaptor
 
@@ -4666,12 +4681,16 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240215>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240216>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-14**|**Few-Shot Object Detection with Sparse Context Transformers**|Jie Mei et.al.|[2402.09315v1](http://arxiv.org/abs/2402.09315v1)|null|
+|**2024-02-14**|**TDViT: Temporal Dilated Video Transformer for Dense Video Tasks**|Guanxiong Sun et.al.|[2402.09257v1](http://arxiv.org/abs/2402.09257v1)|**[link](https://github.com/guanxiongsun/vfe.pytorch)**|
+|**2024-02-14**|**Efficient One-stage Video Object Detection by Exploiting Temporal Consistency**|Guanxiong Sun et.al.|[2402.09241v1](http://arxiv.org/abs/2402.09241v1)|**[link](https://github.com/guanxiongsun/vfe.pytorch)**|
+|**2024-02-14**|**Switch EMA: A Free Lunch for Better Flatness and Sharpness**|Siyuan Li et.al.|[2402.09240v1](http://arxiv.org/abs/2402.09240v1)|null|
 |**2024-02-13**|**Leveraging Self-Supervised Instance Contrastive Learning for Radar Object Detection**|Colin Decourt et.al.|[2402.08427v1](http://arxiv.org/abs/2402.08427v1)|null|
 |**2024-02-13**|**Improving Image Coding for Machines through Optimizing Encoder via Auxiliary Loss**|Kei Iino et.al.|[2402.08267v1](http://arxiv.org/abs/2402.08267v1)|null|
 |**2024-02-13**|**Object Detection in Thermal Images Using Deep Learning for Unmanned Aerial Vehicles**|Minh Dang Tu et.al.|[2402.08251v1](http://arxiv.org/abs/2402.08251v1)|null|
@@ -6691,7 +6710,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20240215>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240216>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
