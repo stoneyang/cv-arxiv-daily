@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.02.19
+> Updated on 2024.02.20
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,14 @@
 
 ## pretrain
 
+- 2024-02-16, **Proving membership in LLM pretraining data via data watermarks**, Johnny Tian-Zheng Wei et.al., Paper: [http://arxiv.org/abs/2402.10892v1](http://arxiv.org/abs/2402.10892v1)
+- 2024-02-16, **Enhancement-Driven Pretraining for Robust Fingerprint Representation Learning**, Ekta Gavas et.al., Paper: [http://arxiv.org/abs/2402.10847v1](http://arxiv.org/abs/2402.10847v1)
+- 2024-02-16, **Associative Memories in the Feature Space**, Tommaso Salvatori et.al., Paper: [http://arxiv.org/abs/2402.10814v1](http://arxiv.org/abs/2402.10814v1)
+- 2024-02-16, **BioFusionNet: Deep Learning-Based Survival Risk Stratification in ER+ Breast Cancer Through Multifeature and Multimodal Data Fusion**, Raktim Kumar Mondol et.al., Paper: [http://arxiv.org/abs/2402.10717v1](http://arxiv.org/abs/2402.10717v1)
+- 2024-02-16, **Are ID Embeddings Necessary? Whitening Pre-trained Text Embeddings for Effective Sequential Recommendation**, Lingzi Zhang et.al., Paper: [http://arxiv.org/abs/2402.10602v1](http://arxiv.org/abs/2402.10602v1)
+- 2024-02-16, **SPAR: Personalized Content-Based Recommendation via Long Engagement Attention**, Chiyu Zhang et.al., Paper: [http://arxiv.org/abs/2402.10555v1](http://arxiv.org/abs/2402.10555v1)
+- 2024-02-16, **MFBind: a Multi-Fidelity Approach for Evaluating Drug Compounds in Practical Generative Modeling**, Peter Eckmann et.al., Paper: [http://arxiv.org/abs/2402.10387v1](http://arxiv.org/abs/2402.10387v1)
+- 2024-02-15, **BioMistral: A Collection of Open-Source Pretrained Large Language Models for Medical Domains**, Yanis Labrak et.al., Paper: [http://arxiv.org/abs/2402.10373v1](http://arxiv.org/abs/2402.10373v1)
 - 2024-02-15, **Euclid preparation. Measuring detailed galaxy morphologies for Euclid with Machine Learning**, Euclid Collaboration et.al., Paper: [http://arxiv.org/abs/2402.10187v1](http://arxiv.org/abs/2402.10187v1), Code: **[https://github.com/baussel/zooboteuclid](https://github.com/baussel/zooboteuclid)**
 - 2024-02-15, **Data Engineering for Scaling Language Models to 128K Context**, Yao Fu et.al., Paper: [http://arxiv.org/abs/2402.10171v1](http://arxiv.org/abs/2402.10171v1), Code: **[https://github.com/franxyao/long-context-data-engineering](https://github.com/franxyao/long-context-data-engineering)**
 - 2024-02-15, **Towards Safer Large Language Models through Machine Unlearning**, Zheyuan Liu et.al., Paper: [http://arxiv.org/abs/2402.10058v1](http://arxiv.org/abs/2402.10058v1)
@@ -2401,10 +2409,12 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20240219>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240220>back to top</a>)</p>
 
 ## downstream
 
+- 2024-02-16, **Rethinking Human-like Translation Strategy: Integrating Drift-Diffusion Model with Large Language Models for Machine Translation**, Hongbin Na et.al., Paper: [http://arxiv.org/abs/2402.10699v1](http://arxiv.org/abs/2402.10699v1)
+- 2024-02-16, **Unlink to Unlearn: Simplifying Edge Unlearning in GNNs**, Jiajun Tan et.al., Paper: [http://arxiv.org/abs/2402.10695v1](http://arxiv.org/abs/2402.10695v1)
 - 2024-02-15, **Ising on the Graph: Task-specific Graph Subsampling via the Ising Model**, Maria Bånkestad et.al., Paper: [http://arxiv.org/abs/2402.10206v1](http://arxiv.org/abs/2402.10206v1)
 - 2024-02-15, **BitDelta: Your Fine-Tune May Only Be Worth One Bit**, James Liu et.al., Paper: [http://arxiv.org/abs/2402.10193v1](http://arxiv.org/abs/2402.10193v1), Code: **[https://github.com/FasterDecoding/BitDelta](https://github.com/FasterDecoding/BitDelta)**
 - 2024-02-15, **MM-Point: Multi-View Information-Enhanced Multi-Modal Self-Supervised 3D Point Cloud Understanding**, Hai-Tao Yu et.al., Paper: [http://arxiv.org/abs/2402.10002v1](http://arxiv.org/abs/2402.10002v1), Code: **[https://github.com/haydenyu/mm-point](https://github.com/haydenyu/mm-point)**
@@ -4599,7 +4609,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20240219>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240220>back to top</a>)</p>
 
 ## adaptor
 
@@ -4688,10 +4698,13 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20240219>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240220>back to top</a>)</p>
 
 ## object detection
 
+- 2024-02-16, **AutoGPT+P: Affordance-based Task Planning with Large Language Models**, Timo Birr et.al., Paper: [http://arxiv.org/abs/2402.10778v1](http://arxiv.org/abs/2402.10778v1)
+- 2024-02-16, **STF: Spatio-Temporal Fusion Module for Improving Video Object Detection**, Noreen Anwar et.al., Paper: [http://arxiv.org/abs/2402.10752v1](http://arxiv.org/abs/2402.10752v1), Code: **[https://github.com/noreenanwar/stf-module](https://github.com/noreenanwar/stf-module)**
+- 2024-02-16, **CodaMal: Contrastive Domain Adaptation for Malaria Detection in Low-Cost Microscopes**, Ishan Rajendrakumar Dave et.al., Paper: [http://arxiv.org/abs/2402.10478v1](http://arxiv.org/abs/2402.10478v1), Code: **[https://github.com/daveishan/codamal](https://github.com/daveishan/codamal)**
 - 2024-02-15, **LLMs as Bridges: Reformulating Grounded Multimodal Named Entity Recognition**, Jinyuan Li et.al., Paper: [http://arxiv.org/abs/2402.09989v1](http://arxiv.org/abs/2402.09989v1)
 - 2024-02-15, **Beyond Kalman Filters: Deep Learning-Based Filters for Improved Object Tracking**, Momir Adžemović et.al., Paper: [http://arxiv.org/abs/2402.09865v1](http://arxiv.org/abs/2402.09865v1)
 - 2024-02-15, **A Comprehensive Review on Computer Vision Analysis of Aerial Data**, Vivek Tetarwal et.al., Paper: [http://arxiv.org/abs/2402.09781v1](http://arxiv.org/abs/2402.09781v1)
@@ -6718,7 +6731,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20240219>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240220>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
