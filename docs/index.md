@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.21
+## Updated on 2024.02.22
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-20**|**Investigating Cultural Alignment of Large Language Models**|Badr AlKhamissi et.al.|[2402.13231v1](http://arxiv.org/abs/2402.13231v1)|**[link](https://github.com/bkhmsi/cultural-trends)**|
+|**2024-02-20**|**RoCode: A Dataset for Measuring Code Intelligence from Problem Definitions in Romanian**|Adrian Cosma et.al.|[2402.13222v1](http://arxiv.org/abs/2402.13222v1)|**[link](https://github.com/cosmaadrian/rocode)**|
+|**2024-02-20**|**VideoPrism: A Foundational Visual Encoder for Video Understanding**|Long Zhao et.al.|[2402.13217v1](http://arxiv.org/abs/2402.13217v1)|null|
+|**2024-02-20**|**Heterogeneous Graph Reasoning for Fact Checking over Texts and Tables**|Haisong Gong et.al.|[2402.13028v1](http://arxiv.org/abs/2402.13028v1)|**[link](https://github.com/deno-v/heterfc)**|
+|**2024-02-20**|**Cell Graph Transformer for Nuclei Classification**|Wei Lou et.al.|[2402.12946v1](http://arxiv.org/abs/2402.12946v1)|**[link](https://github.com/lhaof/cgt)**|
+|**2024-02-20**|**More Discriminative Sentence Embeddings via Semantic Graph Smoothing**|Chakib Fettal et.al.|[2402.12890v1](http://arxiv.org/abs/2402.12890v1)|**[link](https://github.com/chakib401/smoothing_sentence_embeddings)**|
+|**2024-02-20**|**ArabicMMLU: Assessing Massive Multitask Language Understanding in Arabic**|Fajri Koto et.al.|[2402.12840v1](http://arxiv.org/abs/2402.12840v1)|**[link](https://github.com/mbzuai-nlp/arabicmmlu)**|
+|**2024-02-20**|**Equivariant Pretrained Transformer for Unified Geometric Learning on Multi-Domain 3D Molecules**|Rui Jiao et.al.|[2402.12714v1](http://arxiv.org/abs/2402.12714v1)|null|
+|**2024-02-20**|**PDEformer: Towards a Foundation Model for One-Dimensional Partial Differential Equations**|Zhanhong Ye et.al.|[2402.12652v1](http://arxiv.org/abs/2402.12652v1)|null|
 |**2024-02-19**|**GTBench: Uncovering the Strategic Reasoning Limitations of LLMs via Game-Theoretic Evaluations**|Jinhao Duan et.al.|[2402.12348v1](http://arxiv.org/abs/2402.12348v1)|**[link](https://github.com/jinhaoduan/gtbench)**|
 |**2024-02-19**|**Key ingredients for effective zero-shot cross-lingual knowledge transfer in generative tasks**|Nadezhda Chirkova et.al.|[2402.12279v1](http://arxiv.org/abs/2402.12279v1)|null|
 |**2024-02-19**|**High-quality Data-to-Text Generation for Severely Under-Resourced Languages with Out-of-the-box Large Language Models**|Michela Lorandi et.al.|[2402.12267v1](http://arxiv.org/abs/2402.12267v1)|**[link](https://github.com/michelalorandi/d2t-gen-for-under-res-lang-w-llms)**|
@@ -2425,12 +2434,21 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240221>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240222>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-20**|**Smaug: Fixing Failure Modes of Preference Optimisation with DPO-Positive**|Arka Pal et.al.|[2402.13228v1](http://arxiv.org/abs/2402.13228v1)|null|
+|**2024-02-20**|**Are ELECTRA's Sentence Embeddings Beyond Repair? The Case of Semantic Textual Similarity**|Ivan Rep et.al.|[2402.13130v1](http://arxiv.org/abs/2402.13130v1)|null|
+|**2024-02-20**|**Enhancing Real-World Complex Network Representations with Hyperedge Augmentation**|Xiangyu Zhao et.al.|[2402.13033v1](http://arxiv.org/abs/2402.13033v1)|null|
+|**2024-02-20**|**Can GNN be Good Adapter for LLMs?**|Xuanwen Huang et.al.|[2402.12984v1](http://arxiv.org/abs/2402.12984v1)|null|
+|**2024-02-20**|**GlórIA -- A Generative and Open Large Language Model for Portuguese**|Ricardo Lopes et.al.|[2402.12969v1](http://arxiv.org/abs/2402.12969v1)|null|
+|**2024-02-20**|**MoELoRA: Contrastive Learning Guided Mixture of Experts on Parameter-Efficient Fine-Tuning for Large Language Models**|Tongxu Luo et.al.|[2402.12851v1](http://arxiv.org/abs/2402.12851v1)|null|
+|**2024-02-20**|**Plugin Speech Enhancement: A Universal Speech Enhancement Framework Inspired by Dynamic Neural Network**|Yanan Chen et.al.|[2402.12746v1](http://arxiv.org/abs/2402.12746v1)|null|
+|**2024-02-20**|**Indiscriminate Data Poisoning Attacks on Pre-trained Feature Extractors**|Yiwei Lu et.al.|[2402.12626v1](http://arxiv.org/abs/2402.12626v1)|null|
+|**2024-02-19**|**Your Vision-Language Model Itself Is a Strong Filter: Towards High-Quality Instruction Tuning with Data Selection**|Ruibo Chen et.al.|[2402.12501v1](http://arxiv.org/abs/2402.12501v1)|**[link](https://github.com/rayruibochen/self-filter)**|
 |**2024-02-19**|**UncertaintyTrack: Exploiting Detection and Localization Uncertainty in Multi-Object Tracking**|Chang Won Lee et.al.|[2402.12303v1](http://arxiv.org/abs/2402.12303v1)|null|
 |**2024-02-19**|**NEO-BENCH: Evaluating Robustness of Large Language Models with Neologisms**|Jonathan Zheng et.al.|[2402.12261v1](http://arxiv.org/abs/2402.12261v1)|null|
 |**2024-02-19**|**Language-Codec: Reducing the Gaps Between Discrete Codec Representation and Speech Language Models**|Shengpeng Ji et.al.|[2402.12208v1](http://arxiv.org/abs/2402.12208v1)|null|
@@ -4637,12 +4655,13 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20240221>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240222>back to top</a>)</p>
 
 ## adaptor
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-20**|**StyleDubber: Towards Multi-Scale Style Learning for Movie Dubbing**|Gaoxiang Cong et.al.|[2402.12636v1](http://arxiv.org/abs/2402.12636v1)|null|
 |**2024-02-19**|**Parameter Efficient Finetuning for Speech Emotion Recognition and Domain Adaptation**|Nineli Lashkarashvili et.al.|[2402.11747v1](http://arxiv.org/abs/2402.11747v1)|null|
 |**2024-02-05**|**Time-, Memory- and Parameter-Efficient Visual Adaptation**|Otniel-Bogdan Mercea et.al.|[2402.02887v1](http://arxiv.org/abs/2402.02887v1)|null|
 |**2024-01-31**|**Exploiting Audio-Visual Features with Pretrained AV-HuBERT for Multi-Modal Dysarthric Speech Reconstruction**|Xueyuan Chen et.al.|[2401.17796v1](http://arxiv.org/abs/2401.17796v1)|null|
@@ -4729,12 +4748,17 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240221>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240222>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-20**|**GOOD: Towards Domain Generalized Orientated Object Detection**|Qi Bi et.al.|[2402.12765v1](http://arxiv.org/abs/2402.12765v1)|null|
+|**2024-02-20**|**CST: Calibration Side-Tuning for Parameter and Memory Efficient Transfer Learning**|Feng Chen et.al.|[2402.12736v1](http://arxiv.org/abs/2402.12736v1)|null|
+|**2024-02-20**|**YOLO-Ant: A Lightweight Detector via Depthwise Separable Convolutional and Large Kernel Design for Antenna Interference Source Detection**|Xiaoyu Tang et.al.|[2402.12641v1](http://arxiv.org/abs/2402.12641v1)|**[link](https://github.com/scnu-rislab/yolo-ant)**|
+|**2024-02-20**|**Efficient Parameter Mining and Freezing for Continual Object Detection**|Angelo G. Menezes et.al.|[2402.12624v1](http://arxiv.org/abs/2402.12624v1)|null|
+|**2024-02-19**|**LangXAI: Integrating Large Vision Models for Generating Textual Explanations to Enhance Explainability in Visual Perception Tasks**|Truong Thanh Hung Nguyen et.al.|[2402.12525v1](http://arxiv.org/abs/2402.12525v1)|null|
 |**2024-02-19**|**UncertaintyTrack: Exploiting Detection and Localization Uncertainty in Multi-Object Tracking**|Chang Won Lee et.al.|[2402.12303v1](http://arxiv.org/abs/2402.12303v1)|null|
 |**2024-02-19**|**Weakly Supervised Object Detection in Chest X-Rays with Differentiable ROI Proposal Networks and Soft ROI Pooling**|Philip Müller et.al.|[2402.11985v1](http://arxiv.org/abs/2402.11985v1)|**[link](https://github.com/philip-mueller/wsrpn)**|
 |**2024-02-19**|**SDGE: Stereo Guided Depth Estimation for 360° Camera Sets**|Jialei Xu et.al.|[2402.11791v1](http://arxiv.org/abs/2402.11791v1)|null|
@@ -6774,7 +6798,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20240221>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240222>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
