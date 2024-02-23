@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.02.22
+> Updated on 2024.02.23
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,11 @@
 
 ## pretrain
 
+- 2024-02-21, **User-LLM: Efficient LLM Contextualization with User Embeddings**, Lin Ning et.al., Paper: [http://arxiv.org/abs/2402.13598v1](http://arxiv.org/abs/2402.13598v1)
+- 2024-02-21, **Cognitive Visual-Language Mapper: Advancing Multimodal Comprehension with Enhanced Visual Knowledge Alignment**, Yunxin Li et.al., Paper: [http://arxiv.org/abs/2402.13561v1](http://arxiv.org/abs/2402.13561v1)
+- 2024-02-21, **LLMs Meet Long Video: Advancing Long Video Comprehension with An Interactive Visual Adapter in LLMs**, Yunxin Li et.al., Paper: [http://arxiv.org/abs/2402.13546v1](http://arxiv.org/abs/2402.13546v1)
+- 2024-02-21, **FinGPT-HPC: Efficient Pretraining and Finetuning Large Language Models for Financial Applications with High-Performance Computing**, Xiao-Yang Liu et.al., Paper: [http://arxiv.org/abs/2402.13533v1](http://arxiv.org/abs/2402.13533v1)
+- 2024-02-21, **How Important is Domain Specificity in Language Models and Instruction Finetuning for Biomedical Relation Extraction?**, Aviv Brokman et.al., Paper: [http://arxiv.org/abs/2402.13470v1](http://arxiv.org/abs/2402.13470v1)
 - 2024-02-20, **Investigating Cultural Alignment of Large Language Models**, Badr AlKhamissi et.al., Paper: [http://arxiv.org/abs/2402.13231v1](http://arxiv.org/abs/2402.13231v1), Code: **[https://github.com/bkhmsi/cultural-trends](https://github.com/bkhmsi/cultural-trends)**
 - 2024-02-20, **RoCode: A Dataset for Measuring Code Intelligence from Problem Definitions in Romanian**, Adrian Cosma et.al., Paper: [http://arxiv.org/abs/2402.13222v1](http://arxiv.org/abs/2402.13222v1), Code: **[https://github.com/cosmaadrian/rocode](https://github.com/cosmaadrian/rocode)**
 - 2024-02-20, **VideoPrism: A Foundational Visual Encoder for Video Understanding**, Long Zhao et.al., Paper: [http://arxiv.org/abs/2402.13217v1](http://arxiv.org/abs/2402.13217v1)
@@ -2428,10 +2433,17 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20240222>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240223>back to top</a>)</p>
 
 ## downstream
 
+- 2024-02-21, **Analysing The Impact of Sequence Composition on Language Model Pre-Training**, Yu Zhao et.al., Paper: [http://arxiv.org/abs/2402.13991v1](http://arxiv.org/abs/2402.13991v1), Code: **[https://github.com/yuzhaouoe/pretraining-data-packing](https://github.com/yuzhaouoe/pretraining-data-packing)**
+- 2024-02-21, **Contextual Molecule Representation Learning from Chemical Reaction Knowledge**, Han Tang et.al., Paper: [http://arxiv.org/abs/2402.13779v1](http://arxiv.org/abs/2402.13779v1)
+- 2024-02-21, **Cas-DiffCom: Cascaded diffusion model for infant longitudinal super-resolution 3D medical image completion**, Lianghu Guo et.al., Paper: [http://arxiv.org/abs/2402.13776v1](http://arxiv.org/abs/2402.13776v1)
+- 2024-02-21, **Self-Distillation Bridges Distribution Gap in Language Model Fine-Tuning**, Zhaorui Yang et.al., Paper: [http://arxiv.org/abs/2402.13669v1](http://arxiv.org/abs/2402.13669v1)
+- 2024-02-21, **Inductive Graph Alignment Prompt: Bridging the Gap between Graph Pre-training and Inductive Fine-tuning From Spectral Perspective**, Yuchen Yan et.al., Paper: [http://arxiv.org/abs/2402.13556v1](http://arxiv.org/abs/2402.13556v1)
+- 2024-02-21, **How Important is Domain Specificity in Language Models and Instruction Finetuning for Biomedical Relation Extraction?**, Aviv Brokman et.al., Paper: [http://arxiv.org/abs/2402.13470v1](http://arxiv.org/abs/2402.13470v1)
+- 2024-02-20, **DrBenchmark: A Large Language Understanding Evaluation Benchmark for French Biomedical Domain**, Yanis Labrak et.al., Paper: [http://arxiv.org/abs/2402.13432v1](http://arxiv.org/abs/2402.13432v1)
 - 2024-02-20, **Smaug: Fixing Failure Modes of Preference Optimisation with DPO-Positive**, Arka Pal et.al., Paper: [http://arxiv.org/abs/2402.13228v1](http://arxiv.org/abs/2402.13228v1)
 - 2024-02-20, **Are ELECTRA's Sentence Embeddings Beyond Repair? The Case of Semantic Textual Similarity**, Ivan Rep et.al., Paper: [http://arxiv.org/abs/2402.13130v1](http://arxiv.org/abs/2402.13130v1)
 - 2024-02-20, **Enhancing Real-World Complex Network Representations with Hyperedge Augmentation**, Xiangyu Zhao et.al., Paper: [http://arxiv.org/abs/2402.13033v1](http://arxiv.org/abs/2402.13033v1)
@@ -4647,11 +4659,11 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20240222>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240223>back to top</a>)</p>
 
 ## adaptor
 
-- 2024-02-20, **StyleDubber: Towards Multi-Scale Style Learning for Movie Dubbing**, Gaoxiang Cong et.al., Paper: [http://arxiv.org/abs/2402.12636v1](http://arxiv.org/abs/2402.12636v1)
+- 2024-02-21, **StyleDubber: Towards Multi-Scale Style Learning for Movie Dubbing**, Gaoxiang Cong et.al., Paper: [http://arxiv.org/abs/2402.12636v2](http://arxiv.org/abs/2402.12636v2)
 - 2024-02-19, **Parameter Efficient Finetuning for Speech Emotion Recognition and Domain Adaptation**, Nineli Lashkarashvili et.al., Paper: [http://arxiv.org/abs/2402.11747v1](http://arxiv.org/abs/2402.11747v1)
 - 2024-02-05, **Time-, Memory- and Parameter-Efficient Visual Adaptation**, Otniel-Bogdan Mercea et.al., Paper: [http://arxiv.org/abs/2402.02887v1](http://arxiv.org/abs/2402.02887v1)
 - 2024-01-31, **Exploiting Audio-Visual Features with Pretrained AV-HuBERT for Multi-Modal Dysarthric Speech Reconstruction**, Xueyuan Chen et.al., Paper: [http://arxiv.org/abs/2401.17796v1](http://arxiv.org/abs/2401.17796v1)
@@ -4738,15 +4750,19 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20240222>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240223>back to top</a>)</p>
 
 ## object detection
 
+- 2024-02-21, **YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information**, Chien-Yao Wang et.al., Paper: [http://arxiv.org/abs/2402.13616v1](http://arxiv.org/abs/2402.13616v1), Code: **[https://github.com/wongkinyiu/yolov9](https://github.com/wongkinyiu/yolov9)**
+- 2024-02-21, **TransGOP: Transformer-Based Gaze Object Prediction**, Binglu Wang et.al., Paper: [http://arxiv.org/abs/2402.13578v1](http://arxiv.org/abs/2402.13578v1)
+- 2024-02-21, **Unsupervised learning based object detection using Contrastive Learning**, Chandan Kumar et.al., Paper: [http://arxiv.org/abs/2402.13465v1](http://arxiv.org/abs/2402.13465v1)
+- 2024-02-20, **Combining unsupervised and supervised learning in microscopy enables defect analysis of a full 4H-SiC wafer**, Binh Duong Nguyen et.al., Paper: [http://arxiv.org/abs/2402.13353v1](http://arxiv.org/abs/2402.13353v1)
 - 2024-02-20, **GOOD: Towards Domain Generalized Orientated Object Detection**, Qi Bi et.al., Paper: [http://arxiv.org/abs/2402.12765v1](http://arxiv.org/abs/2402.12765v1)
 - 2024-02-20, **CST: Calibration Side-Tuning for Parameter and Memory Efficient Transfer Learning**, Feng Chen et.al., Paper: [http://arxiv.org/abs/2402.12736v1](http://arxiv.org/abs/2402.12736v1)
 - 2024-02-20, **YOLO-Ant: A Lightweight Detector via Depthwise Separable Convolutional and Large Kernel Design for Antenna Interference Source Detection**, Xiaoyu Tang et.al., Paper: [http://arxiv.org/abs/2402.12641v1](http://arxiv.org/abs/2402.12641v1), Code: **[https://github.com/scnu-rislab/yolo-ant](https://github.com/scnu-rislab/yolo-ant)**
 - 2024-02-20, **Efficient Parameter Mining and Freezing for Continual Object Detection**, Angelo G. Menezes et.al., Paper: [http://arxiv.org/abs/2402.12624v1](http://arxiv.org/abs/2402.12624v1)
-- 2024-02-19, **LangXAI: Integrating Large Vision Models for Generating Textual Explanations to Enhance Explainability in Visual Perception Tasks**, Truong Thanh Hung Nguyen et.al., Paper: [http://arxiv.org/abs/2402.12525v1](http://arxiv.org/abs/2402.12525v1)
+- 2024-02-19, **LangXAI: Integrating Large Vision Models for Generating Textual Explanations to Enhance Explainability in Visual Perception Tasks**, Truong Thanh Hung Nguyen et.al., Paper: [http://arxiv.org/abs/2402.12525v1](http://arxiv.org/abs/2402.12525v1), Code: **[https://github.com/hungntt/LangXAI](https://github.com/hungntt/LangXAI)**
 - 2024-02-19, **UncertaintyTrack: Exploiting Detection and Localization Uncertainty in Multi-Object Tracking**, Chang Won Lee et.al., Paper: [http://arxiv.org/abs/2402.12303v1](http://arxiv.org/abs/2402.12303v1)
 - 2024-02-19, **Weakly Supervised Object Detection in Chest X-Rays with Differentiable ROI Proposal Networks and Soft ROI Pooling**, Philip Müller et.al., Paper: [http://arxiv.org/abs/2402.11985v1](http://arxiv.org/abs/2402.11985v1), Code: **[https://github.com/philip-mueller/wsrpn](https://github.com/philip-mueller/wsrpn)**
 - 2024-02-19, **SDGE: Stereo Guided Depth Estimation for 360° Camera Sets**, Jialei Xu et.al., Paper: [http://arxiv.org/abs/2402.11791v1](http://arxiv.org/abs/2402.11791v1)
@@ -6786,7 +6802,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20240222>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240223>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
