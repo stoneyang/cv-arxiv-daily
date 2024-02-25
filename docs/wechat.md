@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.02.23
+> Updated on 2024.02.25
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,16 @@
 
 ## pretrain
 
+- 2024-02-22, **Zero-shot cross-lingual transfer in instruction tuning of large language model**, Nadezhda Chirkova et.al., Paper: [http://arxiv.org/abs/2402.14778v1](http://arxiv.org/abs/2402.14778v1)
+- 2024-02-22, **Prompting a Pretrained Transformer Can Be a Universal Approximator**, Aleksandar Petrov et.al., Paper: [http://arxiv.org/abs/2402.14753v1](http://arxiv.org/abs/2402.14753v1)
+- 2024-02-22, **Dependency Annotation of Ottoman Turkish with Multilingual BERT**, Şaziye Betül Özateş et.al., Paper: [http://arxiv.org/abs/2402.14743v1](http://arxiv.org/abs/2402.14743v1)
+- 2024-02-22, **Cleaner Pretraining Corpus Curation with Neural Web Scraping**, Zhipeng Xu et.al., Paper: [http://arxiv.org/abs/2402.14652v1](http://arxiv.org/abs/2402.14652v1), Code: **[https://github.com/openmatch/neuscraper](https://github.com/openmatch/neuscraper)**
+- 2024-02-22, **Rethinking Scientific Summarization Evaluation: Grounding Explainable Metrics on Facet-aware Benchmark**, Xiuying Chen et.al., Paper: [http://arxiv.org/abs/2402.14359v1](http://arxiv.org/abs/2402.14359v1)
+- 2024-02-22, **GAM-Depth: Self-Supervised Indoor Depth Estimation Leveraging a Gradient-Aware Mask and Semantic Constraints**, Anqi Cheng et.al., Paper: [http://arxiv.org/abs/2402.14354v1](http://arxiv.org/abs/2402.14354v1)
+- 2024-02-22, **MVD$^2$: Efficient Multiview 3D Reconstruction for Multiview Diffusion**, Xin-Yang Zheng et.al., Paper: [http://arxiv.org/abs/2402.14253v1](http://arxiv.org/abs/2402.14253v1)
+- 2024-02-22, **Swin3D++: Effective Multi-Source Pretraining for 3D Indoor Scene Understanding**, Yu-Qi Yang et.al., Paper: [http://arxiv.org/abs/2402.14215v1](http://arxiv.org/abs/2402.14215v1), Code: **[https://github.com/microsoft/swin3d](https://github.com/microsoft/swin3d)**
+- 2024-02-22, **BeTAIL: Behavior Transformer Adversarial Imitation Learning from Human Racing Gameplay**, Catherine Weaver et.al., Paper: [http://arxiv.org/abs/2402.14194v1](http://arxiv.org/abs/2402.14194v1)
+- 2024-02-21, **T-Stitch: Accelerating Sampling in Pre-Trained Diffusion Models with Trajectory Stitching**, Zizheng Pan et.al., Paper: [http://arxiv.org/abs/2402.14167v1](http://arxiv.org/abs/2402.14167v1), Code: **[https://github.com/nvlabs/t-stitch](https://github.com/nvlabs/t-stitch)**
 - 2024-02-21, **User-LLM: Efficient LLM Contextualization with User Embeddings**, Lin Ning et.al., Paper: [http://arxiv.org/abs/2402.13598v1](http://arxiv.org/abs/2402.13598v1)
 - 2024-02-21, **Cognitive Visual-Language Mapper: Advancing Multimodal Comprehension with Enhanced Visual Knowledge Alignment**, Yunxin Li et.al., Paper: [http://arxiv.org/abs/2402.13561v1](http://arxiv.org/abs/2402.13561v1)
 - 2024-02-21, **LLMs Meet Long Video: Advancing Long Video Comprehension with An Interactive Visual Adapter in LLMs**, Yunxin Li et.al., Paper: [http://arxiv.org/abs/2402.13546v1](http://arxiv.org/abs/2402.13546v1)
@@ -2433,10 +2443,18 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20240223>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240225>back to top</a>)</p>
 
 ## downstream
 
+- 2024-02-22, **Customize-A-Video: One-Shot Motion Customization of Text-to-Video Diffusion Models**, Yixuan Ren et.al., Paper: [http://arxiv.org/abs/2402.14780v1](http://arxiv.org/abs/2402.14780v1)
+- 2024-02-22, **2D Matryoshka Sentence Embeddings**, Xianming Li et.al., Paper: [http://arxiv.org/abs/2402.14776v1](http://arxiv.org/abs/2402.14776v1)
+- 2024-02-22, **Zero-Shot Pediatric Tuberculosis Detection in Chest X-Rays using Self-Supervised Learning**, Daniel Capellán-Martín et.al., Paper: [http://arxiv.org/abs/2402.14741v1](http://arxiv.org/abs/2402.14741v1)
+- 2024-02-22, **Overcoming Dimensional Collapse in Self-supervised Contrastive Learning for Medical Image Segmentation**, Jamshid Hassanpour et.al., Paper: [http://arxiv.org/abs/2402.14611v1](http://arxiv.org/abs/2402.14611v1)
+- 2024-02-22, **Federated Complex Qeury Answering**, Qi Hu et.al., Paper: [http://arxiv.org/abs/2402.14609v1](http://arxiv.org/abs/2402.14609v1)
+- 2024-02-22, **Learning to Reduce: Optimal Representations of Structured Data in Prompting Large Language Models**, Younghun Lee et.al., Paper: [http://arxiv.org/abs/2402.14195v1](http://arxiv.org/abs/2402.14195v1)
+- 2024-02-21, **Multi-organ Self-supervised Contrastive Learning for Breast Lesion Segmentation**, Hugo Figueiras et.al., Paper: [http://arxiv.org/abs/2402.14114v1](http://arxiv.org/abs/2402.14114v1)
+- 2024-02-21, **Simple and Effective Transfer Learning for Neuro-Symbolic Integration**, Alessandro Daniele et.al., Paper: [http://arxiv.org/abs/2402.14047v1](http://arxiv.org/abs/2402.14047v1)
 - 2024-02-21, **Analysing The Impact of Sequence Composition on Language Model Pre-Training**, Yu Zhao et.al., Paper: [http://arxiv.org/abs/2402.13991v1](http://arxiv.org/abs/2402.13991v1), Code: **[https://github.com/yuzhaouoe/pretraining-data-packing](https://github.com/yuzhaouoe/pretraining-data-packing)**
 - 2024-02-21, **Contextual Molecule Representation Learning from Chemical Reaction Knowledge**, Han Tang et.al., Paper: [http://arxiv.org/abs/2402.13779v1](http://arxiv.org/abs/2402.13779v1)
 - 2024-02-21, **Cas-DiffCom: Cascaded diffusion model for infant longitudinal super-resolution 3D medical image completion**, Lianghu Guo et.al., Paper: [http://arxiv.org/abs/2402.13776v1](http://arxiv.org/abs/2402.13776v1)
@@ -4659,7 +4677,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20240223>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240225>back to top</a>)</p>
 
 ## adaptor
 
@@ -4750,10 +4768,14 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20240223>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240225>back to top</a>)</p>
 
 ## object detection
 
+- 2024-02-22, **WeakSAM: Segment Anything Meets Weakly-supervised Instance-level Recognition**, Lianghui Zhu et.al., Paper: [http://arxiv.org/abs/2402.14812v1](http://arxiv.org/abs/2402.14812v1), Code: **[https://github.com/hustvl/weaksam](https://github.com/hustvl/weaksam)**
+- 2024-02-22, **High-Speed Detector For Low-Powered Devices In Aerial Grasping**, Ashish Kumar et.al., Paper: [http://arxiv.org/abs/2402.14591v1](http://arxiv.org/abs/2402.14591v1)
+- 2024-02-22, **S^2Former-OR: Single-Stage Bimodal Transformer for Scene Graph Generation in OR**, Jialun Pei et.al., Paper: [http://arxiv.org/abs/2402.14461v1](http://arxiv.org/abs/2402.14461v1)
+- 2024-02-22, **YOLO-TLA: An Efficient and Lightweight Small Object Detection Model based on YOLOv5**, Peng Gao et.al., Paper: [http://arxiv.org/abs/2402.14309v1](http://arxiv.org/abs/2402.14309v1)
 - 2024-02-21, **YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information**, Chien-Yao Wang et.al., Paper: [http://arxiv.org/abs/2402.13616v1](http://arxiv.org/abs/2402.13616v1), Code: **[https://github.com/wongkinyiu/yolov9](https://github.com/wongkinyiu/yolov9)**
 - 2024-02-21, **TransGOP: Transformer-Based Gaze Object Prediction**, Binglu Wang et.al., Paper: [http://arxiv.org/abs/2402.13578v1](http://arxiv.org/abs/2402.13578v1)
 - 2024-02-21, **Unsupervised learning based object detection using Contrastive Learning**, Chandan Kumar et.al., Paper: [http://arxiv.org/abs/2402.13465v1](http://arxiv.org/abs/2402.13465v1)
@@ -6802,7 +6824,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20240223>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240225>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
