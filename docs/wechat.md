@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.02.26
+> Updated on 2024.02.27
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,15 @@
 
 ## pretrain
 
+- 2024-02-23, **Repetition Improves Language Model Embeddings**, Jacob Mitchell Springer et.al., Paper: [http://arxiv.org/abs/2402.15449v1](http://arxiv.org/abs/2402.15449v1), Code: **[https://github.com/jakespringer/echo-embeddings](https://github.com/jakespringer/echo-embeddings)**
+- 2024-02-23, **PREDILECT: Preferences Delineated with Zero-Shot Language-based Reasoning in Reinforcement Learning**, Simon Holk et.al., Paper: [http://arxiv.org/abs/2402.15420v1](http://arxiv.org/abs/2402.15420v1)
+- 2024-02-23, **United We Pretrain, Divided We Fail! Representation Learning for Time Series by Pretraining on 75 Datasets at Once**, Maurice Kraus et.al., Paper: [http://arxiv.org/abs/2402.15404v1](http://arxiv.org/abs/2402.15404v1)
+- 2024-02-23, **Fine-Tuning of Continuous-Time Diffusion Models as Entropy-Regularized Control**, Masatoshi Uehara et.al., Paper: [http://arxiv.org/abs/2402.15194v1](http://arxiv.org/abs/2402.15194v1)
+- 2024-02-23, **The Surprising Effectiveness of Skip-Tuning in Diffusion Sampling**, Jiajun Ma et.al., Paper: [http://arxiv.org/abs/2402.15170v1](http://arxiv.org/abs/2402.15170v1)
+- 2024-02-23, **Self-Adaptive Reconstruction with Contrastive Learning for Unsupervised Sentence Embeddings**, Junlong Liu et.al., Paper: [http://arxiv.org/abs/2402.15153v1](http://arxiv.org/abs/2402.15153v1)
+- 2024-02-23, **ColBERT-XM: A Modular Multi-Vector Representation Model for Zero-Shot Multilingual Information Retrieval**, Antoine Louis et.al., Paper: [http://arxiv.org/abs/2402.15059v1](http://arxiv.org/abs/2402.15059v1)
+- 2024-02-23, **CARBD-Ko: A Contextually Annotated Review Benchmark Dataset for Aspect-Level Sentiment Classification in Korean**, Dongjun Jang et.al., Paper: [http://arxiv.org/abs/2402.15046v1](http://arxiv.org/abs/2402.15046v1)
+- 2024-02-22, **Towards Few-Shot Adaptation of Foundation Models via Multitask Finetuning**, Zhuoyan Xu et.al., Paper: [http://arxiv.org/abs/2402.15017v1](http://arxiv.org/abs/2402.15017v1), Code: **[https://github.com/oliverxuzy/foudation-model_multitask](https://github.com/oliverxuzy/foudation-model_multitask)**
 - 2024-02-22, **Zero-shot cross-lingual transfer in instruction tuning of large language model**, Nadezhda Chirkova et.al., Paper: [http://arxiv.org/abs/2402.14778v1](http://arxiv.org/abs/2402.14778v1)
 - 2024-02-22, **Prompting a Pretrained Transformer Can Be a Universal Approximator**, Aleksandar Petrov et.al., Paper: [http://arxiv.org/abs/2402.14753v1](http://arxiv.org/abs/2402.14753v1)
 - 2024-02-22, **Dependency Annotation of Ottoman Turkish with Multilingual BERT**, Şaziye Betül Özateş et.al., Paper: [http://arxiv.org/abs/2402.14743v1](http://arxiv.org/abs/2402.14743v1)
@@ -2443,10 +2452,12 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20240226>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240227>back to top</a>)</p>
 
 ## downstream
 
+- 2024-02-23, **Does Combining Parameter-efficient Modules Improve Few-shot Transfer Accuracy?**, Nader Asadi et.al., Paper: [http://arxiv.org/abs/2402.15414v1](http://arxiv.org/abs/2402.15414v1)
+- 2024-02-23, **Spatially-Aware Transformer Memory for Embodied Agents**, Junmo Cho et.al., Paper: [http://arxiv.org/abs/2402.15160v1](http://arxiv.org/abs/2402.15160v1), Code: **[https://github.com/junmokane/spatially-aware-transformer](https://github.com/junmokane/spatially-aware-transformer)**
 - 2024-02-22, **Customize-A-Video: One-Shot Motion Customization of Text-to-Video Diffusion Models**, Yixuan Ren et.al., Paper: [http://arxiv.org/abs/2402.14780v1](http://arxiv.org/abs/2402.14780v1)
 - 2024-02-22, **2D Matryoshka Sentence Embeddings**, Xianming Li et.al., Paper: [http://arxiv.org/abs/2402.14776v1](http://arxiv.org/abs/2402.14776v1)
 - 2024-02-22, **Zero-Shot Pediatric Tuberculosis Detection in Chest X-Rays using Self-Supervised Learning**, Daniel Capellán-Martín et.al., Paper: [http://arxiv.org/abs/2402.14741v1](http://arxiv.org/abs/2402.14741v1)
@@ -4677,10 +4688,11 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20240226>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240227>back to top</a>)</p>
 
 ## adaptor
 
+- 2024-02-23, **Where Visual Speech Meets Language: VSP-LLM Framework for Efficient and Context-Aware Visual Speech Processing**, Jeong Hun Yeo et.al., Paper: [http://arxiv.org/abs/2402.15151v1](http://arxiv.org/abs/2402.15151v1), Code: **[https://github.com/sally-sh/vsp-llm](https://github.com/sally-sh/vsp-llm)**
 - 2024-02-21, **StyleDubber: Towards Multi-Scale Style Learning for Movie Dubbing**, Gaoxiang Cong et.al., Paper: [http://arxiv.org/abs/2402.12636v2](http://arxiv.org/abs/2402.12636v2)
 - 2024-02-19, **Parameter Efficient Finetuning for Speech Emotion Recognition and Domain Adaptation**, Nineli Lashkarashvili et.al., Paper: [http://arxiv.org/abs/2402.11747v1](http://arxiv.org/abs/2402.11747v1)
 - 2024-02-05, **Time-, Memory- and Parameter-Efficient Visual Adaptation**, Otniel-Bogdan Mercea et.al., Paper: [http://arxiv.org/abs/2402.02887v1](http://arxiv.org/abs/2402.02887v1)
@@ -4768,10 +4780,13 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20240226>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240227>back to top</a>)</p>
 
 ## object detection
 
+- 2024-02-23, **A Comprehensive Survey of Convolutions in Deep Learning: Applications, Challenges, and Future Trends**, Abolfazl Younesi et.al., Paper: [http://arxiv.org/abs/2402.15490v1](http://arxiv.org/abs/2402.15490v1)
+- 2024-02-23, **A Universal Method for Solar Filament Detection from H-alpha Observations using Semi-supervised Deep Learning**, Andrea Diercke et.al., Paper: [http://arxiv.org/abs/2402.15407v1](http://arxiv.org/abs/2402.15407v1)
+- 2024-02-23, **EMIFF: Enhanced Multi-scale Image Feature Fusion for Vehicle-Infrastructure Cooperative 3D Object Detection**, Zhe Wang et.al., Paper: [http://arxiv.org/abs/2402.15272v1](http://arxiv.org/abs/2402.15272v1), Code: **[https://github.com/bosszhe/emiff](https://github.com/bosszhe/emiff)**
 - 2024-02-22, **WeakSAM: Segment Anything Meets Weakly-supervised Instance-level Recognition**, Lianghui Zhu et.al., Paper: [http://arxiv.org/abs/2402.14812v1](http://arxiv.org/abs/2402.14812v1), Code: **[https://github.com/hustvl/weaksam](https://github.com/hustvl/weaksam)**
 - 2024-02-22, **High-Speed Detector For Low-Powered Devices In Aerial Grasping**, Ashish Kumar et.al., Paper: [http://arxiv.org/abs/2402.14591v1](http://arxiv.org/abs/2402.14591v1)
 - 2024-02-22, **S^2Former-OR: Single-Stage Bimodal Transformer for Scene Graph Generation in OR**, Jialun Pei et.al., Paper: [http://arxiv.org/abs/2402.14461v1](http://arxiv.org/abs/2402.14461v1)
@@ -6824,7 +6839,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20240226>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240227>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
