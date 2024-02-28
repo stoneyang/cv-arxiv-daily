@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.27
+## Updated on 2024.02.28
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-26**|**Immunization against harmful fine-tuning attacks**|Domenic Rosati et.al.|[2402.16382v1](http://arxiv.org/abs/2402.16382v1)|null|
+|**2024-02-26**|**An Integrated Data Processing Framework for Pretraining Foundation Models**|Yiding Sun et.al.|[2402.16358v1](http://arxiv.org/abs/2402.16358v1)|**[link](https://github.com/emanual20/zhem)**|
+|**2024-02-26**|**MathGenie: Generating Synthetic Data with Question Back-translation for Enhancing Mathematical Reasoning of LLMs**|Zimu Lu et.al.|[2402.16352v1](http://arxiv.org/abs/2402.16352v1)|null|
+|**2024-02-26**|**BLO-SAM: Bi-level Optimization Based Overfitting-Preventing Finetuning of SAM**|Li Zhang et.al.|[2402.16338v1](http://arxiv.org/abs/2402.16338v1)|null|
+|**2024-02-26**|**Learning Translations: Emergent Communication Pretraining for Cooperative Language Acquisition**|Dylan Cope et.al.|[2402.16247v1](http://arxiv.org/abs/2402.16247v1)|null|
+|**2024-02-26**|**High-Frequency-aware Hierarchical Contrastive Selective Coding for Representation Learning on Text-attributed Graphs**|Peiyan Zhang et.al.|[2402.16240v1](http://arxiv.org/abs/2402.16240v1)|null|
+|**2024-02-25**|**Task Specific Pretraining with Noisy Labels for Remote sensing Image Segmentation**|Chenying Liu et.al.|[2402.16164v1](http://arxiv.org/abs/2402.16164v1)|null|
+|**2024-02-25**|**StochCA: A Novel Approach for Exploiting Pretrained Models with Cross-Attention**|Seungwon Seo et.al.|[2402.16092v1](http://arxiv.org/abs/2402.16092v1)|**[link](https://github.com/daintlab/stochastic_cross_attention)**|
+|**2024-02-25**|**LSTP: Language-guided Spatial-Temporal Prompt Learning for Long-form Video-Text Understanding**|Yuxuan Wang et.al.|[2402.16050v1](http://arxiv.org/abs/2402.16050v1)|**[link](https://github.com/bigai-nlco/lstp-chat)**|
+|**2024-02-25**|**Adversarial-Robust Transfer Learning for Medical Imaging via Domain Assimilation**|Xiaohui Chen et.al.|[2402.16005v1](http://arxiv.org/abs/2402.16005v1)|null|
 |**2024-02-23**|**Repetition Improves Language Model Embeddings**|Jacob Mitchell Springer et.al.|[2402.15449v1](http://arxiv.org/abs/2402.15449v1)|**[link](https://github.com/jakespringer/echo-embeddings)**|
 |**2024-02-23**|**PREDILECT: Preferences Delineated with Zero-Shot Language-based Reasoning in Reinforcement Learning**|Simon Holk et.al.|[2402.15420v1](http://arxiv.org/abs/2402.15420v1)|null|
 |**2024-02-23**|**United We Pretrain, Divided We Fail! Representation Learning for Time Series by Pretraining on 75 Datasets at Once**|Maurice Kraus et.al.|[2402.15404v1](http://arxiv.org/abs/2402.15404v1)|null|
@@ -2458,12 +2468,22 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240227>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240228>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-26**|**Graph Learning with Distributional Edge Layouts**|Xinjian Zhao et.al.|[2402.16402v1](http://arxiv.org/abs/2402.16402v1)|null|
+|**2024-02-26**|**BLO-SAM: Bi-level Optimization Based Overfitting-Preventing Finetuning of SAM**|Li Zhang et.al.|[2402.16338v1](http://arxiv.org/abs/2402.16338v1)|null|
+|**2024-02-25**|**Task Specific Pretraining with Noisy Labels for Remote sensing Image Segmentation**|Chenying Liu et.al.|[2402.16164v1](http://arxiv.org/abs/2402.16164v1)|null|
+|**2024-02-25**|**DistALANER: Distantly Supervised Active Learning Augmented Named Entity Recognition in the Open Source Software Ecosystem**|Somnath Banerjee et.al.|[2402.16159v1](http://arxiv.org/abs/2402.16159v1)|null|
+|**2024-02-25**|**PeriodicLoRA: Breaking the Low-Rank Bottleneck in LoRA Optimization**|Xiangdi Meng et.al.|[2402.16141v1](http://arxiv.org/abs/2402.16141v1)|null|
+|**2024-02-25**|**Beyond Spatio-Temporal Representations: Evolving Fourier Transform for Temporal Graphs**|Anson Bastos et.al.|[2402.16078v1](http://arxiv.org/abs/2402.16078v1)|null|
+|**2024-02-24**|**Deep Separable Spatiotemporal Learning for Fast Dynamic Cardiac MRI**|Zi Wang et.al.|[2402.15939v1](http://arxiv.org/abs/2402.15939v1)|null|
+|**2024-02-24**|**MultiContrievers: Analysis of Dense Retrieval Representations**|Seraphina Goldfarb-Tarrant et.al.|[2402.15925v1](http://arxiv.org/abs/2402.15925v1)|**[link](https://github.com/facebookresearch/multicontrievers-analysis)**|
+|**2024-02-24**|**Pretraining Strategy for Neural Potentials**|Zehua Zhang et.al.|[2402.15921v1](http://arxiv.org/abs/2402.15921v1)|null|
+|**2024-02-24**|**HIR-Diff: Unsupervised Hyperspectral Image Restoration Via Improved Diffusion Models**|Li Pang et.al.|[2402.15865v1](http://arxiv.org/abs/2402.15865v1)|**[link](https://github.com/lipang/hirdiff)**|
 |**2024-02-23**|**Does Combining Parameter-efficient Modules Improve Few-shot Transfer Accuracy?**|Nader Asadi et.al.|[2402.15414v1](http://arxiv.org/abs/2402.15414v1)|null|
 |**2024-02-23**|**Spatially-Aware Transformer Memory for Embodied Agents**|Junmo Cho et.al.|[2402.15160v1](http://arxiv.org/abs/2402.15160v1)|**[link](https://github.com/junmokane/spatially-aware-transformer)**|
 |**2024-02-22**|**Customize-A-Video: One-Shot Motion Customization of Text-to-Video Diffusion Models**|Yixuan Ren et.al.|[2402.14780v1](http://arxiv.org/abs/2402.14780v1)|null|
@@ -4696,7 +4716,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20240227>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240228>back to top</a>)</p>
 
 ## adaptor
 
@@ -4790,12 +4810,18 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240227>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240228>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-26**|**DEYO: DETR with YOLO for End-to-End Object Detection**|Haodong Ouyang et.al.|[2402.16370v1](http://arxiv.org/abs/2402.16370v1)|null|
+|**2024-02-26**|**mAPm: multi-scale Attention Pyramid module for Enhanced scale-variation in RLD detection**|Yunusa Haruna et.al.|[2402.16291v1](http://arxiv.org/abs/2402.16291v1)|null|
+|**2024-02-26**|**Real-Time Vehicle Detection and Urban Traffic Behavior Analysis Based on UAV Traffic Videos on Mobile Devices**|Yuan Zhu et.al.|[2402.16246v1](http://arxiv.org/abs/2402.16246v1)|null|
+|**2024-02-25**|**Semi-supervised Open-World Object Detection**|Sahal Shaji Mullappilly et.al.|[2402.16013v1](http://arxiv.org/abs/2402.16013v1)|**[link](https://github.com/sahalshajim/ss-owformer)**|
+|**2024-02-24**|**MMW-Carry: Enhancing Carry Object Detection through Millimeter-Wave Radar-Camera Fusion**|Xiangyu Gao et.al.|[2402.15897v1](http://arxiv.org/abs/2402.15897v1)|null|
+|**2024-02-24**|**RAUCA: A Novel Physical Adversarial Attack on Vehicle Detectors via Robust and Accurate Camouflage Generation**|Jiawei Zhou et.al.|[2402.15853v1](http://arxiv.org/abs/2402.15853v1)|null|
 |**2024-02-23**|**A Comprehensive Survey of Convolutions in Deep Learning: Applications, Challenges, and Future Trends**|Abolfazl Younesi et.al.|[2402.15490v1](http://arxiv.org/abs/2402.15490v1)|null|
 |**2024-02-23**|**A Universal Method for Solar Filament Detection from H-alpha Observations using Semi-supervised Deep Learning**|Andrea Diercke et.al.|[2402.15407v1](http://arxiv.org/abs/2402.15407v1)|null|
 |**2024-02-23**|**EMIFF: Enhanced Multi-scale Image Feature Fusion for Vehicle-Infrastructure Cooperative 3D Object Detection**|Zhe Wang et.al.|[2402.15272v1](http://arxiv.org/abs/2402.15272v1)|**[link](https://github.com/bosszhe/emiff)**|
@@ -6851,7 +6877,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20240227>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240228>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
