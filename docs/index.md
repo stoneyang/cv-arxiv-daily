@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.28
+## Updated on 2024.02.29
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-27**|**Tower: An Open Multilingual Large Language Model for Translation-Related Tasks**|Duarte M. Alves et.al.|[2402.17733v1](http://arxiv.org/abs/2402.17733v1)|null|
+|**2024-02-27**|**MedContext: Learning Contextual Cues for Efficient Volumetric Medical Segmentation**|Hanan Gani et.al.|[2402.17725v1](http://arxiv.org/abs/2402.17725v1)|**[link](https://github.com/hananshafi/medcontext)**|
+|**2024-02-27**|**NextLevelBERT: Investigating Masked Language Modeling with Higher-Level Representations for Long Documents**|Tamara Czinczoll et.al.|[2402.17682v1](http://arxiv.org/abs/2402.17682v1)|null|
+|**2024-02-27**|**SongComposer: A Large Language Model for Lyric and Melody Composition in Song Generation**|Shuangrui Ding et.al.|[2402.17645v1](http://arxiv.org/abs/2402.17645v1)|null|
+|**2024-02-27**|**Are LLMs Capable of Data-based Statistical and Causal Reasoning? Benchmarking Advanced Quantitative Reasoning with Data**|Xiao Liu et.al.|[2402.17644v1](http://arxiv.org/abs/2402.17644v1)|**[link](https://github.com/xxxiaol/qrdata)**|
+|**2024-02-27**|**Adapt Before Comparison: A New Perspective on Cross-Domain Few-Shot Segmentation**|Jonas Herzog et.al.|[2402.17614v1](http://arxiv.org/abs/2402.17614v1)|null|
+|**2024-02-27**|**A Large-scale Evaluation of Pretraining Paradigms for the Detection of Defects in Electroluminescence Solar Cell Images**|David Torpey et.al.|[2402.17611v1](http://arxiv.org/abs/2402.17611v1)|null|
+|**2024-02-27**|**Training-Free Long-Context Scaling of Large Language Models**|Chenxin An et.al.|[2402.17463v1](http://arxiv.org/abs/2402.17463v1)|**[link](https://github.com/hkunlp/chunkllama)**|
+|**2024-02-27**|**Enhancing EEG-to-Text Decoding through Transferable Representations from Pre-trained Contrastive EEG-Text Masked Autoencoder**|Jiaqi Wang et.al.|[2402.17433v1](http://arxiv.org/abs/2402.17433v1)|null|
+|**2024-02-27**|**Investigating Continual Pretraining in Large Language Models: Insights and Implications**|Çağatay Yıldız et.al.|[2402.17400v1](http://arxiv.org/abs/2402.17400v1)|null|
 |**2024-02-26**|**Immunization against harmful fine-tuning attacks**|Domenic Rosati et.al.|[2402.16382v1](http://arxiv.org/abs/2402.16382v1)|null|
 |**2024-02-26**|**An Integrated Data Processing Framework for Pretraining Foundation Models**|Yiding Sun et.al.|[2402.16358v1](http://arxiv.org/abs/2402.16358v1)|**[link](https://github.com/emanual20/zhem)**|
 |**2024-02-26**|**MathGenie: Generating Synthetic Data with Question Back-translation for Enhancing Mathematical Reasoning of LLMs**|Zimu Lu et.al.|[2402.16352v1](http://arxiv.org/abs/2402.16352v1)|null|
@@ -2468,12 +2478,22 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240228>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240229>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-27**|**Benchmarking GPT-4 on Algorithmic Problems: A Systematic Evaluation of Prompting Strategies**|Flavio Petruzzellis et.al.|[2402.17396v1](http://arxiv.org/abs/2402.17396v1)|null|
+|**2024-02-27**|**Denoising Diffusion Models for Inpainting of Healthy Brain Tissue**|Alicia Durrer et.al.|[2402.17307v1](http://arxiv.org/abs/2402.17307v1)|null|
+|**2024-02-27**|**VoCo: A Simple-yet-Effective Volume Contrastive Learning Framework for 3D Medical Image Analysis**|Linshan Wu et.al.|[2402.17300v1](http://arxiv.org/abs/2402.17300v1)|null|
+|**2024-02-27**|**Beyond the Known: Investigating LLMs Performance on Out-of-Domain Intent Detection**|Pei Wang et.al.|[2402.17256v1](http://arxiv.org/abs/2402.17256v1)|null|
+|**2024-02-27**|**Feature Re-Embedding: Towards Foundation Model-Level Performance in Computational Pathology**|Wenhao Tang et.al.|[2402.17228v1](http://arxiv.org/abs/2402.17228v1)|**[link](https://github.com/dearcaat/rrt-mil)**|
+|**2024-02-27**|**VCD: Knowledge Base Guided Visual Commonsense Discovery in Images**|Xiangqing Shen et.al.|[2402.17213v1](http://arxiv.org/abs/2402.17213v1)|null|
+|**2024-02-27**|**Unsupervised Zero-Shot Reinforcement Learning via Functional Reward Encodings**|Kevin Frans et.al.|[2402.17135v1](http://arxiv.org/abs/2402.17135v1)|**[link](https://github.com/kvfrans/fre)**|
+|**2024-02-26**|**Can Large Language Models Recall Reference Location Like Humans?**|Ye Wang et.al.|[2402.17010v1](http://arxiv.org/abs/2402.17010v1)|null|
+|**2024-02-26**|**A Comprehensive Evaluation of Quantization Strategies for Large Language Models**|Renren Jin et.al.|[2402.16775v1](http://arxiv.org/abs/2402.16775v1)|null|
+|**2024-02-26**|**Adaptation of Biomedical and Clinical Pretrained Models to French Long Documents: A Comparative Study**|Adrien Bazoge et.al.|[2402.16689v1](http://arxiv.org/abs/2402.16689v1)|**[link](https://github.com/abazoge/drlongformer)**|
 |**2024-02-26**|**Graph Learning with Distributional Edge Layouts**|Xinjian Zhao et.al.|[2402.16402v1](http://arxiv.org/abs/2402.16402v1)|null|
 |**2024-02-26**|**BLO-SAM: Bi-level Optimization Based Overfitting-Preventing Finetuning of SAM**|Li Zhang et.al.|[2402.16338v1](http://arxiv.org/abs/2402.16338v1)|null|
 |**2024-02-25**|**Task Specific Pretraining with Noisy Labels for Remote sensing Image Segmentation**|Chenying Liu et.al.|[2402.16164v1](http://arxiv.org/abs/2402.16164v1)|null|
@@ -4716,7 +4736,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20240228>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240229>back to top</a>)</p>
 
 ## adaptor
 
@@ -4810,12 +4830,20 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240228>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240229>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-27**|**An Empirical Study of the Generalization Ability of Lidar 3D Object Detectors to Unseen Domains**|George Eskandar et.al.|[2402.17562v1](http://arxiv.org/abs/2402.17562v1)|null|
+|**2024-02-27**|**PANDAS: Prototype-based Novel Class Discovery and Detection**|Tyler L. Hayes et.al.|[2402.17420v1](http://arxiv.org/abs/2402.17420v1)|**[link](https://github.com/naver/pandas)**|
+|**2024-02-27**|**SDDGR: Stable Diffusion-based Deep Generative Replay for Class Incremental Object Detection**|Junsu Kim et.al.|[2402.17323v1](http://arxiv.org/abs/2402.17323v1)|null|
+|**2024-02-27**|**A Vanilla Multi-Task Framework for Dense Visual Prediction Solution to 1st VCL Challenge -- Multi-Task Robustness Track**|Zehui Chen et.al.|[2402.17319v1](http://arxiv.org/abs/2402.17319v1)|null|
+|**2024-02-27**|**Probing Multimodal Large Language Models for Global and Local Semantic Representation**|Mingxu Tao et.al.|[2402.17304v1](http://arxiv.org/abs/2402.17304v1)|null|
+|**2024-02-27**|**Deployment Prior Injection for Run-time Calibratable Object Detection**|Mo Zhou et.al.|[2402.17207v1](http://arxiv.org/abs/2402.17207v1)|null|
+|**2024-02-26**|**A NIRCam-dark galaxy detected with the MIRI/F1000W filter in the MIDIS/JADES Hubble Ultra Deep Field**|Pablo G. Pérez-González et.al.|[2402.16942v1](http://arxiv.org/abs/2402.16942v1)|null|
+|**2024-02-26**|**Deep Learning-based Cooperative LiDAR Sensing for Improved Vehicle Positioning**|Luca Barbieri et.al.|[2402.16656v1](http://arxiv.org/abs/2402.16656v1)|null|
 |**2024-02-26**|**DEYO: DETR with YOLO for End-to-End Object Detection**|Haodong Ouyang et.al.|[2402.16370v1](http://arxiv.org/abs/2402.16370v1)|null|
 |**2024-02-26**|**mAPm: multi-scale Attention Pyramid module for Enhanced scale-variation in RLD detection**|Yunusa Haruna et.al.|[2402.16291v1](http://arxiv.org/abs/2402.16291v1)|null|
 |**2024-02-26**|**Real-Time Vehicle Detection and Urban Traffic Behavior Analysis Based on UAV Traffic Videos on Mobile Devices**|Yuan Zhu et.al.|[2402.16246v1](http://arxiv.org/abs/2402.16246v1)|null|
@@ -6877,7 +6905,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20240228>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240229>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
