@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.04
+## Updated on 2024.03.05
 
 <details>
   <summary>Table of Contents</summary>
@@ -2494,22 +2494,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240304>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240305>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-02-29**|**Panda-70M: Captioning 70M Videos with Multiple Cross-Modality Teachers**|Tsai-Shien Chen et.al.|[2402.19479v1](http://arxiv.org/abs/2402.19479v1)|null|
-|**2024-02-29**|**$\texttt{COSMIC}$: Mutual Information for Task-Agnostic Summarization Evaluation**|Maxime Darrin et.al.|[2402.19457v1](http://arxiv.org/abs/2402.19457v1)|null|
+|**2024-03-01**|**$\texttt{COSMIC}$: Mutual Information for Task-Agnostic Summarization Evaluation**|Maxime Darrin et.al.|[2402.19457v2](http://arxiv.org/abs/2402.19457v2)|null|
 |**2024-02-29**|**Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models**|Soham De et.al.|[2402.19427v1](http://arxiv.org/abs/2402.19427v1)|null|
 |**2024-02-29**|**PaECTER: Patent-level Representation Learning using Citation-informed Transformers**|Mainak Ghosh et.al.|[2402.19411v1](http://arxiv.org/abs/2402.19411v1)|null|
 |**2024-02-29**|**Generalizable Whole Slide Image Classification with Fine-Grained Visual-Semantic Interaction**|Hao Li et.al.|[2402.19326v1](http://arxiv.org/abs/2402.19326v1)|null|
-|**2024-02-29**|**WanJuan-CC: A Safe and High-Quality Open-sourced English Webtext Dataset**|Jiantao Qiu et.al.|[2402.19282v1](http://arxiv.org/abs/2402.19282v1)|null|
+|**2024-03-01**|**WanJuan-CC: A Safe and High-Quality Open-sourced English Webtext Dataset**|Jiantao Qiu et.al.|[2402.19282v2](http://arxiv.org/abs/2402.19282v2)|null|
 |**2024-02-29**|**PeLLE: Encoder-based language models for Brazilian Portuguese based on open data**|Guilherme Lamartine de Mello et.al.|[2402.19204v1](http://arxiv.org/abs/2402.19204v1)|null|
 |**2024-02-29**|**VideoMAC: Video Masked Autoencoders Meet ConvNets**|Gensheng Pei et.al.|[2402.19082v1](http://arxiv.org/abs/2402.19082v1)|**[link](https://github.com/nust-machine-intelligence-laboratory/videomac)**|
 |**2024-02-29**|**Automatic Radar Signal Detection and FFT Estimation using Deep Learning**|Akila Pemasiri et.al.|[2402.19073v1](http://arxiv.org/abs/2402.19073v1)|null|
-|**2024-02-29**|**Graph Convolutional Neural Networks for Automated Echocardiography View Recognition: A Holistic Approach**|Sarina Thomas et.al.|[2402.19062v1](http://arxiv.org/abs/2402.19062v1)|null|
+|**2024-03-01**|**Graph Convolutional Neural Networks for Automated Echocardiography View Recognition: A Holistic Approach**|Sarina Thomas et.al.|[2402.19062v2](http://arxiv.org/abs/2402.19062v2)|null|
 |**2024-02-28**|**TAMM: TriAdapter Multi-Modal Learning for 3D Shape Understanding**|Zhihao Zhang et.al.|[2402.18490v1](http://arxiv.org/abs/2402.18490v1)|null|
 |**2024-02-28**|**Meta-Task Prompting Elicits Embedding from Large Language Models**|Yibin Lei et.al.|[2402.18458v1](http://arxiv.org/abs/2402.18458v1)|null|
 |**2024-02-28**|**A Modular System for Enhanced Robustness of Multimedia Understanding Networks via Deep Parametric Estimation**|Francesco Barbato et.al.|[2402.18402v1](http://arxiv.org/abs/2402.18402v1)|null|
@@ -4772,7 +4772,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20240304>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240305>back to top</a>)</p>
 
 ## adaptor
 
@@ -4866,7 +4866,7 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240304>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240305>back to top</a>)</p>
 
 ## object detection
 
@@ -6958,7 +6958,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20240304>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240305>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
