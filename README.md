@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.13
+## Updated on 2024.03.14
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-12**|**12 mJ per Class On-Device Online Few-Shot Class-Incremental Learning**|Yoga Esa Wibowo et.al.|[2403.07851v1](http://arxiv.org/abs/2403.07851v1)|**[link](https://github.com/pulp-platform/fscil)**|
+|**2024-03-12**|**Chronos: Learning the Language of Time Series**|Abdul Fatir Ansari et.al.|[2403.07815v1](http://arxiv.org/abs/2403.07815v1)|**[link](https://github.com/amazon-science/chronos-forecasting)**|
+|**2024-03-12**|**Boosting keyword spotting through on-device learnable user speech characteristics**|Cristian Cioflan et.al.|[2403.07802v1](http://arxiv.org/abs/2403.07802v1)|null|
+|**2024-03-12**|**Fine-tuning Neural Network Quantum States**|Riccardo Rende et.al.|[2403.07795v1](http://arxiv.org/abs/2403.07795v1)|null|
+|**2024-03-12**|**Synth$^2$: Boosting Visual-Language Models with Synthetic Captions and Image Embeddings**|Sahand Sharifzadeh et.al.|[2403.07750v1](http://arxiv.org/abs/2403.07750v1)|null|
+|**2024-03-12**|**MoralBERT: Detecting Moral Values in Social Discourse**|Vjosa Preniqi et.al.|[2403.07678v1](http://arxiv.org/abs/2403.07678v1)|null|
+|**2024-03-12**|**Characterization of Large Language Model Development in the Datacenter**|Qinghao Hu et.al.|[2403.07648v1](http://arxiv.org/abs/2403.07648v1)|**[link](https://github.com/internlm/acmetrace)**|
+|**2024-03-12**|**Triples-to-isiXhosa (T2X): Addressing the Challenges of Low-Resource Agglutinative Data-to-Text Generation**|Francois Meyer et.al.|[2403.07567v1](http://arxiv.org/abs/2403.07567v1)|**[link](https://github.com/francois-meyer/t2x)**|
+|**2024-03-12**|**Matrix-Transformation Based Low-Rank Adaptation (MTLoRA): A Brain-Inspired Method for Parameter-Efficient Fine-Tuning**|Yao Liang et.al.|[2403.07440v1](http://arxiv.org/abs/2403.07440v1)|null|
+|**2024-03-12**|**In-context learning enables multimodal large language models to classify cancer pathology images**|Dyke Ferber et.al.|[2403.07407v1](http://arxiv.org/abs/2403.07407v1)|null|
 |**2024-03-11**|**VideoMamba: State Space Model for Efficient Video Understanding**|Kunchang Li et.al.|[2403.06977v1](http://arxiv.org/abs/2403.06977v1)|**[link](https://github.com/opengvlab/videomamba)**|
 |**2024-03-11**|**MEND: Meta dEmonstratioN Distillation for Efficient and Effective In-Context Learning**|Yichuan Li et.al.|[2403.06914v1](http://arxiv.org/abs/2403.06914v1)|null|
 |**2024-03-11**|**FocusCLIP: Multimodal Subject-Level Guidance for Zero-Shot Transfer in Human-Centric Tasks**|Muhammad Saif Ullah Khan et.al.|[2403.06904v1](http://arxiv.org/abs/2403.06904v1)|null|
@@ -2550,12 +2560,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240313>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240314>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-12**|**Quantifying and Mitigating Privacy Risks for Tabular Generative Models**|Chaoyi Zhu et.al.|[2403.07842v1](http://arxiv.org/abs/2403.07842v1)|null|
+|**2024-03-12**|**MoPE-CLIP: Structured Pruning for Efficient Vision-Language Models with Module-wise Pruning Error Metric**|Haokun Lin et.al.|[2403.07839v1](http://arxiv.org/abs/2403.07839v1)|null|
+|**2024-03-12**|**DeliGrasp: Inferring Object Mass, Friction, and Compliance with LLMs for Adaptive and Minimally Deforming Grasp Policies**|William Xie et.al.|[2403.07832v1](http://arxiv.org/abs/2403.07832v1)|null|
+|**2024-03-12**|**Fine-tuning Large Language Models with Sequential Instructions**|Hanxu Hu et.al.|[2403.07794v1](http://arxiv.org/abs/2403.07794v1)|**[link](https://github.com/hanxuhu/seq_it)**|
+|**2024-03-13**|**SemCity: Semantic Scene Generation with Triplane Diffusion**|Jumin Lee et.al.|[2403.07773v2](http://arxiv.org/abs/2403.07773v2)|**[link](https://github.com/zoomin-lee/semcity)**|
+|**2024-03-12**|**Intra-video Positive Pairs in Self-Supervised Learning for Ultrasound**|Blake VanBerlo et.al.|[2403.07715v1](http://arxiv.org/abs/2403.07715v1)|null|
+|**2024-03-12**|**Fast and Simple Explainability for Point Cloud Networks**|Meir Yossef Levi et.al.|[2403.07706v1](http://arxiv.org/abs/2403.07706v1)|null|
+|**2024-03-12**|**generAItor: Tree-in-the-Loop Text Generation for Language Model Explainability and Adaptation**|Thilo Spinner et.al.|[2403.07627v1](http://arxiv.org/abs/2403.07627v1)|null|
+|**2024-03-12**|**FPT: Fine-grained Prompt Tuning for Parameter and Memory Efficient Fine Tuning in High-resolution Medical Image Classification**|Yijin Huang et.al.|[2403.07576v1](http://arxiv.org/abs/2403.07576v1)|null|
+|**2024-03-12**|**Open-World Semantic Segmentation Including Class Similarity**|Matteo Sodano et.al.|[2403.07532v1](http://arxiv.org/abs/2403.07532v1)|null|
 |**2024-03-11**|**Attention Prompt Tuning: Parameter-efficient Adaptation of Pre-trained Models for Spatiotemporal Modeling**|Wele Gedara Chaminda Bandara et.al.|[2403.06978v1](http://arxiv.org/abs/2403.06978v1)|**[link](https://github.com/wgcban/apt)**|
 |**2024-03-11**|**Optimizing Latent Graph Representations of Surgical Scenes for Zero-Shot Domain Transfer**|Siddhant Satyanaik et.al.|[2403.06953v1](http://arxiv.org/abs/2403.06953v1)|null|
 |**2024-03-11**|**MEND: Meta dEmonstratioN Distillation for Efficient and Effective In-Context Learning**|Yichuan Li et.al.|[2403.06914v1](http://arxiv.org/abs/2403.06914v1)|null|
@@ -4876,7 +4896,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20240313>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240314>back to top</a>)</p>
 
 ## adaptor
 
@@ -4971,12 +4991,21 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240313>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240314>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-12**|**Mondrian: On-Device High-Performance Video Analytics with Compressive Packed Inference**|Changmin Jeon et.al.|[2403.07598v1](http://arxiv.org/abs/2403.07598v1)|null|
+|**2024-03-12**|**PeLK: Parameter-efficient Large Kernel ConvNets with Peripheral Convolution**|Honghao Chen et.al.|[2403.07589v1](http://arxiv.org/abs/2403.07589v1)|null|
+|**2024-03-12**|**A Survey of Vision Transformers in Autonomous Driving: Current Trends and Future Directions**|Quoc-Vinh Lai-Dang et.al.|[2403.07542v1](http://arxiv.org/abs/2403.07542v1)|null|
+|**2024-03-12**|**JSTR: Joint Spatio-Temporal Reasoning for Event-based Moving Object Detection**|Hanyu Zhou et.al.|[2403.07436v1](http://arxiv.org/abs/2403.07436v1)|null|
+|**2024-03-12**|**Eliminating Cross-modal Conflicts in BEV Space for LiDAR-Camera 3D Object Detection**|Jiahui Fu et.al.|[2403.07372v1](http://arxiv.org/abs/2403.07372v1)|null|
+|**2024-03-12**|**SparseLIF: High-Performance Sparse LiDAR-Camera Fusion for 3D Object Detection**|Hongcheng Zhang et.al.|[2403.07284v1](http://arxiv.org/abs/2403.07284v1)|null|
+|**2024-03-12**|**Adaptive Bounding Box Uncertainties via Two-Step Conformal Prediction**|Alexander Timans et.al.|[2403.07263v1](http://arxiv.org/abs/2403.07263v1)|null|
+|**2024-03-11**|**Class Imbalance in Object Detection: An Experimental Diagnosis and Study of Mitigation Strategies**|Nieves Crasto et.al.|[2403.07113v1](http://arxiv.org/abs/2403.07113v1)|**[link](https://github.com/craston/object_detection_cib)**|
+|**2024-03-11**|**LISO: Lidar-only Self-Supervised 3D Object Detection**|Stefan Baur et.al.|[2403.07071v1](http://arxiv.org/abs/2403.07071v1)|null|
 |**2024-03-11**|**Real-time Transformer-based Open-Vocabulary Detection with Efficient Fusion Head**|Tiancheng Zhao et.al.|[2403.06892v1](http://arxiv.org/abs/2403.06892v1)|null|
 |**2024-03-11**|**LeOCLR: Leveraging Original Images for Contrastive Learning of Visual Representations**|Mohammad Alkhalefi et.al.|[2403.06813v1](http://arxiv.org/abs/2403.06813v1)|null|
 |**2024-03-11**|**Genetic Learning for Designing Sim-to-Real Data Augmentations**|Bram Vanherle et.al.|[2403.06786v1](http://arxiv.org/abs/2403.06786v1)|null|
@@ -7115,7 +7144,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20240313>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240314>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
