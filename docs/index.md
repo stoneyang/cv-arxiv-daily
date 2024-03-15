@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.14
+## Updated on 2024.03.15
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-13**|**DAM: Dynamic Adapter Merging for Continual Video QA Learning**|Feng Cheng et.al.|[2403.08755v1](http://arxiv.org/abs/2403.08755v1)|**[link](https://github.com/klauscc/dam)**|
+|**2024-03-13**|**Strengthening Multimodal Large Language Model with Bootstrapped Preference Optimization**|Renjie Pi et.al.|[2403.08730v1](http://arxiv.org/abs/2403.08730v1)|null|
+|**2024-03-13**|**Data-Efficient Sleep Staging with Synthetic Time Series Pretraining**|Niklas Grieger et.al.|[2403.08592v1](http://arxiv.org/abs/2403.08592v1)|null|
+|**2024-03-13**|**Gaussian Splatting in Style**|Abhishek Saroha et.al.|[2403.08498v1](http://arxiv.org/abs/2403.08498v1)|null|
+|**2024-03-13**|**Towards Dense and Accurate Radar Perception Via Efficient Cross-Modal Diffusion Model**|Ruibin Zhang et.al.|[2403.08460v1](http://arxiv.org/abs/2403.08460v1)|null|
+|**2024-03-13**|**Gemma: Open Models Based on Gemini Research and Technology**|Gemma Team et.al.|[2403.08295v1](http://arxiv.org/abs/2403.08295v1)|null|
+|**2024-03-13**|**Generative Pretrained Structured Transformers: Unsupervised Syntactic Language Models at Scale**|Xiang Hu et.al.|[2403.08293v1](http://arxiv.org/abs/2403.08293v1)|null|
+|**2024-03-13**|**GPT, Ontology, and CAABAC: A Tripartite Personalized Access Control Model Anchored by Compliance, Context and Attribute**|Raza Nowrozy et.al.|[2403.08264v1](http://arxiv.org/abs/2403.08264v1)|null|
+|**2024-03-13**|**LAFS: Landmark-based Facial Self-supervised Learning for Face Recognition**|Zhonglin Sun et.al.|[2403.08161v1](http://arxiv.org/abs/2403.08161v1)|**[link](https://github.com/szlbiubiubiu/lafs_cvpr2024)**|
+|**2024-03-12**|**Learning Data Association for Multi-Object Tracking using Only Coordinates**|Mehdi Miah et.al.|[2403.08018v1](http://arxiv.org/abs/2403.08018v1)|null|
 |**2024-03-12**|**12 mJ per Class On-Device Online Few-Shot Class-Incremental Learning**|Yoga Esa Wibowo et.al.|[2403.07851v1](http://arxiv.org/abs/2403.07851v1)|**[link](https://github.com/pulp-platform/fscil)**|
 |**2024-03-12**|**Chronos: Learning the Language of Time Series**|Abdul Fatir Ansari et.al.|[2403.07815v1](http://arxiv.org/abs/2403.07815v1)|**[link](https://github.com/amazon-science/chronos-forecasting)**|
 |**2024-03-12**|**Boosting keyword spotting through on-device learnable user speech characteristics**|Cristian Cioflan et.al.|[2403.07802v1](http://arxiv.org/abs/2403.07802v1)|null|
@@ -2564,12 +2574,19 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240314>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240315>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-13**|**MIM4D: Masked Modeling with Multi-View Video for Autonomous Driving Representation Learning**|Jialv Zou et.al.|[2403.08760v1](http://arxiv.org/abs/2403.08760v1)|**[link](https://github.com/hustvl/mim4d)**|
+|**2024-03-13**|**Improving Acoustic Word Embeddings through Correspondence Training of Self-supervised Speech Representations**|Amit Meghanani et.al.|[2403.08738v1](http://arxiv.org/abs/2403.08738v1)|null|
+|**2024-03-13**|**Do Language Models Care About Text Quality? Evaluating Web-Crawled Corpora Across 11 Languages**|Rik van Noord et.al.|[2403.08693v1](http://arxiv.org/abs/2403.08693v1)|null|
+|**2024-03-13**|**Self-Supervised Learning for Covariance Estimation**|Tzvi Diskin et.al.|[2403.08662v1](http://arxiv.org/abs/2403.08662v1)|null|
+|**2024-03-13**|**An Efficient End-to-End Approach to Noise Invariant Speech Features via Multi-Task Learning**|Heitor R. Guimarães et.al.|[2403.08654v1](http://arxiv.org/abs/2403.08654v1)|null|
+|**2024-03-13**|**Language models scale reliably with over-training and on downstream tasks**|Samir Yitzhak Gadre et.al.|[2403.08540v1](http://arxiv.org/abs/2403.08540v1)|**[link](https://github.com/mlfoundations/scaling)**|
+|**2024-03-13**|**Deep Submodular Peripteral Network**|Gantavya Bhatt et.al.|[2403.08199v1](http://arxiv.org/abs/2403.08199v1)|null|
 |**2024-03-12**|**Quantifying and Mitigating Privacy Risks for Tabular Generative Models**|Chaoyi Zhu et.al.|[2403.07842v1](http://arxiv.org/abs/2403.07842v1)|null|
 |**2024-03-12**|**MoPE-CLIP: Structured Pruning for Efficient Vision-Language Models with Module-wise Pruning Error Metric**|Haokun Lin et.al.|[2403.07839v1](http://arxiv.org/abs/2403.07839v1)|null|
 |**2024-03-12**|**DeliGrasp: Inferring Object Mass, Friction, and Compliance with LLMs for Adaptive and Minimally Deforming Grasp Policies**|William Xie et.al.|[2403.07832v1](http://arxiv.org/abs/2403.07832v1)|null|
@@ -4900,19 +4917,21 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20240314>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240315>back to top</a>)</p>
 
 ## adaptor
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-13**|**SoK: Reducing the Vulnerability of Fine-tuned Language Models to Membership Inference Attacks**|Guy Amit et.al.|[2403.08481v1](http://arxiv.org/abs/2403.08481v1)|null|
+|**2024-03-12**|**SAMDA: Leveraging SAM on Few-Shot Domain Adaptation for Electronic Microscopy Segmentation**|Yiran Wang et.al.|[2403.07951v1](http://arxiv.org/abs/2403.07951v1)|null|
 |**2024-03-10**|**Harmonious Group Choreography with Trajectory-Controllable Diffusion**|Yuqin Dai et.al.|[2403.06189v1](http://arxiv.org/abs/2403.06189v1)|null|
 |**2024-02-23**|**Where Visual Speech Meets Language: VSP-LLM Framework for Efficient and Context-Aware Visual Speech Processing**|Jeong Hun Yeo et.al.|[2402.15151v1](http://arxiv.org/abs/2402.15151v1)|**[link](https://github.com/sally-sh/vsp-llm)**|
 |**2024-02-21**|**StyleDubber: Towards Multi-Scale Style Learning for Movie Dubbing**|Gaoxiang Cong et.al.|[2402.12636v2](http://arxiv.org/abs/2402.12636v2)|null|
 |**2024-02-19**|**Parameter Efficient Finetuning for Speech Emotion Recognition and Domain Adaptation**|Nineli Lashkarashvili et.al.|[2402.11747v1](http://arxiv.org/abs/2402.11747v1)|null|
 |**2024-02-05**|**Time-, Memory- and Parameter-Efficient Visual Adaptation**|Otniel-Bogdan Mercea et.al.|[2402.02887v1](http://arxiv.org/abs/2402.02887v1)|null|
 |**2024-01-31**|**Exploiting Audio-Visual Features with Pretrained AV-HuBERT for Multi-Modal Dysarthric Speech Reconstruction**|Xueyuan Chen et.al.|[2401.17796v1](http://arxiv.org/abs/2401.17796v1)|null|
-|**2024-01-16**|**Cross-Domain Few-Shot Segmentation via Iterative Support-Query Correspondence Mining**|Jiahao Nie et.al.|[2401.08407v1](http://arxiv.org/abs/2401.08407v1)|null|
+|**2024-03-13**|**Cross-Domain Few-Shot Segmentation via Iterative Support-Query Correspondence Mining**|Jiahao Nie et.al.|[2401.08407v2](http://arxiv.org/abs/2401.08407v2)|**[link](https://github.com/niejiahao1998/ifa)**|
 |**2024-01-13**|**Quantized Side Tuning: Fast and Memory-Efficient Tuning of Quantized Large Language Models**|Zhengxin Zhang et.al.|[2401.07159v1](http://arxiv.org/abs/2401.07159v1)|**[link](https://github.com/youarespecialtome/qst)**|
 |**2024-01-13**|**Adaptoring: Adapter Generation to Provide an Alternative API for a Library**|Lars Reimann et.al.|[2401.07053v1](http://arxiv.org/abs/2401.07053v1)|null|
 |**2024-01-17**|**Self-supervised Feature Adaptation for 3D Industrial Anomaly Detection**|Yuanpeng Tu et.al.|[2401.03145v2](http://arxiv.org/abs/2401.03145v2)|null|
@@ -4995,12 +5014,20 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240314>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240315>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-13**|**MIM4D: Masked Modeling with Multi-View Video for Autonomous Driving Representation Learning**|Jialv Zou et.al.|[2403.08760v1](http://arxiv.org/abs/2403.08760v1)|**[link](https://github.com/hustvl/mim4d)**|
+|**2024-03-13**|**PRAGO: Differentiable Multi-View Pose Optimization From Objectness Detections**|Matteo Taiana et.al.|[2403.08586v1](http://arxiv.org/abs/2403.08586v1)|null|
+|**2024-03-13**|**A Multimodal Fusion Network For Student Emotion Recognition Based on Transformer and Tensor Product**|Ao Xiang et.al.|[2403.08511v1](http://arxiv.org/abs/2403.08511v1)|null|
+|**2024-03-13**|**Improved YOLOv5 Based on Attention Mechanism and FasterNet for Foreign Object Detection on Railway and Airway tracks**|Zongqing Qi et.al.|[2403.08499v1](http://arxiv.org/abs/2403.08499v1)|null|
+|**2024-03-13**|**IAMCV Multi-Scenario Vehicle Interaction Dataset**|Novel Certad et.al.|[2403.08455v1](http://arxiv.org/abs/2403.08455v1)|null|
+|**2024-03-13**|**Advancing Security in AI Systems: A Novel Approach to Detecting Backdoors in Deep Neural Networks**|Khondoker Murad Hossain et.al.|[2403.08208v1](http://arxiv.org/abs/2403.08208v1)|null|
+|**2024-03-12**|**TaskCLIP: Extend Large Vision-Language Model for Task Oriented Object Detection**|Hanning Chen et.al.|[2403.08108v1](http://arxiv.org/abs/2403.08108v1)|null|
+|**2024-03-12**|**Aedes aegypti Egg Counting with Neural Networks for Object Detection**|Micheli Nayara de Oliveira Vicente et.al.|[2403.08016v1](http://arxiv.org/abs/2403.08016v1)|null|
 |**2024-03-12**|**Mondrian: On-Device High-Performance Video Analytics with Compressive Packed Inference**|Changmin Jeon et.al.|[2403.07598v1](http://arxiv.org/abs/2403.07598v1)|null|
 |**2024-03-12**|**PeLK: Parameter-efficient Large Kernel ConvNets with Peripheral Convolution**|Honghao Chen et.al.|[2403.07589v1](http://arxiv.org/abs/2403.07589v1)|null|
 |**2024-03-12**|**A Survey of Vision Transformers in Autonomous Driving: Current Trends and Future Directions**|Quoc-Vinh Lai-Dang et.al.|[2403.07542v1](http://arxiv.org/abs/2403.07542v1)|null|
@@ -7148,7 +7175,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20240314>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240315>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
