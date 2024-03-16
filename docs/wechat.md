@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.03.15
+> Updated on 2024.03.16
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,16 @@
 
 ## pretrain
 
+- 2024-03-14, **OneTracker: Unifying Visual Object Tracking with Foundation Models and Efficient Tuning**, Lingyi Hong et.al., Paper: [http://arxiv.org/abs/2403.09634v1](http://arxiv.org/abs/2403.09634v1)
+- 2024-03-14, **Holo-Relighting: Controllable Volumetric Portrait Relighting from a Single Image**, Yiqun Mei et.al., Paper: [http://arxiv.org/abs/2403.09632v1](http://arxiv.org/abs/2403.09632v1)
+- 2024-03-14, **Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking**, Eric Zelikman et.al., Paper: [http://arxiv.org/abs/2403.09629v1](http://arxiv.org/abs/2403.09629v1)
+- 2024-03-14, **Counterfactual contrastive learning: robust representations via causal image synthesis**, Melanie Roschewitz et.al., Paper: [http://arxiv.org/abs/2403.09605v1](http://arxiv.org/abs/2403.09605v1), Code: **[https://github.com/biomedia-mira/counterfactual-contrastive](https://github.com/biomedia-mira/counterfactual-contrastive)**
+- 2024-03-14, **uaMix-MAE: Efficient Tuning of Pretrained Audio Transformers with Unsupervised Audio Mixtures**, Afrina Tabassum et.al., Paper: [http://arxiv.org/abs/2403.09579v1](http://arxiv.org/abs/2403.09579v1), Code: **[https://github.com/plan-lab/uamix-mae](https://github.com/plan-lab/uamix-mae)**
+- 2024-03-14, **Unsupervised Modality-Transferable Video Highlight Detection with Representation Activation Sequence Learning**, Tingtian Li et.al., Paper: [http://arxiv.org/abs/2403.09401v1](http://arxiv.org/abs/2403.09401v1)
+- 2024-03-14, **PreConfig: A Pretrained Model for Automating Network Configuration**, Fuliang Li et.al., Paper: [http://arxiv.org/abs/2403.09369v1](http://arxiv.org/abs/2403.09369v1)
+- 2024-03-14, **HeadEvolver: Text to Head Avatars via Locally Learnable Mesh Deformation**, Duotun Wang et.al., Paper: [http://arxiv.org/abs/2403.09326v1](http://arxiv.org/abs/2403.09326v1)
+- 2024-03-14, **Annotation Free Semantic Segmentation with Vision Foundation Models**, Soroush Seifi et.al., Paper: [http://arxiv.org/abs/2403.09307v1](http://arxiv.org/abs/2403.09307v1)
+- 2024-03-14, **CLIP-EBC: CLIP Can Count Accurately through Enhanced Blockwise Classification**, Yiming Ma et.al., Paper: [http://arxiv.org/abs/2403.09281v1](http://arxiv.org/abs/2403.09281v1)
 - 2024-03-13, **DAM: Dynamic Adapter Merging for Continual Video QA Learning**, Feng Cheng et.al., Paper: [http://arxiv.org/abs/2403.08755v1](http://arxiv.org/abs/2403.08755v1), Code: **[https://github.com/klauscc/dam](https://github.com/klauscc/dam)**
 - 2024-03-13, **Strengthening Multimodal Large Language Model with Bootstrapped Preference Optimization**, Renjie Pi et.al., Paper: [http://arxiv.org/abs/2403.08730v1](http://arxiv.org/abs/2403.08730v1)
 - 2024-03-13, **Data-Efficient Sleep Staging with Synthetic Time Series Pretraining**, Niklas Grieger et.al., Paper: [http://arxiv.org/abs/2403.08592v1](http://arxiv.org/abs/2403.08592v1)
@@ -2568,10 +2578,20 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20240315>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240316>back to top</a>)</p>
 
 ## downstream
 
+- 2024-03-14, **Counterfactual contrastive learning: robust representations via causal image synthesis**, Melanie Roschewitz et.al., Paper: [http://arxiv.org/abs/2403.09605v1](http://arxiv.org/abs/2403.09605v1), Code: **[https://github.com/biomedia-mira/counterfactual-contrastive](https://github.com/biomedia-mira/counterfactual-contrastive)**
+- 2024-03-14, **uaMix-MAE: Efficient Tuning of Pretrained Audio Transformers with Unsupervised Audio Mixtures**, Afrina Tabassum et.al., Paper: [http://arxiv.org/abs/2403.09579v1](http://arxiv.org/abs/2403.09579v1), Code: **[https://github.com/plan-lab/uamix-mae](https://github.com/plan-lab/uamix-mae)**
+- 2024-03-14, **Anomaly Detection by Adapting a pre-trained Vision Language Model**, Yuxuan Cai et.al., Paper: [http://arxiv.org/abs/2403.09493v1](http://arxiv.org/abs/2403.09493v1)
+- 2024-03-14, **What Sketch Explainability Really Means for Downstream Tasks**, Hmrishav Bandyopadhyay et.al., Paper: [http://arxiv.org/abs/2403.09480v1](http://arxiv.org/abs/2403.09480v1)
+- 2024-03-14, **Borrowing Treasures from Neighbors: In-Context Learning for Multimodal Learning with Missing Modalities and Data Scarcity**, Zhuo Zhi et.al., Paper: [http://arxiv.org/abs/2403.09428v1](http://arxiv.org/abs/2403.09428v1)
+- 2024-03-14, **XCoOp: Explainable Prompt Learning for Computer-Aided Diagnosis via Concept-guided Context Optimization**, Yequan Bie et.al., Paper: [http://arxiv.org/abs/2403.09410v1](http://arxiv.org/abs/2403.09410v1)
+- 2024-03-14, **Select and Distill: Selective Dual-Teacher Knowledge Transfer for Continual Learning on Vision-Language Models**, Yu-Chu Yu et.al., Paper: [http://arxiv.org/abs/2403.09296v1](http://arxiv.org/abs/2403.09296v1)
+- 2024-03-14, **Anatomical Structure-Guided Medical Vision-Language Pre-training**, Qingqiu Li et.al., Paper: [http://arxiv.org/abs/2403.09294v1](http://arxiv.org/abs/2403.09294v1)
+- 2024-03-14, **PYRA: Parallel Yielding Re-Activation for Training-Inference Efficient Task Adaptation**, Yizhe Xiong et.al., Paper: [http://arxiv.org/abs/2403.09192v1](http://arxiv.org/abs/2403.09192v1)
+- 2024-03-14, **ChartInstruct: Instruction Tuning for Chart Comprehension and Reasoning**, Ahmed Masry et.al., Paper: [http://arxiv.org/abs/2403.09028v1](http://arxiv.org/abs/2403.09028v1)
 - 2024-03-13, **MIM4D: Masked Modeling with Multi-View Video for Autonomous Driving Representation Learning**, Jialv Zou et.al., Paper: [http://arxiv.org/abs/2403.08760v1](http://arxiv.org/abs/2403.08760v1), Code: **[https://github.com/hustvl/mim4d](https://github.com/hustvl/mim4d)**
 - 2024-03-13, **Improving Acoustic Word Embeddings through Correspondence Training of Self-supervised Speech Representations**, Amit Meghanani et.al., Paper: [http://arxiv.org/abs/2403.08738v1](http://arxiv.org/abs/2403.08738v1)
 - 2024-03-13, **Do Language Models Care About Text Quality? Evaluating Web-Crawled Corpora Across 11 Languages**, Rik van Noord et.al., Paper: [http://arxiv.org/abs/2403.08693v1](http://arxiv.org/abs/2403.08693v1)
@@ -4909,7 +4929,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20240315>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240316>back to top</a>)</p>
 
 ## adaptor
 
@@ -5004,10 +5024,20 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20240315>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240316>back to top</a>)</p>
 
 ## object detection
 
+- 2024-03-14, **Open-Vocabulary Object Detection with Meta Prompt Representation and Instance Contrastive Optimization**, Zhao Wang et.al., Paper: [http://arxiv.org/abs/2403.09433v1](http://arxiv.org/abs/2403.09433v1)
+- 2024-03-14, **Efficient Transferability Assessment for Selection of Pre-trained Detectors**, Zhao Wang et.al., Paper: [http://arxiv.org/abs/2403.09432v1](http://arxiv.org/abs/2403.09432v1)
+- 2024-03-14, **D3T: Distinctive Dual-Domain Teacher Zigzagging Across RGB-Thermal Gap for Domain-Adaptive Object Detection**, Dinh Phat Do et.al., Paper: [http://arxiv.org/abs/2403.09359v1](http://arxiv.org/abs/2403.09359v1), Code: **[https://github.com/edwarddo69/d3t](https://github.com/edwarddo69/d3t)**
+- 2024-03-14, **Griffon v2: Advancing Multimodal Perception with High-Resolution Scaling and Visual-Language Co-Referring**, Yufei Zhan et.al., Paper: [http://arxiv.org/abs/2403.09333v1](http://arxiv.org/abs/2403.09333v1), Code: **[https://github.com/jefferyzhan/griffon](https://github.com/jefferyzhan/griffon)**
+- 2024-03-14, **EfficientMFD: Towards More Efficient Multimodal Synchronous Fusion Detection**, Jiaqing Zhang et.al., Paper: [http://arxiv.org/abs/2403.09323v1](http://arxiv.org/abs/2403.09323v1)
+- 2024-03-14, **Knowledge Distillation in YOLOX-ViT for Side-Scan Sonar Object Detection**, Martin Aubard et.al., Paper: [http://arxiv.org/abs/2403.09313v1](http://arxiv.org/abs/2403.09313v1), Code: **[https://github.com/remaro-network/kd-yolox-vit](https://github.com/remaro-network/kd-yolox-vit)**
+- 2024-03-14, **MOTPose: Multi-object 6D Pose Estimation for Dynamic Video Sequences using Attention-based Temporal Fusion**, Arul Selvam Periyasamy et.al., Paper: [http://arxiv.org/abs/2403.09309v1](http://arxiv.org/abs/2403.09309v1)
+- 2024-03-14, **CLIP-EBC: CLIP Can Count Accurately through Enhanced Blockwise Classification**, Yiming Ma et.al., Paper: [http://arxiv.org/abs/2403.09281v1](http://arxiv.org/abs/2403.09281v1)
+- 2024-03-14, **D-YOLO a robust framework for object detection in adverse weather conditions**, Zihan Chu et.al., Paper: [http://arxiv.org/abs/2403.09233v1](http://arxiv.org/abs/2403.09233v1)
+- 2024-03-14, **Improving Distant 3D Object Detection Using 2D Box Supervision**, Zetong Yang et.al., Paper: [http://arxiv.org/abs/2403.09230v1](http://arxiv.org/abs/2403.09230v1)
 - 2024-03-13, **MIM4D: Masked Modeling with Multi-View Video for Autonomous Driving Representation Learning**, Jialv Zou et.al., Paper: [http://arxiv.org/abs/2403.08760v1](http://arxiv.org/abs/2403.08760v1), Code: **[https://github.com/hustvl/mim4d](https://github.com/hustvl/mim4d)**
 - 2024-03-13, **PRAGO: Differentiable Multi-View Pose Optimization From Objectness Detections**, Matteo Taiana et.al., Paper: [http://arxiv.org/abs/2403.08586v1](http://arxiv.org/abs/2403.08586v1)
 - 2024-03-13, **A Multimodal Fusion Network For Student Emotion Recognition Based on Transformer and Tensor Product**, Ao Xiang et.al., Paper: [http://arxiv.org/abs/2403.08511v1](http://arxiv.org/abs/2403.08511v1)
@@ -7163,7 +7193,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20240315>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240316>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
