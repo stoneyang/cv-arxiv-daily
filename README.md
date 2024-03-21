@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.20
+## Updated on 2024.03.21
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-19**|**Zero-Reference Low-Light Enhancement via Physical Quadruple Priors**|Wenjing Wang et.al.|[2403.12933v1](http://arxiv.org/abs/2403.12933v1)|null|
+|**2024-03-19**|**Generalizable and Stable Finetuning of Pretrained Language Models on Low-Resource Texts**|Sai Ashish Somayajula et.al.|[2403.12918v1](http://arxiv.org/abs/2403.12918v1)|**[link](https://github.com/sai-ashish/attention_guided_weight_mixup_blo)**|
+|**2024-03-19**|**Yell At Your Robot: Improving On-the-Fly from Language Corrections**|Lucy Xiaoyang Shi et.al.|[2403.12910v1](http://arxiv.org/abs/2403.12910v1)|null|
+|**2024-03-20**|**MEDBind: Unifying Language and Multimodal Medical Data Embeddings**|Yuan Gao et.al.|[2403.12894v2](http://arxiv.org/abs/2403.12894v2)|null|
+|**2024-03-19**|**Automated Data Curation for Robust Language Model Fine-Tuning**|Jiuhai Chen et.al.|[2403.12776v1](http://arxiv.org/abs/2403.12776v1)|null|
+|**2024-03-19**|**Diffusion-Driven Self-Supervised Learning for Shape Reconstruction and Pose Estimation**|Jingtao Sun et.al.|[2403.12728v1](http://arxiv.org/abs/2403.12728v1)|**[link](https://github.com/s-jingtao/self-srpe)**|
+|**2024-03-19**|**Simple Hack for Transformers against Heavy Long-Text Classification on a Time- and Memory-Limited GPU Service**|Mirza Alim Mutasodirin et.al.|[2403.12563v1](http://arxiv.org/abs/2403.12563v1)|null|
+|**2024-03-19**|**Equity through Access: A Case for Small-scale Deep Learning**|Raghavendra Selvan et.al.|[2403.12562v1](http://arxiv.org/abs/2403.12562v1)|**[link](https://github.com/saintslab/pepr)**|
+|**2024-03-19**|**Pretraining Codomain Attention Neural Operators for Solving Multiphysics PDEs**|Md Ashiqur Rahman et.al.|[2403.12553v1](http://arxiv.org/abs/2403.12553v1)|null|
+|**2024-03-19**|**TT-BLIP: Enhancing Fake News Detection Using BLIP and Tri-Transformer**|Eunjee Choi et.al.|[2403.12481v1](http://arxiv.org/abs/2403.12481v1)|null|
 |**2024-03-18**|**Urban Scene Diffusion through Semantic Occupancy Map**|Junge Zhang et.al.|[2403.11697v1](http://arxiv.org/abs/2403.11697v1)|null|
 |**2024-03-18**|**Prioritized Semantic Learning for Zero-shot Instance Navigation**|Xander Sun et.al.|[2403.11650v1](http://arxiv.org/abs/2403.11650v1)|null|
 |**2024-03-18**|**Arc2Face: A Foundation Model of Human Faces**|Foivos Paraperas Papantoniou et.al.|[2403.11641v1](http://arxiv.org/abs/2403.11641v1)|null|
@@ -2600,12 +2610,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240320>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240321>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-19**|**Negative Yields Positive: Unified Dual-Path Adapter for Vision-Language Models**|Ce Zhang et.al.|[2403.12964v1](http://arxiv.org/abs/2403.12964v1)|**[link](https://github.com/zhangce01/dualadapter)**|
+|**2024-03-19**|**Generalizable and Stable Finetuning of Pretrained Language Models on Low-Resource Texts**|Sai Ashish Somayajula et.al.|[2403.12918v1](http://arxiv.org/abs/2403.12918v1)|**[link](https://github.com/sai-ashish/attention_guided_weight_mixup_blo)**|
+|**2024-03-20**|**MEDBind: Unifying Language and Multimodal Medical Data Embeddings**|Yuan Gao et.al.|[2403.12894v2](http://arxiv.org/abs/2403.12894v2)|null|
+|**2024-03-19**|**Towards Multimodal In-Context Learning for Vision & Language Models**|Sivan Doveh et.al.|[2403.12736v1](http://arxiv.org/abs/2403.12736v1)|null|
+|**2024-03-19**|**As Firm As Their Foundations: Can open-sourced foundation models be used to create adversarial examples for downstream tasks?**|Anjun Hu et.al.|[2403.12693v1](http://arxiv.org/abs/2403.12693v1)|null|
+|**2024-03-19**|**Pretraining Codomain Attention Neural Operators for Solving Multiphysics PDEs**|Md Ashiqur Rahman et.al.|[2403.12553v1](http://arxiv.org/abs/2403.12553v1)|null|
+|**2024-03-19**|**UniBind: LLM-Augmented Unified and Balanced Representation Space to Bind Them All**|Yuanhuiyi Lyu et.al.|[2403.12532v1](http://arxiv.org/abs/2403.12532v1)|null|
+|**2024-03-19**|**CrossTune: Black-Box Few-Shot Classification with Label Enhancement**|Danqing Luo et.al.|[2403.12468v1](http://arxiv.org/abs/2403.12468v1)|null|
+|**2024-03-19**|**Non-negative Contrastive Learning**|Yifei Wang et.al.|[2403.12459v1](http://arxiv.org/abs/2403.12459v1)|**[link](https://github.com/pku-ml/non_neg)**|
+|**2024-03-19**|**Cross-Lingual Transfer for Natural Language Inference via Multilingual Prompt Translator**|Xiaoyu Qiu et.al.|[2403.12407v1](http://arxiv.org/abs/2403.12407v1)|null|
 |**2024-03-18**|**HSEmotion Team at the 6th ABAW Competition: Facial Expressions, Valence-Arousal and Emotion Intensity Prediction**|Andrey V. Savchenko et.al.|[2403.11590v1](http://arxiv.org/abs/2403.11590v1)|null|
 |**2024-03-18**|**MLVICX: Multi-Level Variance-Covariance Exploration for Chest X-ray Self-Supervised Representation Learning**|Azad Singh et.al.|[2403.11504v1](http://arxiv.org/abs/2403.11504v1)|null|
 |**2024-03-18**|**Semantic-Enhanced Representation Learning for Road Networks with Temporal Dynamics**|Yile Chen et.al.|[2403.11495v1](http://arxiv.org/abs/2403.11495v1)|null|
@@ -4970,7 +4990,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20240320>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240321>back to top</a>)</p>
 
 ## adaptor
 
@@ -5067,12 +5087,22 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240320>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240321>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-19**|**Wildfire danger prediction optimization with transfer learning**|Spiros Maggioros et.al.|[2403.12871v1](http://arxiv.org/abs/2403.12871v1)|**[link](https://github.com/spirosmaggioros/ForestFires)**|
+|**2024-03-19**|**As Firm As Their Foundations: Can open-sourced foundation models be used to create adversarial examples for downstream tasks?**|Anjun Hu et.al.|[2403.12693v1](http://arxiv.org/abs/2403.12693v1)|null|
+|**2024-03-19**|**EAS-SNN: End-to-End Adaptive Sampling and Representation for Event-based Detection with Recurrent Spiking Neural Networks**|Ziming Wang et.al.|[2403.12574v1](http://arxiv.org/abs/2403.12574v1)|null|
+|**2024-03-19**|**DetToolChain: A New Prompting Paradigm to Unleash Detection Ability of MLLM**|Yixuan Wu et.al.|[2403.12488v1](http://arxiv.org/abs/2403.12488v1)|null|
+|**2024-03-19**|**TransformMix: Learning Transformation and Mixing Strategies from Data**|Tsz-Him Cheung et.al.|[2403.12429v1](http://arxiv.org/abs/2403.12429v1)|null|
+|**2024-03-19**|**VisionGPT: LLM-Assisted Real-Time Anomaly Detection for Safe Visual Navigation**|Hao Wang et.al.|[2403.12415v1](http://arxiv.org/abs/2403.12415v1)|null|
+|**2024-03-19**|**Entity6K: A Large Open-Domain Evaluation Dataset for Real-World Entity Recognition**|Jielin Qiu et.al.|[2403.12339v1](http://arxiv.org/abs/2403.12339v1)|null|
+|**2024-03-18**|**EffiPerception: an Efficient Framework for Various Perception Tasks**|Xinhao Xiang et.al.|[2403.12317v1](http://arxiv.org/abs/2403.12317v1)|null|
+|**2024-03-18**|**Prototipo de un Contador Bidireccional Automático de Personas basado en sensores de visión 3D**|Benjamín Ojeda-Magaña et.al.|[2403.12310v1](http://arxiv.org/abs/2403.12310v1)|null|
+|**2024-03-18**|**Align and Distill: Unifying and Improving Domain Adaptive Object Detection**|Justin Kay et.al.|[2403.12029v1](http://arxiv.org/abs/2403.12029v1)|**[link](https://github.com/justinkay/aldi)**|
 |**2024-03-18**|**TrajectoryNAS: A Neural Architecture Search for Trajectory Prediction**|Ali Asghar Sharifi et.al.|[2403.11695v1](http://arxiv.org/abs/2403.11695v1)|null|
 |**2024-03-18**|**Just Add $100 More: Augmenting NeRF-based Pseudo-LiDAR Point Cloud for Resolving Class-imbalance Problem**|Mincheol Chang et.al.|[2403.11573v1](http://arxiv.org/abs/2403.11573v1)|null|
 |**2024-03-18**|**R2SNet: Scalable Domain Adaptation for Object Detection in Cloud-Based Robots Ecosystems via Proposal Refinement**|Michele Antonazzi et.al.|[2403.11567v1](http://arxiv.org/abs/2403.11567v1)|null|
@@ -7254,7 +7284,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20240320>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240321>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
