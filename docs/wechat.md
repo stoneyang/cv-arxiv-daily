@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.03.21
+> Updated on 2024.03.22
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,16 @@
 
 ## pretrain
 
+- 2024-03-20, **On Pretraining Data Diversity for Self-Supervised Learning**, Hasan Abed Al Kader Hammoud et.al., Paper: [http://arxiv.org/abs/2403.13808v1](http://arxiv.org/abs/2403.13808v1)
+- 2024-03-20, **Learning from Models and Data for Visual Grounding**, Ruozhen He et.al., Paper: [http://arxiv.org/abs/2403.13804v1](http://arxiv.org/abs/2403.13804v1)
+- 2024-03-20, **RewardBench: Evaluating Reward Models for Language Modeling**, Nathan Lambert et.al., Paper: [http://arxiv.org/abs/2403.13787v1](http://arxiv.org/abs/2403.13787v1), Code: **[https://github.com/allenai/reward-bench](https://github.com/allenai/reward-bench)**
+- 2024-03-20, **When Cars meet Drones: Hyperbolic Federated Learning for Source-Free Domain Adaptation in Adverse Weather**, Giulia Rizzoli et.al., Paper: [http://arxiv.org/abs/2403.13762v1](http://arxiv.org/abs/2403.13762v1)
+- 2024-03-20, **PARAMANU-AYN: An Efficient Novel Generative and Instruction-tuned Language Model for Indian Legal Case Documents**, Mitodru Niyogi et.al., Paper: [http://arxiv.org/abs/2403.13681v1](http://arxiv.org/abs/2403.13681v1)
+- 2024-03-20, **Grounding Spatial Relations in Text-Only Language Models**, Gorka Azkune et.al., Paper: [http://arxiv.org/abs/2403.13666v1](http://arxiv.org/abs/2403.13666v1), Code: **[https://github.com/gazkune/spatiallm](https://github.com/gazkune/spatiallm)**
+- 2024-03-20, **Do Not Worry if You Do Not Have Data: Building Pretrained Language Models Using Translationese**, Meet Doshi et.al., Paper: [http://arxiv.org/abs/2403.13638v1](http://arxiv.org/abs/2403.13638v1)
+- 2024-03-20, **Bayesian Physics-informed Neural Networks for System Identification of Inverter-dominated Power Systems**, Simon Stock et.al., Paper: [http://arxiv.org/abs/2403.13602v1](http://arxiv.org/abs/2403.13602v1)
+- 2024-03-20, **VL-Mamba: Exploring State Space Models for Multimodal Learning**, Yanyuan Qiao et.al., Paper: [http://arxiv.org/abs/2403.13600v1](http://arxiv.org/abs/2403.13600v1)
+- 2024-03-20, **ReGround: Improving Textual and Spatial Grounding at No Cost**, Yuseung Lee et.al., Paper: [http://arxiv.org/abs/2403.13589v1](http://arxiv.org/abs/2403.13589v1)
 - 2024-03-19, **Zero-Reference Low-Light Enhancement via Physical Quadruple Priors**, Wenjing Wang et.al., Paper: [http://arxiv.org/abs/2403.12933v1](http://arxiv.org/abs/2403.12933v1)
 - 2024-03-19, **Generalizable and Stable Finetuning of Pretrained Language Models on Low-Resource Texts**, Sai Ashish Somayajula et.al., Paper: [http://arxiv.org/abs/2403.12918v1](http://arxiv.org/abs/2403.12918v1), Code: **[https://github.com/sai-ashish/attention_guided_weight_mixup_blo](https://github.com/sai-ashish/attention_guided_weight_mixup_blo)**
 - 2024-03-19, **Yell At Your Robot: Improving On-the-Fly from Language Corrections**, Lucy Xiaoyang Shi et.al., Paper: [http://arxiv.org/abs/2403.12910v1](http://arxiv.org/abs/2403.12910v1)
@@ -2608,10 +2618,20 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20240321>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240322>back to top</a>)</p>
 
 ## downstream
 
+- 2024-03-20, **EthioLLM: Multilingual Large Language Models for Ethiopian Languages with Task Evaluation**, Atnafu Lambebo Tonja et.al., Paper: [http://arxiv.org/abs/2403.13737v1](http://arxiv.org/abs/2403.13737v1)
+- 2024-03-20, **Llama meets EU: Investigating the European Political Spectrum through the Lens of LLMs**, Ilias Chalkidis et.al., Paper: [http://arxiv.org/abs/2403.13592v1](http://arxiv.org/abs/2403.13592v1)
+- 2024-03-20, **What explains the success of cross-modal fine-tuning with ORCA?**, Paloma García-de-Herreros et.al., Paper: [http://arxiv.org/abs/2403.13537v1](http://arxiv.org/abs/2403.13537v1)
+- 2024-03-20, **MTP: Advancing Remote Sensing Foundation Model via Multi-Task Pretraining**, Di Wang et.al., Paper: [http://arxiv.org/abs/2403.13430v1](http://arxiv.org/abs/2403.13430v1), Code: **[https://github.com/vitae-transformer/mtp](https://github.com/vitae-transformer/mtp)**
+- 2024-03-20, **LlamaFactory: Unified Efficient Fine-Tuning of 100+ Language Models**, Yaowei Zheng et.al., Paper: [http://arxiv.org/abs/2403.13372v1](http://arxiv.org/abs/2403.13372v1), Code: **[https://github.com/hiyouga/llama-factory](https://github.com/hiyouga/llama-factory)**
+- 2024-03-20, **vid-TLDR: Training Free Token merging for Light-weight Video Transformer**, Joonmyung Choi et.al., Paper: [http://arxiv.org/abs/2403.13347v1](http://arxiv.org/abs/2403.13347v1)
+- 2024-03-20, **USE: Dynamic User Modeling with Stateful Sequence Models**, Zhihan Zhou et.al., Paper: [http://arxiv.org/abs/2403.13344v1](http://arxiv.org/abs/2403.13344v1)
+- 2024-03-20, **DetDiffusion: Synergizing Generative and Perceptive Models for Enhanced Data Generation and Perception**, Yibo Wang et.al., Paper: [http://arxiv.org/abs/2403.13304v1](http://arxiv.org/abs/2403.13304v1)
+- 2024-03-19, **ADAPT to Robustify Prompt Tuning Vision Transformers**, Masih Eskandar et.al., Paper: [http://arxiv.org/abs/2403.13196v1](http://arxiv.org/abs/2403.13196v1)
+- 2024-03-19, **AdaFish: Fast low-rank parameter-efficient fine-tuning by using second-order information**, Jiang Hu et.al., Paper: [http://arxiv.org/abs/2403.13128v1](http://arxiv.org/abs/2403.13128v1)
 - 2024-03-19, **Negative Yields Positive: Unified Dual-Path Adapter for Vision-Language Models**, Ce Zhang et.al., Paper: [http://arxiv.org/abs/2403.12964v1](http://arxiv.org/abs/2403.12964v1), Code: **[https://github.com/zhangce01/dualadapter](https://github.com/zhangce01/dualadapter)**
 - 2024-03-19, **Generalizable and Stable Finetuning of Pretrained Language Models on Low-Resource Texts**, Sai Ashish Somayajula et.al., Paper: [http://arxiv.org/abs/2403.12918v1](http://arxiv.org/abs/2403.12918v1), Code: **[https://github.com/sai-ashish/attention_guided_weight_mixup_blo](https://github.com/sai-ashish/attention_guided_weight_mixup_blo)**
 - 2024-03-20, **MEDBind: Unifying Language and Multimodal Medical Data Embeddings**, Yuan Gao et.al., Paper: [http://arxiv.org/abs/2403.12894v2](http://arxiv.org/abs/2403.12894v2)
@@ -4986,10 +5006,11 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20240321>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240322>back to top</a>)</p>
 
 ## adaptor
 
+- 2024-03-20, **TimeRewind: Rewinding Time with Image-and-Events Video Diffusion**, Jingxi Chen et.al., Paper: [http://arxiv.org/abs/2403.13800v1](http://arxiv.org/abs/2403.13800v1)
 - 2024-03-13, **SoK: Reducing the Vulnerability of Fine-tuned Language Models to Membership Inference Attacks**, Guy Amit et.al., Paper: [http://arxiv.org/abs/2403.08481v1](http://arxiv.org/abs/2403.08481v1)
 - 2024-03-12, **SAMDA: Leveraging SAM on Few-Shot Domain Adaptation for Electronic Microscopy Segmentation**, Yiran Wang et.al., Paper: [http://arxiv.org/abs/2403.07951v1](http://arxiv.org/abs/2403.07951v1)
 - 2024-03-10, **Harmonious Group Choreography with Trajectory-Controllable Diffusion**, Yuqin Dai et.al., Paper: [http://arxiv.org/abs/2403.06189v1](http://arxiv.org/abs/2403.06189v1)
@@ -5081,10 +5102,20 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20240321>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240322>back to top</a>)</p>
 
 ## object detection
 
+- 2024-03-20, **RAR: Retrieving And Ranking Augmented MLLMs for Visual Recognition**, Ziyu Liu et.al., Paper: [http://arxiv.org/abs/2403.13805v1](http://arxiv.org/abs/2403.13805v1)
+- 2024-03-20, **Learning from Models and Data for Visual Grounding**, Ruozhen He et.al., Paper: [http://arxiv.org/abs/2403.13804v1](http://arxiv.org/abs/2403.13804v1)
+- 2024-03-20, **Bounding Box Stability against Feature Dropout Reflects Detector Generalization across Environments**, Yang Yang et.al., Paper: [http://arxiv.org/abs/2403.13803v1](http://arxiv.org/abs/2403.13803v1)
+- 2024-03-20, **Fostc3net:A Lightweight YOLOv5 Based On the Network Structure Optimization**, Danqing Ma et.al., Paper: [http://arxiv.org/abs/2403.13703v1](http://arxiv.org/abs/2403.13703v1)
+- 2024-03-20, **Grounding Spatial Relations in Text-Only Language Models**, Gorka Azkune et.al., Paper: [http://arxiv.org/abs/2403.13666v1](http://arxiv.org/abs/2403.13666v1), Code: **[https://github.com/gazkune/spatiallm](https://github.com/gazkune/spatiallm)**
+- 2024-03-20, **Find n' Propagate: Open-Vocabulary 3D Object Detection in Urban Environments**, Djamahl Etchegaray et.al., Paper: [http://arxiv.org/abs/2403.13556v1](http://arxiv.org/abs/2403.13556v1)
+- 2024-03-20, **MTP: Advancing Remote Sensing Foundation Model via Multi-Task Pretraining**, Di Wang et.al., Paper: [http://arxiv.org/abs/2403.13430v1](http://arxiv.org/abs/2403.13430v1), Code: **[https://github.com/vitae-transformer/mtp](https://github.com/vitae-transformer/mtp)**
+- 2024-03-20, **Few-shot Oriented Object Detection with Memorable Contrastive Learning in Remote Sensing Images**, Jiawei Zhou et.al., Paper: [http://arxiv.org/abs/2403.13375v1](http://arxiv.org/abs/2403.13375v1)
+- 2024-03-20, **DetDiffusion: Synergizing Generative and Perceptive Models for Enhanced Data Generation and Perception**, Yibo Wang et.al., Paper: [http://arxiv.org/abs/2403.13304v1](http://arxiv.org/abs/2403.13304v1)
+- 2024-03-19, **3D Semantic MapNet: Building Maps for Multi-Object Re-Identification in 3D**, Vincent Cartillier et.al., Paper: [http://arxiv.org/abs/2403.13190v1](http://arxiv.org/abs/2403.13190v1)
 - 2024-03-19, **Wildfire danger prediction optimization with transfer learning**, Spiros Maggioros et.al., Paper: [http://arxiv.org/abs/2403.12871v1](http://arxiv.org/abs/2403.12871v1), Code: **[https://github.com/spirosmaggioros/ForestFires](https://github.com/spirosmaggioros/ForestFires)**
 - 2024-03-19, **As Firm As Their Foundations: Can open-sourced foundation models be used to create adversarial examples for downstream tasks?**, Anjun Hu et.al., Paper: [http://arxiv.org/abs/2403.12693v1](http://arxiv.org/abs/2403.12693v1)
 - 2024-03-19, **EAS-SNN: End-to-End Adaptive Sampling and Representation for Event-based Detection with Recurrent Spiking Neural Networks**, Ziming Wang et.al., Paper: [http://arxiv.org/abs/2403.12574v1](http://arxiv.org/abs/2403.12574v1)
@@ -7276,7 +7307,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20240321>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240322>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
