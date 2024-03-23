@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.22
+## Updated on 2024.03.23
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-21**|**ReNoise: Real Image Inversion Through Iterative Noising**|Daniel Garibi et.al.|[2403.14602v1](http://arxiv.org/abs/2403.14602v1)|null|
+|**2024-03-21**|**Towards Efficient Information Fusion: Concentric Dual Fusion Attention Based Multiple Instance Learning for Whole Slide Images**|Yujian Liu et.al.|[2403.14346v1](http://arxiv.org/abs/2403.14346v1)|null|
+|**2024-03-21**|**Beyond Surface Similarity: Detecting Subtle Semantic Shifts in Financial Narratives**|Jiaxin Liu et.al.|[2403.14341v1](http://arxiv.org/abs/2403.14341v1)|null|
+|**2024-03-21**|**Efficient Video Diffusion Models via Content-Frame Motion-Latent Decomposition**|Sihyun Yu et.al.|[2403.14148v1](http://arxiv.org/abs/2403.14148v1)|null|
+|**2024-03-21**|**Text-Enhanced Data-free Approach for Federated Class-Incremental Learning**|Minh-Tuan Tran et.al.|[2403.14101v1](http://arxiv.org/abs/2403.14101v1)|**[link](https://github.com/tmtuan1307/lander)**|
+|**2024-03-20**|**Evaluating Unsupervised Dimensionality Reduction Methods for Pretrained Sentence Embeddings**|Gaifan Zhang et.al.|[2403.14001v1](http://arxiv.org/abs/2403.14001v1)|null|
+|**2024-03-20**|**Visually Grounded Speech Models have a Mutual Exclusivity Bias**|Leanne Nortje et.al.|[2403.13922v1](http://arxiv.org/abs/2403.13922v1)|null|
+|**2024-03-20**|**Leveraging Linguistically Enhanced Embeddings for Open Information Extraction**|Fauzan Farooqui et.al.|[2403.13903v1](http://arxiv.org/abs/2403.13903v1)|null|
 |**2024-03-20**|**On Pretraining Data Diversity for Self-Supervised Learning**|Hasan Abed Al Kader Hammoud et.al.|[2403.13808v1](http://arxiv.org/abs/2403.13808v1)|null|
 |**2024-03-20**|**Learning from Models and Data for Visual Grounding**|Ruozhen He et.al.|[2403.13804v1](http://arxiv.org/abs/2403.13804v1)|null|
 |**2024-03-20**|**RewardBench: Evaluating Reward Models for Language Modeling**|Nathan Lambert et.al.|[2403.13787v1](http://arxiv.org/abs/2403.13787v1)|**[link](https://github.com/allenai/reward-bench)**|
@@ -2620,12 +2628,20 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240322>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240323>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-21**|**LiFT: A Surprisingly Simple Lightweight Feature Transform for Dense ViT Descriptors**|Saksham Suri et.al.|[2403.14625v1](http://arxiv.org/abs/2403.14625v1)|null|
+|**2024-03-21**|**Parameter-Efficient Fine-Tuning for Large Models: A Comprehensive Survey**|Zeyu Han et.al.|[2403.14608v1](http://arxiv.org/abs/2403.14608v1)|null|
+|**2024-03-21**|**Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference**|Han Zhao et.al.|[2403.14520v1](http://arxiv.org/abs/2403.14520v1)|null|
+|**2024-03-21**|**Style-Extracting Diffusion Models for Semi-Supervised Histopathology Segmentation**|Mathias Öttl et.al.|[2403.14429v1](http://arxiv.org/abs/2403.14429v1)|null|
+|**2024-03-21**|**SyncTweedies: A General Generative Framework Based on Synchronized Diffusions**|Jaihoon Kim et.al.|[2403.14370v1](http://arxiv.org/abs/2403.14370v1)|null|
+|**2024-03-21**|**Exploring Green AI for Audio Deepfake Detection**|Subhajit Saha et.al.|[2403.14290v1](http://arxiv.org/abs/2403.14290v1)|null|
+|**2024-03-21**|**Soft Masked Transformer for Point Cloud Processing with Skip Attention-Based Upsampling**|Yong He et.al.|[2403.14124v1](http://arxiv.org/abs/2403.14124v1)|null|
+|**2024-03-20**|**Evaluating Unsupervised Dimensionality Reduction Methods for Pretrained Sentence Embeddings**|Gaifan Zhang et.al.|[2403.14001v1](http://arxiv.org/abs/2403.14001v1)|null|
 |**2024-03-20**|**EthioLLM: Multilingual Large Language Models for Ethiopian Languages with Task Evaluation**|Atnafu Lambebo Tonja et.al.|[2403.13737v1](http://arxiv.org/abs/2403.13737v1)|null|
 |**2024-03-20**|**Llama meets EU: Investigating the European Political Spectrum through the Lens of LLMs**|Ilias Chalkidis et.al.|[2403.13592v1](http://arxiv.org/abs/2403.13592v1)|null|
 |**2024-03-20**|**What explains the success of cross-modal fine-tuning with ORCA?**|Paloma García-de-Herreros et.al.|[2403.13537v1](http://arxiv.org/abs/2403.13537v1)|null|
@@ -5010,7 +5026,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20240322>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240323>back to top</a>)</p>
 
 ## adaptor
 
@@ -5108,12 +5124,17 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240322>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240323>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-21**|**T-Rex2: Towards Generic Object Detection via Text-Visual Prompt Synergy**|Qing Jiang et.al.|[2403.14610v1](http://arxiv.org/abs/2403.14610v1)|**[link](https://github.com/idea-research/t-rex)**|
+|**2024-03-21**|**UAV-Assisted Maritime Search and Rescue: A Holistic Approach**|Martin Messmer et.al.|[2403.14281v1](http://arxiv.org/abs/2403.14281v1)|null|
+|**2024-03-21**|**Scene-Graph ViT: End-to-End Open-Vocabulary Visual Relationship Detection**|Tim Salzmann et.al.|[2403.14270v1](http://arxiv.org/abs/2403.14270v1)|null|
+|**2024-03-21**|**3D Object Detection from Point Cloud via Voting Step Diffusion**|Haoran Hou et.al.|[2403.14133v1](http://arxiv.org/abs/2403.14133v1)|null|
+|**2024-03-20**|**EcoSense: Energy-Efficient Intelligent Sensing for In-Shore Ship Detection through Edge-Cloud Collaboration**|Wenjun Huang et.al.|[2403.14027v1](http://arxiv.org/abs/2403.14027v1)|null|
 |**2024-03-20**|**RAR: Retrieving And Ranking Augmented MLLMs for Visual Recognition**|Ziyu Liu et.al.|[2403.13805v1](http://arxiv.org/abs/2403.13805v1)|null|
 |**2024-03-20**|**Learning from Models and Data for Visual Grounding**|Ruozhen He et.al.|[2403.13804v1](http://arxiv.org/abs/2403.13804v1)|null|
 |**2024-03-20**|**Bounding Box Stability against Feature Dropout Reflects Detector Generalization across Environments**|Yang Yang et.al.|[2403.13803v1](http://arxiv.org/abs/2403.13803v1)|null|
@@ -7315,7 +7336,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20240322>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240323>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
