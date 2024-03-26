@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.25
+## Updated on 2024.03.26
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-22**|**Long-CLIP: Unlocking the Long-Text Capability of CLIP**|Beichen Zhang et.al.|[2403.15378v1](http://arxiv.org/abs/2403.15378v1)|null|
+|**2024-03-22**|**CoLLEGe: Concept Embedding Generation for Large Language Models**|Ryan Teehan et.al.|[2403.15362v1](http://arxiv.org/abs/2403.15362v1)|null|
+|**2024-03-22**|**Neural Plasticity-Inspired Foundation Model for Observing the Earth Crossing Modalities**|Zhitong Xiong et.al.|[2403.15356v1](http://arxiv.org/abs/2403.15356v1)|null|
+|**2024-03-22**|**SFOD: Spiking Fusion Object Detector**|Yimeng Fan et.al.|[2403.15192v1](http://arxiv.org/abs/2403.15192v1)|**[link](https://github.com/yimeng-fan/SFOD)**|
+|**2024-03-22**|**Brain-grounding of semantic vectors improves neural decoding of visual stimuli**|Shirin Vafaei et.al.|[2403.15176v1](http://arxiv.org/abs/2403.15176v1)|null|
+|**2024-03-22**|**LLM2LLM: Boosting LLMs with Novel Iterative Data Enhancement**|Nicholas Lee et.al.|[2403.15042v1](http://arxiv.org/abs/2403.15042v1)|null|
+|**2024-03-22**|**Risk and Response in Large Language Models: Evaluating Key Threat Categories**|Bahareh Harandizadeh et.al.|[2403.14988v1](http://arxiv.org/abs/2403.14988v1)|null|
+|**2024-03-22**|**CLIP-VQDiffusion : Langauge Free Training of Text To Image generation using CLIP and vector quantized diffusion model**|Seungdae Han et.al.|[2403.14944v1](http://arxiv.org/abs/2403.14944v1)|null|
+|**2024-03-21**|**VidLA: Video-Language Alignment at Scale**|Mamshad Nayeem Rizve et.al.|[2403.14870v1](http://arxiv.org/abs/2403.14870v1)|null|
+|**2024-03-21**|**TAMS: Translation-Assisted Morphological Segmentation**|Enora Rice et.al.|[2403.14840v1](http://arxiv.org/abs/2403.14840v1)|null|
 |**2024-03-21**|**ReNoise: Real Image Inversion Through Iterative Noising**|Daniel Garibi et.al.|[2403.14602v1](http://arxiv.org/abs/2403.14602v1)|null|
 |**2024-03-21**|**Towards Efficient Information Fusion: Concentric Dual Fusion Attention Based Multiple Instance Learning for Whole Slide Images**|Yujian Liu et.al.|[2403.14346v1](http://arxiv.org/abs/2403.14346v1)|null|
 |**2024-03-21**|**Beyond Surface Similarity: Detecting Subtle Semantic Shifts in Financial Narratives**|Jiaxin Liu et.al.|[2403.14341v1](http://arxiv.org/abs/2403.14341v1)|null|
@@ -2632,15 +2642,22 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240325>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240326>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-22**|**Not All Attention is Needed: Parameter and Computation Efficient Transfer Learning for Multi-modal Large Language Models**|Qiong Wu et.al.|[2403.15226v1](http://arxiv.org/abs/2403.15226v1)|null|
+|**2024-03-22**|**PseudoTouch: Efficiently Imaging the Surface Feel of Objects for Robotic Manipulation**|Adrian Röfer et.al.|[2403.15107v1](http://arxiv.org/abs/2403.15107v1)|null|
+|**2024-03-22**|**ESG Classification by Implicit Rule Learning via GPT-4**|Hyo Jeong Yun et.al.|[2403.15040v1](http://arxiv.org/abs/2403.15040v1)|null|
+|**2024-03-22**|**Trajectory Regularization Enhances Self-Supervised Geometric Representation**|Jiayun Wang et.al.|[2403.14973v1](http://arxiv.org/abs/2403.14973v1)|null|
+|**2024-03-22**|**Adapprox: Adaptive Approximation in Adam Optimization via Randomized Low-Rank Matrices**|Pengxiang Zhao et.al.|[2403.14958v1](http://arxiv.org/abs/2403.14958v1)|null|
+|**2024-03-22**|**Simple Graph Condensation**|Zhenbang Xiao et.al.|[2403.14951v1](http://arxiv.org/abs/2403.14951v1)|null|
+|**2024-03-22**|**KnowLA: Enhancing Parameter-efficient Finetuning with Knowledgeable Adaptation**|Xindi Luo et.al.|[2403.14950v1](http://arxiv.org/abs/2403.14950v1)|null|
 |**2024-03-21**|**LiFT: A Surprisingly Simple Lightweight Feature Transform for Dense ViT Descriptors**|Saksham Suri et.al.|[2403.14625v1](http://arxiv.org/abs/2403.14625v1)|null|
 |**2024-03-21**|**Parameter-Efficient Fine-Tuning for Large Models: A Comprehensive Survey**|Zeyu Han et.al.|[2403.14608v1](http://arxiv.org/abs/2403.14608v1)|null|
-|**2024-03-21**|**Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference**|Han Zhao et.al.|[2403.14520v1](http://arxiv.org/abs/2403.14520v1)|null|
+|**2024-03-22**|**Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference**|Han Zhao et.al.|[2403.14520v2](http://arxiv.org/abs/2403.14520v2)|null|
 |**2024-03-21**|**Style-Extracting Diffusion Models for Semi-Supervised Histopathology Segmentation**|Mathias Öttl et.al.|[2403.14429v1](http://arxiv.org/abs/2403.14429v1)|null|
 |**2024-03-21**|**SyncTweedies: A General Generative Framework Based on Synchronized Diffusions**|Jaihoon Kim et.al.|[2403.14370v1](http://arxiv.org/abs/2403.14370v1)|null|
 |**2024-03-21**|**Exploring Green AI for Audio Deepfake Detection**|Subhajit Saha et.al.|[2403.14290v1](http://arxiv.org/abs/2403.14290v1)|null|
@@ -5030,7 +5047,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20240325>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240326>back to top</a>)</p>
 
 ## adaptor
 
@@ -5128,12 +5145,22 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240325>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240326>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-22**|**Point-DETR3D: Leveraging Imagery Data with Spatial Point Prior for Weakly Semi-supervised 3D Object Detection**|Hongzhi Gao et.al.|[2403.15317v1](http://arxiv.org/abs/2403.15317v1)|null|
+|**2024-03-22**|**CR3DT: Camera-RADAR Fusion for 3D Detection and Tracking**|Nicolas Baumann et.al.|[2403.15313v1](http://arxiv.org/abs/2403.15313v1)|null|
+|**2024-03-22**|**IS-Fusion: Instance-Scene Collaborative Fusion for Multimodal 3D Object Detection**|Junbo Yin et.al.|[2403.15241v1](http://arxiv.org/abs/2403.15241v1)|null|
+|**2024-03-22**|**SFOD: Spiking Fusion Object Detector**|Yimeng Fan et.al.|[2403.15192v1](http://arxiv.org/abs/2403.15192v1)|**[link](https://github.com/yimeng-fan/SFOD)**|
+|**2024-03-22**|**CRPlace: Camera-Radar Fusion with BEV Representation for Place Recognition**|Shaowei Fu et.al.|[2403.15183v1](http://arxiv.org/abs/2403.15183v1)|null|
+|**2024-03-22**|**An In-Depth Analysis of Data Reduction Methods for Sustainable Deep Learning**|Víctor Toscano-Durán et.al.|[2403.15150v1](http://arxiv.org/abs/2403.15150v1)|null|
+|**2024-03-22**|**Gradient-based Sampling for Class Imbalanced Semi-supervised Object Detection**|Jiaming Li et.al.|[2403.15127v1](http://arxiv.org/abs/2403.15127v1)|**[link](https://github.com/nightkeepers/ci-ssod)**|
+|**2024-03-22**|**VRSO: Visual-Centric Reconstruction for Static Object Annotation**|Chenyao Yu et.al.|[2403.15026v1](http://arxiv.org/abs/2403.15026v1)|null|
+|**2024-03-21**|**Deep Active Learning: A Reality Check**|Edrina Gashi et.al.|[2403.14800v1](http://arxiv.org/abs/2403.14800v1)|null|
+|**2024-03-21**|**Multi-Agent VQA: Exploring Multi-Agent Foundation Models in Zero-Shot Visual Question Answering**|Bowen Jiang et.al.|[2403.14783v1](http://arxiv.org/abs/2403.14783v1)|**[link](https://github.com/bowen-upenn/Multi-Agent-VQA)**|
 |**2024-03-21**|**T-Rex2: Towards Generic Object Detection via Text-Visual Prompt Synergy**|Qing Jiang et.al.|[2403.14610v1](http://arxiv.org/abs/2403.14610v1)|**[link](https://github.com/idea-research/t-rex)**|
 |**2024-03-21**|**UAV-Assisted Maritime Search and Rescue: A Holistic Approach**|Martin Messmer et.al.|[2403.14281v1](http://arxiv.org/abs/2403.14281v1)|null|
 |**2024-03-21**|**Scene-Graph ViT: End-to-End Open-Vocabulary Visual Relationship Detection**|Tim Salzmann et.al.|[2403.14270v1](http://arxiv.org/abs/2403.14270v1)|null|
@@ -7340,7 +7367,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20240325>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240326>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
