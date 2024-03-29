@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.28
+## Updated on 2024.03.29
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-27**|**Bringing Textual Prompt to AI-Generated Image Quality Assessment**|Bowen Qu et.al.|[2403.18714v1](http://arxiv.org/abs/2403.18714v1)|null|
+|**2024-03-27**|**Noise-Robust Keyword Spotting through Self-supervised Pretraining**|Jacob Mørk et.al.|[2403.18560v1](http://arxiv.org/abs/2403.18560v1)|null|
+|**2024-03-27**|**OrCo: Towards Better Generalization via Orthogonality and Contrast for Few-Shot Class-Incremental Learning**|Noor Ahmed et.al.|[2403.18550v1](http://arxiv.org/abs/2403.18550v1)|null|
+|**2024-03-27**|**Enhanced Generative Recommendation via Content and Collaboration Integration**|Yidan Wang et.al.|[2403.18480v1](http://arxiv.org/abs/2403.18480v1)|null|
+|**2024-03-27**|**NeuroPictor: Refining fMRI-to-Image Reconstruction via Multi-individual Pretraining and Multi-level Modulation**|Jingyang Huo et.al.|[2403.18211v1](http://arxiv.org/abs/2403.18211v1)|null|
+|**2024-03-26**|**Juru: Legal Brazilian Large Language Model from Reputable Sources**|Roseval Malaquias Junior et.al.|[2403.18140v1](http://arxiv.org/abs/2403.18140v1)|null|
+|**2024-03-26**|**The Impact of Syntactic and Semantic Proximity on Machine Translation with Back-Translation**|Nicolas Guerin et.al.|[2403.18031v1](http://arxiv.org/abs/2403.18031v1)|null|
 |**2024-03-26**|**The Unreasonable Ineffectiveness of the Deeper Layers**|Andrey Gromov et.al.|[2403.17887v1](http://arxiv.org/abs/2403.17887v1)|null|
 |**2024-03-26**|**GenesisTex: Adapting Image Denoising Diffusion to Texture Space**|Chenjian Gao et.al.|[2403.17782v1](http://arxiv.org/abs/2403.17782v1)|null|
 |**2024-03-26**|**Leave No Patient Behind: Enhancing Medication Recommendation for Rare Disease Patients**|Zihao Zhao et.al.|[2403.17745v1](http://arxiv.org/abs/2403.17745v1)|null|
@@ -2661,12 +2668,21 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240328>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240329>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-27**|**Garment3DGen: 3D Garment Stylization and Texture Generation**|Nikolaos Sarafianos et.al.|[2403.18816v1](http://arxiv.org/abs/2403.18816v1)|null|
+|**2024-03-27**|**TransFusion: Contrastive Learning with Transformers**|Huanran Li et.al.|[2403.18681v1](http://arxiv.org/abs/2403.18681v1)|null|
+|**2024-03-27**|**Ship in Sight: Diffusion Models for Ship-Image Super Resolution**|Luigi Sigillo et.al.|[2403.18370v1](http://arxiv.org/abs/2403.18370v1)|**[link](https://github.com/luigisigillo/shipinsight)**|
+|**2024-03-27**|**ViTAR: Vision Transformer with Any Resolution**|Qihang Fan et.al.|[2403.18361v1](http://arxiv.org/abs/2403.18361v1)|null|
+|**2024-03-27**|**Middle Fusion and Multi-Stage, Multi-Form Prompts for Robust RGB-T Tracking**|Qiming Wang et.al.|[2403.18193v1](http://arxiv.org/abs/2403.18193v1)|null|
+|**2024-03-26**|**Leak and Learn: An Attacker's Cookbook to Train Using Leaked Data from Federated Learning**|Joshua C. Zhao et.al.|[2403.18144v1](http://arxiv.org/abs/2403.18144v1)|null|
+|**2024-03-26**|**HealthGAT: Node Classifications in Electronic Health Records using Graph Attention Networks**|Fahmida Liza Piya et.al.|[2403.18128v1](http://arxiv.org/abs/2403.18128v1)|null|
+|**2024-03-26**|**Spectral Convolutional Transformer: Harmonizing Real vs. Complex Multi-View Spectral Operators for Vision Transformer**|Badri N. Patro et.al.|[2403.18063v1](http://arxiv.org/abs/2403.18063v1)|**[link](https://github.com/badripatro/sct)**|
+|**2024-03-26**|**Bidirectional Consistency Models**|Liangchen Li et.al.|[2403.18035v1](http://arxiv.org/abs/2403.18035v1)|null|
 |**2024-03-26**|**Masked Autoencoders are PDE Learners**|Anthony Zhou et.al.|[2403.17728v1](http://arxiv.org/abs/2403.17728v1)|null|
 |**2024-03-26**|**DANCER: Entity Description Augmented Named Entity Corrector for Automatic Speech Recognition**|Yi-Cheng Wang et.al.|[2403.17645v1](http://arxiv.org/abs/2403.17645v1)|null|
 |**2024-03-26**|**Boosting Few-Shot Learning with Disentangled Self-Supervised Learning and Meta-Learning for Medical Image Classification**|Eva Pachetti et.al.|[2403.17530v1](http://arxiv.org/abs/2403.17530v1)|null|
@@ -5086,7 +5102,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20240328>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240329>back to top</a>)</p>
 
 ## adaptor
 
@@ -5184,12 +5200,22 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240328>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240329>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-27**|**Benchmarking Object Detectors with COCO: A New Path Forward**|Shweta Singh et.al.|[2403.18819v1](http://arxiv.org/abs/2403.18819v1)|**[link](https://github.com/kdexd/coco-rem)**|
+|**2024-03-27**|**PhysicsAssistant: An LLM-Powered Interactive Learning Robot for Physics Lab Investigations**|Ehsan Latif et.al.|[2403.18721v1](http://arxiv.org/abs/2403.18721v1)|null|
+|**2024-03-27**|**CosalPure: Learning Concept from Group Images for Robust Co-Saliency Detection**|Jiayi Zhu et.al.|[2403.18554v1](http://arxiv.org/abs/2403.18554v1)|null|
+|**2024-03-27**|**BAM: Box Abstraction Monitors for Real-time OoD Detection in Object Detection**|Changshun Wu et.al.|[2403.18373v1](http://arxiv.org/abs/2403.18373v1)|null|
+|**2024-03-27**|**Ship in Sight: Diffusion Models for Ship-Image Super Resolution**|Luigi Sigillo et.al.|[2403.18370v1](http://arxiv.org/abs/2403.18370v1)|**[link](https://github.com/luigisigillo/shipinsight)**|
+|**2024-03-27**|**DODA: Diffusion for Object-detection Domain Adaptation in Agriculture**|Shuai Xiang et.al.|[2403.18334v1](http://arxiv.org/abs/2403.18334v1)|null|
+|**2024-03-27**|**Tracking-Assisted Object Detection with Event Cameras**|Ting-Kang Yen et.al.|[2403.18330v1](http://arxiv.org/abs/2403.18330v1)|null|
+|**2024-03-27**|**SGDM: Static-Guided Dynamic Module Make Stronger Visual Models**|Wenjie Xing et.al.|[2403.18282v1](http://arxiv.org/abs/2403.18282v1)|null|
+|**2024-03-27**|**Road Obstacle Detection based on Unknown Objectness Scores**|Chihiro Noguchi et.al.|[2403.18207v1](http://arxiv.org/abs/2403.18207v1)|null|
+|**2024-03-26**|**State of the art applications of deep learning within tracking and detecting marine debris: A survey**|Zoe Moorton et.al.|[2403.18067v1](http://arxiv.org/abs/2403.18067v1)|null|
 |**2024-03-26**|**The Solution for the CVPR 2023 1st foundation model challenge-Track2**|Haonan Xu et.al.|[2403.17702v1](http://arxiv.org/abs/2403.17702v1)|null|
 |**2024-03-26**|**PlainMamba: Improving Non-Hierarchical Mamba in Visual Recognition**|Chenhongyi Yang et.al.|[2403.17695v1](http://arxiv.org/abs/2403.17695v1)|**[link](https://github.com/chenhongyiyang/plainmamba)**|
 |**2024-03-26**|**UADA3D: Unsupervised Adversarial Domain Adaptation for 3D Object Detection with Sparse LiDAR and Large Domain Gaps**|Maciej K Wozniak et.al.|[2403.17633v1](http://arxiv.org/abs/2403.17633v1)|null|
@@ -7425,7 +7451,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20240328>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240329>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
