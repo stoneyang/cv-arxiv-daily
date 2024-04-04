@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.03
+## Updated on 2024.04.04
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-02**|**Diffusion$^2$: Dynamic 3D Content Generation via Score Composition of Orthogonal Diffusion Models**|Zeyu Yang et.al.|[2404.02148v1](http://arxiv.org/abs/2404.02148v1)|**[link](https://github.com/fudan-zvg/diffusion-square)**|
+|**2024-04-02**|**Iterated Learning Improves Compositionality in Large Vision-Language Models**|Chenhao Zheng et.al.|[2404.02145v1](http://arxiv.org/abs/2404.02145v1)|null|
+|**2024-04-02**|**ViTamin: Designing Scalable Vision Models in the Vision-Language Era**|Jienneg Chen et.al.|[2404.02132v1](http://arxiv.org/abs/2404.02132v1)|**[link](https://github.com/beckschen/vitamin)**|
+|**2024-04-02**|**FLawN-T5: An Empirical Examination of Effective Instruction-Tuning Data Mixtures for Legal Reasoning**|Joel Niklaus et.al.|[2404.02127v1](http://arxiv.org/abs/2404.02127v1)|**[link](https://github.com/joelniklaus/lawinstruct)**|
+|**2024-04-02**|**Adaptive Feature Fusion Neural Network for Glaucoma Segmentation on Unseen Fundus Images**|Jiyuan Zhong et.al.|[2404.02084v1](http://arxiv.org/abs/2404.02084v1)|null|
+|**2024-04-02**|**Noise Masking Attacks and Defenses for Pretrained Speech Models**|Matthew Jagielski et.al.|[2404.02052v1](http://arxiv.org/abs/2404.02052v1)|null|
+|**2024-04-02**|**Dissecting Paraphrases: The Impact of Prompt Syntax and supplementary Information on Knowledge Retrieval from Pretrained Language Models**|Stephan Linzbach et.al.|[2404.01992v1](http://arxiv.org/abs/2404.01992v1)|null|
+|**2024-04-02**|**Activation Steering for Robust Type Prediction in CodeLLMs**|Francesca Lucchetti et.al.|[2404.01903v1](http://arxiv.org/abs/2404.01903v1)|null|
+|**2024-04-02**|**Poro 34B and the Blessing of Multilinguality**|Risto Luukkonen et.al.|[2404.01856v1](http://arxiv.org/abs/2404.01856v1)|null|
+|**2024-04-02**|**Where to Move Next: Zero-shot Generalization of LLMs for Next POI Recommendation**|Shanshan Feng et.al.|[2404.01855v1](http://arxiv.org/abs/2404.01855v1)|null|
 |**2024-03-29**|**Convolutional Prompting meets Language Models for Continual Learning**|Anurag Roy et.al.|[2403.20317v1](http://arxiv.org/abs/2403.20317v1)|null|
 |**2024-03-29**|**Latxa: An Open Language Model and Evaluation Suite for Basque**|Julen Etxaniz et.al.|[2403.20266v1](http://arxiv.org/abs/2403.20266v1)|**[link](https://github.com/hitz-zentroa/latxa)**|
 |**2024-03-29**|**Long-Tailed Anomaly Detection with Learnable Class Names**|Chih-Hui Ho et.al.|[2403.20236v1](http://arxiv.org/abs/2403.20236v1)|null|
@@ -2684,12 +2694,22 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240403>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240404>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-02**|**Universal representations for financial transactional data: embracing local, global, and external contexts**|Alexandra Bazarova et.al.|[2404.02047v1](http://arxiv.org/abs/2404.02047v1)|**[link](https://github.com/romanenkova95/transactions_gen_models)**|
+|**2024-04-02**|**Africa-Centric Self-Supervised Pre-Training for Multilingual Speech Representation in a Sub-Saharan Context**|Antoine Caubrière et.al.|[2404.02000v1](http://arxiv.org/abs/2404.02000v1)|null|
+|**2024-04-02**|**Pairwise Similarity Distribution Clustering for Noisy Label Learning**|Sihan Bai et.al.|[2404.01853v1](http://arxiv.org/abs/2404.01853v1)|null|
+|**2024-04-02**|**CIRP: Cross-Item Relational Pre-training for Multimodal Product Bundling**|Yunshan Ma et.al.|[2404.01735v1](http://arxiv.org/abs/2404.01735v1)|null|
+|**2024-04-02**|**EMONA: Event-level Moral Opinions in News Articles**|Yuanyuan Lei et.al.|[2404.01715v1](http://arxiv.org/abs/2404.01715v1)|**[link](https://github.com/yuanyuanlei-nlp/emona_dataset)**|
+|**2024-04-02**|**NLP Systems That Can't Tell Use from Mention Censor Counterspeech, but Teaching the Distinction Helps**|Kristina Gligoric et.al.|[2404.01651v1](http://arxiv.org/abs/2404.01651v1)|null|
+|**2024-04-02**|**GLEMOS: Benchmark for Instantaneous Graph Learning Model Selection**|Namyong Park et.al.|[2404.01578v1](http://arxiv.org/abs/2404.01578v1)|**[link](https://github.com/facebookresearch/glemos)**|
+|**2024-04-02**|**FT2Ra: A Fine-Tuning-Inspired Approach to Retrieval-Augmented Code Completion**|Qi Guo et.al.|[2404.01554v1](http://arxiv.org/abs/2404.01554v1)|null|
+|**2024-04-02**|**Laying Anchors: Semantically Priming Numerals in Language Modeling**|Mandar Sharma et.al.|[2404.01536v1](http://arxiv.org/abs/2404.01536v1)|**[link](https://github.com/mandar-sharma/laying-anchors)**|
+|**2024-04-01**|**Bigger is not Always Better: Scaling Properties of Latent Diffusion Models**|Kangfu Mei et.al.|[2404.01367v1](http://arxiv.org/abs/2404.01367v1)|null|
 |**2024-03-29**|**MTLoRA: A Low-Rank Adaptation Approach for Efficient Multi-Task Learning**|Ahmed Agiza et.al.|[2403.20320v1](http://arxiv.org/abs/2403.20320v1)|**[link](https://github.com/scale-lab/mtlora)**|
 |**2024-03-29**|**Sparse multimodal fusion with modal channel attention**|Josiah Bjorgaard et.al.|[2403.20280v1](http://arxiv.org/abs/2403.20280v1)|null|
 |**2024-03-29**|**A Signature Based Approach Towards Global Channel Charting with Ultra Low Complexity**|Longhai Zhao et.al.|[2403.20091v1](http://arxiv.org/abs/2403.20091v1)|null|
@@ -5136,12 +5156,13 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20240403>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240404>back to top</a>)</p>
 
 ## adaptor
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-02**|**Adaptive Feature Fusion Neural Network for Glaucoma Segmentation on Unseen Fundus Images**|Jiyuan Zhong et.al.|[2404.02084v1](http://arxiv.org/abs/2404.02084v1)|null|
 |**2024-03-28**|**Collaborative Knowledge Infusion for Low-resource Stance Detection**|Ming Yan et.al.|[2403.19219v1](http://arxiv.org/abs/2403.19219v1)|null|
 |**2024-03-20**|**TimeRewind: Rewinding Time with Image-and-Events Video Diffusion**|Jingxi Chen et.al.|[2403.13800v1](http://arxiv.org/abs/2403.13800v1)|null|
 |**2024-03-13**|**SoK: Reducing the Vulnerability of Fine-tuned Language Models to Membership Inference Attacks**|Guy Amit et.al.|[2403.08481v1](http://arxiv.org/abs/2403.08481v1)|null|
@@ -5235,12 +5256,22 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240403>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240404>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-02**|**EGTR: Extracting Graph from Transformer for Scene Graph Generation**|Jinbae Im et.al.|[2404.02072v1](http://arxiv.org/abs/2404.02072v1)|**[link](https://github.com/naver-ai/egtr)**|
+|**2024-04-02**|**Cooperative Students: Navigating Unsupervised Domain Adaptation in Nighttime Object Detection**|Jicheng Yuan et.al.|[2404.01988v1](http://arxiv.org/abs/2404.01988v1)|**[link](https://github.com/jichengyuan/cooperitive_students)**|
+|**2024-04-02**|**Towards Enhanced Analysis of Lung Cancer Lesions in EBUS-TBNA -- A Semi-Supervised Video Object Detection Method**|Jyun-An Lin et.al.|[2404.01929v1](http://arxiv.org/abs/2404.01929v1)|null|
+|**2024-04-02**|**Scene Adaptive Sparse Transformer for Event-based Object Detection**|Yansong Peng et.al.|[2404.01882v1](http://arxiv.org/abs/2404.01882v1)|**[link](https://github.com/peterande/sast)**|
+|**2024-04-02**|**Semi-Supervised Domain Adaptation for Wildfire Detection**|JooYoung Jang et.al.|[2404.01842v1](http://arxiv.org/abs/2404.01842v1)|null|
+|**2024-04-02**|**Sparse Semi-DETR: Sparse Learnable Queries for Semi-Supervised Object Detection**|Tahira Shehzadi et.al.|[2404.01819v1](http://arxiv.org/abs/2404.01819v1)|null|
+|**2024-04-02**|**Analyzing the Single Event Upset Vulnerability of Binarized Neural Networks on SRAM FPGAs**|Ioanna Souvatzoglou et.al.|[2404.01757v1](http://arxiv.org/abs/2404.01757v1)|null|
+|**2024-04-02**|**Disentangled Pre-training for Human-Object Interaction Detection**|Zhuolong Li et.al.|[2404.01725v1](http://arxiv.org/abs/2404.01725v1)|null|
+|**2024-04-02**|**Task Integration Distillation for Object Detectors**|Hai Su et.al.|[2404.01699v1](http://arxiv.org/abs/2404.01699v1)|null|
+|**2024-04-02**|**Beyond Image Super-Resolution for Image Recognition with Task-Driven Perceptual Loss**|Jaeha Kim et.al.|[2404.01692v1](http://arxiv.org/abs/2404.01692v1)|null|
 |**2024-03-29**|**PLoc: A New Evaluation Criterion Based on Physical Location for Autonomous Driving Datasets**|Ruining Yang et.al.|[2403.19893v1](http://arxiv.org/abs/2403.19893v1)|null|
 |**2024-03-29**|**MambaMixer: Efficient Selective State Space Models with Dual Token and Channel Selection**|Ali Behrouz et.al.|[2403.19888v1](http://arxiv.org/abs/2403.19888v1)|null|
 |**2024-03-28**|**DenseNets Reloaded: Paradigm Shift Beyond ResNets and ViTs**|Donghyun Kim et.al.|[2403.19588v1](http://arxiv.org/abs/2403.19588v1)|**[link](https://github.com/naver-ai/rdnet)**|
@@ -7496,7 +7527,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20240403>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240404>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
