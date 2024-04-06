@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.05
+## Updated on 2024.04.06
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-04**|**DiffBody: Human Body Restoration by Imagining with Generative Diffusion Prior**|Yiming Zhang et.al.|[2404.03642v1](http://arxiv.org/abs/2404.03642v1)|null|
+|**2024-04-04**|**Learn When (not) to Trust Language Models: A Privacy-Centric Adaptive Model-Aware Approach**|Chengkai Huang et.al.|[2404.03514v1](http://arxiv.org/abs/2404.03514v1)|null|
+|**2024-04-04**|**A Cause-Effect Look at Alleviating Hallucination of Knowledge-grounded Dialogue Generation**|Jifan Yu et.al.|[2404.03491v1](http://arxiv.org/abs/2404.03491v1)|null|
+|**2024-04-04**|**Scaling Up Video Summarization Pretraining with Large Language Models**|Dawit Mureja Argaw et.al.|[2404.03398v1](http://arxiv.org/abs/2404.03398v1)|null|
+|**2024-04-03**|**Scaling Laws for Galaxy Images**|Mike Walmsley et.al.|[2404.02973v1](http://arxiv.org/abs/2404.02973v1)|**[link](https://github.com/mwalmsley/zoobot)**|
 |**2024-04-03**|**MULAN: A Multi Layer Annotated Dataset for Controllable Text-to-Image Generation**|Petru-Daniel Tudosiu et.al.|[2404.02790v1](http://arxiv.org/abs/2404.02790v1)|null|
 |**2024-04-03**|**CLaM-TTS: Improving Neural Codec Language Model for Zero-Shot Text-to-Speech**|Jaehyeon Kim et.al.|[2404.02781v1](http://arxiv.org/abs/2404.02781v1)|null|
 |**2024-04-03**|**DIBS: Enhancing Dense Video Captioning with Unlabeled Videos via Pseudo Boundary Enrichment and Online Refinement**|Hao Wu et.al.|[2404.02755v1](http://arxiv.org/abs/2404.02755v1)|null|
@@ -2697,12 +2702,21 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240405>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240406>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-04**|**DeViDe: Faceted medical knowledge for improved medical vision-language pre-training**|Haozhe Luo et.al.|[2404.03618v1](http://arxiv.org/abs/2404.03618v1)|null|
+|**2024-04-04**|**SemGrasp: Semantic Grasp Generation via Language Aligned Discretization**|Kailin Li et.al.|[2404.03590v1](http://arxiv.org/abs/2404.03590v1)|null|
+|**2024-04-04**|**DELTA: Decomposed Efficient Long-Term Robot Task Planning using Large Language Models**|Yuchen Liu et.al.|[2404.03275v1](http://arxiv.org/abs/2404.03275v1)|null|
+|**2024-04-04**|**To Search or to Recommend: Predicting Open-App Motivation with Neural Hawkes Process**|Zhongxiang Sun et.al.|[2404.03267v1](http://arxiv.org/abs/2404.03267v1)|**[link](https://github.com/jeryi-sun/nhp_oam)**|
+|**2024-04-04**|**BioVL-QR: Egocentric Biochemical Video-and-Language Dataset Using Micro QR Codes**|Taichi Nishimura et.al.|[2404.03161v1](http://arxiv.org/abs/2404.03161v1)|null|
+|**2024-04-03**|**SalFoM: Dynamic Saliency Prediction with Video Foundation Models**|Morteza Moradi et.al.|[2404.03097v1](http://arxiv.org/abs/2404.03097v1)|null|
+|**2024-04-03**|**Skeleton Recall Loss for Connectivity Conserving and Resource Efficient Segmentation of Thin Tubular Structures**|Yannick Kirchhoff et.al.|[2404.03010v1](http://arxiv.org/abs/2404.03010v1)|null|
+|**2024-04-03**|**MeshBrush: Painting the Anatomical Mesh with Neural Stylization for Endoscopy**|John J. Han et.al.|[2404.02999v1](http://arxiv.org/abs/2404.02999v1)|null|
+|**2024-04-03**|**Scaling Laws for Galaxy Images**|Mike Walmsley et.al.|[2404.02973v1](http://arxiv.org/abs/2404.02973v1)|**[link](https://github.com/mwalmsley/zoobot)**|
 |**2024-04-03**|**Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction**|Keyu Tian et.al.|[2404.02905v1](http://arxiv.org/abs/2404.02905v1)|**[link](https://github.com/FoundationVision/VAR)**|
 |**2024-04-03**|**Cherry on Top: Parameter Heterogeneity and Quantization in Large Language Models**|Wanyun Cui et.al.|[2404.02837v1](http://arxiv.org/abs/2404.02837v1)|null|
 |**2024-04-03**|**Generative-Contrastive Heterogeneous Graph Neural Network**|Yu Wang et.al.|[2404.02810v1](http://arxiv.org/abs/2404.02810v1)|null|
@@ -5164,7 +5178,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20240405>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240406>back to top</a>)</p>
 
 ## adaptor
 
@@ -5264,12 +5278,19 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240405>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240406>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-04**|**Is CLIP the main roadblock for fine-grained open-world perception?**|Lorenzo Bianchi et.al.|[2404.03539v1](http://arxiv.org/abs/2404.03539v1)|**[link](https://github.com/lorebianchi98/fg-clip)**|
+|**2024-04-04**|**DQ-DETR: DETR with Dynamic Query for Tiny Object Detection**|Yi-Xin Huang et.al.|[2404.03507v1](http://arxiv.org/abs/2404.03507v1)|null|
+|**2024-04-04**|**A Methodology to Study the Impact of Spiking Neural Network Parameters considering Event-Based Automotive Data**|Iqra Bano et.al.|[2404.03493v1](http://arxiv.org/abs/2404.03493v1)|null|
+|**2024-04-04**|**MonoCD: Monocular 3D Object Detection with Complementary Depths**|Longfei Yan et.al.|[2404.03181v1](http://arxiv.org/abs/2404.03181v1)|**[link](https://github.com/elvintanhust/monocd)**|
+|**2024-04-04**|**BioVL-QR: Egocentric Biochemical Video-and-Language Dataset Using Micro QR Codes**|Taichi Nishimura et.al.|[2404.03161v1](http://arxiv.org/abs/2404.03161v1)|null|
+|**2024-04-03**|**Ego-Motion Aware Target Prediction Module for Robust Multi-Object Tracking**|Navid Mahdian et.al.|[2404.03110v1](http://arxiv.org/abs/2404.03110v1)|**[link](https://github.com/noyzzz/emap)**|
+|**2024-04-03**|**DPFT: Dual Perspective Fusion Transformer for Camera-Radar-based Object Detection**|Felix Fent et.al.|[2404.03015v1](http://arxiv.org/abs/2404.03015v1)|null|
 |**2024-04-03**|**ALOHa: A New Measure for Hallucination in Captioning Models**|Suzanne Petryk et.al.|[2404.02904v1](http://arxiv.org/abs/2404.02904v1)|null|
 |**2024-04-03**|**FlightScope: A Deep Comprehensive Assessment of Aircraft Detection Algorithms in Satellite Imagery**|Safouane El Ghazouali et.al.|[2404.02877v1](http://arxiv.org/abs/2404.02877v1)|null|
 |**2024-04-03**|**HENet: Hybrid Encoding for End-to-end Multi-task 3D Perception from Multi-view Cameras**|Zhongyu Xia et.al.|[2404.02517v1](http://arxiv.org/abs/2404.02517v1)|**[link](https://github.com/vdigpku/henet)**|
@@ -7539,7 +7560,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20240405>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240406>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
