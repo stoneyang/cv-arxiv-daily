@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.04.07
+> Updated on 2024.04.08
 
 <details>
   <summary>Table of Contents</summary>
@@ -2700,7 +2700,7 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20240407>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240408>back to top</a>)</p>
 
 ## downstream
 
@@ -5174,7 +5174,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20240407>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240408>back to top</a>)</p>
 
 ## adaptor
 
@@ -5272,19 +5272,19 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20240407>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240408>back to top</a>)</p>
 
 ## object detection
 
 - 2024-04-04, **Is CLIP the main roadblock for fine-grained open-world perception?**, Lorenzo Bianchi et.al., Paper: [http://arxiv.org/abs/2404.03539v1](http://arxiv.org/abs/2404.03539v1), Code: **[https://github.com/lorebianchi98/fg-clip](https://github.com/lorebianchi98/fg-clip)**
 - 2024-04-04, **DQ-DETR: DETR with Dynamic Query for Tiny Object Detection**, Yi-Xin Huang et.al., Paper: [http://arxiv.org/abs/2404.03507v1](http://arxiv.org/abs/2404.03507v1)
-- 2024-04-04, **A Methodology to Study the Impact of Spiking Neural Network Parameters considering Event-Based Automotive Data**, Iqra Bano et.al., Paper: [http://arxiv.org/abs/2404.03493v1](http://arxiv.org/abs/2404.03493v1)
+- 2024-04-05, **A Methodology to Study the Impact of Spiking Neural Network Parameters considering Event-Based Automotive Data**, Iqra Bano et.al., Paper: [http://arxiv.org/abs/2404.03493v2](http://arxiv.org/abs/2404.03493v2)
 - 2024-04-04, **MonoCD: Monocular 3D Object Detection with Complementary Depths**, Longfei Yan et.al., Paper: [http://arxiv.org/abs/2404.03181v1](http://arxiv.org/abs/2404.03181v1), Code: **[https://github.com/elvintanhust/monocd](https://github.com/elvintanhust/monocd)**
 - 2024-04-04, **BioVL-QR: Egocentric Biochemical Video-and-Language Dataset Using Micro QR Codes**, Taichi Nishimura et.al., Paper: [http://arxiv.org/abs/2404.03161v1](http://arxiv.org/abs/2404.03161v1)
 - 2024-04-03, **Ego-Motion Aware Target Prediction Module for Robust Multi-Object Tracking**, Navid Mahdian et.al., Paper: [http://arxiv.org/abs/2404.03110v1](http://arxiv.org/abs/2404.03110v1), Code: **[https://github.com/noyzzz/emap](https://github.com/noyzzz/emap)**
 - 2024-04-03, **DPFT: Dual Perspective Fusion Transformer for Camera-Radar-based Object Detection**, Felix Fent et.al., Paper: [http://arxiv.org/abs/2404.03015v1](http://arxiv.org/abs/2404.03015v1)
 - 2024-04-03, **ALOHa: A New Measure for Hallucination in Captioning Models**, Suzanne Petryk et.al., Paper: [http://arxiv.org/abs/2404.02904v1](http://arxiv.org/abs/2404.02904v1)
-- 2024-04-03, **FlightScope: A Deep Comprehensive Assessment of Aircraft Detection Algorithms in Satellite Imagery**, Safouane El Ghazouali et.al., Paper: [http://arxiv.org/abs/2404.02877v1](http://arxiv.org/abs/2404.02877v1)
+- 2024-04-03, **FlightScope: A Deep Comprehensive Assessment of Aircraft Detection Algorithms in Satellite Imagery**, Safouane El Ghazouali et.al., Paper: [http://arxiv.org/abs/2404.02877v1](http://arxiv.org/abs/2404.02877v1), Code: **[https://github.com/toelt-llc/FlightScope_Bench](https://github.com/toelt-llc/FlightScope_Bench)**
 - 2024-04-03, **HENet: Hybrid Encoding for End-to-end Multi-task 3D Perception from Multi-view Cameras**, Zhongyu Xia et.al., Paper: [http://arxiv.org/abs/2404.02517v1](http://arxiv.org/abs/2404.02517v1), Code: **[https://github.com/vdigpku/henet](https://github.com/vdigpku/henet)**
 - 2024-04-04, **TE-TAD: Towards Full End-to-End Temporal Action Detection via Time-Aligned Coordinate Expression**, Ho-Joong Kim et.al., Paper: [http://arxiv.org/abs/2404.02405v2](http://arxiv.org/abs/2404.02405v2)
 - 2024-04-04, **EGTR: Extracting Graph from Transformer for Scene Graph Generation**, Jinbae Im et.al., Paper: [http://arxiv.org/abs/2404.02072v2](http://arxiv.org/abs/2404.02072v2), Code: **[https://github.com/naver-ai/egtr](https://github.com/naver-ai/egtr)**
@@ -7552,7 +7552,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20240407>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240408>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
