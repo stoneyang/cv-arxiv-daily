@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.04.18
+> Updated on 2024.04.19
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,8 +17,15 @@
 
 ## pretrain
 
+- 2024-04-17, **On the Scalability of GNNs for Molecular Graphs**, Maciej Sypetkowski et.al., Paper: [http://arxiv.org/abs/2404.11568v1](http://arxiv.org/abs/2404.11568v1)
+- 2024-04-17, **Predicting Long-horizon Futures by Conditioning on Geometry and Time**, Tarasha Khurana et.al., Paper: [http://arxiv.org/abs/2404.11554v1](http://arxiv.org/abs/2404.11554v1)
+- 2024-04-17, **ScaleFold: Reducing AlphaFold Initial Training Time to 10 Hours**, Feiwen Zhu et.al., Paper: [http://arxiv.org/abs/2404.11068v1](http://arxiv.org/abs/2404.11068v1)
+- 2024-04-17, **Lightweight Unsupervised Federated Learning with Pretrained Vision Language Model**, Hao Yan et.al., Paper: [http://arxiv.org/abs/2404.11046v1](http://arxiv.org/abs/2404.11046v1)
+- 2024-04-17, **Many-Shot In-Context Learning**, Rishabh Agarwal et.al., Paper: [http://arxiv.org/abs/2404.11018v1](http://arxiv.org/abs/2404.11018v1)
+- 2024-04-17, **MaeFuse: Transferring Omni Features with Pretrained Masked Autoencoders for Infrared and Visible Image Fusion via Guided Training**, Jiayang Li et.al., Paper: [http://arxiv.org/abs/2404.11016v1](http://arxiv.org/abs/2404.11016v1)
+- 2024-04-16, **More Room for Language: Investigating the Effect of Retrieval on Language Models**, David Samuel et.al., Paper: [http://arxiv.org/abs/2404.10939v1](http://arxiv.org/abs/2404.10939v1)
 - 2024-04-16, **Retrieval Augmented Verification : Unveiling Disinformation with Structured Representations for Zero-Shot Real-Time Evidence-guided Fact-Checking of Multi-modal Social media posts**, Arka Ujjal Dey et.al., Paper: [http://arxiv.org/abs/2404.10702v1](http://arxiv.org/abs/2404.10702v1)
-- 2024-04-16, **Do Counterfactual Examples Complicate Adversarial Training?**, Eric Yeats et.al., Paper: [http://arxiv.org/abs/2404.10588v1](http://arxiv.org/abs/2404.10588v1)
+- 2024-04-17, **Do Counterfactual Examples Complicate Adversarial Training?**, Eric Yeats et.al., Paper: [http://arxiv.org/abs/2404.10588v2](http://arxiv.org/abs/2404.10588v2)
 - 2024-04-17, **Optimization of Prompt Learning via Multi-Knowledge Representation for Vision-Language Models**, Enming Zhang et.al., Paper: [http://arxiv.org/abs/2404.10357v2](http://arxiv.org/abs/2404.10357v2)
 - 2024-04-16, **From Data Deluge to Data Curation: A Filtering-WoRA Paradigm for Efficient Text-based Person Search**, Jintao Sun et.al., Paper: [http://arxiv.org/abs/2404.10292v1](http://arxiv.org/abs/2404.10292v1)
 - 2024-04-16, **Masked Autoencoders for Microscopy are Scalable Learners of Cellular Biology**, Oren Kraus et.al., Paper: [http://arxiv.org/abs/2404.10242v1](http://arxiv.org/abs/2404.10242v1), Code: **[https://github.com/recursionpharma/maes_microscopy](https://github.com/recursionpharma/maes_microscopy)**
@@ -2762,10 +2769,17 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20240418>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240419>back to top</a>)</p>
 
 ## downstream
 
+- 2024-04-17, **VG4D: Vision-Language Model Goes 4D Video Recognition**, Zhichao Deng et.al., Paper: [http://arxiv.org/abs/2404.11605v1](http://arxiv.org/abs/2404.11605v1), Code: **[https://github.com/shark0-0/vg4d](https://github.com/shark0-0/vg4d)**
+- 2024-04-17, **FedPFT: Federated Proxy Fine-Tuning of Foundation Models**, Zhaopeng Peng et.al., Paper: [http://arxiv.org/abs/2404.11536v1](http://arxiv.org/abs/2404.11536v1), Code: **[https://github.com/pzp-dzd/fedpft](https://github.com/pzp-dzd/fedpft)**
+- 2024-04-17, **Inductive Cognitive Diagnosis for Fast Student Learning in Web-Based Online Intelligent Education Systems**, Shuo Liu et.al., Paper: [http://arxiv.org/abs/2404.11290v1](http://arxiv.org/abs/2404.11290v1), Code: **[https://github.com/lswhim/icdm](https://github.com/lswhim/icdm)**
+- 2024-04-17, **Exploring the Transferability of Visual Prompting for Multimodal Large Language Models**, Yichi Zhang et.al., Paper: [http://arxiv.org/abs/2404.11207v1](http://arxiv.org/abs/2404.11207v1), Code: **[https://github.com/zycheiheihei/transferable-visual-prompting](https://github.com/zycheiheihei/transferable-visual-prompting)**
+- 2024-04-17, **MaeFuse: Transferring Omni Features with Pretrained Masked Autoencoders for Infrared and Visible Image Fusion via Guided Training**, Jiayang Li et.al., Paper: [http://arxiv.org/abs/2404.11016v1](http://arxiv.org/abs/2404.11016v1)
+- 2024-04-16, **Residual Connections Harm Self-Supervised Abstract Feature Learning**, Xiao Zhang et.al., Paper: [http://arxiv.org/abs/2404.10947v1](http://arxiv.org/abs/2404.10947v1)
+- 2024-04-16, **Multi-Task Multi-Modal Self-Supervised Learning for Facial Expression Recognition**, Marah Halawa et.al., Paper: [http://arxiv.org/abs/2404.10904v1](http://arxiv.org/abs/2404.10904v1), Code: **[https://github.com/tub-cv-group/conclugen](https://github.com/tub-cv-group/conclugen)**
 - 2024-04-16, **RefFusion: Reference Adapted Diffusion Models for 3D Scene Inpainting**, Ashkan Mirzaei et.al., Paper: [http://arxiv.org/abs/2404.10765v1](http://arxiv.org/abs/2404.10765v1)
 - 2024-04-16, **HLAT: High-quality Large Language Model Pre-trained on AWS Trainium**, Haozheng Fan et.al., Paper: [http://arxiv.org/abs/2404.10630v1](http://arxiv.org/abs/2404.10630v1)
 - 2024-04-17, **Optimization of Prompt Learning via Multi-Knowledge Representation for Vision-Language Models**, Enming Zhang et.al., Paper: [http://arxiv.org/abs/2404.10357v2](http://arxiv.org/abs/2404.10357v2)
@@ -5292,7 +5306,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20240418>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240419>back to top</a>)</p>
 
 ## adaptor
 
@@ -5391,10 +5405,20 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20240418>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240419>back to top</a>)</p>
 
 ## object detection
 
+- 2024-04-17, **Multi-resolution Rescored ByteTrack for Video Object Detection on Ultra-low-power Embedded Systems**, Luca Bompani et.al., Paper: [http://arxiv.org/abs/2404.11488v1](http://arxiv.org/abs/2404.11488v1), Code: **[https://github.com/bomps4/multi_resolution_rescored_bytetrack](https://github.com/bomps4/multi_resolution_rescored_bytetrack)**
+- 2024-04-17, **EcoMLS: A Self-Adaptation Approach for Architecting Green ML-Enabled Systems**, Meghana Tedla et.al., Paper: [http://arxiv.org/abs/2404.11411v1](http://arxiv.org/abs/2404.11411v1)
+- 2024-04-17, **Detector Collapse: Backdooring Object Detection to Catastrophic Overload or Blindness**, Hangtao Zhang et.al., Paper: [http://arxiv.org/abs/2404.11357v1](http://arxiv.org/abs/2404.11357v1)
+- 2024-04-17, **Simple In-place Data Augmentation for Surveillance Object Detection**, Munkh-Erdene Otgonbold et.al., Paper: [http://arxiv.org/abs/2404.11226v1](http://arxiv.org/abs/2404.11226v1)
+- 2024-04-17, **Feature Corrective Transfer Learning: End-to-End Solutions to Object Detection in Non-Ideal Visual Conditions**, Chuheng Wei et.al., Paper: [http://arxiv.org/abs/2404.11214v1](http://arxiv.org/abs/2404.11214v1)
+- 2024-04-17, **GhostNetV3: Exploring the Training Strategies for Compact Models**, Zhenhua Liu et.al., Paper: [http://arxiv.org/abs/2404.11202v1](http://arxiv.org/abs/2404.11202v1)
+- 2024-04-17, **How to deal with glare for improved perception of Autonomous Vehicles**, Muhammad Z. Alam et.al., Paper: [http://arxiv.org/abs/2404.10992v1](http://arxiv.org/abs/2404.10992v1)
+- 2024-04-17, **Leveraging 3D LiDAR Sensors to Enable Enhanced Urban Safety and Public Health: Pedestrian Monitoring and Abnormal Activity Detection**, Nawfal Guefrachi et.al., Paper: [http://arxiv.org/abs/2404.10978v1](http://arxiv.org/abs/2404.10978v1)
+- 2024-04-16, **OSR-ViT: A Simple and Modular Framework for Open-Set Object Detection and Discovery**, Matthew Inkawhich et.al., Paper: [http://arxiv.org/abs/2404.10865v1](http://arxiv.org/abs/2404.10865v1)
+- 2024-04-16, **Semantic-Based Active Perception for Humanoid Visual Tasks with Foveal Sensors**, João Luzio et.al., Paper: [http://arxiv.org/abs/2404.10836v1](http://arxiv.org/abs/2404.10836v1)
 - 2024-04-16, **Learning Feature Inversion for Multi-class Anomaly Detection under General-purpose COCO-AD Benchmark**, Jiangning Zhang et.al., Paper: [http://arxiv.org/abs/2404.10760v1](http://arxiv.org/abs/2404.10760v1)
 - 2024-04-16, **Watch Your Step: Optimal Retrieval for Continual Learning at Scale**, Truman Hickok et.al., Paper: [http://arxiv.org/abs/2404.10758v1](http://arxiv.org/abs/2404.10758v1)
 - 2024-04-16, **Camera clustering for scalable stream-based active distillation**, Dani Manjah et.al., Paper: [http://arxiv.org/abs/2404.10411v1](http://arxiv.org/abs/2404.10411v1)
@@ -7721,7 +7745,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20240418>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240419>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
