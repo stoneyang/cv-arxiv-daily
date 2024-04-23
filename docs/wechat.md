@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.04.22
+> Updated on 2024.04.23
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,9 +17,15 @@
 
 ## pretrain
 
+- 2024-04-19, **MoVA: Adapting Mixture of Vision Experts to Multimodal Context**, Zhuofan Zong et.al., Paper: [http://arxiv.org/abs/2404.13046v1](http://arxiv.org/abs/2404.13046v1), Code: **[https://github.com/templex98/mova](https://github.com/templex98/mova)**
+- 2024-04-19, **Training-and-prompt-free General Painterly Harmonization Using Image-wise Attention Sharing**, Teng-Fang Hsiao et.al., Paper: [http://arxiv.org/abs/2404.12900v1](http://arxiv.org/abs/2404.12900v1), Code: **[https://github.com/bluedyee/tf-gph](https://github.com/bluedyee/tf-gph)**
+- 2024-04-19, **Grasper: A Generalist Pursuer for Pursuit-Evasion Problems**, Pengdeng Li et.al., Paper: [http://arxiv.org/abs/2404.12626v1](http://arxiv.org/abs/2404.12626v1), Code: **[https://github.com/ipadli/grasper](https://github.com/ipadli/grasper)**
+- 2024-04-18, **Towards Large Language Models as Copilots for Theorem Proving in Lean**, Peiyang Song et.al., Paper: [http://arxiv.org/abs/2404.12534v1](http://arxiv.org/abs/2404.12534v1), Code: **[https://github.com/lean-dojo/leancopilot](https://github.com/lean-dojo/leancopilot)**
+- 2024-04-18, **Understanding Optimal Feature Transfer via a Fine-Grained Bias-Variance Analysis**, Yufan Li et.al., Paper: [http://arxiv.org/abs/2404.12481v1](http://arxiv.org/abs/2404.12481v1)
+- 2024-04-18, **mOthello: When Do Cross-Lingual Representation Alignment and Cross-Lingual Transfer Emerge in Multilingual Models?**, Tianze Hua et.al., Paper: [http://arxiv.org/abs/2404.12444v1](http://arxiv.org/abs/2404.12444v1)
 - 2024-04-18, **MedThink: Explaining Medical Visual Question Answering via Multimodal Decision-Making Rationale**, Xiaotang Gai et.al., Paper: [http://arxiv.org/abs/2404.12372v1](http://arxiv.org/abs/2404.12372v1)
 - 2024-04-18, **AniClipart: Clipart Animation with Text-to-Video Priors**, Ronghuan Wu et.al., Paper: [http://arxiv.org/abs/2404.12347v1](http://arxiv.org/abs/2404.12347v1)
-- 2024-04-18, **GraFIQs: Face Image Quality Assessment Using Gradient Magnitudes**, Jan Niklas Kolf et.al., Paper: [http://arxiv.org/abs/2404.12203v1](http://arxiv.org/abs/2404.12203v1)
+- 2024-04-18, **GraFIQs: Face Image Quality Assessment Using Gradient Magnitudes**, Jan Niklas Kolf et.al., Paper: [http://arxiv.org/abs/2404.12203v1](http://arxiv.org/abs/2404.12203v1), Code: **[https://github.com/jankolf/grafiqs](https://github.com/jankolf/grafiqs)**
 - 2024-04-18, **OpenBezoar: Small, Cost-Effective and Open Models Trained on Mixes of Instruction Data**, Chandeepa Dissanayake et.al., Paper: [http://arxiv.org/abs/2404.12195v1](http://arxiv.org/abs/2404.12195v1), Code: **[https://bitbucket.org/paladinanalytics/qlora-finetuning](https://bitbucket.org/paladinanalytics/qlora-finetuning)**
 - 2024-04-18, **How to Benchmark Vision Foundation Models for Semantic Segmentation?**, Tommie Kerssies et.al., Paper: [http://arxiv.org/abs/2404.12172v1](http://arxiv.org/abs/2404.12172v1)
 - 2024-04-18, **Aligning language models with human preferences**, Tomasz Korbak et.al., Paper: [http://arxiv.org/abs/2404.12150v1](http://arxiv.org/abs/2404.12150v1), Code: **[https://github.com/tomekkorbak/pretraining-with-human-feedback](https://github.com/tomekkorbak/pretraining-with-human-feedback)**
@@ -2779,10 +2785,18 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20240422>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240423>back to top</a>)</p>
 
 ## downstream
 
+- 2024-04-19, **LaPA: Latent Prompt Assist Model For Medical Visual Question Answering**, Tiancheng Gu et.al., Paper: [http://arxiv.org/abs/2404.13039v1](http://arxiv.org/abs/2404.13039v1), Code: **[https://github.com/garygutc/lapa_model](https://github.com/garygutc/lapa_model)**
+- 2024-04-19, **Sample Design Engineering: An Empirical Study of What Makes Good Downstream Fine-Tuning Samples for LLMs**, Biyang Guo et.al., Paper: [http://arxiv.org/abs/2404.13033v1](http://arxiv.org/abs/2404.13033v1), Code: **[https://github.com/beyondguo/llm-tuning](https://github.com/beyondguo/llm-tuning)**
+- 2024-04-19, **Next Generation Loss Function for Image Classification**, Shakhnaz Akhmedova et.al., Paper: [http://arxiv.org/abs/2404.12948v1](http://arxiv.org/abs/2404.12948v1)
+- 2024-04-19, **DLoRA-TrOCR: Mixed Text Mode Optical Character Recognition Based On Transformer**, Da Chang et.al., Paper: [http://arxiv.org/abs/2404.12734v1](http://arxiv.org/abs/2404.12734v1)
+- 2024-04-19, **Evaluating Character Understanding of Large Language Models via Character Profiling from Fictional Works**, Xinfeng Yuan et.al., Paper: [http://arxiv.org/abs/2404.12726v1](http://arxiv.org/abs/2404.12726v1), Code: **[https://github.com/joanna0123/character_profiling](https://github.com/joanna0123/character_profiling)**
+- 2024-04-19, **Cooperative Sentiment Agents for Multimodal Sentiment Analysis**, Shanmin Wang et.al., Paper: [http://arxiv.org/abs/2404.12642v1](http://arxiv.org/abs/2404.12642v1), Code: **[https://github.com/smwanghhh/co-sa](https://github.com/smwanghhh/co-sa)**
+- 2024-04-19, **Multi-Objective Fine-Tuning for Enhanced Program Repair with LLMs**, Boyang Yang et.al., Paper: [http://arxiv.org/abs/2404.12636v1](http://arxiv.org/abs/2404.12636v1)
+- 2024-04-18, **Understanding Optimal Feature Transfer via a Fine-Grained Bias-Variance Analysis**, Yufan Li et.al., Paper: [http://arxiv.org/abs/2404.12481v1](http://arxiv.org/abs/2404.12481v1)
 - 2024-04-18, **Guided Discrete Diffusion for Electronic Health Record Generation**, Zixiang Chen et.al., Paper: [http://arxiv.org/abs/2404.12314v1](http://arxiv.org/abs/2404.12314v1)
 - 2024-04-18, **Debiased Distribution Compression**, Lingxiao Li et.al., Paper: [http://arxiv.org/abs/2404.12290v1](http://arxiv.org/abs/2404.12290v1)
 - 2024-04-18, **Advancing the Robustness of Large Language Models through Self-Denoised Smoothing**, Jiabao Ji et.al., Paper: [http://arxiv.org/abs/2404.12274v1](http://arxiv.org/abs/2404.12274v1), Code: **[https://github.com/ucsb-nlp-chang/selfdenoise](https://github.com/ucsb-nlp-chang/selfdenoise)**
@@ -5326,7 +5340,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20240422>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240423>back to top</a>)</p>
 
 ## adaptor
 
@@ -5425,10 +5439,15 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20240422>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240423>back to top</a>)</p>
 
 ## object detection
 
+- 2024-04-19, **A comparison between single-stage and two-stage 3D tracking algorithms for greenhouse robotics**, David Rapado-Rincon et.al., Paper: [http://arxiv.org/abs/2404.12963v1](http://arxiv.org/abs/2404.12963v1)
+- 2024-04-19, **Language-Driven Active Learning for Diverse Open-Set 3D Object Detection**, Ross Greer et.al., Paper: [http://arxiv.org/abs/2404.12856v1](http://arxiv.org/abs/2404.12856v1)
+- 2024-04-19, **ECOR: Explainable CLIP for Object Recognition**, Ali Rasekh et.al., Paper: [http://arxiv.org/abs/2404.12839v1](http://arxiv.org/abs/2404.12839v1)
+- 2024-04-19, **A Point-Based Approach to Efficient LiDAR Multi-Task Perception**, Christopher Lang et.al., Paper: [http://arxiv.org/abs/2404.12798v1](http://arxiv.org/abs/2404.12798v1)
+- 2024-04-19, **ELEV-VISION-SAM: Integrated Vision Language and Foundation Model for Automated Estimation of Building Lowest Floor Elevation**, Yu-Hsuan Ho et.al., Paper: [http://arxiv.org/abs/2404.12606v1](http://arxiv.org/abs/2404.12606v1)
 - 2024-04-18, **The devil is in the object boundary: towards annotation-free instance segmentation using Foundation Models**, Cheng Shi et.al., Paper: [http://arxiv.org/abs/2404.11957v1](http://arxiv.org/abs/2404.11957v1), Code: **[https://github.com/chengshiest/zip-your-clip](https://github.com/chengshiest/zip-your-clip)**
 - 2024-04-18, **Simultaneous Detection and Interaction Reasoning for Object-Centric Action Recognition**, Xunsong Li et.al., Paper: [http://arxiv.org/abs/2404.11903v1](http://arxiv.org/abs/2404.11903v1)
 - 2024-04-17, **TempBEV: Improving Learned BEV Encoders with Combined Image and BEV Space Temporal Aggregation**, Thomas Monninger et.al., Paper: [http://arxiv.org/abs/2404.11803v1](http://arxiv.org/abs/2404.11803v1)
@@ -7770,7 +7789,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20240422>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240423>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
