@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.23
+## Updated on 2024.04.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-22**|**PARAMANU-GANITA: Language Model with Mathematical Capabilities**|Mitodru Niyogi et.al.|[2404.14395v1](http://arxiv.org/abs/2404.14395v1)|null|
+|**2024-04-22**|**Calc-CMU at SemEval-2024 Task 7: Pre-Calc -- Learning to Use the Calculator Improves Numeracy in Language Models**|Vishruth Veerendranath et.al.|[2404.14355v1](http://arxiv.org/abs/2404.14355v1)|**[link](https://github.com/calc-cmu/pre-calc)**|
+|**2024-04-22**|**Automatic Discovery of Visual Circuits**|Achyuta Rajaram et.al.|[2404.14349v1](http://arxiv.org/abs/2404.14349v1)|**[link](https://github.com/multimodal-interpretability/visual-circuits)**|
+|**2024-04-22**|**Heterogeneous Face Recognition Using Domain Invariant Units**|Anjith George et.al.|[2404.14343v1](http://arxiv.org/abs/2404.14343v1)|null|
+|**2024-04-22**|**Self-Supervised Alignment with Mutual Information: Learning to Follow Principles without Preference Labels**|Jan-Philipp Fränken et.al.|[2404.14313v1](http://arxiv.org/abs/2404.14313v1)|**[link](https://github.com/janphilippfranken/sami)**|
+|**2024-04-22**|**OccFeat: Self-supervised Occupancy Feature Prediction for Pretraining BEV Segmentation Networks**|Sophia Sirko-Galouchenko et.al.|[2404.14027v1](http://arxiv.org/abs/2404.14027v1)|null|
+|**2024-04-22**|**EventLens: Leveraging Event-Aware Pretraining and Cross-modal Linking Enhances Visual Commonsense Reasoning**|Mingjie Ma et.al.|[2404.13847v1](http://arxiv.org/abs/2404.13847v1)|null|
+|**2024-04-21**|**FiLo: Zero-Shot Anomaly Detection by Fine-Grained Description and High-Quality Localization**|Zhaopeng Gu et.al.|[2404.13671v1](http://arxiv.org/abs/2404.13671v1)|null|
+|**2024-04-21**|**PEACH: Pretrained-embedding Explanation Across Contextual and Hierarchical Structure**|Feiqi Cao et.al.|[2404.13645v1](http://arxiv.org/abs/2404.13645v1)|**[link](https://github.com/adlnlp/peach)**|
+|**2024-04-21**|**Lost in Space: Probing Fine-grained Spatial Understanding in Vision and Language Resamplers**|Georgios Pantazopoulos et.al.|[2404.13594v1](http://arxiv.org/abs/2404.13594v1)|**[link](https://github.com/gpantaz/probing-resamplers)**|
 |**2024-04-19**|**MoVA: Adapting Mixture of Vision Experts to Multimodal Context**|Zhuofan Zong et.al.|[2404.13046v1](http://arxiv.org/abs/2404.13046v1)|**[link](https://github.com/templex98/mova)**|
 |**2024-04-19**|**Training-and-prompt-free General Painterly Harmonization Using Image-wise Attention Sharing**|Teng-Fang Hsiao et.al.|[2404.12900v1](http://arxiv.org/abs/2404.12900v1)|**[link](https://github.com/bluedyee/tf-gph)**|
 |**2024-04-19**|**Grasper: A Generalist Pursuer for Pursuit-Evasion Problems**|Pengdeng Li et.al.|[2404.12626v1](http://arxiv.org/abs/2404.12626v1)|**[link](https://github.com/ipadli/grasper)**|
@@ -2787,12 +2797,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240423>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240424>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-22**|**Calc-CMU at SemEval-2024 Task 7: Pre-Calc -- Learning to Use the Calculator Improves Numeracy in Language Models**|Vishruth Veerendranath et.al.|[2404.14355v1](http://arxiv.org/abs/2404.14355v1)|**[link](https://github.com/calc-cmu/pre-calc)**|
+|**2024-04-22**|**Text-Tuple-Table: Towards Information Integration in Text-to-Table Generation via Global Tuple Extraction**|Zheye Deng et.al.|[2404.14215v1](http://arxiv.org/abs/2404.14215v1)|**[link](https://github.com/hkust-knowcomp/livesum-ttt)**|
+|**2024-04-22**|**Collaborative Perception Datasets in Autonomous Driving: A Survey**|Melih Yazgan et.al.|[2404.14022v1](http://arxiv.org/abs/2404.14022v1)|null|
+|**2024-04-21**|**Enforcing Conditional Independence for Fair Representation Learning and Causal Image Generation**|Jensen Hwa et.al.|[2404.13798v1](http://arxiv.org/abs/2404.13798v1)|null|
+|**2024-04-21**|**Evaluating Retrieval Quality in Retrieval-Augmented Generation**|Alireza Salemi et.al.|[2404.13781v1](http://arxiv.org/abs/2404.13781v1)|**[link](https://github.com/alirezasalemi7/erag)**|
+|**2024-04-21**|**Mixture of LoRA Experts**|Xun Wu et.al.|[2404.13628v1](http://arxiv.org/abs/2404.13628v1)|**[link](https://github.com/yushuiwx/mole)**|
+|**2024-04-21**|**Towards Unified Representation of Multi-Modal Pre-training for 3D Understanding via Differentiable Rendering**|Ben Fei et.al.|[2404.13619v1](http://arxiv.org/abs/2404.13619v1)|null|
+|**2024-04-21**|**The Branch Not Taken: Predicting Branching in Online Conversations**|Shai Meital et.al.|[2404.13613v1](http://arxiv.org/abs/2404.13613v1)|null|
+|**2024-04-21**|**Preliminary Investigation of SSL for Complex Work Activity Recognition in Industrial Domain via MoIL**|Qingxin Xia et.al.|[2404.13581v1](http://arxiv.org/abs/2404.13581v1)|null|
+|**2024-04-21**|**Predict to Minimize Swap Regret for All Payoff-Bounded Tasks**|Lunjia Hu et.al.|[2404.13503v1](http://arxiv.org/abs/2404.13503v1)|null|
 |**2024-04-19**|**LaPA: Latent Prompt Assist Model For Medical Visual Question Answering**|Tiancheng Gu et.al.|[2404.13039v1](http://arxiv.org/abs/2404.13039v1)|**[link](https://github.com/garygutc/lapa_model)**|
 |**2024-04-19**|**Sample Design Engineering: An Empirical Study of What Makes Good Downstream Fine-Tuning Samples for LLMs**|Biyang Guo et.al.|[2404.13033v1](http://arxiv.org/abs/2404.13033v1)|**[link](https://github.com/beyondguo/llm-tuning)**|
 |**2024-04-19**|**Next Generation Loss Function for Image Classification**|Shakhnaz Akhmedova et.al.|[2404.12948v1](http://arxiv.org/abs/2404.12948v1)|null|
@@ -5344,13 +5364,13 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20240423>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240424>back to top</a>)</p>
 
 ## adaptor
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-13**|**SQIAsignHD: SQIsignHD Adaptor Signature**|Farzin Renan et.al.|[2404.09026v1](http://arxiv.org/abs/2404.09026v1)|null|
+|**2024-04-23**|**SQIAsignHD: SQIsignHD Adaptor Signature**|Farzin Renan et.al.|[2404.09026v2](http://arxiv.org/abs/2404.09026v2)|null|
 |**2024-04-02**|**Adaptive Feature Fusion Neural Network for Glaucoma Segmentation on Unseen Fundus Images**|Jiyuan Zhong et.al.|[2404.02084v1](http://arxiv.org/abs/2404.02084v1)|null|
 |**2024-03-28**|**Collaborative Knowledge Infusion for Low-resource Stance Detection**|Ming Yan et.al.|[2403.19219v1](http://arxiv.org/abs/2403.19219v1)|null|
 |**2024-03-20**|**TimeRewind: Rewinding Time with Image-and-Events Video Diffusion**|Jingxi Chen et.al.|[2403.13800v1](http://arxiv.org/abs/2403.13800v1)|null|
@@ -5445,12 +5465,21 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240423>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240424>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-22**|**CKD: Contrastive Knowledge Distillation from A Sample-wise Perspective**|Wencheng Zhu et.al.|[2404.14109v1](http://arxiv.org/abs/2404.14109v1)|null|
+|**2024-04-22**|**Benchmarking Multi-Modal LLMs for Testing Visual Deep Learning Systems Through the Lens of Image Mutation**|Liwen Wang et.al.|[2404.13945v1](http://arxiv.org/abs/2404.13945v1)|null|
+|**2024-04-22**|**NeRF-DetS: Enhancing Multi-View 3D Object Detection with Sampling-adaptive Network of Continuous NeRF-based Representation**|Chi Huang et.al.|[2404.13921v1](http://arxiv.org/abs/2404.13921v1)|null|
+|**2024-04-22**|**TeamTrack: A Dataset for Multi-Sport Multi-Object Tracking in Full-pitch Videos**|Atom Scott et.al.|[2404.13868v1](http://arxiv.org/abs/2404.13868v1)|null|
+|**2024-04-22**|**Toward Robust LiDAR based 3D Object Detection via Density-Aware Adaptive Thresholding**|Eunho Lee et.al.|[2404.13852v1](http://arxiv.org/abs/2404.13852v1)|null|
+|**2024-04-21**|**A Nasal Cytology Dataset for Object Detection and Deep Learning**|Mauro Camporeale et.al.|[2404.13745v1](http://arxiv.org/abs/2404.13745v1)|null|
+|**2024-04-23**|**Clio: Real-time Task-Driven Open-Set 3D Scene Graphs**|Dominic Maggio et.al.|[2404.13696v2](http://arxiv.org/abs/2404.13696v2)|null|
+|**2024-04-20**|**FisheyeDetNet: Object Detection on Fisheye Surround View Camera Systems for Automated Driving**|Ganesh Sistu et.al.|[2404.13443v1](http://arxiv.org/abs/2404.13443v1)|null|
+|**2024-04-20**|**Efficient and Concise Explanations for Object Detection with Gaussian-Class Activation Mapping Explainer**|Quoc Khanh Nguyen et.al.|[2404.13417v1](http://arxiv.org/abs/2404.13417v1)|null|
 |**2024-04-19**|**A comparison between single-stage and two-stage 3D tracking algorithms for greenhouse robotics**|David Rapado-Rincon et.al.|[2404.12963v1](http://arxiv.org/abs/2404.12963v1)|null|
 |**2024-04-19**|**Language-Driven Active Learning for Diverse Open-Set 3D Object Detection**|Ross Greer et.al.|[2404.12856v1](http://arxiv.org/abs/2404.12856v1)|null|
 |**2024-04-19**|**ECOR: Explainable CLIP for Object Recognition**|Ali Rasekh et.al.|[2404.12839v1](http://arxiv.org/abs/2404.12839v1)|null|
@@ -7797,7 +7826,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20240423>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240424>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
