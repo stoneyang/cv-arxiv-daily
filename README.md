@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.25
+## Updated on 2024.04.26
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,9 +19,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-24**|**Can Foundational Large Language Models Assist with Conducting Pharmaceuticals Manufacturing Investigations?**|Hossein Salami et.al.|[2404.15578v1](http://arxiv.org/abs/2404.15578v1)|null|
+|**2024-04-24**|**Retrieval Head Mechanistically Explains Long-Context Factuality**|Wenhao Wu et.al.|[2404.15574v1](http://arxiv.org/abs/2404.15574v1)|null|
 |**2024-04-23**|**SMPLer: Taming Transformers for Monocular 3D Human Shape and Pose Estimation**|Xiangyu Xu et.al.|[2404.15276v1](http://arxiv.org/abs/2404.15276v1)|**[link](https://github.com/xuxy09/smpler)**|
 |**2024-04-23**|**CT-GLIP: 3D Grounded Language-Image Pretraining with CT Scans and Radiology Reports for Full-Body Scenarios**|Jingyang Lin et.al.|[2404.15272v1](http://arxiv.org/abs/2404.15272v1)|null|
-|**2024-04-23**|**Setting up the Data Printer with Improved English to Ukrainian Machine Translation**|Yurii Paniv et.al.|[2404.15196v1](http://arxiv.org/abs/2404.15196v1)|null|
+|**2024-04-23**|**Setting up the Data Printer with Improved English to Ukrainian Machine Translation**|Yurii Paniv et.al.|[2404.15196v1](http://arxiv.org/abs/2404.15196v1)|**[link](https://github.com/lang-uk/dragoman)**|
 |**2024-04-23**|**Combating Missing Modalities in Egocentric Videos at Test Time**|Merey Ramazanova et.al.|[2404.15161v1](http://arxiv.org/abs/2404.15161v1)|null|
 |**2024-04-23**|**DP-Net: Learning Discriminative Parts for image recognition**|Ronan Sicre et.al.|[2404.15037v1](http://arxiv.org/abs/2404.15037v1)|null|
 |**2024-04-23**|**IPAD: Industrial Process Anomaly Detection Dataset**|Jinfan Liu et.al.|[2404.15033v1](http://arxiv.org/abs/2404.15033v1)|null|
@@ -2807,12 +2809,14 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240425>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240426>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-24**|**MiM: Mask in Mask Self-Supervised Pre-Training for 3D Medical Image Analysis**|Jiaxin Zhuang et.al.|[2404.15580v1](http://arxiv.org/abs/2404.15580v1)|null|
+|**2024-04-23**|**FL-TAC: Enhanced Fine-Tuning in Federated Learning via Low-Rank, Task-Specific Adapter Clustering**|Siqi Ping et.al.|[2404.15384v1](http://arxiv.org/abs/2404.15384v1)|null|
 |**2024-04-23**|**FlowMap: High-Quality Camera Poses, Intrinsics, and Depth via Gradient Descent**|Cameron Smith et.al.|[2404.15259v1](http://arxiv.org/abs/2404.15259v1)|null|
 |**2024-04-23**|**Does Instruction Tuning Make LLMs More Consistent?**|Constanza Fierro et.al.|[2404.15206v1](http://arxiv.org/abs/2404.15206v1)|null|
 |**2024-04-23**|**$\texttt{MiniMol}$: A Parameter-Efficient Foundation Model for Molecular Learning**|Kerstin Kläser et.al.|[2404.14986v1](http://arxiv.org/abs/2404.14986v1)|null|
@@ -5382,13 +5386,13 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20240425>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240426>back to top</a>)</p>
 
 ## adaptor
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-23**|**SQIAsignHD: SQIsignHD Adaptor Signature**|Farzin Renan et.al.|[2404.09026v2](http://arxiv.org/abs/2404.09026v2)|null|
+|**2024-04-24**|**SQIAsignHD: SQIsignHD Adaptor Signature**|Farzin Renan et.al.|[2404.09026v3](http://arxiv.org/abs/2404.09026v3)|null|
 |**2024-04-02**|**Adaptive Feature Fusion Neural Network for Glaucoma Segmentation on Unseen Fundus Images**|Jiyuan Zhong et.al.|[2404.02084v1](http://arxiv.org/abs/2404.02084v1)|null|
 |**2024-03-28**|**Collaborative Knowledge Infusion for Low-resource Stance Detection**|Ming Yan et.al.|[2403.19219v1](http://arxiv.org/abs/2403.19219v1)|null|
 |**2024-03-20**|**TimeRewind: Rewinding Time with Image-and-Events Video Diffusion**|Jingxi Chen et.al.|[2403.13800v1](http://arxiv.org/abs/2403.13800v1)|null|
@@ -5483,12 +5487,13 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240425>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240426>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-23**|**CFPFormer: Feature-pyramid like Transformer Decoder for Segmentation and Detection**|Hongyi Cai et.al.|[2404.15451v1](http://arxiv.org/abs/2404.15451v1)|null|
 |**2024-04-23**|**Source-free Domain Adaptation for Video Object Detection Under Adverse Image Conditions**|Xingguang Zhang et.al.|[2404.15252v1](http://arxiv.org/abs/2404.15252v1)|null|
 |**2024-04-23**|**Efficient Transformer Encoders for Mask2Former-style models**|Manyi Yao et.al.|[2404.15244v1](http://arxiv.org/abs/2404.15244v1)|null|
 |**2024-04-23**|**Gallbladder Cancer Detection in Ultrasound Images based on YOLO and Faster R-CNN**|Sara Dadjouy et.al.|[2404.15129v1](http://arxiv.org/abs/2404.15129v1)|null|
@@ -7850,7 +7855,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20240425>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240426>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
