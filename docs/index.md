@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.26
+## Updated on 2024.04.27
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-25**|**Layer Skip: Enabling Early Exit Inference and Self-Speculative Decoding**|Mostafa Elhoushi et.al.|[2404.16710v1](http://arxiv.org/abs/2404.16710v1)|null|
+|**2024-04-25**|**Road Surface Friction Estimation for Winter Conditions Utilising General Visual Features**|Risto Ojala et.al.|[2404.16578v1](http://arxiv.org/abs/2404.16578v1)|null|
+|**2024-04-25**|**Leveraging Pretrained Latent Representations for Few-Shot Imitation Learning on a Dexterous Robotic Hand**|Davide Liconti et.al.|[2404.16483v1](http://arxiv.org/abs/2404.16483v1)|null|
+|**2024-04-25**|**Leveraging tropical reef, bird and unrelated sounds for superior transfer learning in marine bioacoustics**|Ben Williams et.al.|[2404.16436v1](http://arxiv.org/abs/2404.16436v1)|null|
+|**2024-04-25**|**TI2V-Zero: Zero-Shot Image Conditioning for Text-to-Video Diffusion Models**|Haomiao Ni et.al.|[2404.16306v1](http://arxiv.org/abs/2404.16306v1)|null|
+|**2024-04-24**|**Towards a Holistic Evaluation of LLMs on Factual Knowledge Recall**|Jiaqing Yuan et.al.|[2404.16164v1](http://arxiv.org/abs/2404.16164v1)|null|
+|**2024-04-24**|**FairDeDup: Detecting and Mitigating Vision-Language Fairness Disparities in Semantic Dataset Deduplication**|Eric Slyman et.al.|[2404.16123v1](http://arxiv.org/abs/2404.16123v1)|null|
+|**2024-04-24**|**MoDE: CLIP Data Experts via Clustering**|Jiawei Ma et.al.|[2404.16030v1](http://arxiv.org/abs/2404.16030v1)|**[link](https://github.com/facebookresearch/metaclip)**|
+|**2024-04-24**|**Representing Part-Whole Hierarchies in Foundation Models by Learning Localizability, Composability, and Decomposability from Anatomy via Self-Supervision**|Mohammad Reza Hosseinzadeh Taher et.al.|[2404.15672v1](http://arxiv.org/abs/2404.15672v1)|null|
+|**2024-04-24**|**HybridVC: Efficient Voice Style Conversion with Text and Audio Prompts**|Xinlei Niu et.al.|[2404.15637v1](http://arxiv.org/abs/2404.15637v1)|null|
 |**2024-04-24**|**Can Foundational Large Language Models Assist with Conducting Pharmaceuticals Manufacturing Investigations?**|Hossein Salami et.al.|[2404.15578v1](http://arxiv.org/abs/2404.15578v1)|null|
 |**2024-04-24**|**Retrieval Head Mechanistically Explains Long-Context Factuality**|Wenhao Wu et.al.|[2404.15574v1](http://arxiv.org/abs/2404.15574v1)|null|
 |**2024-04-23**|**SMPLer: Taming Transformers for Monocular 3D Human Shape and Pose Estimation**|Xiangyu Xu et.al.|[2404.15276v1](http://arxiv.org/abs/2404.15276v1)|**[link](https://github.com/xuxy09/smpler)**|
@@ -2813,12 +2823,22 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240426>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240427>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-25**|**Boosting Unsupervised Semantic Segmentation with Principal Mask Proposals**|Oliver Hahn et.al.|[2404.16818v1](http://arxiv.org/abs/2404.16818v1)|**[link](https://github.com/visinf/primaps)**|
+|**2024-04-25**|**AAPL: Adding Attributes to Prompt Learning for Vision-Language Models**|Gahyeon Kim et.al.|[2404.16804v1](http://arxiv.org/abs/2404.16804v1)|**[link](https://github.com/Gahyeonkim09/AAPL)**|
+|**2024-04-25**|**Dataset of Quotation Attribution in German News Articles**|Fynn Petersen-Frey et.al.|[2404.16764v1](http://arxiv.org/abs/2404.16764v1)|null|
+|**2024-04-25**|**ReliK: A Reliability Measure for Knowledge Graph Embeddings**|Maximilian K. Egger et.al.|[2404.16572v1](http://arxiv.org/abs/2404.16572v1)|null|
+|**2024-04-25**|**Robust Fine-tuning for Pre-trained 3D Point Cloud Models**|Zhibo Zhang et.al.|[2404.16422v1](http://arxiv.org/abs/2404.16422v1)|null|
+|**2024-04-25**|**Efficiency in Focus: LayerNorm as a Catalyst for Fine-tuning Medical Visual Language Pre-trained Models**|Jiawei Chen et.al.|[2404.16385v1](http://arxiv.org/abs/2404.16385v1)|null|
+|**2024-04-25**|**Training-Free Unsupervised Prompt for Vision-Language Models**|Sifan Long et.al.|[2404.16339v1](http://arxiv.org/abs/2404.16339v1)|**[link](https://github.com/wlb12345/tfup)**|
+|**2024-04-24**|**An Analysis of Recent Advances in Deepfake Image Detection in an Evolving Threat Landscape**|Sifat Muhammad Abdullah et.al.|[2404.16212v1](http://arxiv.org/abs/2404.16212v1)|**[link](https://github.com/secml-lab-vt/EvolvingThreat-DeepfakeImageDetect)**|
+|**2024-04-24**|**No Train but Gain: Language Arithmetic for training-free Language Adapters enhancement**|Mateusz Klimaszewski et.al.|[2404.15737v1](http://arxiv.org/abs/2404.15737v1)|null|
+|**2024-04-24**|**SPARO: Selective Attention for Robust and Compositional Transformer Encodings for Vision**|Ankit Vani et.al.|[2404.15721v1](http://arxiv.org/abs/2404.15721v1)|**[link](https://github.com/ankitkv/sparo-clip)**|
 |**2024-04-24**|**MiM: Mask in Mask Self-Supervised Pre-Training for 3D Medical Image Analysis**|Jiaxin Zhuang et.al.|[2404.15580v1](http://arxiv.org/abs/2404.15580v1)|null|
 |**2024-04-23**|**FL-TAC: Enhanced Fine-Tuning in Federated Learning via Low-Rank, Task-Specific Adapter Clustering**|Siqi Ping et.al.|[2404.15384v1](http://arxiv.org/abs/2404.15384v1)|null|
 |**2024-04-23**|**FlowMap: High-Quality Camera Poses, Intrinsics, and Depth via Gradient Descent**|Cameron Smith et.al.|[2404.15259v1](http://arxiv.org/abs/2404.15259v1)|null|
@@ -5390,7 +5410,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20240426>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240427>back to top</a>)</p>
 
 ## adaptor
 
@@ -5491,12 +5511,22 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240426>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240427>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-25**|**Self-Balanced R-CNN for Instance Segmentation**|Leonardo Rossi et.al.|[2404.16633v1](http://arxiv.org/abs/2404.16633v1)|**[link](https://github.com/IMPLabUniPr/mmdetection)**|
+|**2024-04-25**|**Cross-Domain Spatial Matching for Camera and Radar Sensor Data Fusion in Autonomous Vehicle Perception System**|Daniel Dworak et.al.|[2404.16548v1](http://arxiv.org/abs/2404.16548v1)|null|
+|**2024-04-25**|**Commonsense Prototype for Outdoor Unsupervised 3D Object Detection**|Hai Wu et.al.|[2404.16493v1](http://arxiv.org/abs/2404.16493v1)|**[link](https://github.com/hailanyi/cpd)**|
+|**2024-04-25**|**PAD: Patch-Agnostic Defense against Adversarial Patch Attacks**|Lihua Jing et.al.|[2404.16452v1](http://arxiv.org/abs/2404.16452v1)|**[link](https://github.com/lihua-jing/pad)**|
+|**2024-04-25**|**IMWA: Iterative Model Weight Averaging Benefits Class-Imbalanced Learning Tasks**|Zitong Huang et.al.|[2404.16331v1](http://arxiv.org/abs/2404.16331v1)|null|
+|**2024-04-25**|**CFMW: Cross-modality Fusion Mamba for Multispectral Object Detection under Adverse Weather Conditions**|Haoyuan Li et.al.|[2404.16302v1](http://arxiv.org/abs/2404.16302v1)|null|
+|**2024-04-24**|**AutoGluon-Multimodal (AutoMM): Supercharging Multimodal AutoML with Foundation Models**|Zhiqiang Tang et.al.|[2404.16233v1](http://arxiv.org/abs/2404.16233v1)|null|
+|**2024-04-24**|**Observational parameters of Blue Large-Amplitude Pulsators**|P. Pietrukowicz et.al.|[2404.16089v1](http://arxiv.org/abs/2404.16089v1)|null|
+|**2024-04-24**|**A Survey on Visual Mamba**|Hanwei Zhang et.al.|[2404.15956v1](http://arxiv.org/abs/2404.15956v1)|null|
+|**2024-04-24**|**Steal Now and Attack Later: Evaluating Robustness of Object Detection against Black-box Adversarial Attacks**|Erh-Chung Chen et.al.|[2404.15881v1](http://arxiv.org/abs/2404.15881v1)|null|
 |**2024-04-23**|**CFPFormer: Feature-pyramid like Transformer Decoder for Segmentation and Detection**|Hongyi Cai et.al.|[2404.15451v1](http://arxiv.org/abs/2404.15451v1)|null|
 |**2024-04-23**|**Source-free Domain Adaptation for Video Object Detection Under Adverse Image Conditions**|Xingguang Zhang et.al.|[2404.15252v1](http://arxiv.org/abs/2404.15252v1)|null|
 |**2024-04-23**|**Efficient Transformer Encoders for Mask2Former-style models**|Manyi Yao et.al.|[2404.15244v1](http://arxiv.org/abs/2404.15244v1)|null|
@@ -7859,7 +7889,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20240426>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240427>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
