@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.30
+## Updated on 2024.05.01
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-29**|**Swin2-MoSE: A New Single Image Super-Resolution Model for Remote Sensing**|Leonardo Rossi et.al.|[2404.18924v1](http://arxiv.org/abs/2404.18924v1)|null|
+|**2024-04-29**|**Overcoming Knowledge Barriers: Online Imitation Learning from Observation with Pretrained World Models**|Xingyuan Zhang et.al.|[2404.18896v1](http://arxiv.org/abs/2404.18896v1)|null|
+|**2024-04-29**|**It's Difficult to be Neutral -- Human and LLM-based Sentiment Annotation of Patient Comments**|Petter Mæhlum et.al.|[2404.18832v1](http://arxiv.org/abs/2404.18832v1)|null|
+|**2024-04-30**|**PatentGPT: A Large Language Model for Intellectual Property**|Zilong Bai et.al.|[2404.18255v2](http://arxiv.org/abs/2404.18255v2)|null|
+|**2024-04-28**|**Efficient Remote Sensing with Harmonized Transfer Learning and Modality Alignment**|Tengjun Huang et.al.|[2404.18253v1](http://arxiv.org/abs/2404.18253v1)|**[link](https://github.com/seekerhuang/harma)**|
+|**2024-04-28**|**TextGram: Towards a better domain-adaptive pretraining**|Sharayu Hiwarkhedkar et.al.|[2404.18228v1](http://arxiv.org/abs/2404.18228v1)|null|
+|**2024-04-28**|**Can Perplexity Predict Fine-Tuning Performance? An Investigation of Tokenization Effects on Sequential Language Models for Nepali**|Nishant Luitel et.al.|[2404.18071v1](http://arxiv.org/abs/2404.18071v1)|null|
+|**2024-04-28**|**Grounded Compositional and Diverse Text-to-3D with Pretrained Multi-View Diffusion Model**|Xiaolong Li et.al.|[2404.18065v1](http://arxiv.org/abs/2404.18065v1)|null|
+|**2024-04-27**|**Critical Review for One-class Classification: recent advances and the reality behind them**|Toshitaka Hayashi et.al.|[2404.17931v1](http://arxiv.org/abs/2404.17931v1)|null|
+|**2024-04-27**|**T-CLAP: Temporal-Enhanced Contrastive Language-Audio Pretraining**|Yi Yuan et.al.|[2404.17806v1](http://arxiv.org/abs/2404.17806v1)|null|
 |**2024-04-26**|**Probabilistic Inference in Language Models via Twisted Sequential Monte Carlo**|Stephen Zhao et.al.|[2404.17546v1](http://arxiv.org/abs/2404.17546v1)|null|
 |**2024-04-26**|**Low Cost Machine Vision for Insect Classification**|Danja Brandt et.al.|[2404.17488v1](http://arxiv.org/abs/2404.17488v1)|null|
 |**2024-04-26**|**SAGHOG: Self-Supervised Autoencoder for Generating HOG Features for Writer Retrieval**|Marco Peer et.al.|[2404.17221v1](http://arxiv.org/abs/2404.17221v1)|**[link](https://github.com/marco-peer/icdar24)**|
@@ -2828,12 +2838,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240430>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240501>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-29**|**A Survey on Diffusion Models for Time Series and Spatio-Temporal Data**|Yiyuan Yang et.al.|[2404.18886v1](http://arxiv.org/abs/2404.18886v1)|null|
+|**2024-04-29**|**FeDeRA:Efficient Fine-tuning of Language Models in Federated Learning Leveraging Weight Decomposition**|Yuxuan Yan et.al.|[2404.18848v1](http://arxiv.org/abs/2404.18848v1)|null|
+|**2024-04-29**|**Unknown Script: Impact of Script on Cross-Lingual Transfer**|Wondimagegnhue Tsegaye Tufa et.al.|[2404.18810v1](http://arxiv.org/abs/2404.18810v1)|null|
+|**2024-04-29**|**Self-supervised learning for classifying paranasal anomalies in the maxillary sinus**|Debayan Bhattacharya et.al.|[2404.18599v1](http://arxiv.org/abs/2404.18599v1)|**[link](https://github.com/mtec-tuhh/self-supervised-paranasal-anomaly)**|
+|**2024-04-29**|**Enhancing Boundary Segmentation for Topological Accuracy with Skeleton-based Methods**|Chuni Liu et.al.|[2404.18539v1](http://arxiv.org/abs/2404.18539v1)|**[link](https://github.com/clovermini/skea_topo)**|
+|**2024-04-29**|**Towards Long-term Robotics in the Wild**|Stephen Hausler et.al.|[2404.18477v1](http://arxiv.org/abs/2404.18477v1)|null|
+|**2024-04-29**|**Self-supervised contrastive learning of radio data for source detection, classification and peculiar object discovery**|S. Riggi et.al.|[2404.18462v1](http://arxiv.org/abs/2404.18462v1)|null|
+|**2024-04-28**|**Efficient Remote Sensing with Harmonized Transfer Learning and Modality Alignment**|Tengjun Huang et.al.|[2404.18253v1](http://arxiv.org/abs/2404.18253v1)|**[link](https://github.com/seekerhuang/harma)**|
+|**2024-04-28**|**TextGram: Towards a better domain-adaptive pretraining**|Sharayu Hiwarkhedkar et.al.|[2404.18228v1](http://arxiv.org/abs/2404.18228v1)|null|
+|**2024-04-28**|**Block-Map-Based Localization in Large-Scale Environment**|Yixiao Feng et.al.|[2404.18192v1](http://arxiv.org/abs/2404.18192v1)|null|
 |**2024-04-26**|**UniRGB-IR: A Unified Framework for Visible-Infrared Downstream Tasks via Adapter Tuning**|Maoxun Yuan et.al.|[2404.17360v1](http://arxiv.org/abs/2404.17360v1)|null|
 |**2024-04-26**|**Self-supervised visual learning in the low-data regime: a comparative evaluation**|Sotirios Konstantakos et.al.|[2404.17202v1](http://arxiv.org/abs/2404.17202v1)|null|
 |**2024-04-26**|**FairGT: A Fairness-aware Graph Transformer**|Renqiang Luo et.al.|[2404.17169v1](http://arxiv.org/abs/2404.17169v1)|**[link](https://github.com/yushuowiki/fairgt)**|
@@ -5421,7 +5441,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20240430>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240501>back to top</a>)</p>
 
 ## adaptor
 
@@ -5522,12 +5542,22 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240430>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240501>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-29**|**MiPa: Mixed Patch Infrared-Visible Modality Agnostic Object Detection**|Heitor R. Medeiros et.al.|[2404.18849v1](http://arxiv.org/abs/2404.18849v1)|null|
+|**2024-04-29**|**Leveraging PointNet and PointNet++ for Lyft Point Cloud Classification Challenge**|Rajat K. Doshi et.al.|[2404.18665v1](http://arxiv.org/abs/2404.18665v1)|null|
+|**2024-04-29**|**CoSense3D: an Agent-based Efficient Learning Framework for Collective Perception**|Yunshuang Yuan et.al.|[2404.18617v1](http://arxiv.org/abs/2404.18617v1)|null|
+|**2024-04-29**|**Efficient Meta-Learning Enabled Lightweight Multiscale Few-Shot Object Detection in Remote Sensing Images**|Wenbin Guan et.al.|[2404.18426v1](http://arxiv.org/abs/2404.18426v1)|null|
+|**2024-04-29**|**Multi-modal Perception Dataset of In-water Objects for Autonomous Surface Vehicles**|Mingi Jeong et.al.|[2404.18411v1](http://arxiv.org/abs/2404.18411v1)|null|
+|**2024-04-28**|**FAD-SAR: A Novel Fishing Activity Detection System via Synthetic Aperture Radar Images Based on Deep Learning Method**|Yanbing Bai et.al.|[2404.18245v1](http://arxiv.org/abs/2404.18245v1)|null|
+|**2024-04-28**|**RadSimReal: Bridging the Gap Between Synthetic and Real Data in Radar Object Detection With Simulation**|Oded Bialer et.al.|[2404.18150v1](http://arxiv.org/abs/2404.18150v1)|null|
+|**2024-04-27**|**Reliable Student: Addressing Noise in Semi-Supervised 3D Object Detection**|Farzad Nozarian et.al.|[2404.17910v1](http://arxiv.org/abs/2404.17910v1)|**[link](https://github.com/fnozarian/ReliableStudent)**|
+|**2024-04-27**|**A Hybrid Approach for Document Layout Analysis in Document images**|Tahira Shehzadi et.al.|[2404.17888v1](http://arxiv.org/abs/2404.17888v1)|null|
+|**2024-04-27**|**BoostRad: Enhancing Object Detection by Boosting Radar Reflections**|Yuval Haitman et.al.|[2404.17861v1](http://arxiv.org/abs/2404.17861v1)|null|
 |**2024-04-26**|**Inhomogeneous illuminated image enhancement under extremely low visibility condition**|Libang Chen et.al.|[2404.17503v1](http://arxiv.org/abs/2404.17503v1)|null|
 |**2024-04-26**|**Cost-Sensitive Uncertainty-Based Failure Recognition for Object Detection**|Moussa Kassem Sbeyti et.al.|[2404.17427v1](http://arxiv.org/abs/2404.17427v1)|null|
 |**2024-04-26**|**Enhancing mmWave Radar Point Cloud via Visual-inertial Supervision**|Cong Fan et.al.|[2404.17229v1](http://arxiv.org/abs/2404.17229v1)|null|
@@ -7905,7 +7935,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20240430>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240501>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
