@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.01
+## Updated on 2024.05.02
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-30**|**Seeing Through the Clouds: Cloud Gap Imputation with Prithvi Foundation Model**|Denys Godwin et.al.|[2404.19609v1](http://arxiv.org/abs/2404.19609v1)|null|
+|**2024-04-30**|**Automatic Cardiac Pathology Recognition in Echocardiography Images Using Higher Order Dynamic Mode Decomposition and a Vision Transformer for Small Datasets**|Andrés Bell-Navas et.al.|[2404.19579v1](http://arxiv.org/abs/2404.19579v1)|null|
+|**2024-04-30**|**CLIP-Mamba: CLIP Pretrained Mamba Models with OOD and Hessian Evaluation**|Weiquan Huang et.al.|[2404.19394v1](http://arxiv.org/abs/2404.19394v1)|**[link](https://github.com/raytrun/mamba-clip)**|
+|**2024-04-30**|**Knowledge Distillation vs. Pretraining from Scratch under a Fixed (Computation) Budget**|Minh Duc Bui et.al.|[2404.19319v1](http://arxiv.org/abs/2404.19319v1)|null|
+|**2024-04-30**|**Robust Pedestrian Detection via Constructing Versatile Pedestrian Knowledge Bank**|Sungjune Park et.al.|[2404.19299v1](http://arxiv.org/abs/2404.19299v1)|null|
+|**2024-04-30**|**Revisiting the Adversarial Robustness of Vision Language Models: a Multimodal Perspective**|Wanqi Zhou et.al.|[2404.19287v1](http://arxiv.org/abs/2404.19287v1)|null|
+|**2024-04-30**|**Understanding Multimodal Contrastive Learning Through Pointwise Mutual Information**|Toshimitsu Uesaka et.al.|[2404.19228v1](http://arxiv.org/abs/2404.19228v1)|null|
+|**2024-04-29**|**What Drives Performance in Multilingual Language Models?**|Sina Bagheri Nezhad et.al.|[2404.19159v1](http://arxiv.org/abs/2404.19159v1)|**[link](https://github.com/portnlp/mllms_performance)**|
 |**2024-04-29**|**Swin2-MoSE: A New Single Image Super-Resolution Model for Remote Sensing**|Leonardo Rossi et.al.|[2404.18924v1](http://arxiv.org/abs/2404.18924v1)|null|
 |**2024-04-29**|**Overcoming Knowledge Barriers: Online Imitation Learning from Observation with Pretrained World Models**|Xingyuan Zhang et.al.|[2404.18896v1](http://arxiv.org/abs/2404.18896v1)|null|
 |**2024-04-29**|**It's Difficult to be Neutral -- Human and LLM-based Sentiment Annotation of Patient Comments**|Petter Mæhlum et.al.|[2404.18832v1](http://arxiv.org/abs/2404.18832v1)|null|
@@ -2842,14 +2850,21 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240501>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240502>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-29**|**A Survey on Diffusion Models for Time Series and Spatio-Temporal Data**|Yiyuan Yang et.al.|[2404.18886v1](http://arxiv.org/abs/2404.18886v1)|null|
-|**2024-04-29**|**FeDeRA:Efficient Fine-tuning of Language Models in Federated Learning Leveraging Weight Decomposition**|Yuxuan Yan et.al.|[2404.18848v1](http://arxiv.org/abs/2404.18848v1)|null|
+|**2024-04-30**|**Neural Dynamic Data Valuation**|Zhangyong Liang et.al.|[2404.19557v1](http://arxiv.org/abs/2404.19557v1)|**[link](https://github.com/liangzhangyong/nddv)**|
+|**2024-04-30**|**Revisiting the Adversarial Robustness of Vision Language Models: a Multimodal Perspective**|Wanqi Zhou et.al.|[2404.19287v1](http://arxiv.org/abs/2404.19287v1)|null|
+|**2024-04-30**|**Soft Prompt Generation for Domain Generalization**|Shuanghao Bai et.al.|[2404.19286v1](http://arxiv.org/abs/2404.19286v1)|null|
+|**2024-04-29**|**SpherE: Expressive and Interpretable Knowledge Graph Embedding for Set Retrieval**|Zihao Li et.al.|[2404.19130v1](http://arxiv.org/abs/2404.19130v1)|**[link](https://github.com/violet24k/sphere)**|
+|**2024-04-29**|**MeGA: Hybrid Mesh-Gaussian Head Avatar for High-Fidelity Rendering and Head Editing**|Cong Wang et.al.|[2404.19026v1](http://arxiv.org/abs/2404.19026v1)|null|
+|**2024-04-29**|**Unsupervised Binary Code Translation with Application to Code Similarity Detection and Vulnerability Discovery**|Iftakhar Ahmad et.al.|[2404.19025v1](http://arxiv.org/abs/2404.19025v1)|null|
+|**2024-04-29**|**How Did We Get Here? Summarizing Conversation Dynamics**|Yilun Hua et.al.|[2404.19007v1](http://arxiv.org/abs/2404.19007v1)|null|
+|**2024-04-29**|**A Survey on Diffusion Models for Time Series and Spatio-Temporal Data**|Yiyuan Yang et.al.|[2404.18886v1](http://arxiv.org/abs/2404.18886v1)|**[link](https://github.com/yyysjz1997/awesome-timeseries-spatiotemporal-diffusion-model)**|
+|**2024-04-30**|**FeDeRA:Efficient Fine-tuning of Language Models in Federated Learning Leveraging Weight Decomposition**|Yuxuan Yan et.al.|[2404.18848v2](http://arxiv.org/abs/2404.18848v2)|null|
 |**2024-04-29**|**Unknown Script: Impact of Script on Cross-Lingual Transfer**|Wondimagegnhue Tsegaye Tufa et.al.|[2404.18810v1](http://arxiv.org/abs/2404.18810v1)|null|
 |**2024-04-29**|**Self-supervised learning for classifying paranasal anomalies in the maxillary sinus**|Debayan Bhattacharya et.al.|[2404.18599v1](http://arxiv.org/abs/2404.18599v1)|**[link](https://github.com/mtec-tuhh/self-supervised-paranasal-anomaly)**|
 |**2024-04-29**|**Enhancing Boundary Segmentation for Topological Accuracy with Skeleton-based Methods**|Chuni Liu et.al.|[2404.18539v1](http://arxiv.org/abs/2404.18539v1)|**[link](https://github.com/clovermini/skea_topo)**|
@@ -5445,7 +5460,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20240501>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240502>back to top</a>)</p>
 
 ## adaptor
 
@@ -5546,12 +5561,18 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240501>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240502>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-30**|**Visual Fact Checker: Enabling High-Fidelity Detailed Caption Generation**|Yunhao Ge et.al.|[2404.19752v1](http://arxiv.org/abs/2404.19752v1)|null|
+|**2024-04-30**|**Quantifying Nematodes through Images: Datasets, Models, and Baselines of Deep Learning**|Zhipeng Yuan et.al.|[2404.19748v1](http://arxiv.org/abs/2404.19748v1)|null|
+|**2024-04-30**|**Masked Multi-Query Slot Attention for Unsupervised Object Discovery**|Rishav Pramanik et.al.|[2404.19654v1](http://arxiv.org/abs/2404.19654v1)|**[link](https://github.com/rishavpramanik/maskedmultiqueryslot)**|
+|**2024-04-30**|**Physical Backdoor: Towards Temperature-based Backdoor Attacks in the Physical World**|Wen Yin et.al.|[2404.19417v1](http://arxiv.org/abs/2404.19417v1)|null|
+|**2024-04-30**|**UniFS: Universal Few-shot Instance Perception with Point Representations**|Sheng Jin et.al.|[2404.19401v1](http://arxiv.org/abs/2404.19401v1)|null|
+|**2024-04-30**|**Pseudo Label Refinery for Unsupervised Domain Adaptation on Cross-dataset 3D Object Detection**|Zhanwei Zhang et.al.|[2404.19384v1](http://arxiv.org/abs/2404.19384v1)|null|
 |**2024-04-29**|**MiPa: Mixed Patch Infrared-Visible Modality Agnostic Object Detection**|Heitor R. Medeiros et.al.|[2404.18849v1](http://arxiv.org/abs/2404.18849v1)|null|
 |**2024-04-29**|**Leveraging PointNet and PointNet++ for Lyft Point Cloud Classification Challenge**|Rajat K. Doshi et.al.|[2404.18665v1](http://arxiv.org/abs/2404.18665v1)|null|
 |**2024-04-29**|**CoSense3D: an Agent-based Efficient Learning Framework for Collective Perception**|Yunshuang Yuan et.al.|[2404.18617v1](http://arxiv.org/abs/2404.18617v1)|null|
@@ -7939,7 +7960,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20240501>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240502>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
