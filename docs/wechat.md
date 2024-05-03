@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.05.02
+> Updated on 2024.05.03
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,11 @@
 
 ## pretrain
 
+- 2024-05-01, **Adapting Pretrained Networks for Image Quality Assessment on High Dynamic Range Displays**, Andrei Chubarau et.al., Paper: [http://arxiv.org/abs/2405.00670v1](http://arxiv.org/abs/2405.00670v1)
+- 2024-05-01, **Are Models Biased on Text without Gender-related Language?**, Catarina G Belém et.al., Paper: [http://arxiv.org/abs/2405.00588v1](http://arxiv.org/abs/2405.00588v1), Code: **[https://github.com/ucinlp/unstereo-eval](https://github.com/ucinlp/unstereo-eval)**
+- 2024-05-01, **Self-supervised Pre-training of Text Recognizers**, Martin Kišš et.al., Paper: [http://arxiv.org/abs/2405.00420v1](http://arxiv.org/abs/2405.00420v1), Code: **[https://github.com/dcgm/pero-pretraining](https://github.com/dcgm/pero-pretraining)**
+- 2024-05-01, **Expert Insight-Enhanced Follow-up Chest X-Ray Summary Generation**, Zhichuan Wang et.al., Paper: [http://arxiv.org/abs/2405.00344v1](http://arxiv.org/abs/2405.00344v1)
+- 2024-04-30, **PAODING: A High-fidelity Data-free Pruning Toolkit for Debloating Pre-trained Neural Networks**, Mark Huasong Meng et.al., Paper: [http://arxiv.org/abs/2405.00074v1](http://arxiv.org/abs/2405.00074v1)
 - 2024-04-30, **Seeing Through the Clouds: Cloud Gap Imputation with Prithvi Foundation Model**, Denys Godwin et.al., Paper: [http://arxiv.org/abs/2404.19609v1](http://arxiv.org/abs/2404.19609v1)
 - 2024-04-30, **Automatic Cardiac Pathology Recognition in Echocardiography Images Using Higher Order Dynamic Mode Decomposition and a Vision Transformer for Small Datasets**, Andrés Bell-Navas et.al., Paper: [http://arxiv.org/abs/2404.19579v1](http://arxiv.org/abs/2404.19579v1)
 - 2024-04-30, **CLIP-Mamba: CLIP Pretrained Mamba Models with OOD and Hessian Evaluation**, Weiquan Huang et.al., Paper: [http://arxiv.org/abs/2404.19394v1](http://arxiv.org/abs/2404.19394v1), Code: **[https://github.com/raytrun/mamba-clip](https://github.com/raytrun/mamba-clip)**
@@ -2844,10 +2849,15 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20240502>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240503>back to top</a>)</p>
 
 ## downstream
 
+- 2024-05-01, **Lane Segmentation Refinement with Diffusion Models**, Antonio Ruiz et.al., Paper: [http://arxiv.org/abs/2405.00620v1](http://arxiv.org/abs/2405.00620v1)
+- 2024-05-01, **Investigating Automatic Scoring and Feedback using Large Language Models**, Gloria Ashiya Katuka et.al., Paper: [http://arxiv.org/abs/2405.00602v1](http://arxiv.org/abs/2405.00602v1)
+- 2024-04-30, **SPAFIT: Stratified Progressive Adaptation Fine-tuning for Pre-trained Large Language Models**, Samir Arora et.al., Paper: [http://arxiv.org/abs/2405.00201v1](http://arxiv.org/abs/2405.00201v1)
+- 2024-04-30, **M-DEW: Extending Dynamic Ensemble Weighting to Handle Missing Values**, Adam Catto et.al., Paper: [http://arxiv.org/abs/2405.00182v1](http://arxiv.org/abs/2405.00182v1)
+- 2024-04-30, **Training a high-performance retinal foundation model with half-the-data and 400 times less compute**, Justin Engelmann et.al., Paper: [http://arxiv.org/abs/2405.00117v1](http://arxiv.org/abs/2405.00117v1)
 - 2024-04-30, **Neural Dynamic Data Valuation**, Zhangyong Liang et.al., Paper: [http://arxiv.org/abs/2404.19557v1](http://arxiv.org/abs/2404.19557v1), Code: **[https://github.com/liangzhangyong/nddv](https://github.com/liangzhangyong/nddv)**
 - 2024-04-30, **Revisiting the Adversarial Robustness of Vision Language Models: a Multimodal Perspective**, Wanqi Zhou et.al., Paper: [http://arxiv.org/abs/2404.19287v1](http://arxiv.org/abs/2404.19287v1)
 - 2024-04-30, **Soft Prompt Generation for Domain Generalization**, Shuanghao Bai et.al., Paper: [http://arxiv.org/abs/2404.19286v1](http://arxiv.org/abs/2404.19286v1)
@@ -5452,7 +5462,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20240502>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240503>back to top</a>)</p>
 
 ## adaptor
 
@@ -5551,10 +5561,11 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20240502>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240503>back to top</a>)</p>
 
 ## object detection
 
+- 2024-05-01, **Object detection under the linear subspace model with application to cryo-EM images**, Amitay Eldar et.al., Paper: [http://arxiv.org/abs/2405.00364v1](http://arxiv.org/abs/2405.00364v1)
 - 2024-04-30, **Visual Fact Checker: Enabling High-Fidelity Detailed Caption Generation**, Yunhao Ge et.al., Paper: [http://arxiv.org/abs/2404.19752v1](http://arxiv.org/abs/2404.19752v1)
 - 2024-04-30, **Quantifying Nematodes through Images: Datasets, Models, and Baselines of Deep Learning**, Zhipeng Yuan et.al., Paper: [http://arxiv.org/abs/2404.19748v1](http://arxiv.org/abs/2404.19748v1)
 - 2024-04-30, **Masked Multi-Query Slot Attention for Unsupervised Object Discovery**, Rishav Pramanik et.al., Paper: [http://arxiv.org/abs/2404.19654v1](http://arxiv.org/abs/2404.19654v1), Code: **[https://github.com/rishavpramanik/maskedmultiqueryslot](https://github.com/rishavpramanik/maskedmultiqueryslot)**
@@ -7948,7 +7959,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20240502>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240503>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
