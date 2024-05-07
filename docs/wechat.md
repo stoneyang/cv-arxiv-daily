@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.05.06
+> Updated on 2024.05.07
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,7 +17,9 @@
 
 ## pretrain
 
-- 2024-05-02, **SATO: Stable Text-to-Motion Framework**, Wenshuo Chen et.al., Paper: [http://arxiv.org/abs/2405.01461v1](http://arxiv.org/abs/2405.01461v1)
+- 2024-05-03, **Unveiling the Potential of LLM-Based ASR on Chinese Open-Source Datasets**, Xuelong Geng et.al., Paper: [http://arxiv.org/abs/2405.02132v1](http://arxiv.org/abs/2405.02132v1)
+- 2024-05-03, **A Mutual Information Perspective on Federated Contrastive Learning**, Christos Louizos et.al., Paper: [http://arxiv.org/abs/2405.02081v1](http://arxiv.org/abs/2405.02081v1)
+- 2024-05-03, **SATO: Stable Text-to-Motion Framework**, Wenshuo Chen et.al., Paper: [http://arxiv.org/abs/2405.01461v2](http://arxiv.org/abs/2405.01461v2), Code: **[https://github.com/sato-team/stable-text-to-motion-framework](https://github.com/sato-team/stable-text-to-motion-framework)**
 - 2024-05-02, **StoryDiffusion: Consistent Self-Attention for Long-Range Image and Video Generation**, Yupeng Zhou et.al., Paper: [http://arxiv.org/abs/2405.01434v1](http://arxiv.org/abs/2405.01434v1), Code: **[https://github.com/hvision-nku/storydiffusion](https://github.com/hvision-nku/storydiffusion)**
 - 2024-05-02, **CromSS: Cross-modal pre-training with noisy labels for remote sensing image segmentation**, Chenying Liu et.al., Paper: [http://arxiv.org/abs/2405.01217v1](http://arxiv.org/abs/2405.01217v1)
 - 2024-05-02, **Language Fairness in Multilingual Information Retrieval**, Eugene Yang et.al., Paper: [http://arxiv.org/abs/2405.00978v1](http://arxiv.org/abs/2405.00978v1), Code: **[https://github.com/hltcoe/peer_measure](https://github.com/hltcoe/peer_measure)**
@@ -2856,10 +2858,12 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20240506>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240507>back to top</a>)</p>
 
 ## downstream
 
+- 2024-05-03, **A semantic loss for ontology classification**, Simon Flügel et.al., Paper: [http://arxiv.org/abs/2405.02083v1](http://arxiv.org/abs/2405.02083v1)
+- 2024-05-03, **SlotGAT: Slot-based Message Passing for Heterogeneous Graph Neural Network**, Ziang Zhou et.al., Paper: [http://arxiv.org/abs/2405.01927v1](http://arxiv.org/abs/2405.01927v1), Code: **[https://github.com/scottjiao/slotgat_icml23](https://github.com/scottjiao/slotgat_icml23)**
 - 2024-05-02, **CromSS: Cross-modal pre-training with noisy labels for remote sensing image segmentation**, Chenying Liu et.al., Paper: [http://arxiv.org/abs/2405.01217v1](http://arxiv.org/abs/2405.01217v1)
 - 2024-05-02, **DLAP: A Deep Learning Augmented Large Language Model Prompting Framework for Software Vulnerability Detection**, Yanjing Yang et.al., Paper: [http://arxiv.org/abs/2405.01202v1](http://arxiv.org/abs/2405.01202v1)
 - 2024-05-02, **Imagine2touch: Predictive Tactile Sensing for Robotic Manipulation using Efficient Low-Dimensional Signals**, Abdallah Ayad et.al., Paper: [http://arxiv.org/abs/2405.01192v1](http://arxiv.org/abs/2405.01192v1), Code: **[https://github.com/AbdallahAyman/Imagine2touch](https://github.com/AbdallahAyman/Imagine2touch)**
@@ -5474,7 +5478,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20240506>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240507>back to top</a>)</p>
 
 ## adaptor
 
@@ -5573,10 +5577,14 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20240506>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240507>back to top</a>)</p>
 
 ## object detection
 
+- 2024-05-02, **Segmentation-Free Outcome Prediction in Head and Neck Cancer: Deep Learning-based Feature Extraction from Multi-Angle Maximum Intensity Projections (MA-MIPs) of PET Images**, Amirhosein Toosi et.al., Paper: [http://arxiv.org/abs/2405.01756v1](http://arxiv.org/abs/2405.01756v1)
+- 2024-05-02, **PointCompress3D -- A Point Cloud Compression Framework for Roadside LiDARs in Intelligent Transportation Systems**, Walter Zimmer et.al., Paper: [http://arxiv.org/abs/2405.01750v1](http://arxiv.org/abs/2405.01750v1)
+- 2024-05-02, **Development of Skip Connection in Deep Neural Networks for Computer Vision and Medical Image Analysis: A Survey**, Guoping Xu et.al., Paper: [http://arxiv.org/abs/2405.01725v1](http://arxiv.org/abs/2405.01725v1), Code: **[https://github.com/apple1986/residual_learning_for_images](https://github.com/apple1986/residual_learning_for_images)**
+- 2024-05-02, **SOAR: Advancements in Small Body Object Detection for Aerial Imagery Using State Space Models and Programmable Gradients**, Tushar Verma et.al., Paper: [http://arxiv.org/abs/2405.01699v1](http://arxiv.org/abs/2405.01699v1)
 - 2024-05-02, **Overcoming LLM Challenges using RAG-Driven Precision in Coffee Leaf Disease Remediation**, Dr. Selva Kumar S et.al., Paper: [http://arxiv.org/abs/2405.01310v1](http://arxiv.org/abs/2405.01310v1)
 - 2024-05-02, **Towards Consistent Object Detection via LiDAR-Camera Synergy**, Kai Luo et.al., Paper: [http://arxiv.org/abs/2405.01258v1](http://arxiv.org/abs/2405.01258v1), Code: **[https://github.com/xifen523/cod](https://github.com/xifen523/cod)**
 - 2024-05-02, **Federated Learning with Heterogeneous Data Handling for Robust Vehicular Object Detection**, Ahmad Khalil et.al., Paper: [http://arxiv.org/abs/2405.01108v1](http://arxiv.org/abs/2405.01108v1)
@@ -7974,7 +7982,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20240506>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240507>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
