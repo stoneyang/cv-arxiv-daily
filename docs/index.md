@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.07
+## Updated on 2024.05.08
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-06**|**Pose Priors from Language Models**|Sanjay Subramanian et.al.|[2405.03689v1](http://arxiv.org/abs/2405.03689v1)|null|
+|**2024-05-06**|**AtomGPT: Atomistic Generative Pre-trained Transformer for Forward and Inverse Materials Design**|Kamal Choudhary et.al.|[2405.03680v1](http://arxiv.org/abs/2405.03680v1)|null|
+|**2024-05-06**|**Enabling High-Sparsity Foundational Llama Models with Efficient Pretraining and Deployment**|Abhinav Agarwalla et.al.|[2405.03594v1](http://arxiv.org/abs/2405.03594v1)|null|
+|**2024-05-06**|**Whispy: Adapting STT Whisper Models to Real-Time Environments**|Antonio Bevilacqua et.al.|[2405.03484v1](http://arxiv.org/abs/2405.03484v1)|null|
+|**2024-05-06**|**Adapting Dual-encoder Vision-language Models for Paraphrased Retrieval**|Jiacheng Cheng et.al.|[2405.03190v1](http://arxiv.org/abs/2405.03190v1)|null|
+|**2024-05-06**|**GeoContrastNet: Contrastive Key-Value Edge Learning for Language-Agnostic Document Understanding**|Nil Biescas et.al.|[2405.03104v1](http://arxiv.org/abs/2405.03104v1)|null|
+|**2024-05-06**|**SketchGPT: Autoregressive Modeling for Sketch Generation and Recognition**|Adarsh Tiwari et.al.|[2405.03099v1](http://arxiv.org/abs/2405.03099v1)|null|
+|**2024-05-05**|**RepAugment: Input-Agnostic Representation-Level Augmentation for Respiratory Sound Classification**|June-Woo Kim et.al.|[2405.02996v1](http://arxiv.org/abs/2405.02996v1)|null|
+|**2024-05-05**|**Score-based Generative Priors Guided Model-driven Network for MRI Reconstruction**|Xiaoyu Qiao et.al.|[2405.02958v1](http://arxiv.org/abs/2405.02958v1)|null|
+|**2024-05-05**|**IceFormer: Accelerated Inference with Long-Sequence Transformers on CPUs**|Yuzhen Mao et.al.|[2405.02842v1](http://arxiv.org/abs/2405.02842v1)|null|
 |**2024-05-03**|**Unveiling the Potential of LLM-Based ASR on Chinese Open-Source Datasets**|Xuelong Geng et.al.|[2405.02132v1](http://arxiv.org/abs/2405.02132v1)|null|
 |**2024-05-03**|**A Mutual Information Perspective on Federated Contrastive Learning**|Christos Louizos et.al.|[2405.02081v1](http://arxiv.org/abs/2405.02081v1)|null|
 |**2024-05-03**|**SATO: Stable Text-to-Motion Framework**|Wenshuo Chen et.al.|[2405.01461v2](http://arxiv.org/abs/2405.01461v2)|**[link](https://github.com/sato-team/stable-text-to-motion-framework)**|
@@ -2864,13 +2874,22 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240507>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240508>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-03**|**A semantic loss for ontology classification**|Simon Flügel et.al.|[2405.02083v1](http://arxiv.org/abs/2405.02083v1)|null|
+|**2024-05-06**|**On the Theory of Cross-Modality Distillation with Contrastive Learning**|Hangyu Lin et.al.|[2405.03355v1](http://arxiv.org/abs/2405.03355v1)|null|
+|**2024-05-06**|**Modality Prompts for Arbitrary Modality Salient Object Detection**|Nianchang Huang et.al.|[2405.03351v1](http://arxiv.org/abs/2405.03351v1)|null|
+|**2024-05-06**|**Mind the Gap Between Synthetic and Real: Utilizing Transfer Learning to Probe the Boundaries of Stable Diffusion Generated Data**|Leonhard Hennicke et.al.|[2405.03243v1](http://arxiv.org/abs/2405.03243v1)|null|
+|**2024-05-06**|**Lory: Fully Differentiable Mixture-of-Experts for Autoregressive Language Model Pre-training**|Zexuan Zhong et.al.|[2405.03133v1](http://arxiv.org/abs/2405.03133v1)|null|
+|**2024-05-04**|**MMEarth: Exploring Multi-Modal Pretext Tasks For Geospatial Representation Learning**|Vishal Nedungadi et.al.|[2405.02771v1](http://arxiv.org/abs/2405.02771v1)|null|
+|**2024-05-04**|**Beyond Relevance: Evaluate and Improve Retrievers on Perspective Awareness**|Xinran Zhao et.al.|[2405.02714v1](http://arxiv.org/abs/2405.02714v1)|null|
+|**2024-05-04**|**TiRE-GAN: Task-Incentivized Generative Learning Models for Radiomap Estimation with Radio Propagation Model**|Yueling Zhou et.al.|[2405.02567v1](http://arxiv.org/abs/2405.02567v1)|null|
+|**2024-05-03**|**Spatio-Temporal SwinMAE: A Swin Transformer based Multiscale Representation Learner for Temporal Satellite Imagery**|Yohei Nakayama et.al.|[2405.02512v1](http://arxiv.org/abs/2405.02512v1)|null|
+|**2024-05-03**|**Functional Imaging Constrained Diffusion for Brain PET Synthesis from Structural MRI**|Minhui Yu et.al.|[2405.02504v1](http://arxiv.org/abs/2405.02504v1)|null|
+|**2024-05-03**|**A semantic loss for ontology classification**|Simon Flügel et.al.|[2405.02083v1](http://arxiv.org/abs/2405.02083v1)|**[link](https://github.com/cheb-ai/python-chebai)**|
 |**2024-05-03**|**SlotGAT: Slot-based Message Passing for Heterogeneous Graph Neural Network**|Ziang Zhou et.al.|[2405.01927v1](http://arxiv.org/abs/2405.01927v1)|**[link](https://github.com/scottjiao/slotgat_icml23)**|
 |**2024-05-02**|**CromSS: Cross-modal pre-training with noisy labels for remote sensing image segmentation**|Chenying Liu et.al.|[2405.01217v1](http://arxiv.org/abs/2405.01217v1)|null|
 |**2024-05-02**|**DLAP: A Deep Learning Augmented Large Language Model Prompting Framework for Software Vulnerability Detection**|Yanjing Yang et.al.|[2405.01202v1](http://arxiv.org/abs/2405.01202v1)|null|
@@ -5486,7 +5505,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20240507>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240508>back to top</a>)</p>
 
 ## adaptor
 
@@ -5587,12 +5606,22 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240507>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240508>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-06**|**RepVGG-GELAN: Enhanced GELAN with VGG-STYLE ConvNets for Brain Tumour Detection**|Thennarasi Balakrishnan et.al.|[2405.03541v1](http://arxiv.org/abs/2405.03541v1)|**[link](https://github.com/thensib/repvgg-gelan)**|
+|**2024-05-06**|**Low-light Object Detection**|Pengpeng Li et.al.|[2405.03519v1](http://arxiv.org/abs/2405.03519v1)|null|
+|**2024-05-06**|**Salient Object Detection From Arbitrary Modalities**|Nianchang Huang et.al.|[2405.03352v1](http://arxiv.org/abs/2405.03352v1)|null|
+|**2024-05-06**|**Modality Prompts for Arbitrary Modality Salient Object Detection**|Nianchang Huang et.al.|[2405.03351v1](http://arxiv.org/abs/2405.03351v1)|null|
+|**2024-05-06**|**PTQ4SAM: Post-Training Quantization for Segment Anything**|Chengtao Lv et.al.|[2405.03144v1](http://arxiv.org/abs/2405.03144v1)|**[link](https://github.com/chengtao-lv/ptq4sam)**|
+|**2024-05-05**|**Performance Evaluation of Real-Time Object Detection for Electric Scooters**|Dong Chen et.al.|[2405.03039v1](http://arxiv.org/abs/2405.03039v1)|**[link](https://github.com/dongchen06/scooterdet)**|
+|**2024-05-05**|**SalFAU-Net: Saliency Fusion Attention U-Net for Salient Object Detection**|Kassaw Abraham Mulat et.al.|[2405.02906v1](http://arxiv.org/abs/2405.02906v1)|null|
+|**2024-05-07**|**Adaptive Guidance Learning for Camouflaged Object Detection**|Zhennan Chen et.al.|[2405.02824v2](http://arxiv.org/abs/2405.02824v2)|null|
+|**2024-05-05**|**PVTransformer: Point-to-Voxel Transformer for Scalable 3D Object Detection**|Zhaoqi Leng et.al.|[2405.02811v1](http://arxiv.org/abs/2405.02811v1)|null|
+|**2024-05-05**|**Fused attention mechanism-based ore sorting network**|Junjiang Zhen et.al.|[2405.02785v1](http://arxiv.org/abs/2405.02785v1)|null|
 |**2024-05-02**|**Segmentation-Free Outcome Prediction in Head and Neck Cancer: Deep Learning-based Feature Extraction from Multi-Angle Maximum Intensity Projections (MA-MIPs) of PET Images**|Amirhosein Toosi et.al.|[2405.01756v1](http://arxiv.org/abs/2405.01756v1)|null|
 |**2024-05-02**|**PointCompress3D -- A Point Cloud Compression Framework for Roadside LiDARs in Intelligent Transportation Systems**|Walter Zimmer et.al.|[2405.01750v1](http://arxiv.org/abs/2405.01750v1)|null|
 |**2024-05-02**|**Development of Skip Connection in Deep Neural Networks for Computer Vision and Medical Image Analysis: A Survey**|Guoping Xu et.al.|[2405.01725v1](http://arxiv.org/abs/2405.01725v1)|**[link](https://github.com/apple1986/residual_learning_for_images)**|
@@ -7994,7 +8023,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20240507>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240508>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
