@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.05.09
+> Updated on 2024.05.10
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,13 @@
 
 ## pretrain
 
+- 2024-05-08, **Encoder-Decoder Framework for Interactive Free Verses with Generation with Controllable High-Quality Rhyming**, Tommaso Pasini et.al., Paper: [http://arxiv.org/abs/2405.05176v1](http://arxiv.org/abs/2405.05176v1)
+- 2024-05-08, **Seeds of Stereotypes: A Large-Scale Textual Analysis of Race and Gender Associations with Diseases in Online Sources**, Lasse Hyldig Hansen et.al., Paper: [http://arxiv.org/abs/2405.05049v1](http://arxiv.org/abs/2405.05049v1)
+- 2024-05-08, **${M^2D}$NeRF: Multi-Modal Decomposition NeRF with 3D Feature Fields**, Ning Wang et.al., Paper: [http://arxiv.org/abs/2405.05010v1](http://arxiv.org/abs/2405.05010v1)
+- 2024-05-08, **ChuXin: 1.6B Technical Report**, Xiaomin Zhuang et.al., Paper: [http://arxiv.org/abs/2405.04828v1](http://arxiv.org/abs/2405.04828v1)
+- 2024-05-07, **Remote Diffusion**, Kunal Sunil Kasodekar et.al., Paper: [http://arxiv.org/abs/2405.04717v1](http://arxiv.org/abs/2405.04717v1)
+- 2024-05-07, **Bridging the Bosphorus: Advancing Turkish Large Language Models through Strategies for Low-Resource Language Adaptation and Benchmarking**, Emre Can Acikgoz et.al., Paper: [http://arxiv.org/abs/2405.04685v1](http://arxiv.org/abs/2405.04685v1)
+- 2024-05-07, **TALC: Time-Aligned Captions for Multi-Scene Text-to-Video Generation**, Hritik Bansal et.al., Paper: [http://arxiv.org/abs/2405.04682v1](http://arxiv.org/abs/2405.04682v1)
 - 2024-05-07, **S3Former: Self-supervised High-resolution Transformer for Solar PV Profiling**, Minh Tran et.al., Paper: [http://arxiv.org/abs/2405.04489v1](http://arxiv.org/abs/2405.04489v1)
 - 2024-05-08, **DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model**, DeepSeek-AI et.al., Paper: [http://arxiv.org/abs/2405.04434v2](http://arxiv.org/abs/2405.04434v2), Code: **[https://github.com/deepseek-ai/deepseek-v2](https://github.com/deepseek-ai/deepseek-v2)**
 - 2024-05-07, **Cross-IQA: Unsupervised Learning for Image Quality Assessment**, Zhen Zhang et.al., Paper: [http://arxiv.org/abs/2405.04311v1](http://arxiv.org/abs/2405.04311v1)
@@ -2878,15 +2885,18 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20240509>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240510>back to top</a>)</p>
 
 ## downstream
 
+- 2024-05-08, **Molecule-Space: Free Lunch in Unified Multimodal Space via Knowledge Fusion**, Zehan Wang et.al., Paper: [http://arxiv.org/abs/2405.04883v1](http://arxiv.org/abs/2405.04883v1), Code: **[https://github.com/moleculespace/moleculespace](https://github.com/moleculespace/moleculespace)**
+- 2024-05-08, **Logical Negation Augmenting and Debiasing for Prompt-based Methods**, Yitian Li et.al., Paper: [http://arxiv.org/abs/2405.04872v1](http://arxiv.org/abs/2405.04872v1)
+- 2024-05-08, **Zero-shot LLM-guided Counterfactual Generation for Text**, Amrita Bhattacharjee et.al., Paper: [http://arxiv.org/abs/2405.04793v1](http://arxiv.org/abs/2405.04793v1)
 - 2024-05-07, **Tactile-Augmented Radiance Fields**, Yiming Dou et.al., Paper: [http://arxiv.org/abs/2405.04534v1](http://arxiv.org/abs/2405.04534v1)
 - 2024-05-07, **Adapting WavLM for Speech Emotion Recognition**, Daria Diatlova et.al., Paper: [http://arxiv.org/abs/2405.04485v1](http://arxiv.org/abs/2405.04485v1)
 - 2024-05-07, **DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving**, Chen Min et.al., Paper: [http://arxiv.org/abs/2405.04390v1](http://arxiv.org/abs/2405.04390v1)
 - 2024-05-07, **Choose What You Need: Disentangled Representation Learning for Scene Text Recognition, Removal and Editing**, Boqiang Zhang et.al., Paper: [http://arxiv.org/abs/2405.04377v1](http://arxiv.org/abs/2405.04377v1)
-- 2024-05-07, **Open Implementation and Study of BEST-RQ for Speech Processing**, Ryan Whetten et.al., Paper: [http://arxiv.org/abs/2405.04296v1](http://arxiv.org/abs/2405.04296v1)
+- 2024-05-07, **Open Implementation and Study of BEST-RQ for Speech Processing**, Ryan Whetten et.al., Paper: [http://arxiv.org/abs/2405.04296v1](http://arxiv.org/abs/2405.04296v1), Code: **[https://github.com/speechbrain/speechbrain](https://github.com/speechbrain/speechbrain)**
 - 2024-05-07, **Exploring Correlations of Self-supervised Tasks for Graphs**, Taoran Fang et.al., Paper: [http://arxiv.org/abs/2405.04245v1](http://arxiv.org/abs/2405.04245v1)
 - 2024-05-07, **MEDVOC: Vocabulary Adaptation for Fine-tuning Pre-trained Language Models on Medical Text Summarization**, Gunjan Balde et.al., Paper: [http://arxiv.org/abs/2405.04163v1](http://arxiv.org/abs/2405.04163v1), Code: **[https://github.com/gb-kgp/medvoc](https://github.com/gb-kgp/medvoc)**
 - 2024-05-07, **Enriched BERT Embeddings for Scholarly Publication Classification**, Benjamin Wolff et.al., Paper: [http://arxiv.org/abs/2405.04136v1](http://arxiv.org/abs/2405.04136v1)
@@ -5515,10 +5525,11 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20240509>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240510>back to top</a>)</p>
 
 ## adaptor
 
+- 2024-05-08, **Frequency-Assisted Mamba for Remote Sensing Image Super-Resolution**, Yi Xiao et.al., Paper: [http://arxiv.org/abs/2405.04964v1](http://arxiv.org/abs/2405.04964v1)
 - 2024-04-24, **SQIAsignHD: SQIsignHD Adaptor Signature**, Farzin Renan et.al., Paper: [http://arxiv.org/abs/2404.09026v3](http://arxiv.org/abs/2404.09026v3)
 - 2024-04-02, **Adaptive Feature Fusion Neural Network for Glaucoma Segmentation on Unseen Fundus Images**, Jiyuan Zhong et.al., Paper: [http://arxiv.org/abs/2404.02084v1](http://arxiv.org/abs/2404.02084v1)
 - 2024-03-28, **Collaborative Knowledge Infusion for Low-resource Stance Detection**, Ming Yan et.al., Paper: [http://arxiv.org/abs/2403.19219v1](http://arxiv.org/abs/2403.19219v1)
@@ -5614,10 +5625,13 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20240509>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240510>back to top</a>)</p>
 
 ## object detection
 
+- 2024-05-08, **Reviewing Intelligent Cinematography: AI research for camera-based video production**, Adrian Azzarelli et.al., Paper: [http://arxiv.org/abs/2405.05039v1](http://arxiv.org/abs/2405.05039v1)
+- 2024-05-08, **GoalGrasp: Grasping Goals in Partially Occluded Scenarios without Grasp Training**, Shun Gui et.al., Paper: [http://arxiv.org/abs/2405.04783v1](http://arxiv.org/abs/2405.04783v1)
+- 2024-05-07, **A Novel Wide-Area Multiobject Detection System with High-Probability Region Searching**, Xianlei Long et.al., Paper: [http://arxiv.org/abs/2405.04589v1](http://arxiv.org/abs/2405.04589v1)
 - 2024-05-07, **DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving**, Chen Min et.al., Paper: [http://arxiv.org/abs/2405.04390v1](http://arxiv.org/abs/2405.04390v1)
 - 2024-05-07, **A New Dataset and Comparative Study for Aphid Cluster Detection and Segmentation in Sorghum Fields**, Raiyan Rahman et.al., Paper: [http://arxiv.org/abs/2405.04305v1](http://arxiv.org/abs/2405.04305v1)
 - 2024-05-07, **ViewFormer: Exploring Spatiotemporal Modeling for Multi-View 3D Occupancy Perception via View-Guided Transformers**, Jinke Li et.al., Paper: [http://arxiv.org/abs/2405.04299v1](http://arxiv.org/abs/2405.04299v1)
@@ -8034,7 +8048,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20240509>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240510>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
