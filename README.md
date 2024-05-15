@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.14
+## Updated on 2024.05.15
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-13**|**Improving Breast Cancer Grade Prediction with Multiparametric MRI Created Using Optimized Synthetic Correlated Diffusion Imaging**|Chi-en Amy Tai et.al.|[2405.07861v1](http://arxiv.org/abs/2405.07861v1)|null|
+|**2024-05-13**|**SAR Image Synthesis with Diffusion Models**|Denisa Qosja et.al.|[2405.07776v1](http://arxiv.org/abs/2405.07776v1)|null|
+|**2024-05-13**|**LlamaTurk: Adapting Open-Source Generative Large Language Models for Low-Resource Language**|Cagri Toraman et.al.|[2405.07745v1](http://arxiv.org/abs/2405.07745v1)|**[link](https://github.com/metunlp/llamaturk)**|
+|**2024-05-13**|**Environmental Matching Attack Against Unmanned Aerial Vehicles Object Detection**|Dehong Kong et.al.|[2405.07595v1](http://arxiv.org/abs/2405.07595v1)|null|
+|**2024-05-13**|**Thai Universal Dependency Treebank**|Panyut Sriwirote et.al.|[2405.07586v1](http://arxiv.org/abs/2405.07586v1)|null|
+|**2024-05-13**|**Consistency Policy: Accelerated Visuomotor Policies via Consistency Distillation**|Aaditya Prasad et.al.|[2405.07503v1](http://arxiv.org/abs/2405.07503v1)|null|
+|**2024-05-13**|**CLIP-Powered TASS: Target-Aware Single-Stream Network for Audio-Visual Question Answering**|Yuanyuan Jiang et.al.|[2405.07451v1](http://arxiv.org/abs/2405.07451v1)|null|
+|**2024-05-13**|**Sakuga-42M Dataset: Scaling Up Cartoon Research**|Zhenglin Pan et.al.|[2405.07425v1](http://arxiv.org/abs/2405.07425v1)|**[link](https://github.com/zhenglinpan/SakugaDataset)**|
+|**2024-05-13**|**MoVL:Exploring Fusion Strategies for the Domain-Adaptive Application of Pretrained Models in Medical Imaging Tasks**|Haijiang Tian et.al.|[2405.07411v1](http://arxiv.org/abs/2405.07411v1)|null|
+|**2024-05-12**|**Zero Shot Context-Based Object Segmentation using SLIP (SAM+CLIP)**|Saaketh Koundinya Gundavarapu et.al.|[2405.07284v1](http://arxiv.org/abs/2405.07284v1)|null|
 |**2024-05-10**|**Federated Document Visual Question Answering: A Pilot Study**|Khanh Nguyen et.al.|[2405.06636v1](http://arxiv.org/abs/2405.06636v1)|null|
 |**2024-05-10**|**LMD3: Language Model Data Density Dependence**|John Kirchenbauer et.al.|[2405.06331v1](http://arxiv.org/abs/2405.06331v1)|null|
 |**2024-05-10**|**Decoding Emotions in Abstract Art: Cognitive Plausibility of CLIP in Recognizing Color-Emotion Associations**|Hanna-Sophia Widhoelzl et.al.|[2405.06319v1](http://arxiv.org/abs/2405.06319v1)|null|
@@ -2898,12 +2908,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240514>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240515>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-13**|**Deep Learning-Based Object Pose Estimation: A Comprehensive Survey**|Jian Liu et.al.|[2405.07801v1](http://arxiv.org/abs/2405.07801v1)|**[link](https://github.com/cnjianliu/awesome-object-pose-estimation)**|
+|**2024-05-13**|**DEPTH: Discourse Education through Pre-Training Hierarchically**|Zachary Bamberger et.al.|[2405.07788v1](http://arxiv.org/abs/2405.07788v1)|**[link](https://github.com/zbambergerNLP/depth)**|
+|**2024-05-13**|**LlamaTurk: Adapting Open-Source Generative Large Language Models for Low-Resource Language**|Cagri Toraman et.al.|[2405.07745v1](http://arxiv.org/abs/2405.07745v1)|**[link](https://github.com/metunlp/llamaturk)**|
+|**2024-05-13**|**MS MARCO Web Search: a Large-scale Information-rich Web Dataset with Millions of Real Click Labels**|Qi Chen et.al.|[2405.07526v1](http://arxiv.org/abs/2405.07526v1)|**[link](https://github.com/microsoft/ms-marco-web-search)**|
+|**2024-05-13**|**Rene: A Pre-trained Multi-modal Architecture for Auscultation of Respiratory Diseases**|Pengfei Zhang et.al.|[2405.07442v1](http://arxiv.org/abs/2405.07442v1)|null|
+|**2024-05-13**|**Don't Chase Your Tail! Missing Key Aspects Augmentation in Textual Vulnerability Descriptions of Long-tail Software through Feature Inference**|Linyi Han et.al.|[2405.07430v1](http://arxiv.org/abs/2405.07430v1)|null|
+|**2024-05-14**|**Binning as a Pretext Task: Improving Self-Supervised Learning in Tabular Domains**|Kyungeun Lee et.al.|[2405.07414v2](http://arxiv.org/abs/2405.07414v2)|**[link](https://github.com/kyungeun-lee/tabularbinning)**|
+|**2024-05-12**|**Building a Strong Pre-Training Baseline for Universal 3D Large-Scale Perception**|Haoming Chen et.al.|[2405.07201v1](http://arxiv.org/abs/2405.07201v1)|null|
+|**2024-05-11**|**Piccolo2: General Text Embedding with Multi-task Hybrid Loss Training**|Junqin Huang et.al.|[2405.06932v1](http://arxiv.org/abs/2405.06932v1)|null|
+|**2024-05-11**|**UniGarmentManip: A Unified Framework for Category-Level Garment Manipulation via Dense Visual Correspondence**|Ruihai Wu et.al.|[2405.06903v1](http://arxiv.org/abs/2405.06903v1)|null|
 |**2024-05-10**|**Heterogeneous Graph Neural Networks with Loss-decrease-aware Curriculum Learning**|Yili Wang et.al.|[2405.06522v1](http://arxiv.org/abs/2405.06522v1)|**[link](https://github.com/wangyili00/ldhgnn)**|
 |**2024-05-10**|**Pseudo-Prompt Generating in Pre-trained Vision-Language Models for Multi-Label Medical Image Classification**|Yaoqin Ye et.al.|[2405.06468v1](http://arxiv.org/abs/2405.06468v1)|null|
 |**2024-05-10**|**ACTION: Augmentation and Computation Toolbox for Brain Network Analysis with Functional MRI**|Yuqi Fang et.al.|[2405.06178v1](http://arxiv.org/abs/2405.06178v1)|null|
@@ -5551,7 +5571,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20240514>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240515>back to top</a>)</p>
 
 ## adaptor
 
@@ -5565,7 +5585,7 @@
 |**2024-03-13**|**SoK: Reducing the Vulnerability of Fine-tuned Language Models to Membership Inference Attacks**|Guy Amit et.al.|[2403.08481v1](http://arxiv.org/abs/2403.08481v1)|null|
 |**2024-03-12**|**SAMDA: Leveraging SAM on Few-Shot Domain Adaptation for Electronic Microscopy Segmentation**|Yiran Wang et.al.|[2403.07951v1](http://arxiv.org/abs/2403.07951v1)|null|
 |**2024-03-10**|**Harmonious Group Choreography with Trajectory-Controllable Diffusion**|Yuqin Dai et.al.|[2403.06189v1](http://arxiv.org/abs/2403.06189v1)|null|
-|**2024-02-23**|**Where Visual Speech Meets Language: VSP-LLM Framework for Efficient and Context-Aware Visual Speech Processing**|Jeong Hun Yeo et.al.|[2402.15151v1](http://arxiv.org/abs/2402.15151v1)|**[link](https://github.com/sally-sh/vsp-llm)**|
+|**2024-05-14**|**Where Visual Speech Meets Language: VSP-LLM Framework for Efficient and Context-Aware Visual Speech Processing**|Jeong Hun Yeo et.al.|[2402.15151v2](http://arxiv.org/abs/2402.15151v2)|**[link](https://github.com/sally-sh/vsp-llm)**|
 |**2024-02-21**|**StyleDubber: Towards Multi-Scale Style Learning for Movie Dubbing**|Gaoxiang Cong et.al.|[2402.12636v2](http://arxiv.org/abs/2402.12636v2)|null|
 |**2024-02-19**|**Parameter Efficient Finetuning for Speech Emotion Recognition and Domain Adaptation**|Nineli Lashkarashvili et.al.|[2402.11747v1](http://arxiv.org/abs/2402.11747v1)|null|
 |**2024-02-05**|**Time-, Memory- and Parameter-Efficient Visual Adaptation**|Otniel-Bogdan Mercea et.al.|[2402.02887v1](http://arxiv.org/abs/2402.02887v1)|null|
@@ -5653,12 +5673,22 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240514>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240515>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-13**|**oTTC: Object Time-to-Contact for Motion Estimation in Autonomous Driving**|Abdul Hannan Khan et.al.|[2405.07698v1](http://arxiv.org/abs/2405.07698v1)|null|
+|**2024-05-13**|**MonoMAE: Enhancing Monocular 3D Detection through Depth-Aware Masked Autoencoders**|Xueying Jiang et.al.|[2405.07696v1](http://arxiv.org/abs/2405.07696v1)|null|
+|**2024-05-13**|**Quality-aware Selective Fusion Network for V-D-T Salient Object Detection**|Liuxin Bao et.al.|[2405.07655v1](http://arxiv.org/abs/2405.07655v1)|null|
+|**2024-05-13**|**Fast Training Data Acquisition for Object Detection and Segmentation using Black Screen Luminance Keying**|Thomas Pöllabauer et.al.|[2405.07653v1](http://arxiv.org/abs/2405.07653v1)|null|
+|**2024-05-13**|**Integrity Monitoring of 3D Object Detection in Automated Driving Systems using Raw Activation Patterns and Spatial Filtering**|Hakan Yekta Yatbaz et.al.|[2405.07600v1](http://arxiv.org/abs/2405.07600v1)|null|
+|**2024-05-13**|**Environmental Matching Attack Against Unmanned Aerial Vehicles Object Detection**|Dehong Kong et.al.|[2405.07595v1](http://arxiv.org/abs/2405.07595v1)|null|
+|**2024-05-13**|**Wild Berry image dataset collected in Finnish forests and peatlands using drones**|Luigi Riz et.al.|[2405.07550v1](http://arxiv.org/abs/2405.07550v1)|null|
+|**2024-05-13**|**Enhancing 3D Object Detection by Using Neural Network with Self-adaptive Thresholding**|Houze Liu et.al.|[2405.07479v1](http://arxiv.org/abs/2405.07479v1)|null|
+|**2024-05-12**|**Building a Strong Pre-Training Baseline for Universal 3D Large-Scale Perception**|Haoming Chen et.al.|[2405.07201v1](http://arxiv.org/abs/2405.07201v1)|null|
+|**2024-05-12**|**Differentiable Model Scaling using Differentiable Topk**|Kai Liu et.al.|[2405.07194v1](http://arxiv.org/abs/2405.07194v1)|null|
 |**2024-05-10**|**How to Augment for Atmospheric Turbulence Effects on Thermal Adapted Object Detection Models?**|Engin Uzun et.al.|[2405.06383v1](http://arxiv.org/abs/2405.06383v1)|null|
 |**2024-05-10**|**Precise Apple Detection and Localization in Orchards using YOLOv5 for Robotic Harvesting Systems**|Jiang Ziyue et.al.|[2405.06260v1](http://arxiv.org/abs/2405.06260v1)|null|
 |**2024-05-09**|**CSA-Net: Channel-wise Spatially Autocorrelated Attention Networks**|Nick et.al.|[2405.05755v1](http://arxiv.org/abs/2405.05755v1)|null|
@@ -8084,7 +8114,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20240514>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240515>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
