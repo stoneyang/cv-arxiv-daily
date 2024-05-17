@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.05.16
+> Updated on 2024.05.17
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,11 @@
 
 ## pretrain
 
+- 2024-05-15, **Time-Equivariant Contrastive Learning for Degenerative Disease Progression in Retinal OCT**, Taha Emre et.al., Paper: [http://arxiv.org/abs/2405.09404v1](http://arxiv.org/abs/2405.09404v1)
+- 2024-05-15, **Matching domain experts by training from scratch on domain knowledge**, Xiaoliang Luo et.al., Paper: [http://arxiv.org/abs/2405.09395v1](http://arxiv.org/abs/2405.09395v1)
+- 2024-05-15, **HumanRankEval: Automatic Evaluation of LMs as Conversational Assistants**, Milan Gritta et.al., Paper: [http://arxiv.org/abs/2405.09186v1](http://arxiv.org/abs/2405.09186v1)
+- 2024-05-14, **Self-supervised vision-langage alignment of deep learning representations for bone X-rays analysis**, Alexandre Englebert et.al., Paper: [http://arxiv.org/abs/2405.08932v1](http://arxiv.org/abs/2405.08932v1)
+- 2024-05-14, **CLIP with Quality Captions: A Strong Pretraining for Vision Tasks**, Pavan Kumar Anasosalu Vasu et.al., Paper: [http://arxiv.org/abs/2405.08911v1](http://arxiv.org/abs/2405.08911v1)
 - 2024-05-14, **Hunyuan-DiT: A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding**, Zhimin Li et.al., Paper: [http://arxiv.org/abs/2405.08748v1](http://arxiv.org/abs/2405.08748v1), Code: **[https://github.com/tencent/hunyuandit](https://github.com/tencent/hunyuandit)**
 - 2024-05-14, **Self-supervised learning improves robustness of deep learning lung tumor segmentation to CT imaging differences**, Jue Jiang et.al., Paper: [http://arxiv.org/abs/2405.08657v1](http://arxiv.org/abs/2405.08657v1)
 - 2024-05-14, **Hearing Touch: Audio-Visual Pretraining for Contact-Rich Manipulation**, Jared Mejia et.al., Paper: [http://arxiv.org/abs/2405.08576v1](http://arxiv.org/abs/2405.08576v1)
@@ -2915,10 +2920,15 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20240516>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240517>back to top</a>)</p>
 
 ## downstream
 
+- 2024-05-15, **SA-FedLora: Adaptive Parameter Allocation for Efficient Federated Learning with LoRA Tuning**, Yuning Yang et.al., Paper: [http://arxiv.org/abs/2405.09394v1](http://arxiv.org/abs/2405.09394v1)
+- 2024-05-15, **A safety realignment framework via subspace-oriented model fusion for large language models**, Xin Yi et.al., Paper: [http://arxiv.org/abs/2405.09055v1](http://arxiv.org/abs/2405.09055v1)
+- 2024-05-14, **Self-supervised vision-langage alignment of deep learning representations for bone X-rays analysis**, Alexandre Englebert et.al., Paper: [http://arxiv.org/abs/2405.08932v1](http://arxiv.org/abs/2405.08932v1)
+- 2024-05-16, **Neural Collapse Meets Differential Privacy: Curious Behaviors of NoisyGD with Near-perfect Representation Learning**, Chendi Wang et.al., Paper: [http://arxiv.org/abs/2405.08920v2](http://arxiv.org/abs/2405.08920v2)
+- 2024-05-14, **CLIP with Quality Captions: A Strong Pretraining for Vision Tasks**, Pavan Kumar Anasosalu Vasu et.al., Paper: [http://arxiv.org/abs/2405.08911v1](http://arxiv.org/abs/2405.08911v1)
 - 2024-05-14, **Investigating Design Choices in Joint-Embedding Predictive Architectures for General Audio Representation Learning**, Alain Riou et.al., Paper: [http://arxiv.org/abs/2405.08679v1](http://arxiv.org/abs/2405.08679v1)
 - 2024-05-14, **Self-supervised learning improves robustness of deep learning lung tumor segmentation to CT imaging differences**, Jue Jiang et.al., Paper: [http://arxiv.org/abs/2405.08657v1](http://arxiv.org/abs/2405.08657v1)
 - 2024-05-14, **Improving Transformers with Dynamically Composable Multi-Head Attention**, Da Xiao et.al., Paper: [http://arxiv.org/abs/2405.08553v1](http://arxiv.org/abs/2405.08553v1), Code: **[https://github.com/caiyun-ai/dcformer](https://github.com/caiyun-ai/dcformer)**
@@ -5582,7 +5592,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20240516>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240517>back to top</a>)</p>
 
 ## adaptor
 
@@ -5682,10 +5692,12 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20240516>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240517>back to top</a>)</p>
 
 ## object detection
 
+- 2024-05-15, **Dynamic Loss Decay based Robust Oriented Object Detection on Remote Sensing Images with Noisy Labels**, Guozhang Liu et.al., Paper: [http://arxiv.org/abs/2405.09024v1](http://arxiv.org/abs/2405.09024v1)
+- 2024-05-14, **CLIP with Quality Captions: A Strong Pretraining for Vision Tasks**, Pavan Kumar Anasosalu Vasu et.al., Paper: [http://arxiv.org/abs/2405.08911v1](http://arxiv.org/abs/2405.08911v1)
 - 2024-05-14, **Open-Vocabulary Object Detection via Neighboring Region Attention Alignment**, Sunyuan Qiang et.al., Paper: [http://arxiv.org/abs/2405.08593v1](http://arxiv.org/abs/2405.08593v1)
 - 2024-05-14, **RDPN6D: Residual-based Dense Point-wise Network for 6Dof Object Pose Estimation Based on RGB-D Images**, Zong-Wei Hong et.al., Paper: [http://arxiv.org/abs/2405.08483v1](http://arxiv.org/abs/2405.08483v1), Code: **[https://github.com/ai-application-and-integration-lab/rdpn6d](https://github.com/ai-application-and-integration-lab/rdpn6d)**
 - 2024-05-14, **Multimodal Collaboration Networks for Geospatial Vehicle Detection in Dense, Occluded, and Large-Scale Events**, Xin Wu et.al., Paper: [http://arxiv.org/abs/2405.08251v1](http://arxiv.org/abs/2405.08251v1), Code: **[https://github.com/shank2358/mudet](https://github.com/shank2358/mudet)**
@@ -8124,7 +8136,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20240516>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240517>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
