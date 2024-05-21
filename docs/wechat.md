@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.05.20
+> Updated on 2024.05.21
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,14 @@
 
 ## pretrain
 
+- 2024-05-17, **FA-Depth: Toward Fast and Accurate Self-supervised Monocular Depth Estimation**, Fei Wang et.al., Paper: [http://arxiv.org/abs/2405.10885v1](http://arxiv.org/abs/2405.10885v1), Code: **[https://github.com/fwucas/fa-depth](https://github.com/fwucas/fa-depth)**
+- 2024-05-17, **Multicenter Privacy-Preserving Model Training for Deep Learning Brain Metastases Autosegmentation**, Yixing Huang et.al., Paper: [http://arxiv.org/abs/2405.10870v1](http://arxiv.org/abs/2405.10870v1)
+- 2024-05-17, **Improving face generation quality and prompt following with synthetic captions**, Michail Tarasiou et.al., Paper: [http://arxiv.org/abs/2405.10864v1](http://arxiv.org/abs/2405.10864v1)
+- 2024-05-17, **Open-Vocabulary Spatio-Temporal Action Detection**, Tao Wu et.al., Paper: [http://arxiv.org/abs/2405.10832v1](http://arxiv.org/abs/2405.10832v1)
+- 2024-05-17, **Specialising and Analysing Instruction-Tuned and Byte-Level Language Models for Organic Reaction Prediction**, Jiayun Pang et.al., Paper: [http://arxiv.org/abs/2405.10625v1](http://arxiv.org/abs/2405.10625v1)
+- 2024-05-17, **UniCL: A Universal Contrastive Learning Framework for Large Time Series Models**, Jiawei Li et.al., Paper: [http://arxiv.org/abs/2405.10597v1](http://arxiv.org/abs/2405.10597v1)
+- 2024-05-17, **A Deep Learning Approach to Heterogeneous Consumer Aesthetics in Retail Fashion**, Pranjal Rawat et.al., Paper: [http://arxiv.org/abs/2405.10498v1](http://arxiv.org/abs/2405.10498v1)
+- 2024-05-16, **Data Selection for Transfer Unlearning**, Nazanin Mohammadi Sepahvand et.al., Paper: [http://arxiv.org/abs/2405.10425v1](http://arxiv.org/abs/2405.10425v1)
 - 2024-05-16, **Analogist: Out-of-the-box Visual In-Context Learning with Image Diffusion Model**, Zheng Gu et.al., Paper: [http://arxiv.org/abs/2405.10316v1](http://arxiv.org/abs/2405.10316v1)
 - 2024-05-16, **Libra: Building Decoupled Vision System on Large Language Models**, Yifan Xu et.al., Paper: [http://arxiv.org/abs/2405.10140v1](http://arxiv.org/abs/2405.10140v1), Code: **[https://github.com/yifanxu74/libra](https://github.com/yifanxu74/libra)**
 - 2024-05-16, **Continuous Transfer Learning for UAV Communication-aware Trajectory Design**, Chenrui Sun et.al., Paper: [http://arxiv.org/abs/2405.10087v1](http://arxiv.org/abs/2405.10087v1)
@@ -2930,10 +2938,19 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20240520>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240521>back to top</a>)</p>
 
 ## downstream
 
+- 2024-05-17, **DINO as a von Mises-Fisher mixture model**, Hariprasath Govindarajan et.al., Paper: [http://arxiv.org/abs/2405.10939v1](http://arxiv.org/abs/2405.10939v1)
+- 2024-05-17, **Blackbox Adaptation for Medical Image Segmentation**, Jay N. Paranjape et.al., Paper: [http://arxiv.org/abs/2405.10913v1](http://arxiv.org/abs/2405.10913v1), Code: **[https://github.com/jayparanjape/blackbox](https://github.com/jayparanjape/blackbox)**
+- 2024-05-17, **A Versatile Framework for Analyzing Galaxy Image Data by Implanting Human-in-the-loop on a Large Vision Model**, Mingxiang Fu et.al., Paper: [http://arxiv.org/abs/2405.10890v1](http://arxiv.org/abs/2405.10890v1)
+- 2024-05-17, **Large Language Model (LLM) for Telecommunications: A Comprehensive Survey on Principles, Key Techniques, and Opportunities**, Hao Zhou et.al., Paper: [http://arxiv.org/abs/2405.10825v1](http://arxiv.org/abs/2405.10825v1)
+- 2024-05-17, **Empowering Small-Scale Knowledge Graphs: A Strategy of Leveraging General-Purpose Knowledge Graphs for Enriched Embeddings**, Albert Sawczyn et.al., Paper: [http://arxiv.org/abs/2405.10745v1](http://arxiv.org/abs/2405.10745v1)
+- 2024-05-17, **Feature-Adaptive and Data-Scalable In-Context Learning**, Jiahao Li et.al., Paper: [http://arxiv.org/abs/2405.10738v1](http://arxiv.org/abs/2405.10738v1), Code: **[https://github.com/jiahaozhenbang/fads-icl](https://github.com/jiahaozhenbang/fads-icl)**
+- 2024-05-17, **Layer-Condensed KV Cache for Efficient Inference of Large Language Models**, Haoyi Wu et.al., Paper: [http://arxiv.org/abs/2405.10637v1](http://arxiv.org/abs/2405.10637v1), Code: **[https://github.com/whyNLP/LCKV](https://github.com/whyNLP/LCKV)**
+- 2024-05-17, **Medical Dialogue: A Survey of Categories, Methods, Evaluation and Challenges**, Xiaoming Shi et.al., Paper: [http://arxiv.org/abs/2405.10630v1](http://arxiv.org/abs/2405.10630v1)
+- 2024-05-16, **Thinking Fair and Slow: On the Efficacy of Structured Prompts for Debiasing Language Models**, Shaz Furniturewala et.al., Paper: [http://arxiv.org/abs/2405.10431v1](http://arxiv.org/abs/2405.10431v1)
 - 2024-05-16, **Timeline-based Sentence Decomposition with In-Context Learning for Temporal Fact Extraction**, Jianhao Chen et.al., Paper: [http://arxiv.org/abs/2405.10288v1](http://arxiv.org/abs/2405.10288v1)
 - 2024-05-16, **Bilateral Event Mining and Complementary for Event Stream Super-Resolution**, Zhilin Huang et.al., Paper: [http://arxiv.org/abs/2405.10037v1](http://arxiv.org/abs/2405.10037v1), Code: **[https://github.com/lqm26/bmcnet-esr](https://github.com/lqm26/bmcnet-esr)**
 - 2024-05-16, **TransMI: A Framework to Create Strong Baselines from Multilingual Pretrained Language Models for Transliterated Data**, Yihong Liu et.al., Paper: [http://arxiv.org/abs/2405.09913v1](http://arxiv.org/abs/2405.09913v1), Code: **[https://github.com/cisnlp/transmi](https://github.com/cisnlp/transmi)**
@@ -5607,7 +5624,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20240520>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240521>back to top</a>)</p>
 
 ## adaptor
 
@@ -5707,15 +5724,20 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20240520>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240521>back to top</a>)</p>
 
 ## object detection
 
+- 2024-05-17, **A Versatile Framework for Analyzing Galaxy Image Data by Implanting Human-in-the-loop on a Large Vision Model**, Mingxiang Fu et.al., Paper: [http://arxiv.org/abs/2405.10890v1](http://arxiv.org/abs/2405.10890v1)
+- 2024-05-17, **A Large-scale Multi Domain Leukemia Dataset for the White Blood Cells Detection with Morphological Attributes for Explainability**, Abdul Rehman et.al., Paper: [http://arxiv.org/abs/2405.10803v1](http://arxiv.org/abs/2405.10803v1)
+- 2024-05-17, **DuoSpaceNet: Leveraging Both Bird's-Eye-View and Perspective View Representations for 3D Object Detection**, Zhe Huang et.al., Paper: [http://arxiv.org/abs/2405.10577v1](http://arxiv.org/abs/2405.10577v1)
+- 2024-05-16, **Drone-type-Set: Drone types detection benchmark for drone detection and tracking**, Kholoud AlDosari et.al., Paper: [http://arxiv.org/abs/2405.10398v1](http://arxiv.org/abs/2405.10398v1)
+- 2024-05-16, **Grounded 3D-LLM with Referent Tokens**, Yilun Chen et.al., Paper: [http://arxiv.org/abs/2405.10370v1](http://arxiv.org/abs/2405.10370v1)
 - 2024-05-16, **Grounding DINO 1.5: Advance the "Edge" of Open-Set Object Detection**, Tianhe Ren et.al., Paper: [http://arxiv.org/abs/2405.10300v1](http://arxiv.org/abs/2405.10300v1), Code: **[https://github.com/idea-research/grounding-dino-1.5-api](https://github.com/idea-research/grounding-dino-1.5-api)**
 - 2024-05-16, **Towards Task-Compatible Compressible Representations**, Anderson de Andrade et.al., Paper: [http://arxiv.org/abs/2405.10244v1](http://arxiv.org/abs/2405.10244v1), Code: **[https://github.com/adeandrade/research](https://github.com/adeandrade/research)**
 - 2024-05-16, **SpecDETR: A Transformer-based Hyperspectral Point Object Detection Network**, Zhaoxu Li et.al., Paper: [http://arxiv.org/abs/2405.10148v1](http://arxiv.org/abs/2405.10148v1)
 - 2024-05-16, **SHiNe: Semantic Hierarchy Nexus for Open-vocabulary Object Detection**, Mingxuan Liu et.al., Paper: [http://arxiv.org/abs/2405.10053v1](http://arxiv.org/abs/2405.10053v1)
-- 2024-05-16, **FPDIoU Loss: A Loss Function for Efficient Bounding Box Regression of Rotated Object Detection**, Siliang Ma et.al., Paper: [http://arxiv.org/abs/2405.09942v1](http://arxiv.org/abs/2405.09942v1)
+- 2024-05-19, **FPDIoU Loss: A Loss Function for Efficient Bounding Box Regression of Rotated Object Detection**, Siliang Ma et.al., Paper: [http://arxiv.org/abs/2405.09942v2](http://arxiv.org/abs/2405.09942v2)
 - 2024-05-16, **Infrared Adversarial Car Stickers**, Xiaopei Zhu et.al., Paper: [http://arxiv.org/abs/2405.09924v1](http://arxiv.org/abs/2405.09924v1)
 - 2024-05-16, **PillarNeXt: Improving the 3D detector by introducing Voxel2Pillar feature encoding and extracting multi-scale features**, Xusheng Li et.al., Paper: [http://arxiv.org/abs/2405.09828v1](http://arxiv.org/abs/2405.09828v1)
 - 2024-05-16, **Size-invariance Matters: Rethinking Metrics and Losses for Imbalanced Multi-object Salient Object Detection**, Feiran Li et.al., Paper: [http://arxiv.org/abs/2405.09782v1](http://arxiv.org/abs/2405.09782v1), Code: **[https://github.com/ferry-li/si-sod](https://github.com/ferry-li/si-sod)**
@@ -8160,7 +8182,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20240520>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240521>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
