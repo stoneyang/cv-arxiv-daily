@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.21
+## Updated on 2024.05.22
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-20**|**Octo: An Open-Source Generalist Robot Policy**|Octo Model Team et.al.|[2405.12213v1](http://arxiv.org/abs/2405.12213v1)|null|
+|**2024-05-20**|**Slicedit: Zero-Shot Video Editing With Text-to-Image Diffusion Models Using Spatio-Temporal Slices**|Nathaniel Cohen et.al.|[2405.12211v1](http://arxiv.org/abs/2405.12211v1)|null|
+|**2024-05-20**|**MoRA: High-Rank Updating for Parameter-Efficient Fine-Tuning**|Ting Jiang et.al.|[2405.12130v1](http://arxiv.org/abs/2405.12130v1)|**[link](https://github.com/kongds/mora)**|
+|**2024-05-21**|**Sheet Music Transformer ++: End-to-End Full-Page Optical Music Recognition for Pianoform Sheet Music**|Antonio Ríos-Vila et.al.|[2405.12105v2](http://arxiv.org/abs/2405.12105v2)|**[link](https://github.com/antoniorv6/fp-smt)**|
+|**2024-05-20**|**Continuous Sign Language Recognition with Adapted Conformer via Unsupervised Pretraining**|Neena Aloysius et.al.|[2405.12018v1](http://arxiv.org/abs/2405.12018v1)|null|
+|**2024-05-20**|**Biomedical Entity Linking for Dutch: Fine-tuning a Self-alignment BERT Model on an Automatically Generated Wikipedia Corpus**|Fons Hartendorp et.al.|[2405.11941v1](http://arxiv.org/abs/2405.11941v1)|**[link](https://github.com/fonshartendorp/dutch_biomedical_entity_linking)**|
+|**2024-05-20**|**Depth Prompting for Sensor-Agnostic Depth Estimation**|Jin-Hwi Park et.al.|[2405.11867v1](http://arxiv.org/abs/2405.11867v1)|null|
+|**2024-05-20**|**SSAMBA: Self-Supervised Audio Representation Learning with Mamba State Space Model**|Siavash Shams et.al.|[2405.11831v1](http://arxiv.org/abs/2405.11831v1)|null|
+|**2024-05-20**|**MM-Retinal: Knowledge-Enhanced Foundational Pretraining with Fundus Image-Text Expertise**|Ruiqi Wu et.al.|[2405.11793v1](http://arxiv.org/abs/2405.11793v1)|**[link](https://github.com/lxirich/mm-retinal)**|
+|**2024-05-20**|**TinyLLaVA Factory: A Modularized Codebase for Small-scale Large Multimodal Models**|Junlong Jia et.al.|[2405.11788v1](http://arxiv.org/abs/2405.11788v1)|**[link](https://github.com/tinyllava/tinyllava_factory)**|
 |**2024-05-17**|**FA-Depth: Toward Fast and Accurate Self-supervised Monocular Depth Estimation**|Fei Wang et.al.|[2405.10885v1](http://arxiv.org/abs/2405.10885v1)|**[link](https://github.com/fwucas/fa-depth)**|
 |**2024-05-17**|**Multicenter Privacy-Preserving Model Training for Deep Learning Brain Metastases Autosegmentation**|Yixing Huang et.al.|[2405.10870v1](http://arxiv.org/abs/2405.10870v1)|null|
 |**2024-05-17**|**Improving face generation quality and prompt following with synthetic captions**|Michail Tarasiou et.al.|[2405.10864v1](http://arxiv.org/abs/2405.10864v1)|null|
@@ -2940,12 +2950,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240521>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240522>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-20**|**Position-Guided Prompt Learning for Anomaly Detection in Chest X-Rays**|Zhichao Sun et.al.|[2405.11976v1](http://arxiv.org/abs/2405.11976v1)|**[link](https://github.com/sunzc-sunny/ppad)**|
+|**2024-05-20**|**MM-Retinal: Knowledge-Enhanced Foundational Pretraining with Fundus Image-Text Expertise**|Ruiqi Wu et.al.|[2405.11793v1](http://arxiv.org/abs/2405.11793v1)|**[link](https://github.com/lxirich/mm-retinal)**|
+|**2024-05-21**|**Hummer: Towards Limited Competitive Preference Dataset**|Li Jiang et.al.|[2405.11647v2](http://arxiv.org/abs/2405.11647v2)|null|
+|**2024-05-19**|**Morphological Prototyping for Unsupervised Slide Representation Learning in Computational Pathology**|Andrew H. Song et.al.|[2405.11643v1](http://arxiv.org/abs/2405.11643v1)|null|
+|**2024-05-19**|**Online Action Representation using Change Detection and Symbolic Programming**|Vishnu S Nair et.al.|[2405.11511v1](http://arxiv.org/abs/2405.11511v1)|null|
+|**2024-05-19**|**Unsupervised Image Prior via Prompt Learning and CLIP Semantic Guidance for Low-Light Image Enhancement**|Igor Morawski et.al.|[2405.11478v1](http://arxiv.org/abs/2405.11478v1)|null|
+|**2024-05-19**|**Efficient Prompt Tuning by Multi-Space Projection and Prompt Fusion**|Pengxiang Lan et.al.|[2405.11464v1](http://arxiv.org/abs/2405.11464v1)|null|
+|**2024-05-18**|**EyeFound: A Multimodal Generalist Foundation Model for Ophthalmic Imaging**|Danli Shi et.al.|[2405.11338v1](http://arxiv.org/abs/2405.11338v1)|null|
+|**2024-05-18**|**MediCLIP: Adapting CLIP for Few-shot Medical Image Anomaly Detection**|Ximiao Zhang et.al.|[2405.11315v1](http://arxiv.org/abs/2405.11315v1)|**[link](https://github.com/cnulab/mediclip)**|
+|**2024-05-18**|**Action Controlled Paraphrasing**|Ning Shi et.al.|[2405.11277v1](http://arxiv.org/abs/2405.11277v1)|**[link](https://github.com/shininglab/action-controlled-paraphrasing)**|
 |**2024-05-17**|**DINO as a von Mises-Fisher mixture model**|Hariprasath Govindarajan et.al.|[2405.10939v1](http://arxiv.org/abs/2405.10939v1)|null|
 |**2024-05-17**|**Blackbox Adaptation for Medical Image Segmentation**|Jay N. Paranjape et.al.|[2405.10913v1](http://arxiv.org/abs/2405.10913v1)|**[link](https://github.com/jayparanjape/blackbox)**|
 |**2024-05-17**|**A Versatile Framework for Analyzing Galaxy Image Data by Implanting Human-in-the-loop on a Large Vision Model**|Mingxiang Fu et.al.|[2405.10890v1](http://arxiv.org/abs/2405.10890v1)|null|
@@ -5628,7 +5648,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20240521>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240522>back to top</a>)</p>
 
 ## adaptor
 
@@ -5730,12 +5750,21 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240521>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240522>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-20**|**Multi-View Attentive Contextualization for Multi-View 3D Object Detection**|Xianpeng Liu et.al.|[2405.12200v1](http://arxiv.org/abs/2405.12200v1)|null|
+|**2024-05-20**|**Bangladeshi Native Vehicle Detection in Wild**|Bipin Saha et.al.|[2405.12150v1](http://arxiv.org/abs/2405.12150v1)|**[link](https://github.com/bipin-saha/bnvd)**|
+|**2024-05-20**|**Salience-guided Ground Factor for Robust Localization of Delivery Robots in Complex Urban Environments**|Jooyong Park et.al.|[2405.11855v1](http://arxiv.org/abs/2405.11855v1)|null|
+|**2024-05-20**|**DATR: Unsupervised Domain Adaptive Detection Transformer with Dataset-Level Adaptation and Prototypical Alignment**|Jianhong Han et.al.|[2405.11765v1](http://arxiv.org/abs/2405.11765v1)|**[link](https://github.com/h751410234/datr)**|
+|**2024-05-20**|**Versatile Teacher: A Class-aware Teacher-student Framework for Cross-domain Adaptation**|Runou Yang et.al.|[2405.11754v1](http://arxiv.org/abs/2405.11754v1)|**[link](https://github.com/ricardooyoung/versatileteacher)**|
+|**2024-05-19**|**FADet: A Multi-sensor 3D Object Detection Network based on Local Featured Attention**|Ziang Guo et.al.|[2405.11682v1](http://arxiv.org/abs/2405.11682v1)|**[link](https://github.com/ziongo6/fadet)**|
+|**2024-05-19**|**SLAB: Efficient Transformers with Simplified Linear Attention and Progressive Re-parameterized Batch Normalization**|Jialong Guo et.al.|[2405.11582v1](http://arxiv.org/abs/2405.11582v1)|**[link](https://github.com/xinghaochen/slab)**|
+|**2024-05-18**|**InfRS: Incremental Few-Shot Object Detection in Remote Sensing Images**|Wuzhou Li et.al.|[2405.11293v1](http://arxiv.org/abs/2405.11293v1)|null|
+|**2024-05-18**|**Visible and Clear: Finding Tiny Objects in Difference Map**|Bing Cao et.al.|[2405.11276v1](http://arxiv.org/abs/2405.11276v1)|null|
 |**2024-05-17**|**A Versatile Framework for Analyzing Galaxy Image Data by Implanting Human-in-the-loop on a Large Vision Model**|Mingxiang Fu et.al.|[2405.10890v1](http://arxiv.org/abs/2405.10890v1)|null|
 |**2024-05-17**|**A Large-scale Multi Domain Leukemia Dataset for the White Blood Cells Detection with Morphological Attributes for Explainability**|Abdul Rehman et.al.|[2405.10803v1](http://arxiv.org/abs/2405.10803v1)|null|
 |**2024-05-17**|**DuoSpaceNet: Leveraging Both Bird's-Eye-View and Perspective View Representations for 3D Object Detection**|Zhe Huang et.al.|[2405.10577v1](http://arxiv.org/abs/2405.10577v1)|null|
@@ -8190,7 +8219,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20240521>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240522>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
