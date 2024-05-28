@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.27
+## Updated on 2024.05.28
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-24**|**ConvLLaVA: Hierarchical Backbones as Visual Encoder for Large Multimodal Models**|Chunjiang Ge et.al.|[2405.15738v1](http://arxiv.org/abs/2405.15738v1)|**[link](https://github.com/alibaba/conv-llava)**|
+|**2024-05-24**|**Disease-informed Adaptation of Vision-Language Models**|Jiajin Zhang et.al.|[2405.15728v1](http://arxiv.org/abs/2405.15728v1)|**[link](https://github.com/rpidial/disease-informed-vlm-adaptation)**|
+|**2024-05-24**|**GECKO: Generative Language Model for English, Code and Korean**|Sungwoo Oh et.al.|[2405.15640v1](http://arxiv.org/abs/2405.15640v1)|null|
+|**2024-05-24**|**SEP: Self-Enhanced Prompt Tuning for Visual-Language Model**|Hantao Yao et.al.|[2405.15549v1](http://arxiv.org/abs/2405.15549v1)|**[link](https://github.com/htyao89/sep)**|
+|**2024-05-24**|**Polyp Segmentation Generalisability of Pretrained Backbones**|Edward Sanderson et.al.|[2405.15524v1](http://arxiv.org/abs/2405.15524v1)|null|
+|**2024-05-24**|**Detection and Positive Reconstruction of Cognitive Distortion sentences: Mandarin Dataset and Evaluation**|Shuya Lin et.al.|[2405.15334v1](http://arxiv.org/abs/2405.15334v1)|null|
+|**2024-05-24**|**StyleMaster: Towards Flexible Stylized Image Generation with Diffusion Models**|Chengming Xu et.al.|[2405.15287v1](http://arxiv.org/abs/2405.15287v1)|null|
+|**2024-05-24**|**MindShot: Brain Decoding Framework Using Only One Image**|Shuai Jiang et.al.|[2405.15278v1](http://arxiv.org/abs/2405.15278v1)|null|
+|**2024-05-24**|**Shopping Queries Image Dataset (SQID): An Image-Enriched ESCI Dataset for Exploring Multimodal Learning in Product Search**|Marie Al Ghossein et.al.|[2405.15190v1](http://arxiv.org/abs/2405.15190v1)|**[link](https://github.com/crossing-minds/shopping-queries-image-dataset)**|
+|**2024-05-24**|**From Frege to chatGPT: Compositionality in language, cognition, and deep neural networks**|Jacob Russin et.al.|[2405.15164v1](http://arxiv.org/abs/2405.15164v1)|null|
 |**2024-05-23**|**Bitune: Bidirectional Instruction-Tuning**|Dawid J. Kopiczko et.al.|[2405.14862v1](http://arxiv.org/abs/2405.14862v1)|null|
 |**2024-05-23**|**Semantica: An Adaptable Image-Conditioned Diffusion Model**|Manoj Kumar et.al.|[2405.14857v1](http://arxiv.org/abs/2405.14857v1)|null|
 |**2024-05-23**|**Analysis of Atom-level pretraining with QM data for Graph Neural Networks Molecular property models**|Jose Arjona-Medina et.al.|[2405.14837v1](http://arxiv.org/abs/2405.14837v1)|null|
@@ -2969,12 +2979,22 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240527>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240528>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-24**|**The Impact of Geometric Complexity on Neural Collapse in Transfer Learning**|Michael Munn et.al.|[2405.15706v1](http://arxiv.org/abs/2405.15706v1)|null|
+|**2024-05-24**|**SEP: Self-Enhanced Prompt Tuning for Visual-Language Model**|Hantao Yao et.al.|[2405.15549v1](http://arxiv.org/abs/2405.15549v1)|**[link](https://github.com/htyao89/sep)**|
+|**2024-05-24**|**Emergence of a High-Dimensional Abstraction Phase in Language Transformers**|Emily Cheng et.al.|[2405.15471v1](http://arxiv.org/abs/2405.15471v1)|null|
+|**2024-05-24**|**Fieldscale: Locality-Aware Field-based Adaptive Rescaling for Thermal Infrared Image**|Hyeonjae Gil et.al.|[2405.15395v1](http://arxiv.org/abs/2405.15395v1)|**[link](https://github.com/hyeonjaegil/fieldscale)**|
+|**2024-05-24**|**Learning Invariant Causal Mechanism from Vision-Language Models**|Zeen Song et.al.|[2405.15289v1](http://arxiv.org/abs/2405.15289v1)|null|
+|**2024-05-24**|**Prompt Tuning Strikes Back: Customizing Foundation Models with Low-Rank Prompt Adaptation**|Abhinav Jain et.al.|[2405.15282v1](http://arxiv.org/abs/2405.15282v1)|null|
+|**2024-05-24**|**BDetCLIP: Multimodal Prompting Contrastive Test-Time Backdoor Detection**|Yuwei Niu et.al.|[2405.15269v1](http://arxiv.org/abs/2405.15269v1)|null|
+|**2024-05-24**|**iVideoGPT: Interactive VideoGPTs are Scalable World Models**|Jialong Wu et.al.|[2405.15223v1](http://arxiv.org/abs/2405.15223v1)|null|
+|**2024-05-24**|**PointRWKV: Efficient RWKV-Like Model for Hierarchical Point Cloud Learning**|Qingdong He et.al.|[2405.15214v1](http://arxiv.org/abs/2405.15214v1)|null|
+|**2024-05-24**|**Are You Copying My Prompt? Protecting the Copyright of Vision Prompt for VPaaS via Watermark**|Huali Ren et.al.|[2405.15161v1](http://arxiv.org/abs/2405.15161v1)|null|
 |**2024-05-23**|**Video Diffusion Models are Training-free Motion Interpreter and Controller**|Zeqi Xiao et.al.|[2405.14864v1](http://arxiv.org/abs/2405.14864v1)|null|
 |**2024-05-23**|**Bitune: Bidirectional Instruction-Tuning**|Dawid J. Kopiczko et.al.|[2405.14862v1](http://arxiv.org/abs/2405.14862v1)|null|
 |**2024-05-23**|**Analysis of Atom-level pretraining with QM data for Graph Neural Networks Molecular property models**|Jose Arjona-Medina et.al.|[2405.14837v1](http://arxiv.org/abs/2405.14837v1)|null|
@@ -5682,12 +5702,13 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20240527>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240528>back to top</a>)</p>
 
 ## adaptor
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-24**|**StyleMaster: Towards Flexible Stylized Image Generation with Diffusion Models**|Chengming Xu et.al.|[2405.15287v1](http://arxiv.org/abs/2405.15287v1)|null|
 |**2024-05-08**|**Frequency-Assisted Mamba for Remote Sensing Image Super-Resolution**|Yi Xiao et.al.|[2405.04964v1](http://arxiv.org/abs/2405.04964v1)|null|
 |**2024-04-24**|**SQIAsignHD: SQIsignHD Adaptor Signature**|Farzin Renan et.al.|[2404.09026v3](http://arxiv.org/abs/2404.09026v3)|null|
 |**2024-04-02**|**Adaptive Feature Fusion Neural Network for Glaucoma Segmentation on Unseen Fundus Images**|Jiyuan Zhong et.al.|[2404.02084v1](http://arxiv.org/abs/2404.02084v1)|null|
@@ -5784,12 +5805,20 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240527>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240528>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-24**|**UNION: Unsupervised 3D Object Detection using Object Appearance-based Pseudo-Classes**|Ted Lentsch et.al.|[2405.15688v1](http://arxiv.org/abs/2405.15688v1)|null|
+|**2024-05-24**|**Multimodal Object Detection via Probabilistic a priori Information Integration**|Hafsa El Hafyani et.al.|[2405.15596v1](http://arxiv.org/abs/2405.15596v1)|null|
+|**2024-05-24**|**Scale-Invariant Feature Disentanglement via Adversarial Learning for UAV-based Object Detection**|Fan Liu et.al.|[2405.15465v1](http://arxiv.org/abs/2405.15465v1)|null|
+|**2024-05-24**|**Leveraging knowledge distillation for partial multi-task learning from multiple remote sensing datasets**|Hoàng-Ân Lê et.al.|[2405.15394v1](http://arxiv.org/abs/2405.15394v1)|null|
+|**2024-05-24**|**Towards Global Optimal Visual In-Context Learning Prompt Selection**|Chengming Xu et.al.|[2405.15279v1](http://arxiv.org/abs/2405.15279v1)|null|
+|**2024-05-24**|**Unbiased Faster R-CNN for Single-source Domain Generalized Object Detection**|Yajing Liu et.al.|[2405.15225v1](http://arxiv.org/abs/2405.15225v1)|null|
+|**2024-05-24**|**ODGEN: Domain-specific Object Detection Data Generation with Diffusion Models**|Jingyuan Zhu et.al.|[2405.15199v1](http://arxiv.org/abs/2405.15199v1)|null|
+|**2024-05-24**|**MonoDETRNext: Next-generation Accurate and Efficient Monocular 3D Object Detection Method**|Pan Liao et.al.|[2405.15176v1](http://arxiv.org/abs/2405.15176v1)|null|
 |**2024-05-23**|**Learning to Detect and Segment Mobile Objects from Unlabeled Videos**|Yihong Sun et.al.|[2405.14841v1](http://arxiv.org/abs/2405.14841v1)|null|
 |**2024-05-23**|**Designing A Sustainable Marine Debris Clean-up Framework without Human Labels**|Raymond Wang et.al.|[2405.14815v1](http://arxiv.org/abs/2405.14815v1)|null|
 |**2024-05-23**|**Drones Help Drones: A Collaborative Framework for Multi-Drone Object Trajectory Prediction and Beyond**|Zhechao Wang et.al.|[2405.14674v1](http://arxiv.org/abs/2405.14674v1)|null|
@@ -8267,7 +8296,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20240527>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240528>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
