@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.06.02
+> Updated on 2024.06.03
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,7 +17,7 @@
 
 ## pretrain
 
-- 2024-05-30, **KerasCV and KerasNLP: Vision and Language Power-Ups**, Matthew Watson et.al., Paper: [http://arxiv.org/abs/2405.20247v1](http://arxiv.org/abs/2405.20247v1)
+- 2024-05-31, **KerasCV and KerasNLP: Vision and Language Power-Ups**, Matthew Watson et.al., Paper: [http://arxiv.org/abs/2405.20247v2](http://arxiv.org/abs/2405.20247v2)
 - 2024-05-30, **Jina CLIP: Your CLIP Model Is Also Your Text Retriever**, Andreas Koukounas et.al., Paper: [http://arxiv.org/abs/2405.20204v1](http://arxiv.org/abs/2405.20204v1)
 - 2024-05-30, **Exploring Diffusion Models' Corruption Stage in Few-Shot Fine-tuning and Mitigating with Bayesian Neural Networks**, Xiaoyu Wu et.al., Paper: [http://arxiv.org/abs/2405.19931v1](http://arxiv.org/abs/2405.19931v1)
 - 2024-05-30, **From Words to Actions: Unveiling the Theoretical Underpinnings of LLM-Driven Autonomous Systems**, Jianliang He et.al., Paper: [http://arxiv.org/abs/2405.19883v1](http://arxiv.org/abs/2405.19883v1)
@@ -3010,15 +3010,15 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20240602>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240603>back to top</a>)</p>
 
 ## downstream
 
 - 2024-05-30, **ETHER: Efficient Finetuning of Large-Scale Models with Hyperplane Reflections**, Massimo Bini et.al., Paper: [http://arxiv.org/abs/2405.20271v1](http://arxiv.org/abs/2405.20271v1), Code: **[https://github.com/mwbini/ether](https://github.com/mwbini/ether)**
-- 2024-05-30, **TAIA: Large Language Models are Out-of-Distribution Data Learners**, Shuyang Jiang et.al., Paper: [http://arxiv.org/abs/2405.20192v1](http://arxiv.org/abs/2405.20192v1)
+- 2024-05-30, **TAIA: Large Language Models are Out-of-Distribution Data Learners**, Shuyang Jiang et.al., Paper: [http://arxiv.org/abs/2405.20192v1](http://arxiv.org/abs/2405.20192v1), Code: **[https://github.com/pixas/TAIA_LLM](https://github.com/pixas/TAIA_LLM)**
 - 2024-05-30, **Fill in the Gap! Combining Self-supervised Representation Learning with Neural Audio Synthesis for Speech Inpainting**, Ihab Asaad et.al., Paper: [http://arxiv.org/abs/2405.20101v1](http://arxiv.org/abs/2405.20101v1)
-- 2024-05-30, **DP-IQA: Utilizing Diffusion Prior for Blind Image Quality Assessment in the Wild**, Honghao Fu et.al., Paper: [http://arxiv.org/abs/2405.19996v1](http://arxiv.org/abs/2405.19996v1), Code: **[https://github.com/RomGai/DP-IQA](https://github.com/RomGai/DP-IQA)**
-- 2024-05-30, **Towards Deeper Understanding of PPR-based Embedding Approaches: A Topological Perspective**, Xingyi Zhang et.al., Paper: [http://arxiv.org/abs/2405.19649v1](http://arxiv.org/abs/2405.19649v1)
+- 2024-05-31, **DP-IQA: Utilizing Diffusion Prior for Blind Image Quality Assessment in the Wild**, Honghao Fu et.al., Paper: [http://arxiv.org/abs/2405.19996v2](http://arxiv.org/abs/2405.19996v2), Code: **[https://github.com/RomGai/DP-IQA](https://github.com/RomGai/DP-IQA)**
+- 2024-05-30, **Towards Deeper Understanding of PPR-based Embedding Approaches: A Topological Perspective**, Xingyi Zhang et.al., Paper: [http://arxiv.org/abs/2405.19649v1](http://arxiv.org/abs/2405.19649v1), Code: **[https://github.com/YukinoAsuna/PPREI](https://github.com/YukinoAsuna/PPREI)**
 - 2024-05-29, **CLIPLoss and Norm-Based Data Selection Methods for Multimodal Contrastive Learning**, Yiping Wang et.al., Paper: [http://arxiv.org/abs/2405.19547v1](http://arxiv.org/abs/2405.19547v1)
 - 2024-05-29, **Participation in the age of foundation models**, Harini Suresh et.al., Paper: [http://arxiv.org/abs/2405.19479v1](http://arxiv.org/abs/2405.19479v1)
 - 2024-05-29, **PediatricsGPT: Large Language Models as Chinese Medical Assistants for Pediatric Applications**, Dingkang Yang et.al., Paper: [http://arxiv.org/abs/2405.19266v1](http://arxiv.org/abs/2405.19266v1)
@@ -5768,7 +5768,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20240602>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240603>back to top</a>)</p>
 
 ## adaptor
 
@@ -5872,7 +5872,7 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20240602>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240603>back to top</a>)</p>
 
 ## object detection
 
@@ -8388,7 +8388,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20240602>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240603>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
