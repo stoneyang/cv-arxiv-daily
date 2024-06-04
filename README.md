@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.03
+## Updated on 2024.06.04
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-31**|**Code Pretraining Improves Entity Tracking Abilities of Language Models**|Najoung Kim et.al.|[2405.21068v1](http://arxiv.org/abs/2405.21068v1)|null|
+|**2024-05-31**|**Spectrum-Aware Parameter Efficient Fine-Tuning for Diffusion Models**|Xinxi Zhang et.al.|[2405.21050v1](http://arxiv.org/abs/2405.21050v1)|null|
+|**2024-05-31**|**Improving Reward Models with Synthetic Critiques**|Zihuiwen Ye et.al.|[2405.20850v1](http://arxiv.org/abs/2405.20850v1)|null|
+|**2024-05-31**|**Conditioning GAN Without Training Dataset**|Kidist Amde Mekonnen et.al.|[2405.20687v1](http://arxiv.org/abs/2405.20687v1)|**[link](https://github.com/kidist-amde/biggan-pytorch)**|
+|**2024-05-31**|**Shotluck Holmes: A Family of Efficient Small-Scale Large Language Vision Models For Video Captioning and Summarization**|Richard Luo et.al.|[2405.20648v1](http://arxiv.org/abs/2405.20648v1)|null|
+|**2024-05-30**|**Perplexed by Perplexity: Perplexity-Based Data Pruning With Small Reference Models**|Zachary Ankner et.al.|[2405.20541v1](http://arxiv.org/abs/2405.20541v1)|null|
+|**2024-05-30**|**Unveiling the Impact of Coding Data Instruction Fine-Tuning on Large Language Models Reasoning**|Xinlu Zhang et.al.|[2405.20535v1](http://arxiv.org/abs/2405.20535v1)|null|
+|**2024-05-30**|**Multi-Label Guided Soft Contrastive Learning for Efficient Earth Observation Pretraining**|Yi Wang et.al.|[2405.20462v1](http://arxiv.org/abs/2405.20462v1)|null|
+|**2024-05-30**|**Scalable Detection of Salient Entities in News Articles**|Eliyar Asgarieh et.al.|[2405.20461v1](http://arxiv.org/abs/2405.20461v1)|null|
+|**2024-05-30**|**Enhancing Antibiotic Stewardship using a Natural Language Approach for Better Feature Representation**|Simon A. Lee et.al.|[2405.20419v1](http://arxiv.org/abs/2405.20419v1)|null|
 |**2024-05-31**|**KerasCV and KerasNLP: Vision and Language Power-Ups**|Matthew Watson et.al.|[2405.20247v2](http://arxiv.org/abs/2405.20247v2)|null|
 |**2024-05-30**|**Jina CLIP: Your CLIP Model Is Also Your Text Retriever**|Andreas Koukounas et.al.|[2405.20204v1](http://arxiv.org/abs/2405.20204v1)|null|
 |**2024-05-30**|**Exploring Diffusion Models' Corruption Stage in Few-Shot Fine-tuning and Mitigating with Bayesian Neural Networks**|Xiaoyu Wu et.al.|[2405.19931v1](http://arxiv.org/abs/2405.19931v1)|null|
@@ -3012,12 +3022,20 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240603>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240604>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-31**|**DeCo: Decoupling Token Compression from Semantic Abstraction in Multimodal Large Language Models**|Linli Yao et.al.|[2405.20985v1](http://arxiv.org/abs/2405.20985v1)|null|
+|**2024-05-31**|**Amortizing intractable inference in diffusion models for vision, language, and control**|Siddarth Venkatraman et.al.|[2405.20971v1](http://arxiv.org/abs/2405.20971v1)|**[link](https://github.com/gfnorg/diffusion-finetuning)**|
+|**2024-05-31**|**S4Fusion: Saliency-aware Selective State Space Model for Infrared Visible Image Fusion**|Haolong Ma et.al.|[2405.20881v1](http://arxiv.org/abs/2405.20881v1)|null|
+|**2024-05-31**|**Unveiling the Lexical Sensitivity of LLMs: Combinatorial Optimization for Prompt Enhancement**|Pengwei Zhan et.al.|[2405.20701v1](http://arxiv.org/abs/2405.20701v1)|null|
+|**2024-05-31**|**Enhancing Generative Molecular Design via Uncertainty-guided Fine-tuning of Variational Autoencoders**|A N M Nafiz Abeer et.al.|[2405.20573v1](http://arxiv.org/abs/2405.20573v1)|null|
+|**2024-05-30**|**Perplexed by Perplexity: Perplexity-Based Data Pruning With Small Reference Models**|Zachary Ankner et.al.|[2405.20541v1](http://arxiv.org/abs/2405.20541v1)|null|
+|**2024-05-30**|**Slight Corruption in Pre-training Data Makes Better Diffusion Models**|Hao Chen et.al.|[2405.20494v1](http://arxiv.org/abs/2405.20494v1)|null|
+|**2024-05-30**|**Multi-Label Guided Soft Contrastive Learning for Efficient Earth Observation Pretraining**|Yi Wang et.al.|[2405.20462v1](http://arxiv.org/abs/2405.20462v1)|null|
 |**2024-05-30**|**ETHER: Efficient Finetuning of Large-Scale Models with Hyperplane Reflections**|Massimo Bini et.al.|[2405.20271v1](http://arxiv.org/abs/2405.20271v1)|**[link](https://github.com/mwbini/ether)**|
 |**2024-05-30**|**TAIA: Large Language Models are Out-of-Distribution Data Learners**|Shuyang Jiang et.al.|[2405.20192v1](http://arxiv.org/abs/2405.20192v1)|**[link](https://github.com/pixas/TAIA_LLM)**|
 |**2024-05-30**|**Fill in the Gap! Combining Self-supervised Representation Learning with Neural Audio Synthesis for Speech Inpainting**|Ihab Asaad et.al.|[2405.20101v1](http://arxiv.org/abs/2405.20101v1)|null|
@@ -5772,7 +5790,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20240603>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240604>back to top</a>)</p>
 
 ## adaptor
 
@@ -5878,12 +5896,14 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240603>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240604>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-31**|**Power of Cooperative Supervision: Multiple Teachers Framework for Enhanced 3D Semi-Supervised Object Detection**|Jin-Hee Lee et.al.|[2405.20720v1](http://arxiv.org/abs/2405.20720v1)|**[link](https://github.com/jh-research/multipleteachers)**|
+|**2024-05-30**|**On Calibration of Object Detectors: Pitfalls, Evaluation and Baselines**|Selim Kuzucu et.al.|[2405.20459v1](http://arxiv.org/abs/2405.20459v1)|null|
 |**2024-05-30**|**RTGen: Generating Region-Text Pairs for Open-Vocabulary Object Detection**|Fangyi Chen et.al.|[2405.19854v1](http://arxiv.org/abs/2405.19854v1)|null|
 |**2024-05-30**|**Improving Object Detector Training on Synthetic Data by Starting With a Strong Baseline Methodology**|Frank A. Ruis et.al.|[2405.19822v1](http://arxiv.org/abs/2405.19822v1)|null|
 |**2024-05-30**|**Fully Test-Time Adaptation for Monocular 3D Object Detection**|Hongbin Lin et.al.|[2405.19682v1](http://arxiv.org/abs/2405.19682v1)|null|
@@ -8396,7 +8416,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20240603>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240604>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
