@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.06.04
+> Updated on 2024.06.05
 
 <details>
   <summary>Table of Contents</summary>
@@ -3020,13 +3020,13 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20240604>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240605>back to top</a>)</p>
 
 ## downstream
 
 - 2024-05-31, **DeCo: Decoupling Token Compression from Semantic Abstraction in Multimodal Large Language Models**, Linli Yao et.al., Paper: [http://arxiv.org/abs/2405.20985v1](http://arxiv.org/abs/2405.20985v1)
 - 2024-05-31, **Amortizing intractable inference in diffusion models for vision, language, and control**, Siddarth Venkatraman et.al., Paper: [http://arxiv.org/abs/2405.20971v1](http://arxiv.org/abs/2405.20971v1), Code: **[https://github.com/gfnorg/diffusion-finetuning](https://github.com/gfnorg/diffusion-finetuning)**
-- 2024-05-31, **S4Fusion: Saliency-aware Selective State Space Model for Infrared Visible Image Fusion**, Haolong Ma et.al., Paper: [http://arxiv.org/abs/2405.20881v1](http://arxiv.org/abs/2405.20881v1)
+- 2024-06-03, **S4Fusion: Saliency-aware Selective State Space Model for Infrared Visible Image Fusion**, Haolong Ma et.al., Paper: [http://arxiv.org/abs/2405.20881v2](http://arxiv.org/abs/2405.20881v2)
 - 2024-05-31, **Unveiling the Lexical Sensitivity of LLMs: Combinatorial Optimization for Prompt Enhancement**, Pengwei Zhan et.al., Paper: [http://arxiv.org/abs/2405.20701v1](http://arxiv.org/abs/2405.20701v1)
 - 2024-05-31, **Enhancing Generative Molecular Design via Uncertainty-guided Fine-tuning of Variational Autoencoders**, A N M Nafiz Abeer et.al., Paper: [http://arxiv.org/abs/2405.20573v1](http://arxiv.org/abs/2405.20573v1)
 - 2024-05-30, **Perplexed by Perplexity: Perplexity-Based Data Pruning With Small Reference Models**, Zachary Ankner et.al., Paper: [http://arxiv.org/abs/2405.20541v1](http://arxiv.org/abs/2405.20541v1)
@@ -5786,11 +5786,11 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20240604>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240605>back to top</a>)</p>
 
 ## adaptor
 
-- 2024-05-29, **MEMoE: Enhancing Model Editing with Mixture of Experts Adaptors**, Renzhi Wang et.al., Paper: [http://arxiv.org/abs/2405.19086v1](http://arxiv.org/abs/2405.19086v1)
+- 2024-06-02, **MEMoE: Enhancing Model Editing with Mixture of Experts Adaptors**, Renzhi Wang et.al., Paper: [http://arxiv.org/abs/2405.19086v2](http://arxiv.org/abs/2405.19086v2)
 - 2024-05-28, **OwLore: Outlier-weighed Layerwise Sampled Low-Rank Projection for Memory-Efficient LLM Fine-tuning**, Pengxiang Li et.al., Paper: [http://arxiv.org/abs/2405.18380v1](http://arxiv.org/abs/2405.18380v1), Code: **[https://github.com/pixeli99/owlore](https://github.com/pixeli99/owlore)**
 - 2024-05-24, **StyleMaster: Towards Flexible Stylized Image Generation with Diffusion Models**, Chengming Xu et.al., Paper: [http://arxiv.org/abs/2405.15287v1](http://arxiv.org/abs/2405.15287v1)
 - 2024-05-08, **Frequency-Assisted Mamba for Remote Sensing Image Super-Resolution**, Yi Xiao et.al., Paper: [http://arxiv.org/abs/2405.04964v1](http://arxiv.org/abs/2405.04964v1)
@@ -5890,7 +5890,7 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20240604>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240605>back to top</a>)</p>
 
 ## object detection
 
@@ -8408,7 +8408,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20240604>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240605>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
