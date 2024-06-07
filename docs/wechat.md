@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.06.06
+> Updated on 2024.06.07
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,16 @@
 
 ## pretrain
 
+- 2024-06-05, **Does your data spark joy? Performance gains from domain upsampling at the end of training**, Cody Blakeney et.al., Paper: [http://arxiv.org/abs/2406.03476v1](http://arxiv.org/abs/2406.03476v1)
+- 2024-06-05, **LW-DETR: A Transformer Replacement to YOLO for Real-Time Detection**, Qiang Chen et.al., Paper: [http://arxiv.org/abs/2406.03459v1](http://arxiv.org/abs/2406.03459v1), Code: **[https://github.com/atten4vis/lw-detr](https://github.com/atten4vis/lw-detr)**
+- 2024-06-05, **FILS: Self-Supervised Video Feature Prediction In Semantic Language Space**, Mona Ahmadian et.al., Paper: [http://arxiv.org/abs/2406.03447v1](http://arxiv.org/abs/2406.03447v1)
+- 2024-06-05, **Text-to-Events: Synthetic Event Camera Streams from Conditional Text Input**, Joachim Ott et.al., Paper: [http://arxiv.org/abs/2406.03439v1](http://arxiv.org/abs/2406.03439v1)
+- 2024-06-05, **SuperFormer: Volumetric Transformer Architectures for MRI Super-Resolution**, Cristhian Forigua et.al., Paper: [http://arxiv.org/abs/2406.03359v1](http://arxiv.org/abs/2406.03359v1), Code: **[https://github.com/bcv-uniandes/superformer](https://github.com/bcv-uniandes/superformer)**
+- 2024-06-05, **Choice of PEFT Technique in Continual Learning: Prompt Tuning is Not All You Need**, Martin Wistuba et.al., Paper: [http://arxiv.org/abs/2406.03216v1](http://arxiv.org/abs/2406.03216v1)
+- 2024-06-05, **Computational Limits of Low-Rank Adaptation (LoRA) for Transformer-Based Models**, Jerry Yao-Chieh Hu et.al., Paper: [http://arxiv.org/abs/2406.03136v1](http://arxiv.org/abs/2406.03136v1)
+- 2024-06-05, **DEER: A Delay-Resilient Framework for Reinforcement Learning with Variable Delays**, Bo Xia et.al., Paper: [http://arxiv.org/abs/2406.03102v1](http://arxiv.org/abs/2406.03102v1)
+- 2024-06-05, **Population Transformer: Learning Population-level Representations of Intracranial Activity**, Geeling Chau et.al., Paper: [http://arxiv.org/abs/2406.03044v1](http://arxiv.org/abs/2406.03044v1)
+- 2024-06-05, **GraphAlign: Pretraining One Graph Neural Network on Multiple Graphs via Feature Alignment**, Zhenyu Hou et.al., Paper: [http://arxiv.org/abs/2406.02953v1](http://arxiv.org/abs/2406.02953v1)
 - 2024-06-04, **Landscape-Aware Growing: The Power of a Little LAG**, Stefani Karp et.al., Paper: [http://arxiv.org/abs/2406.02469v1](http://arxiv.org/abs/2406.02469v1)
 - 2024-06-04, **An Empirical Study into Clustering of Unseen Datasets with Self-Supervised Encoders**, Scott C. Lowe et.al., Paper: [http://arxiv.org/abs/2406.02465v1](http://arxiv.org/abs/2406.02465v1), Code: **[https://github.com/scottclowe/zs-ssl-clustering](https://github.com/scottclowe/zs-ssl-clustering)**
 - 2024-06-04, **CADE: Cosine Annealing Differential Evolution for Spiking Neural Network**, Runhua Jiang et.al., Paper: [http://arxiv.org/abs/2406.02349v1](http://arxiv.org/abs/2406.02349v1), Code: **[https://github.com/tank-jiang/cade4snn](https://github.com/tank-jiang/cade4snn)**
@@ -3030,10 +3040,20 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20240606>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240607>back to top</a>)</p>
 
 ## downstream
 
+- 2024-06-05, **Reproducibility study of FairAC**, Gijs de Jong et.al., Paper: [http://arxiv.org/abs/2406.03314v1](http://arxiv.org/abs/2406.03314v1), Code: **[https://github.com/oxkitsune/fact](https://github.com/oxkitsune/fact)**
+- 2024-06-05, **Fine-Grained Causal Dynamics Learning with Quantization for Improving Robustness in Reinforcement Learning**, Inwoo Hwang et.al., Paper: [http://arxiv.org/abs/2406.03234v1](http://arxiv.org/abs/2406.03234v1), Code: **[https://github.com/iwhwang/Fine-Grained-Causal-RL](https://github.com/iwhwang/Fine-Grained-Causal-RL)**
+- 2024-06-06, **GET: A Generative EEG Transformer for Continuous Context-Based Neural Signals**, Omair Ali et.al., Paper: [http://arxiv.org/abs/2406.03115v2](http://arxiv.org/abs/2406.03115v2)
+- 2024-06-05, **Population Transformer: Learning Population-level Representations of Intracranial Activity**, Geeling Chau et.al., Paper: [http://arxiv.org/abs/2406.03044v1](http://arxiv.org/abs/2406.03044v1)
+- 2024-06-05, **Instructing Prompt-to-Prompt Generation for Zero-Shot Learning**, Man Liu et.al., Paper: [http://arxiv.org/abs/2406.03032v1](http://arxiv.org/abs/2406.03032v1)
+- 2024-06-05, **Self-Supervised Skeleton Action Representation Learning: A Benchmark and Beyond**, Jiahang Zhang et.al., Paper: [http://arxiv.org/abs/2406.02978v1](http://arxiv.org/abs/2406.02978v1)
+- 2024-06-05, **Docs2KG: Unified Knowledge Graph Construction from Heterogeneous Documents Assisted by Large Language Models**, Qiang Sun et.al., Paper: [http://arxiv.org/abs/2406.02962v1](http://arxiv.org/abs/2406.02962v1), Code: **[https://github.com/AI4WA/Docs2KG](https://github.com/AI4WA/Docs2KG)**
+- 2024-06-05, **Zeroth-Order Fine-Tuning of LLMs with Extreme Sparsity**, Wentao Guo et.al., Paper: [http://arxiv.org/abs/2406.02913v1](http://arxiv.org/abs/2406.02913v1)
+- 2024-06-05, **Xmodel-LM Technical Report**, Yichuan Wang et.al., Paper: [http://arxiv.org/abs/2406.02856v1](http://arxiv.org/abs/2406.02856v1), Code: **[https://github.com/xiaoduoailab/xmodellm](https://github.com/xiaoduoailab/xmodellm)**
+- 2024-06-05, **Zero-Shot Image Segmentation via Recursive Normalized Cut on Diffusion Features**, Paul Couairon et.al., Paper: [http://arxiv.org/abs/2406.02842v1](http://arxiv.org/abs/2406.02842v1)
 - 2024-06-04, **Fairness-Optimized Synthetic EHR Generation for Arbitrary Downstream Predictive Tasks**, Mirza Farhan Bin Tarek et.al., Paper: [http://arxiv.org/abs/2406.02510v1](http://arxiv.org/abs/2406.02510v1), Code: **[https://github.com/healthylaife/fairsynth](https://github.com/healthylaife/fairsynth)**
 - 2024-06-04, **LlamaCare: A Large Medical Language Model for Enhancing Healthcare Knowledge Sharing**, Maojun Sun et.al., Paper: [http://arxiv.org/abs/2406.02350v1](http://arxiv.org/abs/2406.02350v1), Code: **[https://github.com/stephen-smj/llamacare](https://github.com/stephen-smj/llamacare)**
 - 2024-06-04, **AMOSL: Adaptive Modality-wise Structure Learning in Multi-view Graph Neural Networks For Enhanced Unified Representation**, Peiyu Liang et.al., Paper: [http://arxiv.org/abs/2406.02348v1](http://arxiv.org/abs/2406.02348v1)
@@ -5806,7 +5826,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20240606>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240607>back to top</a>)</p>
 
 ## adaptor
 
@@ -5912,10 +5932,16 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20240606>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240607>back to top</a>)</p>
 
 ## object detection
 
+- 2024-06-05, **LW-DETR: A Transformer Replacement to YOLO for Real-Time Detection**, Qiang Chen et.al., Paper: [http://arxiv.org/abs/2406.03459v1](http://arxiv.org/abs/2406.03459v1), Code: **[https://github.com/atten4vis/lw-detr](https://github.com/atten4vis/lw-detr)**
+- 2024-06-05, **Global Clipper: Enhancing Safety and Reliability of Transformer-based Object Detection Models**, Qutub Syed Sha et.al., Paper: [http://arxiv.org/abs/2406.03229v1](http://arxiv.org/abs/2406.03229v1)
+- 2024-06-05, **Situation Monitor: Diversity-Driven Zero-Shot Out-of-Distribution Detection using Budding Ensemble Architecture for Object Detection**, Qutub Syed et.al., Paper: [http://arxiv.org/abs/2406.03188v1](http://arxiv.org/abs/2406.03188v1)
+- 2024-06-05, **Enhanced Automotive Object Detection via RGB-D Fusion in a DiffusionDet Framework**, Eliraz Orfaig et.al., Paper: [http://arxiv.org/abs/2406.03129v1](http://arxiv.org/abs/2406.03129v1)
+- 2024-06-06, **EgoSurgery-Tool: A Dataset of Surgical Tool and Hand Detection from Egocentric Open Surgery Videos**, Ryo Fujii et.al., Paper: [http://arxiv.org/abs/2406.03095v2](http://arxiv.org/abs/2406.03095v2), Code: **[https://github.com/fujiry0/egosurgery](https://github.com/fujiry0/egosurgery)**
+- 2024-06-05, **Balancing Performance and Efficiency in Zero-shot Robotic Navigation**, Dmytro Kuzmenko et.al., Paper: [http://arxiv.org/abs/2406.03015v1](http://arxiv.org/abs/2406.03015v1)
 - 2024-06-04, **Open-YOLO 3D: Towards Fast and Accurate Open-Vocabulary 3D Instance Segmentation**, Mohamed El Amine Boudjoghra et.al., Paper: [http://arxiv.org/abs/2406.02548v1](http://arxiv.org/abs/2406.02548v1), Code: **[https://github.com/aminebdj/openyolo3d](https://github.com/aminebdj/openyolo3d)**
 - 2024-06-04, **SatSplatYOLO: 3D Gaussian Splatting-based Virtual Object Detection Ensembles for Satellite Feature Recognition**, Van Minh Nguyen et.al., Paper: [http://arxiv.org/abs/2406.02533v1](http://arxiv.org/abs/2406.02533v1)
 - 2024-06-04, **GrootVL: Tree Topology is All You Need in State Space Model**, Yicheng Xiao et.al., Paper: [http://arxiv.org/abs/2406.02395v1](http://arxiv.org/abs/2406.02395v1), Code: **[https://github.com/easonxiao-888/grootvl](https://github.com/easonxiao-888/grootvl)**
@@ -8440,7 +8466,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20240606>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240607>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
