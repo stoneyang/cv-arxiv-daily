@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.13
+## Updated on 2024.06.14
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-12**|**On Evaluating Adversarial Robustness of Volumetric Medical Segmentation Models**|Hashmat Shadab Malik et.al.|[2406.08486v1](http://arxiv.org/abs/2406.08486v1)|**[link](https://github.com/hashmatshadab/robustness-of-volumetric-medical-segmentation-models)**|
+|**2024-06-12**|**Improving LLMs for Recommendation with Out-Of-Vocabulary Tokens**|Ting-Ji Huang et.al.|[2406.08477v1](http://arxiv.org/abs/2406.08477v1)|null|
+|**2024-06-12**|**Human 3Diffusion: Realistic Avatar Creation via Explicit 3D Consistent Diffusion Models**|Yuxuan Xue et.al.|[2406.08475v1](http://arxiv.org/abs/2406.08475v1)|null|
+|**2024-06-12**|**Strategies for Pretraining Neural Operators**|Anthony Zhou et.al.|[2406.08473v1](http://arxiv.org/abs/2406.08473v1)|**[link](https://github.com/anthonyzhou-1/pretraining_pdes)**|
+|**2024-06-12**|**PAL: Pluralistic Alignment Framework for Learning from Heterogeneous Preferences**|Daiwei Chen et.al.|[2406.08469v1](http://arxiv.org/abs/2406.08469v1)|null|
+|**2024-06-12**|**The Impact of Initialization on LoRA Finetuning Dynamics**|Soufiane Hayou et.al.|[2406.08447v1](http://arxiv.org/abs/2406.08447v1)|null|
+|**2024-06-12**|**State Soup: In-Context Skill Learning, Retrieval and Mixing**|Maciej Pióro et.al.|[2406.08423v1](http://arxiv.org/abs/2406.08423v1)|null|
+|**2024-06-12**|**WMAdapter: Adding WaterMark Control to Latent Diffusion Models**|Hai Ci et.al.|[2406.08337v1](http://arxiv.org/abs/2406.08337v1)|null|
+|**2024-06-12**|**Multimodal Representation Loss Between Timed Text and Audio for Regularized Speech Separation**|Tsun-An Hsieh et.al.|[2406.08328v1](http://arxiv.org/abs/2406.08328v1)|null|
+|**2024-06-12**|**Is Programming by Example solved by LLMs?**|Wen-Ding Li et.al.|[2406.08316v1](http://arxiv.org/abs/2406.08316v1)|null|
 |**2024-06-11**|**Autoregressive Pretraining with Mamba in Vision**|Sucheng Ren et.al.|[2406.07537v1](http://arxiv.org/abs/2406.07537v1)|null|
 |**2024-06-11**|**CTC-based Non-autoregressive Textless Speech-to-Speech Translation**|Qingkai Fang et.al.|[2406.07330v1](http://arxiv.org/abs/2406.07330v1)|**[link](https://github.com/ictnlp/ctc-s2ut)**|
 |**2024-06-11**|**Can We Achieve High-quality Direct Speech-to-Speech Translation without Parallel Speech Data?**|Qingkai Fang et.al.|[2406.07289v1](http://arxiv.org/abs/2406.07289v1)|null|
@@ -3082,12 +3092,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240613>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240614>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-12**|**Improving LLMs for Recommendation with Out-Of-Vocabulary Tokens**|Ting-Ji Huang et.al.|[2406.08477v1](http://arxiv.org/abs/2406.08477v1)|null|
+|**2024-06-12**|**SVSNet+: Enhancing Speaker Voice Similarity Assessment Models with Representations from Speech Foundation Models**|Chun Yin et.al.|[2406.08445v1](http://arxiv.org/abs/2406.08445v1)|null|
+|**2024-06-12**|**TasTe: Teaching Large Language Models to Translate through Self-Reflection**|Yutong Wang et.al.|[2406.08434v1](http://arxiv.org/abs/2406.08434v1)|**[link](https://github.com/yutongwang1216/reflectionllmmt)**|
+|**2024-06-12**|**Causality for Tabular Data Synthesis: A High-Order Structure Causal Benchmark Framework**|Ruibo Tu et.al.|[2406.08311v1](http://arxiv.org/abs/2406.08311v1)|**[link](https://github.com/turuibo/cautabbench)**|
+|**2024-06-12**|**GraphFM: A Comprehensive Benchmark for Graph Foundation Model**|Yuhao Xu et.al.|[2406.08310v1](http://arxiv.org/abs/2406.08310v1)|**[link](https://github.com/nyushcs/graphfm)**|
+|**2024-06-13**|**Refining Self-Supervised Learnt Speech Representation using Brain Activations**|Hengyu Li et.al.|[2406.08266v2](http://arxiv.org/abs/2406.08266v2)|null|
+|**2024-06-12**|**DistilDoc: Knowledge Distillation for Visually-Rich Document Applications**|Jordy Van Landeghem et.al.|[2406.08226v1](http://arxiv.org/abs/2406.08226v1)|null|
+|**2024-06-12**|**Runtime Freezing: Dynamic Class Loss for Multi-Organ 3D Segmentation**|James Willoughby et.al.|[2406.08217v1](http://arxiv.org/abs/2406.08217v1)|null|
+|**2024-06-12**|**Supportiveness-based Knowledge Rewriting for Retrieval-augmented Language Modeling**|Zile Qiao et.al.|[2406.08116v1](http://arxiv.org/abs/2406.08116v1)|null|
+|**2024-06-13**|**A$^{2}$-MAE: A spatial-temporal-spectral unified remote sensing pre-training method based on anchor-aware masked autoencoder**|Lixian Zhang et.al.|[2406.08079v2](http://arxiv.org/abs/2406.08079v2)|null|
 |**2024-06-11**|**Benchmarking Vision-Language Contrastive Methods for Medical Representation Learning**|Shuvendu Roy et.al.|[2406.07450v1](http://arxiv.org/abs/2406.07450v1)|**[link](https://github.com/shuvenduroy/multimodal)**|
 |**2024-06-11**|**Enhancing Tabular Data Optimization with a Flexible Graph-based Reinforced Exploration Strategy**|Xiaohan Huang et.al.|[2406.07404v1](http://arxiv.org/abs/2406.07404v1)|null|
 |**2024-06-11**|**Transferring Knowledge from Large Foundation Models to Small Downstream Models**|Shikai Qiu et.al.|[2406.07337v1](http://arxiv.org/abs/2406.07337v1)|null|
@@ -5903,12 +5923,14 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20240613>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240614>back to top</a>)</p>
 
 ## adaptor
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-12**|**AdaNCA: Neural Cellular Automata As Adaptors For More Robust Vision Transformer**|Yitao Xu et.al.|[2406.08298v1](http://arxiv.org/abs/2406.08298v1)|null|
+|**2024-06-12**|**Grounding Multimodal Large Language Models in Actions**|Andrew Szot et.al.|[2406.07904v1](http://arxiv.org/abs/2406.07904v1)|null|
 |**2024-04-23**|**Utilizing Graph Generation for Enhanced Domain Adaptive Object Detection**|Mu Wang et.al.|[2406.06535v1](http://arxiv.org/abs/2406.06535v1)|null|
 |**2024-06-11**|**Towards Expressive Zero-Shot Speech Synthesis with Hierarchical Prosody Modeling**|Yuepeng Jiang et.al.|[2406.05681v2](http://arxiv.org/abs/2406.05681v2)|null|
 |**2024-06-04**|**XRec: Large Language Models for Explainable Recommendation**|Qiyao Ma et.al.|[2406.02377v1](http://arxiv.org/abs/2406.02377v1)|**[link](https://github.com/hkuds/xrec)**|
@@ -6013,12 +6035,19 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240613>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240614>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-12**|**Transformation-Dependent Adversarial Attacks**|Yaoteng Tan et.al.|[2406.08443v1](http://arxiv.org/abs/2406.08443v1)|null|
+|**2024-06-12**|**Dataset Enhancement with Instance-Level Augmentations**|Orest Kupyn et.al.|[2406.08249v1](http://arxiv.org/abs/2406.08249v1)|**[link](https://github.com/KupynOrest/instance_augmentation)**|
+|**2024-06-12**|**Chemistry3D: Robotic Interaction Benchmark for Chemistry Experiments**|Shoujie Li et.al.|[2406.08160v1](http://arxiv.org/abs/2406.08160v1)|null|
+|**2024-06-12**|**CT3D++: Improving 3D Object Detection with Keypoint-induced Channel-wise Transformer**|Hualian Sheng et.al.|[2406.08152v1](http://arxiv.org/abs/2406.08152v1)|null|
+|**2024-06-12**|**MWIRSTD: A MWIR Small Target Detection Dataset**|Nikhil Kumar et.al.|[2406.08063v1](http://arxiv.org/abs/2406.08063v1)|**[link](https://github.com/avinres/mwirstd)**|
+|**2024-06-12**|**Sense Less, Generate More: Pre-training LiDAR Perception with Masked Autoencoders for Ultra-Efficient 3D Sensing**|Sina Tayebati et.al.|[2406.07833v1](http://arxiv.org/abs/2406.07833v1)|null|
+|**2024-06-13**|**A Deep Learning Approach to Detect Complete Safety Equipment For Construction Workers Based On YOLOv7**|Md. Shariful Islam et.al.|[2406.07707v2](http://arxiv.org/abs/2406.07707v2)|null|
 |**2024-06-11**|**Transforming a rare event search into a not-so-rare event search in real-time with deep learning-based object detection**|J. Schueler et.al.|[2406.07538v1](http://arxiv.org/abs/2406.07538v1)|null|
 |**2024-06-11**|**Understanding Visual Concepts Across Models**|Brandon Trabucco et.al.|[2406.07506v1](http://arxiv.org/abs/2406.07506v1)|**[link](https://github.com/visual-words/visual-words)**|
 |**2024-06-11**|**Minimizing Energy Costs in Deep Learning Model Training: The Gaussian Sampling Approach**|Challapalli Phanindra Revanth et.al.|[2406.07332v1](http://arxiv.org/abs/2406.07332v1)|null|
@@ -8580,7 +8609,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20240613>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240614>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
