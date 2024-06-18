@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.06.17
+> Updated on 2024.06.18
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,16 @@
 
 ## pretrain
 
+- 2024-06-14, **Quantifying Variance in Evaluation Benchmarks**, Lovish Madaan et.al., Paper: [http://arxiv.org/abs/2406.10229v1](http://arxiv.org/abs/2406.10229v1)
+- 2024-06-14, **PUP 3D-GS: Principled Uncertainty Pruning for 3D Gaussian Splatting**, Alex Hanson et.al., Paper: [http://arxiv.org/abs/2406.10219v1](http://arxiv.org/abs/2406.10219v1)
+- 2024-06-14, **AlignNet: Learning dataset score alignment functions to enable better training of speech quality estimators**, Jaden Pieper et.al., Paper: [http://arxiv.org/abs/2406.10205v1](http://arxiv.org/abs/2406.10205v1)
+- 2024-06-14, **Improving rule mining via embedding-based link prediction**, N'Dah Jean Kouagou et.al., Paper: [http://arxiv.org/abs/2406.10144v1](http://arxiv.org/abs/2406.10144v1), Code: **[https://github.com/jean-kouagou/enhancedrulelearning](https://github.com/jean-kouagou/enhancedrulelearning)**
+- 2024-06-14, **Training-free Camera Control for Video Generation**, Chen Hou et.al., Paper: [http://arxiv.org/abs/2406.10126v1](http://arxiv.org/abs/2406.10126v1)
+- 2024-06-14, **Intepretative Deep Learning using Domain Adaptation for Fluorescence Spectroscopy**, Umberto Michelucci et.al., Paper: [http://arxiv.org/abs/2406.10031v1](http://arxiv.org/abs/2406.10031v1)
+- 2024-06-14, **Group and Shuffle: Efficient Structured Orthogonal Parametrization**, Mikhail Gorbunov et.al., Paper: [http://arxiv.org/abs/2406.10019v1](http://arxiv.org/abs/2406.10019v1)
+- 2024-06-14, **OrientDream: Streamlining Text-to-3D Generation with Explicit Orientation Control**, Yuzhong Huang et.al., Paper: [http://arxiv.org/abs/2406.10000v1](http://arxiv.org/abs/2406.10000v1)
+- 2024-06-14, **TabularFM: An Open Framework For Tabular Foundational Models**, Quan M. Tran et.al., Paper: [http://arxiv.org/abs/2406.09837v1](http://arxiv.org/abs/2406.09837v1)
+- 2024-06-14, **HiP Attention: Sparse Sub-Quadratic Attention with Hierarchical Attention Pruning**, Heejun Lee et.al., Paper: [http://arxiv.org/abs/2406.09827v1](http://arxiv.org/abs/2406.09827v1)
 - 2024-06-13, **Explore the Limits of Omni-modal Pretraining at Scale**, Yiyuan Zhang et.al., Paper: [http://arxiv.org/abs/2406.09412v1](http://arxiv.org/abs/2406.09412v1), Code: **[https://github.com/invictus717/MiCo](https://github.com/invictus717/MiCo)**
 - 2024-06-13, **Reflecting on the State of Rehearsal-free Continual Learning with Pretrained Models**, Lukas Thede et.al., Paper: [http://arxiv.org/abs/2406.09384v1](http://arxiv.org/abs/2406.09384v1)
 - 2024-06-13, **Towards an Improved Understanding and Utilization of Maximum Manifold Capacity Representations**, Rylan Schaeffer et.al., Paper: [http://arxiv.org/abs/2406.09366v1](http://arxiv.org/abs/2406.09366v1)
@@ -3100,10 +3110,19 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20240617>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240618>back to top</a>)</p>
 
 ## downstream
 
+- 2024-06-14, **CHIRON: Rich Character Representations in Long-Form Narratives**, Alexander Gurung et.al., Paper: [http://arxiv.org/abs/2406.10190v1](http://arxiv.org/abs/2406.10190v1)
+- 2024-06-14, **IntentionQA: A Benchmark for Evaluating Purchase Intention Comprehension Abilities of Language Models in E-commerce**, Wenxuan Ding et.al., Paper: [http://arxiv.org/abs/2406.10173v1](http://arxiv.org/abs/2406.10173v1), Code: **[https://github.com/hkust-knowcomp/intentionqa](https://github.com/hkust-knowcomp/intentionqa)**
+- 2024-06-14, **Group and Shuffle: Efficient Structured Orthogonal Parametrization**, Mikhail Gorbunov et.al., Paper: [http://arxiv.org/abs/2406.10019v1](http://arxiv.org/abs/2406.10019v1)
+- 2024-06-14, **PixRO: Pixel-Distributed Rotational Odometry with Gaussian Belief Propagation**, Ignacio Alzugaray et.al., Paper: [http://arxiv.org/abs/2406.09726v1](http://arxiv.org/abs/2406.09726v1)
+- 2024-06-14, **A Survey of Video Datasets for Grounded Event Understanding**, Kate Sanders et.al., Paper: [http://arxiv.org/abs/2406.09646v1](http://arxiv.org/abs/2406.09646v1), Code: **[https://github.com/katesanders9/grounded-events](https://github.com/katesanders9/grounded-events)**
+- 2024-06-14, **Industrial Language-Image Dataset (ILID): Adapting Vision Foundation Models for Industrial Settings**, Keno Moenck et.al., Paper: [http://arxiv.org/abs/2406.09637v1](http://arxiv.org/abs/2406.09637v1)
+- 2024-06-13, **RobustSAM: Segment Anything Robustly on Degraded Images**, Wei-Ting Chen et.al., Paper: [http://arxiv.org/abs/2406.09627v1](http://arxiv.org/abs/2406.09627v1)
+- 2024-06-13, **DSL-FIQA: Assessing Facial Image Quality via Dual-Set Degradation Learning and Landmark-Guided Transformer**, Wei-Ting Chen et.al., Paper: [http://arxiv.org/abs/2406.09622v1](http://arxiv.org/abs/2406.09622v1)
+- 2024-06-13, **Fair Data Generation via Score-based Diffusion Model**, Yujie Lin et.al., Paper: [http://arxiv.org/abs/2406.09495v1](http://arxiv.org/abs/2406.09495v1)
 - 2024-06-13, **Common and Rare Fundus Diseases Identification Using Vision-Language Foundation Model with Knowledge of Over 400 Diseases**, Meng Wang et.al., Paper: [http://arxiv.org/abs/2406.09317v1](http://arxiv.org/abs/2406.09317v1)
 - 2024-06-13, **Orthogonality and isotropy of speaker and phonetic information in self-supervised speech representations**, Mukhtar Mohamed et.al., Paper: [http://arxiv.org/abs/2406.09200v1](http://arxiv.org/abs/2406.09200v1)
 - 2024-06-13, **How structured are the representations in transformer-based vision encoders? An analysis of multi-object representations in vision-language models**, Tarun Khajuria et.al., Paper: [http://arxiv.org/abs/2406.09067v1](http://arxiv.org/abs/2406.09067v1)
@@ -5939,10 +5958,12 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20240617>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240618>back to top</a>)</p>
 
 ## adaptor
 
+- 2024-06-14, **A Fundamental Trade-off in Aligned Language Models and its Relation to Sampling Adaptors**, Naaman Tan et.al., Paper: [http://arxiv.org/abs/2406.10203v1](http://arxiv.org/abs/2406.10203v1)
+- 2024-06-14, **ControlVAR: Exploring Controllable Visual Autoregressive Modeling**, Xiang Li et.al., Paper: [http://arxiv.org/abs/2406.09750v1](http://arxiv.org/abs/2406.09750v1)
 - 2024-06-12, **AdaNCA: Neural Cellular Automata As Adaptors For More Robust Vision Transformer**, Yitao Xu et.al., Paper: [http://arxiv.org/abs/2406.08298v1](http://arxiv.org/abs/2406.08298v1)
 - 2024-06-12, **Grounding Multimodal Large Language Models in Actions**, Andrew Szot et.al., Paper: [http://arxiv.org/abs/2406.07904v1](http://arxiv.org/abs/2406.07904v1)
 - 2024-04-23, **Utilizing Graph Generation for Enhanced Domain Adaptive Object Detection**, Mu Wang et.al., Paper: [http://arxiv.org/abs/2406.06535v1](http://arxiv.org/abs/2406.06535v1)
@@ -6049,10 +6070,15 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20240617>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240618>back to top</a>)</p>
 
 ## object detection
 
+- 2024-06-14, **EFM3D: A Benchmark for Measuring Progress Towards 3D Egocentric Foundation Models**, Julian Straub et.al., Paper: [http://arxiv.org/abs/2406.10224v1](http://arxiv.org/abs/2406.10224v1)
+- 2024-06-14, **YOLOv1 to YOLOv10: A comprehensive review of YOLO variants and their application in the agricultural domain**, Mujadded Al Rabbani Alif et.al., Paper: [http://arxiv.org/abs/2406.10139v1](http://arxiv.org/abs/2406.10139v1)
+- 2024-06-14, **Shelf-Supervised Multi-Modal Pre-Training for 3D Object Detection**, Mehar Khurana et.al., Paper: [http://arxiv.org/abs/2406.10115v1](http://arxiv.org/abs/2406.10115v1)
+- 2024-06-14, **Automated GIS-Based Framework for Detecting Crosswalk Changes from Bi-Temporal High-Resolution Aerial Images**, Richard Boadu Antwi et.al., Paper: [http://arxiv.org/abs/2406.09731v1](http://arxiv.org/abs/2406.09731v1)
+- 2024-06-14, **An alternate approach for estimating grain-growth kinetics**, Manoj Prabakar et.al., Paper: [http://arxiv.org/abs/2406.09653v1](http://arxiv.org/abs/2406.09653v1)
 - 2024-06-13, **Scene Graph Generation in Large-Size VHR Satellite Imagery: A Large-Scale Dataset and A Context-Aware Approach**, Yansheng Li et.al., Paper: [http://arxiv.org/abs/2406.09410v1](http://arxiv.org/abs/2406.09410v1), Code: **[https://github.com/yangxue0827/rsg-mmrotate](https://github.com/yangxue0827/rsg-mmrotate)**
 - 2024-06-13, **Towards Evaluating the Robustness of Visual State Space Models**, Hashmat Shadab Malik et.al., Paper: [http://arxiv.org/abs/2406.09407v1](http://arxiv.org/abs/2406.09407v1), Code: **[https://github.com/hashmatshadab/mambarobustness](https://github.com/hashmatshadab/mambarobustness)**
 - 2024-06-13, **Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models**, Yushi Hu et.al., Paper: [http://arxiv.org/abs/2406.09403v1](http://arxiv.org/abs/2406.09403v1)
@@ -8628,7 +8654,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20240617>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240618>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
