@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.18
+## Updated on 2024.06.19
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-17**|**Learning sum of diverse features: computational hardness and efficient gradient-based training for ridge combinations**|Kazusato Oko et.al.|[2406.11828v1](http://arxiv.org/abs/2406.11828v1)|null|
+|**2024-06-17**|**How Do Large Language Models Acquire Factual Knowledge During Pretraining?**|Hoyeon Chang et.al.|[2406.11813v1](http://arxiv.org/abs/2406.11813v1)|null|
+|**2024-06-17**|**DataComp-LM: In search of the next generation of training sets for language models**|Jeffrey Li et.al.|[2406.11794v1](http://arxiv.org/abs/2406.11794v1)|null|
+|**2024-06-17**|**A Brief Survey on Leveraging Large Scale Vision Models for Enhanced Robot Grasping**|Abhi Kamboj et.al.|[2406.11786v1](http://arxiv.org/abs/2406.11786v1)|null|
+|**2024-06-17**|**Input Conditioned Graph Generation for Language Agents**|Lukas Vierling et.al.|[2406.11555v1](http://arxiv.org/abs/2406.11555v1)|**[link](https://github.com/lukasvierling/dynamicgptswarm)**|
+|**2024-06-17**|**BAMBINO-LM: (Bilingual-)Human-Inspired Continual Pretraining of BabyLM**|Zhewen Shen et.al.|[2406.11418v1](http://arxiv.org/abs/2406.11418v1)|null|
+|**2024-06-17**|**CodeGemma: Open Code Models Based on Gemma**|CodeGemma Team et.al.|[2406.11409v1](http://arxiv.org/abs/2406.11409v1)|null|
+|**2024-06-17**|**Preserving Knowledge in Large Language Model: A Model-Agnostic Self-Decompression Approach**|Zilun Zhang et.al.|[2406.11354v1](http://arxiv.org/abs/2406.11354v1)|null|
+|**2024-06-18**|**BaFTA: Backprop-Free Test-Time Adaptation For Zero-Shot Vision-Language Models**|Xuefeng Hu et.al.|[2406.11309v2](http://arxiv.org/abs/2406.11309v2)|null|
+|**2024-06-17**|**MiniConGTS: A Near Ultimate Minimalist Contrastive Grid Tagging Scheme for Aspect Sentiment Triplet Extraction**|Qiao Sun et.al.|[2406.11234v1](http://arxiv.org/abs/2406.11234v1)|null|
 |**2024-06-14**|**Quantifying Variance in Evaluation Benchmarks**|Lovish Madaan et.al.|[2406.10229v1](http://arxiv.org/abs/2406.10229v1)|null|
 |**2024-06-14**|**PUP 3D-GS: Principled Uncertainty Pruning for 3D Gaussian Splatting**|Alex Hanson et.al.|[2406.10219v1](http://arxiv.org/abs/2406.10219v1)|null|
 |**2024-06-14**|**AlignNet: Learning dataset score alignment functions to enable better training of speech quality estimators**|Jaden Pieper et.al.|[2406.10205v1](http://arxiv.org/abs/2406.10205v1)|null|
@@ -3112,12 +3122,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240618>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240619>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-17**|**Language Modeling with Editable External Knowledge**|Belinda Z. Li et.al.|[2406.11830v1](http://arxiv.org/abs/2406.11830v1)|**[link](https://github.com/belindal/erase)**|
+|**2024-06-17**|**OGNI-DC: Robust Depth Completion with Optimization-Guided Neural Iterations**|Yiming Zuo et.al.|[2406.11711v1](http://arxiv.org/abs/2406.11711v1)|**[link](https://github.com/princeton-vl/ogni-dc)**|
+|**2024-06-17**|**Multiple Descents in Unsupervised Learning: The Role of Noise, Domain Shift and Anomalies**|Kobi Rahimi et.al.|[2406.11703v1](http://arxiv.org/abs/2406.11703v1)|null|
+|**2024-06-17**|**Lightweight Model Pre-training via Language Guided Knowledge Distillation**|Mingsheng Li et.al.|[2406.11689v1](http://arxiv.org/abs/2406.11689v1)|**[link](https://github.com/mzhenz/lgd)**|
+|**2024-06-17**|**MEMLA: Enhancing Multilingual Knowledge Editing with Neuron-Masked Low-Rank Adaptation**|Jiakuan Xie et.al.|[2406.11566v1](http://arxiv.org/abs/2406.11566v1)|null|
+|**2024-06-17**|**GECOBench: A Gender-Controlled Text Dataset and Benchmark for Quantifying Biases in Explanations**|Rick Wilming et.al.|[2406.11547v1](http://arxiv.org/abs/2406.11547v1)|**[link](https://github.com/braindatalab/gecobench)**|
+|**2024-06-17**|**They're All Doctors: Synthesizing Diverse Counterfactuals to Mitigate Associative Bias**|Salma Abdel Magid et.al.|[2406.11331v1](http://arxiv.org/abs/2406.11331v1)|null|
+|**2024-06-17**|**Iterative Utility Judgment Framework via LLMs Inspired by Relevance in Philosophy**|Hengran Zhang et.al.|[2406.11290v1](http://arxiv.org/abs/2406.11290v1)|null|
+|**2024-06-17**|**Enhancing Generalizability of Representation Learning for Data-Efficient 3D Scene Understanding**|Yunsong Wang et.al.|[2406.11283v1](http://arxiv.org/abs/2406.11283v1)|null|
+|**2024-06-17**|**Self-training Large Language Models through Knowledge Detection**|Wei Jie Yeo et.al.|[2406.11275v1](http://arxiv.org/abs/2406.11275v1)|**[link](https://github.com/wj210/Self-Training-LLM)**|
 |**2024-06-14**|**CHIRON: Rich Character Representations in Long-Form Narratives**|Alexander Gurung et.al.|[2406.10190v1](http://arxiv.org/abs/2406.10190v1)|null|
 |**2024-06-14**|**IntentionQA: A Benchmark for Evaluating Purchase Intention Comprehension Abilities of Language Models in E-commerce**|Wenxuan Ding et.al.|[2406.10173v1](http://arxiv.org/abs/2406.10173v1)|**[link](https://github.com/hkust-knowcomp/intentionqa)**|
 |**2024-06-14**|**Group and Shuffle: Efficient Structured Orthogonal Parametrization**|Mikhail Gorbunov et.al.|[2406.10019v1](http://arxiv.org/abs/2406.10019v1)|null|
@@ -5962,15 +5982,15 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20240618>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240619>back to top</a>)</p>
 
 ## adaptor
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-06-14**|**A Fundamental Trade-off in Aligned Language Models and its Relation to Sampling Adaptors**|Naaman Tan et.al.|[2406.10203v1](http://arxiv.org/abs/2406.10203v1)|null|
+|**2024-06-14**|**A Fundamental Trade-off in Aligned Language Models and its Relation to Sampling Adaptors**|Naaman Tan et.al.|[2406.10203v1](http://arxiv.org/abs/2406.10203v1)|**[link](https://github.com/tanyjnaaman/probability-quality-paradox)**|
 |**2024-06-14**|**ControlVAR: Exploring Controllable Visual Autoregressive Modeling**|Xiang Li et.al.|[2406.09750v1](http://arxiv.org/abs/2406.09750v1)|null|
-|**2024-06-12**|**AdaNCA: Neural Cellular Automata As Adaptors For More Robust Vision Transformer**|Yitao Xu et.al.|[2406.08298v1](http://arxiv.org/abs/2406.08298v1)|null|
+|**2024-06-17**|**AdaNCA: Neural Cellular Automata As Adaptors For More Robust Vision Transformer**|Yitao Xu et.al.|[2406.08298v2](http://arxiv.org/abs/2406.08298v2)|null|
 |**2024-06-12**|**Grounding Multimodal Large Language Models in Actions**|Andrew Szot et.al.|[2406.07904v1](http://arxiv.org/abs/2406.07904v1)|null|
 |**2024-04-23**|**Utilizing Graph Generation for Enhanced Domain Adaptive Object Detection**|Mu Wang et.al.|[2406.06535v1](http://arxiv.org/abs/2406.06535v1)|null|
 |**2024-06-11**|**Towards Expressive Zero-Shot Speech Synthesis with Hierarchical Prosody Modeling**|Yuepeng Jiang et.al.|[2406.05681v2](http://arxiv.org/abs/2406.05681v2)|null|
@@ -6076,12 +6096,22 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240618>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240619>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-17**|**V3Det Challenge 2024 on Vast Vocabulary and Open Vocabulary Object Detection: Methods and Results**|Jiaqi Wang et.al.|[2406.11739v1](http://arxiv.org/abs/2406.11739v1)|null|
+|**2024-06-17**|**YOLO-FEDER FusionNet: A Novel Deep Learning Architecture for Drone Detection**|Tamara R. Lenhard et.al.|[2406.11641v1](http://arxiv.org/abs/2406.11641v1)|null|
+|**2024-06-17**|**Low-power Ship Detection in Satellite Images Using Neuromorphic Hardware**|Gregor Lenz et.al.|[2406.11319v1](http://arxiv.org/abs/2406.11319v1)|null|
+|**2024-06-17**|**Semi-Supervised Domain Adaptation Using Target-Oriented Domain Augmentation for 3D Object Detection**|Yecheol Kim et.al.|[2406.11313v1](http://arxiv.org/abs/2406.11313v1)|**[link](https://github.com/rasd3/toda)**|
+|**2024-06-17**|**Syn-to-Real Unsupervised Domain Adaptation for Indoor 3D Object Detection**|Yunsong Wang et.al.|[2406.11311v1](http://arxiv.org/abs/2406.11311v1)|null|
+|**2024-06-17**|**Enhancing Generalizability of Representation Learning for Data-Efficient 3D Scene Understanding**|Yunsong Wang et.al.|[2406.11283v1](http://arxiv.org/abs/2406.11283v1)|null|
+|**2024-06-17**|**YOLO9tr: A Lightweight Model for Pavement Damage Detection Utilizing a Generalized Efficient Layer Aggregation Network and Attention Mechanism**|Sompote Youwai et.al.|[2406.11254v1](http://arxiv.org/abs/2406.11254v1)|**[link](https://github.com/Sompote/YOLO9tr)**|
+|**2024-06-16**|**Open-Vocabulary X-ray Prohibited Item Detection via Fine-tuning CLIP**|Shuyang Lin et.al.|[2406.10961v1](http://arxiv.org/abs/2406.10961v1)|null|
+|**2024-06-16**|**SparseDet: A Simple and Effective Framework for Fully Sparse LiDAR-based 3D Object Detection**|Lin Liu et.al.|[2406.10907v1](http://arxiv.org/abs/2406.10907v1)|null|
+|**2024-06-15**|**Object Detection using Oriented Window Learning Vi-sion Transformer: Roadway Assets Recognition**|Taqwa Alhadidi et.al.|[2406.10712v1](http://arxiv.org/abs/2406.10712v1)|null|
 |**2024-06-14**|**EFM3D: A Benchmark for Measuring Progress Towards 3D Egocentric Foundation Models**|Julian Straub et.al.|[2406.10224v1](http://arxiv.org/abs/2406.10224v1)|null|
 |**2024-06-14**|**YOLOv1 to YOLOv10: A comprehensive review of YOLO variants and their application in the agricultural domain**|Mujadded Al Rabbani Alif et.al.|[2406.10139v1](http://arxiv.org/abs/2406.10139v1)|null|
 |**2024-06-14**|**Shelf-Supervised Multi-Modal Pre-Training for 3D Object Detection**|Mehar Khurana et.al.|[2406.10115v1](http://arxiv.org/abs/2406.10115v1)|null|
@@ -8662,7 +8692,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20240618>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240619>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
