@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.06.19
+> Updated on 2024.06.20
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,16 @@
 
 ## pretrain
 
+- 2024-06-18, **GFM4MPM: Towards Geospatial Foundation Models for Mineral Prospectivity Mapping**, Angel Daruna et.al., Paper: [http://arxiv.org/abs/2406.12756v1](http://arxiv.org/abs/2406.12756v1)
+- 2024-06-18, **BIOSCAN-5M: A Multimodal Dataset for Insect Biodiversity**, Zahra Gharaee et.al., Paper: [http://arxiv.org/abs/2406.12723v1](http://arxiv.org/abs/2406.12723v1), Code: **[https://github.com/zahrag/BIOSCAN-5M](https://github.com/zahrag/BIOSCAN-5M)**
+- 2024-06-18, **GeoBench: Benchmarking and Analyzing Monocular Geometry Estimation Models**, Yongtao Ge et.al., Paper: [http://arxiv.org/abs/2406.12671v1](http://arxiv.org/abs/2406.12671v1), Code: **[https://github.com/aim-uofa/geobench](https://github.com/aim-uofa/geobench)**
+- 2024-06-18, **News Without Borders: Domain Adaptation of Multilingual Sentence Embeddings for Cross-lingual News Recommendation**, Andreea Iana et.al., Paper: [http://arxiv.org/abs/2406.12634v1](http://arxiv.org/abs/2406.12634v1), Code: **[https://github.com/andreeaiana/nase](https://github.com/andreeaiana/nase)**
+- 2024-06-18, **From Instance Training to Instruction Learning: Task Adapters Generation from Instructions**, Huanxuan Liao et.al., Paper: [http://arxiv.org/abs/2406.12382v1](http://arxiv.org/abs/2406.12382v1)
+- 2024-06-18, **Cross-Lingual Unlearning of Selective Knowledge in Multilingual Language Models**, Minseok Choi et.al., Paper: [http://arxiv.org/abs/2406.12354v1](http://arxiv.org/abs/2406.12354v1)
+- 2024-06-18, **JEN-1 DreamStyler: Customized Musical Concept Learning via Pivotal Parameters Tuning**, Boyu Chen et.al., Paper: [http://arxiv.org/abs/2406.12292v1](http://arxiv.org/abs/2406.12292v1)
+- 2024-06-18, **VIRL: Volume-Informed Representation Learning towards Few-shot Manufacturability Estimation**, Yu-hsuan Chen et.al., Paper: [http://arxiv.org/abs/2406.12286v1](http://arxiv.org/abs/2406.12286v1)
+- 2024-06-18, **LLMs Are Prone to Fallacies in Causal Inference**, Nitish Joshi et.al., Paper: [http://arxiv.org/abs/2406.12158v1](http://arxiv.org/abs/2406.12158v1)
+- 2024-06-17, **Efficient Sequential Decision Making with Large Language Models**, Dingyang Chen et.al., Paper: [http://arxiv.org/abs/2406.12125v1](http://arxiv.org/abs/2406.12125v1)
 - 2024-06-17, **Learning sum of diverse features: computational hardness and efficient gradient-based training for ridge combinations**, Kazusato Oko et.al., Paper: [http://arxiv.org/abs/2406.11828v1](http://arxiv.org/abs/2406.11828v1)
 - 2024-06-17, **How Do Large Language Models Acquire Factual Knowledge During Pretraining?**, Hoyeon Chang et.al., Paper: [http://arxiv.org/abs/2406.11813v1](http://arxiv.org/abs/2406.11813v1)
 - 2024-06-17, **DataComp-LM: In search of the next generation of training sets for language models**, Jeffrey Li et.al., Paper: [http://arxiv.org/abs/2406.11794v1](http://arxiv.org/abs/2406.11794v1)
@@ -3120,10 +3130,20 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20240619>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240620>back to top</a>)</p>
 
 ## downstream
 
+- 2024-06-18, **TSI-Bench: Benchmarking Time Series Imputation**, Wenjie Du et.al., Paper: [http://arxiv.org/abs/2406.12747v1](http://arxiv.org/abs/2406.12747v1), Code: **[https://github.com/wenjiedu/awesomeimputation](https://github.com/wenjiedu/awesomeimputation)**
+- 2024-06-18, **Coarse-Fine Spectral-Aware Deformable Convolution For Hyperspectral Image Reconstruction**, Jincheng Yang et.al., Paper: [http://arxiv.org/abs/2406.12703v1](http://arxiv.org/abs/2406.12703v1)
+- 2024-06-18, **Efficient and Long-Tailed Generalization for Pre-trained Vision-Language Model**, Jiang-Xin Shi et.al., Paper: [http://arxiv.org/abs/2406.12638v1](http://arxiv.org/abs/2406.12638v1)
+- 2024-06-18, **Learned Image Compression for HE-stained Histopathological Images via Stain Deconvolution**, Maximilian Fischer et.al., Paper: [http://arxiv.org/abs/2406.12623v1](http://arxiv.org/abs/2406.12623v1)
+- 2024-06-18, **Unified Active Retrieval for Retrieval Augmented Generation**, Qinyuan Cheng et.al., Paper: [http://arxiv.org/abs/2406.12534v1](http://arxiv.org/abs/2406.12534v1)
+- 2024-06-18, **Cycle-Correspondence Loss: Learning Dense View-Invariant Visual Features from Unlabeled and Unordered RGB Images**, David B. Adrian et.al., Paper: [http://arxiv.org/abs/2406.12441v1](http://arxiv.org/abs/2406.12441v1)
+- 2024-06-18, **Exploring the Impact of a Transformer's Latent Space Geometry on Downstream Task Performance**, Anna C. Marbut et.al., Paper: [http://arxiv.org/abs/2406.12159v1](http://arxiv.org/abs/2406.12159v1)
+- 2024-06-17, **DistillNeRF: Perceiving 3D Scenes from Single-Glance Images by Distilling Neural Fields and Foundation Model Features**, Letian Wang et.al., Paper: [http://arxiv.org/abs/2406.12095v1](http://arxiv.org/abs/2406.12095v1)
+- 2024-06-17, **Learning Molecular Representation in a Cell**, Gang Liu et.al., Paper: [http://arxiv.org/abs/2406.12056v1](http://arxiv.org/abs/2406.12056v1), Code: **[https://github.com/liugangcode/InfoAlign](https://github.com/liugangcode/InfoAlign)**
+- 2024-06-17, **UniGLM: Training One Unified Language Model for Text-Attributed Graphs**, Yi Fang et.al., Paper: [http://arxiv.org/abs/2406.12052v1](http://arxiv.org/abs/2406.12052v1)
 - 2024-06-17, **Language Modeling with Editable External Knowledge**, Belinda Z. Li et.al., Paper: [http://arxiv.org/abs/2406.11830v1](http://arxiv.org/abs/2406.11830v1), Code: **[https://github.com/belindal/erase](https://github.com/belindal/erase)**
 - 2024-06-17, **OGNI-DC: Robust Depth Completion with Optimization-Guided Neural Iterations**, Yiming Zuo et.al., Paper: [http://arxiv.org/abs/2406.11711v1](http://arxiv.org/abs/2406.11711v1), Code: **[https://github.com/princeton-vl/ogni-dc](https://github.com/princeton-vl/ogni-dc)**
 - 2024-06-17, **Multiple Descents in Unsupervised Learning: The Role of Noise, Domain Shift and Anomalies**, Kobi Rahimi et.al., Paper: [http://arxiv.org/abs/2406.11703v1](http://arxiv.org/abs/2406.11703v1)
@@ -5978,7 +5998,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20240619>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240620>back to top</a>)</p>
 
 ## adaptor
 
@@ -6090,10 +6110,19 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20240619>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240620>back to top</a>)</p>
 
 ## object detection
 
+- 2024-06-18, **Privacy Preserving Federated Learning in Medical Imaging with Uncertainty Estimation**, Nikolas Koutsoubis et.al., Paper: [http://arxiv.org/abs/2406.12815v1](http://arxiv.org/abs/2406.12815v1), Code: **[https://github.com/niko-k98/awesome-list-federated-learning-review](https://github.com/niko-k98/awesome-list-federated-learning-review)**
+- 2024-06-18, **Online Anchor-based Training for Image Classification Tasks**, Maria Tzelepi et.al., Paper: [http://arxiv.org/abs/2406.12662v1](http://arxiv.org/abs/2406.12662v1)
+- 2024-06-18, **ViDSOD-100: A New Dataset and a Baseline Model for RGB-D Video Salient Object Detection**, Junhao Lin et.al., Paper: [http://arxiv.org/abs/2406.12536v1](http://arxiv.org/abs/2406.12536v1), Code: **[https://github.com/jhl-det/rgbd_video_sod](https://github.com/jhl-det/rgbd_video_sod)**
+- 2024-06-18, **SDNIA-YOLO: A Robust Object Detection Model for Extreme Weather Conditions**, Yuexiong Ding et.al., Paper: [http://arxiv.org/abs/2406.12395v1](http://arxiv.org/abs/2406.12395v1)
+- 2024-06-18, **Competitive Learning for Achieving Content-specific Filters in Video Coding for Machines**, Honglei Zhang et.al., Paper: [http://arxiv.org/abs/2406.12367v1](http://arxiv.org/abs/2406.12367v1)
+- 2024-06-18, **Certified ML Object Detection for Surveillance Missions**, Mohammed Belcaid et.al., Paper: [http://arxiv.org/abs/2406.12362v1](http://arxiv.org/abs/2406.12362v1)
+- 2024-06-18, **DASSF: Dynamic-Attention Scale-Sequence Fusion for Aerial Object Detection**, Haodong Li et.al., Paper: [http://arxiv.org/abs/2406.12285v1](http://arxiv.org/abs/2406.12285v1)
+- 2024-06-18, **The Solution for CVPR2024 Foundational Few-Shot Object Detection Challenge**, Hongpeng Pan et.al., Paper: [http://arxiv.org/abs/2406.12225v1](http://arxiv.org/abs/2406.12225v1)
+- 2024-06-17, **Multi-Dimensional Pruning: Joint Channel, Layer and Block Pruning with Latency Constraint**, Xinglong Sun et.al., Paper: [http://arxiv.org/abs/2406.12079v1](http://arxiv.org/abs/2406.12079v1)
 - 2024-06-17, **V3Det Challenge 2024 on Vast Vocabulary and Open Vocabulary Object Detection: Methods and Results**, Jiaqi Wang et.al., Paper: [http://arxiv.org/abs/2406.11739v1](http://arxiv.org/abs/2406.11739v1)
 - 2024-06-17, **YOLO-FEDER FusionNet: A Novel Deep Learning Architecture for Drone Detection**, Tamara R. Lenhard et.al., Paper: [http://arxiv.org/abs/2406.11641v1](http://arxiv.org/abs/2406.11641v1)
 - 2024-06-17, **Low-power Ship Detection in Satellite Images Using Neuromorphic Hardware**, Gregor Lenz et.al., Paper: [http://arxiv.org/abs/2406.11319v1](http://arxiv.org/abs/2406.11319v1)
@@ -8684,7 +8713,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20240619>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240620>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
