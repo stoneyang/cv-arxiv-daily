@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.21
+## Updated on 2024.06.22
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-20**|**Whiteboard-of-Thought: Thinking Step-by-Step Across Modalities**|Sachit Menon et.al.|[2406.14562v1](http://arxiv.org/abs/2406.14562v1)|null|
+|**2024-06-20**|**V-LASIK: Consistent Glasses-Removal from Videos Using Synthetic Data**|Rotem Shalev-Arkushin et.al.|[2406.14510v1](http://arxiv.org/abs/2406.14510v1)|null|
+|**2024-06-20**|**Data-Centric AI in the Age of Large Language Models**|Xinyi Xu et.al.|[2406.14473v1](http://arxiv.org/abs/2406.14473v1)|null|
+|**2024-06-20**|**Decoding Vocal Articulations from Acoustic Latent Representations**|Mateo Cámara et.al.|[2406.14379v1](http://arxiv.org/abs/2406.14379v1)|null|
+|**2024-06-20**|**Infusing clinical knowledge into tokenisers for language models**|Abul Hasan et.al.|[2406.14312v1](http://arxiv.org/abs/2406.14312v1)|null|
+|**2024-06-20**|**On the Evaluation Practices in Multilingual NLP: Can Machine Translation Offer an Alternative to Human Translations?**|Rochelle Choenni et.al.|[2406.14267v1](http://arxiv.org/abs/2406.14267v1)|null|
+|**2024-06-20**|**Geometric Self-Supervised Pretraining on 3D Protein Structures using Subgraphs**|Michail Chatzianastasis et.al.|[2406.14142v1](http://arxiv.org/abs/2406.14142v1)|null|
+|**2024-06-20**|**Two-Stage Depth Enhanced Learning with Obstacle Map For Object Navigation**|Yanwei Zheng et.al.|[2406.14103v1](http://arxiv.org/abs/2406.14103v1)|null|
+|**2024-06-20**|**Protecting Privacy Through Approximating Optimal Parameters for Sequence Unlearning in Language Models**|Dohyun Lee et.al.|[2406.14091v1](http://arxiv.org/abs/2406.14091v1)|null|
+|**2024-06-20**|**Information Guided Regularization for Fine-tuning Language Models**|Mandar Sharma et.al.|[2406.14005v1](http://arxiv.org/abs/2406.14005v1)|**[link](https://github.com/mandar-sharma/guided-dropout)**|
 |**2024-06-18**|**GFM4MPM: Towards Geospatial Foundation Models for Mineral Prospectivity Mapping**|Angel Daruna et.al.|[2406.12756v1](http://arxiv.org/abs/2406.12756v1)|null|
 |**2024-06-18**|**BIOSCAN-5M: A Multimodal Dataset for Insect Biodiversity**|Zahra Gharaee et.al.|[2406.12723v1](http://arxiv.org/abs/2406.12723v1)|**[link](https://github.com/zahrag/BIOSCAN-5M)**|
 |**2024-06-18**|**GeoBench: Benchmarking and Analyzing Monocular Geometry Estimation Models**|Yongtao Ge et.al.|[2406.12671v1](http://arxiv.org/abs/2406.12671v1)|**[link](https://github.com/aim-uofa/geobench)**|
@@ -3132,12 +3142,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240621>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240622>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-20**|**Connecting the Dots: LLMs can Infer and Verbalize Latent Structure from Disparate Training Data**|Johannes Treutlein et.al.|[2406.14546v1](http://arxiv.org/abs/2406.14546v1)|**[link](https://github.com/choidami/inductive-oocr)**|
+|**2024-06-20**|**Identifiable Exchangeable Mechanisms for Causal Structure and Representation Learning**|Patrik Reizinger et.al.|[2406.14302v1](http://arxiv.org/abs/2406.14302v1)|null|
+|**2024-06-20**|**Latent. Functional Map**|Marco Fumero et.al.|[2406.14183v1](http://arxiv.org/abs/2406.14183v1)|null|
+|**2024-06-20**|**Measuring Sample Importance in Data Pruning for Training LLMs from a Data Compression Perspective**|Minsang Kim et.al.|[2406.14124v1](http://arxiv.org/abs/2406.14124v1)|null|
+|**2024-06-20**|**Seamless Language Expansion: Enhancing Multilingual Mastery in Self-Supervised Models**|Jing Xu et.al.|[2406.14092v1](http://arxiv.org/abs/2406.14092v1)|null|
+|**2024-06-20**|**Semi Supervised Heterogeneous Domain Adaptation via Disentanglement and Pseudo-Labelling**|Cassio F. Dantas et.al.|[2406.14087v1](http://arxiv.org/abs/2406.14087v1)|**[link](https://github.com/tanodino/sshda)**|
+|**2024-06-20**|**Toward Infinite-Long Prefix in Transformer**|Jiuxiang Gu et.al.|[2406.14036v1](http://arxiv.org/abs/2406.14036v1)|**[link](https://github.com/christianyang37/chiwun)**|
+|**2024-06-20**|**HIGHT: Hierarchical Graph Tokenization for Graph-Language Alignment**|Yongqiang Chen et.al.|[2406.14021v1](http://arxiv.org/abs/2406.14021v1)|null|
+|**2024-06-20**|**Knowledge-driven Subspace Fusion and Gradient Coordination for Multi-modal Learning**|Yupei Zhang et.al.|[2406.13979v1](http://arxiv.org/abs/2406.13979v1)|null|
+|**2024-06-20**|**AspirinSum: an Aspect-based utility-preserved de-identification Summarization framework**|Ya-Lun Li et.al.|[2406.13947v1](http://arxiv.org/abs/2406.13947v1)|null|
 |**2024-06-18**|**TSI-Bench: Benchmarking Time Series Imputation**|Wenjie Du et.al.|[2406.12747v1](http://arxiv.org/abs/2406.12747v1)|**[link](https://github.com/WenjieDu/PyPOTS)**|
 |**2024-06-18**|**Coarse-Fine Spectral-Aware Deformable Convolution For Hyperspectral Image Reconstruction**|Jincheng Yang et.al.|[2406.12703v1](http://arxiv.org/abs/2406.12703v1)|null|
 |**2024-06-18**|**Efficient and Long-Tailed Generalization for Pre-trained Vision-Language Model**|Jiang-Xin Shi et.al.|[2406.12638v1](http://arxiv.org/abs/2406.12638v1)|null|
@@ -6002,7 +6022,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20240621>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240622>back to top</a>)</p>
 
 ## adaptor
 
@@ -6116,12 +6136,22 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240621>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240622>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-20**|**Visible-Thermal Tiny Object Detection: A Benchmark Dataset and Baselines**|Xinyi Ying et.al.|[2406.14482v1](http://arxiv.org/abs/2406.14482v1)|**[link](https://github.com/xinyiying24/rgbt-tiny)**|
+|**2024-06-20**|**Enhanced Bank Check Security: Introducing a Novel Dataset and Transformer-Based Approach for Detection and Verification**|Muhammad Saif Ullah Khan et.al.|[2406.14370v1](http://arxiv.org/abs/2406.14370v1)|**[link](https://github.com/saifkhichi96/ssbi-dataset)**|
+|**2024-06-20**|**HoTPP Benchmark: Are We Good at the Long Horizon Events Forecasting?**|Ivan Karpukhin et.al.|[2406.14341v1](http://arxiv.org/abs/2406.14341v1)|**[link](https://github.com/ivan-chai/hotpp-benchmark)**|
+|**2024-06-20**|**LeYOLO, New Scalable and Efficient CNN Architecture for Object Detection**|Lilian Hollard et.al.|[2406.14239v1](http://arxiv.org/abs/2406.14239v1)|**[link](https://github.com/LilianHollard/LeYOLO)**|
+|**2024-06-20**|**SSAD: Self-supervised Auxiliary Detection Framework for Panoramic X-ray based Dental Disease Diagnosis**|Zijian Cai et.al.|[2406.13963v1](http://arxiv.org/abs/2406.13963v1)|**[link](https://github.com/dylonsword/ssad)**|
+|**2024-06-20**|**Towards the in-situ Trunk Identification and Length Measurement of Sea Cucumbers via Bézier Curve Modelling**|Shuaixin Liu et.al.|[2406.13951v1](http://arxiv.org/abs/2406.13951v1)|**[link](https://github.com/OUCVisionGroup/TISC-Net)**|
+|**2024-06-19**|**DPO: Dual-Perturbation Optimization for Test-time Adaptation in 3D Object Detection**|Zhuoxiao Chen et.al.|[2406.13891v1](http://arxiv.org/abs/2406.13891v1)|**[link](https://github.com/jo-wang/dpo)**|
+|**2024-06-19**|**Semantic Enhanced Few-shot Object Detection**|Zheng Wang et.al.|[2406.13498v1](http://arxiv.org/abs/2406.13498v1)|null|
+|**2024-06-19**|**Snowy Scenes,Clear Detections: A Robust Model for Traffic Light Detection in Adverse Weather Conditions**|Shivank Garg et.al.|[2406.13473v1](http://arxiv.org/abs/2406.13473v1)|**[link](https://github.com/abhishekbaghel11/Traffic-light-detection-in-adverse-weather-conditions)**|
+|**2024-06-19**|**Strengthening Layer Interaction via Dynamic Layer Attention**|Kaishen Wang et.al.|[2406.13392v1](http://arxiv.org/abs/2406.13392v1)|**[link](https://github.com/tunantu/dynamic-layer-attention)**|
 |**2024-06-18**|**Privacy Preserving Federated Learning in Medical Imaging with Uncertainty Estimation**|Nikolas Koutsoubis et.al.|[2406.12815v1](http://arxiv.org/abs/2406.12815v1)|**[link](https://github.com/niko-k98/awesome-list-federated-learning-review)**|
 |**2024-06-18**|**Online Anchor-based Training for Image Classification Tasks**|Maria Tzelepi et.al.|[2406.12662v1](http://arxiv.org/abs/2406.12662v1)|null|
 |**2024-06-18**|**ViDSOD-100: A New Dataset and a Baseline Model for RGB-D Video Salient Object Detection**|Junhao Lin et.al.|[2406.12536v1](http://arxiv.org/abs/2406.12536v1)|**[link](https://github.com/jhl-det/rgbd_video_sod)**|
@@ -8721,7 +8751,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20240621>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240622>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
