@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.25
+## Updated on 2024.06.26
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**Dreamitate: Real-World Visuomotor Policy Learning via Video Generation**|Junbang Liang et.al.|[2406.16862v1](http://arxiv.org/abs/2406.16862v1)|null|
+|**2024-06-24**|**Towards Fast Multilingual LLM Inference: Speculative Decoding and Specialized Drafters**|Euiin Yi et.al.|[2406.16758v1](http://arxiv.org/abs/2406.16758v1)|null|
+|**2024-06-24**|**Geometry-Aware Score Distillation via 3D Consistent Noising and Gradient Consistency Modeling**|Min-Seop Kwak et.al.|[2406.16695v1](http://arxiv.org/abs/2406.16695v1)|null|
+|**2024-06-24**|**Segment Any Text: A Universal Approach for Robust, Efficient and Adaptable Sentence Segmentation**|Markus Frohmann et.al.|[2406.16678v1](http://arxiv.org/abs/2406.16678v1)|null|
+|**2024-06-24**|**CAVE: Controllable Authorship Verification Explanations**|Sahana Ramnath et.al.|[2406.16672v1](http://arxiv.org/abs/2406.16672v1)|**[link](https://github.com/ink-usc/controllable-av-explanations)**|
+|**2024-06-24**|**DaLPSR: Leverage Degradation-Aligned Language Prompt for Real-World Image Super-Resolution**|Aiwen Jiang et.al.|[2406.16477v1](http://arxiv.org/abs/2406.16477v1)|null|
+|**2024-06-24**|**Reducing Fine-Tuning Memory Overhead by Approximate and Memory-Sharing Backpropagation**|Yuchen Yang et.al.|[2406.16282v1](http://arxiv.org/abs/2406.16282v1)|**[link](https://github.com/yyyyychen/LowMemoryBP)**|
+|**2024-06-24**|**Feature-prompting GBMSeg: One-Shot Reference Guided Training-Free Prompt Engineering for Glomerular Basement Membrane Segmentation**|Xueyu Liu et.al.|[2406.16271v1](http://arxiv.org/abs/2406.16271v1)|null|
+|**2024-06-23**|**Towards Open Respiratory Acoustic Foundation Models: Pretraining and Benchmarking**|Yuwei Zhang et.al.|[2406.16148v1](http://arxiv.org/abs/2406.16148v1)|**[link](https://github.com/evelyn0414/opera)**|
+|**2024-06-23**|**Crosslingual Capabilities and Knowledge Barriers in Multilingual Large Language Models**|Lynn Chua et.al.|[2406.16135v1](http://arxiv.org/abs/2406.16135v1)|**[link](https://github.com/google-research/crosslingual-knowledge-barriers)**|
 |**2024-06-21**|**Multimodal Task Vectors Enable Many-Shot Multimodal In-Context Learning**|Brandon Huang et.al.|[2406.15334v1](http://arxiv.org/abs/2406.15334v1)|null|
 |**2024-06-21**|**GiusBERTo: A Legal Language Model for Personal Data De-identification in Italian Court of Auditors Decisions**|Giulio Salierno et.al.|[2406.15032v1](http://arxiv.org/abs/2406.15032v1)|null|
 |**2024-06-21**|**Uni-Mol2: Exploring Molecular Pretraining Model at Scale**|Xiaohong Ji et.al.|[2406.14969v1](http://arxiv.org/abs/2406.14969v1)|null|
@@ -3153,12 +3163,22 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240625>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240626>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**StableNormal: Reducing Diffusion Variance for Stable and Sharp Normal**|Chongjie Ye et.al.|[2406.16864v1](http://arxiv.org/abs/2406.16864v1)|null|
+|**2024-06-24**|**Sparser is Faster and Less is More: Efficient Sparse Attention for Long-Range Transformers**|Chao Lou et.al.|[2406.16747v1](http://arxiv.org/abs/2406.16747v1)|null|
+|**2024-06-24**|**Task Oriented In-Domain Data Augmentation**|Xiao Liang et.al.|[2406.16694v1](http://arxiv.org/abs/2406.16694v1)|null|
+|**2024-06-24**|**Scaling Laws for Linear Complexity Language Models**|Xuyang Shen et.al.|[2406.16690v1](http://arxiv.org/abs/2406.16690v1)|null|
+|**2024-06-24**|**On the Role of Long-tail Knowledge in Retrieval Augmented Large Language Models**|Dongyang Li et.al.|[2406.16367v1](http://arxiv.org/abs/2406.16367v1)|null|
+|**2024-06-24**|**Reducing Fine-Tuning Memory Overhead by Approximate and Memory-Sharing Backpropagation**|Yuchen Yang et.al.|[2406.16282v1](http://arxiv.org/abs/2406.16282v1)|**[link](https://github.com/yyyyychen/LowMemoryBP)**|
+|**2024-06-24**|**SegNet4D: Effective and Efficient 4D LiDAR Semantic Segmentation in Autonomous Driving Environments**|Neng Wang et.al.|[2406.16279v1](http://arxiv.org/abs/2406.16279v1)|**[link](https://github.com/nubot-nudt/segnet4d)**|
+|**2024-06-22**|**RankAdaptor: Hierarchical Dynamic Low-Rank Adaptation for Structural Pruned LLMs**|Changhai Zhou et.al.|[2406.15734v1](http://arxiv.org/abs/2406.15734v1)|null|
+|**2024-06-21**|**Flat Posterior Does Matter For Bayesian Transfer Learning**|Sungjun Lim et.al.|[2406.15664v1](http://arxiv.org/abs/2406.15664v1)|null|
+|**2024-06-21**|**Taming 3DGS: High-Quality Radiance Fields with Limited Resources**|Saswat Subhajyoti Mallick et.al.|[2406.15643v1](http://arxiv.org/abs/2406.15643v1)|null|
 |**2024-06-21**|**Enhancing Idiomatic Representation in Multiple Languages via an Adaptive Contrastive Triplet Loss**|Wei He et.al.|[2406.15175v1](http://arxiv.org/abs/2406.15175v1)|null|
 |**2024-06-21**|**Cross-lingual paraphrase identification**|Inessa Fedorova et.al.|[2406.15066v1](http://arxiv.org/abs/2406.15066v1)|null|
 |**2024-06-21**|**From Overfitting to Robustness: Quantity, Quality, and Variety Oriented Negative Sample Selection in Graph Contrastive Learning**|Adnan Ali et.al.|[2406.15044v1](http://arxiv.org/abs/2406.15044v1)|null|
@@ -6041,12 +6061,13 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20240625>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240626>back to top</a>)</p>
 
 ## adaptor
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**A Multi-Party, Multi-Blockchain Atomic Swap Protocol with Universal Adaptor Secret**|Shengewei You et.al.|[2406.16822v1](http://arxiv.org/abs/2406.16822v1)|null|
 |**2024-06-14**|**A Fundamental Trade-off in Aligned Language Models and its Relation to Sampling Adaptors**|Naaman Tan et.al.|[2406.10203v1](http://arxiv.org/abs/2406.10203v1)|**[link](https://github.com/tanyjnaaman/probability-quality-paradox)**|
 |**2024-06-14**|**ControlVAR: Exploring Controllable Visual Autoregressive Modeling**|Xiang Li et.al.|[2406.09750v1](http://arxiv.org/abs/2406.09750v1)|null|
 |**2024-06-20**|**AdaNCA: Neural Cellular Automata As Adaptors For More Robust Vision Transformer**|Yitao Xu et.al.|[2406.08298v3](http://arxiv.org/abs/2406.08298v3)|null|
@@ -6155,12 +6176,17 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240625>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240626>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**Evaluating and Analyzing Relationship Hallucinations in LVLMs**|Mingrui Wu et.al.|[2406.16449v1](http://arxiv.org/abs/2406.16449v1)|null|
+|**2024-06-25**|**Exploring Test-Time Adaptation for Object Detection in Continually Changing Environments**|Shilei Cao et.al.|[2406.16439v2](http://arxiv.org/abs/2406.16439v2)|null|
+|**2024-06-23**|**Review of Zero-Shot and Few-Shot AI Algorithms in The Medical Domain**|Maged Badawi et.al.|[2406.16143v1](http://arxiv.org/abs/2406.16143v1)|null|
+|**2024-06-22**|**Smart Feature is What You Need**|Zhaoxin Hu et.al.|[2406.15805v1](http://arxiv.org/abs/2406.15805v1)|**[link](https://github.com/hzx-9894/mma)**|
+|**2024-06-22**|**MR-MLLM: Mutual Reinforcement of Multimodal Comprehension and Vision Perception**|Guanqun Wang et.al.|[2406.15768v1](http://arxiv.org/abs/2406.15768v1)|null|
 |**2024-06-21**|**DiPEx: Dispersing Prompt Expansion for Class-Agnostic Object Detection**|Jia Syuen Lim et.al.|[2406.14924v1](http://arxiv.org/abs/2406.14924v1)|null|
 |**2024-06-21**|**MOS: Model Synergy for Test-Time Adaptation on LiDAR-Based 3D Object Detection**|Zhuoxiao Chen et.al.|[2406.14878v1](http://arxiv.org/abs/2406.14878v1)|null|
 |**2024-06-20**|**Visible-Thermal Tiny Object Detection: A Benchmark Dataset and Baselines**|Xinyi Ying et.al.|[2406.14482v1](http://arxiv.org/abs/2406.14482v1)|**[link](https://github.com/xinyiying24/rgbt-tiny)**|
@@ -8772,7 +8798,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20240625>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240626>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
