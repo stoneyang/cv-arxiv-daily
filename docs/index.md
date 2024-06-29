@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.28
+## Updated on 2024.06.29
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-27**|**Subtractive Training for Music Stem Insertion using Latent Diffusion Models**|Ivan Villa-Renteria et.al.|[2406.19328v1](http://arxiv.org/abs/2406.19328v1)|null|
+|**2024-06-27**|**SimpleFusion: A Simple Fusion Framework for Infrared and Visible Images**|Ming Chen et.al.|[2406.19055v1](http://arxiv.org/abs/2406.19055v1)|**[link](https://github.com/hxwxss/simplefusion-a-simple-fusion-framework-for-infrared-and-visible-images)**|
+|**2024-06-27**|**Fine-tuned network relies on generic representation to solve unseen cognitive task**|Dongyan Lin et.al.|[2406.18926v1](http://arxiv.org/abs/2406.18926v1)|null|
+|**2024-06-27**|**Sonnet or Not, Bot? Poetry Evaluation for Large Models and Datasets**|Melanie Walsh et.al.|[2406.18906v1](http://arxiv.org/abs/2406.18906v1)|null|
+|**2024-06-27**|**Learning Modality Knowledge Alignment for Cross-Modality Transfer**|Wenxuan Ma et.al.|[2406.18864v1](http://arxiv.org/abs/2406.18864v1)|null|
+|**2024-06-27**|**LICO: Large Language Models for In-Context Molecular Optimization**|Tung Nguyen et.al.|[2406.18851v1](http://arxiv.org/abs/2406.18851v1)|null|
+|**2024-06-26**|**Learn it or Leave it: Module Composition and Pruning for Continual Learning**|Mingyang Wang et.al.|[2406.18708v1](http://arxiv.org/abs/2406.18708v1)|null|
+|**2024-06-26**|**Automatic Prediction of Amyotrophic Lateral Sclerosis Progression using Longitudinal Speech Transformer**|Liming Wang et.al.|[2406.18625v1](http://arxiv.org/abs/2406.18625v1)|null|
 |**2024-06-26**|**Mental Modeling of Reinforcement Learning Agents by Language Models**|Wenhao Lu et.al.|[2406.18505v1](http://arxiv.org/abs/2406.18505v1)|null|
 |**2024-06-26**|**Towards Human-Level 3D Relative Pose Estimation: Generalizable, Training-Free, with Single Reference**|Yuan Gao et.al.|[2406.18453v1](http://arxiv.org/abs/2406.18453v1)|**[link](https://github.com/ethanygao/training-free_generalizable_relative_pose)**|
 |**2024-06-27**|**Hierarchical Context Pruning: Optimizing Real-World Code Completion with Repository-Level Pretrained Code LLMs**|Lei Zhang et.al.|[2406.18294v2](http://arxiv.org/abs/2406.18294v2)|**[link](https://github.com/hambaobao/hcp-coder)**|
@@ -3183,12 +3191,13 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240628>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240629>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-26**|**WV-Net: A foundation model for SAR WV-mode satellite imagery trained using contrastive self-supervised learning on 10 million images**|Yannik Glaser et.al.|[2406.18765v1](http://arxiv.org/abs/2406.18765v1)|null|
 |**2024-06-26**|**MatchTime: Towards Automatic Soccer Game Commentary Generation**|Jiayuan Rao et.al.|[2406.18530v1](http://arxiv.org/abs/2406.18530v1)|null|
 |**2024-06-26**|**Evaluating and Benchmarking Foundation Models for Earth Observation and Geospatial AI**|Nikolaos Dionelis et.al.|[2406.18295v1](http://arxiv.org/abs/2406.18295v1)|null|
 |**2024-06-26**|**CAS: Confidence Assessments of classification algorithms for Semantic segmentation of EO data**|Nikolaos Dionelis et.al.|[2406.18279v1](http://arxiv.org/abs/2406.18279v1)|null|
@@ -6094,7 +6103,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20240628>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240629>back to top</a>)</p>
 
 ## adaptor
 
@@ -6210,12 +6219,19 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240628>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240629>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-27**|**HUWSOD: Holistic Self-training for Unified Weakly Supervised Object Detection**|Liujuan Cao et.al.|[2406.19394v1](http://arxiv.org/abs/2406.19394v1)|**[link](https://github.com/shenyunhang/huwsod)**|
+|**2024-06-27**|**STAL3D: Unsupervised Domain Adaptation for 3D Object Detection via Collaborating Self-Training and Adversarial Learning**|Yanan Zhang et.al.|[2406.19362v1](http://arxiv.org/abs/2406.19362v1)|null|
+|**2024-06-27**|**Towards Reducing Data Acquisition and Labeling for Defect Detection using Simulated Data**|Lukas Malte Kemeter et.al.|[2406.19175v1](http://arxiv.org/abs/2406.19175v1)|null|
+|**2024-06-27**|**Segment Anything Model for automated image data annotation: empirical studies using text prompts from Grounding DINO**|Fuseini Mumuni et.al.|[2406.19057v1](http://arxiv.org/abs/2406.19057v1)|null|
+|**2024-06-27**|**BiCo-Fusion: Bidirectional Complementary LiDAR-Camera Fusion for Semantic- and Spatial-Aware 3D Object Detection**|Yang Song et.al.|[2406.19048v1](http://arxiv.org/abs/2406.19048v1)|null|
+|**2024-06-27**|**A Universal Railway Obstacle Detection System based on Semi-supervised Segmentation And Optical Flow**|Qiushi Guo et.al.|[2406.18908v1](http://arxiv.org/abs/2406.18908v1)|null|
+|**2024-06-26**|**SpY: A Context-Based Approach to Spacecraft Component Detection**|Trupti Mahendrakar et.al.|[2406.18709v1](http://arxiv.org/abs/2406.18709v1)|null|
 |**2024-06-26**|**Unveiling the Unknown: Conditional Evidence Decoupling for Unknown Rejection**|Zhaowei Wu et.al.|[2406.18443v1](http://arxiv.org/abs/2406.18443v1)|**[link](https://github.com/zjzwzw/ced-food)**|
 |**2024-06-26**|**CTS: Sim-to-Real Unsupervised Domain Adaptation on 3D Detection**|Meiying Zhang et.al.|[2406.18129v1](http://arxiv.org/abs/2406.18129v1)|null|
 |**2024-06-26**|**The Surprising Effectiveness of Multimodal Large Language Models for Video Moment Retrieval**|Meinardus Boris et.al.|[2406.18113v1](http://arxiv.org/abs/2406.18113v1)|**[link](https://github.com/sudo-Boris/mr-Blip)**|
@@ -8839,7 +8855,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20240628>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240629>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
