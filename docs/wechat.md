@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.07.02
+> Updated on 2024.07.03
 
 <details>
   <summary>Table of Contents</summary>
@@ -3191,7 +3191,7 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20240702>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240703>back to top</a>)</p>
 
 ## downstream
 
@@ -6105,7 +6105,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20240702>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240703>back to top</a>)</p>
 
 ## adaptor
 
@@ -6220,11 +6220,11 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20240702>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240703>back to top</a>)</p>
 
 ## object detection
 
-- 2024-06-28, **Mobile Robot Oriented Large-Scale Indoor Dataset for Dynamic Scene Understanding**, Yifan Tang et.al., Paper: [http://arxiv.org/abs/2406.19791v1](http://arxiv.org/abs/2406.19791v1)
+- 2024-07-01, **Mobile Robot Oriented Large-Scale Indoor Dataset for Dynamic Scene Understanding**, Yifan Tang et.al., Paper: [http://arxiv.org/abs/2406.19791v2](http://arxiv.org/abs/2406.19791v2)
 - 2024-06-28, **Basketball-SORT: An Association Method for Complex Multi-object Occlusion Problems in Basketball Multi-object Tracking**, Qingrui Hu et.al., Paper: [http://arxiv.org/abs/2406.19655v1](http://arxiv.org/abs/2406.19655v1)
 - 2024-06-27, **Robustness Testing of Black-Box Models Against CT Degradation Through Test-Time Augmentation**, Jack Highton et.al., Paper: [http://arxiv.org/abs/2406.19557v1](http://arxiv.org/abs/2406.19557v1)
 - 2024-06-27, **BOrg: A Brain Organoid-Based Mitosis Dataset for Automatic Analysis of Brain Diseases**, Muhammad Awais et.al., Paper: [http://arxiv.org/abs/2406.19556v1](http://arxiv.org/abs/2406.19556v1), Code: **[https://github.com/awaisrauf/borg](https://github.com/awaisrauf/borg)**
@@ -6233,7 +6233,7 @@
 - 2024-06-27, **HUWSOD: Holistic Self-training for Unified Weakly Supervised Object Detection**, Liujuan Cao et.al., Paper: [http://arxiv.org/abs/2406.19394v1](http://arxiv.org/abs/2406.19394v1), Code: **[https://github.com/shenyunhang/huwsod](https://github.com/shenyunhang/huwsod)**
 - 2024-06-27, **STAL3D: Unsupervised Domain Adaptation for 3D Object Detection via Collaborating Self-Training and Adversarial Learning**, Yanan Zhang et.al., Paper: [http://arxiv.org/abs/2406.19362v1](http://arxiv.org/abs/2406.19362v1)
 - 2024-06-27, **Towards Reducing Data Acquisition and Labeling for Defect Detection using Simulated Data**, Lukas Malte Kemeter et.al., Paper: [http://arxiv.org/abs/2406.19175v1](http://arxiv.org/abs/2406.19175v1)
-- 2024-06-27, **Segment Anything Model for automated image data annotation: empirical studies using text prompts from Grounding DINO**, Fuseini Mumuni et.al., Paper: [http://arxiv.org/abs/2406.19057v1](http://arxiv.org/abs/2406.19057v1)
+- 2024-06-30, **Segment Anything Model for automated image data annotation: empirical studies using text prompts from Grounding DINO**, Fuseini Mumuni et.al., Paper: [http://arxiv.org/abs/2406.19057v2](http://arxiv.org/abs/2406.19057v2)
 - 2024-06-27, **BiCo-Fusion: Bidirectional Complementary LiDAR-Camera Fusion for Semantic- and Spatial-Aware 3D Object Detection**, Yang Song et.al., Paper: [http://arxiv.org/abs/2406.19048v1](http://arxiv.org/abs/2406.19048v1)
 - 2024-06-27, **A Universal Railway Obstacle Detection System based on Semi-supervised Segmentation And Optical Flow**, Qiushi Guo et.al., Paper: [http://arxiv.org/abs/2406.18908v1](http://arxiv.org/abs/2406.18908v1)
 - 2024-06-26, **SpY: A Context-Based Approach to Spacecraft Component Detection**, Trupti Mahendrakar et.al., Paper: [http://arxiv.org/abs/2406.18709v1](http://arxiv.org/abs/2406.18709v1)
@@ -8860,7 +8860,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20240702>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240703>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
