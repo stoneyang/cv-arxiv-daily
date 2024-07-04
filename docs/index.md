@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.03
+## Updated on 2024.07.04
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-02**|**Magic Insert: Style-Aware Drag-and-Drop**|Nataniel Ruiz et.al.|[2407.02489v1](http://arxiv.org/abs/2407.02489v1)|null|
+|**2024-07-02**|**GCF: Graph Convolutional Networks for Facial Expression Recognition**|Hozaifa Kassab et.al.|[2407.02361v1](http://arxiv.org/abs/2407.02361v1)|null|
+|**2024-07-02**|**Parameter-Selective Continual Test-Time Adaptation**|Jiaxu Tian et.al.|[2407.02253v1](http://arxiv.org/abs/2407.02253v1)|null|
+|**2024-07-02**|**MIREncoder: Multi-modal IR-based Pretrained Embeddings for Performance Optimizations**|Akash Dutta et.al.|[2407.02238v1](http://arxiv.org/abs/2407.02238v1)|null|
+|**2024-07-02**|**Breaking Language Barriers: Cross-Lingual Continual Pre-Training at Scale**|Wenzhen Zheng et.al.|[2407.02118v1](http://arxiv.org/abs/2407.02118v1)|null|
+|**2024-07-02**|**DM3D: Distortion-Minimized Weight Pruning for Lossless 3D Object Detection**|Kaixin Xu et.al.|[2407.02098v1](http://arxiv.org/abs/2407.02098v1)|null|
+|**2024-07-02**|**ScaleDreamer: Scalable Text-to-3D Synthesis with Asynchronous Score Distillation**|Zhiyuan Ma et.al.|[2407.02040v1](http://arxiv.org/abs/2407.02040v1)|**[link](https://github.com/theericma/scaledreamer)**|
+|**2024-07-02**|**Multi-Grained Contrast for Data-Efficient Unsupervised Representation Learning**|Chengchao Shen et.al.|[2407.02014v1](http://arxiv.org/abs/2407.02014v1)|**[link](https://github.com/visresearch/mgc)**|
+|**2024-07-02**|**Unleash the Power of Local Representations for Few-Shot Classification**|Shi Tang et.al.|[2407.01967v1](http://arxiv.org/abs/2407.01967v1)|null|
+|**2024-07-02**|**Text-Aware Diffusion for Policy Learning**|Calvin Luo et.al.|[2407.01903v1](http://arxiv.org/abs/2407.01903v1)|null|
 |**2024-06-28**|**Web2Code: A Large-scale Webpage-to-Code Dataset and Evaluation Framework for Multimodal LLMs**|Sukmin Yun et.al.|[2406.20098v1](http://arxiv.org/abs/2406.20098v1)|**[link](https://github.com/mbzuai-llm/web2code)**|
 |**2024-06-28**|**LLaRA: Supercharging Robot Learning Data for Vision-Language Policy**|Xiang Li et.al.|[2406.20095v1](http://arxiv.org/abs/2406.20095v1)|**[link](https://github.com/lostxine/llara)**|
 |**2024-06-28**|**BESTOW: Efficient and Streamable Speech Language Model with the Best of Two Worlds in GPT and T5**|Zhehuai Chen et.al.|[2406.19954v1](http://arxiv.org/abs/2406.19954v1)|null|
@@ -3197,12 +3207,22 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240703>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240704>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-02**|**MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention**|Huiqiang Jiang et.al.|[2407.02490v1](http://arxiv.org/abs/2407.02490v1)|**[link](https://github.com/microsoft/MInference)**|
+|**2024-07-02**|**Neurocache: Efficient Vector Retrieval for Long-range Language Modeling**|Ali Safaya et.al.|[2407.02486v1](http://arxiv.org/abs/2407.02486v1)|**[link](https://github.com/alisafaya/neurocache)**|
+|**2024-07-02**|**SUPER: Seated Upper Body Pose Estimation using mmWave Radars**|Bo Zhang et.al.|[2407.02455v1](http://arxiv.org/abs/2407.02455v1)|null|
+|**2024-07-02**|**Conceptual Codebook Learning for Vision-Language Models**|Yi Zhang et.al.|[2407.02350v1](http://arxiv.org/abs/2407.02350v1)|null|
+|**2024-07-02**|**MIREncoder: Multi-modal IR-based Pretrained Embeddings for Performance Optimizations**|Akash Dutta et.al.|[2407.02238v1](http://arxiv.org/abs/2407.02238v1)|null|
+|**2024-07-02**|**LlamAr & GemmAr: Enhancing LLMs Through Arabic Instruction-Tuning**|Hasna Chouikhi et.al.|[2407.02147v1](http://arxiv.org/abs/2407.02147v1)|null|
+|**2024-07-02**|**CGAP: Urban Region Representation Learning with Coarsened Graph Attention Pooling**|Zhuo Xu et.al.|[2407.02074v1](http://arxiv.org/abs/2407.02074v1)|null|
+|**2024-07-02**|**Multi-Grained Contrast for Data-Efficient Unsupervised Representation Learning**|Chengchao Shen et.al.|[2407.02014v1](http://arxiv.org/abs/2407.02014v1)|**[link](https://github.com/visresearch/mgc)**|
+|**2024-07-02**|**Extracting and Encoding: Leveraging Large Language Models and Medical Knowledge to Enhance Radiological Text Representation**|Pablo Messina et.al.|[2407.01948v1](http://arxiv.org/abs/2407.01948v1)|null|
+|**2024-07-02**|**Let the Expert Stick to His Last: Expert-Specialized Fine-Tuning for Sparse Architectural Large Language Models**|Zihan Wang et.al.|[2407.01906v1](http://arxiv.org/abs/2407.01906v1)|null|
 |**2024-06-28**|**Auto Cherry-Picker: Learning from High-quality Generative Data Driven by Language**|Yicheng Chen et.al.|[2406.20085v1](http://arxiv.org/abs/2406.20085v1)|null|
 |**2024-06-28**|**Scalable and Domain-General Abstractive Proposition Segmentation**|Mohammad Javad Hosseini et.al.|[2406.19803v1](http://arxiv.org/abs/2406.19803v1)|null|
 |**2024-06-28**|**Breaking the Script Barrier in Multilingual Pre-Trained Language Models with Transliteration-Based Post-Training Alignment**|Orgest Xhelili et.al.|[2406.19759v1](http://arxiv.org/abs/2406.19759v1)|null|
@@ -6113,7 +6133,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20240703>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240704>back to top</a>)</p>
 
 ## adaptor
 
@@ -6230,12 +6250,22 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240703>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240704>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-03**|**Similarity Distance-Based Label Assignment for Tiny Object Detection**|Shuohao Shi et.al.|[2407.02394v2](http://arxiv.org/abs/2407.02394v2)|**[link](https://github.com/cszzshi/SimD)**|
+|**2024-07-02**|**OpenSlot: Mixed Open-set Recognition with Object-centric Learning**|Xu Yin et.al.|[2407.02386v1](http://arxiv.org/abs/2407.02386v1)|null|
+|**2024-07-02**|**DM3D: Distortion-Minimized Weight Pruning for Lossless 3D Object Detection**|Kaixin Xu et.al.|[2407.02098v1](http://arxiv.org/abs/2407.02098v1)|null|
+|**2024-07-02**|**Multi-Grained Contrast for Data-Efficient Unsupervised Representation Learning**|Chengchao Shen et.al.|[2407.02014v1](http://arxiv.org/abs/2407.02014v1)|**[link](https://github.com/visresearch/mgc)**|
+|**2024-07-02**|**Adaptive Modality Balanced Online Knowledge Distillation for Brain-Eye-Computer based Dim Object Detection**|Zixing Li et.al.|[2407.01894v1](http://arxiv.org/abs/2407.01894v1)|**[link](https://github.com/lizixing23/AMBOKD)**|
+|**2024-07-01**|**Scarecrow monitoring system:employing mobilenet ssd for enhanced animal supervision**|Balaji VS et.al.|[2407.01435v1](http://arxiv.org/abs/2407.01435v1)|null|
+|**2024-07-01**|**Formal Verification of Object Detection**|Avraham Raviv et.al.|[2407.01295v1](http://arxiv.org/abs/2407.01295v1)|null|
+|**2024-07-01**|**SGCCNet: Single-Stage 3D Object Detector With Saliency-Guided Data Augmentation and Confidence Correction Mechanism**|Ao Liang et.al.|[2407.01239v1](http://arxiv.org/abs/2407.01239v1)|null|
+|**2024-07-01**|**Cross-Architecture Auxiliary Feature Space Translation for Efficient Few-Shot Personalized Object Detection**|Francesco Barbato et.al.|[2407.01193v1](http://arxiv.org/abs/2407.01193v1)|null|
+|**2024-07-01**|**Multi-View Black-Box Physical Attacks on Infrared Pedestrian Detectors Using Adversarial Infrared Grid**|Kalibinuer Tiliwalidi et.al.|[2407.01168v1](http://arxiv.org/abs/2407.01168v1)|null|
 |**2024-07-01**|**Mobile Robot Oriented Large-Scale Indoor Dataset for Dynamic Scene Understanding**|Yifan Tang et.al.|[2406.19791v2](http://arxiv.org/abs/2406.19791v2)|null|
 |**2024-06-28**|**Basketball-SORT: An Association Method for Complex Multi-object Occlusion Problems in Basketball Multi-object Tracking**|Qingrui Hu et.al.|[2406.19655v1](http://arxiv.org/abs/2406.19655v1)|null|
 |**2024-06-27**|**Robustness Testing of Black-Box Models Against CT Degradation Through Test-Time Augmentation**|Jack Highton et.al.|[2406.19557v1](http://arxiv.org/abs/2406.19557v1)|null|
@@ -8872,7 +8902,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20240703>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240704>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
