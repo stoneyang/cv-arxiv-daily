@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.07.04
+> Updated on 2024.07.05
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,13 @@
 
 ## pretrain
 
+- 2024-07-03, **STF: Sentence Transformer Fine-Tuning For Topic Categorization With Limited Data**, Kheir Eddine Daouadi et.al., Paper: [http://arxiv.org/abs/2407.03253v1](http://arxiv.org/abs/2407.03253v1)
+- 2024-07-03, **CATT: Character-based Arabic Tashkeel Transformer**, Faris Alasmary et.al., Paper: [http://arxiv.org/abs/2407.03236v1](http://arxiv.org/abs/2407.03236v1)
+- 2024-07-03, **SegVG: Transferring Object Bounding Box to Segmentation for Visual Grounding**, Weitai Kang et.al., Paper: [http://arxiv.org/abs/2407.03200v1](http://arxiv.org/abs/2407.03200v1), Code: **[https://github.com/weitaikang/segvg](https://github.com/weitaikang/segvg)**
+- 2024-07-03, **On the Client Preference of LLM Fine-tuning in Federated Learning**, Feijie Wu et.al., Paper: [http://arxiv.org/abs/2407.03038v1](http://arxiv.org/abs/2407.03038v1)
+- 2024-07-03, **Strategies for Arabic Readability Modeling**, Juan Piñeros Liberato et.al., Paper: [http://arxiv.org/abs/2407.03032v1](http://arxiv.org/abs/2407.03032v1)
+- 2024-07-03, **Exploiting Dialect Identification in Automatic Dialectal Text Normalization**, Bashar Alhafni et.al., Paper: [http://arxiv.org/abs/2407.03020v1](http://arxiv.org/abs/2407.03020v1)
+- 2024-07-03, **Large language models, physics-based modeling, experimental measurements: the trinity of data-scarce learning of polymer properties**, Ning Liu et.al., Paper: [http://arxiv.org/abs/2407.02770v1](http://arxiv.org/abs/2407.02770v1)
 - 2024-07-02, **Magic Insert: Style-Aware Drag-and-Drop**, Nataniel Ruiz et.al., Paper: [http://arxiv.org/abs/2407.02489v1](http://arxiv.org/abs/2407.02489v1)
 - 2024-07-02, **GCF: Graph Convolutional Networks for Facial Expression Recognition**, Hozaifa Kassab et.al., Paper: [http://arxiv.org/abs/2407.02361v1](http://arxiv.org/abs/2407.02361v1)
 - 2024-07-02, **Parameter-Selective Continual Test-Time Adaptation**, Jiaxu Tian et.al., Paper: [http://arxiv.org/abs/2407.02253v1](http://arxiv.org/abs/2407.02253v1)
@@ -3201,10 +3208,20 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20240704>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240705>back to top</a>)</p>
 
 ## downstream
 
+- 2024-07-03, **BACON: Supercharge Your VLM with Bag-of-Concept Graph to Mitigate Hallucinations**, Zhantao Yang et.al., Paper: [http://arxiv.org/abs/2407.03314v1](http://arxiv.org/abs/2407.03314v1)
+- 2024-07-03, **Reconsidering utility: unveiling the limitations of synthetic mobility data generation algorithms in real-life scenarios**, Alexandra Kapp et.al., Paper: [http://arxiv.org/abs/2407.03237v1](http://arxiv.org/abs/2407.03237v1)
+- 2024-07-03, **Social Bias Evaluation for Large Language Models Requires Prompt Variations**, Rem Hida et.al., Paper: [http://arxiv.org/abs/2407.03129v1](http://arxiv.org/abs/2407.03129v1)
+- 2024-07-03, **Anti-Collapse Loss for Deep Metric Learning Based on Coding Rate Metric**, Xiruo Jiang et.al., Paper: [http://arxiv.org/abs/2407.03106v1](http://arxiv.org/abs/2407.03106v1), Code: **[https://github.com/nust-machine-intelligence-laboratory/anti-collapse-loss](https://github.com/nust-machine-intelligence-laboratory/anti-collapse-loss)**
+- 2024-07-03, **Improving Zero-shot Generalization of Learned Prompts via Unsupervised Knowledge Distillation**, Marco Mistretta et.al., Paper: [http://arxiv.org/abs/2407.03056v1](http://arxiv.org/abs/2407.03056v1)
+- 2024-07-03, **SAFT: Towards Out-of-Distribution Generalization in Fine-Tuning**, Bac Nguyen et.al., Paper: [http://arxiv.org/abs/2407.03036v1](http://arxiv.org/abs/2407.03036v1)
+- 2024-07-03, **Learning to Reduce: Towards Improving Performance of Large Language Models on Structured Data**, Younghun Lee et.al., Paper: [http://arxiv.org/abs/2407.02750v1](http://arxiv.org/abs/2407.02750v1)
+- 2024-07-02, **Light-weight Fine-tuning Method for Defending Adversarial Noise in Pre-trained Medical Vision-Language Models**, Xu Han et.al., Paper: [http://arxiv.org/abs/2407.02716v1](http://arxiv.org/abs/2407.02716v1)
+- 2024-07-02, **Generalized Event Cameras**, Varun Sundar et.al., Paper: [http://arxiv.org/abs/2407.02683v1](http://arxiv.org/abs/2407.02683v1)
+- 2024-07-02, **Uniform Transformation: Refining Latent Representation in Variational Autoencoders**, Ye Shi et.al., Paper: [http://arxiv.org/abs/2407.02681v1](http://arxiv.org/abs/2407.02681v1)
 - 2024-07-02, **MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention**, Huiqiang Jiang et.al., Paper: [http://arxiv.org/abs/2407.02490v1](http://arxiv.org/abs/2407.02490v1), Code: **[https://github.com/microsoft/MInference](https://github.com/microsoft/MInference)**
 - 2024-07-02, **Neurocache: Efficient Vector Retrieval for Long-range Language Modeling**, Ali Safaya et.al., Paper: [http://arxiv.org/abs/2407.02486v1](http://arxiv.org/abs/2407.02486v1), Code: **[https://github.com/alisafaya/neurocache](https://github.com/alisafaya/neurocache)**
 - 2024-07-02, **SUPER: Seated Upper Body Pose Estimation using mmWave Radars**, Bo Zhang et.al., Paper: [http://arxiv.org/abs/2407.02455v1](http://arxiv.org/abs/2407.02455v1)
@@ -6125,7 +6142,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20240704>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240705>back to top</a>)</p>
 
 ## adaptor
 
@@ -6240,10 +6257,19 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20240704>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240705>back to top</a>)</p>
 
 ## object detection
 
+- 2024-07-03, **Visual Grounding with Attention-Driven Constraint Balancing**, Weitai Kang et.al., Paper: [http://arxiv.org/abs/2407.03243v1](http://arxiv.org/abs/2407.03243v1)
+- 2024-07-03, **Category-Aware Dynamic Label Assignment with High-Quality Oriented Proposal**, Mingkui Feng et.al., Paper: [http://arxiv.org/abs/2407.03205v1](http://arxiv.org/abs/2407.03205v1)
+- 2024-07-03, **SegVG: Transferring Object Bounding Box to Segmentation for Visual Grounding**, Weitai Kang et.al., Paper: [http://arxiv.org/abs/2407.03200v1](http://arxiv.org/abs/2407.03200v1), Code: **[https://github.com/weitaikang/segvg](https://github.com/weitaikang/segvg)**
+- 2024-07-03, **Global Context Modeling in YOLOv8 for Pediatric Wrist Fracture Detection**, Rui-Yang Ju et.al., Paper: [http://arxiv.org/abs/2407.03163v1](http://arxiv.org/abs/2407.03163v1), Code: **[https://github.com/ruiyangju/yolov8_global_context_fracture_detection](https://github.com/ruiyangju/yolov8_global_context_fracture_detection)**
+- 2024-07-03, **YOLOv5, YOLOv8 and YOLOv10: The Go-To Detectors for Real-time Vision**, Muhammad Hussain et.al., Paper: [http://arxiv.org/abs/2407.02988v1](http://arxiv.org/abs/2407.02988v1)
+- 2024-07-03, **A Pairwise DomMix Attentive Adversarial Network for Unsupervised Domain Adaptive Object Detection**, Jie Shao et.al., Paper: [http://arxiv.org/abs/2407.02835v1](http://arxiv.org/abs/2407.02835v1)
+- 2024-07-03, **ADFQ-ViT: Activation-Distribution-Friendly Post-Training Quantization for Vision Transformers**, Yanfeng Jiang et.al., Paper: [http://arxiv.org/abs/2407.02763v1](http://arxiv.org/abs/2407.02763v1)
+- 2024-07-02, **SMILe: Leveraging Submodular Mutual Information For Robust Few-Shot Object Detection**, Anay Majee et.al., Paper: [http://arxiv.org/abs/2407.02665v1](http://arxiv.org/abs/2407.02665v1)
+- 2024-07-02, **Robust ADAS: Enhancing Robustness of Machine Learning-based Advanced Driver Assistance Systems for Adverse Weather**, Muhammad Zaeem Shahzad et.al., Paper: [http://arxiv.org/abs/2407.02581v1](http://arxiv.org/abs/2407.02581v1)
 - 2024-07-03, **Similarity Distance-Based Label Assignment for Tiny Object Detection**, Shuohao Shi et.al., Paper: [http://arxiv.org/abs/2407.02394v2](http://arxiv.org/abs/2407.02394v2), Code: **[https://github.com/cszzshi/SimD](https://github.com/cszzshi/SimD)**
 - 2024-07-02, **OpenSlot: Mixed Open-set Recognition with Object-centric Learning**, Xu Yin et.al., Paper: [http://arxiv.org/abs/2407.02386v1](http://arxiv.org/abs/2407.02386v1)
 - 2024-07-02, **DM3D: Distortion-Minimized Weight Pruning for Lossless 3D Object Detection**, Kaixin Xu et.al., Paper: [http://arxiv.org/abs/2407.02098v1](http://arxiv.org/abs/2407.02098v1)
@@ -8890,7 +8916,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20240704>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240705>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
