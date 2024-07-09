@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.08
+## Updated on 2024.07.09
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-05**|**Me, Myself, and AI: The Situational Awareness Dataset (SAD) for LLMs**|Rudolf Laine et.al.|[2407.04694v1](http://arxiv.org/abs/2407.04694v1)|null|
+|**2024-07-05**|**Pretraining End-to-End Keyword Search with Automatically Discovered Acoustic Units**|Bolaji Yusuf et.al.|[2407.04652v1](http://arxiv.org/abs/2407.04652v1)|**[link](https://github.com/beer-asr/beer)**|
+|**2024-07-05**|**Performance Analysis of Speech Encoders for Low-Resource SLU and ASR in Tunisian Dialect**|Salima Mdhaffar et.al.|[2407.04533v1](http://arxiv.org/abs/2407.04533v1)|null|
+|**2024-07-05**|**Few-Shot Airway-Tree Modeling using Data-Driven Sparse Priors**|Ali Keshavarzi et.al.|[2407.04507v1](http://arxiv.org/abs/2407.04507v1)|null|
+|**2024-07-05**|**Using LLMs to label medical papers according to the CIViC evidence model**|Markus Hisch et.al.|[2407.04466v1](http://arxiv.org/abs/2407.04466v1)|null|
+|**2024-07-05**|**Generalists vs. Specialists: Evaluating Large Language Models for Urdu**|Samee Arif et.al.|[2407.04459v1](http://arxiv.org/abs/2407.04459v1)|null|
+|**2024-07-05**|**Multi-modal Masked Siamese Network Improves Chest X-Ray Representation Learning**|Saeed Shurrab et.al.|[2407.04449v1](http://arxiv.org/abs/2407.04449v1)|**[link](https://github.com/nyuad-cai/cxr-ehr-msn)**|
+|**2024-07-05**|**XLSR-Transducer: Streaming ASR for Self-Supervised Pretrained Models**|Shashi Kumar et.al.|[2407.04439v1](http://arxiv.org/abs/2407.04439v1)|null|
+|**2024-07-05**|**Understanding the Role of Invariance in Transfer Learning**|Till Speicher et.al.|[2407.04325v1](http://arxiv.org/abs/2407.04325v1)|**[link](https://github.com/tillspeicher/representation-invariance-transfer)**|
+|**2024-07-05**|**Smart Vision-Language Reasoners**|Denisa Roberts et.al.|[2407.04212v1](http://arxiv.org/abs/2407.04212v1)|**[link](https://github.com/smarter-vlm/smarter)**|
 |**2024-07-03**|**STF: Sentence Transformer Fine-Tuning For Topic Categorization With Limited Data**|Kheir Eddine Daouadi et.al.|[2407.03253v1](http://arxiv.org/abs/2407.03253v1)|null|
 |**2024-07-03**|**CATT: Character-based Arabic Tashkeel Transformer**|Faris Alasmary et.al.|[2407.03236v1](http://arxiv.org/abs/2407.03236v1)|**[link](https://github.com/abjadai/catt)**|
 |**2024-07-03**|**SegVG: Transferring Object Bounding Box to Segmentation for Visual Grounding**|Weitai Kang et.al.|[2407.03200v1](http://arxiv.org/abs/2407.03200v1)|**[link](https://github.com/weitaikang/segvg)**|
@@ -3210,12 +3220,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240708>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240709>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-05**|**Strengthening Structural Inductive Biases by Pre-training to Perform Syntactic Transformations**|Matthias Lindemann et.al.|[2407.04543v1](http://arxiv.org/abs/2407.04543v1)|null|
+|**2024-07-05**|**Performance Analysis of Speech Encoders for Low-Resource SLU and ASR in Tunisian Dialect**|Salima Mdhaffar et.al.|[2407.04533v1](http://arxiv.org/abs/2407.04533v1)|null|
+|**2024-07-05**|**From Audio Encoders to Piano Judges: Benchmarking Performance Understanding for Solo Piano**|Huan Zhang et.al.|[2407.04518v1](http://arxiv.org/abs/2407.04518v1)|null|
+|**2024-07-05**|**Understanding the Role of Invariance in Transfer Learning**|Till Speicher et.al.|[2407.04325v1](http://arxiv.org/abs/2407.04325v1)|**[link](https://github.com/tillspeicher/representation-invariance-transfer)**|
+|**2024-07-05**|**Second Place Solution of WSDM2023 Toloka Visual Question Answering Challenge**|Xiangyu Wu et.al.|[2407.04255v1](http://arxiv.org/abs/2407.04255v1)|null|
+|**2024-07-05**|**Graph Pooling via Ricci Flow**|Amy Feng et.al.|[2407.04236v1](http://arxiv.org/abs/2407.04236v1)|null|
+|**2024-07-04**|**Attention Normalization Impacts Cardinality Generalization in Slot Attention**|Markus Krimmel et.al.|[2407.04170v1](http://arxiv.org/abs/2407.04170v1)|null|
+|**2024-07-04**|**MAPO: Boosting Large Language Model Performance with Model-Adaptive Prompt Optimization**|Yuyan Chen et.al.|[2407.04118v1](http://arxiv.org/abs/2407.04118v1)|null|
+|**2024-07-04**|**Advances in Diffusion Models for Image Data Augmentation: A Review of Methods, Models, Evaluation Metrics and Future Research Directions**|Panagiotis Alimisis et.al.|[2407.04103v1](http://arxiv.org/abs/2407.04103v1)|null|
+|**2024-07-04**|**CLIP-DR: Textual Knowledge-Guided Diabetic Retinopathy Grading with Ranking-aware Prompting**|Qinkai Yu et.al.|[2407.04068v1](http://arxiv.org/abs/2407.04068v1)|**[link](https://github.com/qinkaiyu/clip-dr)**|
 |**2024-07-03**|**BACON: Supercharge Your VLM with Bag-of-Concept Graph to Mitigate Hallucinations**|Zhantao Yang et.al.|[2407.03314v1](http://arxiv.org/abs/2407.03314v1)|null|
 |**2024-07-03**|**Reconsidering utility: unveiling the limitations of synthetic mobility data generation algorithms in real-life scenarios**|Alexandra Kapp et.al.|[2407.03237v1](http://arxiv.org/abs/2407.03237v1)|null|
 |**2024-07-03**|**Social Bias Evaluation for Large Language Models Requires Prompt Variations**|Rem Hida et.al.|[2407.03129v1](http://arxiv.org/abs/2407.03129v1)|**[link](https://github.com/rem-h4/llm_socialbias_prompts)**|
@@ -6146,12 +6166,13 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20240708>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240709>back to top</a>)</p>
 
 ## adaptor
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-05**|**LoCo: Low-Bit Communication Adaptor for Large-scale Model Training**|Xingyu Xie et.al.|[2407.04480v1](http://arxiv.org/abs/2407.04480v1)|**[link](https://github.com/XingyuXie/LoCo)**|
 |**2024-06-28**|**LEMoE: Advanced Mixture of Experts Adaptor for Lifelong Model Editing of Large Language Models**|Renzhi Wang et.al.|[2406.20030v1](http://arxiv.org/abs/2406.20030v1)|null|
 |**2024-06-26**|**Minimal Interaction Edge Tuning: A New Paradigm for Visual Adaptation**|Ningyuan Tang et.al.|[2406.17559v2](http://arxiv.org/abs/2406.17559v2)|null|
 |**2024-06-24**|**A Multi-Party, Multi-Blockchain Atomic Swap Protocol with Universal Adaptor Secret**|Shengewei You et.al.|[2406.16822v1](http://arxiv.org/abs/2406.16822v1)|null|
@@ -6263,12 +6284,22 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240708>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240709>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-05**|**SH17: A Dataset for Human Safety and Personal Protective Equipment Detection in Manufacturing Industry**|Hafiz Mughees Ahmad et.al.|[2407.04590v1](http://arxiv.org/abs/2407.04590v1)|**[link](https://github.com/ahmadmughees/sh17dataset)**|
+|**2024-07-05**|**Multi-Branch Auxiliary Fusion YOLO with Re-parameterization Heterogeneous Convolutional for accurate object detection**|Zhiqiang Yang et.al.|[2407.04381v1](http://arxiv.org/abs/2407.04381v1)|**[link](https://github.com/yang-0201/MAF-YOLO)**|
+|**2024-07-05**|**Towards Stable 3D Object Detection**|Jiabao Wang et.al.|[2407.04305v1](http://arxiv.org/abs/2407.04305v1)|null|
+|**2024-07-04**|**LiDAR-based Real-Time Object Detection and Tracking in Dynamic Environments**|Wenqiang Du et.al.|[2407.04115v1](http://arxiv.org/abs/2407.04115v1)|null|
+|**2024-07-04**|**FIPGNet:Pyramid grafting network with feature interaction strategies**|Ziyi Ding et.al.|[2407.04085v1](http://arxiv.org/abs/2407.04085v1)|null|
+|**2024-07-04**|**Detect Closer Surfaces that can be Seen: New Modeling and Evaluation in Cross-domain 3D Object Detection**|Ruixiao Zhang et.al.|[2407.04061v1](http://arxiv.org/abs/2407.04061v1)|null|
+|**2024-07-04**|**The Solution for the GAIIC2024 RGB-TIR object detection Challenge**|Xiangyu Wu et.al.|[2407.03872v1](http://arxiv.org/abs/2407.03872v1)|null|
+|**2024-07-04**|**StreamLTS: Query-based Temporal-Spatial LiDAR Fusion for Cooperative Object Detection**|Yunshuang Yuan et.al.|[2407.03825v1](http://arxiv.org/abs/2407.03825v1)|null|
+|**2024-07-04**|**CoMix: A Comprehensive Benchmark for Multi-Task Comic Understanding**|Emanuele Vivoli et.al.|[2407.03550v1](http://arxiv.org/abs/2407.03550v1)|**[link](https://github.com/emanuelevivoli/comix-dataset)**|
+|**2024-07-03**|**Comics Datasets Framework: Mix of Comics datasets for detection benchmarking**|Emanuele Vivoli et.al.|[2407.03540v1](http://arxiv.org/abs/2407.03540v1)|null|
 |**2024-07-03**|**Visual Grounding with Attention-Driven Constraint Balancing**|Weitai Kang et.al.|[2407.03243v1](http://arxiv.org/abs/2407.03243v1)|null|
 |**2024-07-03**|**Category-Aware Dynamic Label Assignment with High-Quality Oriented Proposal**|Mingkui Feng et.al.|[2407.03205v1](http://arxiv.org/abs/2407.03205v1)|null|
 |**2024-07-03**|**SegVG: Transferring Object Bounding Box to Segmentation for Visual Grounding**|Weitai Kang et.al.|[2407.03200v1](http://arxiv.org/abs/2407.03200v1)|**[link](https://github.com/weitaikang/segvg)**|
@@ -8924,7 +8955,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20240708>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240709>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
