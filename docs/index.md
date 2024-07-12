@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.11
+## Updated on 2024.07.12
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-10**|**Training on the Test Task Confounds Evaluation and Emergence**|Ricardo Dominguez-Olmedo et.al.|[2407.07890v1](http://arxiv.org/abs/2407.07890v1)|**[link](https://github.com/socialfoundations/training-on-the-test-task)**|
+|**2024-07-10**|**Learning Spatial-Semantic Features for Robust Video Object Segmentation**|Xin Li et.al.|[2407.07760v1](http://arxiv.org/abs/2407.07760v1)|null|
+|**2024-07-10**|**VEnhancer: Generative Space-Time Enhancement for Video Generation**|Jingwen He et.al.|[2407.07667v1](http://arxiv.org/abs/2407.07667v1)|null|
+|**2024-07-10**|**Machine Unlearning for Medical Imaging**|Reza Nasirigerdeh et.al.|[2407.07539v1](http://arxiv.org/abs/2407.07539v1)|null|
+|**2024-07-10**|**IRSAM: Advancing Segment Anything Model for Infrared Small Target Detection**|Mingjin Zhang et.al.|[2407.07520v1](http://arxiv.org/abs/2407.07520v1)|**[link](https://github.com/ipic-lab/irsam)**|
+|**2024-07-10**|**Bucket Pre-training is All You Need**|Hongtao Liu et.al.|[2407.07495v1](http://arxiv.org/abs/2407.07495v1)|null|
+|**2024-07-10**|**Exploring the Untouched Sweeps for Conflict-Aware 3D Segmentation Pretraining**|Tianfang Sun et.al.|[2407.07465v1](http://arxiv.org/abs/2407.07465v1)|null|
+|**2024-07-10**|**Unity in Diversity: Multi-expert Knowledge Confrontation and Collaboration for Generalizable Vehicle Re-identification**|Zhenyu Kuang et.al.|[2407.07351v1](http://arxiv.org/abs/2407.07351v1)|null|
+|**2024-07-10**|**Micro-Expression Recognition by Motion Feature Extraction based on Pre-training**|Ruolin Li et.al.|[2407.07345v1](http://arxiv.org/abs/2407.07345v1)|null|
+|**2024-07-10**|**ViTime: A Visual Intelligence-Based Foundation Model for Time Series Forecasting**|Luoxiao Yang et.al.|[2407.07311v1](http://arxiv.org/abs/2407.07311v1)|**[link](https://github.com/ikeyang/vitime)**|
 |**2024-07-09**|**FBI-LLM: Scaling Up Fully Binarized LLMs from Scratch via Autoregressive Distillation**|Liqun Ma et.al.|[2407.07093v1](http://arxiv.org/abs/2407.07093v1)|**[link](https://github.com/liqunma/fbi-llm)**|
 |**2024-07-09**|**ConceptExpress: Harnessing Diffusion Models for Single-image Unsupervised Concept Extraction**|Shaozhe Hao et.al.|[2407.07077v1](http://arxiv.org/abs/2407.07077v1)|**[link](https://github.com/haoosz/conceptexpress)**|
 |**2024-07-09**|**CycleSAM: One-Shot Surgical Scene Segmentation using Cycle-Consistent Feature Matching to Prompt SAM**|Aditya Murali et.al.|[2407.06795v1](http://arxiv.org/abs/2407.06795v1)|null|
@@ -3244,12 +3254,20 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240711>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240712>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-10**|**Vegetable Peeling: A Case Study in Constrained Dexterous Manipulation**|Tao Chen et.al.|[2407.07884v1](http://arxiv.org/abs/2407.07884v1)|null|
+|**2024-07-10**|**ROSA: Random Subspace Adaptation for Efficient Fine-Tuning**|Marawan Gamal Abdel Hameed et.al.|[2407.07802v1](http://arxiv.org/abs/2407.07802v1)|**[link](https://github.com/rosa-paper/rosa)**|
+|**2024-07-11**|**Tuning Vision-Language Models with Candidate Labels by Prompt Alignment**|Zhifang Zhang et.al.|[2407.07638v2](http://arxiv.org/abs/2407.07638v2)|null|
+|**2024-07-11**|**InstructLayout: Instruction-Driven 2D and 3D Layout Synthesis with Semantic Graph Prior**|Chenguo Lin et.al.|[2407.07580v2](http://arxiv.org/abs/2407.07580v2)|null|
+|**2024-07-10**|**Federated Foundation Model for Cardiac CT Imaging**|Malte Tölle et.al.|[2407.07557v1](http://arxiv.org/abs/2407.07557v1)|**[link](https://github.com/cardio-ai/fed-foundation-model-cardiac-ct)**|
+|**2024-07-10**|**SHERL: Synthesizing High Accuracy and Efficient Memory for Resource-Limited Transfer Learning**|Haiwen Diao et.al.|[2407.07523v1](http://arxiv.org/abs/2407.07523v1)|**[link](https://github.com/paranioar/sherl)**|
+|**2024-07-10**|**MNeRV: A Multilayer Neural Representation for Videos**|Qingling Chang et.al.|[2407.07347v1](http://arxiv.org/abs/2407.07347v1)|**[link](https://github.com/aaronbtb/mnerv)**|
+|**2024-07-10**|**Deformation-Recovery Diffusion Model (DRDM): Instance Deformation for Image Manipulation and Synthesis**|Jian-Qing Zheng et.al.|[2407.07295v1](http://arxiv.org/abs/2407.07295v1)|null|
 |**2024-07-09**|**V-VIPE: Variational View Invariant Pose Embedding**|Mara Levy et.al.|[2407.07092v1](http://arxiv.org/abs/2407.07092v1)|null|
 |**2024-07-09**|**Parameter-Efficient and Memory-Efficient Tuning for Vision Transformer: A Disentangled Approach**|Taolin Zhang et.al.|[2407.06964v1](http://arxiv.org/abs/2407.06964v1)|null|
 |**2024-07-09**|**Rethinking Image-to-Video Adaptation: An Object-centric Perspective**|Rui Qian et.al.|[2407.06871v1](http://arxiv.org/abs/2407.06871v1)|null|
@@ -6210,7 +6228,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20240711>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240712>back to top</a>)</p>
 
 ## adaptor
 
@@ -6328,12 +6346,17 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240711>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240712>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-10**|**Cross Domain Object Detection via Multi-Granularity Confidence Alignment based Mean Teacher**|Jiangming Chen et.al.|[2407.07780v1](http://arxiv.org/abs/2407.07780v1)|null|
+|**2024-07-10**|**LSM: A Comprehensive Metric for Assessing the Safety of Lane Detection Systems in Autonomous Driving**|Jörg Gamerdinger et.al.|[2407.07740v1](http://arxiv.org/abs/2407.07740v1)|null|
+|**2024-07-10**|**Few-Shot Domain Adaptive Object Detection for Microscopic Images**|Sumayya Inayat et.al.|[2407.07633v1](http://arxiv.org/abs/2407.07633v1)|null|
+|**2024-07-10**|**Simplifying Source-Free Domain Adaptation for Object Detection: Effective Self-Training Strategies and Performance Insights**|Yan Hao et.al.|[2407.07586v1](http://arxiv.org/abs/2407.07586v1)|**[link](https://github.com/epfl-imos/simple-sfod)**|
+|**2024-07-09**|**Exploring Camera Encoder Designs for Autonomous Driving Perception**|Barath Lakshmanan et.al.|[2407.07276v1](http://arxiv.org/abs/2407.07276v1)|null|
 |**2024-07-09**|**Category-level Object Detection, Pose Estimation and Reconstruction from Stereo Images**|Chuanrui Zhang et.al.|[2407.06984v1](http://arxiv.org/abs/2407.06984v1)|null|
 |**2024-07-09**|**Cue Point Estimation using Object Detection**|Giulia Argüello et.al.|[2407.06823v1](http://arxiv.org/abs/2407.06823v1)|**[link](https://github.com/eth-disco/cue-detr)**|
 |**2024-07-09**|**CoLA: Conditional Dropout and Language-driven Robust Dual-modal Salient Object Detection**|Shuang Hao et.al.|[2407.06780v1](http://arxiv.org/abs/2407.06780v1)|**[link](https://github.com/ssecv/CoLA)**|
@@ -9016,7 +9039,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20240711>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240712>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
