@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.16
+## Updated on 2024.07.17
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-15**|**No Train, all Gain: Self-Supervised Gradients Improve Deep Frozen Representations**|Walter Simoncini et.al.|[2407.10964v1](http://arxiv.org/abs/2407.10964v1)|**[link](https://github.com/waltersimoncini/fungivision)**|
+|**2024-07-15**|**STARS: Self-supervised Tuning for 3D Action Recognition in Skeleton Sequences**|Soroush Mehraban et.al.|[2407.10935v1](http://arxiv.org/abs/2407.10935v1)|null|
+|**2024-07-15**|**Anticipating Future Object Compositions without Forgetting**|Youssef Zahran et.al.|[2407.10723v1](http://arxiv.org/abs/2407.10723v1)|null|
+|**2024-07-15**|**SEMINAR: Search Enhanced Multi-modal Interest Network and Approximate Retrieval for Lifelong Sequential Recommendation**|Kaiming Shen et.al.|[2407.10714v1](http://arxiv.org/abs/2407.10714v1)|null|
+|**2024-07-15**|**IDEAL: Leveraging Infinite and Dynamic Characterizations of Large Language Models for Query-focused Summarization**|Jie Cao et.al.|[2407.10486v1](http://arxiv.org/abs/2407.10486v1)|null|
+|**2024-07-14**|**Affordance-Guided Reinforcement Learning via Visual Prompting**|Olivia Y. Lee et.al.|[2407.10341v1](http://arxiv.org/abs/2407.10341v1)|null|
+|**2024-07-14**|**Noise Calibration: Plug-and-play Content-Preserving Video Enhancement using Pre-trained Video Diffusion Models**|Qinyu Yang et.al.|[2407.10285v1](http://arxiv.org/abs/2407.10285v1)|**[link](https://github.com/yangqy1110/nc-sdedit)**|
+|**2024-07-14**|**Enhancing Emotion Prediction in News Headlines: Insights from ChatGPT and Seq2Seq Models for Free-Text Generation**|Ge Gao et.al.|[2407.10091v1](http://arxiv.org/abs/2407.10091v1)|null|
+|**2024-07-13**|**Automated detection of gibbon calls from passive acoustic monitoring data using convolutional neural networks in the "torch for R" ecosystem**|Dena J. Clink et.al.|[2407.09976v1](http://arxiv.org/abs/2407.09976v1)|null|
+|**2024-07-12**|**GOFA: A Generative One-For-All Model for Joint Graph Language Modeling**|Lecheng Kong et.al.|[2407.09709v1](http://arxiv.org/abs/2407.09709v1)|**[link](https://github.com/jiaruifeng/gofa)**|
 |**2024-07-12**|**MUSCLE: A Model Update Strategy for Compatible LLM Evolution**|Jessica Echterhoff et.al.|[2407.09435v1](http://arxiv.org/abs/2407.09435v1)|null|
 |**2024-07-12**|**Transformer Layers as Painters**|Qi Sun et.al.|[2407.09298v1](http://arxiv.org/abs/2407.09298v1)|null|
 |**2024-07-12**|**Movie Recommendation with Poster Attention via Multi-modal Transformer Feature Fusion**|Linhan Xia et.al.|[2407.09157v1](http://arxiv.org/abs/2407.09157v1)|null|
@@ -3266,12 +3276,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240716>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240717>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-15**|**Graphusion: Leveraging Large Language Models for Scientific Knowledge Graph Fusion and Construction in NLP Education**|Rui Yang et.al.|[2407.10794v1](http://arxiv.org/abs/2407.10794v1)|**[link](https://github.com/irenezihuili/cgprompt)**|
+|**2024-07-15**|**Quantized Prompt for Efficient Generalization of Vision-Language Models**|Tianxiang Hao et.al.|[2407.10704v1](http://arxiv.org/abs/2407.10704v1)|**[link](https://github.com/beyondhtx/qprompt)**|
+|**2024-07-15**|**Towards Robust Event-based Networks for Nighttime via Unpaired Day-to-Night Event Translation**|Yuhwan Jeong et.al.|[2407.10703v1](http://arxiv.org/abs/2407.10703v1)|**[link](https://github.com/jeongyh98/udnet)**|
+|**2024-07-15**|**Backdoor Attacks against Image-to-Image Networks**|Wenbo Jiang et.al.|[2407.10445v1](http://arxiv.org/abs/2407.10445v1)|null|
+|**2024-07-15**|**Proper losses regret at least 1/2-order**|Han Bao et.al.|[2407.10417v1](http://arxiv.org/abs/2407.10417v1)|null|
+|**2024-07-14**|**Shape2Scene: 3D Scene Representation Learning Through Pre-training on Shape Data**|Tuo Feng et.al.|[2407.10200v1](http://arxiv.org/abs/2407.10200v1)|**[link](https://github.com/fengzicai/s2s)**|
+|**2024-07-14**|**Look Within, Why LLMs Hallucinate: A Causal Perspective**|He Li et.al.|[2407.10153v1](http://arxiv.org/abs/2407.10153v1)|null|
+|**2024-07-13**|**Harvesting Private Medical Images in Federated Learning Systems with Crafted Models**|Shanghao Shi et.al.|[2407.09972v1](http://arxiv.org/abs/2407.09972v1)|null|
+|**2024-07-13**|**Low-Rank Interconnected Adaptation Across Layers**|Yibo Zhong et.al.|[2407.09946v1](http://arxiv.org/abs/2407.09946v1)|**[link](https://github.com/blameitonme1/lily)**|
+|**2024-07-13**|**Zero-Shot Image Compression with Diffusion-Based Posterior Sampling**|Noam Elata et.al.|[2407.09896v1](http://arxiv.org/abs/2407.09896v1)|null|
 |**2024-07-12**|**MUSCLE: A Model Update Strategy for Compatible LLM Evolution**|Jessica Echterhoff et.al.|[2407.09435v1](http://arxiv.org/abs/2407.09435v1)|null|
 |**2024-07-12**|**A Perspective on Foundation Models for the Electric Power Grid**|Hendrik F. Hamann et.al.|[2407.09434v1](http://arxiv.org/abs/2407.09434v1)|null|
 |**2024-07-12**|**FedVAE: Trajectory privacy preserving based on Federated Variational AutoEncoder**|Yuchen Jiang et.al.|[2407.09239v1](http://arxiv.org/abs/2407.09239v1)|null|
@@ -6260,12 +6280,13 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20240716>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240717>back to top</a>)</p>
 
 ## adaptor
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-14**|**Whisper-SV: Adapting Whisper for Low-data-resource Speaker Verification**|Li Zhang et.al.|[2407.10048v1](http://arxiv.org/abs/2407.10048v1)|null|
 |**2024-07-05**|**LoCo: Low-Bit Communication Adaptor for Large-scale Model Training**|Xingyu Xie et.al.|[2407.04480v1](http://arxiv.org/abs/2407.04480v1)|**[link](https://github.com/XingyuXie/LoCo)**|
 |**2024-06-28**|**LEMoE: Advanced Mixture of Experts Adaptor for Lifelong Model Editing of Large Language Models**|Renzhi Wang et.al.|[2406.20030v1](http://arxiv.org/abs/2406.20030v1)|null|
 |**2024-06-26**|**Minimal Interaction Edge Tuning: A New Paradigm for Visual Adaptation**|Ningyuan Tang et.al.|[2406.17559v2](http://arxiv.org/abs/2406.17559v2)|null|
@@ -6378,12 +6399,22 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240716>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240717>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-15**|**Interpreting Hand gestures using Object Detection and Digits Classification**|Sangeetha K et.al.|[2407.10902v1](http://arxiv.org/abs/2407.10902v1)|null|
+|**2024-07-15**|**RepVF: A Unified Vector Fields Representation for Multi-task 3D Perception**|Chunliang Li et.al.|[2407.10876v1](http://arxiv.org/abs/2407.10876v1)|**[link](https://github.com/jbji/repvf)**|
+|**2024-07-15**|**OPEN: Object-wise Position Embedding for Multi-view 3D Object Detection**|Jinghua Hou et.al.|[2407.10753v1](http://arxiv.org/abs/2407.10753v1)|null|
+|**2024-07-15**|**Anticipating Future Object Compositions without Forgetting**|Youssef Zahran et.al.|[2407.10723v1](http://arxiv.org/abs/2407.10723v1)|null|
+|**2024-07-15**|**OVLW-DETR: Open-Vocabulary Light-Weighted Detection Transformer**|Yu Wang et.al.|[2407.10655v1](http://arxiv.org/abs/2407.10655v1)|**[link](https://github.com/atten4vis/lw-detr)**|
+|**2024-07-15**|**Backdoor Attacks against Image-to-Image Networks**|Wenbo Jiang et.al.|[2407.10445v1](http://arxiv.org/abs/2407.10445v1)|null|
+|**2024-07-14**|**Shape2Scene: 3D Scene Representation Learning Through Pre-training on Shape Data**|Tuo Feng et.al.|[2407.10200v1](http://arxiv.org/abs/2407.10200v1)|**[link](https://github.com/fengzicai/s2s)**|
+|**2024-07-14**|**LabelDistill: Label-guided Cross-modal Knowledge Distillation for Camera-based 3D Object Detection**|Sanmin Kim et.al.|[2407.10164v1](http://arxiv.org/abs/2407.10164v1)|**[link](https://github.com/sanmin0312/labeldistill)**|
+|**2024-07-14**|**FSD-BEV: Foreground Self-Distillation for Multi-view 3D Object Detection**|Zheng Jiang et.al.|[2407.10135v1](http://arxiv.org/abs/2407.10135v1)|null|
+|**2024-07-14**|**Plain-Det: A Plain Multi-Dataset Object Detector**|Cheng Shi et.al.|[2407.10083v1](http://arxiv.org/abs/2407.10083v1)|**[link](https://github.com/chengshiest/plain-det)**|
 |**2024-07-12**|**DART: An Automated End-to-End Object Detection Pipeline with Data Diversification, Open-Vocabulary Bounding Box Annotation, Pseudo-Label Review, and Model Training**|Chen Xin et.al.|[2407.09174v1](http://arxiv.org/abs/2407.09174v1)|**[link](https://github.com/chen-xin-94/dart)**|
 |**2024-07-12**|**FD-SOS: Vision-Language Open-Set Detectors for Bone Fenestration and Dehiscence Detection from Intraoral Images**|Marawan Elbatel et.al.|[2407.09088v1](http://arxiv.org/abs/2407.09088v1)|null|
 |**2024-07-12**|**Open Vocabulary Multi-Label Video Classification**|Rohit Gupta et.al.|[2407.09073v1](http://arxiv.org/abs/2407.09073v1)|null|
@@ -9085,7 +9116,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20240716>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240717>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
