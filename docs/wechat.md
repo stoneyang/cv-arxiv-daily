@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.07.22
+> Updated on 2024.07.23
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,16 @@
 
 ## pretrain
 
+- 2024-07-19, **Panoptic Segmentation of Mammograms with Text-To-Image Diffusion Model**, Kun Zhao et.al., Paper: [http://arxiv.org/abs/2407.14326v1](http://arxiv.org/abs/2407.14326v1)
+- 2024-07-19, **Dyn-Adapter: Towards Disentangled Representation for Efficient Visual Recognition**, Yurong Zhang et.al., Paper: [http://arxiv.org/abs/2407.14302v1](http://arxiv.org/abs/2407.14302v1)
+- 2024-07-19, **Foundation Models for Autonomous Robots in Unstructured Environments**, Hossein Naderi et.al., Paper: [http://arxiv.org/abs/2407.14296v1](http://arxiv.org/abs/2407.14296v1)
+- 2024-07-19, **SparseCraft: Few-Shot Neural Reconstruction through Stereopsis Guided Geometric Linearization**, Mae Younes et.al., Paper: [http://arxiv.org/abs/2407.14257v1](http://arxiv.org/abs/2407.14257v1)
+- 2024-07-19, **An Attention-based Representation Distillation Baseline for Multi-Label Continual Learning**, Martin Menabue et.al., Paper: [http://arxiv.org/abs/2407.14249v1](http://arxiv.org/abs/2407.14249v1), Code: **[https://github.com/aimagelab/scad-lod-2024](https://github.com/aimagelab/scad-lod-2024)**
+- 2024-07-19, **Realistic Evaluation of Test-Time Adaptation Algorithms: Unsupervised Hyperparameter Selection**, Sebastian Cygert et.al., Paper: [http://arxiv.org/abs/2407.14231v1](http://arxiv.org/abs/2407.14231v1)
+- 2024-07-19, **PassTSL: Modeling Human-Created Passwords through Two-Stage Learning**, Yangde Wang et.al., Paper: [http://arxiv.org/abs/2407.14145v1](http://arxiv.org/abs/2407.14145v1)
+- 2024-07-19, **Domain-Specific Pretraining of Language Models: A Comparative Study in the Medical Field**, Tobias Kerner et.al., Paper: [http://arxiv.org/abs/2407.14076v1](http://arxiv.org/abs/2407.14076v1)
+- 2024-07-19, **Generative Language Model for Catalyst Discovery**, Dong Hyeon Mok et.al., Paper: [http://arxiv.org/abs/2407.14040v1](http://arxiv.org/abs/2407.14040v1)
+- 2024-07-19, **Decomposed Direct Preference Optimization for Structure-Based Drug Design**, Xiwei Cheng et.al., Paper: [http://arxiv.org/abs/2407.13981v1](http://arxiv.org/abs/2407.13981v1)
 - 2024-07-18, **Training-Free Model Merging for Multi-target Domain Adaptation**, Wenyi Li et.al., Paper: [http://arxiv.org/abs/2407.13771v1](http://arxiv.org/abs/2407.13771v1)
 - 2024-07-18, **Latent Causal Probing: A Formal Perspective on Probing with Causal Models of Data**, Charles Jin et.al., Paper: [http://arxiv.org/abs/2407.13765v1](http://arxiv.org/abs/2407.13765v1)
 - 2024-07-18, **Scaling Granite Code Models to 128K Context**, Matt Stallone et.al., Paper: [http://arxiv.org/abs/2407.13739v1](http://arxiv.org/abs/2407.13739v1)
@@ -3294,10 +3304,20 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20240722>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240723>back to top</a>)</p>
 
 ## downstream
 
+- 2024-07-19, **Discover-then-Name: Task-Agnostic Concept Bottlenecks via Automated Concept Discovery**, Sukrut Rao et.al., Paper: [http://arxiv.org/abs/2407.14499v1](http://arxiv.org/abs/2407.14499v1), Code: **[https://github.com/neuroexplicit-saar/discover-then-name](https://github.com/neuroexplicit-saar/discover-then-name)**
+- 2024-07-19, **ChatQA 2: Bridging the Gap to Proprietary LLMs in Long Context and RAG Capabilities**, Peng Xu et.al., Paper: [http://arxiv.org/abs/2407.14482v1](http://arxiv.org/abs/2407.14482v1)
+- 2024-07-19, **Jumping Ahead: Improving Reconstruction Fidelity with JumpReLU Sparse Autoencoders**, Senthooran Rajamanoharan et.al., Paper: [http://arxiv.org/abs/2407.14435v1](http://arxiv.org/abs/2407.14435v1)
+- 2024-07-19, **Co-synthesis of Histopathology Nuclei Image-Label Pairs using a Context-Conditioned Joint Diffusion Model**, Seonghui Min et.al., Paper: [http://arxiv.org/abs/2407.14434v1](http://arxiv.org/abs/2407.14434v1)
+- 2024-07-19, **Controllable and Efficient Multi-Class Pathology Nuclei Data Augmentation using Text-Conditioned Diffusion Models**, Hyun-Jic Oh et.al., Paper: [http://arxiv.org/abs/2407.14426v1](http://arxiv.org/abs/2407.14426v1)
+- 2024-07-19, **DEAL: Disentangle and Localize Concept-level Explanations for VLMs**, Tang Li et.al., Paper: [http://arxiv.org/abs/2407.14412v1](http://arxiv.org/abs/2407.14412v1)
+- 2024-07-19, **Panoptic Segmentation of Mammograms with Text-To-Image Diffusion Model**, Kun Zhao et.al., Paper: [http://arxiv.org/abs/2407.14326v1](http://arxiv.org/abs/2407.14326v1)
+- 2024-07-19, **EmoCAM: Toward Understanding What Drives CNN-based Emotion Recognition**, Youssef Doulfoukar et.al., Paper: [http://arxiv.org/abs/2407.14314v1](http://arxiv.org/abs/2407.14314v1)
+- 2024-07-19, **Dyn-Adapter: Towards Disentangled Representation for Efficient Visual Recognition**, Yurong Zhang et.al., Paper: [http://arxiv.org/abs/2407.14302v1](http://arxiv.org/abs/2407.14302v1)
+- 2024-07-19, **Class-Incremental Learning with CLIP: Adaptive Representation Adjustment and Parameter Fusion**, Linlan Huang et.al., Paper: [http://arxiv.org/abs/2407.14143v1](http://arxiv.org/abs/2407.14143v1)
 - 2024-07-18, **MaRINeR: Enhancing Novel Views by Matching Rendered Images with Nearby References**, Lukas Bösiger et.al., Paper: [http://arxiv.org/abs/2407.13745v1](http://arxiv.org/abs/2407.13745v1)
 - 2024-07-18, **Decision Focused Causal Learning for Direct Counterfactual Marketing Optimization**, Hao Zhou et.al., Paper: [http://arxiv.org/abs/2407.13664v1](http://arxiv.org/abs/2407.13664v1)
 - 2024-07-18, **On the Discriminability of Self-Supervised Representation Learning**, Zeen Song et.al., Paper: [http://arxiv.org/abs/2407.13541v1](http://arxiv.org/abs/2407.13541v1)
@@ -6316,7 +6336,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20240722>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240723>back to top</a>)</p>
 
 ## adaptor
 
@@ -6435,13 +6455,17 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20240722>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240723>back to top</a>)</p>
 
 ## object detection
 
-- 2024-07-18, **GroupMamba: Parameter-Efficient and Accurate Group Visual State Space Model**, Abdelrahman Shaker et.al., Paper: [http://arxiv.org/abs/2407.13772v1](http://arxiv.org/abs/2407.13772v1)
-- 2024-07-18, **General Geometry-aware Weakly Supervised 3D Object Detection**, Guowen Zhang et.al., Paper: [http://arxiv.org/abs/2407.13748v1](http://arxiv.org/abs/2407.13748v1)
-- 2024-07-18, **Enhancing Source-Free Domain Adaptive Object Detection with Low-confidence Pseudo Label Distillation**, Ilhoon Yoon et.al., Paper: [http://arxiv.org/abs/2407.13524v1](http://arxiv.org/abs/2407.13524v1)
+- 2024-07-19, **Enhancing Layout Hotspot Detection Efficiency with YOLOv8 and PCA-Guided Augmentation**, Dongyang Wu et.al., Paper: [http://arxiv.org/abs/2407.14498v1](http://arxiv.org/abs/2407.14498v1)
+- 2024-07-19, **MLMT-CNN for Object Detection and Segmentation in Multi-layer and Multi-spectral Images**, Majedaldein Almahasneh et.al., Paper: [http://arxiv.org/abs/2407.14473v1](http://arxiv.org/abs/2407.14473v1)
+- 2024-07-19, **EmoCAM: Toward Understanding What Drives CNN-based Emotion Recognition**, Youssef Doulfoukar et.al., Paper: [http://arxiv.org/abs/2407.14314v1](http://arxiv.org/abs/2407.14314v1)
+- 2024-07-19, **Bucketed Ranking-based Losses for Efficient Training of Object Detectors**, Feyza Yavuz et.al., Paper: [http://arxiv.org/abs/2407.14204v1](http://arxiv.org/abs/2407.14204v1), Code: **[https://github.com/blisgard/bucketedrankingbasedlosses](https://github.com/blisgard/bucketedrankingbasedlosses)**
+- 2024-07-18, **GroupMamba: Parameter-Efficient and Accurate Group Visual State Space Model**, Abdelrahman Shaker et.al., Paper: [http://arxiv.org/abs/2407.13772v1](http://arxiv.org/abs/2407.13772v1), Code: **[https://github.com/Amshaker/GroupMamba](https://github.com/Amshaker/GroupMamba)**
+- 2024-07-18, **General Geometry-aware Weakly Supervised 3D Object Detection**, Guowen Zhang et.al., Paper: [http://arxiv.org/abs/2407.13748v1](http://arxiv.org/abs/2407.13748v1), Code: **[https://github.com/gwenzhang/GGA](https://github.com/gwenzhang/GGA)**
+- 2024-07-18, **Enhancing Source-Free Domain Adaptive Object Detection with Low-confidence Pseudo Label Distillation**, Ilhoon Yoon et.al., Paper: [http://arxiv.org/abs/2407.13524v1](http://arxiv.org/abs/2407.13524v1), Code: **[https://github.com/junia3/lpld](https://github.com/junia3/lpld)**
 - 2024-07-18, **Learning Camouflaged Object Detection from Noisy Pseudo Label**, Jin Zhang et.al., Paper: [http://arxiv.org/abs/2407.13157v1](http://arxiv.org/abs/2407.13157v1)
 - 2024-07-18, **DFMSD: Dual Feature Masking Stage-wise Knowledge Distillation for Object Detection**, Zhourui Zhang et.al., Paper: [http://arxiv.org/abs/2407.13147v1](http://arxiv.org/abs/2407.13147v1)
 - 2024-07-18, **FocusDiffuser: Perceiving Local Disparities for Camouflaged Object Detection**, Jianwei Zhao et.al., Paper: [http://arxiv.org/abs/2407.13133v1](http://arxiv.org/abs/2407.13133v1)
@@ -9170,7 +9194,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20240722>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240723>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
