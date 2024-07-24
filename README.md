@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.23
+## Updated on 2024.07.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-22**|**Artist: Aesthetically Controllable Text-Driven Stylization without Training**|Ruixiang Jiang et.al.|[2407.15842v1](http://arxiv.org/abs/2407.15842v1)|null|
+|**2024-07-22**|**dMel: Speech Tokenization made Simple**|He Bai et.al.|[2407.15835v1](http://arxiv.org/abs/2407.15835v1)|null|
+|**2024-07-22**|**Model editing for distribution shifts in uranium oxide morphological analysis**|Davis Brown et.al.|[2407.15756v1](http://arxiv.org/abs/2407.15756v1)|null|
+|**2024-07-22**|**OMoS-QA: A Dataset for Cross-Lingual Extractive Question Answering in a German Migration Context**|Steffen Kleinle et.al.|[2407.15736v1](http://arxiv.org/abs/2407.15736v1)|null|
+|**2024-07-22**|**Do Large Language Models Have Compositional Ability? An Investigation into Limitations and Scalability**|Zhuoyan Xu et.al.|[2407.15720v1](http://arxiv.org/abs/2407.15720v1)|**[link](https://github.com/oliverxuzy/llm_compose)**|
+|**2024-07-22**|**Generating Sample-Based Musical Instruments Using Neural Audio Codec Language Models**|Shahan Nercessian et.al.|[2407.15641v1](http://arxiv.org/abs/2407.15641v1)|null|
+|**2024-07-22**|**Two Stacks Are Better Than One: A Comparison of Language Modeling and Translation as Multilingual Pretraining Objectives**|Zihao Li et.al.|[2407.15489v1](http://arxiv.org/abs/2407.15489v1)|**[link](https://github.com/helsinki-nlp/lm-vs-mt)**|
+|**2024-07-22**|**SIGMA: Sinkhorn-Guided Masked Video Modeling**|Mohammadreza Salehi et.al.|[2407.15447v1](http://arxiv.org/abs/2407.15447v1)|null|
+|**2024-07-22**|**Empirical Capacity Model for Self-Attention Neural Networks**|Aki Härmä et.al.|[2407.15425v1](http://arxiv.org/abs/2407.15425v1)|null|
+|**2024-07-22**|**Offline Imitation Learning Through Graph Search and Retrieval**|Zhao-Heng Yin et.al.|[2407.15403v1](http://arxiv.org/abs/2407.15403v1)|null|
 |**2024-07-19**|**Panoptic Segmentation of Mammograms with Text-To-Image Diffusion Model**|Kun Zhao et.al.|[2407.14326v1](http://arxiv.org/abs/2407.14326v1)|null|
 |**2024-07-19**|**Dyn-Adapter: Towards Disentangled Representation for Efficient Visual Recognition**|Yurong Zhang et.al.|[2407.14302v1](http://arxiv.org/abs/2407.14302v1)|null|
 |**2024-07-19**|**Foundation Models for Autonomous Robots in Unstructured Environments**|Hossein Naderi et.al.|[2407.14296v1](http://arxiv.org/abs/2407.14296v1)|null|
@@ -3306,12 +3316,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240723>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240724>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-22**|**Efficient and generalizable prediction of molecular alterations in multiple cancer cohorts using H&E whole slide images**|Kshitij Ingale et.al.|[2407.15816v1](http://arxiv.org/abs/2407.15816v1)|null|
+|**2024-07-22**|**Probing Fine-Grained Action Understanding and Cross-View Generalization of Foundation Models**|Thinesh Thiyakesan Ponbagavathi et.al.|[2407.15605v1](http://arxiv.org/abs/2407.15605v1)|null|
+|**2024-07-22**|**Exploring the Effectiveness of Object-Centric Representations in Visual Question Answering: Comparative Insights with Foundation Models**|Amir Mohammad Karimi Mamaghan et.al.|[2407.15589v1](http://arxiv.org/abs/2407.15589v1)|null|
+|**2024-07-22**|**Fundamental Limits of Prompt Compression: A Rate-Distortion Framework for Black-Box Language Models**|Adway Girish et.al.|[2407.15504v1](http://arxiv.org/abs/2407.15504v1)|null|
+|**2024-07-22**|**In-Context Learning Improves Compositional Understanding of Vision-Language Models**|Matteo Nulli et.al.|[2407.15487v1](http://arxiv.org/abs/2407.15487v1)|**[link](https://github.com/hoezey/vlm-compositionality)**|
+|**2024-07-22**|**Text2Place: Affordance-aware Text Guided Human Placement**|Rishubh Parihar et.al.|[2407.15446v1](http://arxiv.org/abs/2407.15446v1)|null|
+|**2024-07-22**|**A Multimodal Knowledge-enhanced Whole-slide Pathology Foundation Model**|Yingxue Xu et.al.|[2407.15362v1](http://arxiv.org/abs/2407.15362v1)|null|
+|**2024-07-21**|**Weakly SSM : On the Viability of Weakly Supervised Segmentations for Statistical Shape Modeling**|Janmesh Ukey et.al.|[2407.15260v1](http://arxiv.org/abs/2407.15260v1)|null|
+|**2024-07-21**|**New Rules for Causal Identification with Background Knowledge**|Tian-Zuo Wang et.al.|[2407.15259v1](http://arxiv.org/abs/2407.15259v1)|null|
+|**2024-07-21**|**Overview of Speaker Modeling and Its Applications: From the Lens of Deep Speaker Representation Learning**|Shuai Wang et.al.|[2407.15188v1](http://arxiv.org/abs/2407.15188v1)|null|
 |**2024-07-19**|**Discover-then-Name: Task-Agnostic Concept Bottlenecks via Automated Concept Discovery**|Sukrut Rao et.al.|[2407.14499v1](http://arxiv.org/abs/2407.14499v1)|**[link](https://github.com/neuroexplicit-saar/discover-then-name)**|
 |**2024-07-19**|**ChatQA 2: Bridging the Gap to Proprietary LLMs in Long Context and RAG Capabilities**|Peng Xu et.al.|[2407.14482v1](http://arxiv.org/abs/2407.14482v1)|null|
 |**2024-07-19**|**Jumping Ahead: Improving Reconstruction Fidelity with JumpReLU Sparse Autoencoders**|Senthooran Rajamanoharan et.al.|[2407.14435v1](http://arxiv.org/abs/2407.14435v1)|null|
@@ -6340,7 +6360,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20240723>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240724>back to top</a>)</p>
 
 ## adaptor
 
@@ -6461,12 +6481,22 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240723>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240724>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-22**|**Disentangling spatio-temporal knowledge for weakly supervised object detection and segmentation in surgical video**|Guiqiu Liao et.al.|[2407.15794v1](http://arxiv.org/abs/2407.15794v1)|null|
+|**2024-07-22**|**Towards Open-World Object-based Anomaly Detection via Self-Supervised Outlier Synthesis**|Brian K. S. Isaac-Medina et.al.|[2407.15763v1](http://arxiv.org/abs/2407.15763v1)|null|
+|**2024-07-22**|**YOLOv10 for Automated Fracture Detection in Pediatric Wrist Trauma X-rays**|Ammar Ahmed et.al.|[2407.15689v1](http://arxiv.org/abs/2407.15689v1)|**[link](https://github.com/ammarlodhi255/YOLOv10-Fracture-Detection)**|
+|**2024-07-22**|**SS-SFR: Synthetic Scenes Spatial Frequency Response on Virtual KITTI and Degraded Automotive Simulations for Object Detection**|Daniel Jakab et.al.|[2407.15646v1](http://arxiv.org/abs/2407.15646v1)|null|
+|**2024-07-22**|**YOLO-pdd: A Novel Multi-scale PCB Defect Detection Method Using Deep Representations with Sequential Images**|Bowen Liu et.al.|[2407.15427v1](http://arxiv.org/abs/2407.15427v1)|null|
+|**2024-07-22**|**Learning High-resolution Vector Representation from Multi-Camera Images for 3D Object Detection**|Zhili Chen et.al.|[2407.15354v1](http://arxiv.org/abs/2407.15354v1)|null|
+|**2024-07-22**|**Explore the LiDAR-Camera Dynamic Adjustment Fusion for 3D Object Detection**|Yiran Yang et.al.|[2407.15334v1](http://arxiv.org/abs/2407.15334v1)|null|
+|**2024-07-21**|**Weak-to-Strong Compositional Learning from Generative Models for Language-based Object Detection**|Kwanyong Park et.al.|[2407.15296v1](http://arxiv.org/abs/2407.15296v1)|null|
+|**2024-07-21**|**Multiple Object Detection and Tracking in Panoramic Videos for Cycling Safety Analysis**|Jingwei Guo et.al.|[2407.15199v1](http://arxiv.org/abs/2407.15199v1)|null|
+|**2024-07-21**|**Rethinking Feature Backbone Fine-tuning for Remote Sensing Object Detection**|Yechan Kim et.al.|[2407.15143v1](http://arxiv.org/abs/2407.15143v1)|null|
 |**2024-07-19**|**Enhancing Layout Hotspot Detection Efficiency with YOLOv8 and PCA-Guided Augmentation**|Dongyang Wu et.al.|[2407.14498v1](http://arxiv.org/abs/2407.14498v1)|null|
 |**2024-07-19**|**MLMT-CNN for Object Detection and Segmentation in Multi-layer and Multi-spectral Images**|Majedaldein Almahasneh et.al.|[2407.14473v1](http://arxiv.org/abs/2407.14473v1)|null|
 |**2024-07-19**|**EmoCAM: Toward Understanding What Drives CNN-based Emotion Recognition**|Youssef Doulfoukar et.al.|[2407.14314v1](http://arxiv.org/abs/2407.14314v1)|null|
@@ -9202,7 +9232,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20240723>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240724>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
