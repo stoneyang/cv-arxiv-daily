@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.24
+## Updated on 2024.07.25
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,7 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-22**|**Artist: Aesthetically Controllable Text-Driven Stylization without Training**|Ruixiang Jiang et.al.|[2407.15842v1](http://arxiv.org/abs/2407.15842v1)|null|
+|**2024-07-23**|**Towards scalable efficient on-device ASR with transfer learning**|Laxmi Pandey et.al.|[2407.16664v1](http://arxiv.org/abs/2407.16664v1)|null|
+|**2024-07-23**|**Data Mixture Inference: What do BPE Tokenizers Reveal about their Training Data?**|Jonathan Hayase et.al.|[2407.16607v1](http://arxiv.org/abs/2407.16607v1)|null|
+|**2024-07-24**|**Audio Prompt Adapter: Unleashing Music Editing Abilities for Text-to-Music with Lightweight Finetuning**|Fang-Duo Tsai et.al.|[2407.16564v2](http://arxiv.org/abs/2407.16564v2)|**[link](https://github.com/fundwotsai2001/ap-adapter)**|
+|**2024-07-23**|**QPT V2: Masked Image Modeling Advances Visual Scoring**|Qizhi Xie et.al.|[2407.16541v1](http://arxiv.org/abs/2407.16541v1)|**[link](https://github.com/keichitse/qpt-v2)**|
+|**2024-07-23**|**Imperfect Vision Encoders: Efficient and Robust Tuning for Vision-Language Models**|Aristeidis Panos et.al.|[2407.16526v1](http://arxiv.org/abs/2407.16526v1)|null|
+|**2024-07-23**|**PreAlign: Boosting Cross-Lingual Transfer by Early Establishment of Multilingual Alignment**|Jiahuan Li et.al.|[2407.16222v1](http://arxiv.org/abs/2407.16222v1)|null|
+|**2024-07-23**|**INF-LLaVA: Dual-perspective Perception for High-Resolution Multimodal Large Language Model**|Yiwei Ma et.al.|[2407.16198v1](http://arxiv.org/abs/2407.16198v1)|**[link](https://github.com/weihuanglin/inf-llava)**|
+|**2024-07-23**|**DDK: Distilling Domain Knowledge for Efficient Large Language Models**|Jiaheng Liu et.al.|[2407.16154v1](http://arxiv.org/abs/2407.16154v1)|null|
+|**2024-07-22**|**EfficientCD: A New Strategy For Change Detection Based With Bi-temporal Layers Exchanged**|Sijun Dong et.al.|[2407.15999v1](http://arxiv.org/abs/2407.15999v1)|null|
+|**2024-07-22**|**Artist: Aesthetically Controllable Text-Driven Stylization without Training**|Ruixiang Jiang et.al.|[2407.15842v1](http://arxiv.org/abs/2407.15842v1)|**[link](https://github.com/songrise/Artist)**|
 |**2024-07-22**|**dMel: Speech Tokenization made Simple**|He Bai et.al.|[2407.15835v1](http://arxiv.org/abs/2407.15835v1)|null|
 |**2024-07-22**|**Model editing for distribution shifts in uranium oxide morphological analysis**|Davis Brown et.al.|[2407.15756v1](http://arxiv.org/abs/2407.15756v1)|null|
 |**2024-07-22**|**OMoS-QA: A Dataset for Cross-Lingual Extractive Question Answering in a German Migration Context**|Steffen Kleinle et.al.|[2407.15736v1](http://arxiv.org/abs/2407.15736v1)|null|
@@ -3316,12 +3325,15 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240724>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240725>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-23**|**Patched RTC: evaluating LLMs for diverse software development tasks**|Asankhaya Sharma et.al.|[2407.16557v1](http://arxiv.org/abs/2407.16557v1)|null|
+|**2024-07-23**|**Towards Effective Fusion and Forecasting of Multimodal Spatio-temporal Data for Smart Mobility**|Chenxing Wang et.al.|[2407.16123v1](http://arxiv.org/abs/2407.16123v1)|null|
+|**2024-07-24**|**Spatial-Temporal Cross-View Contrastive Pre-training for Check-in Sequence Representation Learning**|Letian Gong et.al.|[2407.15899v2](http://arxiv.org/abs/2407.15899v2)|**[link](https://github.com/letiangong/stccr)**|
 |**2024-07-22**|**Efficient and generalizable prediction of molecular alterations in multiple cancer cohorts using H&E whole slide images**|Kshitij Ingale et.al.|[2407.15816v1](http://arxiv.org/abs/2407.15816v1)|null|
 |**2024-07-22**|**Probing Fine-Grained Action Understanding and Cross-View Generalization of Foundation Models**|Thinesh Thiyakesan Ponbagavathi et.al.|[2407.15605v1](http://arxiv.org/abs/2407.15605v1)|null|
 |**2024-07-22**|**Exploring the Effectiveness of Object-Centric Representations in Visual Question Answering: Comparative Insights with Foundation Models**|Amir Mohammad Karimi Mamaghan et.al.|[2407.15589v1](http://arxiv.org/abs/2407.15589v1)|null|
@@ -6360,12 +6372,13 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20240724>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240725>back to top</a>)</p>
 
 ## adaptor
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-23**|**FoRA: Low-Rank Adaptation Model beyond Multimodal Siamese Network**|Weiying Xie et.al.|[2407.16129v1](http://arxiv.org/abs/2407.16129v1)|**[link](https://github.com/zyszxhy/fora)**|
 |**2024-07-17**|**SMooDi: Stylized Motion Diffusion Model**|Lei Zhong et.al.|[2407.12783v1](http://arxiv.org/abs/2407.12783v1)|null|
 |**2024-07-17**|**VEON: Vocabulary-Enhanced Occupancy Prediction**|Jilai Zheng et.al.|[2407.12294v1](http://arxiv.org/abs/2407.12294v1)|null|
 |**2024-07-14**|**Whisper-SV: Adapting Whisper for Low-data-resource Speaker Verification**|Li Zhang et.al.|[2407.10048v1](http://arxiv.org/abs/2407.10048v1)|null|
@@ -6481,12 +6494,22 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240724>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240725>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-23**|**A Framework for Pupil Tracking with Event Cameras**|Khadija Iddrisu et.al.|[2407.16665v1](http://arxiv.org/abs/2407.16665v1)|null|
+|**2024-07-23**|**Velocity Driven Vision: Asynchronous Sensor Fusion Birds Eye View Models for Autonomous Vehicles**|Seamie Hayes et.al.|[2407.16636v1](http://arxiv.org/abs/2407.16636v1)|null|
+|**2024-07-23**|**COALA: A Practical and Vision-Centric Federated Learning Platform**|Weiming Zhuang et.al.|[2407.16560v1](http://arxiv.org/abs/2407.16560v1)|null|
+|**2024-07-23**|**Dynamic Retraining-Updating Mean Teacher for Source-Free Object Detection**|Trinh Le Ba Khanh et.al.|[2407.16497v1](http://arxiv.org/abs/2407.16497v1)|**[link](https://github.com/lbktrinh/DRU)**|
+|**2024-07-23**|**MonoWAD: Weather-Adaptive Diffusion Model for Robust Monocular 3D Object Detection**|Youngmin Oh et.al.|[2407.16448v1](http://arxiv.org/abs/2407.16448v1)|**[link](https://github.com/visualaikhu/monowad)**|
+|**2024-07-23**|**ESOD: Efficient Small Object Detection on High-Resolution Images**|Kai Liu et.al.|[2407.16424v1](http://arxiv.org/abs/2407.16424v1)|null|
+|**2024-07-23**|**Understanding Impacts of Electromagnetic Signal Injection Attacks on Object Detection**|Youqian Zhang et.al.|[2407.16327v1](http://arxiv.org/abs/2407.16327v1)|null|
+|**2024-07-23**|**DeepClean: Integrated Distortion Identification and Algorithm Selection for Rectifying Image Corruptions**|Aditya Kapoor et.al.|[2407.16302v1](http://arxiv.org/abs/2407.16302v1)|null|
+|**2024-07-23**|**FoRA: Low-Rank Adaptation Model beyond Multimodal Siamese Network**|Weiying Xie et.al.|[2407.16129v1](http://arxiv.org/abs/2407.16129v1)|**[link](https://github.com/zyszxhy/fora)**|
+|**2024-07-22**|**PLayerTV: Advanced Player Tracking and Identification for Automatic Soccer Highlight Clips**|Håkon Maric Solberg et.al.|[2407.16076v1](http://arxiv.org/abs/2407.16076v1)|null|
 |**2024-07-22**|**Disentangling spatio-temporal knowledge for weakly supervised object detection and segmentation in surgical video**|Guiqiu Liao et.al.|[2407.15794v1](http://arxiv.org/abs/2407.15794v1)|null|
 |**2024-07-22**|**Towards Open-World Object-based Anomaly Detection via Self-Supervised Outlier Synthesis**|Brian K. S. Isaac-Medina et.al.|[2407.15763v1](http://arxiv.org/abs/2407.15763v1)|null|
 |**2024-07-22**|**YOLOv10 for Automated Fracture Detection in Pediatric Wrist Trauma X-rays**|Ammar Ahmed et.al.|[2407.15689v1](http://arxiv.org/abs/2407.15689v1)|**[link](https://github.com/ammarlodhi255/YOLOv10-Fracture-Detection)**|
@@ -9232,7 +9255,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20240724>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240725>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
