@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.26
+## Updated on 2024.07.27
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-25**|**Multi-Resolution Histopathology Patch Graphs for Ovarian Cancer Subtyping**|Jack Breen et.al.|[2407.18105v1](http://arxiv.org/abs/2407.18105v1)|null|
+|**2024-07-25**|**HVM-1: Large-scale video models pretrained with nearly 5000 hours of human-like video data**|A. Emin Orhan et.al.|[2407.18067v1](http://arxiv.org/abs/2407.18067v1)|**[link](https://github.com/eminorhan/hvm-1)**|
+|**2024-07-25**|**Exploring the Effect of Dataset Diversity in Self-Supervised Learning for Surgical Computer Vision**|Tim J. M. Jaspers et.al.|[2407.17904v1](http://arxiv.org/abs/2407.17904v1)|null|
+|**2024-07-25**|**Investigating learning-independent abstract reasoning in artificial neural networks**|Tomer Barak et.al.|[2407.17791v1](http://arxiv.org/abs/2407.17791v1)|null|
+|**2024-07-25**|**SAM-MIL: A Spatial Contextual Aware Multiple Instance Learning Approach for Whole Slide Image Classification**|Heng Fang et.al.|[2407.17689v1](http://arxiv.org/abs/2407.17689v1)|null|
+|**2024-07-24**|**CoMoTo: Unpaired Cross-Modal Lesion Distillation Improves Breast Lesion Detection in Tomosynthesis**|Muhammad Alberb et.al.|[2407.17620v1](http://arxiv.org/abs/2407.17620v1)|**[link](https://github.com/muhammad-al-barbary/comoto)**|
+|**2024-07-24**|**Pretraining a Neural Operator in Lower Dimensions**|AmirPouya Hemmasian et.al.|[2407.17616v1](http://arxiv.org/abs/2407.17616v1)|null|
 |**2024-07-24**|**$VILA^2$: VILA Augmented VILA**|Yunhao Fang et.al.|[2407.17453v1](http://arxiv.org/abs/2407.17453v1)|null|
 |**2024-07-24**|**Can Watermarking Large Language Models Prevent Copyrighted Text Generation and Hide Training Data?**|Michael-Andrei Panaitescu-Liess et.al.|[2407.17417v1](http://arxiv.org/abs/2407.17417v1)|null|
 |**2024-07-24**|**Pretrained Visual Representations in Reinforcement Learning**|Emlyn Williams et.al.|[2407.17238v1](http://arxiv.org/abs/2407.17238v1)|null|
@@ -3329,12 +3336,19 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240726>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240727>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-25**|**Segmentation-guided MRI reconstruction for meaningfully diverse reconstructions**|Jan Nikolas Morshuis et.al.|[2407.18026v1](http://arxiv.org/abs/2407.18026v1)|null|
+|**2024-07-25**|**Joint RGB-Spectral Decomposition Model Guided Image Enhancement in Mobile Photography**|Kailai Zhou et.al.|[2407.17996v1](http://arxiv.org/abs/2407.17996v1)|**[link](https://github.com/calayzhou/jdm-hdrnet)**|
+|**2024-07-25**|**Pruning Boolean d-DNNF Circuits Through Tseitin-Awareness**|Vincent Derkinderen et.al.|[2407.17951v1](http://arxiv.org/abs/2407.17951v1)|null|
+|**2024-07-25**|**Guided Latent Slot Diffusion for Object-Centric Learning**|Krishnakant Singh et.al.|[2407.17929v1](http://arxiv.org/abs/2407.17929v1)|null|
+|**2024-07-25**|**A Unified Understanding of Adversarial Vulnerability Regarding Unimodal Models and Vision-Language Pre-training Models**|Haonan Zheng et.al.|[2407.17797v1](http://arxiv.org/abs/2407.17797v1)|null|
+|**2024-07-24**|**Traditional Methods Outperform Generative LLMs at Forecasting Credit Ratings**|Felix Drinkall et.al.|[2407.17624v1](http://arxiv.org/abs/2407.17624v1)|null|
+|**2024-07-24**|**SFPrompt: Communication-Efficient Split Federated Fine-Tuning for Large Pre-Trained Models over Resource-Limited Devices**|Linxiao Cao et.al.|[2407.17533v1](http://arxiv.org/abs/2407.17533v1)|null|
 |**2024-07-24**|**(PASS) Visual Prompt Locates Good Structure Sparsity through a Recurrent HyperNetwork**|Tianjin Huang et.al.|[2407.17412v1](http://arxiv.org/abs/2407.17412v1)|null|
 |**2024-07-24**|**Multi-label Cluster Discrimination for Visual Representation Learning**|Xiang An et.al.|[2407.17331v1](http://arxiv.org/abs/2407.17331v1)|null|
 |**2024-07-24**|**When Text and Images Don't Mix: Bias-Correcting Language-Image Similarity Scores for Anomaly Detection**|Adam Goodge et.al.|[2407.17083v1](http://arxiv.org/abs/2407.17083v1)|null|
@@ -6380,7 +6394,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20240726>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240727>back to top</a>)</p>
 
 ## adaptor
 
@@ -6502,12 +6516,22 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240726>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240727>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-25**|**LION: Linear Group RNN for 3D Object Detection in Point Clouds**|Zhe Liu et.al.|[2407.18232v1](http://arxiv.org/abs/2407.18232v1)|**[link](https://github.com/happinesslz/LION)**|
+|**2024-07-25**|**XS-VID: An Extremely Small Video Object Detection Dataset**|Jiahao Guo et.al.|[2407.18137v1](http://arxiv.org/abs/2407.18137v1)|null|
+|**2024-07-25**|**SaccadeDet: A Novel Dual-Stage Architecture for Rapid and Accurate Detection in Gigapixel Images**|Wenxi Li et.al.|[2407.17956v1](http://arxiv.org/abs/2407.17956v1)|null|
+|**2024-07-25**|**A Novel Perception Entropy Metric for Optimizing Vehicle Perception with LiDAR Deployment**|Yongjiang He et.al.|[2407.17942v1](http://arxiv.org/abs/2407.17942v1)|null|
+|**2024-07-25**|**Hierarchical Object Detection and Recognition Framework for Practical Plant Disease Diagnosis**|Kohei Iwano et.al.|[2407.17906v1](http://arxiv.org/abs/2407.17906v1)|null|
+|**2024-07-25**|**Advancing 3D Point Cloud Understanding through Deep Transfer Learning: A Comprehensive Survey**|Shahab Saquib Sohail et.al.|[2407.17877v1](http://arxiv.org/abs/2407.17877v1)|null|
+|**2024-07-25**|**CRASH: Crash Recognition and Anticipation System Harnessing with Context-Aware and Temporal Focus Attentions**|Haicheng Liao et.al.|[2407.17757v1](http://arxiv.org/abs/2407.17757v1)|null|
+|**2024-07-25**|**Enhancing Fine-grained Object Detection in Aerial Images via Orthogonal Mapping**|Haoran Zhu et.al.|[2407.17738v1](http://arxiv.org/abs/2407.17738v1)|**[link](https://github.com/zhuhaoraneis/orthogonal-fgod)**|
+|**2024-07-24**|**Unsqueeze [CLS] Bottleneck to Learn Rich Representations**|Qing Su et.al.|[2407.17671v1](http://arxiv.org/abs/2407.17671v1)|null|
+|**2024-07-24**|**SDLNet: Statistical Deep Learning Network for Co-Occurring Object Detection and Identification**|Binay Kumar Singh et.al.|[2407.17664v1](http://arxiv.org/abs/2407.17664v1)|null|
 |**2024-07-24**|**ALPI: Auto-Labeller with Proxy Injection for 3D Object Detection using 2D Labels Only**|Saad Lahlali et.al.|[2407.17197v1](http://arxiv.org/abs/2407.17197v1)|null|
 |**2024-07-24**|**DVPE: Divided View Position Embedding for Multi-View 3D Object Detection**|Jiasen Wang et.al.|[2407.16955v1](http://arxiv.org/abs/2407.16955v1)|**[link](https://github.com/dop0/dvpe)**|
 |**2024-07-23**|**What Matters in Range View 3D Object Detection**|Benjamin Wilson et.al.|[2407.16789v1](http://arxiv.org/abs/2407.16789v1)|**[link](https://github.com/benjaminrwilson/range-view-3d-detection)**|
@@ -9266,7 +9290,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20240726>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240727>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
