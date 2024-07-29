@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.07.28
+> Updated on 2024.07.29
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,11 +17,11 @@
 
 ## pretrain
 
-- 2024-07-25, **Multi-Resolution Histopathology Patch Graphs for Ovarian Cancer Subtyping**, Jack Breen et.al., Paper: [http://arxiv.org/abs/2407.18105v1](http://arxiv.org/abs/2407.18105v1)
+- 2024-07-25, **Multi-Resolution Histopathology Patch Graphs for Ovarian Cancer Subtyping**, Jack Breen et.al., Paper: [http://arxiv.org/abs/2407.18105v1](http://arxiv.org/abs/2407.18105v1), Code: **[https://github.com/scjjb/MultiscalePathGraph](https://github.com/scjjb/MultiscalePathGraph)**
 - 2024-07-25, **HVM-1: Large-scale video models pretrained with nearly 5000 hours of human-like video data**, A. Emin Orhan et.al., Paper: [http://arxiv.org/abs/2407.18067v1](http://arxiv.org/abs/2407.18067v1), Code: **[https://github.com/eminorhan/hvm-1](https://github.com/eminorhan/hvm-1)**
-- 2024-07-25, **Exploring the Effect of Dataset Diversity in Self-Supervised Learning for Surgical Computer Vision**, Tim J. M. Jaspers et.al., Paper: [http://arxiv.org/abs/2407.17904v1](http://arxiv.org/abs/2407.17904v1)
-- 2024-07-25, **Investigating learning-independent abstract reasoning in artificial neural networks**, Tomer Barak et.al., Paper: [http://arxiv.org/abs/2407.17791v1](http://arxiv.org/abs/2407.17791v1)
-- 2024-07-25, **SAM-MIL: A Spatial Contextual Aware Multiple Instance Learning Approach for Whole Slide Image Classification**, Heng Fang et.al., Paper: [http://arxiv.org/abs/2407.17689v1](http://arxiv.org/abs/2407.17689v1)
+- 2024-07-26, **Exploring the Effect of Dataset Diversity in Self-Supervised Learning for Surgical Computer Vision**, Tim J. M. Jaspers et.al., Paper: [http://arxiv.org/abs/2407.17904v2](http://arxiv.org/abs/2407.17904v2), Code: **[https://github.com/timjaspers0801/surgenet](https://github.com/timjaspers0801/surgenet)**
+- 2024-07-25, **Investigating learning-independent abstract reasoning in artificial neural networks**, Tomer Barak et.al., Paper: [http://arxiv.org/abs/2407.17791v1](http://arxiv.org/abs/2407.17791v1), Code: **[https://github.com/tomer-barak/learning-independent_abstract_reasoning](https://github.com/tomer-barak/learning-independent_abstract_reasoning)**
+- 2024-07-25, **SAM-MIL: A Spatial Contextual Aware Multiple Instance Learning Approach for Whole Slide Image Classification**, Heng Fang et.al., Paper: [http://arxiv.org/abs/2407.17689v1](http://arxiv.org/abs/2407.17689v1), Code: **[https://github.com/fangheng/sam-mil](https://github.com/fangheng/sam-mil)**
 - 2024-07-24, **CoMoTo: Unpaired Cross-Modal Lesion Distillation Improves Breast Lesion Detection in Tomosynthesis**, Muhammad Alberb et.al., Paper: [http://arxiv.org/abs/2407.17620v1](http://arxiv.org/abs/2407.17620v1), Code: **[https://github.com/muhammad-al-barbary/comoto](https://github.com/muhammad-al-barbary/comoto)**
 - 2024-07-24, **Pretraining a Neural Operator in Lower Dimensions**, AmirPouya Hemmasian et.al., Paper: [http://arxiv.org/abs/2407.17616v1](http://arxiv.org/abs/2407.17616v1)
 - 2024-07-24, **$VILA^2$: VILA Augmented VILA**, Yunhao Fang et.al., Paper: [http://arxiv.org/abs/2407.17453v1](http://arxiv.org/abs/2407.17453v1)
@@ -3334,11 +3334,11 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20240728>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240729>back to top</a>)</p>
 
 ## downstream
 
-- 2024-07-25, **Segmentation-guided MRI reconstruction for meaningfully diverse reconstructions**, Jan Nikolas Morshuis et.al., Paper: [http://arxiv.org/abs/2407.18026v1](http://arxiv.org/abs/2407.18026v1)
+- 2024-07-25, **Segmentation-guided MRI reconstruction for meaningfully diverse reconstructions**, Jan Nikolas Morshuis et.al., Paper: [http://arxiv.org/abs/2407.18026v1](http://arxiv.org/abs/2407.18026v1), Code: **[https://github.com/nikolasmorshuis/sgr](https://github.com/nikolasmorshuis/sgr)**
 - 2024-07-25, **Joint RGB-Spectral Decomposition Model Guided Image Enhancement in Mobile Photography**, Kailai Zhou et.al., Paper: [http://arxiv.org/abs/2407.17996v1](http://arxiv.org/abs/2407.17996v1), Code: **[https://github.com/calayzhou/jdm-hdrnet](https://github.com/calayzhou/jdm-hdrnet)**
 - 2024-07-25, **Pruning Boolean d-DNNF Circuits Through Tseitin-Awareness**, Vincent Derkinderen et.al., Paper: [http://arxiv.org/abs/2407.17951v1](http://arxiv.org/abs/2407.17951v1)
 - 2024-07-25, **Guided Latent Slot Diffusion for Object-Centric Learning**, Krishnakant Singh et.al., Paper: [http://arxiv.org/abs/2407.17929v1](http://arxiv.org/abs/2407.17929v1)
@@ -6390,7 +6390,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20240728>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240729>back to top</a>)</p>
 
 ## adaptor
 
@@ -6510,7 +6510,7 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20240728>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240729>back to top</a>)</p>
 
 ## object detection
 
@@ -6522,7 +6522,7 @@
 - 2024-07-25, **Advancing 3D Point Cloud Understanding through Deep Transfer Learning: A Comprehensive Survey**, Shahab Saquib Sohail et.al., Paper: [http://arxiv.org/abs/2407.17877v1](http://arxiv.org/abs/2407.17877v1)
 - 2024-07-25, **CRASH: Crash Recognition and Anticipation System Harnessing with Context-Aware and Temporal Focus Attentions**, Haicheng Liao et.al., Paper: [http://arxiv.org/abs/2407.17757v1](http://arxiv.org/abs/2407.17757v1)
 - 2024-07-25, **Enhancing Fine-grained Object Detection in Aerial Images via Orthogonal Mapping**, Haoran Zhu et.al., Paper: [http://arxiv.org/abs/2407.17738v1](http://arxiv.org/abs/2407.17738v1), Code: **[https://github.com/zhuhaoraneis/orthogonal-fgod](https://github.com/zhuhaoraneis/orthogonal-fgod)**
-- 2024-07-24, **Unsqueeze [CLS] Bottleneck to Learn Rich Representations**, Qing Su et.al., Paper: [http://arxiv.org/abs/2407.17671v1](http://arxiv.org/abs/2407.17671v1)
+- 2024-07-26, **Unsqueeze [CLS] Bottleneck to Learn Rich Representations**, Qing Su et.al., Paper: [http://arxiv.org/abs/2407.17671v2](http://arxiv.org/abs/2407.17671v2)
 - 2024-07-24, **SDLNet: Statistical Deep Learning Network for Co-Occurring Object Detection and Identification**, Binay Kumar Singh et.al., Paper: [http://arxiv.org/abs/2407.17664v1](http://arxiv.org/abs/2407.17664v1)
 - 2024-07-24, **ALPI: Auto-Labeller with Proxy Injection for 3D Object Detection using 2D Labels Only**, Saad Lahlali et.al., Paper: [http://arxiv.org/abs/2407.17197v1](http://arxiv.org/abs/2407.17197v1)
 - 2024-07-24, **DVPE: Divided View Position Embedding for Multi-View 3D Object Detection**, Jiasen Wang et.al., Paper: [http://arxiv.org/abs/2407.16955v1](http://arxiv.org/abs/2407.16955v1), Code: **[https://github.com/dop0/dvpe](https://github.com/dop0/dvpe)**
@@ -9282,7 +9282,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20240728>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240729>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
