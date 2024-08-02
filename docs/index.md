@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.01
+## Updated on 2024.08.02
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-31**|**A Federated Learning-Friendly Approach for Parameter-Efficient Fine-Tuning of SAM in 3D Segmentation**|Mothilal Asokan et.al.|[2407.21739v1](http://arxiv.org/abs/2407.21739v1)|null|
+|**2024-07-31**|**Fine-gained Zero-shot Video Sampling**|Dengsheng Chen et.al.|[2407.21475v1](http://arxiv.org/abs/2407.21475v1)|null|
+|**2024-07-30**|**GenRec: Generative Personalized Sequential Recommendation**|Panfeng Cao et.al.|[2407.21191v1](http://arxiv.org/abs/2407.21191v1)|null|
+|**2024-07-30**|**Domain Shift Analysis in Chest Radiographs Classification in a Veterans Healthcare Administration Population**|Mayanka Chandrashekar et.al.|[2407.21149v1](http://arxiv.org/abs/2407.21149v1)|null|
 |**2024-07-30**|**Add-SD: Rational Generation without Manual Reference**|Lingfeng Yang et.al.|[2407.21016v1](http://arxiv.org/abs/2407.21016v1)|**[link](https://github.com/ylingfeng/add-sd)**|
 |**2024-07-30**|**MoFO: Momentum-Filtered Optimizer for Mitigating Forgetting in LLM Fine-Tuning**|Yupeng Chen et.al.|[2407.20999v1](http://arxiv.org/abs/2407.20999v1)|null|
 |**2024-07-30**|**Contrasting Deep Learning Models for Direct Respiratory Insufficiency Detection Versus Blood Oxygen Saturation Estimation**|Marcelo Matheus Gauy et.al.|[2407.20989v1](http://arxiv.org/abs/2407.20989v1)|null|
@@ -3363,12 +3367,20 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240801>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240802>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-31**|**Leveraging Self-Supervised Learning for Fetal Cardiac Planes Classification using Ultrasound Scan Videos**|Joseph Geo Benjamin et.al.|[2407.21738v1](http://arxiv.org/abs/2407.21738v1)|null|
+|**2024-07-31**|**Synthetic Simplicity: Unveiling Bias in Medical Data Augmentation**|Krishan Agyakari Raja Babu et.al.|[2407.21674v1](http://arxiv.org/abs/2407.21674v1)|null|
+|**2024-07-31**|**TAROT: Task-Oriented Authorship Obfuscation Using Policy Optimization Methods**|Gabriel Loiseau et.al.|[2407.21630v1](http://arxiv.org/abs/2407.21630v1)|null|
+|**2024-07-31**|**Measuring What Matters: Intrinsic Distance Preservation as a Robust Metric for Embedding Quality**|Steven N. Hart et.al.|[2407.21590v1](http://arxiv.org/abs/2407.21590v1)|null|
+|**2024-07-31**|**Voxel Scene Graph for Intracranial Hemorrhage**|Antoine P. Sanner et.al.|[2407.21580v1](http://arxiv.org/abs/2407.21580v1)|null|
+|**2024-07-31**|**HINER: Neural Representation for Hyperspectral Image**|Junqi Shi et.al.|[2407.21395v1](http://arxiv.org/abs/2407.21395v1)|null|
+|**2024-07-30**|**Amelia: A Large Model and Dataset for Airport Surface Movement Forecasting**|Ingrid Navarro et.al.|[2407.21185v1](http://arxiv.org/abs/2407.21185v1)|null|
+|**2024-07-30**|**Enhancing Semantic Similarity Understanding in Arabic NLP with Nested Embedding Learning**|Omer Nacar et.al.|[2407.21139v1](http://arxiv.org/abs/2407.21139v1)|null|
 |**2024-07-30**|**Add-SD: Rational Generation without Manual Reference**|Lingfeng Yang et.al.|[2407.21016v1](http://arxiv.org/abs/2407.21016v1)|**[link](https://github.com/ylingfeng/add-sd)**|
 |**2024-07-30**|**GABInsight: Exploring Gender-Activity Binding Bias in Vision-Language Models**|Ali Abdollahi et.al.|[2407.21001v1](http://arxiv.org/abs/2407.21001v1)|null|
 |**2024-07-30**|**Prompt-Driven Contrastive Learning for Transferable Adversarial Attacks**|Hunmin Yang et.al.|[2407.20657v1](http://arxiv.org/abs/2407.20657v1)|null|
@@ -6441,7 +6453,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20240801>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240802>back to top</a>)</p>
 
 ## adaptor
 
@@ -6564,12 +6576,19 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240801>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240802>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-31**|**Dynamic Object Queries for Transformer-based Incremental Object Detection**|Jichuan Zhang et.al.|[2407.21687v1](http://arxiv.org/abs/2407.21687v1)|null|
+|**2024-07-31**|**Spatial Transformer Network YOLO Model for Agricultural Object Detection**|Yash Zambre et.al.|[2407.21652v1](http://arxiv.org/abs/2407.21652v1)|null|
+|**2024-07-31**|**Evaluating SAM2's Role in Camouflaged Object Detection: From SAM to SAM2**|Lv Tang et.al.|[2407.21596v1](http://arxiv.org/abs/2407.21596v1)|null|
+|**2024-07-31**|**InScope: A New Real-world 3D Infrastructure-side Collaborative Perception Dataset for Open Traffic Scenarios**|Xiaofei Zhang et.al.|[2407.21581v1](http://arxiv.org/abs/2407.21581v1)|null|
+|**2024-07-31**|**Voxel Scene Graph for Intracranial Hemorrhage**|Antoine P. Sanner et.al.|[2407.21580v1](http://arxiv.org/abs/2407.21580v1)|null|
+|**2024-07-31**|**MarvelOVD: Marrying Object Recognition and Vision-Language Models for Robust Open-Vocabulary Object Detection**|Kuo Wang et.al.|[2407.21465v1](http://arxiv.org/abs/2407.21465v1)|null|
+|**2024-07-30**|**Candidate Distant Trans-Neptunian Objects Detected by the New Horizons Subaru TNO Survey**|Wesley C. Fraser et.al.|[2407.21142v1](http://arxiv.org/abs/2407.21142v1)|null|
 |**2024-07-30**|**What is YOLOv5: A deep look into the internal features of the popular object detector**|Rahima Khanam et.al.|[2407.20892v1](http://arxiv.org/abs/2407.20892v1)|null|
 |**2024-07-30**|**WARM-3D: A Weakly-Supervised Sim2Real Domain Adaptation Framework for Roadside Monocular 3D Object Detection**|Xingcheng Zhou et.al.|[2407.20818v1](http://arxiv.org/abs/2407.20818v1)|null|
 |**2024-07-31**|**Integer-Valued Training and Spike-Driven Inference Spiking Neural Network for High-performance and Energy-efficient Object Detection**|Xinhao Luo et.al.|[2407.20708v2](http://arxiv.org/abs/2407.20708v2)|**[link](https://github.com/biclab/spikeyolo)**|
@@ -9353,7 +9372,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20240801>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240802>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
