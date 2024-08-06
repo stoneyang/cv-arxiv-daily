@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.08.05
+> Updated on 2024.08.06
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,11 @@
 
 ## pretrain
 
+- 2024-08-02, **Mission Impossible: A Statistical Perspective on Jailbreaking LLMs**, Jingtong Su et.al., Paper: [http://arxiv.org/abs/2408.01420v1](http://arxiv.org/abs/2408.01420v1)
+- 2024-08-02, **Coalitions of Large Language Models Increase the Robustness of AI Agents**, Prattyush Mangal et.al., Paper: [http://arxiv.org/abs/2408.01380v1](http://arxiv.org/abs/2408.01380v1)
+- 2024-08-02, **Deep Learning based Visually Rich Document Content Understanding: A Survey**, Yihao Ding et.al., Paper: [http://arxiv.org/abs/2408.01287v1](http://arxiv.org/abs/2408.01287v1)
+- 2024-08-02, **TCR-GPT: Integrating Autoregressive Model and Reinforcement Learning for T-Cell Receptor Repertoires Generation**, Yicheng Lin et.al., Paper: [http://arxiv.org/abs/2408.01156v1](http://arxiv.org/abs/2408.01156v1)
+- 2024-08-02, **Semantic Skill Grounding for Embodied Instruction-Following in Cross-Domain Environments**, Sangwoo Shin et.al., Paper: [http://arxiv.org/abs/2408.01024v1](http://arxiv.org/abs/2408.01024v1)
 - 2024-08-01, **Accelerating Full Waveform Inversion By Transfer Learning**, Divya Shyam Singh et.al., Paper: [http://arxiv.org/abs/2408.00695v1](http://arxiv.org/abs/2408.00695v1)
 - 2024-08-01, **AMAES: Augmented Masked Autoencoder Pretraining on Public Brain MRI Data for 3D-Native Segmentation**, Asbjørn Munk et.al., Paper: [http://arxiv.org/abs/2408.00640v1](http://arxiv.org/abs/2408.00640v1)
 - 2024-08-01, **Are Bigger Encoders Always Better in Vision Large Models?**, Bozhou Li et.al., Paper: [http://arxiv.org/abs/2408.00620v1](http://arxiv.org/abs/2408.00620v1)
@@ -3364,10 +3369,15 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20240805>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240806>back to top</a>)</p>
 
 ## downstream
 
+- 2024-08-02, **Deep Learning based Visually Rich Document Content Understanding: A Survey**, Yihao Ding et.al., Paper: [http://arxiv.org/abs/2408.01287v1](http://arxiv.org/abs/2408.01287v1)
+- 2024-08-02, **POA: Pre-training Once for Models of All Sizes**, Yingying Zhang et.al., Paper: [http://arxiv.org/abs/2408.01031v1](http://arxiv.org/abs/2408.01031v1)
+- 2024-08-02, **Tensor Train Low-rank Approximation (TT-LoRA): Democratizing AI with Accelerated LLMs**, Afia Anjum et.al., Paper: [http://arxiv.org/abs/2408.01008v1](http://arxiv.org/abs/2408.01008v1)
+- 2024-08-02, **On the Resilience of Multi-Agent Systems with Malicious Agents**, Jen-tse Huang et.al., Paper: [http://arxiv.org/abs/2408.00989v1](http://arxiv.org/abs/2408.00989v1)
+- 2024-08-01, **Peptide Sequencing Via Protein Language Models**, Thuong Le Hoai Pham et.al., Paper: [http://arxiv.org/abs/2408.00892v1](http://arxiv.org/abs/2408.00892v1)
 - 2024-08-01, **Coarse Correspondence Elicit 3D Spacetime Understanding in Multimodal Language Model**, Benlin Liu et.al., Paper: [http://arxiv.org/abs/2408.00754v1](http://arxiv.org/abs/2408.00754v1)
 - 2024-08-01, **Pathway to Secure and Trustworthy 6G for LLMs: Attacks, Defense, and Opportunities**, Sunder Ali Khowaja et.al., Paper: [http://arxiv.org/abs/2408.00722v1](http://arxiv.org/abs/2408.00722v1)
 - 2024-08-01, **You Can't Ignore Either: Unifying Structure and Feature Denoising for Robust Graph Learning**, Tianmeng Yang et.al., Paper: [http://arxiv.org/abs/2408.00700v1](http://arxiv.org/abs/2408.00700v1)
@@ -6458,7 +6468,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20240805>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240806>back to top</a>)</p>
 
 ## adaptor
 
@@ -6579,10 +6589,16 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20240805>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240806>back to top</a>)</p>
 
 ## object detection
 
+- 2024-08-02, **A Robotics-Inspired Scanpath Model Reveals the Importance of Uncertainty and Semantic Object Cues for Gaze Guidance in Dynamic Scenes**, Vito Mengers et.al., Paper: [http://arxiv.org/abs/2408.01322v1](http://arxiv.org/abs/2408.01322v1)
+- 2024-08-02, **Underwater Object Detection Enhancement via Channel Stabilization**, Muhammad Ali et.al., Paper: [http://arxiv.org/abs/2408.01293v1](http://arxiv.org/abs/2408.01293v1)
+- 2024-08-02, **PGNeXt: High-Resolution Salient Object Detection via Pyramid Grafting Network**, Changqun Xia et.al., Paper: [http://arxiv.org/abs/2408.01137v1](http://arxiv.org/abs/2408.01137v1)
+- 2024-08-02, **Effect of Fog Particle Size Distribution on 3D Object Detection Under Adverse Weather Conditions**, Ajinkya Shinde et.al., Paper: [http://arxiv.org/abs/2408.01085v1](http://arxiv.org/abs/2408.01085v1)
+- 2024-08-02, **Boosting Gaze Object Prediction via Pixel-level Supervision from Vision Foundation Model**, Yang Jin et.al., Paper: [http://arxiv.org/abs/2408.01044v1](http://arxiv.org/abs/2408.01044v1)
+- 2024-08-02, **Visible-Thermal Multiple Object Tracking: Large-scale Video Dataset and Progressive Fusion Approach**, Yabin Zhu et.al., Paper: [http://arxiv.org/abs/2408.00969v1](http://arxiv.org/abs/2408.00969v1)
 - 2024-08-01, **Joint Neural Networks for One-shot Object Recognition and Detection**, Camilo J. Vargas et.al., Paper: [http://arxiv.org/abs/2408.00701v1](http://arxiv.org/abs/2408.00701v1)
 - 2024-08-01, **Harnessing Uncertainty-aware Bounding Boxes for Unsupervised 3D Object Detection**, Ruiyang Zhang et.al., Paper: [http://arxiv.org/abs/2408.00619v1](http://arxiv.org/abs/2408.00619v1)
 - 2024-08-01, **U2UData: A Large-scale Cooperative Perception Dataset for Swarm UAVs Autonomous Flight**, Tongtong Feng et.al., Paper: [http://arxiv.org/abs/2408.00606v1](http://arxiv.org/abs/2408.00606v1)
@@ -9382,7 +9398,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20240805>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240806>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
