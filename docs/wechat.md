@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.08.09
+> Updated on 2024.08.10
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,15 @@
 
 ## pretrain
 
+- 2024-08-08, **What could go wrong? Discovering and describing failure modes in computer vision**, Gabriela Csurka et.al., Paper: [http://arxiv.org/abs/2408.04471v1](http://arxiv.org/abs/2408.04471v1)
+- 2024-08-08, **Understanding and Modeling Job Marketplace with Pretrained Language Models**, Yaochen Zhu et.al., Paper: [http://arxiv.org/abs/2408.04381v1](http://arxiv.org/abs/2408.04381v1)
+- 2024-08-08, **HydraFormer: One Encoder For All Subsampling Rates**, Yaoxun Xu et.al., Paper: [http://arxiv.org/abs/2408.04325v1](http://arxiv.org/abs/2408.04325v1), Code: **[https://github.com/hydraformer/hydraformer](https://github.com/hydraformer/hydraformer)**
+- 2024-08-08, **MU-MAE: Multimodal Masked Autoencoders-Based One-Shot Learning**, Rex Liu et.al., Paper: [http://arxiv.org/abs/2408.04243v1](http://arxiv.org/abs/2408.04243v1)
+- 2024-08-08, **Semantics or spelling? Probing contextual word embeddings with orthographic noise**, Jacob A. Matthews et.al., Paper: [http://arxiv.org/abs/2408.04162v1](http://arxiv.org/abs/2408.04162v1), Code: **[https://github.com/jam963/semantics-or-spelling](https://github.com/jam963/semantics-or-spelling)**
+- 2024-08-08, **Enhancing Healthcare through Large Language Models: A Study on Medical Question Answering**, Haoran Yu et.al., Paper: [http://arxiv.org/abs/2408.04138v1](http://arxiv.org/abs/2408.04138v1)
+- 2024-08-07, **ArtVLM: Attribute Recognition Through Vision-Based Prefix Language Modeling**, William Y. Zhu et.al., Paper: [http://arxiv.org/abs/2408.04102v1](http://arxiv.org/abs/2408.04102v1)
+- 2024-08-07, **PowerPM: Foundation Model for Power Systems**, Shihao Tu et.al., Paper: [http://arxiv.org/abs/2408.04057v1](http://arxiv.org/abs/2408.04057v1)
+- 2024-08-07, **Scaling Law of Sim2Real Transfer Learning in Expanding Computational Materials Databases for Real-World Predictions**, Shunya Minami et.al., Paper: [http://arxiv.org/abs/2408.04042v1](http://arxiv.org/abs/2408.04042v1)
 - 2024-08-07, **SAM2-PATH: A better segment anything model for semantic segmentation in digital pathology**, Mingya Zhang et.al., Paper: [http://arxiv.org/abs/2408.03651v1](http://arxiv.org/abs/2408.03651v1), Code: **[https://github.com/simzhangbest/sam2path](https://github.com/simzhangbest/sam2path)**
 - 2024-08-07, **Is Child-Directed Speech Effective Training Data for Language Models?**, Steven Y. Feng et.al., Paper: [http://arxiv.org/abs/2408.03617v1](http://arxiv.org/abs/2408.03617v1)
 - 2024-08-07, **A Comparison of LLM Finetuning Methods & Evaluation Metrics with Travel Chatbot Use Case**, Sonia Meyer et.al., Paper: [http://arxiv.org/abs/2408.03562v1](http://arxiv.org/abs/2408.03562v1)
@@ -3398,10 +3407,13 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20240809>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240810>back to top</a>)</p>
 
 ## downstream
 
+- 2024-08-08, **SAM2-Adapter: Evaluating & Adapting Segment Anything 2 in Downstream Tasks: Camouflage, Shadow, Medical Image Segmentation, and More**, Tianrun Chen et.al., Paper: [http://arxiv.org/abs/2408.04579v1](http://arxiv.org/abs/2408.04579v1)
+- 2024-08-08, **Trans-Tokenization and Cross-lingual Vocabulary Transfers: Language Adaptation of LLMs for Low-Resource NLP**, François Remy et.al., Paper: [http://arxiv.org/abs/2408.04303v1](http://arxiv.org/abs/2408.04303v1), Code: **[https://github.com/lagom-nlp/transtokenizer](https://github.com/lagom-nlp/transtokenizer)**
+- 2024-08-07, **PowerPM: Foundation Model for Power Systems**, Shihao Tu et.al., Paper: [http://arxiv.org/abs/2408.04057v1](http://arxiv.org/abs/2408.04057v1)
 - 2024-08-07, **Knowledge Probing for Graph Representation Learning**, Mingyu Zhao et.al., Paper: [http://arxiv.org/abs/2408.03877v1](http://arxiv.org/abs/2408.03877v1)
 - 2024-08-07, **PRISM: PRogressive dependency maxImization for Scale-invariant image Matching**, Xudong Cai et.al., Paper: [http://arxiv.org/abs/2408.03598v1](http://arxiv.org/abs/2408.03598v1)
 - 2024-08-07, **Active Testing of Large Language Model via Multi-Stage Sampling**, Yuheng Huang et.al., Paper: [http://arxiv.org/abs/2408.03573v1](http://arxiv.org/abs/2408.03573v1)
@@ -6518,10 +6530,11 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20240809>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240810>back to top</a>)</p>
 
 ## adaptor
 
+- 2024-08-08, **SAM2-Adapter: Evaluating & Adapting Segment Anything 2 in Downstream Tasks: Camouflage, Shadow, Medical Image Segmentation, and More**, Tianrun Chen et.al., Paper: [http://arxiv.org/abs/2408.04579v1](http://arxiv.org/abs/2408.04579v1)
 - 2024-08-06, **Enabling High-Throughput Parallel I/O in Particle-in-Cell Monte Carlo Simulations with openPMD and Darshan I/O Monitoring**, Jeremy J. Williams et.al., Paper: [http://arxiv.org/abs/2408.02869v1](http://arxiv.org/abs/2408.02869v1)
 - 2024-08-04, **Non-invasive imaging assisted CFD simulation of 4D multi-modal fluid flow using In-situ adaptor**, Vaishali Sharma et.al., Paper: [http://arxiv.org/abs/2408.02121v1](http://arxiv.org/abs/2408.02121v1)
 - 2024-07-17, **Matryoshka-Adaptor: Unsupervised and Supervised Tuning for Smaller Embedding Dimensions**, Jinsung Yoon et.al., Paper: [http://arxiv.org/abs/2407.20243v1](http://arxiv.org/abs/2407.20243v1)
@@ -6641,10 +6654,15 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20240809>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240810>back to top</a>)</p>
 
 ## object detection
 
+- 2024-08-08, **SAM2-Adapter: Evaluating & Adapting Segment Anything 2 in Downstream Tasks: Camouflage, Shadow, Medical Image Segmentation, and More**, Tianrun Chen et.al., Paper: [http://arxiv.org/abs/2408.04579v1](http://arxiv.org/abs/2408.04579v1)
+- 2024-08-07, **Impact Analysis of Data Drift Towards The Development of Safety-Critical Automotive System**, Md Shahi Amran Hossain et.al., Paper: [http://arxiv.org/abs/2408.04476v1](http://arxiv.org/abs/2408.04476v1)
+- 2024-08-08, **Detecting Car Speed using Object Detection and Depth Estimation: A Deep Learning Framework**, Subhasis Dasgupta et.al., Paper: [http://arxiv.org/abs/2408.04360v1](http://arxiv.org/abs/2408.04360v1)
+- 2024-08-08, **Multi-Scale and Detail-Enhanced Segment Anything Model for Salient Object Detection**, Shixuan Gao et.al., Paper: [http://arxiv.org/abs/2408.04326v1](http://arxiv.org/abs/2408.04326v1)
+- 2024-08-07, **PaveCap: The First Multimodal Framework for Comprehensive Pavement Condition Assessment with Dense Captioning and PCI Estimation**, Blessing Agyei Kyem et.al., Paper: [http://arxiv.org/abs/2408.04110v1](http://arxiv.org/abs/2408.04110v1), Code: **[https://github.com/blessing988/pavecap](https://github.com/blessing988/pavecap)**
 - 2024-08-07, **Vision-Language Guidance for LiDAR-based Unsupervised 3D Object Detection**, Christian Fruhwirth-Reisinger et.al., Paper: [http://arxiv.org/abs/2408.03790v1](http://arxiv.org/abs/2408.03790v1)
 - 2024-08-07, **Data Generation Scheme for Thermal Modality with Edge-Guided Adversarial Conditional Diffusion Model**, Guoqing Zhu et.al., Paper: [http://arxiv.org/abs/2408.03748v1](http://arxiv.org/abs/2408.03748v1), Code: **[https://github.com/lengmo1996/ECDM](https://github.com/lengmo1996/ECDM)**
 - 2024-08-07, **CAS-ViT: Convolutional Additive Self-attention Vision Transformers for Efficient Mobile Applications**, Tianfang Zhang et.al., Paper: [http://arxiv.org/abs/2408.03703v1](http://arxiv.org/abs/2408.03703v1), Code: **[https://github.com/tianfang-zhang/cas-vit](https://github.com/tianfang-zhang/cas-vit)**
@@ -9469,7 +9487,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20240809>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240810>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
