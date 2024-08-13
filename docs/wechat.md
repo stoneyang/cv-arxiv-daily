@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.08.12
+> Updated on 2024.08.13
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,12 @@
 
 ## pretrain
 
+- 2024-08-09, **ECG-FM: An Open Electrocardiogram Foundation Model**, Kaden McKeen et.al., Paper: [http://arxiv.org/abs/2408.05178v1](http://arxiv.org/abs/2408.05178v1), Code: **[https://github.com/bowang-lab/ecg-fm](https://github.com/bowang-lab/ecg-fm)**
+- 2024-08-09, **UNIC: Universal Classification Models via Multi-teacher Distillation**, Mert Bulent Sariyildiz et.al., Paper: [http://arxiv.org/abs/2408.05088v1](http://arxiv.org/abs/2408.05088v1)
+- 2024-08-09, **DreamCouple: Exploring High Quality Text-to-3D Generation Via Rectified Flow**, Hangyu Li et.al., Paper: [http://arxiv.org/abs/2408.05008v1](http://arxiv.org/abs/2408.05008v1)
+- 2024-08-09, **In Defense of Lazy Visual Grounding for Open-Vocabulary Semantic Segmentation**, Dahyun Kang et.al., Paper: [http://arxiv.org/abs/2408.04961v1](http://arxiv.org/abs/2408.04961v1), Code: **[https://github.com/dahyun-kang/lazygrounding](https://github.com/dahyun-kang/lazygrounding)**
+- 2024-08-09, **PTrajM: Efficient and Semantic-rich Trajectory Learning with Pretrained Trajectory-Mamba**, Yan Lin et.al., Paper: [http://arxiv.org/abs/2408.04916v1](http://arxiv.org/abs/2408.04916v1)
+- 2024-08-08, **Towards Linguistic Neural Representation Learning and Sentence Retrieval from Electroencephalogram Recordings**, Jinzhao Zhou et.al., Paper: [http://arxiv.org/abs/2408.04679v1](http://arxiv.org/abs/2408.04679v1)
 - 2024-08-08, **What could go wrong? Discovering and describing failure modes in computer vision**, Gabriela Csurka et.al., Paper: [http://arxiv.org/abs/2408.04471v1](http://arxiv.org/abs/2408.04471v1)
 - 2024-08-08, **Understanding and Modeling Job Marketplace with Pretrained Language Models**, Yaochen Zhu et.al., Paper: [http://arxiv.org/abs/2408.04381v1](http://arxiv.org/abs/2408.04381v1)
 - 2024-08-08, **HydraFormer: One Encoder For All Subsampling Rates**, Yaoxun Xu et.al., Paper: [http://arxiv.org/abs/2408.04325v1](http://arxiv.org/abs/2408.04325v1), Code: **[https://github.com/hydraformer/hydraformer](https://github.com/hydraformer/hydraformer)**
@@ -3407,11 +3413,15 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20240812>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240813>back to top</a>)</p>
 
 ## downstream
 
-- 2024-08-08, **SAM2-Adapter: Evaluating & Adapting Segment Anything 2 in Downstream Tasks: Camouflage, Shadow, Medical Image Segmentation, and More**, Tianrun Chen et.al., Paper: [http://arxiv.org/abs/2408.04579v1](http://arxiv.org/abs/2408.04579v1)
+- 2024-08-09, **ECG-FM: An Open Electrocardiogram Foundation Model**, Kaden McKeen et.al., Paper: [http://arxiv.org/abs/2408.05178v1](http://arxiv.org/abs/2408.05178v1), Code: **[https://github.com/bowang-lab/ecg-fm](https://github.com/bowang-lab/ecg-fm)**
+- 2024-08-09, **Bootstrap Latents of Nodes and Neighbors for Graph Self-Supervised Learning**, Yunhui Liu et.al., Paper: [http://arxiv.org/abs/2408.05087v1](http://arxiv.org/abs/2408.05087v1), Code: **[https://github.com/cloudy1225/blnn](https://github.com/cloudy1225/blnn)**
+- 2024-08-09, **Clustering-friendly Representation Learning for Enhancing Salient Features**, Toshiyuki Oshima et.al., Paper: [http://arxiv.org/abs/2408.04891v1](http://arxiv.org/abs/2408.04891v1)
+- 2024-08-09, **One Shot is Enough for Sequential Infrared Small Target Segmentation**, Bingbing Dan et.al., Paper: [http://arxiv.org/abs/2408.04823v1](http://arxiv.org/abs/2408.04823v1)
+- 2024-08-10, **SAM2-Adapter: Evaluating & Adapting Segment Anything 2 in Downstream Tasks: Camouflage, Shadow, Medical Image Segmentation, and More**, Tianrun Chen et.al., Paper: [http://arxiv.org/abs/2408.04579v2](http://arxiv.org/abs/2408.04579v2)
 - 2024-08-08, **Trans-Tokenization and Cross-lingual Vocabulary Transfers: Language Adaptation of LLMs for Low-Resource NLP**, François Remy et.al., Paper: [http://arxiv.org/abs/2408.04303v1](http://arxiv.org/abs/2408.04303v1), Code: **[https://github.com/lagom-nlp/transtokenizer](https://github.com/lagom-nlp/transtokenizer)**
 - 2024-08-07, **PowerPM: Foundation Model for Power Systems**, Shihao Tu et.al., Paper: [http://arxiv.org/abs/2408.04057v1](http://arxiv.org/abs/2408.04057v1)
 - 2024-08-07, **Knowledge Probing for Graph Representation Learning**, Mingyu Zhao et.al., Paper: [http://arxiv.org/abs/2408.03877v1](http://arxiv.org/abs/2408.03877v1)
@@ -6530,11 +6540,11 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20240812>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240813>back to top</a>)</p>
 
 ## adaptor
 
-- 2024-08-08, **SAM2-Adapter: Evaluating & Adapting Segment Anything 2 in Downstream Tasks: Camouflage, Shadow, Medical Image Segmentation, and More**, Tianrun Chen et.al., Paper: [http://arxiv.org/abs/2408.04579v1](http://arxiv.org/abs/2408.04579v1)
+- 2024-08-10, **SAM2-Adapter: Evaluating & Adapting Segment Anything 2 in Downstream Tasks: Camouflage, Shadow, Medical Image Segmentation, and More**, Tianrun Chen et.al., Paper: [http://arxiv.org/abs/2408.04579v2](http://arxiv.org/abs/2408.04579v2)
 - 2024-08-06, **Enabling High-Throughput Parallel I/O in Particle-in-Cell Monte Carlo Simulations with openPMD and Darshan I/O Monitoring**, Jeremy J. Williams et.al., Paper: [http://arxiv.org/abs/2408.02869v1](http://arxiv.org/abs/2408.02869v1)
 - 2024-08-04, **Non-invasive imaging assisted CFD simulation of 4D multi-modal fluid flow using In-situ adaptor**, Vaishali Sharma et.al., Paper: [http://arxiv.org/abs/2408.02121v1](http://arxiv.org/abs/2408.02121v1)
 - 2024-07-17, **Matryoshka-Adaptor: Unsupervised and Supervised Tuning for Smaller Embedding Dimensions**, Jinsung Yoon et.al., Paper: [http://arxiv.org/abs/2407.20243v1](http://arxiv.org/abs/2407.20243v1)
@@ -6654,11 +6664,16 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20240812>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240813>back to top</a>)</p>
 
 ## object detection
 
-- 2024-08-08, **SAM2-Adapter: Evaluating & Adapting Segment Anything 2 in Downstream Tasks: Camouflage, Shadow, Medical Image Segmentation, and More**, Tianrun Chen et.al., Paper: [http://arxiv.org/abs/2408.04579v1](http://arxiv.org/abs/2408.04579v1)
+- 2024-08-09, **DeepInteraction++: Multi-Modality Interaction for Autonomous Driving**, Zeyu Yang et.al., Paper: [http://arxiv.org/abs/2408.05075v1](http://arxiv.org/abs/2408.05075v1), Code: **[https://github.com/fudan-zvg/deepinteraction](https://github.com/fudan-zvg/deepinteraction)**
+- 2024-08-09, **RadarPillars: Efficient Object Detection from 4D Radar Point Clouds**, Alexander Musiat et.al., Paper: [http://arxiv.org/abs/2408.05020v1](http://arxiv.org/abs/2408.05020v1)
+- 2024-08-09, **Hyper-YOLO: When Visual Object Detection Meets Hypergraph Computation**, Yifan Feng et.al., Paper: [http://arxiv.org/abs/2408.04804v1](http://arxiv.org/abs/2408.04804v1), Code: **[https://github.com/imoonlab/hyper-yolo](https://github.com/imoonlab/hyper-yolo)**
+- 2024-08-08, **SOD-YOLOv8 -- Enhancing YOLOv8 for Small Object Detection in Traffic Scenes**, Boshra Khalili et.al., Paper: [http://arxiv.org/abs/2408.04786v1](http://arxiv.org/abs/2408.04786v1)
+- 2024-08-08, **Data-Driven Pixel Control: Challenges and Prospects**, Saurabh Farkya et.al., Paper: [http://arxiv.org/abs/2408.04767v1](http://arxiv.org/abs/2408.04767v1)
+- 2024-08-10, **SAM2-Adapter: Evaluating & Adapting Segment Anything 2 in Downstream Tasks: Camouflage, Shadow, Medical Image Segmentation, and More**, Tianrun Chen et.al., Paper: [http://arxiv.org/abs/2408.04579v2](http://arxiv.org/abs/2408.04579v2)
 - 2024-08-07, **Impact Analysis of Data Drift Towards The Development of Safety-Critical Automotive System**, Md Shahi Amran Hossain et.al., Paper: [http://arxiv.org/abs/2408.04476v1](http://arxiv.org/abs/2408.04476v1)
 - 2024-08-08, **Detecting Car Speed using Object Detection and Depth Estimation: A Deep Learning Framework**, Subhasis Dasgupta et.al., Paper: [http://arxiv.org/abs/2408.04360v1](http://arxiv.org/abs/2408.04360v1)
 - 2024-08-08, **Multi-Scale and Detail-Enhanced Segment Anything Model for Salient Object Detection**, Shixuan Gao et.al., Paper: [http://arxiv.org/abs/2408.04326v1](http://arxiv.org/abs/2408.04326v1)
@@ -9487,7 +9502,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20240812>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240813>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
