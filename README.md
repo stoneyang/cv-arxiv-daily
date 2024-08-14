@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.13
+## Updated on 2024.08.14
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-12**|**FastFiD: Improve Inference Efficiency of Open Domain Question Answering via Sentence Selection**|Yufei Huang et.al.|[2408.06333v1](http://arxiv.org/abs/2408.06333v1)|**[link](https://github.com/thunlp/fastfid)**|
+|**2024-08-12**|**FuxiTranyu: A Multilingual Large Language Model Trained with Balanced Data**|Haoran Sun et.al.|[2408.06273v1](http://arxiv.org/abs/2408.06273v1)|null|
+|**2024-08-12**|**Context-aware Visual Storytelling with Visual Prefix Tuning and Contrastive Learning**|Yingjin Song et.al.|[2408.06259v1](http://arxiv.org/abs/2408.06259v1)|null|
+|**2024-08-12**|**Novel View Synthesis from a Single Image with Pretrained Diffusion Guidance**|Taewon Kang et.al.|[2408.06157v1](http://arxiv.org/abs/2408.06157v1)|null|
+|**2024-08-12**|**Nob-MIAs: Non-biased Membership Inference Attacks Assessment on Large Language Models with Ex-Post Dataset Construction**|Cédric Eichler et.al.|[2408.05968v1](http://arxiv.org/abs/2408.05968v1)|null|
+|**2024-08-12**|**Multimodal Large Language Models for Phishing Webpage Detection and Identification**|Jehyun Lee et.al.|[2408.05941v1](http://arxiv.org/abs/2408.05941v1)|**[link](https://github.com/jehleekr/multimodal_llm_phishing_detection)**|
+|**2024-08-12**|**Adapting a Foundation Model for Space-based Tasks**|Matthew Foutter et.al.|[2408.05924v1](http://arxiv.org/abs/2408.05924v1)|null|
+|**2024-08-11**|**SAGA: A Participant-specific Examination of Story Alternatives and Goal Applicability for a Deeper Understanding of Complex Events**|Sai Vallurupalli et.al.|[2408.05793v1](http://arxiv.org/abs/2408.05793v1)|**[link](https://github.com/saiumbc/saga)**|
+|**2024-08-11**|**SMILES-Mamba: Chemical Mamba Foundation Models for Drug ADMET Prediction**|Bohao Xu et.al.|[2408.05696v1](http://arxiv.org/abs/2408.05696v1)|null|
+|**2024-08-09**|**Logically Constrained Robotics Transformers for Enhanced Perception-Action Planning**|Parv Kapoor et.al.|[2408.05336v1](http://arxiv.org/abs/2408.05336v1)|null|
 |**2024-08-09**|**ECG-FM: An Open Electrocardiogram Foundation Model**|Kaden McKeen et.al.|[2408.05178v1](http://arxiv.org/abs/2408.05178v1)|**[link](https://github.com/bowang-lab/ecg-fm)**|
 |**2024-08-09**|**UNIC: Universal Classification Models via Multi-teacher Distillation**|Mert Bulent Sariyildiz et.al.|[2408.05088v1](http://arxiv.org/abs/2408.05088v1)|null|
 |**2024-08-09**|**DreamCouple: Exploring High Quality Text-to-3D Generation Via Rectified Flow**|Hangyu Li et.al.|[2408.05008v1](http://arxiv.org/abs/2408.05008v1)|null|
@@ -3415,12 +3425,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240813>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240814>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-12**|**Latent Disentanglement for Low Light Image Enhancement**|Zhihao Zheng et.al.|[2408.06245v1](http://arxiv.org/abs/2408.06245v1)|null|
+|**2024-08-12**|**LipidBERT: A Lipid Language Model Pre-trained on METiS de novo Lipid Library**|Tianhao Yu et.al.|[2408.06150v1](http://arxiv.org/abs/2408.06150v1)|null|
+|**2024-08-12**|**Multi-scale Contrastive Adaptor Learning for Segmenting Anything in Underperformed Scenes**|Ke Zhou et.al.|[2408.05936v1](http://arxiv.org/abs/2408.05936v1)|null|
+|**2024-08-12**|**Constructing accurate and efficient general-purpose atomistic machine learning model with transferable accuracy for quantum chemistry**|Yicheng Chen et.al.|[2408.05932v1](http://arxiv.org/abs/2408.05932v1)|null|
+|**2024-08-12**|**Adapting General Disentanglement-Based Speaker Anonymization for Enhanced Emotion Preservation**|Xiaoxiao Miao et.al.|[2408.05928v1](http://arxiv.org/abs/2408.05928v1)|null|
+|**2024-08-12**|**Urban Region Pre-training and Prompting: A Graph-based Approach**|Jiahui Jin et.al.|[2408.05920v1](http://arxiv.org/abs/2408.05920v1)|null|
+|**2024-08-11**|**HySparK: Hybrid Sparse Masking for Large Scale Medical Image Pre-Training**|Fenghe Tang et.al.|[2408.05815v1](http://arxiv.org/abs/2408.05815v1)|**[link](https://github.com/fenghetan9/hyspark)**|
+|**2024-08-11**|**Seg-CycleGAN : SAR-to-optical image translation guided by a downstream task**|Hannuo Zhang et.al.|[2408.05777v1](http://arxiv.org/abs/2408.05777v1)|null|
+|**2024-08-11**|**Efficient and Versatile Robust Fine-Tuning of Zero-shot Models**|Sungyeon Kim et.al.|[2408.05749v1](http://arxiv.org/abs/2408.05749v1)|null|
+|**2024-08-11**|**MTSCI: A Conditional Diffusion Model for Multivariate Time Series Consistent Imputation**|Jianping Zhou et.al.|[2408.05740v1](http://arxiv.org/abs/2408.05740v1)|**[link](https://github.com/jeremychou28/mtsci)**|
 |**2024-08-09**|**ECG-FM: An Open Electrocardiogram Foundation Model**|Kaden McKeen et.al.|[2408.05178v1](http://arxiv.org/abs/2408.05178v1)|**[link](https://github.com/bowang-lab/ecg-fm)**|
 |**2024-08-09**|**Bootstrap Latents of Nodes and Neighbors for Graph Self-Supervised Learning**|Yunhui Liu et.al.|[2408.05087v1](http://arxiv.org/abs/2408.05087v1)|**[link](https://github.com/cloudy1225/blnn)**|
 |**2024-08-09**|**Clustering-friendly Representation Learning for Enhancing Salient Features**|Toshiyuki Oshima et.al.|[2408.04891v1](http://arxiv.org/abs/2408.04891v1)|null|
@@ -6544,17 +6564,18 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20240813>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240814>back to top</a>)</p>
 
 ## adaptor
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-12**|**Multi-scale Contrastive Adaptor Learning for Segmenting Anything in Underperformed Scenes**|Ke Zhou et.al.|[2408.05936v1](http://arxiv.org/abs/2408.05936v1)|null|
 |**2024-08-10**|**SAM2-Adapter: Evaluating & Adapting Segment Anything 2 in Downstream Tasks: Camouflage, Shadow, Medical Image Segmentation, and More**|Tianrun Chen et.al.|[2408.04579v2](http://arxiv.org/abs/2408.04579v2)|null|
 |**2024-08-06**|**Enabling High-Throughput Parallel I/O in Particle-in-Cell Monte Carlo Simulations with openPMD and Darshan I/O Monitoring**|Jeremy J. Williams et.al.|[2408.02869v1](http://arxiv.org/abs/2408.02869v1)|null|
 |**2024-08-04**|**Non-invasive imaging assisted CFD simulation of 4D multi-modal fluid flow using In-situ adaptor**|Vaishali Sharma et.al.|[2408.02121v1](http://arxiv.org/abs/2408.02121v1)|null|
 |**2024-07-17**|**Matryoshka-Adaptor: Unsupervised and Supervised Tuning for Smaller Embedding Dimensions**|Jinsung Yoon et.al.|[2407.20243v1](http://arxiv.org/abs/2407.20243v1)|null|
-|**2024-07-23**|**FoRA: Low-Rank Adaptation Model beyond Multimodal Siamese Network**|Weiying Xie et.al.|[2407.16129v1](http://arxiv.org/abs/2407.16129v1)|**[link](https://github.com/zyszxhy/fora)**|
+|**2024-07-23**|**FoRA: Low-Rank Adaptation Model beyond Multimodal Siamese Network**|Weiying Xie et.al.|[2407.16129v1](http://arxiv.org/abs/2407.16129v1)|null|
 |**2024-07-17**|**SMooDi: Stylized Motion Diffusion Model**|Lei Zhong et.al.|[2407.12783v1](http://arxiv.org/abs/2407.12783v1)|null|
 |**2024-07-17**|**VEON: Vocabulary-Enhanced Occupancy Prediction**|Jilai Zheng et.al.|[2407.12294v1](http://arxiv.org/abs/2407.12294v1)|null|
 |**2024-07-14**|**Whisper-SV: Adapting Whisper for Low-data-resource Speaker Verification**|Li Zhang et.al.|[2407.10048v1](http://arxiv.org/abs/2407.10048v1)|null|
@@ -6670,12 +6691,22 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240813>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240814>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-12**|**Latent Disentanglement for Low Light Image Enhancement**|Zhihao Zheng et.al.|[2408.06245v1](http://arxiv.org/abs/2408.06245v1)|null|
+|**2024-08-12**|**MR3D-Net: Dynamic Multi-Resolution 3D Sparse Voxel Grid Fusion for LiDAR-Based Collective Perception**|Sven Teufel et.al.|[2408.06137v1](http://arxiv.org/abs/2408.06137v1)|**[link](https://github.com/ekut-es/mr3d-net)**|
+|**2024-08-12**|**DPDETR: Decoupled Position Detection Transformer for Infrared-Visible Object Detection**|Junjie Guo et.al.|[2408.06123v1](http://arxiv.org/abs/2408.06123v1)|null|
+|**2024-08-12**|**Optimizing Vision Transformers with Data-Free Knowledge Transfer**|Gousia Habib et.al.|[2408.05952v1](http://arxiv.org/abs/2408.05952v1)|null|
+|**2024-08-12**|**MV2DFusion: Leveraging Modality-Specific Object Semantics for Multi-Modal 3D Detection**|Zitian Wang et.al.|[2408.05945v1](http://arxiv.org/abs/2408.05945v1)|null|
+|**2024-08-12**|**Multi-scale Contrastive Adaptor Learning for Segmenting Anything in Underperformed Scenes**|Ke Zhou et.al.|[2408.05936v1](http://arxiv.org/abs/2408.05936v1)|null|
+|**2024-08-12**|**Weakly Supervised Video Anomaly Detection and Localization with Spatio-Temporal Prompts**|Peng Wu et.al.|[2408.05905v1](http://arxiv.org/abs/2408.05905v1)|null|
+|**2024-08-11**|**U-DECN: End-to-End Underwater Object Detection ConvNet with Improved DeNoising Training**|Zhuoyan Liu et.al.|[2408.05780v1](http://arxiv.org/abs/2408.05780v1)|**[link](https://github.com/lefteyex/u-decn)**|
+|**2024-08-11**|**FADE: A Dataset for Detecting Falling Objects around Buildings in Video**|Zhigang Tu et.al.|[2408.05750v1](http://arxiv.org/abs/2408.05750v1)|null|
+|**2024-08-11**|**Evaluating BM3D and NBNet: A Comprehensive Study of Image Denoising Across Multiple Datasets**|Ghazal Kaviani et.al.|[2408.05697v1](http://arxiv.org/abs/2408.05697v1)|null|
 |**2024-08-09**|**DeepInteraction++: Multi-Modality Interaction for Autonomous Driving**|Zeyu Yang et.al.|[2408.05075v1](http://arxiv.org/abs/2408.05075v1)|**[link](https://github.com/fudan-zvg/deepinteraction)**|
 |**2024-08-09**|**RadarPillars: Efficient Object Detection from 4D Radar Point Clouds**|Alexander Musiat et.al.|[2408.05020v1](http://arxiv.org/abs/2408.05020v1)|null|
 |**2024-08-09**|**Hyper-YOLO: When Visual Object Detection Meets Hypergraph Computation**|Yifan Feng et.al.|[2408.04804v1](http://arxiv.org/abs/2408.04804v1)|**[link](https://github.com/imoonlab/hyper-yolo)**|
@@ -9510,7 +9541,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20240813>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240814>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
