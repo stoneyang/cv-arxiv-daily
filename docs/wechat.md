@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.08.16
+> Updated on 2024.08.17
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,7 +17,14 @@
 
 ## pretrain
 
-- 2024-08-14, **Assessing the Role of Lexical Semantics in Cross-lingual Transfer through Controlled Manipulations**, Roy Ilani et.al., Paper: [http://arxiv.org/abs/2408.07599v1](http://arxiv.org/abs/2408.07599v1)
+- 2024-08-15, **LLM4DSR: Leveraing Large Language Model for Denoising Sequential Recommendation**, Bohao Wang et.al., Paper: [http://arxiv.org/abs/2408.08208v1](http://arxiv.org/abs/2408.08208v1)
+- 2024-08-15, **Category-Prompt Refined Feature Learning for Long-Tailed Multi-Label Image Classification**, Jiexuan Yan et.al., Paper: [http://arxiv.org/abs/2408.08125v1](http://arxiv.org/abs/2408.08125v1), Code: **[https://github.com/jiexuanyan/cprfl](https://github.com/jiexuanyan/cprfl)**
+- 2024-08-15, **Extracting Sentence Embeddings from Pretrained Transformer Models**, Lukas Stankevičius et.al., Paper: [http://arxiv.org/abs/2408.08073v1](http://arxiv.org/abs/2408.08073v1)
+- 2024-08-15, **Navigating Data Scarcity using Foundation Models: A Benchmark of Few-Shot and Zero-Shot Learning Approaches in Medical Imaging**, Stefano Woerner et.al., Paper: [http://arxiv.org/abs/2408.08058v1](http://arxiv.org/abs/2408.08058v1)
+- 2024-08-15, **IIU: Independent Inference Units for Knowledge-based Visual Question Answering**, Yili Li et.al., Paper: [http://arxiv.org/abs/2408.07989v1](http://arxiv.org/abs/2408.07989v1), Code: **[https://github.com/lilidamowang/iiu](https://github.com/lilidamowang/iiu)**
+- 2024-08-15, **A Systematic Evaluation of Generated Time Series and Their Effects in Self-Supervised Pretraining**, Audrey Der et.al., Paper: [http://arxiv.org/abs/2408.07869v1](http://arxiv.org/abs/2408.07869v1)
+- 2024-08-14, **MedTsLLM: Leveraging LLMs for Multimodal Medical Time Series Analysis**, Nimeesha Chan et.al., Paper: [http://arxiv.org/abs/2408.07773v1](http://arxiv.org/abs/2408.07773v1), Code: **[https://github.com/flixpar/med-ts-llm](https://github.com/flixpar/med-ts-llm)**
+- 2024-08-14, **Assessing the Role of Lexical Semantics in Cross-lingual Transfer through Controlled Manipulations**, Roy Ilani et.al., Paper: [http://arxiv.org/abs/2408.07599v1](http://arxiv.org/abs/2408.07599v1), Code: **[https://github.com/roy54x/Lexical_semantics_in_cross-lingual_transfer](https://github.com/roy54x/Lexical_semantics_in_cross-lingual_transfer)**
 - 2024-08-14, **Whitening Consistently Improves Self-Supervised Learning**, András Kalapos et.al., Paper: [http://arxiv.org/abs/2408.07519v1](http://arxiv.org/abs/2408.07519v1), Code: **[https://github.com/kaland313/ssl-whitening](https://github.com/kaland313/ssl-whitening)**
 - 2024-08-14, **CNN-JEPA: Self-Supervised Pretraining Convolutional Neural Networks Using Joint Embedding Predictive Architecture**, András Kalapos et.al., Paper: [http://arxiv.org/abs/2408.07514v1](http://arxiv.org/abs/2408.07514v1), Code: **[https://github.com/kaland313/cnn-jepa](https://github.com/kaland313/cnn-jepa)**
 - 2024-08-14, **WavLM model ensemble for audio deepfake detection**, David Combei et.al., Paper: [http://arxiv.org/abs/2408.07414v1](http://arxiv.org/abs/2408.07414v1)
@@ -3435,10 +3442,19 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20240816>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240817>back to top</a>)</p>
 
 ## downstream
 
+- 2024-08-15, **HyperTaxel: Hyper-Resolution for Taxel-Based Tactile Signals Through Contrastive Learning**, Hongyu Li et.al., Paper: [http://arxiv.org/abs/2408.08312v1](http://arxiv.org/abs/2408.08312v1)
+- 2024-08-15, **ScalingFilter: Assessing Data Quality through Inverse Utilization of Scaling Laws**, Ruihang Li et.al., Paper: [http://arxiv.org/abs/2408.08310v1](http://arxiv.org/abs/2408.08310v1)
+- 2024-08-15, **SLCA++: Unleash the Power of Sequential Fine-tuning for Continual Learning with Pre-training**, Gengwei Zhang et.al., Paper: [http://arxiv.org/abs/2408.08295v1](http://arxiv.org/abs/2408.08295v1), Code: **[https://github.com/gengdavid/slca](https://github.com/gengdavid/slca)**
+- 2024-08-15, **BAM! Just Like That: Simple and Efficient Parameter Upcycling for Mixture of Experts**, Qizhen Zhang et.al., Paper: [http://arxiv.org/abs/2408.08274v1](http://arxiv.org/abs/2408.08274v1)
+- 2024-08-15, **CatalogBank: A Structured and Interoperable Catalog Dataset with a Semi-Automatic Annotation Tool (DocumentLabeler) for Engineering System Design**, Hasan Sinan Bank et.al., Paper: [http://arxiv.org/abs/2408.08238v1](http://arxiv.org/abs/2408.08238v1), Code: **[https://github.com/bankh/DocumentLabeler](https://github.com/bankh/DocumentLabeler)**
+- 2024-08-15, **Covert Bias: The Severity of Social Views' Unalignment Towards Implicit and Explicit Opinion**, Abeer Aldayel et.al., Paper: [http://arxiv.org/abs/2408.08212v1](http://arxiv.org/abs/2408.08212v1)
+- 2024-08-15, **Unsupervised Part Discovery via Dual Representation Alignment**, Jiahao Xia et.al., Paper: [http://arxiv.org/abs/2408.08108v1](http://arxiv.org/abs/2408.08108v1), Code: **[https://github.com/jiahao-uts/unsupervisedpart](https://github.com/jiahao-uts/unsupervisedpart)**
+- 2024-08-15, **SPEED: Scalable Preprocessing of EEG Data for Self-Supervised Learning**, Anders Gjølbye et.al., Paper: [http://arxiv.org/abs/2408.08065v1](http://arxiv.org/abs/2408.08065v1)
+- 2024-08-14, **Cropper: Vision-Language Model for Image Cropping through In-Context Learning**, Seung Hyun Lee et.al., Paper: [http://arxiv.org/abs/2408.07790v1](http://arxiv.org/abs/2408.07790v1)
 - 2024-08-14, **End-to-end Semantic-centric Video-based Multimodal Affective Computing**, Ronghao Lin et.al., Paper: [http://arxiv.org/abs/2408.07694v1](http://arxiv.org/abs/2408.07694v1)
 - 2024-08-14, **Drug Discovery SMILES-to-Pharmacokinetics Diffusion Models with Deep Molecular Understanding**, Bing Hu et.al., Paper: [http://arxiv.org/abs/2408.07636v1](http://arxiv.org/abs/2408.07636v1)
 - 2024-08-15, **BAPLe: Backdoor Attacks on Medical Foundational Models using Prompt Learning**, Asif Hanif et.al., Paper: [http://arxiv.org/abs/2408.07440v2](http://arxiv.org/abs/2408.07440v2), Code: **[https://github.com/asif-hanif/baple](https://github.com/asif-hanif/baple)**
@@ -6585,7 +6601,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20240816>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240817>back to top</a>)</p>
 
 ## adaptor
 
@@ -6711,14 +6727,19 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20240816>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240817>back to top</a>)</p>
 
 ## object detection
 
+- 2024-08-15, **Learned Multimodal Compression for Autonomous Driving**, Hadi Hadizadeh et.al., Paper: [http://arxiv.org/abs/2408.08211v1](http://arxiv.org/abs/2408.08211v1)
+- 2024-08-15, **OC3D: Weakly Supervised Outdoor 3D Object Detection with Only Coarse Click Annotation**, Qiming Xia et.al., Paper: [http://arxiv.org/abs/2408.08092v1](http://arxiv.org/abs/2408.08092v1)
+- 2024-08-15, **CamoTeacher: Dual-Rotation Consistency Learning for Semi-Supervised Camouflaged Object Detection**, Xunfa Lai et.al., Paper: [http://arxiv.org/abs/2408.08050v1](http://arxiv.org/abs/2408.08050v1)
+- 2024-08-15, **Co-Fix3D: Enhancing 3D Object Detection with Collaborative Refinement**, Wenxuan Li et.al., Paper: [http://arxiv.org/abs/2408.07999v1](http://arxiv.org/abs/2408.07999v1)
+- 2024-08-15, **GOReloc: Graph-based Object-Level Relocalization for Visual SLAM**, Yutong Wang et.al., Paper: [http://arxiv.org/abs/2408.07917v1](http://arxiv.org/abs/2408.07917v1), Code: **[https://github.com/yutongwangbit/goreloc](https://github.com/yutongwangbit/goreloc)**
 - 2024-08-14, **See It All: Contextualized Late Aggregation for 3D Dense Captioning**, Minjung Kim et.al., Paper: [http://arxiv.org/abs/2408.07648v1](http://arxiv.org/abs/2408.07648v1)
 - 2024-08-14, **Panacea+: Panoramic and Controllable Video Generation for Autonomous Driving**, Yuqing Wen et.al., Paper: [http://arxiv.org/abs/2408.07605v1](http://arxiv.org/abs/2408.07605v1)
 - 2024-08-14, **Infra-YOLO: Efficient Neural Network Structure with Model Compression for Real-Time Infrared Small Object Detection**, Zhonglin Chen et.al., Paper: [http://arxiv.org/abs/2408.07455v1](http://arxiv.org/abs/2408.07455v1)
-- 2024-08-14, **Sign language recognition based on deep learning and low-cost handcrafted descriptors**, Alvaro Leandro Cavalcante Carneiro et.al., Paper: [http://arxiv.org/abs/2408.07244v1](http://arxiv.org/abs/2408.07244v1)
+- 2024-08-14, **Sign language recognition based on deep learning and low-cost handcrafted descriptors**, Alvaro Leandro Cavalcante Carneiro et.al., Paper: [http://arxiv.org/abs/2408.07244v1](http://arxiv.org/abs/2408.07244v1), Code: **[https://github.com/alvarocavalcante/multi-cue-sign-language](https://github.com/alvarocavalcante/multi-cue-sign-language)**
 - 2024-08-13, **Vision Language Model for Interpretable and Fine-grained Detection of Safety Compliance in Diverse Workplaces**, Zhiling Chen et.al., Paper: [http://arxiv.org/abs/2408.07146v1](http://arxiv.org/abs/2408.07146v1)
 - 2024-08-13, **Efficient Human-Object-Interaction (EHOI) Detection via Interaction Label Coding and Conditional Decision**, Tsung-Shan Yang et.al., Paper: [http://arxiv.org/abs/2408.07018v1](http://arxiv.org/abs/2408.07018v1)
 - 2024-08-13, **Divide and Conquer: Improving Multi-Camera 3D Perception with 2D Semantic-Depth Priors and Input-Dependent Queries**, Qi Song et.al., Paper: [http://arxiv.org/abs/2408.06901v1](http://arxiv.org/abs/2408.06901v1)
@@ -9570,7 +9591,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20240816>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240817>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
