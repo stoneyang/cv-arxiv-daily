@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.08.19
+> Updated on 2024.08.20
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,10 @@
 
 ## pretrain
 
+- 2024-08-16, **A Disease-Specific Foundation Model Using Over 100K Fundus Images: Release and Validation for Abnormality and Multi-Disease Classification on Downstream Tasks**, Boa Jang et.al., Paper: [http://arxiv.org/abs/2408.08790v1](http://arxiv.org/abs/2408.08790v1), Code: **[https://github.com/Jang-Boa/Research-Foundation-Retina](https://github.com/Jang-Boa/Research-Foundation-Retina)**
+- 2024-08-16, **Tuning a SAM-Based Model with Multi-Cognitive Visual Adapter to Remote Sensing Instance Segmentation**, Linghao Zheng et.al., Paper: [http://arxiv.org/abs/2408.08576v1](http://arxiv.org/abs/2408.08576v1)
+- 2024-08-15, **JPEG-LM: LLMs as Image Generators with Canonical Codec Representations**, Xiaochuang Han et.al., Paper: [http://arxiv.org/abs/2408.08459v1](http://arxiv.org/abs/2408.08459v1)
+- 2024-08-15, **SpectralEarth: Training Hyperspectral Foundation Models at Scale**, Nassim Ait Ali Braham et.al., Paper: [http://arxiv.org/abs/2408.08447v1](http://arxiv.org/abs/2408.08447v1)
 - 2024-08-15, **LLM4DSR: Leveraing Large Language Model for Denoising Sequential Recommendation**, Bohao Wang et.al., Paper: [http://arxiv.org/abs/2408.08208v1](http://arxiv.org/abs/2408.08208v1)
 - 2024-08-15, **Category-Prompt Refined Feature Learning for Long-Tailed Multi-Label Image Classification**, Jiexuan Yan et.al., Paper: [http://arxiv.org/abs/2408.08125v1](http://arxiv.org/abs/2408.08125v1), Code: **[https://github.com/jiexuanyan/cprfl](https://github.com/jiexuanyan/cprfl)**
 - 2024-08-15, **Extracting Sentence Embeddings from Pretrained Transformer Models**, Lukas Stankevičius et.al., Paper: [http://arxiv.org/abs/2408.08073v1](http://arxiv.org/abs/2408.08073v1)
@@ -3442,10 +3446,17 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20240819>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240820>back to top</a>)</p>
 
 ## downstream
 
+- 2024-08-16, **SAM2-UNet: Segment Anything 2 Makes Strong Encoder for Natural and Medical Image Segmentation**, Xinyu Xiong et.al., Paper: [http://arxiv.org/abs/2408.08870v1](http://arxiv.org/abs/2408.08870v1), Code: **[https://github.com/wzh0120/sam2-unet](https://github.com/wzh0120/sam2-unet)**
+- 2024-08-16, **A Disease-Specific Foundation Model Using Over 100K Fundus Images: Release and Validation for Abnormality and Multi-Disease Classification on Downstream Tasks**, Boa Jang et.al., Paper: [http://arxiv.org/abs/2408.08790v1](http://arxiv.org/abs/2408.08790v1), Code: **[https://github.com/Jang-Boa/Research-Foundation-Retina](https://github.com/Jang-Boa/Research-Foundation-Retina)**
+- 2024-08-16, **SE-SGformer: A Self-Explainable Signed Graph Transformer for Link Sign Prediction**, Lu Li et.al., Paper: [http://arxiv.org/abs/2408.08754v1](http://arxiv.org/abs/2408.08754v1)
+- 2024-08-16, **PCP-MAE: Learning to Predict Centers for Point Masked Autoencoders**, Xiangdong Zhang et.al., Paper: [http://arxiv.org/abs/2408.08753v1](http://arxiv.org/abs/2408.08753v1)
+- 2024-08-16, **Unsupervised Transfer Learning via Adversarial Contrastive Training**, Chenguang Duan et.al., Paper: [http://arxiv.org/abs/2408.08533v1](http://arxiv.org/abs/2408.08533v1)
+- 2024-08-15, **Penny-Wise and Pound-Foolish in Deepfake Detection**, Yabin Wang et.al., Paper: [http://arxiv.org/abs/2408.08412v1](http://arxiv.org/abs/2408.08412v1), Code: **[https://github.com/iamwangyabin/poundnet](https://github.com/iamwangyabin/poundnet)**
+- 2024-08-15, **Pre-processing and Compression: Understanding Hidden Representation Refinement Across Imaging Domains via Intrinsic Dimension**, Nicholas Konz et.al., Paper: [http://arxiv.org/abs/2408.08381v1](http://arxiv.org/abs/2408.08381v1)
 - 2024-08-15, **HyperTaxel: Hyper-Resolution for Taxel-Based Tactile Signals Through Contrastive Learning**, Hongyu Li et.al., Paper: [http://arxiv.org/abs/2408.08312v1](http://arxiv.org/abs/2408.08312v1)
 - 2024-08-15, **ScalingFilter: Assessing Data Quality through Inverse Utilization of Scaling Laws**, Ruihang Li et.al., Paper: [http://arxiv.org/abs/2408.08310v1](http://arxiv.org/abs/2408.08310v1)
 - 2024-08-15, **SLCA++: Unleash the Power of Sequential Fine-tuning for Continual Learning with Pre-training**, Gengwei Zhang et.al., Paper: [http://arxiv.org/abs/2408.08295v1](http://arxiv.org/abs/2408.08295v1), Code: **[https://github.com/gengdavid/slca](https://github.com/gengdavid/slca)**
@@ -6601,7 +6612,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20240819>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240820>back to top</a>)</p>
 
 ## adaptor
 
@@ -6727,10 +6738,14 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20240819>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240820>back to top</a>)</p>
 
 ## object detection
 
+- 2024-08-16, **SAM2-UNet: Segment Anything 2 Makes Strong Encoder for Natural and Medical Image Segmentation**, Xinyu Xiong et.al., Paper: [http://arxiv.org/abs/2408.08870v1](http://arxiv.org/abs/2408.08870v1), Code: **[https://github.com/wzh0120/sam2-unet](https://github.com/wzh0120/sam2-unet)**
+- 2024-08-16, **Multimodal Relational Triple Extraction with Query-based Entity Object Transformer**, Lei Hei et.al., Paper: [http://arxiv.org/abs/2408.08709v1](http://arxiv.org/abs/2408.08709v1)
+- 2024-08-16, **Tell Codec What Worth Compressing: Semantically Disentangled Image Coding for Machine with LMMs**, Jinming Liu et.al., Paper: [http://arxiv.org/abs/2408.08575v1](http://arxiv.org/abs/2408.08575v1)
+- 2024-08-15, **5%>100%: Breaking Performance Shackles of Full Fine-Tuning on Visual Recognition Tasks**, Dongshuo Yin et.al., Paper: [http://arxiv.org/abs/2408.08345v1](http://arxiv.org/abs/2408.08345v1), Code: **[https://github.com/leiyi-hu/mona](https://github.com/leiyi-hu/mona)**
 - 2024-08-15, **Learned Multimodal Compression for Autonomous Driving**, Hadi Hadizadeh et.al., Paper: [http://arxiv.org/abs/2408.08211v1](http://arxiv.org/abs/2408.08211v1)
 - 2024-08-16, **OC3D: Weakly Supervised Outdoor 3D Object Detection with Only Coarse Click Annotation**, Qiming Xia et.al., Paper: [http://arxiv.org/abs/2408.08092v2](http://arxiv.org/abs/2408.08092v2)
 - 2024-08-15, **CamoTeacher: Dual-Rotation Consistency Learning for Semi-Supervised Camouflaged Object Detection**, Xunfa Lai et.al., Paper: [http://arxiv.org/abs/2408.08050v1](http://arxiv.org/abs/2408.08050v1)
@@ -9591,7 +9606,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20240819>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240820>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
