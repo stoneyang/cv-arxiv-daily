@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.20
+## Updated on 2024.08.21
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-19**|**Transformers to SSMs: Distilling Quadratic Knowledge to Subquadratic Models**|Aviv Bick et.al.|[2408.10189v1](http://arxiv.org/abs/2408.10189v1)|null|
+|**2024-08-19**|**In-Context Learning with Representations: Contextual Generalization of Trained Transformers**|Tong Yang et.al.|[2408.10147v1](http://arxiv.org/abs/2408.10147v1)|null|
+|**2024-08-19**|**Instruction Finetuning for Leaderboard Generation from Empirical AI Research**|Salomon Kabongo et.al.|[2408.10141v1](http://arxiv.org/abs/2408.10141v1)|null|
+|**2024-08-19**|**Facial Wrinkle Segmentation for Cosmetic Dermatology: Pretraining with Texture Map-Based Weak Supervision**|Junho Moon et.al.|[2408.10060v1](http://arxiv.org/abs/2408.10060v1)|null|
+|**2024-08-19**|**Weakly Supervised Pretraining and Multi-Annotator Supervised Finetuning for Facial Wrinkle Detection**|Ik Jun Moon et.al.|[2408.09952v1](http://arxiv.org/abs/2408.09952v1)|null|
+|**2024-08-19**|**C${^2}$RL: Content and Context Representation Learning for Gloss-free Sign Language Translation and Retrieval**|Zhigang Chen et.al.|[2408.09949v1](http://arxiv.org/abs/2408.09949v1)|null|
+|**2024-08-19**|**Instruction-Based Molecular Graph Generation with Unified Text-Graph Diffusion Model**|Yuran Xiang et.al.|[2408.09896v1](http://arxiv.org/abs/2408.09896v1)|**[link](https://github.com/ran1812/utgdiff)**|
+|**2024-08-19**|**SAM-UNet:Enhancing Zero-Shot Segmentation of SAM for Universal Medical Images**|Sihan Yang et.al.|[2408.09886v1](http://arxiv.org/abs/2408.09886v1)|**[link](https://github.com/hhankyangg/sam-unet)**|
+|**2024-08-19**|**Minor DPO reject penalty to increase training robustness**|Shiming Xie et.al.|[2408.09834v1](http://arxiv.org/abs/2408.09834v1)|null|
+|**2024-08-19**|**A Population-to-individual Tuning Framework for Adapting Pretrained LM to On-device User Intent Prediction**|Jiahui Gong et.al.|[2408.09815v1](http://arxiv.org/abs/2408.09815v1)|null|
 |**2024-08-16**|**A Disease-Specific Foundation Model Using Over 100K Fundus Images: Release and Validation for Abnormality and Multi-Disease Classification on Downstream Tasks**|Boa Jang et.al.|[2408.08790v1](http://arxiv.org/abs/2408.08790v1)|**[link](https://github.com/Jang-Boa/Research-Foundation-Retina)**|
 |**2024-08-16**|**Tuning a SAM-Based Model with Multi-Cognitive Visual Adapter to Remote Sensing Instance Segmentation**|Linghao Zheng et.al.|[2408.08576v1](http://arxiv.org/abs/2408.08576v1)|null|
 |**2024-08-15**|**JPEG-LM: LLMs as Image Generators with Canonical Codec Representations**|Xiaochuang Han et.al.|[2408.08459v1](http://arxiv.org/abs/2408.08459v1)|null|
@@ -3448,12 +3458,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240820>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240821>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-19**|**ARMADA: Attribute-Based Multimodal Data Augmentation**|Xiaomeng Jin et.al.|[2408.10086v1](http://arxiv.org/abs/2408.10086v1)|null|
+|**2024-08-19**|**C${^2}$RL: Content and Context Representation Learning for Gloss-free Sign Language Translation and Retrieval**|Zhigang Chen et.al.|[2408.09949v1](http://arxiv.org/abs/2408.09949v1)|null|
+|**2024-08-19**|**SAM-UNet:Enhancing Zero-Shot Segmentation of SAM for Universal Medical Images**|Sihan Yang et.al.|[2408.09886v1](http://arxiv.org/abs/2408.09886v1)|**[link](https://github.com/hhankyangg/sam-unet)**|
+|**2024-08-19**|**TeamLoRA: Boosting Low-Rank Adaptation with Expert Collaboration and Competition**|Tianwei Lin et.al.|[2408.09856v1](http://arxiv.org/abs/2408.09856v1)|**[link](https://github.com/lin-tianwei/teamlora)**|
+|**2024-08-19**|**Segment-Anything Models Achieve Zero-shot Robustness in Autonomous Driving**|Jun Yan et.al.|[2408.09839v1](http://arxiv.org/abs/2408.09839v1)|**[link](https://github.com/momo1986/robust_sam_iv)**|
+|**2024-08-19**|**Minor DPO reject penalty to increase training robustness**|Shiming Xie et.al.|[2408.09834v1](http://arxiv.org/abs/2408.09834v1)|null|
+|**2024-08-19**|**MePT: Multi-Representation Guided Prompt Tuning for Vision-Language Model**|Xinyang Wang et.al.|[2408.09706v1](http://arxiv.org/abs/2408.09706v1)|null|
+|**2024-08-19**|**Image-based Freeform Handwriting Authentication with Energy-oriented Self-Supervised Learning**|Jingyao Wang et.al.|[2408.09676v1](http://arxiv.org/abs/2408.09676v1)|null|
+|**2024-08-19**|**Acquiring Bidirectionality via Large and Small Language Models**|Takumi Goto et.al.|[2408.09640v1](http://arxiv.org/abs/2408.09640v1)|null|
+|**2024-08-18**|**Antidote: Post-fine-tuning Safety Alignment for Large Language Models against Harmful Fine-tuning**|Tiansheng Huang et.al.|[2408.09600v1](http://arxiv.org/abs/2408.09600v1)|null|
 |**2024-08-16**|**SAM2-UNet: Segment Anything 2 Makes Strong Encoder for Natural and Medical Image Segmentation**|Xinyu Xiong et.al.|[2408.08870v1](http://arxiv.org/abs/2408.08870v1)|**[link](https://github.com/wzh0120/sam2-unet)**|
 |**2024-08-16**|**A Disease-Specific Foundation Model Using Over 100K Fundus Images: Release and Validation for Abnormality and Multi-Disease Classification on Downstream Tasks**|Boa Jang et.al.|[2408.08790v1](http://arxiv.org/abs/2408.08790v1)|**[link](https://github.com/Jang-Boa/Research-Foundation-Retina)**|
 |**2024-08-16**|**SE-SGformer: A Self-Explainable Signed Graph Transformer for Link Sign Prediction**|Lu Li et.al.|[2408.08754v1](http://arxiv.org/abs/2408.08754v1)|null|
@@ -6616,7 +6636,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20240820>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240821>back to top</a>)</p>
 
 ## adaptor
 
@@ -6744,12 +6764,22 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240820>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240821>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-19**|**SHARP: Segmentation of Hands and Arms by Range using Pseudo-Depth for Enhanced Egocentric 3D Hand Pose Estimation and Action Recognition**|Wiktor Mucha et.al.|[2408.10037v1](http://arxiv.org/abs/2408.10037v1)|null|
+|**2024-08-19**|**Segment-Anything Models Achieve Zero-shot Robustness in Autonomous Driving**|Jun Yan et.al.|[2408.09839v1](http://arxiv.org/abs/2408.09839v1)|**[link](https://github.com/momo1986/robust_sam_iv)**|
+|**2024-08-19**|**Latent Diffusion for Guided Document Table Generation**|Syed Jawwad Haider Hamdani et.al.|[2408.09800v1](http://arxiv.org/abs/2408.09800v1)|null|
+|**2024-08-18**|**Adversarial Attacked Teacher for Unsupervised Domain Adaptive Object Detection**|Kaiwen Wang et.al.|[2408.09431v1](http://arxiv.org/abs/2408.09431v1)|null|
+|**2024-08-18**|**Boundary-Recovering Network for Temporal Action Detection**|Jihwan Kim et.al.|[2408.09354v1](http://arxiv.org/abs/2408.09354v1)|null|
+|**2024-08-18**|**YOLOv1 to YOLOv10: The fastest and most accurate real-time object detection systems**|Chien-Yao Wang et.al.|[2408.09332v1](http://arxiv.org/abs/2408.09332v1)|null|
+|**2024-08-17**|**GSLAMOT: A Tracklet and Query Graph-based Simultaneous Locating, Mapping, and Multiple Object Tracking System**|Shuo Wang et.al.|[2408.09191v1](http://arxiv.org/abs/2408.09191v1)|null|
+|**2024-08-17**|**PADetBench: Towards Benchmarking Physical Attacks against Object Detection**|Jiawei Lian et.al.|[2408.09181v1](http://arxiv.org/abs/2408.09181v1)|**[link](https://github.com/jiaweilian/benchmarking_physical_attack)**|
+|**2024-08-17**|**MaskBEV: Towards A Unified Framework for BEV Detection and Map Segmentation**|Xiao Zhao et.al.|[2408.09122v1](http://arxiv.org/abs/2408.09122v1)|null|
+|**2024-08-17**|**Locate Anything on Earth: Advancing Open-Vocabulary Object Detection for Remote Sensing Community**|Jiancheng Pan et.al.|[2408.09110v1](http://arxiv.org/abs/2408.09110v1)|null|
 |**2024-08-16**|**SAM2-UNet: Segment Anything 2 Makes Strong Encoder for Natural and Medical Image Segmentation**|Xinyu Xiong et.al.|[2408.08870v1](http://arxiv.org/abs/2408.08870v1)|**[link](https://github.com/wzh0120/sam2-unet)**|
 |**2024-08-16**|**Multimodal Relational Triple Extraction with Query-based Entity Object Transformer**|Lei Hei et.al.|[2408.08709v1](http://arxiv.org/abs/2408.08709v1)|null|
 |**2024-08-16**|**Tell Codec What Worth Compressing: Semantically Disentangled Image Coding for Machine with LMMs**|Jinming Liu et.al.|[2408.08575v1](http://arxiv.org/abs/2408.08575v1)|null|
@@ -9614,7 +9644,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20240820>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240821>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
