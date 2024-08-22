@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.21
+## Updated on 2024.08.22
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-20**|**NeCo: Improving DINOv2's spatial representations in 19 GPU hours with Patch Neighbor Consistency**|Valentinos Pariza et.al.|[2408.11054v1](http://arxiv.org/abs/2408.11054v1)|null|
+|**2024-08-20**|**Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model**|Chunting Zhou et.al.|[2408.11039v1](http://arxiv.org/abs/2408.11039v1)|null|
+|**2024-08-20**|**SenPa-MAE: Sensor Parameter Aware Masked Autoencoder for Multi-Satellite Self-Supervised Pretraining**|Jonathan Prexl et.al.|[2408.11000v1](http://arxiv.org/abs/2408.11000v1)|null|
+|**2024-08-20**|**ShapeSplat: A Large-scale Dataset of Gaussian Splats and Their Self-Supervised Pretraining**|Qi Ma et.al.|[2408.10906v1](http://arxiv.org/abs/2408.10906v1)|null|
+|**2024-08-20**|**A Noval Feature via Color Quantisation for Fake Audio Detection**|Zhiyong Wang et.al.|[2408.10849v1](http://arxiv.org/abs/2408.10849v1)|null|
+|**2024-08-21**|**Flexora: Flexible Low Rank Adaptation for Large Language Models**|Chenxing Wei et.al.|[2408.10774v2](http://arxiv.org/abs/2408.10774v2)|null|
+|**2024-08-20**|**A Noncontact Technique for Wave Measurement Based on Thermal Stereography and Deep Learning**|Deyu Li et.al.|[2408.10670v1](http://arxiv.org/abs/2408.10670v1)|null|
+|**2024-08-20**|**Breast tumor classification based on self-supervised contrastive learning from ultrasound videos**|Yunxin Tang et.al.|[2408.10600v1](http://arxiv.org/abs/2408.10600v1)|null|
+|**2024-08-20**|**QPO: Query-dependent Prompt Optimization via Multi-Loop Offline Reinforcement Learning**|Yilun Kong et.al.|[2408.10504v1](http://arxiv.org/abs/2408.10504v1)|null|
+|**2024-08-20**|**Tracing Privacy Leakage of Language Models to Training Data via Adjusted Influence Functions**|Jinxin Liu et.al.|[2408.10468v1](http://arxiv.org/abs/2408.10468v1)|null|
 |**2024-08-19**|**Transformers to SSMs: Distilling Quadratic Knowledge to Subquadratic Models**|Aviv Bick et.al.|[2408.10189v1](http://arxiv.org/abs/2408.10189v1)|null|
 |**2024-08-19**|**In-Context Learning with Representations: Contextual Generalization of Trained Transformers**|Tong Yang et.al.|[2408.10147v1](http://arxiv.org/abs/2408.10147v1)|null|
 |**2024-08-19**|**Instruction Finetuning for Leaderboard Generation from Empirical AI Research**|Salomon Kabongo et.al.|[2408.10141v1](http://arxiv.org/abs/2408.10141v1)|null|
@@ -3462,12 +3472,21 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240821>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240822>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-20**|**Inside the Black Box: Detecting Data Leakage in Pre-trained Language Encoders**|Yuan Xin et.al.|[2408.11046v1](http://arxiv.org/abs/2408.11046v1)|null|
+|**2024-08-20**|**To Code, or Not To Code? Exploring Impact of Code in Pre-training**|Viraat Aryabumi et.al.|[2408.10914v1](http://arxiv.org/abs/2408.10914v1)|null|
+|**2024-08-19**|**DELIA: Diversity-Enhanced Learning for Instruction Adaptation in Large Language Models**|Yuanhao Zeng et.al.|[2408.10841v1](http://arxiv.org/abs/2408.10841v1)|null|
+|**2024-08-21**|**Flexora: Flexible Low Rank Adaptation for Large Language Models**|Chenxing Wei et.al.|[2408.10774v2](http://arxiv.org/abs/2408.10774v2)|null|
+|**2024-08-20**|**MEGen: Generative Backdoor in Large Language Models via Model Editing**|Jiyang Qiu et.al.|[2408.10722v1](http://arxiv.org/abs/2408.10722v1)|null|
+|**2024-08-20**|**Prompt Your Brain: Scaffold Prompt Tuning for Efficient Adaptation of fMRI Pre-trained Model**|Zijian Dong et.al.|[2408.10567v1](http://arxiv.org/abs/2408.10567v1)|null|
+|**2024-08-20**|**Speech Representation Learning Revisited: The Necessity of Separate Learnable Parameters and Robust Data Augmentation**|Hemant Yadav et.al.|[2408.10557v1](http://arxiv.org/abs/2408.10557v1)|null|
+|**2024-08-20**|**QUITO-X: An Information Bottleneck-based Compression Algorithm with Cross-Attention**|Yihang Wang et.al.|[2408.10497v1](http://arxiv.org/abs/2408.10497v1)|null|
+|**2024-08-19**|**Leveraging Superfluous Information in Contrastive Representation Learning**|Xuechu Yu et.al.|[2408.10292v1](http://arxiv.org/abs/2408.10292v1)|null|
 |**2024-08-19**|**ARMADA: Attribute-Based Multimodal Data Augmentation**|Xiaomeng Jin et.al.|[2408.10086v1](http://arxiv.org/abs/2408.10086v1)|null|
 |**2024-08-19**|**C${^2}$RL: Content and Context Representation Learning for Gloss-free Sign Language Translation and Retrieval**|Zhigang Chen et.al.|[2408.09949v1](http://arxiv.org/abs/2408.09949v1)|null|
 |**2024-08-19**|**SAM-UNet:Enhancing Zero-Shot Segmentation of SAM for Universal Medical Images**|Sihan Yang et.al.|[2408.09886v1](http://arxiv.org/abs/2408.09886v1)|**[link](https://github.com/hhankyangg/sam-unet)**|
@@ -6640,7 +6659,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20240821>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240822>back to top</a>)</p>
 
 ## adaptor
 
@@ -6768,12 +6787,21 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240821>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240822>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-20**|**A Closer Look at Data Augmentation Strategies for Finetuning-Based Low/Few-Shot Object Detection**|Vladislav Li et.al.|[2408.10940v1](http://arxiv.org/abs/2408.10940v1)|null|
+|**2024-08-20**|**Aligning Object Detector Bounding Boxes with Human Preference**|Ombretta Strafforello et.al.|[2408.10844v1](http://arxiv.org/abs/2408.10844v1)|null|
+|**2024-08-20**|**LightMDETR: A Lightweight Approach for Low-Cost Open-Vocabulary Object Detection Training**|Binta Sow et.al.|[2408.10787v1](http://arxiv.org/abs/2408.10787v1)|null|
+|**2024-08-20**|**Just a Hint: Point-Supervised Camouflaged Object Detection**|Huafeng Chen et.al.|[2408.10777v1](http://arxiv.org/abs/2408.10777v1)|null|
+|**2024-08-21**|**Generative AI in Industrial Machine Vision -- A Review**|Hans Aoyang Zhou et.al.|[2408.10775v2](http://arxiv.org/abs/2408.10775v2)|null|
+|**2024-08-20**|**Detection of Intracranial Hemorrhage for Trauma Patients**|Antoine P. Sanner et.al.|[2408.10768v1](http://arxiv.org/abs/2408.10768v1)|null|
+|**2024-08-20**|**SAM-COD: SAM-guided Unified Framework for Weakly-Supervised Camouflaged Object Detection**|Huafeng Chen et.al.|[2408.10760v1](http://arxiv.org/abs/2408.10760v1)|null|
+|**2024-08-20**|**Leveraging Temporal Contexts to Enhance Vehicle-Infrastructure Cooperative Perception**|Jiaru Zhong et.al.|[2408.10531v1](http://arxiv.org/abs/2408.10531v1)|null|
+|**2024-08-19**|**Leveraging Superfluous Information in Contrastive Representation Learning**|Xuechu Yu et.al.|[2408.10292v1](http://arxiv.org/abs/2408.10292v1)|null|
 |**2024-08-19**|**SHARP: Segmentation of Hands and Arms by Range using Pseudo-Depth for Enhanced Egocentric 3D Hand Pose Estimation and Action Recognition**|Wiktor Mucha et.al.|[2408.10037v1](http://arxiv.org/abs/2408.10037v1)|null|
 |**2024-08-19**|**Segment-Anything Models Achieve Zero-shot Robustness in Autonomous Driving**|Jun Yan et.al.|[2408.09839v1](http://arxiv.org/abs/2408.09839v1)|**[link](https://github.com/momo1986/robust_sam_iv)**|
 |**2024-08-19**|**Latent Diffusion for Guided Document Table Generation**|Syed Jawwad Haider Hamdani et.al.|[2408.09800v1](http://arxiv.org/abs/2408.09800v1)|null|
@@ -9648,7 +9676,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20240821>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240822>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
