@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.23
+## Updated on 2024.08.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-22**|**Sapiens: Foundation for Human Vision Models**|Rawal Khirodkar et.al.|[2408.12569v1](http://arxiv.org/abs/2408.12569v1)|null|
+|**2024-08-22**|**Self-Learning for Personalized Keyword Spotting on Ultra-Low-Power Audio Sensors**|Manuele Rusci et.al.|[2408.12481v1](http://arxiv.org/abs/2408.12481v1)|null|
+|**2024-08-22**|**Large Language Models as Foundations for Next-Gen Dense Retrieval: A Comprehensive Empirical Assessment**|Kun Luo et.al.|[2408.12194v1](http://arxiv.org/abs/2408.12194v1)|null|
+|**2024-08-22**|**Reasoning Factual Knowledge in Structured Data with Large Language Models**|Sirui Huang et.al.|[2408.12188v1](http://arxiv.org/abs/2408.12188v1)|**[link](https://github.com/egangu/structfact)**|
+|**2024-08-22**|**Transformers are Minimax Optimal Nonparametric In-Context Learners**|Juno Kim et.al.|[2408.12186v1](http://arxiv.org/abs/2408.12186v1)|null|
+|**2024-08-22**|**S-EPOA: Overcoming the Indivisibility of Annotations with Skill-Driven Preference-Based Reinforcement Learning**|Ni Mu et.al.|[2408.12130v1](http://arxiv.org/abs/2408.12130v1)|null|
+|**2024-08-21**|**Decoding SEC Actions: Enforcement Trends through Analyzing Blockchain litigation using LLM-based Thematic Factor Mapping**|Junliang Luo et.al.|[2408.11961v1](http://arxiv.org/abs/2408.11961v1)|null|
+|**2024-08-21**|**Video-Foley: Two-Stage Video-To-Sound Generation via Temporal Event Condition For Foley Sound**|Junwon Lee et.al.|[2408.11915v1](http://arxiv.org/abs/2408.11915v1)|null|
 |**2024-08-21**|**SynPlay: Importing Real-world Diversity for a Synthetic Human Dataset**|Jinsub Yim et.al.|[2408.11814v1](http://arxiv.org/abs/2408.11814v1)|null|
 |**2024-08-21**|**Practical token pruning for foundation models in few-shot conversational virtual assistant systems**|Haode Qi et.al.|[2408.11799v1](http://arxiv.org/abs/2408.11799v1)|null|
 |**2024-08-21**|**Mixed Sparsity Training: Achieving 4$\times$ FLOP Reduction for Transformer Pretraining**|Pihe Hu et.al.|[2408.11746v1](http://arxiv.org/abs/2408.11746v1)|null|
@@ -3482,12 +3490,20 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240823>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240824>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-22**|**Non-Homophilic Graph Pre-Training and Prompt Learning**|Xingtong Yu et.al.|[2408.12594v1](http://arxiv.org/abs/2408.12594v1)|null|
+|**2024-08-22**|**Improving Factuality in Large Language Models via Decoding-Time Hallucinatory and Truthful Comparators**|Dingkang Yang et.al.|[2408.12325v1](http://arxiv.org/abs/2408.12325v1)|null|
+|**2024-08-22**|**Adapt CLIP as Aggregation Instructor for Image Dehazing**|Xiaozhe Zhang et.al.|[2408.12317v1](http://arxiv.org/abs/2408.12317v1)|null|
+|**2024-08-22**|**Transientangelo: Few-Viewpoint Surface Reconstruction Using Single-Photon Lidar**|Weihan Luo et.al.|[2408.12191v1](http://arxiv.org/abs/2408.12191v1)|null|
+|**2024-08-22**|**FIRST: Teach A Reliable Large Language Model Through Efficient Trustworthy Distillation**|KaShun Shum et.al.|[2408.12168v1](http://arxiv.org/abs/2408.12168v1)|null|
+|**2024-08-22**|**Self-supervised Learning for Geospatial AI: A Survey**|Yile Chen et.al.|[2408.12133v1](http://arxiv.org/abs/2408.12133v1)|null|
+|**2024-08-22**|**Emotion-Agent: Unsupervised Deep Reinforcement Learning with Distribution-Prototype Reward for Continuous Emotional EEG Analysis**|Zhihao Zhou et.al.|[2408.12121v1](http://arxiv.org/abs/2408.12121v1)|null|
+|**2024-08-21**|**Spline tie-decay temporal networks**|Chanon Thongprayoon et.al.|[2408.11913v1](http://arxiv.org/abs/2408.11913v1)|null|
 |**2024-08-21**|**LiFCal: Online Light Field Camera Calibration via Bundle Adjustment**|Aymeric Fleith et.al.|[2408.11682v1](http://arxiv.org/abs/2408.11682v1)|null|
 |**2024-08-21**|**Positional Prompt Tuning for Efficient 3D Representation Learning**|Shaochen Zhang et.al.|[2408.11567v1](http://arxiv.org/abs/2408.11567v1)|**[link](https://github.com/zsc000722/ppt)**|
 |**2024-08-21**|**Denoising Pre-Training and Customized Prompt Learning for Efficient Multi-Behavior Sequential Recommendation**|Hao Wang et.al.|[2408.11372v1](http://arxiv.org/abs/2408.11372v1)|null|
@@ -6672,7 +6688,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20240823>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240824>back to top</a>)</p>
 
 ## adaptor
 
@@ -6800,12 +6816,19 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240823>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240824>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-22**|**Enhanced Parking Perception by Multi-Task Fisheye Cross-view Transformers**|Antonyo Musabini et.al.|[2408.12575v1](http://arxiv.org/abs/2408.12575v1)|null|
+|**2024-08-22**|**UMAD: University of Macau Anomaly Detection Benchmark Dataset**|Dong Li et.al.|[2408.12527v1](http://arxiv.org/abs/2408.12527v1)|**[link](https://github.com/imrl/umad)**|
+|**2024-08-22**|**Class-balanced Open-set Semi-supervised Object Detection for Medical Images**|Zhanyun Lu et.al.|[2408.12355v1](http://arxiv.org/abs/2408.12355v1)|null|
+|**2024-08-22**|**OVA-DETR: Open Vocabulary Aerial Object Detection Using Image-Text Alignment and Fusion**|Guoting Wei et.al.|[2408.12246v1](http://arxiv.org/abs/2408.12246v1)|null|
+|**2024-08-22**|**On the Credibility of Backdoor Attacks Against Object Detectors in the Physical World**|Bao Gia Doan et.al.|[2408.12122v1](http://arxiv.org/abs/2408.12122v1)|null|
+|**2024-08-21**|**Real-Time Incremental Explanations for Object Detectors**|Santiago Calderón-Peña et.al.|[2408.11963v1](http://arxiv.org/abs/2408.11963v1)|null|
+|**2024-08-21**|**CARLA Drone: Monocular 3D Object Detection from a Different Perspective**|Johannes Meier et.al.|[2408.11958v1](http://arxiv.org/abs/2408.11958v1)|null|
 |**2024-08-21**|**SBDet: A Symmetry-Breaking Object Detector via Relaxed Rotation-Equivariance**|Zhiqiang Wu et.al.|[2408.11760v1](http://arxiv.org/abs/2408.11760v1)|null|
 |**2024-08-21**|**Domain-invariant Progressive Knowledge Distillation for UAV-based Object Detection**|Liang Yao et.al.|[2408.11407v1](http://arxiv.org/abs/2408.11407v1)|null|
 |**2024-08-20**|**On the Potential of Open-Vocabulary Models for Object Detection in Unusual Street Scenes**|Sadia Ilyas et.al.|[2408.11221v1](http://arxiv.org/abs/2408.11221v1)|null|
@@ -9693,7 +9716,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20240823>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240824>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
