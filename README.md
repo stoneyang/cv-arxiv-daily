@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.28
+## Updated on 2024.08.29
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-27**|**Generative Verifiers: Reward Modeling as Next-Token Prediction**|Lunjun Zhang et.al.|[2408.15240v1](http://arxiv.org/abs/2408.15240v1)|null|
+|**2024-08-27**|**Generative Inbetweening: Adapting Image-to-Video Models for Keyframe Interpolation**|Xiaojuan Wang et.al.|[2408.15239v1](http://arxiv.org/abs/2408.15239v1)|null|
+|**2024-08-27**|**The Mamba in the Llama: Distilling and Accelerating Hybrid Models**|Junxiong Wang et.al.|[2408.15237v1](http://arxiv.org/abs/2408.15237v1)|**[link](https://github.com/jxiw/mambainllama)**|
+|**2024-08-27**|**BaichuanSEED: Sharing the Potential of ExtensivE Data Collection and Deduplication by Introducing a Competitive Large Language Model Baseline**|Guosheng Dong et.al.|[2408.15079v1](http://arxiv.org/abs/2408.15079v1)|null|
+|**2024-08-28**|**A Survey of Large Language Models for European Languages**|Wazir Ali et.al.|[2408.15040v2](http://arxiv.org/abs/2408.15040v2)|null|
+|**2024-08-27**|**Applying ViT in Generalized Few-shot Semantic Segmentation**|Liyuan Geng et.al.|[2408.14957v1](http://arxiv.org/abs/2408.14957v1)|**[link](https://github.com/lgnyu/vitseg)**|
+|**2024-08-27**|**MROVSeg: Breaking the Resolution Curse of Vision-Language Models in Open-Vocabulary Semantic Segmentation**|Yuanbing Zhu et.al.|[2408.14776v1](http://arxiv.org/abs/2408.14776v1)|null|
+|**2024-08-27**|**Text-guided Foundation Model Adaptation for Long-Tailed Medical Image Classification**|Sirui Li et.al.|[2408.14770v1](http://arxiv.org/abs/2408.14770v1)|null|
+|**2024-08-26**|**Enhancing Neural Network Interpretability Through Conductance-Based Information Plane Analysis**|Jaouad Dabounou et.al.|[2408.14681v1](http://arxiv.org/abs/2408.14681v1)|null|
 |**2024-08-26**|**A Practitioner's Guide to Continual Multimodal Pretraining**|Karsten Roth et.al.|[2408.14471v1](http://arxiv.org/abs/2408.14471v1)|**[link](https://github.com/explainableml/fomo_in_flux)**|
 |**2024-08-26**|**Probing Causality Manipulation of Large Language Models**|Chenyang Zhang et.al.|[2408.14380v1](http://arxiv.org/abs/2408.14380v1)|**[link](https://github.com/tongjinlp/llm-causality-probing)**|
 |**2024-08-26**|**Uncertainties of Latent Representations in Computer Vision**|Michael Kirchhof et.al.|[2408.14281v1](http://arxiv.org/abs/2408.14281v1)|null|
@@ -3501,12 +3510,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240828>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240829>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-27**|**BaichuanSEED: Sharing the Potential of ExtensivE Data Collection and Deduplication by Introducing a Competitive Large Language Model Baseline**|Guosheng Dong et.al.|[2408.15079v1](http://arxiv.org/abs/2408.15079v1)|null|
+|**2024-08-27**|**CVPT: Cross-Attention help Visual Prompt Tuning adapt visual task**|Lingyun Huang et.al.|[2408.14961v1](http://arxiv.org/abs/2408.14961v1)|null|
+|**2024-08-27**|**Integrating Continuous and Binary Relevances in Audio-Text Relevance Learning**|Huang Xie et.al.|[2408.14939v1](http://arxiv.org/abs/2408.14939v1)|null|
+|**2024-08-27**|**DiffSurf: A Transformer-based Diffusion Model for Generating and Reconstructing 3D Surfaces in Pose**|Yusuke Yoshiyasu et.al.|[2408.14860v1](http://arxiv.org/abs/2408.14860v1)|null|
+|**2024-08-27**|**PolicyLR: A Logic Representation For Privacy Policies**|Ashish Hooda et.al.|[2408.14830v1](http://arxiv.org/abs/2408.14830v1)|null|
+|**2024-08-27**|**HPT++: Hierarchically Prompting Vision-Language Models with Multi-Granularity Knowledge Generation and Improved Structure Modeling**|Yubin Wang et.al.|[2408.14812v1](http://arxiv.org/abs/2408.14812v1)|null|
+|**2024-08-27**|**Poly2Vec: Polymorphic Encoding of Geospatial Objects for Spatial Reasoning with Deep Neural Networks**|Maria Despoina Siampou et.al.|[2408.14806v1](http://arxiv.org/abs/2408.14806v1)|null|
+|**2024-08-27**|**Unsupervised-to-Online Reinforcement Learning**|Junsu Kim et.al.|[2408.14785v1](http://arxiv.org/abs/2408.14785v1)|null|
+|**2024-08-27**|**SynthDoc: Bilingual Documents Synthesis for Visual Document Understanding**|Chuanghao Ding et.al.|[2408.14764v1](http://arxiv.org/abs/2408.14764v1)|null|
+|**2024-08-27**|**Explainable Hierarchical Urban Representation Learning for Commuting Flow Prediction**|Mingfei Cai et.al.|[2408.14762v1](http://arxiv.org/abs/2408.14762v1)|null|
 |**2024-08-27**|**Step-by-Step Unmasking for Parameter-Efficient Fine-tuning of Large Language Models**|Aradhye Agarwal et.al.|[2408.14470v2](http://arxiv.org/abs/2408.14470v2)|null|
 |**2024-08-26**|**MEDSAGE: Enhancing Robustness of Medical Dialogue Summarization to ASR Errors with LLM-generated Synthetic Dialogues**|Kuluhan Binici et.al.|[2408.14418v1](http://arxiv.org/abs/2408.14418v1)|null|
 |**2024-08-26**|**Language-specific Calibration for Pruning Multilingual Language Models**|Simon Kurz et.al.|[2408.14398v1](http://arxiv.org/abs/2408.14398v1)|null|
@@ -6714,7 +6733,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20240828>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240829>back to top</a>)</p>
 
 ## adaptor
 
@@ -6845,12 +6864,19 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240828>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240829>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-27**|**A Review of Transformer-Based Models for Computer Vision Tasks: Capturing Global Context and Spatial Relationships**|Gracile Astlin Pereira et.al.|[2408.15178v1](http://arxiv.org/abs/2408.15178v1)|null|
+|**2024-08-28**|**Adapting Segment Anything Model to Multi-modal Salient Object Detection with Semantic Feature Fusion Guidance**|Kunpeng Wang et.al.|[2408.15063v2](http://arxiv.org/abs/2408.15063v2)|null|
+|**2024-08-27**|**Hierarchical Graph Interaction Transformer with Dynamic Token Clustering for Camouflaged Object Detection**|Siyuan Yao et.al.|[2408.15020v1](http://arxiv.org/abs/2408.15020v1)|**[link](https://github.com/garyson1204/hginet)**|
+|**2024-08-27**|**Knowledge Discovery in Optical Music Recognition: Enhancing Information Retrieval with Instance Segmentation**|Elona Shatri et.al.|[2408.15002v1](http://arxiv.org/abs/2408.15002v1)|null|
+|**2024-08-27**|**BOX3D: Lightweight Camera-LiDAR Fusion for 3D Object Detection and Localization**|Mario A. V. Saucedo et.al.|[2408.14941v1](http://arxiv.org/abs/2408.14941v1)|null|
+|**2024-08-26**|**PVAFN: Point-Voxel Attention Fusion Network with Multi-Pooling Enhancing for 3D Object Detection**|Yidi Li et.al.|[2408.14600v1](http://arxiv.org/abs/2408.14600v1)|null|
+|**2024-08-26**|**A Survey of Camouflaged Object Detection and Beyond**|Fengyang Xiao et.al.|[2408.14562v1](http://arxiv.org/abs/2408.14562v1)|null|
 |**2024-08-26**|**Beyond Few-shot Object Detection: A Detailed Survey**|Vishal Chudasama et.al.|[2408.14249v1](http://arxiv.org/abs/2408.14249v1)|null|
 |**2024-08-26**|**TC-PDM: Temporally Consistent Patch Diffusion Models for Infrared-to-Visible Video Translation**|Anh-Dzung Doan et.al.|[2408.14227v1](http://arxiv.org/abs/2408.14227v1)|null|
 |**2024-08-26**|**EMDFNet: Efficient Multi-scale and Diverse Feature Network for Traffic Sign Detection**|Pengyu Li et.al.|[2408.14189v1](http://arxiv.org/abs/2408.14189v1)|null|
@@ -9760,7 +9786,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20240828>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240829>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
