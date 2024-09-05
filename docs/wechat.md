@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.09.04
+> Updated on 2024.09.05
 
 <details>
   <summary>Table of Contents</summary>
@@ -25,7 +25,7 @@
 - 2024-08-30, **Self-supervised learning for crystal property prediction via denoising**, Alexander New et.al., Paper: [http://arxiv.org/abs/2408.17255v1](http://arxiv.org/abs/2408.17255v1)
 - 2024-08-30, **Self-supervised Anomaly Detection Pretraining Enhances Long-tail ECG Diagnosis**, Aofan Jiang et.al., Paper: [http://arxiv.org/abs/2408.17154v1](http://arxiv.org/abs/2408.17154v1), Code: **[https://github.com/mediabrain-sjtu/ecgad](https://github.com/mediabrain-sjtu/ecgad)**
 - 2024-08-30, **Generalizing Deepfake Video Detection with Plug-and-Play: Video-Level Blending and Spatiotemporal Adapter Tuning**, Zhiyuan Yan et.al., Paper: [http://arxiv.org/abs/2408.17065v1](http://arxiv.org/abs/2408.17065v1), Code: **[https://github.com/yzy-stack/sta4deepfake](https://github.com/yzy-stack/sta4deepfake)**
-- 2024-08-30, **Disease Classification and Impact of Pretrained Deep Convolution Neural Networks on Diverse Medical Imaging Datasets across Imaging Modalities**, Jutika Borah et.al., Paper: [http://arxiv.org/abs/2408.17011v1](http://arxiv.org/abs/2408.17011v1)
+- 2024-09-02, **Disease Classification and Impact of Pretrained Deep Convolution Neural Networks on Diverse Medical Imaging Datasets across Imaging Modalities**, Jutika Borah et.al., Paper: [http://arxiv.org/abs/2408.17011v2](http://arxiv.org/abs/2408.17011v2)
 - 2024-08-29, **LLaVA-Chef: A Multi-modal Generative Model for Food Recipes**, Fnu Mohbat et.al., Paper: [http://arxiv.org/abs/2408.16889v1](http://arxiv.org/abs/2408.16889v1), Code: **[https://github.com/mohbattharani/LLaVA-Chef](https://github.com/mohbattharani/LLaVA-Chef)**
 - 2024-08-29, **Audio xLSTMs: Learning Self-supervised audio representations with xLSTMs**, Sarthak Yadav et.al., Paper: [http://arxiv.org/abs/2408.16568v1](http://arxiv.org/abs/2408.16568v1)
 - 2024-08-30, **Beyond MR Image Harmonization: Resolution Matters Too**, Savannah P. Hays et.al., Paper: [http://arxiv.org/abs/2408.16562v2](http://arxiv.org/abs/2408.16562v2)
@@ -3537,7 +3537,7 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20240904>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240905>back to top</a>)</p>
 
 ## downstream
 
@@ -3546,7 +3546,7 @@
 - 2024-08-29, **FlowRetrieval: Flow-Guided Data Retrieval for Few-Shot Imitation Learning**, Li-Heng Lin et.al., Paper: [http://arxiv.org/abs/2408.16944v1](http://arxiv.org/abs/2408.16944v1)
 - 2024-08-29, **HLogformer: A Hierarchical Transformer for Representing Log Data**, Zhichao Hou et.al., Paper: [http://arxiv.org/abs/2408.16803v1](http://arxiv.org/abs/2408.16803v1)
 - 2024-08-29, **Entropic Distribution Matching in Supervised Fine-tuning of LLMs: Less Overfitting and Better Diversity**, Ziniu Li et.al., Paper: [http://arxiv.org/abs/2408.16673v1](http://arxiv.org/abs/2408.16673v1)
-- 2024-08-29, **Audio xLSTMs: Learning Self-supervised audio representations with xLSTMs**, Sarthak Yadav et.al., Paper: [http://arxiv.org/abs/2408.16568v1](http://arxiv.org/abs/2408.16568v1)
+- 2024-09-02, **Audio xLSTMs: Learning Self-Supervised Audio Representations with xLSTMs**, Sarthak Yadav et.al., Paper: [http://arxiv.org/abs/2408.16568v2](http://arxiv.org/abs/2408.16568v2)
 - 2024-08-29, **Adapting Vision-Language Models to Open Classes via Test-Time Prompt Tuning**, Zhengqing Gao et.al., Paper: [http://arxiv.org/abs/2408.16486v1](http://arxiv.org/abs/2408.16486v1), Code: **[https://github.com/gaozhengqing/ttpt](https://github.com/gaozhengqing/ttpt)**
 - 2024-08-29, **WHISMA: A Speech-LLM to Perform Zero-shot Spoken Language Understanding**, Mohan Li et.al., Paper: [http://arxiv.org/abs/2408.16423v1](http://arxiv.org/abs/2408.16423v1)
 - 2024-08-29, **OpenFGL: A Comprehensive Benchmarks for Federated Graph Learning**, Xunkai Li et.al., Paper: [http://arxiv.org/abs/2408.16288v1](http://arxiv.org/abs/2408.16288v1), Code: **[https://github.com/xkli-allen/openfgl](https://github.com/xkli-allen/openfgl)**
@@ -6774,7 +6774,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20240904>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240905>back to top</a>)</p>
 
 ## adaptor
 
@@ -6903,7 +6903,7 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20240904>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240905>back to top</a>)</p>
 
 ## object detection
 
@@ -9849,7 +9849,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20240904>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240905>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
