@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.06
+## Updated on 2024.09.07
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-05**|**Lexicon3D: Probing Visual Foundation Models for Complex 3D Scene Understanding**|Yunze Man et.al.|[2409.03757v1](http://arxiv.org/abs/2409.03757v1)|**[link](https://github.com/yunzeman/lexicon3d)**|
+|**2024-09-05**|**DKDM: Data-Free Knowledge Distillation for Diffusion Models with Any Architecture**|Qianlong Xiang et.al.|[2409.03550v1](http://arxiv.org/abs/2409.03550v1)|null|
+|**2024-09-05**|**Blended Latent Diffusion under Attention Control for Real-World Video Editing**|Deyin Liu et.al.|[2409.03514v1](http://arxiv.org/abs/2409.03514v1)|null|
+|**2024-09-05**|**Neural HD Map Generation from Multiple Vectorized Tiles Locally Produced by Autonomous Vehicles**|Miao Fan et.al.|[2409.03445v1](http://arxiv.org/abs/2409.03445v1)|null|
+|**2024-09-05**|**Fine-tuning large language models for domain adaptation: Exploration of training strategies, scaling, model merging and synergistic capabilities**|Wei Lu et.al.|[2409.03444v1](http://arxiv.org/abs/2409.03444v1)|**[link](https://github.com/lamm-mit/llm-finetuning)**|
+|**2024-09-05**|**mPLUG-DocOwl2: High-resolution Compressing for OCR-free Multi-page Document Understanding**|Anwen Hu et.al.|[2409.03420v1](http://arxiv.org/abs/2409.03420v1)|**[link](https://github.com/x-plug/mplug-docowl)**|
+|**2024-09-05**|**Training-free Conversion of Pretrained ANNs to SNNs for Low-Power and High-Performance Applications**|Tong Bu et.al.|[2409.03368v1](http://arxiv.org/abs/2409.03368v1)|null|
+|**2024-09-05**|**SVP: Style-Enhanced Vivid Portrait Talking Head Diffusion Model**|Weipeng Tan et.al.|[2409.03270v1](http://arxiv.org/abs/2409.03270v1)|null|
+|**2024-09-05**|**Improving agent performance in fluid environments by perceptual pretraining**|Jin Zhang et.al.|[2409.03230v1](http://arxiv.org/abs/2409.03230v1)|null|
+|**2024-09-05**|**Perceptual-Distortion Balanced Image Super-Resolution is a Multi-Objective Optimization Problem**|Qiwen Zhu et.al.|[2409.03179v1](http://arxiv.org/abs/2409.03179v1)|**[link](https://github.com/ZhuKeven/MOBOSR)**|
 |**2024-09-04**|**HiPrompt: Tuning-free Higher-Resolution Generation with Hierarchical MLLM Prompts**|Xinyu Liu et.al.|[2409.02919v1](http://arxiv.org/abs/2409.02919v1)|**[link](https://github.com/Liuxinyv/HiPrompt)**|
 |**2024-09-04**|**Standing on the Shoulders of Giants: Reprogramming Visual-Language Model for General Deepfake Detection**|Kaiqing Lin et.al.|[2409.02664v1](http://arxiv.org/abs/2409.02664v1)|null|
 |**2024-09-04**|**MADiff: Motion-Aware Mamba Diffusion Models for Hand Trajectory Prediction on Egocentric Videos**|Junyi Ma et.al.|[2409.02638v1](http://arxiv.org/abs/2409.02638v1)|null|
@@ -3553,12 +3563,16 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240906>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240907>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-05**|**LowFormer: Hardware Efficient Design for Convolutional Transformer Backbones**|Moritz Nottebaum et.al.|[2409.03460v1](http://arxiv.org/abs/2409.03460v1)|**[link](https://github.com/altair199797/lowformer)**|
+|**2024-09-04**|**RoboKoop: Efficient Control Conditioned Representations from Visual Input in Robotics using Koopman Operator**|Hemant Kumawat et.al.|[2409.03107v1](http://arxiv.org/abs/2409.03107v1)|null|
+|**2024-09-04**|**Spatial Diffusion for Cell Layout Generation**|Chen Li et.al.|[2409.03106v1](http://arxiv.org/abs/2409.03106v1)|**[link](https://github.com/superlc1995/diffusion-cell)**|
+|**2024-09-04**|**Can Your Generative Model Detect Out-of-Distribution Covariate Shift?**|Christiaan Viviers et.al.|[2409.03043v1](http://arxiv.org/abs/2409.03043v1)|**[link](https://github.com/cviviers/covariateflow)**|
 |**2024-09-04**|**iConFormer: Dynamic Parameter-Efficient Tuning with Input-Conditioned Adaptation**|Hayeon Jo et.al.|[2409.02838v1](http://arxiv.org/abs/2409.02838v1)|null|
 |**2024-09-04**|**Unifying Causal Representation Learning with the Invariance Principle**|Dingling Yao et.al.|[2409.02772v1](http://arxiv.org/abs/2409.02772v1)|null|
 |**2024-09-04**|**MADiff: Motion-Aware Mamba Diffusion Models for Hand Trajectory Prediction on Egocentric Videos**|Junyi Ma et.al.|[2409.02638v1](http://arxiv.org/abs/2409.02638v1)|null|
@@ -6802,13 +6816,13 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20240906>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240907>back to top</a>)</p>
 
 ## adaptor
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-09-04**|**NUDGE: Lightweight Non-Parametric Fine-Tuning of Embeddings for Retrieval**|Sepanta Zeighami et.al.|[2409.02343v1](http://arxiv.org/abs/2409.02343v1)|null|
+|**2024-09-04**|**NUDGE: Lightweight Non-Parametric Fine-Tuning of Embeddings for Retrieval**|Sepanta Zeighami et.al.|[2409.02343v1](http://arxiv.org/abs/2409.02343v1)|**[link](https://github.com/szeighami/nudge)**|
 |**2024-08-26**|**Dual-CBA: Improving Online Continual Learning via Dual Continual Bias Adaptors from a Bi-level Optimization Perspective**|Quanziang Wang et.al.|[2408.13991v1](http://arxiv.org/abs/2408.13991v1)|null|
 |**2024-08-25**|**TalkLoRA: Low-Rank Adaptation for Speech-Driven Animation**|Jack Saunders et.al.|[2408.13714v1](http://arxiv.org/abs/2408.13714v1)|null|
 |**2024-08-23**|**IAA: Inner-Adaptor Architecture Empowers Frozen Large Language Model with Multimodal Capabilities**|Bin Wang et.al.|[2408.12902v1](http://arxiv.org/abs/2408.12902v1)|**[link](https://github.com/360cvgroup/inner-adaptor-architecture)**|
@@ -6934,12 +6948,18 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240906>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240907>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-05**|**LowFormer: Hardware Efficient Design for Convolutional Transformer Backbones**|Moritz Nottebaum et.al.|[2409.03460v1](http://arxiv.org/abs/2409.03460v1)|**[link](https://github.com/altair199797/lowformer)**|
+|**2024-09-05**|**Make Graph-based Referring Expression Comprehension Great Again through Expression-guided Dynamic Gating and Regression**|Jingcheng Ke et.al.|[2409.03385v1](http://arxiv.org/abs/2409.03385v1)|null|
+|**2024-09-05**|**Training-free Conversion of Pretrained ANNs to SNNs for Low-Power and High-Performance Applications**|Tong Bu et.al.|[2409.03368v1](http://arxiv.org/abs/2409.03368v1)|null|
+|**2024-09-05**|**YOLO-PPA based Efficient Traffic Sign Detection for Cruise Control in Autonomous Driving**|Jingyu Zhang et.al.|[2409.03320v1](http://arxiv.org/abs/2409.03320v1)|null|
+|**2024-09-05**|**Gr-IoU: Ground-Intersection over Union for Robust Multi-Object Tracking with 3D Geometric Constraints**|Keisuke Toida et.al.|[2409.03252v1](http://arxiv.org/abs/2409.03252v1)|null|
+|**2024-09-04**|**Boundless: Generating Photorealistic Synthetic Data for Object Detection in Urban Streetscapes**|Mehmet Kerem Turkcan et.al.|[2409.03022v1](http://arxiv.org/abs/2409.03022v1)|**[link](https://github.com/zk2172-columbia/boundless)**|
 |**2024-09-04**|**Real-Time Dynamic Scale-Aware Fusion Detection Network: Take Road Damage Detection as an example**|Weichao Pan et.al.|[2409.02546v1](http://arxiv.org/abs/2409.02546v1)|null|
 |**2024-09-04**|**A Learnable Color Correction Matrix for RAW Reconstruction**|Anqi Liu et.al.|[2409.02497v1](http://arxiv.org/abs/2409.02497v1)|null|
 |**2024-09-04**|**TP-GMOT: Tracking Generic Multiple Object by Textual Prompt with Motion-Appearance Cost (MAC) SORT**|Duy Le Dinh Anh et.al.|[2409.02490v1](http://arxiv.org/abs/2409.02490v1)|**[link](https://github.com/Fsoft-AIC/TP-GMOT)**|
@@ -9892,7 +9912,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20240906>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240907>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
