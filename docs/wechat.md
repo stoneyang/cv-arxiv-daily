@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.09.09
+> Updated on 2024.09.10
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,13 @@
 
 ## pretrain
 
+- 2024-09-06, **VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation**, Yecheng Wu et.al., Paper: [http://arxiv.org/abs/2409.04429v1](http://arxiv.org/abs/2409.04429v1)
+- 2024-09-06, **RLPF: Reinforcement Learning from Prediction Feedback for User Summarization with LLMs**, Jiaxing Wu et.al., Paper: [http://arxiv.org/abs/2409.04421v1](http://arxiv.org/abs/2409.04421v1)
+- 2024-09-06, **Fast Forwarding Low-Rank Training**, Adir Rahamim et.al., Paper: [http://arxiv.org/abs/2409.04206v1](http://arxiv.org/abs/2409.04206v1)
+- 2024-09-06, **GALLa: Graph Aligned Large Language Models for Improved Source Code Understanding**, Ziyin Zhang et.al., Paper: [http://arxiv.org/abs/2409.04183v1](http://arxiv.org/abs/2409.04183v1)
+- 2024-09-06, **Context is the Key: Backdoor Attacks for In-Context Learning with Vision Transformers**, Gorka Abad et.al., Paper: [http://arxiv.org/abs/2409.04142v1](http://arxiv.org/abs/2409.04142v1)
+- 2024-09-06, **UNIT: Unifying Image and Text Recognition in One Vision Encoder**, Yi Zhu et.al., Paper: [http://arxiv.org/abs/2409.04095v1](http://arxiv.org/abs/2409.04095v1)
+- 2024-09-05, **Deep Clustering of Remote Sensing Scenes through Heterogeneous Transfer Learning**, Isaac Ray et.al., Paper: [http://arxiv.org/abs/2409.03938v1](http://arxiv.org/abs/2409.03938v1)
 - 2024-09-05, **Lexicon3D: Probing Visual Foundation Models for Complex 3D Scene Understanding**, Yunze Man et.al., Paper: [http://arxiv.org/abs/2409.03757v1](http://arxiv.org/abs/2409.03757v1), Code: **[https://github.com/yunzeman/lexicon3d](https://github.com/yunzeman/lexicon3d)**
 - 2024-09-05, **DKDM: Data-Free Knowledge Distillation for Diffusion Models with Any Architecture**, Qianlong Xiang et.al., Paper: [http://arxiv.org/abs/2409.03550v1](http://arxiv.org/abs/2409.03550v1)
 - 2024-09-05, **Blended Latent Diffusion under Attention Control for Real-World Video Editing**, Deyin Liu et.al., Paper: [http://arxiv.org/abs/2409.03514v1](http://arxiv.org/abs/2409.03514v1)
@@ -3557,10 +3564,15 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20240909>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240910>back to top</a>)</p>
 
 ## downstream
 
+- 2024-09-06, **RLPF: Reinforcement Learning from Prediction Feedback for User Summarization with LLMs**, Jiaxing Wu et.al., Paper: [http://arxiv.org/abs/2409.04421v1](http://arxiv.org/abs/2409.04421v1)
+- 2024-09-06, **HiSC4D: Human-centered interaction and 4D Scene Capture in Large-scale Space Using Wearable IMUs and LiDAR**, Yudi Dai et.al., Paper: [http://arxiv.org/abs/2409.04398v1](http://arxiv.org/abs/2409.04398v1)
+- 2024-09-06, **GALLa: Graph Aligned Large Language Models for Improved Source Code Understanding**, Ziyin Zhang et.al., Paper: [http://arxiv.org/abs/2409.04183v1](http://arxiv.org/abs/2409.04183v1)
+- 2024-09-05, **Generating High Dimensional User-Specific Wireless Channels using Diffusion Models**, Taekyun Lee et.al., Paper: [http://arxiv.org/abs/2409.03924v1](http://arxiv.org/abs/2409.03924v1)
+- 2024-09-05, **Few-shot Adaptation of Medical Vision-Language Models**, Fereshteh Shakeri et.al., Paper: [http://arxiv.org/abs/2409.03868v1](http://arxiv.org/abs/2409.03868v1), Code: **[https://github.com/fereshteshakeri/few-shot-medvlms](https://github.com/fereshteshakeri/few-shot-medvlms)**
 - 2024-09-05, **LowFormer: Hardware Efficient Design for Convolutional Transformer Backbones**, Moritz Nottebaum et.al., Paper: [http://arxiv.org/abs/2409.03460v1](http://arxiv.org/abs/2409.03460v1), Code: **[https://github.com/altair199797/lowformer](https://github.com/altair199797/lowformer)**
 - 2024-09-04, **RoboKoop: Efficient Control Conditioned Representations from Visual Input in Robotics using Koopman Operator**, Hemant Kumawat et.al., Paper: [http://arxiv.org/abs/2409.03107v1](http://arxiv.org/abs/2409.03107v1)
 - 2024-09-04, **Spatial Diffusion for Cell Layout Generation**, Chen Li et.al., Paper: [http://arxiv.org/abs/2409.03106v1](http://arxiv.org/abs/2409.03106v1), Code: **[https://github.com/superlc1995/diffusion-cell](https://github.com/superlc1995/diffusion-cell)**
@@ -6808,10 +6820,11 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20240909>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240910>back to top</a>)</p>
 
 ## adaptor
 
+- 2024-09-05, **End-to-end Multi-source Visual Prompt Tuning for Survival Analysis in Whole Slide Images**, Zhongwei Qiu et.al., Paper: [http://arxiv.org/abs/2409.03804v1](http://arxiv.org/abs/2409.03804v1)
 - 2024-09-04, **NUDGE: Lightweight Non-Parametric Fine-Tuning of Embeddings for Retrieval**, Sepanta Zeighami et.al., Paper: [http://arxiv.org/abs/2409.02343v1](http://arxiv.org/abs/2409.02343v1), Code: **[https://github.com/szeighami/nudge](https://github.com/szeighami/nudge)**
 - 2024-08-26, **Dual-CBA: Improving Online Continual Learning via Dual Continual Bias Adaptors from a Bi-level Optimization Perspective**, Quanziang Wang et.al., Paper: [http://arxiv.org/abs/2408.13991v1](http://arxiv.org/abs/2408.13991v1)
 - 2024-08-25, **TalkLoRA: Low-Rank Adaptation for Speech-Driven Animation**, Jack Saunders et.al., Paper: [http://arxiv.org/abs/2408.13714v1](http://arxiv.org/abs/2408.13714v1)
@@ -6938,10 +6951,15 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20240909>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240910>back to top</a>)</p>
 
 ## object detection
 
+- 2024-09-06, **Future Does Matter: Boosting 3D Object Detection with Temporal Motion Estimation in Point Cloud Sequences**, Rui Yu et.al., Paper: [http://arxiv.org/abs/2409.04390v1](http://arxiv.org/abs/2409.04390v1)
+- 2024-09-06, **UniDet3D: Multi-dataset Indoor 3D Object Detection**, Maksim Kolodiazhnyi et.al., Paper: [http://arxiv.org/abs/2409.04234v1](http://arxiv.org/abs/2409.04234v1), Code: **[https://github.com/filapro/unidet3d](https://github.com/filapro/unidet3d)**
+- 2024-09-06, **Feature Compression for Cloud-Edge Multimodal 3D Object Detection**, Chongzhen Tian et.al., Paper: [http://arxiv.org/abs/2409.04123v1](http://arxiv.org/abs/2409.04123v1)
+- 2024-09-06, **D4: Text-guided diffusion model-based domain adaptive data augmentation for vineyard shoot detection**, Kentaro Hirahara et.al., Paper: [http://arxiv.org/abs/2409.04060v1](http://arxiv.org/abs/2409.04060v1)
+- 2024-09-06, **BFA-YOLO: Balanced multiscale object detection network for multi-view building facade attachments detection**, Yangguang Chen et.al., Paper: [http://arxiv.org/abs/2409.04025v1](http://arxiv.org/abs/2409.04025v1)
 - 2024-09-05, **LowFormer: Hardware Efficient Design for Convolutional Transformer Backbones**, Moritz Nottebaum et.al., Paper: [http://arxiv.org/abs/2409.03460v1](http://arxiv.org/abs/2409.03460v1), Code: **[https://github.com/altair199797/lowformer](https://github.com/altair199797/lowformer)**
 - 2024-09-05, **Make Graph-based Referring Expression Comprehension Great Again through Expression-guided Dynamic Gating and Regression**, Jingcheng Ke et.al., Paper: [http://arxiv.org/abs/2409.03385v1](http://arxiv.org/abs/2409.03385v1)
 - 2024-09-05, **Training-free Conversion of Pretrained ANNs to SNNs for Low-Power and High-Performance Applications**, Tong Bu et.al., Paper: [http://arxiv.org/abs/2409.03368v1](http://arxiv.org/abs/2409.03368v1)
@@ -9900,7 +9918,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20240909>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240910>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
