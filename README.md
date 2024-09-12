@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.11
+## Updated on 2024.09.12
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-10**|**E2LLM: Encoder Elongated Large Language Models for Long-Context Understanding and Reasoning**|Zihan Liao et.al.|[2409.06679v1](http://arxiv.org/abs/2409.06679v1)|null|
+|**2024-09-10**|**LLaMA-Omni: Seamless Speech Interaction with Large Language Models**|Qingkai Fang et.al.|[2409.06666v1](http://arxiv.org/abs/2409.06666v1)|**[link](https://github.com/ictnlp/llama-omni)**|
+|**2024-09-10**|**EyeCLIP: A visual-language foundation model for multi-modal ophthalmic image analysis**|Danli Shi et.al.|[2409.06644v1](http://arxiv.org/abs/2409.06644v1)|null|
+|**2024-09-10**|**Exploring Italian sentence embeddings properties through multi-tasking**|Vivi Nastase et.al.|[2409.06622v1](http://arxiv.org/abs/2409.06622v1)|null|
+|**2024-09-10**|**Exploring syntactic information in sentence embeddings through multilingual subject-verb agreement**|Vivi Nastase et.al.|[2409.06567v1](http://arxiv.org/abs/2409.06567v1)|null|
+|**2024-09-10**|**Aligning Machine and Human Visual Representations across Abstraction Levels**|Lukas Muttenthaler et.al.|[2409.06509v1](http://arxiv.org/abs/2409.06509v1)|null|
+|**2024-09-10**|**Enhancing Emotional Text-to-Speech Controllability with Natural Language Guidance through Contrastive Learning and Diffusion Models**|Xin Jing et.al.|[2409.06451v1](http://arxiv.org/abs/2409.06451v1)|null|
+|**2024-09-10**|**Distilling Generative-Discriminative Representations for Very Low-Resolution Face Recognition**|Junzheng Zhang et.al.|[2409.06371v1](http://arxiv.org/abs/2409.06371v1)|null|
+|**2024-09-10**|**Connecting Concept Convexity and Human-Machine Alignment in Deep Neural Networks**|Teresa Dorszewski et.al.|[2409.06362v1](http://arxiv.org/abs/2409.06362v1)|null|
+|**2024-09-10**|**InstructSing: High-Fidelity Singing Voice Generation via Instructing Yourself**|Chang Zeng et.al.|[2409.06330v1](http://arxiv.org/abs/2409.06330v1)|null|
 |**2024-09-09**|**Improving Pretraining Data Using Perplexity Correlations**|Tristan Thrush et.al.|[2409.05816v1](http://arxiv.org/abs/2409.05816v1)|null|
 |**2024-09-09**|**Towards Democratizing Multilingual Large Language Models For Medicine Through A Two-Stage Instruction Fine-tuning Approach**|Meng Zhou et.al.|[2409.05732v1](http://arxiv.org/abs/2409.05732v1)|null|
 |**2024-09-09**|**Zero-shot Outlier Detection via Prior-data Fitted Networks: Model Selection Bygone!**|Yuchen Shen et.al.|[2409.05672v1](http://arxiv.org/abs/2409.05672v1)|null|
@@ -3576,12 +3586,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240911>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240912>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-10**|**EyeCLIP: A visual-language foundation model for multi-modal ophthalmic image analysis**|Danli Shi et.al.|[2409.06644v1](http://arxiv.org/abs/2409.06644v1)|null|
+|**2024-09-10**|**Hierarchical Multi-Label Classification with Missing Information for Benthic Habitat Imagery**|Isaac Xu et.al.|[2409.06618v1](http://arxiv.org/abs/2409.06618v1)|null|
+|**2024-09-10**|**Label-free Monitoring of Self-Supervised Learning Progress**|Isaac Xu et.al.|[2409.06612v1](http://arxiv.org/abs/2409.06612v1)|null|
+|**2024-09-10**|**A Likelihood Ratio-Based Approach to Segmenting Unknown Objects**|Nazir Nayal et.al.|[2409.06424v1](http://arxiv.org/abs/2409.06424v1)|null|
+|**2024-09-10**|**Loss Distillation via Gradient Matching for Point Cloud Completion with Weighted Chamfer Distance**|Fangzhou Lin et.al.|[2409.06171v1](http://arxiv.org/abs/2409.06171v1)|**[link](https://github.com/zhang-vislab/iros2024-lossdistillationweightedcd)**|
+|**2024-09-10**|**Revisiting Prompt Pretraining of Vision-Language Models**|Zhenyuan Chen et.al.|[2409.06166v1](http://arxiv.org/abs/2409.06166v1)|null|
+|**2024-09-10**|**Accelerating Large Language Model Pretraining via LFR Pedagogy: Learn, Focus, and Review**|Neha Prakriya et.al.|[2409.06131v1](http://arxiv.org/abs/2409.06131v1)|null|
+|**2024-09-09**|**SGC-VQGAN: Towards Complex Scene Representation via Semantic Guided Clustering Codebook**|Chenjing Ding et.al.|[2409.06105v1](http://arxiv.org/abs/2409.06105v1)|null|
+|**2024-09-09**|**AbGPT: De Novo Antibody Design via Generative Language Modeling**|Desmond Kuan et.al.|[2409.06090v1](http://arxiv.org/abs/2409.06090v1)|null|
+|**2024-09-09**|**TransformerRanker: A Tool for Efficiently Finding the Best-Suited Language Models for Downstream Classification Tasks**|Lukas Garbas et.al.|[2409.05997v1](http://arxiv.org/abs/2409.05997v1)|**[link](https://github.com/flairnlp/transformer-ranker)**|
 |**2024-09-09**|**Leveraging Content and Acoustic Representations for Efficient Speech Emotion Recognition**|Soumya Dutta et.al.|[2409.05566v1](http://arxiv.org/abs/2409.05566v1)|null|
 |**2024-09-08**|**NetDPSyn: Synthesizing Network Traces under Differential Privacy**|Danyu Sun et.al.|[2409.05249v1](http://arxiv.org/abs/2409.05249v1)|null|
 |**2024-09-08**|**A Survey on Mixup Augmentations and Beyond**|Xin Jin et.al.|[2409.05202v1](http://arxiv.org/abs/2409.05202v1)|**[link](https://github.com/Westlake-AI/Awesome-Mixup)**|
@@ -6842,12 +6862,13 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20240911>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240912>back to top</a>)</p>
 
 ## adaptor
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-10**|**LLaMA-Omni: Seamless Speech Interaction with Large Language Models**|Qingkai Fang et.al.|[2409.06666v1](http://arxiv.org/abs/2409.06666v1)|**[link](https://github.com/ictnlp/llama-omni)**|
 |**2024-09-05**|**End-to-end Multi-source Visual Prompt Tuning for Survival Analysis in Whole Slide Images**|Zhongwei Qiu et.al.|[2409.03804v1](http://arxiv.org/abs/2409.03804v1)|null|
 |**2024-09-04**|**NUDGE: Lightweight Non-Parametric Fine-Tuning of Embeddings for Retrieval**|Sepanta Zeighami et.al.|[2409.02343v1](http://arxiv.org/abs/2409.02343v1)|**[link](https://github.com/szeighami/nudge)**|
 |**2024-08-26**|**Dual-CBA: Improving Online Continual Learning via Dual Continual Bias Adaptors from a Bi-level Optimization Perspective**|Quanziang Wang et.al.|[2408.13991v1](http://arxiv.org/abs/2408.13991v1)|null|
@@ -6975,12 +6996,19 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240911>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240912>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-10**|**Technical Report of Mobile Manipulator Robot for Industrial Environments**|Erfan Amoozad Khalili et.al.|[2409.06693v1](http://arxiv.org/abs/2409.06693v1)|null|
+|**2024-09-10**|**A comprehensive study on Blood Cancer detection and classification using Convolutional Neural Network**|Md Taimur Ahad et.al.|[2409.06689v1](http://arxiv.org/abs/2409.06689v1)|null|
+|**2024-09-10**|**When to Extract ReID Features: A Selective Approach for Improved Multiple Object Tracking**|Emirhan Bayar et.al.|[2409.06617v1](http://arxiv.org/abs/2409.06617v1)|**[link](https://github.com/emirhanbayar/fast-strongsort)**|
+|**2024-09-10**|**Transtreaming: Adaptive Delay-aware Transformer for Real-time Streaming Perception**|Xiang Zhang et.al.|[2409.06584v1](http://arxiv.org/abs/2409.06584v1)|null|
+|**2024-09-10**|**Semi-Supervised 3D Object Detection with Chanel Augmentation using Transformation Equivariance**|Minju Kang et.al.|[2409.06583v1](http://arxiv.org/abs/2409.06583v1)|null|
+|**2024-09-10**|**Knowledge Distillation via Query Selection for Detection Transformer**|Yi Liu et.al.|[2409.06443v1](http://arxiv.org/abs/2409.06443v1)|null|
+|**2024-09-10**|**An Attribute-Enriched Dataset and Auto-Annotated Pipeline for Open Detection**|Pengfei Qi et.al.|[2409.06300v1](http://arxiv.org/abs/2409.06300v1)|null|
 |**2024-09-09**|**Replay Consolidation with Label Propagation for Continual Object Detection**|Riccardo De Monte et.al.|[2409.05650v1](http://arxiv.org/abs/2409.05650v1)|null|
 |**2024-09-09**|**Renormalized Connection for Scale-preferred Object Detection in Satellite Imagery**|Fan Zhang et.al.|[2409.05624v1](http://arxiv.org/abs/2409.05624v1)|null|
 |**2024-09-09**|**LEROjD: Lidar Extended Radar-Only Object Detection**|Patrick Palmer et.al.|[2409.05564v1](http://arxiv.org/abs/2409.05564v1)|**[link](https://github.com/rst-tu-dortmund/lerojd)**|
@@ -9954,7 +9982,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20240911>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240912>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
