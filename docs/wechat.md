@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.09.12
+> Updated on 2024.09.13
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,14 @@
 
 ## pretrain
 
+- 2024-09-11, **Synthetic continued pretraining**, Zitong Yang et.al., Paper: [http://arxiv.org/abs/2409.07431v1](http://arxiv.org/abs/2409.07431v1), Code: **[https://github.com/zitongyang/synthetic_continued_pretraining](https://github.com/zitongyang/synthetic_continued_pretraining)**
+- 2024-09-11, **Efficient One-Step Diffusion Refinement for Snapshot Compressive Imaging**, Yunzhen Wang et.al., Paper: [http://arxiv.org/abs/2409.07417v1](http://arxiv.org/abs/2409.07417v1)
+- 2024-09-11, **Muskits-ESPnet: A Comprehensive Toolkit for Singing Voice Synthesis in New Paradigm**, Yuning Wu et.al., Paper: [http://arxiv.org/abs/2409.07226v1](http://arxiv.org/abs/2409.07226v1)
+- 2024-09-11, **Gated Slot Attention for Efficient Linear-Time Sequence Modeling**, Yu Zhang et.al., Paper: [http://arxiv.org/abs/2409.07146v1](http://arxiv.org/abs/2409.07146v1)
+- 2024-09-11, **Deep Learning Techniques for Hand Vein Biometrics: A Comprehensive Review**, Mustapha Hemis et.al., Paper: [http://arxiv.org/abs/2409.07128v1](http://arxiv.org/abs/2409.07128v1)
+- 2024-09-11, **Ontology-Free General-Domain Knowledge Graph-to-Text Generation Dataset Synthesis using Large Language Model**, Daehee Kim et.al., Paper: [http://arxiv.org/abs/2409.07088v1](http://arxiv.org/abs/2409.07088v1), Code: **[https://github.com/daehuikim/WikiOFGraph](https://github.com/daehuikim/WikiOFGraph)**
+- 2024-09-11, **SoftShadow: Leveraging Penumbra-Aware Soft Masks for Shadow Removal**, Xinrui Wang et.al., Paper: [http://arxiv.org/abs/2409.07041v1](http://arxiv.org/abs/2409.07041v1), Code: **[https://github.com/xinrui014/softshadow](https://github.com/xinrui014/softshadow)**
+- 2024-09-10, **Semi-Supervised Reward Modeling via Iterative Self-Training**, Yifei He et.al., Paper: [http://arxiv.org/abs/2409.06903v1](http://arxiv.org/abs/2409.06903v1)
 - 2024-09-10, **E2LLM: Encoder Elongated Large Language Models for Long-Context Understanding and Reasoning**, Zihan Liao et.al., Paper: [http://arxiv.org/abs/2409.06679v1](http://arxiv.org/abs/2409.06679v1)
 - 2024-09-10, **LLaMA-Omni: Seamless Speech Interaction with Large Language Models**, Qingkai Fang et.al., Paper: [http://arxiv.org/abs/2409.06666v1](http://arxiv.org/abs/2409.06666v1), Code: **[https://github.com/ictnlp/llama-omni](https://github.com/ictnlp/llama-omni)**
 - 2024-09-10, **EyeCLIP: A visual-language foundation model for multi-modal ophthalmic image analysis**, Danli Shi et.al., Paper: [http://arxiv.org/abs/2409.06644v1](http://arxiv.org/abs/2409.06644v1)
@@ -3584,11 +3592,18 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20240912>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240913>back to top</a>)</p>
 
 ## downstream
 
-- 2024-09-10, **EyeCLIP: A visual-language foundation model for multi-modal ophthalmic image analysis**, Danli Shi et.al., Paper: [http://arxiv.org/abs/2409.06644v1](http://arxiv.org/abs/2409.06644v1)
+- 2024-09-11, **Statistically Valid Information Bottleneck via Multiple Hypothesis Testing**, Amirmohammad Farzaneh et.al., Paper: [http://arxiv.org/abs/2409.07325v1](http://arxiv.org/abs/2409.07325v1)
+- 2024-09-11, **BLS-GAN: A Deep Layer Separation Framework for Eliminating Bone Overlap in Conventional Radiographs**, Haolin Wang et.al., Paper: [http://arxiv.org/abs/2409.07304v1](http://arxiv.org/abs/2409.07304v1)
+- 2024-09-11, **Online Graph Filtering Over Expanding Graphs**, Bishwadeep Das et.al., Paper: [http://arxiv.org/abs/2409.07204v1](http://arxiv.org/abs/2409.07204v1)
+- 2024-09-11, **Pushing the Limits of Vision-Language Models in Remote Sensing without Human Annotations**, Keumgang Cha et.al., Paper: [http://arxiv.org/abs/2409.07048v1](http://arxiv.org/abs/2409.07048v1)
+- 2024-09-11, **PanAdapter: Two-Stage Fine-Tuning with Spatial-Spectral Priors Injecting for Pansharpening**, RuoCheng Wu et.al., Paper: [http://arxiv.org/abs/2409.06980v1](http://arxiv.org/abs/2409.06980v1)
+- 2024-09-10, **Adversarial Attacks to Multi-Modal Models**, Zhihao Dou et.al., Paper: [http://arxiv.org/abs/2409.06793v1](http://arxiv.org/abs/2409.06793v1)
+- 2024-09-10, **EasyST: A Simple Framework for Spatio-Temporal Prediction**, Jiabin Tang et.al., Paper: [http://arxiv.org/abs/2409.06748v1](http://arxiv.org/abs/2409.06748v1)
+- 2024-09-11, **EyeCLIP: A visual-language foundation model for multi-modal ophthalmic image analysis**, Danli Shi et.al., Paper: [http://arxiv.org/abs/2409.06644v2](http://arxiv.org/abs/2409.06644v2)
 - 2024-09-10, **Hierarchical Multi-Label Classification with Missing Information for Benthic Habitat Imagery**, Isaac Xu et.al., Paper: [http://arxiv.org/abs/2409.06618v1](http://arxiv.org/abs/2409.06618v1)
 - 2024-09-10, **Label-free Monitoring of Self-Supervised Learning Progress**, Isaac Xu et.al., Paper: [http://arxiv.org/abs/2409.06612v1](http://arxiv.org/abs/2409.06612v1)
 - 2024-09-10, **A Likelihood Ratio-Based Approach to Segmenting Unknown Objects**, Nazir Nayal et.al., Paper: [http://arxiv.org/abs/2409.06424v1](http://arxiv.org/abs/2409.06424v1)
@@ -6858,7 +6873,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20240912>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240913>back to top</a>)</p>
 
 ## adaptor
 
@@ -6990,10 +7005,15 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20240912>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240913>back to top</a>)</p>
 
 ## object detection
 
+- 2024-09-11, **SCLNet: A Scale-Robust Complementary Learning Network for Object Detection in UAV Images**, Xuexue Li et.al., Paper: [http://arxiv.org/abs/2409.07024v1](http://arxiv.org/abs/2409.07024v1)
+- 2024-09-11, **ODYSSEE: Oyster Detection Yielded by Sensor Systems on Edge Electronics**, Xiaomin Lin et.al., Paper: [http://arxiv.org/abs/2409.07003v1](http://arxiv.org/abs/2409.07003v1)
+- 2024-09-11, **AdvLogo: Adversarial Patch Attack against Object Detectors based on Diffusion Models**, Boming Miao et.al., Paper: [http://arxiv.org/abs/2409.07002v1](http://arxiv.org/abs/2409.07002v1)
+- 2024-09-11, **Brain-Inspired Stepwise Patch Merging for Vision Transformers**, Yonghao Yu et.al., Paper: [http://arxiv.org/abs/2409.06963v1](http://arxiv.org/abs/2409.06963v1)
+- 2024-09-10, **Cross-Modal Self-Supervised Learning with Effective Contrastive Units for LiDAR Point Clouds**, Mu Cai et.al., Paper: [http://arxiv.org/abs/2409.06827v1](http://arxiv.org/abs/2409.06827v1), Code: **[https://github.com/qcraftai/cross-modal-ssl](https://github.com/qcraftai/cross-modal-ssl)**
 - 2024-09-10, **Technical Report of Mobile Manipulator Robot for Industrial Environments**, Erfan Amoozad Khalili et.al., Paper: [http://arxiv.org/abs/2409.06693v1](http://arxiv.org/abs/2409.06693v1)
 - 2024-09-10, **A comprehensive study on Blood Cancer detection and classification using Convolutional Neural Network**, Md Taimur Ahad et.al., Paper: [http://arxiv.org/abs/2409.06689v1](http://arxiv.org/abs/2409.06689v1)
 - 2024-09-10, **When to Extract ReID Features: A Selective Approach for Improved Multiple Object Tracking**, Emirhan Bayar et.al., Paper: [http://arxiv.org/abs/2409.06617v1](http://arxiv.org/abs/2409.06617v1), Code: **[https://github.com/emirhanbayar/fast-strongsort](https://github.com/emirhanbayar/fast-strongsort)**
@@ -9974,7 +9994,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20240912>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240913>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
