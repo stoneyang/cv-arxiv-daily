@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.09.13
+> Updated on 2024.09.14
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,16 @@
 
 ## pretrain
 
+- 2024-09-12, **Hand-Object Interaction Pretraining from Videos**, Himanshu Gaurav Singh et.al., Paper: [http://arxiv.org/abs/2409.08273v1](http://arxiv.org/abs/2409.08273v1)
+- 2024-09-12, **Dynamic Prompting of Frozen Text-to-Image Diffusion Models for Panoptic Narrative Grounding**, Hongyu Li et.al., Paper: [http://arxiv.org/abs/2409.08251v1](http://arxiv.org/abs/2409.08251v1)
+- 2024-09-12, **VI3DRM:Towards meticulous 3D Reconstruction from Sparse Views via Photo-Realistic Novel View Synthesis**, Hao Chen et.al., Paper: [http://arxiv.org/abs/2409.08207v1](http://arxiv.org/abs/2409.08207v1)
+- 2024-09-12, **AudioBERT: Audio Knowledge Augmented Language Model**, Hyunjong Ok et.al., Paper: [http://arxiv.org/abs/2409.08199v1](http://arxiv.org/abs/2409.08199v1), Code: **[https://github.com/hj-ok/audiobert](https://github.com/hj-ok/audiobert)**
+- 2024-09-12, **Towards a graph-based foundation model for network traffic analysis**, Louis Van Langendonck et.al., Paper: [http://arxiv.org/abs/2409.08111v1](http://arxiv.org/abs/2409.08111v1)
+- 2024-09-12, **EZIGen: Enhancing zero-shot subject-driven image generation with precise subject encoding and decoupled guidance**, Zicheng Duan et.al., Paper: [http://arxiv.org/abs/2409.08091v1](http://arxiv.org/abs/2409.08091v1)
+- 2024-09-12, **SimMAT: Exploring Transferability from Vision Foundation Models to Any Image Modality**, Chenyang Lei et.al., Paper: [http://arxiv.org/abs/2409.08083v1](http://arxiv.org/abs/2409.08083v1)
+- 2024-09-12, **Diffusion-Based Image-to-Image Translation by Noise Correction via Prompt Interpolation**, Junsung Lee et.al., Paper: [http://arxiv.org/abs/2409.08077v1](http://arxiv.org/abs/2409.08077v1)
+- 2024-09-12, **Universal Pooling Method of Multi-layer Features from Pretrained Models for Speaker Verification**, Jin Sob Kim et.al., Paper: [http://arxiv.org/abs/2409.07770v1](http://arxiv.org/abs/2409.07770v1), Code: **[https://github.com/sadpororo/unipool-sv](https://github.com/sadpororo/unipool-sv)**
+- 2024-09-11, **Passed the Turing Test: Living in Turing Futures**, Bernardo Gonçalves et.al., Paper: [http://arxiv.org/abs/2409.07656v1](http://arxiv.org/abs/2409.07656v1)
 - 2024-09-11, **Synthetic continued pretraining**, Zitong Yang et.al., Paper: [http://arxiv.org/abs/2409.07431v1](http://arxiv.org/abs/2409.07431v1), Code: **[https://github.com/zitongyang/synthetic_continued_pretraining](https://github.com/zitongyang/synthetic_continued_pretraining)**
 - 2024-09-11, **Efficient One-Step Diffusion Refinement for Snapshot Compressive Imaging**, Yunzhen Wang et.al., Paper: [http://arxiv.org/abs/2409.07417v1](http://arxiv.org/abs/2409.07417v1)
 - 2024-09-11, **Muskits-ESPnet: A Comprehensive Toolkit for Singing Voice Synthesis in New Paradigm**, Yuning Wu et.al., Paper: [http://arxiv.org/abs/2409.07226v1](http://arxiv.org/abs/2409.07226v1)
@@ -3592,10 +3602,20 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20240913>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240914>back to top</a>)</p>
 
 ## downstream
 
+- 2024-09-12, **Hand-Object Interaction Pretraining from Videos**, Himanshu Gaurav Singh et.al., Paper: [http://arxiv.org/abs/2409.08273v1](http://arxiv.org/abs/2409.08273v1)
+- 2024-09-12, **FlashSplat: 2D to 3D Gaussian Splatting Segmentation Solved Optimally**, Qiuhong Shen et.al., Paper: [http://arxiv.org/abs/2409.08270v1](http://arxiv.org/abs/2409.08270v1), Code: **[https://github.com/florinshen/flashsplat](https://github.com/florinshen/flashsplat)**
+- 2024-09-12, **Touch2Touch: Cross-Modal Tactile Generation for Object Manipulation**, Samanta Rodriguez et.al., Paper: [http://arxiv.org/abs/2409.08269v1](http://arxiv.org/abs/2409.08269v1)
+- 2024-09-12, **Improving Text-guided Object Inpainting with Semantic Pre-inpainting**, Yifu Chen et.al., Paper: [http://arxiv.org/abs/2409.08260v1](http://arxiv.org/abs/2409.08260v1), Code: **[https://github.com/nnn-s/catdiffusion](https://github.com/nnn-s/catdiffusion)**
+- 2024-09-12, **ComAlign: Compositional Alignment in Vision-Language Models**, Ali Abdollah et.al., Paper: [http://arxiv.org/abs/2409.08206v1](http://arxiv.org/abs/2409.08206v1)
+- 2024-09-12, **Do Vision Foundation Models Enhance Domain Generalization in Medical Image Segmentation?**, Kerem Cekmeceli et.al., Paper: [http://arxiv.org/abs/2409.07960v1](http://arxiv.org/abs/2409.07960v1), Code: **[https://github.com/kerem-cekmeceli/foundation-models-for-medical-imagery](https://github.com/kerem-cekmeceli/foundation-models-for-medical-imagery)**
+- 2024-09-12, **Context-Aware Optimal Transport Learning for Retinal Fundus Image Enhancement**, Vamsi Krishna Vasa et.al., Paper: [http://arxiv.org/abs/2409.07862v1](http://arxiv.org/abs/2409.07862v1)
+- 2024-09-12, **GRE^2-MDCL: Graph Representation Embedding Enhanced via Multidimensional Contrastive Learning**, Kaizhe Fan et.al., Paper: [http://arxiv.org/abs/2409.07725v1](http://arxiv.org/abs/2409.07725v1)
+- 2024-09-12, **Virtual Node Generation for Node Classification in Sparsely-Labeled Graphs**, Hang Cui et.al., Paper: [http://arxiv.org/abs/2409.07712v1](http://arxiv.org/abs/2409.07712v1)
+- 2024-09-12, **Harnessing TI Feeds for Exploitation Detection**, Kajal Patel et.al., Paper: [http://arxiv.org/abs/2409.07709v1](http://arxiv.org/abs/2409.07709v1)
 - 2024-09-11, **Statistically Valid Information Bottleneck via Multiple Hypothesis Testing**, Amirmohammad Farzaneh et.al., Paper: [http://arxiv.org/abs/2409.07325v1](http://arxiv.org/abs/2409.07325v1)
 - 2024-09-11, **BLS-GAN: A Deep Layer Separation Framework for Eliminating Bone Overlap in Conventional Radiographs**, Haolin Wang et.al., Paper: [http://arxiv.org/abs/2409.07304v1](http://arxiv.org/abs/2409.07304v1)
 - 2024-09-11, **Online Graph Filtering Over Expanding Graphs**, Bishwadeep Das et.al., Paper: [http://arxiv.org/abs/2409.07204v1](http://arxiv.org/abs/2409.07204v1)
@@ -6873,7 +6893,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20240913>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240914>back to top</a>)</p>
 
 ## adaptor
 
@@ -7005,10 +7025,15 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20240913>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240914>back to top</a>)</p>
 
 ## object detection
 
+- 2024-09-12, **From COCO to COCO-FP: A Deep Dive into Background False Positives for COCO Detectors**, Longfei Liu et.al., Paper: [http://arxiv.org/abs/2409.07907v1](http://arxiv.org/abs/2409.07907v1), Code: **[https://github.com/coco-fp/coco-fp](https://github.com/coco-fp/coco-fp)**
+- 2024-09-12, **What is YOLOv9: An In-Depth Exploration of the Internal Features of the Next-Generation Object Detector**, Muhammad Yaseen et.al., Paper: [http://arxiv.org/abs/2409.07813v1](http://arxiv.org/abs/2409.07813v1)
+- 2024-09-12, **Relevance for Human Robot Collaboration**, Xiaotong Zhang et.al., Paper: [http://arxiv.org/abs/2409.07753v1](http://arxiv.org/abs/2409.07753v1)
+- 2024-09-11, **Object Depth and Size Estimation using Stereo-vision and Integration with SLAM**, Layth Hamad et.al., Paper: [http://arxiv.org/abs/2409.07623v1](http://arxiv.org/abs/2409.07623v1)
+- 2024-09-11, **ENACT: Entropy-based Clustering of Attention Input for Improving the Computational Performance of Object Detection Transformers**, Giorgos Savathrakis et.al., Paper: [http://arxiv.org/abs/2409.07541v1](http://arxiv.org/abs/2409.07541v1)
 - 2024-09-11, **SCLNet: A Scale-Robust Complementary Learning Network for Object Detection in UAV Images**, Xuexue Li et.al., Paper: [http://arxiv.org/abs/2409.07024v1](http://arxiv.org/abs/2409.07024v1)
 - 2024-09-11, **ODYSSEE: Oyster Detection Yielded by Sensor Systems on Edge Electronics**, Xiaomin Lin et.al., Paper: [http://arxiv.org/abs/2409.07003v1](http://arxiv.org/abs/2409.07003v1)
 - 2024-09-11, **AdvLogo: Adversarial Patch Attack against Object Detectors based on Diffusion Models**, Boming Miao et.al., Paper: [http://arxiv.org/abs/2409.07002v1](http://arxiv.org/abs/2409.07002v1)
@@ -9994,7 +10019,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20240913>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240914>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
