@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.09.15
+> Updated on 2024.09.16
 
 <details>
   <summary>Table of Contents</summary>
@@ -3602,7 +3602,7 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20240915>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240916>back to top</a>)</p>
 
 ## downstream
 
@@ -6893,7 +6893,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20240915>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240916>back to top</a>)</p>
 
 ## adaptor
 
@@ -7025,7 +7025,7 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20240915>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240916>back to top</a>)</p>
 
 ## object detection
 
@@ -7035,7 +7035,7 @@
 - 2024-09-11, **Object Depth and Size Estimation using Stereo-vision and Integration with SLAM**, Layth Hamad et.al., Paper: [http://arxiv.org/abs/2409.07623v1](http://arxiv.org/abs/2409.07623v1)
 - 2024-09-11, **ENACT: Entropy-based Clustering of Attention Input for Improving the Computational Performance of Object Detection Transformers**, Giorgos Savathrakis et.al., Paper: [http://arxiv.org/abs/2409.07541v1](http://arxiv.org/abs/2409.07541v1)
 - 2024-09-11, **SCLNet: A Scale-Robust Complementary Learning Network for Object Detection in UAV Images**, Xuexue Li et.al., Paper: [http://arxiv.org/abs/2409.07024v1](http://arxiv.org/abs/2409.07024v1)
-- 2024-09-11, **ODYSSEE: Oyster Detection Yielded by Sensor Systems on Edge Electronics**, Xiaomin Lin et.al., Paper: [http://arxiv.org/abs/2409.07003v1](http://arxiv.org/abs/2409.07003v1)
+- 2024-09-13, **ODYSSEE: Oyster Detection Yielded by Sensor Systems on Edge Electronics**, Xiaomin Lin et.al., Paper: [http://arxiv.org/abs/2409.07003v2](http://arxiv.org/abs/2409.07003v2)
 - 2024-09-11, **AdvLogo: Adversarial Patch Attack against Object Detectors based on Diffusion Models**, Boming Miao et.al., Paper: [http://arxiv.org/abs/2409.07002v1](http://arxiv.org/abs/2409.07002v1)
 - 2024-09-11, **Brain-Inspired Stepwise Patch Merging for Vision Transformers**, Yonghao Yu et.al., Paper: [http://arxiv.org/abs/2409.06963v1](http://arxiv.org/abs/2409.06963v1)
 - 2024-09-10, **Cross-Modal Self-Supervised Learning with Effective Contrastive Units for LiDAR Point Clouds**, Mu Cai et.al., Paper: [http://arxiv.org/abs/2409.06827v1](http://arxiv.org/abs/2409.06827v1), Code: **[https://github.com/qcraftai/cross-modal-ssl](https://github.com/qcraftai/cross-modal-ssl)**
@@ -10019,7 +10019,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20240915>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240916>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
