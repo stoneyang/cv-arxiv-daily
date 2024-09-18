@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.17
+## Updated on 2024.09.18
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-16**|**Robust image representations with counterfactual contrastive learning**|Mélanie Roschewitz et.al.|[2409.10365v1](http://arxiv.org/abs/2409.10365v1)|**[link](https://github.com/biomedia-mira/counterfactual-contrastive)**|
+|**2024-09-16**|**ASMA: An Adaptive Safety Margin Algorithm for Vision-Language Drone Navigation via Scene-Aware Control Barrier Functions**|Sourav Sanyal et.al.|[2409.10283v1](http://arxiv.org/abs/2409.10283v1)|null|
+|**2024-09-16**|**oboVox Far Field Speaker Recognition: A Novel Data Augmentation Approach with Pretrained Models**|Muhammad Sudipto Siam Dip et.al.|[2409.10240v1](http://arxiv.org/abs/2409.10240v1)|null|
+|**2024-09-16**|**Contrastive Learning for Character Detection in Ancient Greek Papyri**|Vedasri Nakka et.al.|[2409.10156v1](http://arxiv.org/abs/2409.10156v1)|null|
+|**2024-09-16**|**Self-Supervised Syllable Discovery Based on Speaker-Disentangled HuBERT**|Ryota Komatsu et.al.|[2409.10103v1](http://arxiv.org/abs/2409.10103v1)|**[link](https://github.com/ryota-komatsu/speaker_disentangled_hubert)**|
+|**2024-09-16**|**Human Insights Driven Latent Space for Different Driving Perspectives: A Unified Encoder for Efficient Multi-Task Inference**|Huy-Dung Nguyen et.al.|[2409.10095v1](http://arxiv.org/abs/2409.10095v1)|null|
+|**2024-09-16**|**MotionCom: Automatic and Motion-Aware Image Composition with LLM and Video Diffusion Prior**|Weijing Tao et.al.|[2409.10090v1](http://arxiv.org/abs/2409.10090v1)|null|
+|**2024-09-16**|**Optimizing Dysarthria Wake-Up Word Spotting: An End-to-End Approach for SLT 2024 LRDWWS Challenge**|Shuiyun Liu et.al.|[2409.10076v1](http://arxiv.org/abs/2409.10076v1)|null|
+|**2024-09-15**|**Constructing a Singing Style Caption Dataset**|Hyunjong Ok et.al.|[2409.09866v1](http://arxiv.org/abs/2409.09866v1)|**[link](https://github.com/hj-ok/s2cap)**|
+|**2024-09-15**|**Latent Diffusion Models for Controllable RNA Sequence Generation**|Kaixuan Huang et.al.|[2409.09828v1](http://arxiv.org/abs/2409.09828v1)|null|
 |**2024-09-13**|**Towards Leveraging Contrastively Pretrained Neural Audio Embeddings for Recommender Tasks**|Florian Grötschla et.al.|[2409.09026v1](http://arxiv.org/abs/2409.09026v1)|null|
 |**2024-09-13**|**Comparative Analysis of Pretrained Audio Representations in Music Recommender Systems**|Yan-Martin Tamm et.al.|[2409.08987v1](http://arxiv.org/abs/2409.08987v1)|**[link](https://github.com/Darel13712/pretrained-audio-representations)**|
 |**2024-09-12**|**DeCLIP: Decoding CLIP representations for deepfake localization**|Stefan Smeu et.al.|[2409.08849v1](http://arxiv.org/abs/2409.08849v1)|**[link](https://github.com/bit-ml/DeCLIP)**|
@@ -3611,12 +3621,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240917>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240918>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-16**|**MacDiff: Unified Skeleton Modeling with Masked Conditional Diffusion**|Lehong Wu et.al.|[2409.10473v1](http://arxiv.org/abs/2409.10473v1)|null|
+|**2024-09-16**|**MOST: MR reconstruction Optimization for multiple downStream Tasks via continual learning**|Hwihun Jeong et.al.|[2409.10394v1](http://arxiv.org/abs/2409.10394v1)|**[link](https://github.com/snu-list/most)**|
+|**2024-09-16**|**Frequency-Guided Masking for Enhanced Vision Self-Supervised Learning**|Amin Karimi Monsefi et.al.|[2409.10362v1](http://arxiv.org/abs/2409.10362v1)|null|
+|**2024-09-16**|**MEGS: Morphological Evaluation of Galactic Structure**|Ufuk Çakır et.al.|[2409.10346v1](http://arxiv.org/abs/2409.10346v1)|**[link](https://github.com/ufuk-cakir/MEGS)**|
+|**2024-09-17**|**Augmenting Automatic Speech Recognition Models with Disfluency Detection**|Robin Amann et.al.|[2409.10177v2](http://arxiv.org/abs/2409.10177v2)|null|
+|**2024-09-16**|**Efficient Network Embedding by Approximate Equitable Partitions**|Giuseppe Squillace et.al.|[2409.10160v1](http://arxiv.org/abs/2409.10160v1)|null|
+|**2024-09-16**|**ViewActive: Active viewpoint optimization from a single image**|Jiayi Wu et.al.|[2409.09997v1](http://arxiv.org/abs/2409.09997v1)|null|
+|**2024-09-16**|**Context-Conditioned Spatio-Temporal Predictive Learning for Reliable V2V Channel Prediction**|Lei Chu et.al.|[2409.09978v1](http://arxiv.org/abs/2409.09978v1)|null|
+|**2024-09-15**|**Universal Topology Refinement for Medical Image Segmentation with Polynomial Feature Synthesis**|Liu Li et.al.|[2409.09796v1](http://arxiv.org/abs/2409.09796v1)|null|
+|**2024-09-15**|**Finetuning CLIP to Reason about Pairwise Differences**|Dylan Sam et.al.|[2409.09721v1](http://arxiv.org/abs/2409.09721v1)|null|
 |**2024-09-13**|**Agents in Software Engineering: Survey, Landscape, and Vision**|Yanxian Huang et.al.|[2409.09030v1](http://arxiv.org/abs/2409.09030v1)|**[link](https://github.com/deepsoftwareanalytics/awesome-agent4se)**|
 |**2024-09-13**|**Comparative Analysis of Pretrained Audio Representations in Music Recommender Systems**|Yan-Martin Tamm et.al.|[2409.08987v1](http://arxiv.org/abs/2409.08987v1)|**[link](https://github.com/Darel13712/pretrained-audio-representations)**|
 |**2024-09-13**|**Latent Space Score-based Diffusion Model for Probabilistic Multivariate Time Series Imputation**|Guojun Liang et.al.|[2409.08917v1](http://arxiv.org/abs/2409.08917v1)|**[link](https://github.com/gorgen2020/LSSDM_imputation)**|
@@ -6913,7 +6933,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20240917>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240918>back to top</a>)</p>
 
 ## adaptor
 
@@ -7047,12 +7067,22 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240917>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240918>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-16**|**HiFi-CS: Towards Open Vocabulary Visual Grounding For Robotic Grasping Using Vision-Language Models**|Vineet Bhat et.al.|[2409.10419v1](http://arxiv.org/abs/2409.10419v1)|null|
+|**2024-09-16**|**Point2Graph: An End-to-end Point Cloud-based 3D Open-Vocabulary Scene Graph for Robot Navigation**|Yifan Xu et.al.|[2409.10350v1](http://arxiv.org/abs/2409.10350v1)|null|
+|**2024-09-16**|**ASMA: An Adaptive Safety Margin Algorithm for Vision-Language Drone Navigation via Scene-Aware Control Barrier Functions**|Sourav Sanyal et.al.|[2409.10283v1](http://arxiv.org/abs/2409.10283v1)|null|
+|**2024-09-16**|**Performance of Human Annotators in Object Detection and Segmentation of Remotely Sensed Data**|Roni Blushtein-Livnon et.al.|[2409.10272v1](http://arxiv.org/abs/2409.10272v1)|null|
+|**2024-09-16**|**Self-Updating Vehicle Monitoring Framework Employing Distributed Acoustic Sensing towards Real-World Settings**|Xi Wang et.al.|[2409.10259v1](http://arxiv.org/abs/2409.10259v1)|null|
+|**2024-09-16**|**DAE-Fuse: An Adaptive Discriminative Autoencoder for Multi-Modality Image Fusion**|Yuchen Guo et.al.|[2409.10080v1](http://arxiv.org/abs/2409.10080v1)|null|
+|**2024-09-16**|**Towards Physically-Realizable Adversarial Attacks in Embodied Vision Navigation**|Meng Chen et.al.|[2409.10071v1](http://arxiv.org/abs/2409.10071v1)|**[link](https://github.com/chen37058/physical-attacks-in-embodied-navigation)**|
+|**2024-09-16**|**LithoHoD: A Litho Simulator-Powered Framework for IC Layout Hotspot Detection**|Hao-Chiang Shao et.al.|[2409.10021v1](http://arxiv.org/abs/2409.10021v1)|null|
+|**2024-09-15**|**Tracking Virtual Meetings in the Wild: Re-identification in Multi-Participant Virtual Meetings**|Oriel Perl et.al.|[2409.09841v1](http://arxiv.org/abs/2409.09841v1)|null|
+|**2024-09-15**|**Stutter-Solver: End-to-end Multi-lingual Dysfluency Detection**|Xuanru Zhou et.al.|[2409.09621v1](http://arxiv.org/abs/2409.09621v1)|**[link](https://github.com/eureka235/stutter-solver)**|
 |**2024-09-13**|**Interactive Masked Image Modeling for Multimodal Object Detection in Remote Sensing**|Minh-Duc Vu et.al.|[2409.08885v1](http://arxiv.org/abs/2409.08885v1)|null|
 |**2024-09-13**|**Direct-CP: Directed Collaborative Perception for Connected and Autonomous Vehicles via Proactive Attention**|Yihang Tao et.al.|[2409.08840v1](http://arxiv.org/abs/2409.08840v1)|null|
 |**2024-09-13**|**RT-DETRv3: Real-time End-to-End Object Detection with Hierarchical Dense Positive Supervision**|Shuo Wang et.al.|[2409.08475v1](http://arxiv.org/abs/2409.08475v1)|null|
@@ -10047,7 +10077,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20240917>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240918>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
