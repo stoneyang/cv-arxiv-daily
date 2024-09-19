@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.18
+## Updated on 2024.09.19
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-17**|**NVLM: Open Frontier-Class Multimodal LLMs**|Wenliang Dai et.al.|[2409.11402v1](http://arxiv.org/abs/2409.11402v1)|null|
+|**2024-09-17**|**LPT++: Efficient Training on Mixture of Long-tailed Experts**|Bowen Dong et.al.|[2409.11323v1](http://arxiv.org/abs/2409.11323v1)|null|
+|**2024-09-17**|**Towards Novel Malicious Packet Recognition: A Few-Shot Learning Approach**|Kyle Stein et.al.|[2409.11254v1](http://arxiv.org/abs/2409.11254v1)|null|
+|**2024-09-17**|**Score Forgetting Distillation: A Swift, Data-Free Method for Machine Unlearning in Diffusion Models**|Tianqi Chen et.al.|[2409.11219v1](http://arxiv.org/abs/2409.11219v1)|null|
+|**2024-09-17**|**Semformer: Transformer Language Models with Semantic Planning**|Yongjing Yin et.al.|[2409.11143v1](http://arxiv.org/abs/2409.11143v1)|null|
+|**2024-09-17**|**OneEncoder: A Lightweight Framework for Progressive Alignment of Modalities**|Bilal Faye et.al.|[2409.11059v1](http://arxiv.org/abs/2409.11059v1)|null|
+|**2024-09-17**|**MoDex: Planning High-Dimensional Dexterous Control via Learning Neural Hand Models**|Tong Wu et.al.|[2409.10983v1](http://arxiv.org/abs/2409.10983v1)|null|
+|**2024-09-16**|**Physics-Informed Neural Networks with Trust-Region Sequential Quadratic Programming**|Xiaoran Cheng et.al.|[2409.10777v1](http://arxiv.org/abs/2409.10777v1)|null|
 |**2024-09-16**|**Robust image representations with counterfactual contrastive learning**|Mélanie Roschewitz et.al.|[2409.10365v1](http://arxiv.org/abs/2409.10365v1)|**[link](https://github.com/biomedia-mira/counterfactual-contrastive)**|
 |**2024-09-16**|**ASMA: An Adaptive Safety Margin Algorithm for Vision-Language Drone Navigation via Scene-Aware Control Barrier Functions**|Sourav Sanyal et.al.|[2409.10283v1](http://arxiv.org/abs/2409.10283v1)|null|
 |**2024-09-16**|**oboVox Far Field Speaker Recognition: A Novel Data Augmentation Approach with Pretrained Models**|Muhammad Sudipto Siam Dip et.al.|[2409.10240v1](http://arxiv.org/abs/2409.10240v1)|null|
@@ -3625,12 +3633,21 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240918>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240919>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-17**|**Fine-Tuning Image-Conditional Diffusion Models is Easier than You Think**|Gonzalo Martin Garcia et.al.|[2409.11355v1](http://arxiv.org/abs/2409.11355v1)|null|
+|**2024-09-17**|**OmniGen: Unified Image Generation**|Shitao Xiao et.al.|[2409.11340v1](http://arxiv.org/abs/2409.11340v1)|**[link](https://github.com/vectorspacelab/omnigen)**|
+|**2024-09-17**|**CLIP Adaptation by Intra-modal Overlap Reduction**|Alexey Kravets et.al.|[2409.11338v1](http://arxiv.org/abs/2409.11338v1)|null|
+|**2024-09-17**|**Evaluating the Impact of Compression Techniques on Task-Specific Performance of Large Language Models**|Bishwash Khanal et.al.|[2409.11233v1](http://arxiv.org/abs/2409.11233v1)|null|
+|**2024-09-17**|**Vision foundation models: can they be applied to astrophysics data?**|E. Lastufka et.al.|[2409.11175v1](http://arxiv.org/abs/2409.11175v1)|null|
+|**2024-09-17**|**An Explainable Probabilistic Attribute Embedding Approach for Spoofed Speech Characterization**|Manasi Chhibber et.al.|[2409.11027v1](http://arxiv.org/abs/2409.11027v1)|null|
+|**2024-09-17**|**P2 Explore: Efficient Exploration in Unknown Clustered Environment with Floor Plan Prediction**|Kun Song et.al.|[2409.10878v1](http://arxiv.org/abs/2409.10878v1)|null|
+|**2024-09-16**|**Exploring Prediction Targets in Masked Pre-Training for Speech Foundation Models**|Li-Wei Chen et.al.|[2409.10788v1](http://arxiv.org/abs/2409.10788v1)|null|
+|**2024-09-16**|**Towards Automatic Assessment of Self-Supervised Speech Models using Rank**|Zakaria Aldeneh et.al.|[2409.10787v1](http://arxiv.org/abs/2409.10787v1)|null|
 |**2024-09-16**|**MacDiff: Unified Skeleton Modeling with Masked Conditional Diffusion**|Lehong Wu et.al.|[2409.10473v1](http://arxiv.org/abs/2409.10473v1)|null|
 |**2024-09-16**|**MOST: MR reconstruction Optimization for multiple downStream Tasks via continual learning**|Hwihun Jeong et.al.|[2409.10394v1](http://arxiv.org/abs/2409.10394v1)|**[link](https://github.com/snu-list/most)**|
 |**2024-09-16**|**Frequency-Guided Masking for Enhanced Vision Self-Supervised Learning**|Amin Karimi Monsefi et.al.|[2409.10362v1](http://arxiv.org/abs/2409.10362v1)|null|
@@ -6937,7 +6954,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20240918>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240919>back to top</a>)</p>
 
 ## adaptor
 
@@ -7071,12 +7088,20 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240918>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240919>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-17**|**STCMOT: Spatio-Temporal Cohesion Learning for UAV-Based Multiple Object Tracking**|Jianbo Ma et.al.|[2409.11234v1](http://arxiv.org/abs/2409.11234v1)|**[link](https://github.com/ydhcg-bobo/stcmot)**|
+|**2024-09-17**|**Vision foundation models: can they be applied to astrophysics data?**|E. Lastufka et.al.|[2409.11175v1](http://arxiv.org/abs/2409.11175v1)|null|
+|**2024-09-17**|**UltimateDO: An Efficient Framework to Marry Occupancy Prediction with 3D Object Detection via Channel2height**|Zichen Yu et.al.|[2409.11160v1](http://arxiv.org/abs/2409.11160v1)|null|
+|**2024-09-17**|**Unleashing the Potential of Mamba: Boosting a LiDAR 3D Sparse Detector by Using Cross-Model Knowledge Distillation**|Rui Yu et.al.|[2409.11018v1](http://arxiv.org/abs/2409.11018v1)|null|
+|**2024-09-17**|**TrajSSL: Trajectory-Enhanced Semi-Supervised 3D Object Detection**|Philip Jacobson et.al.|[2409.10901v1](http://arxiv.org/abs/2409.10901v1)|null|
+|**2024-09-18**|**Context-Dependent Interactable Graphical User Interface Element Detection for Spatial Computing Applications**|Shuqing Li et.al.|[2409.10811v2](http://arxiv.org/abs/2409.10811v2)|null|
+|**2024-09-16**|**Online Learning via Memory: Retrieval-Augmented Detector Adaptation**|Yanan Jian et.al.|[2409.10716v1](http://arxiv.org/abs/2409.10716v1)|null|
+|**2024-09-16**|**CoMamba: Real-time Cooperative Perception Unlocked with State Space Models**|Jinlong Li et.al.|[2409.10699v1](http://arxiv.org/abs/2409.10699v1)|null|
 |**2024-09-16**|**HiFi-CS: Towards Open Vocabulary Visual Grounding For Robotic Grasping Using Vision-Language Models**|Vineet Bhat et.al.|[2409.10419v1](http://arxiv.org/abs/2409.10419v1)|null|
 |**2024-09-16**|**Point2Graph: An End-to-end Point Cloud-based 3D Open-Vocabulary Scene Graph for Robot Navigation**|Yifan Xu et.al.|[2409.10350v1](http://arxiv.org/abs/2409.10350v1)|null|
 |**2024-09-16**|**ASMA: An Adaptive Safety Margin Algorithm for Vision-Language Drone Navigation via Scene-Aware Control Barrier Functions**|Sourav Sanyal et.al.|[2409.10283v1](http://arxiv.org/abs/2409.10283v1)|null|
@@ -10081,7 +10106,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20240918>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240919>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
