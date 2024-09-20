@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.09.19
+> Updated on 2024.09.20
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,13 @@
 
 ## pretrain
 
+- 2024-09-18, **DynaMo: In-Domain Dynamics Pretraining for Visuo-Motor Control**, Zichen Jeff Cui et.al., Paper: [http://arxiv.org/abs/2409.12192v1](http://arxiv.org/abs/2409.12192v1)
+- 2024-09-18, **Qwen2.5-Coder Technical Report**, Binyuan Hui et.al., Paper: [http://arxiv.org/abs/2409.12186v1](http://arxiv.org/abs/2409.12186v1)
+- 2024-09-18, **MoRAG -- Multi-Fusion Retrieval Augmented Generation for Human Motion**, Kalakonda Sai Shashank et.al., Paper: [http://arxiv.org/abs/2409.12140v1](http://arxiv.org/abs/2409.12140v1)
+- 2024-09-18, **Mixture of Experts Fusion for Fake Audio Detection Using Frozen wav2vec 2.0**, Zhiyong Wang et.al., Paper: [http://arxiv.org/abs/2409.11909v1](http://arxiv.org/abs/2409.11909v1)
+- 2024-09-18, **World of Forms: Deformable Geometric Templates for One-Shot Surface Meshing in Coronary CT Angiography**, Rudolf L. M. van Herten et.al., Paper: [http://arxiv.org/abs/2409.11837v1](http://arxiv.org/abs/2409.11837v1)
+- 2024-09-18, **Efficient Low-Resolution Face Recognition via Bridge Distillation**, Shiming Ge et.al., Paper: [http://arxiv.org/abs/2409.11786v1](http://arxiv.org/abs/2409.11786v1)
+- 2024-09-17, **NCT-CRC-HE: Not All Histopathological Datasets Are Equally Useful**, Andrey Ignatov et.al., Paper: [http://arxiv.org/abs/2409.11546v1](http://arxiv.org/abs/2409.11546v1)
 - 2024-09-17, **NVLM: Open Frontier-Class Multimodal LLMs**, Wenliang Dai et.al., Paper: [http://arxiv.org/abs/2409.11402v1](http://arxiv.org/abs/2409.11402v1)
 - 2024-09-17, **LPT++: Efficient Training on Mixture of Long-tailed Experts**, Bowen Dong et.al., Paper: [http://arxiv.org/abs/2409.11323v1](http://arxiv.org/abs/2409.11323v1)
 - 2024-09-17, **Towards Novel Malicious Packet Recognition: A Few-Shot Learning Approach**, Kyle Stein et.al., Paper: [http://arxiv.org/abs/2409.11254v1](http://arxiv.org/abs/2409.11254v1)
@@ -3627,11 +3634,17 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20240919>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240920>back to top</a>)</p>
 
 ## downstream
 
-- 2024-09-17, **Fine-Tuning Image-Conditional Diffusion Models is Easier than You Think**, Gonzalo Martin Garcia et.al., Paper: [http://arxiv.org/abs/2409.11355v1](http://arxiv.org/abs/2409.11355v1)
+- 2024-09-18, **Mixture of Prompt Learning for Vision Language Models**, Yu Du et.al., Paper: [http://arxiv.org/abs/2409.12011v1](http://arxiv.org/abs/2409.12011v1)
+- 2024-09-18, **LLM-wrapper: Black-Box Semantic-Aware Adaptation of Vision-Language Foundation Models**, Amaia Cardiel et.al., Paper: [http://arxiv.org/abs/2409.11919v1](http://arxiv.org/abs/2409.11919v1)
+- 2024-09-17, **VertiEncoder: Self-Supervised Kinodynamic Representation Learning on Vertically Challenging Terrain**, Mohammad Nazeri et.al., Paper: [http://arxiv.org/abs/2409.11570v1](http://arxiv.org/abs/2409.11570v1)
+- 2024-09-17, **Preference Tuning with Human Feedback on Language, Speech, and Vision Tasks: A Survey**, Genta Indra Winata et.al., Paper: [http://arxiv.org/abs/2409.11564v1](http://arxiv.org/abs/2409.11564v1)
+- 2024-09-17, **Unlocking NACE Classification Embeddings with OpenAI for Enhanced Analysis and Processing**, Andrea Vidali et.al., Paper: [http://arxiv.org/abs/2409.11524v1](http://arxiv.org/abs/2409.11524v1)
+- 2024-09-17, **M-BEST-RQ: A Multi-Channel Speech Foundation Model for Smart Glasses**, Yufeng Yang et.al., Paper: [http://arxiv.org/abs/2409.11494v1](http://arxiv.org/abs/2409.11494v1)
+- 2024-09-17, **Fine-Tuning Image-Conditional Diffusion Models is Easier than You Think**, Gonzalo Martin Garcia et.al., Paper: [http://arxiv.org/abs/2409.11355v1](http://arxiv.org/abs/2409.11355v1), Code: **[https://github.com/VisualComputingInstitute/diffusion-e2e-ft](https://github.com/VisualComputingInstitute/diffusion-e2e-ft)**
 - 2024-09-17, **OmniGen: Unified Image Generation**, Shitao Xiao et.al., Paper: [http://arxiv.org/abs/2409.11340v1](http://arxiv.org/abs/2409.11340v1), Code: **[https://github.com/vectorspacelab/omnigen](https://github.com/vectorspacelab/omnigen)**
 - 2024-09-17, **CLIP Adaptation by Intra-modal Overlap Reduction**, Alexey Kravets et.al., Paper: [http://arxiv.org/abs/2409.11338v1](http://arxiv.org/abs/2409.11338v1)
 - 2024-09-17, **Evaluating the Impact of Compression Techniques on Task-Specific Performance of Large Language Models**, Bishwash Khanal et.al., Paper: [http://arxiv.org/abs/2409.11233v1](http://arxiv.org/abs/2409.11233v1)
@@ -6946,7 +6959,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20240919>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240920>back to top</a>)</p>
 
 ## adaptor
 
@@ -7078,10 +7091,16 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20240919>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240920>back to top</a>)</p>
 
 ## object detection
 
+- 2024-09-18, **Applications of Knowledge Distillation in Remote Sensing: A Survey**, Yassine Himeur et.al., Paper: [http://arxiv.org/abs/2409.12111v1](http://arxiv.org/abs/2409.12111v1)
+- 2024-09-18, **Agglomerative Token Clustering**, Joakim Bruslund Haurum et.al., Paper: [http://arxiv.org/abs/2409.11923v1](http://arxiv.org/abs/2409.11923v1)
+- 2024-09-18, **RockTrack: A 3D Robust Multi-Camera-Ken Multi-Object Tracking Framework**, Xiaoyu Li et.al., Paper: [http://arxiv.org/abs/2409.11749v1](http://arxiv.org/abs/2409.11749v1)
+- 2024-09-18, **DETECLAP: Enhancing Audio-Visual Representation Learning with Object Information**, Shota Nakada et.al., Paper: [http://arxiv.org/abs/2409.11729v1](http://arxiv.org/abs/2409.11729v1)
+- 2024-09-17, **Open-Set Semantic Uncertainty Aware Metric-Semantic Graph Matching**, Kurran Singh et.al., Paper: [http://arxiv.org/abs/2409.11555v1](http://arxiv.org/abs/2409.11555v1)
+- 2024-09-17, **VALO: A Versatile Anytime Framework for LiDAR-based Object Detection Deep Neural Networks**, Ahmet Soyyigit et.al., Paper: [http://arxiv.org/abs/2409.11542v1](http://arxiv.org/abs/2409.11542v1), Code: **[https://github.com/csl-ku/valo](https://github.com/csl-ku/valo)**
 - 2024-09-17, **STCMOT: Spatio-Temporal Cohesion Learning for UAV-Based Multiple Object Tracking**, Jianbo Ma et.al., Paper: [http://arxiv.org/abs/2409.11234v1](http://arxiv.org/abs/2409.11234v1), Code: **[https://github.com/ydhcg-bobo/stcmot](https://github.com/ydhcg-bobo/stcmot)**
 - 2024-09-17, **Vision foundation models: can they be applied to astrophysics data?**, E. Lastufka et.al., Paper: [http://arxiv.org/abs/2409.11175v1](http://arxiv.org/abs/2409.11175v1)
 - 2024-09-17, **UltimateDO: An Efficient Framework to Marry Occupancy Prediction with 3D Object Detection via Channel2height**, Zichen Yu et.al., Paper: [http://arxiv.org/abs/2409.11160v1](http://arxiv.org/abs/2409.11160v1)
@@ -10094,7 +10113,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20240919>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240920>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
