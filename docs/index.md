@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.03
+## Updated on 2024.10.04
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-02**|**Accessing Numerical Energy Hessians with Graph Neural Network Potentials and Their Application in Heterogeneous Catalysis**|Brook Wander et.al.|[2410.01650v1](http://arxiv.org/abs/2410.01650v1)|null|
+|**2024-10-02**|**Does Graph Prompt Work? A Data Operation Perspective with Theoretical Analysis**|Qunzhong Wang et.al.|[2410.01635v1](http://arxiv.org/abs/2410.01635v1)|null|
+|**2024-10-02**|**Saliency-Guided DETR for Moment Retrieval and Highlight Detection**|Aleksandr Gordeev et.al.|[2410.01615v1](http://arxiv.org/abs/2410.01615v1)|**[link](https://github.com/ai-forever/sg-detr)**|
+|**2024-10-02**|**DAViD: Domain Adaptive Visually-Rich Document Understanding with Synthetic Insights**|Yihao Ding et.al.|[2410.01609v1](http://arxiv.org/abs/2410.01609v1)|null|
+|**2024-10-02**|**PASS:Test-Time Prompting to Adapt Styles and Semantic Shapes in Medical Image Segmentation**|Chuyan Zhang et.al.|[2410.01573v1](http://arxiv.org/abs/2410.01573v1)|**[link](https://github.com/endoluminalsurgicalvision-imr/pass)**|
+|**2024-10-02**|**Robo-MUTUAL: Robotic Multimodal Task Specification via Unimodal Learning**|Jianxiong Li et.al.|[2410.01529v1](http://arxiv.org/abs/2410.01529v1)|null|
+|**2024-10-02**|**A Little Goes a Long Way: Efficient Long Context Training and Inference with Partial Contexts**|Suyu Ge et.al.|[2410.01485v1](http://arxiv.org/abs/2410.01485v1)|null|
+|**2024-10-02**|**Decorrelation-based Self-Supervised Visual Representation Learning for Writer Identification**|Arkadip Maitra et.al.|[2410.01441v1](http://arxiv.org/abs/2410.01441v1)|null|
+|**2024-10-02**|**Knowledge Entropy Decay during Language Model Pretraining Hinders New Knowledge Acquisition**|Jiyeon Kim et.al.|[2410.01380v1](http://arxiv.org/abs/2410.01380v1)|null|
+|**2024-10-02**|**Harnessing the Latent Diffusion Model for Training-Free Image Style Transfer**|Kento Masui et.al.|[2410.01366v1](http://arxiv.org/abs/2410.01366v1)|null|
 |**2024-09-30**|**Feature Extractor or Decision Maker: Rethinking the Role of Visual Encoders in Visuomotor Policies**|Ruiyu Wang et.al.|[2409.20248v1](http://arxiv.org/abs/2409.20248v1)|null|
 |**2024-09-30**|**AfriHuBERT: A self-supervised speech representation model for African languages**|Jesujoba O. Alabi et.al.|[2409.20201v1](http://arxiv.org/abs/2409.20201v1)|null|
 |**2024-09-30**|**Classification of Radiological Text in Small and Imbalanced Datasets in a Non-English Language**|Vincent Beliveau et.al.|[2409.20147v1](http://arxiv.org/abs/2409.20147v1)|null|
@@ -3687,12 +3697,22 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241003>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241004>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-02**|**U-shaped and Inverted-U Scaling behind Emergent Abilities of Large Language Models**|Tung-Yu Wu et.al.|[2410.01692v1](http://arxiv.org/abs/2410.01692v1)|null|
+|**2024-10-02**|**Does Graph Prompt Work? A Data Operation Perspective with Theoretical Analysis**|Qunzhong Wang et.al.|[2410.01635v1](http://arxiv.org/abs/2410.01635v1)|null|
+|**2024-10-02**|**Verbalized Graph Representation Learning: A Fully Interpretable Graph Model Based on Large Language Models Throughout the Entire Process**|Xingyu Ji et.al.|[2410.01457v1](http://arxiv.org/abs/2410.01457v1)|null|
+|**2024-10-02**|**AgriCLIP: Adapting CLIP for Agriculture and Livestock via Domain-Specialized Cross-Model Alignment**|Umair Nawaz et.al.|[2410.01407v1](http://arxiv.org/abs/2410.01407v1)|**[link](https://github.com/umair1221/agriclip)**|
+|**2024-10-02**|**Codev-Bench: How Do LLMs Understand Developer-Centric Code Completion?**|Zhenyu Pan et.al.|[2410.01353v1](http://arxiv.org/abs/2410.01353v1)|**[link](https://github.com/LingmaTongyi/Codev-Bench)**|
+|**2024-10-02**|**Speculative Coreset Selection for Task-Specific Fine-tuning**|Xiaoyu Zhang et.al.|[2410.01296v1](http://arxiv.org/abs/2410.01296v1)|null|
+|**2024-10-02**|**Towards Native Generative Model for 3D Head Avatar**|Yiyu Zhuang et.al.|[2410.01226v1](http://arxiv.org/abs/2410.01226v1)|null|
+|**2024-10-02**|**Restorative Speech Enhancement: A Progressive Approach Using SE and Codec Modules**|Hsin-Tien Chiang et.al.|[2410.01150v1](http://arxiv.org/abs/2410.01150v1)|null|
+|**2024-10-01**|**Mixing It Up: The Cocktail Effect of Multi-Task Fine-Tuning on LLM Performance -- A Case Study in Finance**|Meni Brief et.al.|[2410.01109v1](http://arxiv.org/abs/2410.01109v1)|null|
+|**2024-10-01**|**Graph-based Scalable Sampling of 3D Point Cloud Attributes**|Shashank N. Sridhara et.al.|[2410.01027v1](http://arxiv.org/abs/2410.01027v1)|null|
 |**2024-09-30**|**Automating MedSAM by Learning Prompts with Weak Few-Shot Supervision**|Mélanie Gaillochet et.al.|[2409.20293v1](http://arxiv.org/abs/2409.20293v1)|null|
 |**2024-09-30**|**Reference Trustable Decoding: A Training-Free Augmentation Paradigm for Large Language Models**|Luohe Shi et.al.|[2409.20181v1](http://arxiv.org/abs/2409.20181v1)|null|
 |**2024-09-30**|**How Entangled is Factuality and Deception in German?**|Aswathy Velutharambath et.al.|[2409.20165v1](http://arxiv.org/abs/2409.20165v1)|null|
@@ -7060,7 +7080,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20241003>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241004>back to top</a>)</p>
 
 ## adaptor
 
@@ -7197,12 +7217,22 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20241003>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241004>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-02**|**3DGS-DET: Empower 3D Gaussian Splatting with Boundary Guidance and Box-Focused Sampling for 3D Object Detection**|Yang Cao et.al.|[2410.01647v1](http://arxiv.org/abs/2410.01647v1)|**[link](https://github.com/yangcaoai/3dgs-det)**|
+|**2024-10-02**|**Gaussian-Det: Learning Closed-Surface Gaussians for 3D Object Detection**|Hongru Yan et.al.|[2410.01404v1](http://arxiv.org/abs/2410.01404v1)|null|
+|**2024-10-02**|**Finetuning Pre-trained Model with Limited Data for LiDAR-based 3D Object Detection by Bridging Domain Gaps**|Jiyun Jang et.al.|[2410.01319v1](http://arxiv.org/abs/2410.01319v1)|null|
+|**2024-10-02**|**Panopticus: Omnidirectional 3D Object Detection on Resource-constrained Edge Devices**|Jeho Lee et.al.|[2410.01270v1](http://arxiv.org/abs/2410.01270v1)|null|
+|**2024-10-02**|**High and Low Resolution Tradeoffs in Roadside Multimodal Sensing**|Shaozu Ding et.al.|[2410.01250v1](http://arxiv.org/abs/2410.01250v1)|null|
+|**2024-10-02**|**Perceptual Piercing: Human Visual Cue-based Object Detection in Low Visibility Conditions**|Ashutosh Kumar et.al.|[2410.01225v1](http://arxiv.org/abs/2410.01225v1)|**[link](https://github.com/ashu1069/perceptual-piercing)**|
+|**2024-10-02**|**A versatile machine learning workflow for high-throughput analysis of supported metal catalyst particles**|Arda Genc et.al.|[2410.01213v1](http://arxiv.org/abs/2410.01213v1)|**[link](https://github.com/ardagen/stem-automated-nanoparticle-analysis-yolov8-sam)**|
+|**2024-10-01**|**Synthetic imagery for fuzzy object detection: A comparative study**|Siavash H. Khajavi et.al.|[2410.01124v1](http://arxiv.org/abs/2410.01124v1)|null|
+|**2024-10-01**|**Generating Seamless Virtual Immunohistochemical Whole Slide Images with Content and Color Consistency**|Sitong Liu et.al.|[2410.01072v1](http://arxiv.org/abs/2410.01072v1)|null|
+|**2024-10-01**|**ARPOV: Expanding Visualization of Object Detection in AR with Panoramic Mosaic Stitching**|Erin McGowan et.al.|[2410.01055v1](http://arxiv.org/abs/2410.01055v1)|null|
 |**2024-09-30**|**Accelerating Non-Maximum Suppression: A Graph Theory Perspective**|King-Siong Si et.al.|[2409.20520v1](http://arxiv.org/abs/2409.20520v1)|**[link](https://github.com/Yuri3-xr/NMS-Bench)**|
 |**2024-09-30**|**NUTRIVISION: A System for Automatic Diet Management in Smart Healthcare**|Madhumita Veeramreddy et.al.|[2409.20508v1](http://arxiv.org/abs/2409.20508v1)|null|
 |**2024-09-30**|**Navigating Threats: A Survey of Physical Adversarial Attacks on LiDAR Perception Systems in Autonomous Vehicles**|Amira Guesmi et.al.|[2409.20426v1](http://arxiv.org/abs/2409.20426v1)|null|
@@ -10264,7 +10294,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20241003>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241004>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
