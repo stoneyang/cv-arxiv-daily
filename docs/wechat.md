@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.10.04
+> Updated on 2024.10.05
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,16 @@
 
 ## pretrain
 
+- 2024-10-03, **CorPipe at CRAC 2024: Predicting Zero Mentions from Raw Text**, Milan Straka et.al., Paper: [http://arxiv.org/abs/2410.02756v1](http://arxiv.org/abs/2410.02756v1)
+- 2024-10-03, **Training Language Models on Synthetic Edit Sequences Improves Code Synthesis**, Ulyana Piterbarg et.al., Paper: [http://arxiv.org/abs/2410.02749v1](http://arxiv.org/abs/2410.02749v1)
+- 2024-10-03, **Neutral residues: revisiting adapters for model extension**, Franck Signe Talla et.al., Paper: [http://arxiv.org/abs/2410.02744v1](http://arxiv.org/abs/2410.02744v1)
+- 2024-10-03, **SuperGS: Super-Resolution 3D Gaussian Splatting via Latent Feature Field and Gradient-guided Splitting**, Shiyun Xie et.al., Paper: [http://arxiv.org/abs/2410.02571v1](http://arxiv.org/abs/2410.02571v1)
+- 2024-10-03, **A Foundation Model for the Solar Dynamics Observatory**, James Walsh et.al., Paper: [http://arxiv.org/abs/2410.02530v1](http://arxiv.org/abs/2410.02530v1)
+- 2024-10-03, **Learning the Latent Rules of a Game from Data: A Chess Story**, Ben Fauber et.al., Paper: [http://arxiv.org/abs/2410.02426v1](http://arxiv.org/abs/2410.02426v1)
+- 2024-10-03, **MenakBERT -- Hebrew Diacriticizer**, Ido Cohen et.al., Paper: [http://arxiv.org/abs/2410.02417v1](http://arxiv.org/abs/2410.02417v1)
+- 2024-10-03, **SynCo: Synthetic Hard Negatives in Contrastive Learning for Better Unsupervised Visual Representations**, Nikolaos Giakoumoglou et.al., Paper: [http://arxiv.org/abs/2410.02401v1](http://arxiv.org/abs/2410.02401v1), Code: **[https://github.com/giakoumoglou/synco](https://github.com/giakoumoglou/synco)**
+- 2024-10-03, **Parameter Competition Balancing for Model Merging**, Guodong Du et.al., Paper: [http://arxiv.org/abs/2410.02396v1](http://arxiv.org/abs/2410.02396v1), Code: **[https://github.com/duguodong7/pcb-merging](https://github.com/duguodong7/pcb-merging)**
+- 2024-10-03, **Unleashing the Potential of the Diffusion Model in Few-shot Semantic Segmentation**, Muzhi Zhu et.al., Paper: [http://arxiv.org/abs/2410.02369v1](http://arxiv.org/abs/2410.02369v1)
 - 2024-10-02, **Accessing Numerical Energy Hessians with Graph Neural Network Potentials and Their Application in Heterogeneous Catalysis**, Brook Wander et.al., Paper: [http://arxiv.org/abs/2410.01650v1](http://arxiv.org/abs/2410.01650v1)
 - 2024-10-02, **Does Graph Prompt Work? A Data Operation Perspective with Theoretical Analysis**, Qunzhong Wang et.al., Paper: [http://arxiv.org/abs/2410.01635v1](http://arxiv.org/abs/2410.01635v1)
 - 2024-10-02, **Saliency-Guided DETR for Moment Retrieval and Highlight Detection**, Aleksandr Gordeev et.al., Paper: [http://arxiv.org/abs/2410.01615v1](http://arxiv.org/abs/2410.01615v1), Code: **[https://github.com/ai-forever/sg-detr](https://github.com/ai-forever/sg-detr)**
@@ -3691,10 +3701,20 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20241004>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241005>back to top</a>)</p>
 
 ## downstream
 
+- 2024-10-03, **Contrastive Localized Language-Image Pre-Training**, Hong-You Chen et.al., Paper: [http://arxiv.org/abs/2410.02746v1](http://arxiv.org/abs/2410.02746v1)
+- 2024-10-03, **Intelligence at the Edge of Chaos**, Shiyang Zhang et.al., Paper: [http://arxiv.org/abs/2410.02536v1](http://arxiv.org/abs/2410.02536v1)
+- 2024-10-03, **Dynamic Gradient Alignment for Online Data Mixing**, Simin Fan et.al., Paper: [http://arxiv.org/abs/2410.02498v1](http://arxiv.org/abs/2410.02498v1)
+- 2024-10-03, **BiSSL: Bilevel Optimization for Self-Supervised Pre-Training and Fine-Tuning**, Gustav Wagner Zakarias et.al., Paper: [http://arxiv.org/abs/2410.02387v1](http://arxiv.org/abs/2410.02387v1)
+- 2024-10-03, **MetaMetrics: Calibrating Metrics For Generation Tasks Using Human Preferences**, Genta Indra Winata et.al., Paper: [http://arxiv.org/abs/2410.02381v1](http://arxiv.org/abs/2410.02381v1), Code: **[https://github.com/meta-metrics/metametrics](https://github.com/meta-metrics/metametrics)**
+- 2024-10-03, **EmbedLLM: Learning Compact Representations of Large Language Models**, Richard Zhuang et.al., Paper: [http://arxiv.org/abs/2410.02223v1](http://arxiv.org/abs/2410.02223v1)
+- 2024-10-03, **Hard Negative Sample Mining for Whole Slide Image Classification**, Wentao Huang et.al., Paper: [http://arxiv.org/abs/2410.02212v1](http://arxiv.org/abs/2410.02212v1), Code: **[https://github.com/winston52/hnm-wsi](https://github.com/winston52/hnm-wsi)**
+- 2024-10-03, **General Preference Modeling with Preference Representations for Aligning Language Models**, Yifan Zhang et.al., Paper: [http://arxiv.org/abs/2410.02197v1](http://arxiv.org/abs/2410.02197v1), Code: **[https://github.com/general-preference/general-preference-model](https://github.com/general-preference/general-preference-model)**
+- 2024-10-03, **POSIX: A Prompt Sensitivity Index For Large Language Models**, Anwoy Chatterjee et.al., Paper: [http://arxiv.org/abs/2410.02185v1](http://arxiv.org/abs/2410.02185v1), Code: **[https://github.com/kowndinya-renduchintala/posix](https://github.com/kowndinya-renduchintala/posix)**
+- 2024-10-03, **Plug-and-Play Controllable Generation for Discrete Masked Models**, Wei Guo et.al., Paper: [http://arxiv.org/abs/2410.02143v1](http://arxiv.org/abs/2410.02143v1)
 - 2024-10-02, **U-shaped and Inverted-U Scaling behind Emergent Abilities of Large Language Models**, Tung-Yu Wu et.al., Paper: [http://arxiv.org/abs/2410.01692v1](http://arxiv.org/abs/2410.01692v1)
 - 2024-10-02, **Does Graph Prompt Work? A Data Operation Perspective with Theoretical Analysis**, Qunzhong Wang et.al., Paper: [http://arxiv.org/abs/2410.01635v1](http://arxiv.org/abs/2410.01635v1)
 - 2024-10-02, **Verbalized Graph Representation Learning: A Fully Interpretable Graph Model Based on Large Language Models Throughout the Entire Process**, Xingyu Ji et.al., Paper: [http://arxiv.org/abs/2410.01457v1](http://arxiv.org/abs/2410.01457v1)
@@ -7072,10 +7092,11 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20241004>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241005>back to top</a>)</p>
 
 ## adaptor
 
+- 2024-10-03, **SteerDiff: Steering towards Safe Text-to-Image Diffusion Models**, Hongxiang Zhang et.al., Paper: [http://arxiv.org/abs/2410.02710v1](http://arxiv.org/abs/2410.02710v1)
 - 2024-09-26, **LLM4Brain: Training a Large Language Model for Brain Video Understanding**, Ruizhe Zheng et.al., Paper: [http://arxiv.org/abs/2409.17987v1](http://arxiv.org/abs/2409.17987v1)
 - 2024-09-26, **Global-Local Medical SAM Adaptor Based on Full Adaption**, Meng Wang et.al., Paper: [http://arxiv.org/abs/2409.17486v1](http://arxiv.org/abs/2409.17486v1)
 - 2024-09-24, **Boosting Code-Switching ASR with Mixture of Experts Enhanced Speech-Conditioned LLM**, Fengrun Zhang et.al., Paper: [http://arxiv.org/abs/2409.15905v1](http://arxiv.org/abs/2409.15905v1)
@@ -7207,10 +7228,12 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20241004>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241005>back to top</a>)</p>
 
 ## object detection
 
+- 2024-10-03, **Learning 3D Perception from Others' Predictions**, Jinsu Yoo et.al., Paper: [http://arxiv.org/abs/2410.02646v1](http://arxiv.org/abs/2410.02646v1)
+- 2024-10-02, **Enhancing Screen Time Identification in Children with a Multi-View Vision Language Model and Screen Time Tracker**, Xinlong Hou et.al., Paper: [http://arxiv.org/abs/2410.01966v1](http://arxiv.org/abs/2410.01966v1)
 - 2024-10-02, **3DGS-DET: Empower 3D Gaussian Splatting with Boundary Guidance and Box-Focused Sampling for 3D Object Detection**, Yang Cao et.al., Paper: [http://arxiv.org/abs/2410.01647v1](http://arxiv.org/abs/2410.01647v1), Code: **[https://github.com/yangcaoai/3dgs-det](https://github.com/yangcaoai/3dgs-det)**
 - 2024-10-02, **Gaussian-Det: Learning Closed-Surface Gaussians for 3D Object Detection**, Hongru Yan et.al., Paper: [http://arxiv.org/abs/2410.01404v1](http://arxiv.org/abs/2410.01404v1)
 - 2024-10-02, **Finetuning Pre-trained Model with Limited Data for LiDAR-based 3D Object Detection by Bridging Domain Gaps**, Jiyun Jang et.al., Paper: [http://arxiv.org/abs/2410.01319v1](http://arxiv.org/abs/2410.01319v1)
@@ -10282,7 +10305,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20241004>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241005>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
