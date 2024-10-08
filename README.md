@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.07
+## Updated on 2024.10.08
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-04**|**VEDIT: Latent Prediction Architecture For Procedural Video Representation Learning**|Han Lin et.al.|[2410.03478v1](http://arxiv.org/abs/2410.03478v1)|null|
+|**2024-10-04**|**Zebra: In-Context and Generative Pretraining for Solving Parametric PDEs**|Louis Serrano et.al.|[2410.03437v1](http://arxiv.org/abs/2410.03437v1)|null|
+|**2024-10-04**|**Adaptive BPE Tokenization for Enhanced Vocabulary Adaptation in Finetuning Pretrained Language Models**|Gunjan Balde et.al.|[2410.03258v1](http://arxiv.org/abs/2410.03258v1)|**[link](https://github.com/gb-kgp/adaptbpe)**|
+|**2024-10-04**|**Investigating and Mitigating Object Hallucinations in Pretrained Vision-Language (CLIP) Models**|Yufang Liu et.al.|[2410.03176v1](http://arxiv.org/abs/2410.03176v1)|**[link](https://github.com/yufang-liu/clip_hallucination)**|
+|**2024-10-04**|**Scaling Parameter-Constrained Language Models with Quality Data**|Ernie Chang et.al.|[2410.03083v1](http://arxiv.org/abs/2410.03083v1)|null|
+|**2024-10-03**|**Revealing the Unseen: Guiding Personalized Diffusion Models to Expose Training Data**|Xiaoyu Wu et.al.|[2410.03039v1](http://arxiv.org/abs/2410.03039v1)|null|
 |**2024-10-03**|**CorPipe at CRAC 2024: Predicting Zero Mentions from Raw Text**|Milan Straka et.al.|[2410.02756v1](http://arxiv.org/abs/2410.02756v1)|null|
 |**2024-10-03**|**Training Language Models on Synthetic Edit Sequences Improves Code Synthesis**|Ulyana Piterbarg et.al.|[2410.02749v1](http://arxiv.org/abs/2410.02749v1)|null|
 |**2024-10-03**|**Neutral residues: revisiting adapters for model extension**|Franck Signe Talla et.al.|[2410.02744v1](http://arxiv.org/abs/2410.02744v1)|null|
@@ -3703,12 +3709,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241007>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241008>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-04**|**Multi-Dialect Vietnamese: Task, Dataset, Baseline Models and Challenges**|Nguyen Van Dinh et.al.|[2410.03458v1](http://arxiv.org/abs/2410.03458v1)|null|
+|**2024-10-04**|**A General Framework for Producing Interpretable Semantic Text Embeddings**|Yiqun Sun et.al.|[2410.03435v1](http://arxiv.org/abs/2410.03435v1)|null|
+|**2024-10-04**|**GraphCroc: Cross-Correlation Autoencoder for Graph Structural Reconstruction**|Shijin Duan et.al.|[2410.03396v1](http://arxiv.org/abs/2410.03396v1)|**[link](https://github.com/sjduan/graphcroc)**|
+|**2024-10-04**|**CUDLE: Learning Under Label Scarcity to Detect Cannabis Use in Uncontrolled Environments**|Reza Rahimi Azghan et.al.|[2410.03211v1](http://arxiv.org/abs/2410.03211v1)|null|
+|**2024-10-04**|**Generalizable Prompt Tuning for Vision-Language Models**|Qian Zhang et.al.|[2410.03189v1](http://arxiv.org/abs/2410.03189v1)|null|
+|**2024-10-04**|**On Unsupervised Prompt Learning for Classification with Black-box Language Models**|Zhen-Yu Zhang et.al.|[2410.03124v1](http://arxiv.org/abs/2410.03124v1)|null|
+|**2024-10-03**|**Disentangling Textual and Acoustic Features of Neural Speech Representations**|Hosein Mohebbi et.al.|[2410.03037v1](http://arxiv.org/abs/2410.03037v1)|null|
+|**2024-10-03**|**Characterizing Context Influence and Hallucination in Summarization**|James Flemings et.al.|[2410.03026v1](http://arxiv.org/abs/2410.03026v1)|**[link](https://github.com/james-flemings/context_influence)**|
+|**2024-10-03**|**MMP: Towards Robust Multi-Modal Learning with Masked Modality Projection**|Niki Nezakati et.al.|[2410.03010v1](http://arxiv.org/abs/2410.03010v1)|null|
+|**2024-10-03**|**AutoML-Agent: A Multi-Agent LLM Framework for Full-Pipeline AutoML**|Patara Trirat et.al.|[2410.02958v1](http://arxiv.org/abs/2410.02958v1)|null|
 |**2024-10-03**|**Contrastive Localized Language-Image Pre-Training**|Hong-You Chen et.al.|[2410.02746v1](http://arxiv.org/abs/2410.02746v1)|null|
 |**2024-10-03**|**Intelligence at the Edge of Chaos**|Shiyang Zhang et.al.|[2410.02536v1](http://arxiv.org/abs/2410.02536v1)|null|
 |**2024-10-03**|**Dynamic Gradient Alignment for Online Data Mixing**|Simin Fan et.al.|[2410.02498v1](http://arxiv.org/abs/2410.02498v1)|null|
@@ -7096,12 +7112,13 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20241007>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241008>back to top</a>)</p>
 
 ## adaptor
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-04**|**Collaborative and Efficient Personalization with Mixtures of Adaptors**|Abdulla Jasem Almansoori et.al.|[2410.03497v1](http://arxiv.org/abs/2410.03497v1)|null|
 |**2024-10-03**|**SteerDiff: Steering towards Safe Text-to-Image Diffusion Models**|Hongxiang Zhang et.al.|[2410.02710v1](http://arxiv.org/abs/2410.02710v1)|null|
 |**2024-09-26**|**LLM4Brain: Training a Large Language Model for Brain Video Understanding**|Ruizhe Zheng et.al.|[2409.17987v1](http://arxiv.org/abs/2409.17987v1)|null|
 |**2024-09-26**|**Global-Local Medical SAM Adaptor Based on Full Adaption**|Meng Wang et.al.|[2409.17486v1](http://arxiv.org/abs/2409.17486v1)|null|
@@ -7234,13 +7251,14 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20241007>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241008>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-10-03**|**Learning 3D Perception from Others' Predictions**|Jinsu Yoo et.al.|[2410.02646v1](http://arxiv.org/abs/2410.02646v1)|null|
+|**2024-10-04**|**DRAFTS: A Deep Learning-Based Radio Fast Transient Search Pipeline**|Yong-Kun Zhang et.al.|[2410.03200v1](http://arxiv.org/abs/2410.03200v1)|null|
+|**2024-10-04**|**Learning 3D Perception from Others' Predictions**|Jinsu Yoo et.al.|[2410.02646v2](http://arxiv.org/abs/2410.02646v2)|null|
 |**2024-10-02**|**Enhancing Screen Time Identification in Children with a Multi-View Vision Language Model and Screen Time Tracker**|Xinlong Hou et.al.|[2410.01966v1](http://arxiv.org/abs/2410.01966v1)|null|
 |**2024-10-02**|**3DGS-DET: Empower 3D Gaussian Splatting with Boundary Guidance and Box-Focused Sampling for 3D Object Detection**|Yang Cao et.al.|[2410.01647v1](http://arxiv.org/abs/2410.01647v1)|**[link](https://github.com/yangcaoai/3dgs-det)**|
 |**2024-10-02**|**Gaussian-Det: Learning Closed-Surface Gaussians for 3D Object Detection**|Hongru Yan et.al.|[2410.01404v1](http://arxiv.org/abs/2410.01404v1)|null|
@@ -10313,7 +10331,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20241007>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241008>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
