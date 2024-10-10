@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.10.09
+> Updated on 2024.10.10
 
 <details>
   <summary>Table of Contents</summary>
@@ -21,12 +21,12 @@
 - 2024-10-07, **Understanding Warmup-Stable-Decay Learning Rates: A River Valley Loss Landscape Perspective**, Kaiyue Wen et.al., Paper: [http://arxiv.org/abs/2410.05192v1](http://arxiv.org/abs/2410.05192v1)
 - 2024-10-07, **Human-Feedback Efficient Reinforcement Learning for Online Diffusion Model Finetuning**, Ayano Hiranaka et.al., Paper: [http://arxiv.org/abs/2410.05116v1](http://arxiv.org/abs/2410.05116v1)
 - 2024-10-07, **DreamSat: Towards a General 3D Model for Novel View Synthesis of Space Objects**, Nidhi Mathihalli et.al., Paper: [http://arxiv.org/abs/2410.05097v1](http://arxiv.org/abs/2410.05097v1), Code: **[https://github.com/arclab-mit/space-nvs](https://github.com/arclab-mit/space-nvs)**
-- 2024-10-07, **Control-oriented Clustering of Visual Latent Representation**, Han Qi et.al., Paper: [http://arxiv.org/abs/2410.05063v1](http://arxiv.org/abs/2410.05063v1)
+- 2024-10-08, **Control-oriented Clustering of Visual Latent Representation**, Han Qi et.al., Paper: [http://arxiv.org/abs/2410.05063v2](http://arxiv.org/abs/2410.05063v2)
 - 2024-10-07, **SELECT: A Large-Scale Benchmark of Data Curation Strategies for Image Classification**, Benjamin Feuer et.al., Paper: [http://arxiv.org/abs/2410.05057v1](http://arxiv.org/abs/2410.05057v1), Code: **[https://github.com/jimmyxu123/select](https://github.com/jimmyxu123/select)**
-- 2024-10-07, **Detecting and Approximating Redundant Computational Blocks in Neural Networks**, Irene Cannistraci et.al., Paper: [http://arxiv.org/abs/2410.04941v1](http://arxiv.org/abs/2410.04941v1)
+- 2024-10-08, **Detecting and Approximating Redundant Computational Blocks in Neural Networks**, Irene Cannistraci et.al., Paper: [http://arxiv.org/abs/2410.04941v2](http://arxiv.org/abs/2410.04941v2)
 - 2024-10-07, **FedBiP: Heterogeneous One-Shot Federated Learning with Personalized Latent Diffusion Models**, Haokun Chen et.al., Paper: [http://arxiv.org/abs/2410.04810v1](http://arxiv.org/abs/2410.04810v1)
 - 2024-10-07, **Improving Image Clustering with Artifacts Attenuation via Inference-Time Attention Engineering**, Kazumoto Nakamura et.al., Paper: [http://arxiv.org/abs/2410.04801v1](http://arxiv.org/abs/2410.04801v1)
-- 2024-10-07, **Formality is Favored: Unraveling the Learning Preferences of Large Language Models on Data with Conflicting Knowledge**, Jiahuan Li et.al., Paper: [http://arxiv.org/abs/2410.04784v1](http://arxiv.org/abs/2410.04784v1)
+- 2024-10-07, **Formality is Favored: Unraveling the Learning Preferences of Large Language Models on Data with Conflicting Knowledge**, Jiahuan Li et.al., Paper: [http://arxiv.org/abs/2410.04784v1](http://arxiv.org/abs/2410.04784v1), Code: **[https://github.com/CaoYiqingT/Formality-is-Favored](https://github.com/CaoYiqingT/Formality-is-Favored)**
 - 2024-10-04, **VEDIT: Latent Prediction Architecture For Procedural Video Representation Learning**, Han Lin et.al., Paper: [http://arxiv.org/abs/2410.03478v1](http://arxiv.org/abs/2410.03478v1)
 - 2024-10-04, **Zebra: In-Context and Generative Pretraining for Solving Parametric PDEs**, Louis Serrano et.al., Paper: [http://arxiv.org/abs/2410.03437v1](http://arxiv.org/abs/2410.03437v1)
 - 2024-10-04, **Adaptive BPE Tokenization for Enhanced Vocabulary Adaptation in Finetuning Pretrained Language Models**, Gunjan Balde et.al., Paper: [http://arxiv.org/abs/2410.03258v1](http://arxiv.org/abs/2410.03258v1), Code: **[https://github.com/gb-kgp/adaptbpe](https://github.com/gb-kgp/adaptbpe)**
@@ -3717,19 +3717,19 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20241009>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241010>back to top</a>)</p>
 
 ## downstream
 
 - 2024-10-07, **Cookbook: A framework for improving LLM generative abilities via programmatic data generating templates**, Avanika Narayan et.al., Paper: [http://arxiv.org/abs/2410.05224v1](http://arxiv.org/abs/2410.05224v1)
 - 2024-10-07, **VLM2Vec: Training Vision-Language Models for Massive Multimodal Embedding Tasks**, Ziyan Jiang et.al., Paper: [http://arxiv.org/abs/2410.05160v1](http://arxiv.org/abs/2410.05160v1)
-- 2024-10-07, **T-JEPA: Augmentation-Free Self-Supervised Learning for Tabular Data**, Hugo Thimonier et.al., Paper: [http://arxiv.org/abs/2410.05016v1](http://arxiv.org/abs/2410.05016v1)
-- 2024-10-07, **Failure-Proof Non-Contrastive Self-Supervised Learning**, Emanuele Sansone et.al., Paper: [http://arxiv.org/abs/2410.04959v1](http://arxiv.org/abs/2410.04959v1)
+- 2024-10-07, **T-JEPA: Augmentation-Free Self-Supervised Learning for Tabular Data**, Hugo Thimonier et.al., Paper: [http://arxiv.org/abs/2410.05016v1](http://arxiv.org/abs/2410.05016v1), Code: **[https://github.com/jose-melo/t-jepa](https://github.com/jose-melo/t-jepa)**
+- 2024-10-08, **Failure-Proof Non-Contrastive Self-Supervised Learning**, Emanuele Sansone et.al., Paper: [http://arxiv.org/abs/2410.04959v2](http://arxiv.org/abs/2410.04959v2)
 - 2024-10-07, **FELLAS: Enhancing Federated Sequential Recommendation with LLM as External Services**, Wei Yuan et.al., Paper: [http://arxiv.org/abs/2410.04927v1](http://arxiv.org/abs/2410.04927v1)
-- 2024-10-07, **Leveraging Grammar Induction for Language Understanding and Generation**, Jushi Kai et.al., Paper: [http://arxiv.org/abs/2410.04878v1](http://arxiv.org/abs/2410.04878v1)
+- 2024-10-07, **Leveraging Grammar Induction for Language Understanding and Generation**, Jushi Kai et.al., Paper: [http://arxiv.org/abs/2410.04878v1](http://arxiv.org/abs/2410.04878v1), Code: **[https://github.com/LUMIA-Group/Leveraging-Grammar-Induction](https://github.com/LUMIA-Group/Leveraging-Grammar-Induction)**
 - 2024-10-07, **LPZero: Language Model Zero-cost Proxy Search from Zero**, Peijie Dong et.al., Paper: [http://arxiv.org/abs/2410.04808v1](http://arxiv.org/abs/2410.04808v1)
 - 2024-10-07, **Rule-based Data Selection for Large Language Models**, Xiaomin Li et.al., Paper: [http://arxiv.org/abs/2410.04715v1](http://arxiv.org/abs/2410.04715v1)
-- 2024-10-06, **MC-CoT: A Modular Collaborative CoT Framework for Zero-shot Medical-VQA with LLM and MLLM Integration**, Lai Wei et.al., Paper: [http://arxiv.org/abs/2410.04521v1](http://arxiv.org/abs/2410.04521v1)
+- 2024-10-06, **MC-CoT: A Modular Collaborative CoT Framework for Zero-shot Medical-VQA with LLM and MLLM Integration**, Lai Wei et.al., Paper: [http://arxiv.org/abs/2410.04521v1](http://arxiv.org/abs/2410.04521v1), Code: **[https://github.com/thomaswei-cn/MC-CoT](https://github.com/thomaswei-cn/MC-CoT)**
 - 2024-10-06, **Realizing Video Summarization from the Path of Language-based Semantic Understanding**, Kuan-Chen Mu et.al., Paper: [http://arxiv.org/abs/2410.04511v1](http://arxiv.org/abs/2410.04511v1)
 - 2024-10-04, **Multi-Dialect Vietnamese: Task, Dataset, Baseline Models and Challenges**, Nguyen Van Dinh et.al., Paper: [http://arxiv.org/abs/2410.03458v1](http://arxiv.org/abs/2410.03458v1)
 - 2024-10-04, **A General Framework for Producing Interpretable Semantic Text Embeddings**, Yiqun Sun et.al., Paper: [http://arxiv.org/abs/2410.03435v1](http://arxiv.org/abs/2410.03435v1)
@@ -7128,7 +7128,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20241009>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241010>back to top</a>)</p>
 
 ## adaptor
 
@@ -7265,7 +7265,7 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20241009>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241010>back to top</a>)</p>
 
 ## object detection
 
@@ -7273,7 +7273,7 @@
 - 2024-10-07, **Human-in-the-loop Reasoning For Traffic Sign Detection: Collaborative Approach Yolo With Video-llava**, Mehdi Azarafza et.al., Paper: [http://arxiv.org/abs/2410.05096v1](http://arxiv.org/abs/2410.05096v1)
 - 2024-10-07, **Improving Object Detection via Local-global Contrastive Learning**, Danai Triantafyllidou et.al., Paper: [http://arxiv.org/abs/2410.05058v1](http://arxiv.org/abs/2410.05058v1)
 - 2024-10-07, **Improved detection of discarded fish species through BoxAL active learning**, Maria Sokolova et.al., Paper: [http://arxiv.org/abs/2410.04880v1](http://arxiv.org/abs/2410.04880v1), Code: **[https://github.com/pieterblok/boxal](https://github.com/pieterblok/boxal)**
-- 2024-10-06, **Learning De-Biased Representations for Remote-Sensing Imagery**, Zichen Tian et.al., Paper: [http://arxiv.org/abs/2410.04546v1](http://arxiv.org/abs/2410.04546v1)
+- 2024-10-06, **Learning De-Biased Representations for Remote-Sensing Imagery**, Zichen Tian et.al., Paper: [http://arxiv.org/abs/2410.04546v1](http://arxiv.org/abs/2410.04546v1), Code: **[https://github.com/doem97/deblora](https://github.com/doem97/deblora)**
 - 2024-10-05, **ETHcavation: A Dataset and Pipeline for Panoptic Scene Understanding and Object Tracking in Dynamic Construction Environments**, Lorenzo Terenzi et.al., Paper: [http://arxiv.org/abs/2410.04250v1](http://arxiv.org/abs/2410.04250v1)
 - 2024-10-05, **Fast Object Detection with a Machine Learning Edge Device**, Richard C. Rodriguez et.al., Paper: [http://arxiv.org/abs/2410.04173v1](http://arxiv.org/abs/2410.04173v1)
 - 2024-10-05, **Robust Task-Oriented Communication Framework for Real-Time Collaborative Vision Perception**, Zhengru Fang et.al., Paper: [http://arxiv.org/abs/2410.04168v1](http://arxiv.org/abs/2410.04168v1)
@@ -10353,7 +10353,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20241009>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241010>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
