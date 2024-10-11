@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.10
+## Updated on 2024.10.11
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-09**|**LaMP: Language-Motion Pretraining for Motion Generation, Retrieval, and Captioning**|Zhe Li et.al.|[2410.07093v1](http://arxiv.org/abs/2410.07093v1)|null|
+|**2024-10-09**|**Representation Alignment for Generation: Training Diffusion Transformers Is Easier Than You Think**|Sihyun Yu et.al.|[2410.06940v1](http://arxiv.org/abs/2410.06940v1)|null|
+|**2024-10-09**|**Generative Model for Less-Resourced Language with 1 billion parameters**|Domen Vreš et.al.|[2410.06898v1](http://arxiv.org/abs/2410.06898v1)|null|
+|**2024-10-09**|**Joint Fine-tuning and Conversion of Pretrained Speech and Language Models towards Linear Complexity**|Mutian He et.al.|[2410.06846v1](http://arxiv.org/abs/2410.06846v1)|null|
+|**2024-10-09**|**K-SAM: A Prompting Method Using Pretrained U-Net to Improve Zero Shot Performance of SAM on Lung Segmentation in CXR Images**|Mohamed Deriche et.al.|[2410.06825v1](http://arxiv.org/abs/2410.06825v1)|null|
+|**2024-10-09**|**Diffuse or Confuse: A Diffusion Deepfake Speech Dataset**|Anton Firc et.al.|[2410.06796v1](http://arxiv.org/abs/2410.06796v1)|null|
+|**2024-10-09**|**PII-Scope: A Benchmark for Training Data PII Leakage Assessment in LLMs**|Krishna Kanth Nakka et.al.|[2410.06704v1](http://arxiv.org/abs/2410.06704v1)|null|
+|**2024-10-09**|**Decouple-Then-Merge: Towards Better Training for Diffusion Models**|Qianli Ma et.al.|[2410.06664v1](http://arxiv.org/abs/2410.06664v1)|null|
+|**2024-10-09**|**Open-RGBT: Open-vocabulary RGB-T Zero-shot Semantic Segmentation in Open-world Environments**|Meng Yu et.al.|[2410.06626v1](http://arxiv.org/abs/2410.06626v1)|null|
+|**2024-10-10**|**Deep Correlated Prompting for Visual Recognition with Missing Modalities**|Lianyu Hu et.al.|[2410.06558v2](http://arxiv.org/abs/2410.06558v2)|null|
 |**2024-10-07**|**Fine-Tuning CLIP's Last Visual Projector: A Few-Shot Cornucopia**|Mohammad Fahes et.al.|[2410.05270v1](http://arxiv.org/abs/2410.05270v1)|**[link](https://github.com/astra-vision/prolip)**|
 |**2024-10-07**|**Understanding Warmup-Stable-Decay Learning Rates: A River Valley Loss Landscape Perspective**|Kaiyue Wen et.al.|[2410.05192v1](http://arxiv.org/abs/2410.05192v1)|null|
 |**2024-10-07**|**Human-Feedback Efficient Reinforcement Learning for Online Diffusion Model Finetuning**|Ayano Hiranaka et.al.|[2410.05116v1](http://arxiv.org/abs/2410.05116v1)|null|
@@ -3723,12 +3733,22 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241010>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241011>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-09**|**One Initialization to Rule them All: Fine-tuning via Explained Variance Adaptation**|Fabian Paischer et.al.|[2410.07170v1](http://arxiv.org/abs/2410.07170v1)|null|
+|**2024-10-10**|**EvolveDirector: Approaching Advanced Text-to-Image Generation with Large Vision-Language Models**|Rui Zhao et.al.|[2410.07133v2](http://arxiv.org/abs/2410.07133v2)|**[link](https://github.com/showlab/evolvedirector)**|
+|**2024-10-09**|**Data Selection via Optimal Control for Language Models**|Yuxian Gu et.al.|[2410.07064v1](http://arxiv.org/abs/2410.07064v1)|**[link](https://github.com/microsoft/lmops)**|
+|**2024-10-09**|**Efficient Distribution Matching of Representations via Noise-Injected Deep InfoMax**|Ivan Butakov et.al.|[2410.06993v1](http://arxiv.org/abs/2410.06993v1)|null|
+|**2024-10-09**|**SWIFT: On-the-Fly Self-Speculative Decoding for LLM Inference Acceleration**|Heming Xia et.al.|[2410.06916v1](http://arxiv.org/abs/2410.06916v1)|null|
+|**2024-10-09**|**Boosting Few-Shot Detection with Large Language Models and Layout-to-Image Synthesis**|Ahmed Abdullah et.al.|[2410.06841v1](http://arxiv.org/abs/2410.06841v1)|null|
+|**2024-10-09**|**Evaluating Computational Pathology Foundation Models for Prostate Cancer Grading under Distribution Shifts**|Fredrik K. Gustafsson et.al.|[2410.06723v1](http://arxiv.org/abs/2410.06723v1)|null|
+|**2024-10-09**|**Scaling Laws for Mixed quantization in Large Language Models**|Zeyu Cao et.al.|[2410.06722v1](http://arxiv.org/abs/2410.06722v1)|null|
+|**2024-10-10**|**Task-oriented Time Series Imputation Evaluation via Generalized Representers**|Zhixian Wang et.al.|[2410.06652v2](http://arxiv.org/abs/2410.06652v2)|null|
+|**2024-10-09**|**QuadBEV: An Efficient Quadruple-Task Perception Framework via Bird's-Eye-View Representation**|Yuxin Li et.al.|[2410.06516v1](http://arxiv.org/abs/2410.06516v1)|null|
 |**2024-10-07**|**Cookbook: A framework for improving LLM generative abilities via programmatic data generating templates**|Avanika Narayan et.al.|[2410.05224v1](http://arxiv.org/abs/2410.05224v1)|null|
 |**2024-10-07**|**VLM2Vec: Training Vision-Language Models for Massive Multimodal Embedding Tasks**|Ziyan Jiang et.al.|[2410.05160v1](http://arxiv.org/abs/2410.05160v1)|null|
 |**2024-10-07**|**T-JEPA: Augmentation-Free Self-Supervised Learning for Tabular Data**|Hugo Thimonier et.al.|[2410.05016v1](http://arxiv.org/abs/2410.05016v1)|**[link](https://github.com/jose-melo/t-jepa)**|
@@ -7136,7 +7156,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20241010>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241011>back to top</a>)</p>
 
 ## adaptor
 
@@ -7275,12 +7295,22 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20241010>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241011>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-09**|**SurANet: Surrounding-Aware Network for Concealed Object Detection via Highly-Efficient Interactive Contrastive Learning Strategy**|Yuhan Kang et.al.|[2410.06842v1](http://arxiv.org/abs/2410.06842v1)|**[link](https://github.com/kyh433/suranet)**|
+|**2024-10-09**|**Rethinking the Evaluation of Visible and Infrared Image Fusion**|Dayan Guan et.al.|[2410.06811v1](http://arxiv.org/abs/2410.06811v1)|**[link](https://github.com/yixuan-2002/sea)**|
+|**2024-10-10**|**QuadMamba: Learning Quadtree-based Selective Scan for Visual State Space Model**|Fei Xie et.al.|[2410.06806v2](http://arxiv.org/abs/2410.06806v2)|null|
+|**2024-10-09**|**QuadBEV: An Efficient Quadruple-Task Perception Framework via Bird's-Eye-View Representation**|Yuxin Li et.al.|[2410.06516v1](http://arxiv.org/abs/2410.06516v1)|null|
+|**2024-10-08**|**Adver-City: Open-Source Multi-Modal Dataset for Collaborative Perception Under Adverse Weather Conditions**|Mateus Karvat et.al.|[2410.06380v1](http://arxiv.org/abs/2410.06380v1)|null|
+|**2024-10-08**|**Toward Scalable Image Feature Compression: A Content-Adaptive and Diffusion-Based Approach**|Sha Guo et.al.|[2410.06149v1](http://arxiv.org/abs/2410.06149v1)|null|
+|**2024-10-08**|**Training-Free Open-Ended Object Detection and Segmentation via Attention as Prompts**|Zhiwei Lin et.al.|[2410.05963v1](http://arxiv.org/abs/2410.05963v1)|null|
+|**2024-10-08**|**Learning Gaussian Data Augmentation in Feature Space for One-shot Object Detection in Manga**|Takara Taniguchi et.al.|[2410.05935v1](http://arxiv.org/abs/2410.05935v1)|null|
+|**2024-10-08**|**Unobserved Object Detection using Generative Models**|Subhransu S. Bhattacharjee et.al.|[2410.05869v1](http://arxiv.org/abs/2410.05869v1)|null|
+|**2024-10-08**|**CASA: Class-Agnostic Shared Attributes in Vision-Language Models for Efficient Incremental Object Detection**|Mingyi Guo et.al.|[2410.05804v1](http://arxiv.org/abs/2410.05804v1)|null|
 |**2024-10-07**|**Real-Time Truly-Coupled Lidar-Inertial Motion Correction and Spatiotemporal Dynamic Object Detection**|Cedric Le Gentil et.al.|[2410.05152v1](http://arxiv.org/abs/2410.05152v1)|null|
 |**2024-10-07**|**Human-in-the-loop Reasoning For Traffic Sign Detection: Collaborative Approach Yolo With Video-llava**|Mehdi Azarafza et.al.|[2410.05096v1](http://arxiv.org/abs/2410.05096v1)|null|
 |**2024-10-07**|**Improving Object Detection via Local-global Contrastive Learning**|Danai Triantafyllidou et.al.|[2410.05058v1](http://arxiv.org/abs/2410.05058v1)|null|
@@ -10365,7 +10395,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20241010>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241011>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
