@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.10.13
+> Updated on 2024.10.14
 
 <details>
   <summary>Table of Contents</summary>
@@ -22,10 +22,10 @@
 - 2024-10-10, **Scaling Laws For Diffusion Transformers**, Zhengyang Liang et.al., Paper: [http://arxiv.org/abs/2410.08184v1](http://arxiv.org/abs/2410.08184v1)
 - 2024-10-10, **Multi-Agent Collaborative Data Selection for Efficient LLM Pretraining**, Tianyi Bai et.al., Paper: [http://arxiv.org/abs/2410.08102v1](http://arxiv.org/abs/2410.08102v1)
 - 2024-10-10, **Reversible Decoupling Network for Single Image Reflection Removal**, Hao Zhao et.al., Paper: [http://arxiv.org/abs/2410.08063v1](http://arxiv.org/abs/2410.08063v1), Code: **[https://github.com/lime-j/RDNet](https://github.com/lime-j/RDNet)**
-- 2024-10-10, **Pretraining Graph Transformers with Atom-in-a-Molecule Quantum Properties for Improved ADMET Modeling**, Alessio Fallani et.al., Paper: [http://arxiv.org/abs/2410.08024v1](http://arxiv.org/abs/2410.08024v1)
+- 2024-10-10, **Pretraining Graph Transformers with Atom-in-a-Molecule Quantum Properties for Improved ADMET Modeling**, Alessio Fallani et.al., Paper: [http://arxiv.org/abs/2410.08024v1](http://arxiv.org/abs/2410.08024v1), Code: **[https://github.com/aidd-msca/GraphQPT](https://github.com/aidd-msca/GraphQPT)**
 - 2024-10-10, **Non-transferable Pruning**, Ruyi Ding et.al., Paper: [http://arxiv.org/abs/2410.08015v1](http://arxiv.org/abs/2410.08015v1)
 - 2024-10-10, **RegionGrasp: A Novel Task for Contact Region Controllable Hand Grasp Generation**, Yilin Wang et.al., Paper: [http://arxiv.org/abs/2410.07995v1](http://arxiv.org/abs/2410.07995v1)
-- 2024-10-10, **MinorityPrompt: Text to Minority Image Generation via Prompt Optimization**, Soobin Um et.al., Paper: [http://arxiv.org/abs/2410.07838v1](http://arxiv.org/abs/2410.07838v1)
+- 2024-10-10, **MinorityPrompt: Text to Minority Image Generation via Prompt Optimization**, Soobin Um et.al., Paper: [http://arxiv.org/abs/2410.07838v1](http://arxiv.org/abs/2410.07838v1), Code: **[https://github.com/anonymous-6898/MinorityPrompt](https://github.com/anonymous-6898/MinorityPrompt)**
 - 2024-10-10, **NusaMT-7B: Machine Translation for Low-Resource Indonesian Languages with Large Language Models**, William Tan et.al., Paper: [http://arxiv.org/abs/2410.07830v1](http://arxiv.org/abs/2410.07830v1)
 - 2024-10-09, **LaMP: Language-Motion Pretraining for Motion Generation, Retrieval, and Captioning**, Zhe Li et.al., Paper: [http://arxiv.org/abs/2410.07093v1](http://arxiv.org/abs/2410.07093v1)
 - 2024-10-09, **Representation Alignment for Generation: Training Diffusion Transformers Is Easier Than You Think**, Sihyun Yu et.al., Paper: [http://arxiv.org/abs/2410.06940v1](http://arxiv.org/abs/2410.06940v1)
@@ -3737,7 +3737,7 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20241013>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241014>back to top</a>)</p>
 
 ## downstream
 
@@ -7168,7 +7168,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20241013>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241014>back to top</a>)</p>
 
 ## adaptor
 
@@ -7305,7 +7305,7 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20241013>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241014>back to top</a>)</p>
 
 ## object detection
 
@@ -7314,7 +7314,7 @@
 - 2024-10-10, **HeightFormer: A Semantic Alignment Monocular 3D Object Detection Method from Roadside Perspective**, Pei Liu et.al., Paper: [http://arxiv.org/abs/2410.07758v1](http://arxiv.org/abs/2410.07758v1)
 - 2024-10-10, **O1O: Grouping of Known Classes to Identify Unknown Objects as Odd-One-Out**, Mısra Yavuz et.al., Paper: [http://arxiv.org/abs/2410.07514v1](http://arxiv.org/abs/2410.07514v1)
 - 2024-10-09, **Progressive Multi-Modal Fusion for Robust 3D Object Detection**, Rohit Mohan et.al., Paper: [http://arxiv.org/abs/2410.07475v1](http://arxiv.org/abs/2410.07475v1)
-- 2024-10-09, **Self-Supervised Learning for Real-World Object Detection: a Survey**, Alina Ciocarlan et.al., Paper: [http://arxiv.org/abs/2410.07442v1](http://arxiv.org/abs/2410.07442v1)
+- 2024-10-11, **Self-Supervised Learning for Real-World Object Detection: a Survey**, Alina Ciocarlan et.al., Paper: [http://arxiv.org/abs/2410.07442v2](http://arxiv.org/abs/2410.07442v2)
 - 2024-10-09, **Robust infrared small target detection using self-supervised and a contrario paradigms**, Alina Ciocarlan et.al., Paper: [http://arxiv.org/abs/2410.07437v1](http://arxiv.org/abs/2410.07437v1)
 - 2024-10-09, **Structured Spatial Reasoning with Open Vocabulary Object Detectors**, Negar Nejatishahidin et.al., Paper: [http://arxiv.org/abs/2410.07394v1](http://arxiv.org/abs/2410.07394v1)
 - 2024-10-09, **SurANet: Surrounding-Aware Network for Concealed Object Detection via Highly-Efficient Interactive Contrastive Learning Strategy**, Yuhan Kang et.al., Paper: [http://arxiv.org/abs/2410.06842v1](http://arxiv.org/abs/2410.06842v1), Code: **[https://github.com/kyh433/suranet](https://github.com/kyh433/suranet)**
@@ -10411,7 +10411,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20241013>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241014>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
