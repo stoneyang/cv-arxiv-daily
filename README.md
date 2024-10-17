@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.16
+## Updated on 2024.10.17
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-15**|**A Hitchhiker's Guide to Scaling Law Estimation**|Leshem Choshen et.al.|[2410.11840v1](http://arxiv.org/abs/2410.11840v1)|null|
+|**2024-10-15**|**Contrastive Touch-to-Touch Pretraining**|Samanta Rodriguez et.al.|[2410.11834v1](http://arxiv.org/abs/2410.11834v1)|null|
+|**2024-10-15**|**Adaptive Data Optimization: Dynamic Sample Selection with Scaling Laws**|Yiding Jiang et.al.|[2410.11820v1](http://arxiv.org/abs/2410.11820v1)|null|
+|**2024-10-15**|**Improving Long-Text Alignment for Text-to-Image Diffusion Models**|Luping Liu et.al.|[2410.11817v1](http://arxiv.org/abs/2410.11817v1)|**[link](https://github.com/luping-liu/longalign)**|
+|**2024-10-15**|**FoundTS: Comprehensive and Unified Benchmarking of Foundation Models for Time Series Forecasting**|Zhe Li et.al.|[2410.11802v1](http://arxiv.org/abs/2410.11802v1)|null|
+|**2024-10-15**|**Latent Action Pretraining from Videos**|Seonghyeon Ye et.al.|[2410.11758v1](http://arxiv.org/abs/2410.11758v1)|null|
+|**2024-10-15**|**Tending Towards Stability: Convergence Challenges in Small Language Models**|Richard Diehl Martinez et.al.|[2410.11451v1](http://arxiv.org/abs/2410.11451v1)|null|
+|**2024-10-15**|**Meta-DT: Offline Meta-RL as Conditional Sequence Modeling with World Model Disentanglement**|Zhi Wang et.al.|[2410.11448v1](http://arxiv.org/abs/2410.11448v1)|**[link](https://github.com/nju-rl/meta-dt)**|
+|**2024-10-15**|**Data Selection for Task-Specific Model Finetuning**|Zifan Liu et.al.|[2410.11303v1](http://arxiv.org/abs/2410.11303v1)|null|
+|**2024-10-15**|**Mini-Omni2: Towards Open-source GPT-4o Model with Vision, Speech and Duplex**|Zhifei Xie et.al.|[2410.11190v1](http://arxiv.org/abs/2410.11190v1)|null|
 |**2024-10-14**|**TL-PCA: Transfer Learning of Principal Component Analysis**|Sharon Hendy et.al.|[2410.10805v1](http://arxiv.org/abs/2410.10805v1)|null|
 |**2024-10-15**|**MMAR: Towards Lossless Multi-Modal Auto-Regressive Probabilistic Modeling**|Jian Yang et.al.|[2410.10798v2](http://arxiv.org/abs/2410.10798v2)|null|
 |**2024-10-14**|**Enhancing JEPAs with Spatial Conditioning: Robust and Efficient Representation Learning**|Etai Littwin et.al.|[2410.10773v1](http://arxiv.org/abs/2410.10773v1)|null|
@@ -3753,12 +3763,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241016>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241017>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-15**|**Layer-wise Importance Matters: Less Memory for Better Performance in Parameter-efficient Fine-tuning of Large Language Models**|Kai Yao et.al.|[2410.11772v1](http://arxiv.org/abs/2410.11772v1)|**[link](https://github.com/kaiseem/ist)**|
+|**2024-10-15**|**Efficient and Effective Universal Adversarial Attack against Vision-Language Pre-training Models**|Fan Yang et.al.|[2410.11639v1](http://arxiv.org/abs/2410.11639v1)|null|
+|**2024-10-15**|**Simultaneous Diffusion Sampling for Conditional LiDAR Generation**|Ryan Faulkner et.al.|[2410.11628v1](http://arxiv.org/abs/2410.11628v1)|null|
+|**2024-10-15**|**Y-Mol: A Multiscale Biomedical Knowledge-Guided Large Language Model for Drug Development**|Tengfei Ma et.al.|[2410.11550v1](http://arxiv.org/abs/2410.11550v1)|null|
+|**2024-10-15**|**O-Edit: Orthogonal Subspace Editing for Language Model Sequential Editing**|Yuchen Cai et.al.|[2410.11469v1](http://arxiv.org/abs/2410.11469v1)|null|
+|**2024-10-15**|**DRACO: A Denoising-Reconstruction Autoencoder for Cryo-EM**|Yingjun Shen et.al.|[2410.11373v1](http://arxiv.org/abs/2410.11373v1)|null|
+|**2024-10-15**|**Enhance Graph Alignment for Large Language Models**|Haitong Luo et.al.|[2410.11370v1](http://arxiv.org/abs/2410.11370v1)|null|
+|**2024-10-15**|**Disentangled Unsupervised Skill Discovery for Efficient Hierarchical Reinforcement Learning**|Jiaheng Hu et.al.|[2410.11251v1](http://arxiv.org/abs/2410.11251v1)|null|
+|**2024-10-15**|**Tree of Attributes Prompt Learning for Vision-Language Models**|Tong Ding et.al.|[2410.11201v1](http://arxiv.org/abs/2410.11201v1)|null|
+|**2024-10-15**|**Archilles' Heel in Semi-open LLMs: Hiding Bottom against Recovery Attacks**|Hanbo Huang et.al.|[2410.11182v1](http://arxiv.org/abs/2410.11182v1)|null|
 |**2024-10-14**|**When Does Perceptual Alignment Benefit Vision Representations?**|Shobhita Sundaram et.al.|[2410.10817v1](http://arxiv.org/abs/2410.10817v1)|null|
 |**2024-10-15**|**LiveXiv -- A Multi-Modal Live Benchmark Based on Arxiv Papers Content**|Nimrod Shabtay et.al.|[2410.10783v2](http://arxiv.org/abs/2410.10783v2)|**[link](https://github.com/nimrodshabtay/livexiv)**|
 |**2024-10-14**|**BrainMVP: Multi-modal Vision Pre-training for Brain Image Analysis using Multi-parametric MRI**|Shaohao Rui et.al.|[2410.10604v1](http://arxiv.org/abs/2410.10604v1)|null|
@@ -7204,12 +7224,13 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20241016>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241017>back to top</a>)</p>
 
 ## adaptor
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-14**|**Functional Adaptor Signatures: Beyond All-or-Nothing Blockchain-based Payments**|Nikhil Vanjani et.al.|[2410.11134v1](http://arxiv.org/abs/2410.11134v1)|null|
 |**2024-10-11**|**Foundation Model-Powered 3D Few-Shot Class Incremental Learning via Training-free Adaptor**|Sahar Ahmadi et.al.|[2410.09237v1](http://arxiv.org/abs/2410.09237v1)|**[link](https://github.com/ahmadisahar/accv_fcil3d)**|
 |**2024-10-10**|**Neural Material Adaptor for Visual Grounding of Intrinsic Dynamics**|Junyi Cao et.al.|[2410.08257v1](http://arxiv.org/abs/2410.08257v1)|null|
 |**2024-10-04**|**Collaborative and Efficient Personalization with Mixtures of Adaptors**|Abdulla Jasem Almansoori et.al.|[2410.03497v1](http://arxiv.org/abs/2410.03497v1)|null|
@@ -7345,12 +7366,22 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20241016>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241017>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-15**|**Fractal Calibration for long-tailed object detection**|Konstantinos Panagiotis Alexandridis et.al.|[2410.11774v1](http://arxiv.org/abs/2410.11774v1)|null|
+|**2024-10-15**|**POLO -- Point-based, multi-class animal detection**|Giacomo May et.al.|[2410.11741v1](http://arxiv.org/abs/2410.11741v1)|null|
+|**2024-10-15**|**YOLO-ELA: Efficient Local Attention Modeling for High-Performance Real-Time Insulator Defect Detection**|Olalekan Akindele et.al.|[2410.11727v1](http://arxiv.org/abs/2410.11727v1)|null|
+|**2024-10-15**|**SeaDATE: Remedy Dual-Attention Transformer with Semantic Alignment via Contrast Learning for Multimodal Object Detection**|Shuhan Dong et.al.|[2410.11358v1](http://arxiv.org/abs/2410.11358v1)|null|
+|**2024-10-15**|**Open World Object Detection: A Survey**|Yiming Li et.al.|[2410.11301v1](http://arxiv.org/abs/2410.11301v1)|null|
+|**2024-10-15**|**Representation Similarity: A Better Guidance of DNN Layer Sharing for Edge Computing without Training**|Bryan Bo Cao et.al.|[2410.11233v1](http://arxiv.org/abs/2410.11233v1)|null|
+|**2024-10-15**|**TEOcc: Radar-camera Multi-modal Occupancy Prediction via Temporal Enhancement**|Zhiwei Lin et.al.|[2410.11228v1](http://arxiv.org/abs/2410.11228v1)|null|
+|**2024-10-16**|**CVCP-Fusion: On Implicit Depth Estimation for 3D Bounding Box Prediction**|Pranav Gupta et.al.|[2410.11211v2](http://arxiv.org/abs/2410.11211v2)|**[link](https://github.com/safetylab24/FusionCVCP)**|
+|**2024-10-15**|**Multiview Scene Graph**|Juexiao Zhang et.al.|[2410.11187v1](http://arxiv.org/abs/2410.11187v1)|null|
+|**2024-10-14**|**UAV3D: A Large-scale 3D Perception Benchmark for Unmanned Aerial Vehicles**|Hui Ye et.al.|[2410.11125v1](http://arxiv.org/abs/2410.11125v1)|null|
 |**2024-10-14**|**ROSAR: An Adversarial Re-Training Framework for Robust Side-Scan Sonar Object Detection**|Martin Aubard et.al.|[2410.10554v1](http://arxiv.org/abs/2410.10554v1)|**[link](https://github.com/remaro-network/rosar-framework)**|
 |**2024-10-14**|**Learning to Ground VLMs without Forgetting**|Aritra Bhowmik et.al.|[2410.10491v1](http://arxiv.org/abs/2410.10491v1)|null|
 |**2024-10-14**|**SMART-TRACK: A Novel Kalman Filter-Guided Sensor Fusion For Robust UAV Object Tracking in Dynamic Environments**|Khaled Gabr et.al.|[2410.10409v1](http://arxiv.org/abs/2410.10409v1)|null|
@@ -10472,7 +10503,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20241016>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241017>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
