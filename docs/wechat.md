@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.10.17
+> Updated on 2024.10.18
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,16 @@
 
 ## pretrain
 
+- 2024-10-16, **Meta-Unlearning on Diffusion Models: Preventing Relearning Unlearned Concepts**, Hongcheng Gao et.al., Paper: [http://arxiv.org/abs/2410.12777v1](http://arxiv.org/abs/2410.12777v1)
+- 2024-10-16, **The Non-Local Model Merging Problem: Permutation Symmetries and Variance Collapse**, Ekansh Sharma et.al., Paper: [http://arxiv.org/abs/2410.12766v1](http://arxiv.org/abs/2410.12766v1)
+- 2024-10-16, **Sarcasm Detection in a Less-Resourced Language**, Lazar Đoković et.al., Paper: [http://arxiv.org/abs/2410.12704v1](http://arxiv.org/abs/2410.12704v1)
+- 2024-10-16, **Bridging the Language Gaps in Large Language Models with Inference-Time Cross-Lingual Intervention**, Weixuan Wang et.al., Paper: [http://arxiv.org/abs/2410.12462v1](http://arxiv.org/abs/2410.12462v1)
+- 2024-10-16, **HerO at AVeriTeC: The Herd of Open Large Language Models for Verifying Real-World Claims**, Yejun Yoon et.al., Paper: [http://arxiv.org/abs/2410.12377v1](http://arxiv.org/abs/2410.12377v1)
+- 2024-10-16, **PRefLexOR: Preference-based Recursive Language Modeling for Exploratory Optimization of Reasoning and Agentic Thinking**, Markus J. Buehler et.al., Paper: [http://arxiv.org/abs/2410.12375v1](http://arxiv.org/abs/2410.12375v1), Code: **[https://github.com/lamm-mit/PRefLexOR](https://github.com/lamm-mit/PRefLexOR)**
+- 2024-10-16, **When to Trust Your Data: Enhancing Dyna-Style Model-Based Reinforcement Learning With Data Filter**, Yansong Li et.al., Paper: [http://arxiv.org/abs/2410.12160v1](http://arxiv.org/abs/2410.12160v1)
+- 2024-10-16, **Preference Optimization with Multi-Sample Comparisons**, Chaoqi Wang et.al., Paper: [http://arxiv.org/abs/2410.12138v1](http://arxiv.org/abs/2410.12138v1)
+- 2024-10-16, **Multimodal Fusion with Relational Learning for Molecular Property Prediction**, Zhengyang Zhou et.al., Paper: [http://arxiv.org/abs/2410.12128v1](http://arxiv.org/abs/2410.12128v1)
+- 2024-10-15, **A State-of-the-Art Morphosyntactic Parser and Lemmatizer for Ancient Greek**, Giuseppe G. A. Celano et.al., Paper: [http://arxiv.org/abs/2410.12055v1](http://arxiv.org/abs/2410.12055v1)
 - 2024-10-15, **A Hitchhiker's Guide to Scaling Law Estimation**, Leshem Choshen et.al., Paper: [http://arxiv.org/abs/2410.11840v1](http://arxiv.org/abs/2410.11840v1)
 - 2024-10-15, **Contrastive Touch-to-Touch Pretraining**, Samanta Rodriguez et.al., Paper: [http://arxiv.org/abs/2410.11834v1](http://arxiv.org/abs/2410.11834v1)
 - 2024-10-15, **Adaptive Data Optimization: Dynamic Sample Selection with Scaling Laws**, Yiding Jiang et.al., Paper: [http://arxiv.org/abs/2410.11820v1](http://arxiv.org/abs/2410.11820v1)
@@ -3761,10 +3771,20 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20241017>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241018>back to top</a>)</p>
 
 ## downstream
 
+- 2024-10-16, **VividMed: Vision Language Model with Versatile Visual Grounding for Medicine**, Lingxiao Luo et.al., Paper: [http://arxiv.org/abs/2410.12694v1](http://arxiv.org/abs/2410.12694v1)
+- 2024-10-16, **MambaBEV: An efficient 3D detection model with Mamba2**, Zihan You et.al., Paper: [http://arxiv.org/abs/2410.12673v1](http://arxiv.org/abs/2410.12673v1)
+- 2024-10-16, **Retrieval-Reasoning Large Language Model-based Synthetic Clinical Trial Generation**, Zerui Xu et.al., Paper: [http://arxiv.org/abs/2410.12476v1](http://arxiv.org/abs/2410.12476v1)
+- 2024-10-16, **Privacy-Preserving Synthetically Augmented Knowledge Graphs with Semantic Utility**, Luigi Bellomarini et.al., Paper: [http://arxiv.org/abs/2410.12418v1](http://arxiv.org/abs/2410.12418v1)
+- 2024-10-16, **SELF-BART : A Transformer-based Molecular Representation Model using SELFIES**, Indra Priyadarsini et.al., Paper: [http://arxiv.org/abs/2410.12348v1](http://arxiv.org/abs/2410.12348v1)
+- 2024-10-16, **MAX: Masked Autoencoder for X-ray Fluorescence in Geological Investigation**, An-Sheng Lee et.al., Paper: [http://arxiv.org/abs/2410.12330v1](http://arxiv.org/abs/2410.12330v1)
+- 2024-10-16, **How much do contextualized representations encode long-range context?**, Simeng Sun et.al., Paper: [http://arxiv.org/abs/2410.12292v1](http://arxiv.org/abs/2410.12292v1)
+- 2024-10-16, **Fusion from Decomposition: A Self-Supervised Approach for Image Fusion and Beyond**, Pengwei Liang et.al., Paper: [http://arxiv.org/abs/2410.12274v1](http://arxiv.org/abs/2410.12274v1)
+- 2024-10-16, **Understanding Expert Structures on Minimax Parameter Estimation in Contaminated Mixture of Experts**, Fanqi Yan et.al., Paper: [http://arxiv.org/abs/2410.12258v1](http://arxiv.org/abs/2410.12258v1)
+- 2024-10-16, **Fast Online Learning of CLiFF-maps in Changing Environments**, Yufei Zhu et.al., Paper: [http://arxiv.org/abs/2410.12237v1](http://arxiv.org/abs/2410.12237v1)
 - 2024-10-15, **Layer-wise Importance Matters: Less Memory for Better Performance in Parameter-efficient Fine-tuning of Large Language Models**, Kai Yao et.al., Paper: [http://arxiv.org/abs/2410.11772v1](http://arxiv.org/abs/2410.11772v1), Code: **[https://github.com/kaiseem/ist](https://github.com/kaiseem/ist)**
 - 2024-10-15, **Efficient and Effective Universal Adversarial Attack against Vision-Language Pre-training Models**, Fan Yang et.al., Paper: [http://arxiv.org/abs/2410.11639v1](http://arxiv.org/abs/2410.11639v1)
 - 2024-10-15, **Simultaneous Diffusion Sampling for Conditional LiDAR Generation**, Ryan Faulkner et.al., Paper: [http://arxiv.org/abs/2410.11628v1](http://arxiv.org/abs/2410.11628v1)
@@ -7220,7 +7240,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20241017>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241018>back to top</a>)</p>
 
 ## adaptor
 
@@ -7360,10 +7380,20 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20241017>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241018>back to top</a>)</p>
 
 ## object detection
 
+- 2024-10-16, **MambaBEV: An efficient 3D detection model with Mamba2**, Zihan You et.al., Paper: [http://arxiv.org/abs/2410.12673v1](http://arxiv.org/abs/2410.12673v1)
+- 2024-10-16, **Cocoon: Robust Multi-Modal Perception with Uncertainty-Aware Sensor Fusion**, Minkyoung Cho et.al., Paper: [http://arxiv.org/abs/2410.12592v1](http://arxiv.org/abs/2410.12592v1)
+- 2024-10-16, **Feature Augmentation for Self-supervised Contrastive Learning: A Closer Look**, Yong Zhang et.al., Paper: [http://arxiv.org/abs/2410.12396v1](http://arxiv.org/abs/2410.12396v1)
+- 2024-10-16, **Real-time Stereo-based 3D Object Detection for Streaming Perception**, Changcai Li et.al., Paper: [http://arxiv.org/abs/2410.12394v1](http://arxiv.org/abs/2410.12394v1)
+- 2024-10-16, **Context-Infused Visual Grounding for Art**, Selina Khan et.al., Paper: [http://arxiv.org/abs/2410.12369v1](http://arxiv.org/abs/2410.12369v1)
+- 2024-10-16, **Fusion from Decomposition: A Self-Supervised Approach for Image Fusion and Beyond**, Pengwei Liang et.al., Paper: [http://arxiv.org/abs/2410.12274v1](http://arxiv.org/abs/2410.12274v1)
+- 2024-10-16, **Optimizing YOLOv5s Object Detection through Knowledge Distillation algorithm**, Guanming Huang et.al., Paper: [http://arxiv.org/abs/2410.12259v1](http://arxiv.org/abs/2410.12259v1)
+- 2024-10-17, **SAM-Guided Masked Token Prediction for 3D Scene Understanding**, Zhimin Chen et.al., Paper: [http://arxiv.org/abs/2410.12158v2](http://arxiv.org/abs/2410.12158v2)
+- 2024-10-16, **Unveiling the Limits of Alignment: Multi-modal Dynamic Local Fusion Network and A Benchmark for Unaligned RGBT Video Object Detection**, Qishun Wang et.al., Paper: [http://arxiv.org/abs/2410.12143v1](http://arxiv.org/abs/2410.12143v1)
+- 2024-10-15, **Dynamic Open-Vocabulary 3D Scene Graphs for Long-term Language-Guided Mobile Manipulation**, Zhijie Yan et.al., Paper: [http://arxiv.org/abs/2410.11989v1](http://arxiv.org/abs/2410.11989v1)
 - 2024-10-15, **Fractal Calibration for long-tailed object detection**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2410.11774v1](http://arxiv.org/abs/2410.11774v1)
 - 2024-10-15, **POLO -- Point-based, multi-class animal detection**, Giacomo May et.al., Paper: [http://arxiv.org/abs/2410.11741v1](http://arxiv.org/abs/2410.11741v1)
 - 2024-10-15, **YOLO-ELA: Efficient Local Attention Modeling for High-Performance Real-Time Insulator Defect Detection**, Olalekan Akindele et.al., Paper: [http://arxiv.org/abs/2410.11727v1](http://arxiv.org/abs/2410.11727v1)
@@ -10495,7 +10525,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20241017>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241018>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
