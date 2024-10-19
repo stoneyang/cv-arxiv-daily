@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.18
+## Updated on 2024.10.19
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-17**|**PUMA: Empowering Unified MLLM with Multi-granular Visual Generation**|Rongyao Fang et.al.|[2410.13861v1](http://arxiv.org/abs/2410.13861v1)|**[link](https://github.com/rongyaofang/puma)**|
+|**2024-10-17**|**D-FINE: Redefine Regression Task in DETRs as Fine-grained Distribution Refinement**|Yansong Peng et.al.|[2410.13842v1](http://arxiv.org/abs/2410.13842v1)|**[link](https://github.com/Peterande/D-FINE)**|
+|**2024-10-17**|**Active-Dormant Attention Heads: Mechanistically Demystifying Extreme-Token Phenomena in LLMs**|Tianyu Guo et.al.|[2410.13835v1](http://arxiv.org/abs/2410.13835v1)|null|
+|**2024-10-17**|**Enhancing universal machine learning potentials with polarizable long-range interactions**|Rongzhi Gao et.al.|[2410.13820v1](http://arxiv.org/abs/2410.13820v1)|null|
+|**2024-10-17**|**ConsisSR: Delving Deep into Consistency in Diffusion-based Image Super-Resolution**|Junhao Gu et.al.|[2410.13807v1](http://arxiv.org/abs/2410.13807v1)|null|
+|**2024-10-17**|**Improving Multi-modal Large Language Model through Boosting Vision Capabilities**|Yanpeng Sun et.al.|[2410.13733v1](http://arxiv.org/abs/2410.13733v1)|null|
+|**2024-10-17**|**Fine-Tuning Discrete Diffusion Models via Reward Optimization with Applications to DNA and Protein Design**|Chenyu Wang et.al.|[2410.13643v1](http://arxiv.org/abs/2410.13643v1)|**[link](https://github.com/chenyuwang-monica/drakes)**|
+|**2024-10-17**|**Enhanced Prompt-leveraged Weakly Supervised Cancer Segmentation based on Segment Anything**|Joonhyeon Song et.al.|[2410.13621v1](http://arxiv.org/abs/2410.13621v1)|**[link](https://github.com/qi-nemosong/eplc-sam)**|
+|**2024-10-17**|**All models are wrong, some are useful: Model Selection with Limited Labels**|Patrik Okanovic et.al.|[2410.13609v1](http://arxiv.org/abs/2410.13609v1)|**[link](https://github.com/robustml-lab/model-selector)**|
+|**2024-10-17**|**CCUP: A Controllable Synthetic Data Generation Pipeline for Pretraining Cloth-Changing Person Re-Identification Models**|Yujian Zhao et.al.|[2410.13567v1](http://arxiv.org/abs/2410.13567v1)|**[link](https://github.com/yjzhao1019/ccup)**|
 |**2024-10-16**|**Meta-Unlearning on Diffusion Models: Preventing Relearning Unlearned Concepts**|Hongcheng Gao et.al.|[2410.12777v1](http://arxiv.org/abs/2410.12777v1)|null|
 |**2024-10-16**|**The Non-Local Model Merging Problem: Permutation Symmetries and Variance Collapse**|Ekansh Sharma et.al.|[2410.12766v1](http://arxiv.org/abs/2410.12766v1)|null|
 |**2024-10-16**|**Sarcasm Detection in a Less-Resourced Language**|Lazar Đoković et.al.|[2410.12704v1](http://arxiv.org/abs/2410.12704v1)|null|
@@ -3777,12 +3787,22 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241018>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241019>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-17**|**LLM-Human Pipeline for Cultural Context Grounding of Conversations**|Rajkumar Pujari et.al.|[2410.13727v1](http://arxiv.org/abs/2410.13727v1)|null|
+|**2024-10-17**|**Exploring the Design Space of Visual Context Representation in Video MLLMs**|Yifan Du et.al.|[2410.13694v1](http://arxiv.org/abs/2410.13694v1)|**[link](https://github.com/rucaibox/opt-visor)**|
+|**2024-10-17**|**MeNTi: Bridging Medical Calculator and LLM Agent with Nested Tool Calling**|Yakun Zhu et.al.|[2410.13610v1](http://arxiv.org/abs/2410.13610v1)|null|
+|**2024-10-17**|**OAH-Net: A Deep Neural Network for Hologram Reconstruction of Off-axis Digital Holographic Microscope**|Wei Liu et.al.|[2410.13592v1](http://arxiv.org/abs/2410.13592v1)|null|
+|**2024-10-17**|**Integrating Large Language Models and Reinforcement Learning for Non-Linear Reasoning**|Yoav Alon et.al.|[2410.13501v1](http://arxiv.org/abs/2410.13501v1)|null|
+|**2024-10-17**|**Unsupervised Skull Segmentation via Contrastive MR-to-CT Modality Translation**|Kamil Kwarciak et.al.|[2410.13427v1](http://arxiv.org/abs/2410.13427v1)|null|
+|**2024-10-17**|**Representation Learning of Structured Data for Medical Foundation Models**|Vijay Prakash Dwivedi et.al.|[2410.13351v1](http://arxiv.org/abs/2410.13351v1)|null|
+|**2024-10-17**|**Do LLMs Overcome Shortcut Learning? An Evaluation of Shortcut Challenges in Large Language Models**|Yu Yuan et.al.|[2410.13343v1](http://arxiv.org/abs/2410.13343v1)|null|
+|**2024-10-17**|**Learning Efficient Representations of Neutrino Telescope Events**|Felix J. Yu et.al.|[2410.13148v1](http://arxiv.org/abs/2410.13148v1)|null|
+|**2024-10-16**|**What Do Speech Foundation Models Not Learn About Speech?**|Abdul Waheed et.al.|[2410.12948v1](http://arxiv.org/abs/2410.12948v1)|null|
 |**2024-10-16**|**VividMed: Vision Language Model with Versatile Visual Grounding for Medicine**|Lingxiao Luo et.al.|[2410.12694v1](http://arxiv.org/abs/2410.12694v1)|null|
 |**2024-10-16**|**MambaBEV: An efficient 3D detection model with Mamba2**|Zihan You et.al.|[2410.12673v1](http://arxiv.org/abs/2410.12673v1)|null|
 |**2024-10-16**|**Retrieval-Reasoning Large Language Model-based Synthetic Clinical Trial Generation**|Zerui Xu et.al.|[2410.12476v1](http://arxiv.org/abs/2410.12476v1)|null|
@@ -7248,12 +7268,13 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20241018>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241019>back to top</a>)</p>
 
 ## adaptor
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-16**|**MuVi: Video-to-Music Generation with Semantic Alignment and Rhythmic Synchronization**|Ruiqi Li et.al.|[2410.12957v1](http://arxiv.org/abs/2410.12957v1)|null|
 |**2024-10-14**|**Functional Adaptor Signatures: Beyond All-or-Nothing Blockchain-based Payments**|Nikhil Vanjani et.al.|[2410.11134v1](http://arxiv.org/abs/2410.11134v1)|null|
 |**2024-10-11**|**Foundation Model-Powered 3D Few-Shot Class Incremental Learning via Training-free Adaptor**|Sahar Ahmadi et.al.|[2410.09237v1](http://arxiv.org/abs/2410.09237v1)|**[link](https://github.com/ahmadisahar/accv_fcil3d)**|
 |**2024-10-10**|**Neural Material Adaptor for Visual Grounding of Intrinsic Dynamics**|Junyi Cao et.al.|[2410.08257v1](http://arxiv.org/abs/2410.08257v1)|null|
@@ -7390,12 +7411,16 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20241018>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241019>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-17**|**D-FINE: Redefine Regression Task in DETRs as Fine-grained Distribution Refinement**|Yansong Peng et.al.|[2410.13842v1](http://arxiv.org/abs/2410.13842v1)|**[link](https://github.com/Peterande/D-FINE)**|
+|**2024-10-17**|**Spatiotemporal Object Detection for Improved Aerial Vehicle Detection in Traffic Monitoring**|Kristina Telegraph et.al.|[2410.13616v1](http://arxiv.org/abs/2410.13616v1)|null|
+|**2024-10-17**|**RemoteDet-Mamba: A Hybrid Mamba-CNN Network for Multi-modal Object Detection in Remote Sensing Images**|Kejun Ren et.al.|[2410.13532v1](http://arxiv.org/abs/2410.13532v1)|null|
+|**2024-10-16**|**Syn2Real Domain Generalization for Underwater Mine-like Object Detection Using Side-Scan Sonar**|Aayush Agrawal et.al.|[2410.12953v1](http://arxiv.org/abs/2410.12953v1)|null|
 |**2024-10-16**|**MambaBEV: An efficient 3D detection model with Mamba2**|Zihan You et.al.|[2410.12673v1](http://arxiv.org/abs/2410.12673v1)|null|
 |**2024-10-16**|**Cocoon: Robust Multi-Modal Perception with Uncertainty-Aware Sensor Fusion**|Minkyoung Cho et.al.|[2410.12592v1](http://arxiv.org/abs/2410.12592v1)|null|
 |**2024-10-16**|**Feature Augmentation for Self-supervised Contrastive Learning: A Closer Look**|Yong Zhang et.al.|[2410.12396v1](http://arxiv.org/abs/2410.12396v1)|null|
@@ -10537,7 +10562,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20241018>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241019>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
