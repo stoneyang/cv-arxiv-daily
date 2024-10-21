@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.10.20
+> Updated on 2024.10.21
 
 <details>
   <summary>Table of Contents</summary>
@@ -24,7 +24,7 @@
 - 2024-10-17, **ConsisSR: Delving Deep into Consistency in Diffusion-based Image Super-Resolution**, Junhao Gu et.al., Paper: [http://arxiv.org/abs/2410.13807v1](http://arxiv.org/abs/2410.13807v1)
 - 2024-10-17, **Improving Multi-modal Large Language Model through Boosting Vision Capabilities**, Yanpeng Sun et.al., Paper: [http://arxiv.org/abs/2410.13733v1](http://arxiv.org/abs/2410.13733v1)
 - 2024-10-17, **Fine-Tuning Discrete Diffusion Models via Reward Optimization with Applications to DNA and Protein Design**, Chenyu Wang et.al., Paper: [http://arxiv.org/abs/2410.13643v1](http://arxiv.org/abs/2410.13643v1), Code: **[https://github.com/chenyuwang-monica/drakes](https://github.com/chenyuwang-monica/drakes)**
-- 2024-10-17, **Enhanced Prompt-leveraged Weakly Supervised Cancer Segmentation based on Segment Anything**, Joonhyeon Song et.al., Paper: [http://arxiv.org/abs/2410.13621v1](http://arxiv.org/abs/2410.13621v1), Code: **[https://github.com/qi-nemosong/eplc-sam](https://github.com/qi-nemosong/eplc-sam)**
+- 2024-10-18, **Enhanced Prompt-leveraged Weakly Supervised Cancer Segmentation based on Segment Anything**, Joonhyeon Song et.al., Paper: [http://arxiv.org/abs/2410.13621v2](http://arxiv.org/abs/2410.13621v2), Code: **[https://github.com/qi-nemosong/eplc-sam](https://github.com/qi-nemosong/eplc-sam)**
 - 2024-10-17, **All models are wrong, some are useful: Model Selection with Limited Labels**, Patrik Okanovic et.al., Paper: [http://arxiv.org/abs/2410.13609v1](http://arxiv.org/abs/2410.13609v1), Code: **[https://github.com/robustml-lab/model-selector](https://github.com/robustml-lab/model-selector)**
 - 2024-10-17, **CCUP: A Controllable Synthetic Data Generation Pipeline for Pretraining Cloth-Changing Person Re-Identification Models**, Yujian Zhao et.al., Paper: [http://arxiv.org/abs/2410.13567v1](http://arxiv.org/abs/2410.13567v1), Code: **[https://github.com/yjzhao1019/ccup](https://github.com/yjzhao1019/ccup)**
 - 2024-10-16, **Meta-Unlearning on Diffusion Models: Preventing Relearning Unlearned Concepts**, Hongcheng Gao et.al., Paper: [http://arxiv.org/abs/2410.12777v1](http://arxiv.org/abs/2410.12777v1)
@@ -3781,7 +3781,7 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20241020>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241021>back to top</a>)</p>
 
 ## downstream
 
@@ -7260,7 +7260,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20241020>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241021>back to top</a>)</p>
 
 ## adaptor
 
@@ -7401,7 +7401,7 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20241020>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241021>back to top</a>)</p>
 
 ## object detection
 
@@ -10550,7 +10550,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20241020>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241021>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
