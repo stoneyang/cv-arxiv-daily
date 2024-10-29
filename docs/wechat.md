@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.10.28
+> Updated on 2024.10.29
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,11 +17,14 @@
 
 ## pretrain
 
+- 2024-10-25, **Visual Imitation Learning of Non-Prehensile Manipulation Tasks with Dynamics-Supervised Models**, Abdullah Mustafa et.al., Paper: [http://arxiv.org/abs/2410.19379v1](http://arxiv.org/abs/2410.19379v1)
+- 2024-10-25, **COAT: Compressing Optimizer states and Activation for Memory-Efficient FP8 Training**, Haocheng Xi et.al., Paper: [http://arxiv.org/abs/2410.19313v1](http://arxiv.org/abs/2410.19313v1)
+- 2024-10-24, **CapsuleNet: A Deep Learning Model To Classify GI Diseases Using EfficientNet-b7**, Aniket Das et.al., Paper: [http://arxiv.org/abs/2410.19151v1](http://arxiv.org/abs/2410.19151v1)
 - 2024-10-24, **3D-Adapter: Geometry-Consistent Multi-View Diffusion for High-Quality 3D Generation**, Hansheng Chen et.al., Paper: [http://arxiv.org/abs/2410.18974v1](http://arxiv.org/abs/2410.18974v1), Code: **[https://github.com/Lakonik/MVEdit](https://github.com/Lakonik/MVEdit)**
 - 2024-10-24, **Does Data Contamination Detection Work (Well) for LLMs? A Survey and Evaluation on Detection Assumptions**, Yujuan Fu et.al., Paper: [http://arxiv.org/abs/2410.18966v1](http://arxiv.org/abs/2410.18966v1)
 - 2024-10-24, **Stable Consistency Tuning: Understanding and Improving Consistency Models**, Fu-Yun Wang et.al., Paper: [http://arxiv.org/abs/2410.18958v1](http://arxiv.org/abs/2410.18958v1), Code: **[https://github.com/G-U-N/Stable-Consistency-Tuning](https://github.com/G-U-N/Stable-Consistency-Tuning)**
 - 2024-10-24, **Towards Visual Text Design Transfer Across Languages**, Yejin Choi et.al., Paper: [http://arxiv.org/abs/2410.18823v1](http://arxiv.org/abs/2410.18823v1)
-- 2024-10-24, **Binocular-Guided 3D Gaussian Splatting with View Consistency for Sparse View Synthesis**, Liang Han et.al., Paper: [http://arxiv.org/abs/2410.18822v1](http://arxiv.org/abs/2410.18822v1)
+- 2024-10-27, **Binocular-Guided 3D Gaussian Splatting with View Consistency for Sparse View Synthesis**, Liang Han et.al., Paper: [http://arxiv.org/abs/2410.18822v2](http://arxiv.org/abs/2410.18822v2)
 - 2024-10-24, **Robust Watermarking Using Generative Priors Against Image Editing: From Benchmarking to Advances**, Shilin Lu et.al., Paper: [http://arxiv.org/abs/2410.18775v1](http://arxiv.org/abs/2410.18775v1), Code: **[https://github.com/shilin-lu/vine](https://github.com/shilin-lu/vine)**
 - 2024-10-24, **Does Differential Privacy Impact Bias in Pretrained NLP Models?**, Md. Khairul Islam et.al., Paper: [http://arxiv.org/abs/2410.18749v1](http://arxiv.org/abs/2410.18749v1), Code: **[https://github.com/khairulislam/dp-on-nlp-bias](https://github.com/khairulislam/dp-on-nlp-bias)**
 - 2024-10-24, **Why Does the Effective Context Length of LLMs Fall Short?**, Chenxin An et.al., Paper: [http://arxiv.org/abs/2410.18745v1](http://arxiv.org/abs/2410.18745v1)
@@ -3818,10 +3821,12 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20241028>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241029>back to top</a>)</p>
 
 ## downstream
 
+- 2024-10-25, **Less is More: Extreme Gradient Boost Rank-1 Adaption for Efficient Finetuning of LLMs**, Yifei Zhang et.al., Paper: [http://arxiv.org/abs/2410.19694v1](http://arxiv.org/abs/2410.19694v1)
+- 2024-10-25, **Revealing and Reducing Gender Biases in Vision and Language Assistants (VLAs)**, Leander Girrbach et.al., Paper: [http://arxiv.org/abs/2410.19314v1](http://arxiv.org/abs/2410.19314v1)
 - 2024-10-24, **On the Crucial Role of Initialization for Matrix Factorization**, Bingcong Li et.al., Paper: [http://arxiv.org/abs/2410.18965v1](http://arxiv.org/abs/2410.18965v1)
 - 2024-10-24, **SKATR: A Self-Supervised Summary Transformer for SKA**, Ayodele Ore et.al., Paper: [http://arxiv.org/abs/2410.18899v1](http://arxiv.org/abs/2410.18899v1), Code: **[https://github.com/heidelberg-hepml/skatr](https://github.com/heidelberg-hepml/skatr)**
 - 2024-10-24, **Probabilistic Language-Image Pre-Training**, Sanghyuk Chun et.al., Paper: [http://arxiv.org/abs/2410.18857v1](http://arxiv.org/abs/2410.18857v1), Code: **[https://github.com/naver-ai/prolip](https://github.com/naver-ai/prolip)**
@@ -7335,7 +7340,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20241028>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241029>back to top</a>)</p>
 
 ## adaptor
 
@@ -7477,10 +7482,16 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20241028>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241029>back to top</a>)</p>
 
 ## object detection
 
+- 2024-10-25, **MetaTrading: An Immersion-Aware Model Trading Framework for Vehicular Metaverse Services**, Hongjia Wu et.al., Paper: [http://arxiv.org/abs/2410.19665v1](http://arxiv.org/abs/2410.19665v1)
+- 2024-10-25, **Frozen-DETR: Enhancing DETR with Image Understanding from Frozen Foundation Models**, Shenghao Fu et.al., Paper: [http://arxiv.org/abs/2410.19635v1](http://arxiv.org/abs/2410.19635v1)
+- 2024-10-25, **MonoDGP: Monocular 3D Object Detection with Decoupled-Query and Geometry-Error Priors**, Fanqi Pu et.al., Paper: [http://arxiv.org/abs/2410.19590v1](http://arxiv.org/abs/2410.19590v1)
+- 2024-10-25, **DECADE: Towards Designing Efficient-yet-Accurate Distance Estimation Modules for Collision Avoidance in Mobile Advanced Driver Assistance Systems**, Muhammad Zaeem Shahzad et.al., Paper: [http://arxiv.org/abs/2410.19336v1](http://arxiv.org/abs/2410.19336v1)
+- 2024-10-25, **In-Simulation Testing of Deep Learning Vision Models in Autonomous Robotic Manipulators**, Dmytro Humeniuk et.al., Paper: [http://arxiv.org/abs/2410.19277v1](http://arxiv.org/abs/2410.19277v1)
+- 2024-10-24, **HUE Dataset: High-Resolution Event and Frame Sequences for Low-Light Vision**, Burak Ercan et.al., Paper: [http://arxiv.org/abs/2410.19164v1](http://arxiv.org/abs/2410.19164v1)
 - 2024-10-24, **Optimizing Edge Offloading Decisions for Object Detection**, Jiaming Qiu et.al., Paper: [http://arxiv.org/abs/2410.18919v1](http://arxiv.org/abs/2410.18919v1), Code: **[https://github.com/qiujiaming315/edgeml-object-detection](https://github.com/qiujiaming315/edgeml-object-detection)**
 - 2024-10-24, **You Only Look Around: Learning Illumination Invariant Feature for Low-light Object Detection**, Mingbo Hong et.al., Paper: [http://arxiv.org/abs/2410.18398v1](http://arxiv.org/abs/2410.18398v1)
 - 2024-10-24, **Thermal Chameleon: Task-Adaptive Tone-mapping for Radiometric Thermal-Infrared images**, Dong-Guw Lee et.al., Paper: [http://arxiv.org/abs/2410.18340v1](http://arxiv.org/abs/2410.18340v1), Code: **[https://github.com/donkeymouse/thermalchameleon](https://github.com/donkeymouse/thermalchameleon)**
@@ -10648,7 +10659,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20241028>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241029>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
