@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.10.30
+> Updated on 2024.10.31
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,16 @@
 
 ## pretrain
 
+- 2024-10-30, **Robots Pre-train Robots: Manipulation-Centric Robotic Representation from Large-Scale Robot Datasets**, Guangqi Jiang et.al., Paper: [http://arxiv.org/abs/2410.22325v2](http://arxiv.org/abs/2410.22325v2)
+- 2024-10-29, **Understanding Synthetic Context Extension via Retrieval Heads**, Xinyu Zhao et.al., Paper: [http://arxiv.org/abs/2410.22316v1](http://arxiv.org/abs/2410.22316v1)
+- 2024-10-29, **Meta-Learning Adaptable Foundation Models**, Jacob L. Block et.al., Paper: [http://arxiv.org/abs/2410.22264v1](http://arxiv.org/abs/2410.22264v1)
+- 2024-10-29, **Learning Successor Features the Simple Way**, Raymond Chua et.al., Paper: [http://arxiv.org/abs/2410.22133v1](http://arxiv.org/abs/2410.22133v1)
+- 2024-10-29, **BenchX: A Unified Benchmark Framework for Medical Vision-Language Pretraining on Chest X-Rays**, Yang Zhou et.al., Paper: [http://arxiv.org/abs/2410.21969v1](http://arxiv.org/abs/2410.21969v1), Code: **[https://github.com/yangzhou12/benchx](https://github.com/yangzhou12/benchx)**
+- 2024-10-29, **Joint Beamforming and Speaker-Attributed ASR for Real Distant-Microphone Meeting Transcription**, Can Cui et.al., Paper: [http://arxiv.org/abs/2410.21849v1](http://arxiv.org/abs/2410.21849v1)
+- 2024-10-29, **Volumetric Conditioning Module to Control Pretrained Diffusion Models for 3D Medical Images**, Suhyun Ahn et.al., Paper: [http://arxiv.org/abs/2410.21826v1](http://arxiv.org/abs/2410.21826v1), Code: **[https://github.com/Ahn-Ssu/VCM](https://github.com/Ahn-Ssu/VCM)**
+- 2024-10-29, **PK-YOLO: Pretrained Knowledge Guided YOLO for Brain Tumor Detection in Multiplanar MRI Slices**, Ming Kang et.al., Paper: [http://arxiv.org/abs/2410.21822v1](http://arxiv.org/abs/2410.21822v1), Code: **[https://github.com/mkang315/pk-yolo](https://github.com/mkang315/pk-yolo)**
+- 2024-10-29, **MotionGPT-2: A General-Purpose Motion-Language Model for Motion Generation and Understanding**, Yuan Wang et.al., Paper: [http://arxiv.org/abs/2410.21747v1](http://arxiv.org/abs/2410.21747v1)
+- 2024-10-29, **DiffSTR: Controlled Diffusion Models for Scene Text Removal**, Sanhita Pathak et.al., Paper: [http://arxiv.org/abs/2410.21721v1](http://arxiv.org/abs/2410.21721v1)
 - 2024-10-28, **Are BabyLMs Second Language Learners?**, Lukas Edman et.al., Paper: [http://arxiv.org/abs/2410.21254v1](http://arxiv.org/abs/2410.21254v1)
 - 2024-10-28, **ST-ITO: Controlling Audio Effects for Style Transfer with Inference-Time Optimization**, Christian J. Steinmetz et.al., Paper: [http://arxiv.org/abs/2410.21233v1](http://arxiv.org/abs/2410.21233v1)
 - 2024-10-28, **BongLLaMA: LLaMA for Bangla Language**, Abdullah Khan Zehady et.al., Paper: [http://arxiv.org/abs/2410.21200v1](http://arxiv.org/abs/2410.21200v1)
@@ -3831,10 +3841,20 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20241030>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241031>back to top</a>)</p>
 
 ## downstream
 
+- 2024-10-30, **Robots Pre-train Robots: Manipulation-Centric Robotic Representation from Large-Scale Robot Datasets**, Guangqi Jiang et.al., Paper: [http://arxiv.org/abs/2410.22325v2](http://arxiv.org/abs/2410.22325v2)
+- 2024-10-29, **Multi-Class Textual-Inversion Secretly Yields a Semantic-Agnostic Classifier**, Kai Wang et.al., Paper: [http://arxiv.org/abs/2410.22317v1](http://arxiv.org/abs/2410.22317v1), Code: **[https://github.com/wangkai930418/mc_ti](https://github.com/wangkai930418/mc_ti)**
+- 2024-10-29, **Meta-Learning Adaptable Foundation Models**, Jacob L. Block et.al., Paper: [http://arxiv.org/abs/2410.22264v1](http://arxiv.org/abs/2410.22264v1)
+- 2024-10-29, **BenchX: A Unified Benchmark Framework for Medical Vision-Language Pretraining on Chest X-Rays**, Yang Zhou et.al., Paper: [http://arxiv.org/abs/2410.21969v1](http://arxiv.org/abs/2410.21969v1), Code: **[https://github.com/yangzhou12/benchx](https://github.com/yangzhou12/benchx)**
+- 2024-10-29, **PrefPaint: Aligning Image Inpainting Diffusion Model with Human Preference**, Kendong Liu et.al., Paper: [http://arxiv.org/abs/2410.21966v1](http://arxiv.org/abs/2410.21966v1)
+- 2024-10-30, **IntLoRA: Integral Low-rank Adaptation of Quantized Diffusion Models**, Hang Guo et.al., Paper: [http://arxiv.org/abs/2410.21759v2](http://arxiv.org/abs/2410.21759v2)
+- 2024-10-29, **Reliable and Compact Graph Fine-tuning via GraphSparse Prompting**, Bo Jiang et.al., Paper: [http://arxiv.org/abs/2410.21749v1](http://arxiv.org/abs/2410.21749v1)
+- 2024-10-29, **Generating Realistic Tabular Data with Large Language Models**, Dang Nguyen et.al., Paper: [http://arxiv.org/abs/2410.21717v1](http://arxiv.org/abs/2410.21717v1)
+- 2024-10-29, **Pushing the Limits of All-Atom Geometric Graph Neural Networks: Pre-Training, Scaling and Zero-Shot Transfer**, Zihan Pengmei et.al., Paper: [http://arxiv.org/abs/2410.21683v1](http://arxiv.org/abs/2410.21683v1)
+- 2024-10-28, **ImageNet-RIB Benchmark: Large Pre-Training Datasets Don't Guarantee Robustness after Fine-Tuning**, Jaedong Hwang et.al., Paper: [http://arxiv.org/abs/2410.21582v1](http://arxiv.org/abs/2410.21582v1)
 - 2024-10-28, **LoRA vs Full Fine-tuning: An Illusion of Equivalence**, Reece Shuttleworth et.al., Paper: [http://arxiv.org/abs/2410.21228v1](http://arxiv.org/abs/2410.21228v1)
 - 2024-10-28, **IndraEye: Infrared Electro-Optical UAV-based Perception Dataset for Robust Downstream Tasks**, Manjunath D et.al., Paper: [http://arxiv.org/abs/2410.20953v1](http://arxiv.org/abs/2410.20953v1)
 - 2024-10-28, **KD-LoRA: A Hybrid Approach to Efficient Fine-Tuning with LoRA and Knowledge Distillation**, Rambod Azimi et.al., Paper: [http://arxiv.org/abs/2410.20777v1](http://arxiv.org/abs/2410.20777v1), Code: **[https://github.com/rambodazimi/kd-lora](https://github.com/rambodazimi/kd-lora)**
@@ -7359,7 +7379,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20241030>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241031>back to top</a>)</p>
 
 ## adaptor
 
@@ -7501,14 +7521,20 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20241030>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241031>back to top</a>)</p>
 
 ## object detection
 
+- 2024-10-29, **Lighten CARAFE: Dynamic Lightweight Upsampling with Guided Reassemble Kernels**, Ruigang Fu et.al., Paper: [http://arxiv.org/abs/2410.22139v1](http://arxiv.org/abs/2410.22139v1), Code: **[https://github.com/fu0511/dynamic-lightweight-upsampling](https://github.com/fu0511/dynamic-lightweight-upsampling)**
+- 2024-10-29, **Data Generation for Hardware-Friendly Post-Training Quantization**, Lior Dikstein et.al., Paper: [http://arxiv.org/abs/2410.22110v1](http://arxiv.org/abs/2410.22110v1)
+- 2024-10-29, **Cognitive Semantic Augmentation LEO Satellite Networks for Earth Observation**, Hong-fu Chou et.al., Paper: [http://arxiv.org/abs/2410.21916v1](http://arxiv.org/abs/2410.21916v1)
+- 2024-10-29, **PK-YOLO: Pretrained Knowledge Guided YOLO for Brain Tumor Detection in Multiplanar MRI Slices**, Ming Kang et.al., Paper: [http://arxiv.org/abs/2410.21822v1](http://arxiv.org/abs/2410.21822v1), Code: **[https://github.com/mkang315/pk-yolo](https://github.com/mkang315/pk-yolo)**
+- 2024-10-28, **MVSDet: Multi-View Indoor 3D Object Detection via Efficient Plane Sweeps**, Yating Xu et.al., Paper: [http://arxiv.org/abs/2410.21566v1](http://arxiv.org/abs/2410.21566v1), Code: **[https://github.com/pixie8888/mvsdet](https://github.com/pixie8888/mvsdet)**
+- 2024-10-28, **TACO: Adversarial Camouflage Optimization on Trucks to Fool Object Detectors**, Adonisz Dimitriu et.al., Paper: [http://arxiv.org/abs/2410.21443v1](http://arxiv.org/abs/2410.21443v1)
 - 2024-10-28, **Synthetica: Large Scale Synthetic Data for Robot Perception**, Ritvik Singh et.al., Paper: [http://arxiv.org/abs/2410.21153v1](http://arxiv.org/abs/2410.21153v1)
 - 2024-10-28, **IndraEye: Infrared Electro-Optical UAV-based Perception Dataset for Robust Downstream Tasks**, Manjunath D et.al., Paper: [http://arxiv.org/abs/2410.20953v1](http://arxiv.org/abs/2410.20953v1)
 - 2024-10-28, **SparseTem: Boosting the Efficiency of CNN-Based Video Encoders by Exploiting Temporal Continuity**, Kunyun Wang et.al., Paper: [http://arxiv.org/abs/2410.20790v1](http://arxiv.org/abs/2410.20790v1)
-- 2024-10-27, **Sebica: Lightweight Spatial and Efficient Bidirectional Channel Attention Super Resolution Network**, Chongxiao Liu et.al., Paper: [http://arxiv.org/abs/2410.20546v1](http://arxiv.org/abs/2410.20546v1)
+- 2024-10-27, **Sebica: Lightweight Spatial and Efficient Bidirectional Channel Attention Super Resolution Network**, Chongxiao Liu et.al., Paper: [http://arxiv.org/abs/2410.20546v1](http://arxiv.org/abs/2410.20546v1), Code: **[https://github.com/idiosyncracies/Sebica](https://github.com/idiosyncracies/Sebica)**
 - 2024-10-27, **Guidance Disentanglement Network for Optics-Guided Thermal UAV Image Super-Resolution**, Zhicheng Zhao et.al., Paper: [http://arxiv.org/abs/2410.20466v1](http://arxiv.org/abs/2410.20466v1), Code: **[https://github.com/jocelyney/gdnet](https://github.com/jocelyney/gdnet)**
 - 2024-10-27, **Open-Vocabulary Object Detection via Language Hierarchy**, Jiaxing Huang et.al., Paper: [http://arxiv.org/abs/2410.20371v1](http://arxiv.org/abs/2410.20371v1)
 - 2024-10-27, **Historical Test-time Prompt Tuning for Vision Foundation Models**, Jingyi Zhang et.al., Paper: [http://arxiv.org/abs/2410.20346v1](http://arxiv.org/abs/2410.20346v1)
@@ -10686,7 +10712,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20241030>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241031>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
