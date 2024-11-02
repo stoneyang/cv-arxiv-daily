@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.01
+## Updated on 2024.11.02
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-31**|**URAvatar: Universal Relightable Gaussian Codec Avatars**|Junxuan Li et.al.|[2410.24223v1](http://arxiv.org/abs/2410.24223v1)|null|
+|**2024-10-31**|**GPT or BERT: why not both?**|Lucas Georges Gabriel Charpentier et.al.|[2410.24159v1](http://arxiv.org/abs/2410.24159v1)|null|
+|**2024-10-31**|**Reinforcement Learning Gradients as Vitamin for Online Finetuning Decision Transformers**|Kai Yan et.al.|[2410.24108v1](http://arxiv.org/abs/2410.24108v1)|**[link](https://github.com/kaiyan289/rl_as_vitamin_for_online_decision_transformers)**|
+|**2024-10-31**|**In-Context Fine-Tuning for Time-Series Foundation Models**|Abhimanyu Das et.al.|[2410.24087v1](http://arxiv.org/abs/2410.24087v1)|null|
+|**2024-10-31**|**Bayesian-guided Label Mapping for Visual Reprogramming**|Chengyi Cai et.al.|[2410.24018v1](http://arxiv.org/abs/2410.24018v1)|**[link](https://github.com/tmlr-group/bayesianlm)**|
+|**2024-10-31**|**Multilingual Pretraining Using a Large Corpus Machine-Translated from a Single Source Language**|Jiayi Wang et.al.|[2410.23956v1](http://arxiv.org/abs/2410.23956v1)|null|
+|**2024-10-31**|**GlotCC: An Open Broad-Coverage CommonCrawl Corpus and Pipeline for Minority Languages**|Amir Hossein Kargaran et.al.|[2410.23825v1](http://arxiv.org/abs/2410.23825v1)|**[link](https://github.com/cisnlp/glotcc)**|
+|**2024-10-31**|**Graph Neural Networks Uncover Geometric Neural Representations in Reinforcement-Based Motor Learning**|Federico Nardi et.al.|[2410.23812v1](http://arxiv.org/abs/2410.23812v1)|null|
+|**2024-10-31**|**Aggregate-and-Adapt Natural Language Prompts for Downstream Generalization of CLIP**|Chen Huang et.al.|[2410.23698v1](http://arxiv.org/abs/2410.23698v1)|null|
+|**2024-10-31**|**Deep Convolutional Neural Networks on Multiclass Classification of Three-Dimensional Brain Images for Parkinson's Disease Stage Prediction**|Guan-Hua Huang et.al.|[2410.23649v1](http://arxiv.org/abs/2410.23649v1)|null|
 |**2024-10-30**|**$100K or 100 Days: Trade-offs when Pre-Training with Academic Resources**|Apoorv Khandelwal et.al.|[2410.23261v1](http://arxiv.org/abs/2410.23261v1)|**[link](https://github.com/apoorvkh/academic-pretraining)**|
 |**2024-10-30**|**Why Fine-grained Labels in Pretraining Benefit Generalization?**|Guan Zhe Hong et.al.|[2410.23129v1](http://arxiv.org/abs/2410.23129v1)|null|
 |**2024-10-30**|**Don't Just Pay Attention, PLANT It: Transfer L2R Models to Fine-tune Attention in Extreme Multi-Label Text Classification**|Debjyoti Saharoy et.al.|[2410.23066v1](http://arxiv.org/abs/2410.23066v1)|null|
@@ -3853,12 +3863,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241101>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241102>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-31**|**Length-Induced Embedding Collapse in Transformer-based Models**|Yuqi Zhou et.al.|[2410.24200v1](http://arxiv.org/abs/2410.24200v1)|null|
+|**2024-10-31**|**DC-Spin: A Speaker-invariant Speech Tokenizer for Spoken Language Models**|Heng-Jui Chang et.al.|[2410.24177v1](http://arxiv.org/abs/2410.24177v1)|null|
+|**2024-10-31**|**AdaFlow: Opportunistic Inference on Asynchronous Mobile Data with Generalized Affinity Control**|Fenmin Wu et.al.|[2410.24028v1](http://arxiv.org/abs/2410.24028v1)|null|
+|**2024-10-31**|**SFM-Protein: Integrative Co-evolutionary Pre-training for Advanced Protein Sequence Representation**|Liang He et.al.|[2410.24022v1](http://arxiv.org/abs/2410.24022v1)|null|
+|**2024-10-31**|**Bayesian-guided Label Mapping for Visual Reprogramming**|Chengyi Cai et.al.|[2410.24018v1](http://arxiv.org/abs/2410.24018v1)|**[link](https://github.com/tmlr-group/bayesianlm)**|
+|**2024-10-31**|**An Information Criterion for Controlled Disentanglement of Multimodal Data**|Chenyu Wang et.al.|[2410.23996v1](http://arxiv.org/abs/2410.23996v1)|null|
+|**2024-10-31**|**JEMA: A Joint Embedding Framework for Scalable Co-Learning with Multimodal Alignment**|Joao Sousa et.al.|[2410.23988v1](http://arxiv.org/abs/2410.23988v1)|null|
+|**2024-10-31**|**RAGraph: A General Retrieval-Augmented Graph Learning Framework**|Xinke Jiang et.al.|[2410.23855v1](http://arxiv.org/abs/2410.23855v1)|null|
+|**2024-10-31**|**FRoundation: Are Foundation Models Ready for Face Recognition?**|Tahar Chettaoui et.al.|[2410.23831v1](http://arxiv.org/abs/2410.23831v1)|null|
+|**2024-10-31**|**Disentangling Disentangled Representations: Towards Improved Latent Units via Diffusion Models**|Youngjun Jun et.al.|[2410.23820v1](http://arxiv.org/abs/2410.23820v1)|null|
 |**2024-10-30**|**OpenSatMap: A Fine-grained High-resolution Satellite Dataset for Large-scale Map Construction**|Hongbo Zhao et.al.|[2410.23278v1](http://arxiv.org/abs/2410.23278v1)|null|
 |**2024-10-31**|**Aligning Audio-Visual Joint Representations with an Agentic Workflow**|Shentong Mo et.al.|[2410.23230v2](http://arxiv.org/abs/2410.23230v2)|null|
 |**2024-10-30**|**Why Fine-grained Labels in Pretraining Benefit Generalization?**|Guan Zhe Hong et.al.|[2410.23129v1](http://arxiv.org/abs/2410.23129v1)|null|
@@ -7403,7 +7423,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20241101>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241102>back to top</a>)</p>
 
 ## adaptor
 
@@ -7547,12 +7567,18 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20241101>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241102>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-31**|**ImOV3D: Learning Open-Vocabulary Point Clouds 3D Object Detection from Only 2D Images**|Timing Yang et.al.|[2410.24001v1](http://arxiv.org/abs/2410.24001v1)|**[link](https://github.com/yangtiming/imov3d)**|
+|**2024-10-31**|**Localization, balance and affinity: a stronger multifaceted collaborative salient object detector in remote sensing images**|Yakun Xie et.al.|[2410.23991v1](http://arxiv.org/abs/2410.23991v1)|null|
+|**2024-10-31**|**Uncertainty Estimation for 3D Object Detection via Evidential Learning**|Nikita Durasov et.al.|[2410.23910v1](http://arxiv.org/abs/2410.23910v1)|null|
+|**2024-10-31**|**From Web Data to Real Fields: Low-Cost Unsupervised Domain Adaptation for Agricultural Robots**|Vasileios Tzouras et.al.|[2410.23906v1](http://arxiv.org/abs/2410.23906v1)|null|
+|**2024-10-31**|**Open-Set 3D object detection in LiDAR data as an Out-of-Distribution problem**|Louis Soum-Fontez et.al.|[2410.23767v1](http://arxiv.org/abs/2410.23767v1)|null|
+|**2024-10-31**|**Context-Aware Token Selection and Packing for Enhanced Vision Transformer**|Tianyi Zhang et.al.|[2410.23608v1](http://arxiv.org/abs/2410.23608v1)|null|
 |**2024-10-30**|**EMMA: End-to-End Multimodal Model for Autonomous Driving**|Jyh-Jing Hwang et.al.|[2410.23262v1](http://arxiv.org/abs/2410.23262v1)|null|
 |**2024-10-30**|**S3PT: Scene Semantics and Structure Guided Clustering to Boost Self-Supervised Pre-Training for Autonomous Driving**|Maciej K. Wozniak et.al.|[2410.23085v1](http://arxiv.org/abs/2410.23085v1)|null|
 |**2024-10-30**|**First Place Solution to the ECCV 2024 ROAD++ Challenge @ ROAD++ Spatiotemporal Agent Detection 2024**|Tengfei Zhang et.al.|[2410.23077v1](http://arxiv.org/abs/2410.23077v1)|null|
@@ -10745,7 +10771,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20241101>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241102>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
