@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.05
+## Updated on 2024.11.06
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-04**|**Prompting with Phonemes: Enhancing LLM Multilinguality for non-Latin Script Languages**|Hoang Nguyen et.al.|[2411.02398v1](http://arxiv.org/abs/2411.02398v1)|null|
+|**2024-11-04**|**Learning General-Purpose Biomedical Volume Representations using Randomized Synthesis**|Neel Dey et.al.|[2411.02372v1](http://arxiv.org/abs/2411.02372v1)|**[link](https://github.com/neel-dey/anatomix)**|
+|**2024-11-04**|**3D Audio-Visual Segmentation**|Artem Sokolov et.al.|[2411.02236v1](http://arxiv.org/abs/2411.02236v1)|null|
+|**2024-11-04**|**AM Flow: Adapters for Temporal Processing in Action Recognition**|Tanay Agrawal et.al.|[2411.02065v1](http://arxiv.org/abs/2411.02065v1)|null|
+|**2024-11-04**|**A Novel Deep Learning Tractography Fiber Clustering Framework for Functionally Consistent White Matter Parcellation Using Multimodal Diffusion MRI and Functional MRI**|Jin Wang et.al.|[2411.01859v1](http://arxiv.org/abs/2411.01859v1)|null|
+|**2024-11-03**|**GraphXForm: Graph transformer for computer-aided molecular design with application to extraction**|Jonathan Pirnay et.al.|[2411.01667v1](http://arxiv.org/abs/2411.01667v1)|null|
+|**2024-11-03**|**DreamPolish: Domain Score Distillation With Progressive Geometry Generation**|Yean Cheng et.al.|[2411.01602v1](http://arxiv.org/abs/2411.01602v1)|null|
+|**2024-11-03**|**Finding NeMo: Negative-mined Mosaic Augmentation for Referring Image Segmentation**|Seongsu Ha et.al.|[2411.01494v1](http://arxiv.org/abs/2411.01494v1)|null|
+|**2024-11-02**|**Visual Fourier Prompt Tuning**|Runjia Zeng et.al.|[2411.01327v1](http://arxiv.org/abs/2411.01327v1)|**[link](https://github.com/runtsang/vfpt)**|
+|**2024-11-02**|**Infinite-Resolution Integral Noise Warping for Diffusion Models**|Yitong Deng et.al.|[2411.01212v1](http://arxiv.org/abs/2411.01212v1)|null|
 |**2024-10-31**|**URAvatar: Universal Relightable Gaussian Codec Avatars**|Junxuan Li et.al.|[2410.24223v1](http://arxiv.org/abs/2410.24223v1)|null|
 |**2024-10-31**|**GPT or BERT: why not both?**|Lucas Georges Gabriel Charpentier et.al.|[2410.24159v1](http://arxiv.org/abs/2410.24159v1)|**[link](https://github.com/ltgoslo/gpt-bert)**|
 |**2024-10-31**|**Reinforcement Learning Gradients as Vitamin for Online Finetuning Decision Transformers**|Kai Yan et.al.|[2410.24108v1](http://arxiv.org/abs/2410.24108v1)|**[link](https://github.com/kaiyan289/rl_as_vitamin_for_online_decision_transformers)**|
@@ -3863,12 +3873,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241105>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241106>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-04**|**Adaptive Length Image Tokenization via Recurrent Allocation**|Shivam Duggal et.al.|[2411.02393v1](http://arxiv.org/abs/2411.02393v1)|**[link](https://github.com/shivamduggal4/adaptive-length-tokenizer)**|
+|**2024-11-04**|**Learning General-Purpose Biomedical Volume Representations using Randomized Synthesis**|Neel Dey et.al.|[2411.02372v1](http://arxiv.org/abs/2411.02372v1)|**[link](https://github.com/neel-dey/anatomix)**|
+|**2024-11-04**|**SAFE: Slow and Fast Parameter-Efficient Tuning for Continual Learning with Pre-Trained Models**|Linglan Zhao et.al.|[2411.02175v1](http://arxiv.org/abs/2411.02175v1)|null|
+|**2024-11-04**|**Training Compute-Optimal Protein Language Models**|Xingyi Cheng et.al.|[2411.02142v1](http://arxiv.org/abs/2411.02142v1)|**[link](https://github.com/cxysteven/scalingproteinlm)**|
+|**2024-11-04**|**Scalable Efficient Training of Large Language Models with Low-dimensional Projected Attention**|Xingtai Lv et.al.|[2411.02063v1](http://arxiv.org/abs/2411.02063v1)|null|
+|**2024-11-04**|**Expanding Sparse Tuning for Low Memory Usage**|Shufan Shen et.al.|[2411.01800v1](http://arxiv.org/abs/2411.01800v1)|**[link](https://github.com/ssfgunner/snell)**|
+|**2024-11-03**|**A Visual Question Answering Method for SAR Ship: Breaking the Requirement for Multimodal Dataset Construction and Model Fine-Tuning**|Fei Wang et.al.|[2411.01445v1](http://arxiv.org/abs/2411.01445v1)|null|
+|**2024-11-03**|**Pre-trained Molecular Language Models with Random Functional Group Masking**|Tianhao Peng et.al.|[2411.01401v1](http://arxiv.org/abs/2411.01401v1)|null|
+|**2024-11-02**|**PRIMO: Progressive Induction for Multi-hop Open Rule Generation**|Jianyu Liu et.al.|[2411.01205v1](http://arxiv.org/abs/2411.01205v1)|null|
+|**2024-11-02**|**Prompt Tuning with Diffusion for Few-Shot Pre-trained Policy Generalization**|Shengchao Hu et.al.|[2411.01168v1](http://arxiv.org/abs/2411.01168v1)|null|
 |**2024-10-31**|**Length-Induced Embedding Collapse in Transformer-based Models**|Yuqi Zhou et.al.|[2410.24200v1](http://arxiv.org/abs/2410.24200v1)|null|
 |**2024-10-31**|**DC-Spin: A Speaker-invariant Speech Tokenizer for Spoken Language Models**|Heng-Jui Chang et.al.|[2410.24177v1](http://arxiv.org/abs/2410.24177v1)|null|
 |**2024-10-31**|**AdaFlow: Opportunistic Inference on Asynchronous Mobile Data with Generalized Affinity Control**|Fenmin Wu et.al.|[2410.24028v1](http://arxiv.org/abs/2410.24028v1)|null|
@@ -7423,12 +7443,14 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20241105>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241106>back to top</a>)</p>
 
 ## adaptor
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-02**|**PMoL: Parameter Efficient MoE for Preference Mixing of LLM Alignment**|Dongxu Liu et.al.|[2411.01245v1](http://arxiv.org/abs/2411.01245v1)|null|
+|**2024-11-01**|**SpineFM: Leveraging Foundation Models for Automatic Spine X-ray Segmentation**|Samuel J. Simons et.al.|[2411.00326v1](http://arxiv.org/abs/2411.00326v1)|null|
 |**2024-10-23**|**RE-tune: Incremental Fine Tuning of Biomedical Vision-Language Models for Multi-label Chest X-ray Classification**|Marco Mistretta et.al.|[2410.17827v1](http://arxiv.org/abs/2410.17827v1)|null|
 |**2024-10-16**|**MuVi: Video-to-Music Generation with Semantic Alignment and Rhythmic Synchronization**|Ruiqi Li et.al.|[2410.12957v1](http://arxiv.org/abs/2410.12957v1)|null|
 |**2024-10-14**|**Functional Adaptor Signatures: Beyond All-or-Nothing Blockchain-based Payments**|Nikhil Vanjani et.al.|[2410.11134v1](http://arxiv.org/abs/2410.11134v1)|null|
@@ -7567,12 +7589,22 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20241105>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241106>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-04**|**SIRA: Scalable Inter-frame Relation and Association for Radar Perception**|Ryoma Yataka et.al.|[2411.02220v1](http://arxiv.org/abs/2411.02220v1)|null|
+|**2024-11-04**|**Exploiting Unlabeled Data with Multiple Expert Teachers for Open Vocabulary Aerial Object Detection and Its Orientation Adaptation**|Yan Li et.al.|[2411.02057v1](http://arxiv.org/abs/2411.02057v1)|**[link](https://github.com/lizzy8587/castdet)**|
+|**2024-11-04**|**V-CAS: A Realtime Vehicle Anti Collision System Using Vision Transformer on Multi-Camera Streams**|Muhammad Waqas Ashraf et.al.|[2411.01963v1](http://arxiv.org/abs/2411.01963v1)|null|
+|**2024-11-04**|**Exploiting Contextual Uncertainty of Visual Data for Efficient Training of Deep Models**|Sharat Agarwal et.al.|[2411.01925v1](http://arxiv.org/abs/2411.01925v1)|null|
+|**2024-11-04**|**LiDAttack: Robust Black-box Attack on LiDAR-based Object Detection**|Jinyin Chen et.al.|[2411.01889v1](http://arxiv.org/abs/2411.01889v1)|**[link](https://github.com/cinderyl/lidattack)**|
+|**2024-11-03**|**ROAD-Waymo: Action Awareness at Scale for Autonomous Driving**|Salman Khan et.al.|[2411.01683v1](http://arxiv.org/abs/2411.01683v1)|null|
+|**2024-11-03**|**OSAD: Open-Set Aircraft Detection in SAR Images**|Xiayang Xiao et.al.|[2411.01597v1](http://arxiv.org/abs/2411.01597v1)|null|
+|**2024-11-03**|**One for All: Multi-Domain Joint Training for Point Cloud Based 3D Object Detection**|Zhenyu Wang et.al.|[2411.01584v1](http://arxiv.org/abs/2411.01584v1)|null|
+|**2024-11-03**|**A Visual Question Answering Method for SAR Ship: Breaking the Requirement for Multimodal Dataset Construction and Model Fine-Tuning**|Fei Wang et.al.|[2411.01445v1](http://arxiv.org/abs/2411.01445v1)|null|
+|**2024-11-03**|**Efficient Deep Learning Infrastructures for Embedded Computing Systems: A Comprehensive Survey and Future Envision**|Xiangzhong Luo et.al.|[2411.01431v1](http://arxiv.org/abs/2411.01431v1)|null|
 |**2024-10-31**|**ImOV3D: Learning Open-Vocabulary Point Clouds 3D Object Detection from Only 2D Images**|Timing Yang et.al.|[2410.24001v1](http://arxiv.org/abs/2410.24001v1)|**[link](https://github.com/yangtiming/imov3d)**|
 |**2024-10-31**|**Localization, balance and affinity: a stronger multifaceted collaborative salient object detector in remote sensing images**|Yakun Xie et.al.|[2410.23991v1](http://arxiv.org/abs/2410.23991v1)|null|
 |**2024-10-31**|**Uncertainty Estimation for 3D Object Detection via Evidential Learning**|Nikita Durasov et.al.|[2410.23910v1](http://arxiv.org/abs/2410.23910v1)|null|
@@ -10771,7 +10803,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20241105>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241106>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
