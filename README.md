@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.07
+## Updated on 2024.11.08
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-06**|**Medical Adaptation of Large Language and Vision-Language Models: Are We Making Progress?**|Daniel P. Jeong et.al.|[2411.04118v1](http://arxiv.org/abs/2411.04118v1)|null|
+|**2024-11-06**|**Textual Decomposition Then Sub-motion-space Scattering for Open-Vocabulary Motion Generation**|Ke Fan et.al.|[2411.04079v1](http://arxiv.org/abs/2411.04079v1)|null|
+|**2024-11-06**|**Pseudo-labeling with Keyword Refining for Few-Supervised Video Captioning**|Ping Li et.al.|[2411.04059v1](http://arxiv.org/abs/2411.04059v1)|**[link](https://github.com/mlvccn/pkg_vidcap)**|
+|**2024-11-06**|**Number Cookbook: Number Understanding of Language Models and How to Improve It**|Haotong Yang et.al.|[2411.03766v1](http://arxiv.org/abs/2411.03766v1)|**[link](https://github.com/graphpku/number_cookbook)**|
+|**2024-11-06**|**Towards 3D Semantic Scene Completion for Autonomous Driving: A Meta-Learning Framework Empowered by Deformable Large-Kernel Attention and Mamba Model**|Yansong Qu et.al.|[2411.03672v1](http://arxiv.org/abs/2411.03672v1)|null|
+|**2024-11-06**|**Investigating Conceptual Blending of a Diffusion Model for Improving Nonword-to-Image Generation**|Chihaya Matsuhira et.al.|[2411.03595v1](http://arxiv.org/abs/2411.03595v1)|null|
+|**2024-11-05**|**Exploring the Benefits of Domain-Pretraining of Generative Large Language Models for Chemistry**|Anurag Acharya et.al.|[2411.03542v1](http://arxiv.org/abs/2411.03542v1)|null|
+|**2024-11-05**|**Two-Stage Pretraining for Molecular Property Prediction in the Wild**|Kevin Tirta Wijaya et.al.|[2411.03537v1](http://arxiv.org/abs/2411.03537v1)|null|
 |**2024-11-05**|**ShadowGPT: Learning to Solve Quantum Many-Body Problems from Randomized Measurements**|Jian Yao et.al.|[2411.03285v1](http://arxiv.org/abs/2411.03285v1)|null|
 |**2024-11-05**|**Speech Separation with Pretrained Frontend to Minimize Domain Mismatch**|Wupeng Wang et.al.|[2411.03085v1](http://arxiv.org/abs/2411.03085v1)|null|
 |**2024-11-05**|**A Mamba Foundation Model for Time Series Forecasting**|Haoyu Ma et.al.|[2411.02941v1](http://arxiv.org/abs/2411.02941v1)|null|
@@ -3883,13 +3891,18 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241107>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241108>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-05**|**Classification Done Right for Vision-Language Pre-Training**|Huang Zilong et.al.|[2411.03313v1](http://arxiv.org/abs/2411.03313v1)|**[link](https://github.com/x-cls/superclass)**|
+|**2024-11-06**|**Continuous-Time State Estimation Methods in Robotics: A Survey**|William Talbot et.al.|[2411.03951v1](http://arxiv.org/abs/2411.03951v1)|null|
+|**2024-11-06**|**Fine-tuning -- a Transfer Learning approach**|Joseph Arul Raj et.al.|[2411.03941v1](http://arxiv.org/abs/2411.03941v1)|null|
+|**2024-11-06**|**MambaPEFT: Exploring Parameter-Efficient Fine-Tuning for Mamba**|Masakazu Yoshimura et.al.|[2411.03855v1](http://arxiv.org/abs/2411.03855v1)|null|
+|**2024-11-06**|**VQA$^2$:Visual Question Answering for Video Quality Assessment**|Ziheng Jia et.al.|[2411.03795v1](http://arxiv.org/abs/2411.03795v1)|null|
+|**2024-11-05**|**VLA-3D: A Dataset for 3D Semantic Scene Understanding and Navigation**|Haochen Zhang et.al.|[2411.03540v1](http://arxiv.org/abs/2411.03540v1)|null|
+|**2024-11-06**|**Classification Done Right for Vision-Language Pre-Training**|Zilong Huang et.al.|[2411.03313v2](http://arxiv.org/abs/2411.03313v2)|**[link](https://github.com/x-cls/superclass)**|
 |**2024-11-05**|**DiffLM: Controllable Synthetic Data Generation via Diffusion Language Models**|Ying Zhou et.al.|[2411.03250v1](http://arxiv.org/abs/2411.03250v1)|null|
 |**2024-11-05**|**Pre-trained Visual Dynamics Representations for Efficient Policy Learning**|Hao Luo et.al.|[2411.03169v1](http://arxiv.org/abs/2411.03169v1)|null|
 |**2024-11-05**|**HumanVLM: Foundation for Human-Scene Vision-Language Model**|Dawei Dai et.al.|[2411.03034v1](http://arxiv.org/abs/2411.03034v1)|null|
@@ -7463,7 +7476,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20241107>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241108>back to top</a>)</p>
 
 ## adaptor
 
@@ -7609,12 +7622,15 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20241107>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241108>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-06**|**Efficient Fourier Filtering Network with Contrastive Learning for UAV-based Unaligned Bi-modal Salient Object Detection**|Pengfei Lyu et.al.|[2411.03728v1](http://arxiv.org/abs/2411.03728v1)|**[link](https://github.com/joshualpf/alignsal)**|
+|**2024-11-06**|**Estimation of Psychosocial Work Environment Exposures Through Video Object Detection. Proof of Concept Using CCTV Footage**|Claus D. Hansen et.al.|[2411.03724v1](http://arxiv.org/abs/2411.03724v1)|null|
+|**2024-11-05**|**An Application-Agnostic Automatic Target Recognition System Using Vision Language Models**|Anthony Palladino et.al.|[2411.03491v1](http://arxiv.org/abs/2411.03491v1)|null|
 |**2024-11-05**|**Self-supervised cross-modality learning for uncertainty-aware object detection and recognition in applications which lack pre-labelled training data**|Irum Mehboob et.al.|[2411.03082v1](http://arxiv.org/abs/2411.03082v1)|null|
 |**2024-11-05**|**CRT-Fusion: Camera, Radar, Temporal Fusion Using Motion Information for 3D Object Detection**|Jisong Kim et.al.|[2411.03013v1](http://arxiv.org/abs/2411.03013v1)|null|
 |**2024-11-05**|**Centerness-based Instance-aware Knowledge Distillation with Task-wise Mutual Lifting for Object Detection on Drone Imagery**|Bowei Du et.al.|[2411.02861v1](http://arxiv.org/abs/2411.02861v1)|null|
@@ -10831,7 +10847,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20241107>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241108>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
