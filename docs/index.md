@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.11
+## Updated on 2024.11.12
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-08**|**Asterisk*: Keep it Simple**|Andrew Semenov et.al.|[2411.05691v1](http://arxiv.org/abs/2411.05691v1)|null|
+|**2024-11-08**|**Tell What You Hear From What You See -- Video to Audio Generation Through Text**|Xiulong Liu et.al.|[2411.05679v1](http://arxiv.org/abs/2411.05679v1)|null|
+|**2024-11-08**|**A Two-Step Concept-Based Approach for Enhanced Interpretability and Trust in Skin Lesion Diagnosis**|Cristiano Patrício et.al.|[2411.05609v1](http://arxiv.org/abs/2411.05609v1)|null|
+|**2024-11-08**|**How Good is Your Wikipedia?**|Kushal Tatariya et.al.|[2411.05527v1](http://arxiv.org/abs/2411.05527v1)|null|
+|**2024-11-08**|**Do Histopathological Foundation Models Eliminate Batch Effects? A Comparative Study**|Jonah Kömen et.al.|[2411.05489v1](http://arxiv.org/abs/2411.05489v1)|null|
+|**2024-11-08**|**Hierarchical Visual Feature Aggregation for OCR-Free Document Understanding**|Jaeyoo Park et.al.|[2411.05254v1](http://arxiv.org/abs/2411.05254v1)|null|
+|**2024-11-07**|**Generalizable Single-Source Cross-modality Medical Image Segmentation via Invariant Causal Mechanisms**|Boqi Chen et.al.|[2411.05223v1](http://arxiv.org/abs/2411.05223v1)|null|
+|**2024-11-07**|**Q-SFT: Q-Learning for Language Models via Supervised Fine-Tuning**|Joey Hong et.al.|[2411.05193v1](http://arxiv.org/abs/2411.05193v1)|null|
+|**2024-11-07**|**Watermarking Language Models through Language Models**|Xin Zhong et.al.|[2411.05091v1](http://arxiv.org/abs/2411.05091v1)|null|
 |**2024-11-07**|**Mixture-of-Transformers: A Sparse and Scalable Architecture for Multi-Modal Foundation Models**|Weixin Liang et.al.|[2411.04996v1](http://arxiv.org/abs/2411.04996v1)|null|
 |**2024-11-07**|**Few-Shot Task Learning through Inverse Generative Modeling**|Aviv Netanyahu et.al.|[2411.04987v1](http://arxiv.org/abs/2411.04987v1)|null|
 |**2024-11-07**|**The Semantic Hub Hypothesis: Language Models Share Semantic Representations Across Languages and Modalities**|Zhaofeng Wu et.al.|[2411.04986v1](http://arxiv.org/abs/2411.04986v1)|null|
@@ -3905,12 +3914,18 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241111>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241112>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-08**|**Enhancing Model Fairness and Accuracy with Similarity Networks: A Methodological Approach**|Samira Maghool et.al.|[2411.05648v1](http://arxiv.org/abs/2411.05648v1)|null|
+|**2024-11-08**|**Training objective drives the consistency of representational similarity across datasets**|Laure Ciernik et.al.|[2411.05561v1](http://arxiv.org/abs/2411.05561v1)|**[link](https://github.com/lciernik/similarity_consistency)**|
+|**2024-11-08**|**Towards Scalable Foundation Models for Digital Dermatology**|Fabian Gröger et.al.|[2411.05514v1](http://arxiv.org/abs/2411.05514v1)|null|
+|**2024-11-08**|**Do Histopathological Foundation Models Eliminate Batch Effects? A Comparative Study**|Jonah Kömen et.al.|[2411.05489v1](http://arxiv.org/abs/2411.05489v1)|null|
+|**2024-11-08**|**A Taxonomy of AgentOps for Enabling Observability of Foundation Model based Agents**|Liming Dong et.al.|[2411.05285v1](http://arxiv.org/abs/2411.05285v1)|null|
+|**2024-11-07**|**Exploiting the Structure of Two Graphs with Graph Neural Networks**|Victor M. Tenorio et.al.|[2411.05119v1](http://arxiv.org/abs/2411.05119v1)|**[link](https://github.com/vmtenorio/io-gnn)**|
 |**2024-11-07**|**Uncovering Hidden Subspaces in Video Diffusion Models Using Re-Identification**|Mischa Dombrowski et.al.|[2411.04956v1](http://arxiv.org/abs/2411.04956v1)|null|
 |**2024-11-07**|**OneProt: Towards Multi-Modal Protein Foundation Models**|Klemens Flöge et.al.|[2411.04863v1](http://arxiv.org/abs/2411.04863v1)|**[link](https://github.com/klemens-floege/oneprot)**|
 |**2024-11-07**|**Taming Rectified Flow for Inversion and Editing**|Jiangshan Wang et.al.|[2411.04746v1](http://arxiv.org/abs/2411.04746v1)|**[link](https://github.com/wangjiangshan0725/rf-solver-edit)**|
@@ -7498,7 +7513,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20241111>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241112>back to top</a>)</p>
 
 ## adaptor
 
@@ -7644,12 +7659,15 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20241111>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241112>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-08**|**Open-set object detection: towards unified problem formulation and benchmarking**|Hejer Ammar et.al.|[2411.05564v1](http://arxiv.org/abs/2411.05564v1)|null|
+|**2024-11-08**|**ZOPP: A Framework of Zero-shot Offboard Panoptic Perception for Autonomous Driving**|Tao Ma et.al.|[2411.05311v1](http://arxiv.org/abs/2411.05311v1)|null|
+|**2024-11-08**|**SimpleBEV: Improved LiDAR-Camera Fusion Architecture for 3D Object Detection**|Yun Zhao et.al.|[2411.05292v1](http://arxiv.org/abs/2411.05292v1)|null|
 |**2024-11-07**|**On the Inherent Robustness of One-Stage Object Detection against Out-of-Distribution Data**|Aitor Martinez-Seras et.al.|[2411.04586v1](http://arxiv.org/abs/2411.04586v1)|null|
 |**2024-11-07**|**l0-Regularized Sparse Coding-based Interpretable Network for Multi-Modal Image Fusion**|Gargi Panda et.al.|[2411.04519v1](http://arxiv.org/abs/2411.04519v1)|null|
 |**2024-11-07**|**Pose2Trajectory: Using Transformers on Body Pose to Predict Tennis Player's Trajectory**|Ali K. AlShami et.al.|[2411.04501v1](http://arxiv.org/abs/2411.04501v1)|null|
@@ -10875,7 +10893,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20241111>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241112>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
