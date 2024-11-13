@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.11.12
+> Updated on 2024.11.13
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,16 @@
 
 ## pretrain
 
+- 2024-11-11, **DeepONet as a Multi-Operator Extrapolation Model: Distributed Pretraining with Physics-Informed Fine-Tuning**, Zecheng Zhang et.al., Paper: [http://arxiv.org/abs/2411.07239v1](http://arxiv.org/abs/2411.07239v1)
+- 2024-11-11, **Add-it: Training-Free Object Insertion in Images With Pretrained Diffusion Models**, Yoad Tewel et.al., Paper: [http://arxiv.org/abs/2411.07232v1](http://arxiv.org/abs/2411.07232v1)
+- 2024-11-11, **Grounding Video Models to Actions through Goal Conditioned Exploration**, Yunhao Luo et.al., Paper: [http://arxiv.org/abs/2411.07223v1](http://arxiv.org/abs/2411.07223v1)
+- 2024-11-11, **Continual Memorization of Factoids in Large Language Models**, Howard Chen et.al., Paper: [http://arxiv.org/abs/2411.07175v1](http://arxiv.org/abs/2411.07175v1), Code: **[https://github.com/princeton-nlp/continual-factoid-memorization](https://github.com/princeton-nlp/continual-factoid-memorization)**
+- 2024-11-11, **On Active Privacy Auditing in Supervised Fine-tuning for White-Box Language Models**, Qian Sun et.al., Paper: [http://arxiv.org/abs/2411.07070v1](http://arxiv.org/abs/2411.07070v1)
+- 2024-11-11, **Renaissance: Investigating the Pretraining of Vision-Language Encoders**, Clayton Fields et.al., Paper: [http://arxiv.org/abs/2411.06657v1](http://arxiv.org/abs/2411.06657v1), Code: **[https://github.com/bsu-slim/renaissance](https://github.com/bsu-slim/renaissance)**
+- 2024-11-11, **Explore the Reasoning Capability of LLMs in the Chess Testbed**, Shu Wang et.al., Paper: [http://arxiv.org/abs/2411.06655v1](http://arxiv.org/abs/2411.06655v1)
+- 2024-11-10, **Debatts: Zero-Shot Debating Text-to-Speech Synthesis**, Yiqiao Huang et.al., Paper: [http://arxiv.org/abs/2411.06540v1](http://arxiv.org/abs/2411.06540v1)
+- 2024-11-10, **Improved Video VAE for Latent Video Diffusion Model**, Pingyu Wu et.al., Paper: [http://arxiv.org/abs/2411.06449v1](http://arxiv.org/abs/2411.06449v1)
+- 2024-11-10, **PLM-Based Discrete Diffusion Language Models with Entropy-Adaptive Gibbs Sampling**, Hyukhun Koh et.al., Paper: [http://arxiv.org/abs/2411.06438v1](http://arxiv.org/abs/2411.06438v1)
 - 2024-11-08, **Asterisk*: Keep it Simple**, Andrew Semenov et.al., Paper: [http://arxiv.org/abs/2411.05691v1](http://arxiv.org/abs/2411.05691v1)
 - 2024-11-08, **Tell What You Hear From What You See -- Video to Audio Generation Through Text**, Xiulong Liu et.al., Paper: [http://arxiv.org/abs/2411.05679v1](http://arxiv.org/abs/2411.05679v1)
 - 2024-11-08, **A Two-Step Concept-Based Approach for Enhanced Interpretability and Trust in Skin Lesion Diagnosis**, Cristiano Patrício et.al., Paper: [http://arxiv.org/abs/2411.05609v1](http://arxiv.org/abs/2411.05609v1)
@@ -3908,10 +3918,20 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20241112>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241113>back to top</a>)</p>
 
 ## downstream
 
+- 2024-11-11, **DeepONet as a Multi-Operator Extrapolation Model: Distributed Pretraining with Physics-Informed Fine-Tuning**, Zecheng Zhang et.al., Paper: [http://arxiv.org/abs/2411.07239v1](http://arxiv.org/abs/2411.07239v1)
+- 2024-11-11, **General Geospatial Inference with a Population Dynamics Foundation Model**, Mohit Agarwal et.al., Paper: [http://arxiv.org/abs/2411.07207v1](http://arxiv.org/abs/2411.07207v1)
+- 2024-11-11, **UMFC: Unsupervised Multi-Domain Feature Calibration for Vision-Language Models**, Jiachen Liang et.al., Paper: [http://arxiv.org/abs/2411.06921v1](http://arxiv.org/abs/2411.06921v1)
+- 2024-11-11, **Multi-Stage Knowledge Integration of Vision-Language Models for Continual Learning**, Hongsheng Zhang et.al., Paper: [http://arxiv.org/abs/2411.06764v1](http://arxiv.org/abs/2411.06764v1)
+- 2024-11-11, **Model Fusion through Bayesian Optimization in Language Model Fine-Tuning**, Chaeyun Jang et.al., Paper: [http://arxiv.org/abs/2411.06710v1](http://arxiv.org/abs/2411.06710v1), Code: **[https://github.com/chaeyoon-jang/bomf](https://github.com/chaeyoon-jang/bomf)**
+- 2024-11-10, **vTune: Verifiable Fine-Tuning for LLMs Through Backdooring**, Eva Zhang et.al., Paper: [http://arxiv.org/abs/2411.06611v1](http://arxiv.org/abs/2411.06611v1)
+- 2024-11-10, **PRISM: Privacy-preserving Inter-Site MRI Harmonization via Disentangled Representation Learning**, Sarang Galada et.al., Paper: [http://arxiv.org/abs/2411.06513v1](http://arxiv.org/abs/2411.06513v1), Code: **[https://github.com/saranggalada/prism](https://github.com/saranggalada/prism)**
+- 2024-11-10, **Understanding the Role of Equivariance in Self-supervised Learning**, Yifei Wang et.al., Paper: [http://arxiv.org/abs/2411.06508v1](http://arxiv.org/abs/2411.06508v1), Code: **[https://github.com/kaotty/understanding-essl](https://github.com/kaotty/understanding-essl)**
+- 2024-11-10, **Superpixel Segmentation: A Long-Lasting Ill-Posed Problem**, Rémi Giraud et.al., Paper: [http://arxiv.org/abs/2411.06478v1](http://arxiv.org/abs/2411.06478v1)
+- 2024-11-10, **Learning Uniformly Distributed Embedding Clusters of Stylistic Skills for Physically Simulated Characters**, Nian Liu et.al., Paper: [http://arxiv.org/abs/2411.06459v1](http://arxiv.org/abs/2411.06459v1)
 - 2024-11-08, **Enhancing Model Fairness and Accuracy with Similarity Networks: A Methodological Approach**, Samira Maghool et.al., Paper: [http://arxiv.org/abs/2411.05648v1](http://arxiv.org/abs/2411.05648v1)
 - 2024-11-08, **Training objective drives the consistency of representational similarity across datasets**, Laure Ciernik et.al., Paper: [http://arxiv.org/abs/2411.05561v1](http://arxiv.org/abs/2411.05561v1), Code: **[https://github.com/lciernik/similarity_consistency](https://github.com/lciernik/similarity_consistency)**
 - 2024-11-08, **Towards Scalable Foundation Models for Digital Dermatology**, Fabian Gröger et.al., Paper: [http://arxiv.org/abs/2411.05514v1](http://arxiv.org/abs/2411.05514v1)
@@ -7505,10 +7525,12 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20241112>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241113>back to top</a>)</p>
 
 ## adaptor
 
+- 2024-11-09, **LSSInst: Improving Geometric Modeling in LSS-Based BEV Perception with Instance Representation**, Weijie Ma et.al., Paper: [http://arxiv.org/abs/2411.06173v1](http://arxiv.org/abs/2411.06173v1), Code: **[https://github.com/weijiemax/lssinst](https://github.com/weijiemax/lssinst)**
+- 2024-11-08, **Energy Efficient Protein Language Models: Leveraging Small Language Models with LoRA for Controllable Protein Generation**, Aayush Shah et.al., Paper: [http://arxiv.org/abs/2411.05966v1](http://arxiv.org/abs/2411.05966v1)
 - 2024-11-02, **PMoL: Parameter Efficient MoE for Preference Mixing of LLM Alignment**, Dongxu Liu et.al., Paper: [http://arxiv.org/abs/2411.01245v1](http://arxiv.org/abs/2411.01245v1)
 - 2024-11-01, **SpineFM: Leveraging Foundation Models for Automatic Spine X-ray Segmentation**, Samuel J. Simons et.al., Paper: [http://arxiv.org/abs/2411.00326v1](http://arxiv.org/abs/2411.00326v1)
 - 2024-10-23, **RE-tune: Incremental Fine Tuning of Biomedical Vision-Language Models for Multi-label Chest X-ray Classification**, Marco Mistretta et.al., Paper: [http://arxiv.org/abs/2410.17827v1](http://arxiv.org/abs/2410.17827v1)
@@ -7649,10 +7671,20 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20241112>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241113>back to top</a>)</p>
 
 ## object detection
 
+- 2024-11-11, **Transformers for Charged Particle Track Reconstruction in High Energy Physics**, Samuel Van Stroud et.al., Paper: [http://arxiv.org/abs/2411.07149v1](http://arxiv.org/abs/2411.07149v1)
+- 2024-11-11, **Multi-scale Frequency Enhancement Network for Blind Image Deblurring**, Yawen Xiang et.al., Paper: [http://arxiv.org/abs/2411.06893v1](http://arxiv.org/abs/2411.06893v1)
+- 2024-11-11, **Fast and Efficient Transformer-based Method for Bird's Eye View Instance Prediction**, Miguel Antunes-García et.al., Paper: [http://arxiv.org/abs/2411.06851v1](http://arxiv.org/abs/2411.06851v1), Code: **[https://github.com/miguelag99/efficient-instance-prediction](https://github.com/miguelag99/efficient-instance-prediction)**
+- 2024-11-11, **Learning from Feedback: Semantic Enhancement for Object SLAM Using Foundation Models**, Jungseok Hong et.al., Paper: [http://arxiv.org/abs/2411.06752v1](http://arxiv.org/abs/2411.06752v1)
+- 2024-11-11, **United Domain Cognition Network for Salient Object Detection in Optical Remote Sensing Images**, Yanguang Sun et.al., Paper: [http://arxiv.org/abs/2411.06703v1](http://arxiv.org/abs/2411.06703v1), Code: **[https://github.com/csysi/udcnet](https://github.com/csysi/udcnet)**
+- 2024-11-11, **Track Any Peppers: Weakly Supervised Sweet Pepper Tracking Using VLMs**, Jia Syuen Lim et.al., Paper: [http://arxiv.org/abs/2411.06702v1](http://arxiv.org/abs/2411.06702v1)
+- 2024-11-11, **LFSamba: Marry SAM with Mamba for Light Field Salient Object Detection**, Zhengyi Liu et.al., Paper: [http://arxiv.org/abs/2411.06652v1](http://arxiv.org/abs/2411.06652v1)
+- 2024-11-09, **LSSInst: Improving Geometric Modeling in LSS-Based BEV Perception with Instance Representation**, Weijie Ma et.al., Paper: [http://arxiv.org/abs/2411.06173v1](http://arxiv.org/abs/2411.06173v1), Code: **[https://github.com/weijiemax/lssinst](https://github.com/weijiemax/lssinst)**
+- 2024-11-09, **AI-Compass: A Comprehensive and Effective Multi-module Testing Tool for AI Systems**, Zhiyu Zhu et.al., Paper: [http://arxiv.org/abs/2411.06146v1](http://arxiv.org/abs/2411.06146v1)
+- 2024-11-09, **Pattern Integration and Enhancement Vision Transformer for Self-Supervised Learning in Remote Sensing**, Kaixuan Lu et.al., Paper: [http://arxiv.org/abs/2411.06091v1](http://arxiv.org/abs/2411.06091v1)
 - 2024-11-08, **Open-set object detection: towards unified problem formulation and benchmarking**, Hejer Ammar et.al., Paper: [http://arxiv.org/abs/2411.05564v1](http://arxiv.org/abs/2411.05564v1)
 - 2024-11-08, **ZOPP: A Framework of Zero-shot Offboard Panoptic Perception for Autonomous Driving**, Tao Ma et.al., Paper: [http://arxiv.org/abs/2411.05311v1](http://arxiv.org/abs/2411.05311v1)
 - 2024-11-08, **SimpleBEV: Improved LiDAR-Camera Fusion Architecture for 3D Object Detection**, Yun Zhao et.al., Paper: [http://arxiv.org/abs/2411.05292v1](http://arxiv.org/abs/2411.05292v1)
@@ -10881,7 +10913,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20241112>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241113>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
