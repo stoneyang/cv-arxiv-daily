@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.11.14
+> Updated on 2024.11.15
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,7 +17,13 @@
 
 ## pretrain
 
-- 2024-11-12, **Wavelet Latent Diffusion (Wala): Billion-Parameter 3D Generative Model with Compact Wavelet Encodings**, Aditya Sanghi et.al., Paper: [http://arxiv.org/abs/2411.08017v1](http://arxiv.org/abs/2411.08017v1)
+- 2024-11-13, **The Limited Impact of Medical Adaptation of Large Language and Vision-Language Models**, Daniel P. Jeong et.al., Paper: [http://arxiv.org/abs/2411.08870v1](http://arxiv.org/abs/2411.08870v1)
+- 2024-11-13, **AstroM$^3$: A self-supervised multimodal model for astronomy**, Mariia Rizhko et.al., Paper: [http://arxiv.org/abs/2411.08842v1](http://arxiv.org/abs/2411.08842v1)
+- 2024-11-13, **MVKTrans: Multi-View Knowledge Transfer for Robust Multiomics Classification**, Shan Cong et.al., Paper: [http://arxiv.org/abs/2411.08703v1](http://arxiv.org/abs/2411.08703v1)
+- 2024-11-13, **Theoretical Analysis of Byte-Pair Encoding**, László Kozma et.al., Paper: [http://arxiv.org/abs/2411.08671v1](http://arxiv.org/abs/2411.08671v1)
+- 2024-11-13, **DEEGITS: Deep Learning based Framework for Measuring Heterogenous Traffic State in Challenging Traffic Scenarios**, Muttahirul Islam et.al., Paper: [http://arxiv.org/abs/2411.08335v1](http://arxiv.org/abs/2411.08335v1)
+- 2024-11-12, **Comprehensive and Comparative Analysis between Transfer Learning and Custom Built VGG and CNN-SVM Models for Wildfire Detection**, Aditya V. Jonnalagadda et.al., Paper: [http://arxiv.org/abs/2411.08171v1](http://arxiv.org/abs/2411.08171v1)
+- 2024-11-12, **Wavelet Latent Diffusion (Wala): Billion-Parameter 3D Generative Model with Compact Wavelet Encodings**, Aditya Sanghi et.al., Paper: [http://arxiv.org/abs/2411.08017v1](http://arxiv.org/abs/2411.08017v1), Code: **[https://github.com/autodeskailab/wala](https://github.com/autodeskailab/wala)**
 - 2024-11-12, **Learning Disentangled Representations for Perceptual Point Cloud Quality Assessment via Mutual Information Minimization**, Ziyu Shan et.al., Paper: [http://arxiv.org/abs/2411.07936v1](http://arxiv.org/abs/2411.07936v1)
 - 2024-11-12, **Efficient Federated Finetuning of Tiny Transformers with Resource-Constrained Devices**, Kilian Pfeiffer et.al., Paper: [http://arxiv.org/abs/2411.07826v1](http://arxiv.org/abs/2411.07826v1)
 - 2024-11-12, **Training Data for Large Language Model**, Yiming Ju et.al., Paper: [http://arxiv.org/abs/2411.07715v1](http://arxiv.org/abs/2411.07715v1)
@@ -3927,11 +3933,17 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20241114>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241115>back to top</a>)</p>
 
 ## downstream
 
-- 2024-11-12, **SoliDiffy: AST Differencing for Solidity Smart Contracts**, Mojtaba Eshghie et.al., Paper: [http://arxiv.org/abs/2411.07718v1](http://arxiv.org/abs/2411.07718v1), Code: **[https://github.com/mojtaba-eshghie/SoliDiffy](https://github.com/mojtaba-eshghie/SoliDiffy)**
+- 2024-11-13, **Large Wireless Model (LWM): A Foundation Model for Wireless Channels**, Sadjad Alikhani et.al., Paper: [http://arxiv.org/abs/2411.08872v1](http://arxiv.org/abs/2411.08872v1)
+- 2024-11-13, **AstroM$^3$: A self-supervised multimodal model for astronomy**, Mariia Rizhko et.al., Paper: [http://arxiv.org/abs/2411.08842v1](http://arxiv.org/abs/2411.08842v1)
+- 2024-11-13, **MVKTrans: Multi-View Knowledge Transfer for Robust Multiomics Classification**, Shan Cong et.al., Paper: [http://arxiv.org/abs/2411.08703v1](http://arxiv.org/abs/2411.08703v1)
+- 2024-11-13, **Dynamic Subset Tuning: Expanding the Operational Range of Parameter-Efficient Training for Large Language Models**, Felix Stahlberg et.al., Paper: [http://arxiv.org/abs/2411.08610v1](http://arxiv.org/abs/2411.08610v1)
+- 2024-11-13, **CorrSynth -- A Correlated Sampling Method for Diverse Dataset Generation from LLMs**, Suhas S Kowshik et.al., Paper: [http://arxiv.org/abs/2411.08553v1](http://arxiv.org/abs/2411.08553v1)
+- 2024-11-12, **What Representational Similarity Measures Imply about Decodable Information**, Sarah E. Harvey et.al., Paper: [http://arxiv.org/abs/2411.08197v1](http://arxiv.org/abs/2411.08197v1)
+- 2024-11-13, **SoliDiffy: AST Differencing for Solidity Smart Contracts**, Mojtaba Eshghie et.al., Paper: [http://arxiv.org/abs/2411.07718v2](http://arxiv.org/abs/2411.07718v2), Code: **[https://github.com/mojtaba-eshghie/SoliDiffy](https://github.com/mojtaba-eshghie/SoliDiffy)**
 - 2024-11-12, **Contrastive Language Prompting to Ease False Positives in Medical Anomaly Detection**, YeongHyeon Park et.al., Paper: [http://arxiv.org/abs/2411.07546v1](http://arxiv.org/abs/2411.07546v1)
 - 2024-11-12, **Quantifying Knowledge Distillation Using Partial Information Decomposition**, Pasan Dissanayake et.al., Paper: [http://arxiv.org/abs/2411.07483v1](http://arxiv.org/abs/2411.07483v1)
 - 2024-11-12, **GUS-IR: Gaussian Splatting with Unified Shading for Inverse Rendering**, Zhihao Liang et.al., Paper: [http://arxiv.org/abs/2411.07478v1](http://arxiv.org/abs/2411.07478v1)
@@ -7539,7 +7551,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20241114>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241115>back to top</a>)</p>
 
 ## adaptor
 
@@ -7687,10 +7699,14 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20241114>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241115>back to top</a>)</p>
 
 ## object detection
 
+- 2024-11-13, **UIFormer: A Unified Transformer-based Framework for Incremental Few-Shot Object Detection and Instance Segmentation**, Chengyuan Zhang et.al., Paper: [http://arxiv.org/abs/2411.08569v1](http://arxiv.org/abs/2411.08569v1)
+- 2024-11-13, **Methodology for a Statistical Analysis of Influencing Factors on 3D Object Detection Performance**, Anton Kuznietsov et.al., Paper: [http://arxiv.org/abs/2411.08482v1](http://arxiv.org/abs/2411.08482v1)
+- 2024-11-13, **V2X-R: Cooperative LiDAR-4D Radar Fusion for 3D Object Detection with Denoising Diffusion**, Xun Huang et.al., Paper: [http://arxiv.org/abs/2411.08402v1](http://arxiv.org/abs/2411.08402v1), Code: **[https://github.com/ylwhxht/v2x-r](https://github.com/ylwhxht/v2x-r)**
+- 2024-11-13, **Enhancing Multimodal Query Representation via Visual Dialogues for End-to-End Knowledge Retrieval**, Yeong-Joon Ju et.al., Paper: [http://arxiv.org/abs/2411.08334v1](http://arxiv.org/abs/2411.08334v1), Code: **[https://github.com/yeongjoonju/ret_xknow](https://github.com/yeongjoonju/ret_xknow)**
 - 2024-11-12, **Large-scale Remote Sensing Image Target Recognition and Automatic Annotation**, Wuzheng Dong et.al., Paper: [http://arxiv.org/abs/2411.07802v1](http://arxiv.org/abs/2411.07802v1), Code: **[https://github.com/anaerovane/lrsaa](https://github.com/anaerovane/lrsaa)**
 - 2024-11-12, **Efficient 3D Perception on Multi-Sweep Point Cloud with Gumbel Spatial Pruning**, Jianhao Li et.al., Paper: [http://arxiv.org/abs/2411.07742v1](http://arxiv.org/abs/2411.07742v1)
 - 2024-11-12, **EMPERROR: A Flexible Generative Perception Error Model for Probing Self-Driving Planners**, Niklas Hanselmann et.al., Paper: [http://arxiv.org/abs/2411.07719v1](http://arxiv.org/abs/2411.07719v1)
@@ -10933,7 +10949,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20241114>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241115>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
