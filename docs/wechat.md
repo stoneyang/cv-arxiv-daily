@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.11.18
+> Updated on 2024.11.19
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,14 @@
 
 ## pretrain
 
+- 2024-11-15, **Measuring Non-Adversarial Reproduction of Training Data in Large Language Models**, Michael Aerni et.al., Paper: [http://arxiv.org/abs/2411.10242v1](http://arxiv.org/abs/2411.10242v1)
+- 2024-11-15, **Evaluating Text-to-Image Diffusion Models for Texturing Synthetic Data**, Thomas Lips et.al., Paper: [http://arxiv.org/abs/2411.10164v1](http://arxiv.org/abs/2411.10164v1)
+- 2024-11-15, **Prompting and Fine-tuning Large Language Models for Automated Code Review Comment Generation**, Md. Asif Haider et.al., Paper: [http://arxiv.org/abs/2411.10129v1](http://arxiv.org/abs/2411.10129v1)
+- 2024-11-15, **Xmodel-1.5: An 1B-scale Multilingual LLM**, Wang Qun et.al., Paper: [http://arxiv.org/abs/2411.10083v1](http://arxiv.org/abs/2411.10083v1), Code: **[https://github.com/xiaoduoailab/xmodellm](https://github.com/xiaoduoailab/xmodellm)**
+- 2024-11-15, **Building 6G Radio Foundation Models with Transformer Architectures**, Ahmed Aboulfotouh et.al., Paper: [http://arxiv.org/abs/2411.09996v1](http://arxiv.org/abs/2411.09996v1)
+- 2024-11-14, **Self-Supervised Radio Pre-training: Toward Foundational Models for Spectrogram Learning**, Ahmed Aboulfotouh et.al., Paper: [http://arxiv.org/abs/2411.09849v1](http://arxiv.org/abs/2411.09849v1)
+- 2024-11-14, **A Self-Supervised Model for Multi-modal Stroke Risk Prediction**, Camille Delgrange et.al., Paper: [http://arxiv.org/abs/2411.09822v1](http://arxiv.org/abs/2411.09822v1)
+- 2024-11-14, **Deep Learning for Fetal Inflammatory Response Diagnosis in the Umbilical Cord**, Marina A. Ayad et.al., Paper: [http://arxiv.org/abs/2411.09767v1](http://arxiv.org/abs/2411.09767v1)
 - 2024-11-14, **One-Shot Manipulation Strategy Learning by Making Contact Analogies**, Yuyao Liu et.al., Paper: [http://arxiv.org/abs/2411.09627v1](http://arxiv.org/abs/2411.09627v1)
 - 2024-11-14, **LLaMA-Mesh: Unifying 3D Mesh Generation with Language Models**, Zhengyi Wang et.al., Paper: [http://arxiv.org/abs/2411.09595v1](http://arxiv.org/abs/2411.09595v1)
 - 2024-11-14, **VPBSD:Vessel-Pattern-Based Semi-Supervised Distillation for Efficient 3D Microscopic Cerebrovascular Segmentation**, Xi Lin et.al., Paper: [http://arxiv.org/abs/2411.09567v1](http://arxiv.org/abs/2411.09567v1)
@@ -3938,10 +3946,16 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20241118>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241119>back to top</a>)</p>
 
 ## downstream
 
+- 2024-11-15, **NeISF++: Neural Incident Stokes Field for Polarized Inverse Rendering of Conductors and Dielectrics**, Chenhao Li et.al., Paper: [http://arxiv.org/abs/2411.10189v1](http://arxiv.org/abs/2411.10189v1)
+- 2024-11-15, **Increasing the Accessibility of Causal Domain Knowledge via Causal Information Extraction Methods: A Case Study in the Semiconductor Manufacturing Industry**, Houssam Razouk et.al., Paper: [http://arxiv.org/abs/2411.10172v1](http://arxiv.org/abs/2411.10172v1)
+- 2024-11-15, **Rethinking Normalization Strategies and Convolutional Kernels for Multimodal Image Fusion**, Dan He et.al., Paper: [http://arxiv.org/abs/2411.10036v1](http://arxiv.org/abs/2411.10036v1)
+- 2024-11-15, **Building 6G Radio Foundation Models with Transformer Architectures**, Ahmed Aboulfotouh et.al., Paper: [http://arxiv.org/abs/2411.09996v1](http://arxiv.org/abs/2411.09996v1)
+- 2024-11-15, **Free Lunch in Pathology Foundation Model: Task-specific Model Adaptation with Concept-Guided Feature Enhancement**, Yanyan Huang et.al., Paper: [http://arxiv.org/abs/2411.09894v1](http://arxiv.org/abs/2411.09894v1)
+- 2024-11-14, **Self-Supervised Radio Pre-training: Toward Foundational Models for Spectrogram Learning**, Ahmed Aboulfotouh et.al., Paper: [http://arxiv.org/abs/2411.09849v1](http://arxiv.org/abs/2411.09849v1)
 - 2024-11-14, **Squeezed Attention: Accelerating Long Context Length LLM Inference**, Coleman Hooper et.al., Paper: [http://arxiv.org/abs/2411.09688v1](http://arxiv.org/abs/2411.09688v1)
 - 2024-11-14, **A Practical Guide to Fine-tuning Language Models with Limited Data**, Márton Szép et.al., Paper: [http://arxiv.org/abs/2411.09539v1](http://arxiv.org/abs/2411.09539v1)
 - 2024-11-14, **An Adaptive Open-Source Dataset Generation Framework for Machine Learning Tasks in Logic Synthesis**, Liwei Ni et.al., Paper: [http://arxiv.org/abs/2411.09422v1](http://arxiv.org/abs/2411.09422v1), Code: **[https://github.com/logic-factory/ace](https://github.com/logic-factory/ace)**
@@ -7561,7 +7575,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20241118>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241119>back to top</a>)</p>
 
 ## adaptor
 
@@ -7709,10 +7723,17 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20241118>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241119>back to top</a>)</p>
 
 ## object detection
 
+- 2024-11-15, **Interactive Image-Based Aphid Counting in Yellow Water Traps under Stirring Actions**, Xumin Gao et.al., Paper: [http://arxiv.org/abs/2411.10357v1](http://arxiv.org/abs/2411.10357v1)
+- 2024-11-15, **RETR: Multi-View Radar Detection Transformer for Indoor Perception**, Ryoma Yataka et.al., Paper: [http://arxiv.org/abs/2411.10293v1](http://arxiv.org/abs/2411.10293v1)
+- 2024-11-15, **Visual-Linguistic Agent: Towards Collaborative Contextual Object Reasoning**, Jingru Yang et.al., Paper: [http://arxiv.org/abs/2411.10252v1](http://arxiv.org/abs/2411.10252v1)
+- 2024-11-15, **Real-Time AI-Driven People Tracking and Counting Using Overhead Cameras**, Ishrath Ahamed et.al., Paper: [http://arxiv.org/abs/2411.10072v1](http://arxiv.org/abs/2411.10072v1)
+- 2024-11-15, **Diachronic Document Dataset for Semantic Layout Analysis**, Thibault Clérice et.al., Paper: [http://arxiv.org/abs/2411.10068v1](http://arxiv.org/abs/2411.10068v1)
+- 2024-11-15, **Toward Robust and Accurate Adversarial Camouflage Generation against Vehicle Detectors**, Jiawei Zhou et.al., Paper: [http://arxiv.org/abs/2411.10029v1](http://arxiv.org/abs/2411.10029v1)
+- 2024-11-14, **Adversarial Attacks Using Differentiable Rendering: A Survey**, Matthew Hull et.al., Paper: [http://arxiv.org/abs/2411.09749v1](http://arxiv.org/abs/2411.09749v1)
 - 2024-11-14, **Local-Global Attention: An Adaptive Mechanism for Multi-Scale Feature Integration**, Yifan Shao et.al., Paper: [http://arxiv.org/abs/2411.09604v1](http://arxiv.org/abs/2411.09604v1), Code: **[https://github.com/ziyueqingwan/localglobalattention](https://github.com/ziyueqingwan/localglobalattention)**
 - 2024-11-14, **Long-Tailed Object Detection Pre-training: Dynamic Rebalancing Contrastive Learning with Dual Reconstruction**, Chen-Long Duan et.al., Paper: [http://arxiv.org/abs/2411.09453v1](http://arxiv.org/abs/2411.09453v1)
 - 2024-11-14, **Instruction-Driven Fusion of Infrared-Visible Images: Tailoring for Diverse Downstream Tasks**, Zengyi Yang et.al., Paper: [http://arxiv.org/abs/2411.09387v1](http://arxiv.org/abs/2411.09387v1)
@@ -10967,7 +10988,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20241118>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241119>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
