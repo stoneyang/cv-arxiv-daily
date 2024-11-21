@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.20
+## Updated on 2024.11.21
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,8 +19,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-19**|**Improving Controllability and Editability for Pretrained Text-to-Music Generation Models**|Yixiao Zhang et.al.|[2411.12641v1](http://arxiv.org/abs/2411.12641v1)|null|
+|**2024-11-19**|**A Multimodal Approach Combining Structural and Cross-domain Textual Guidance for Weakly Supervised OCT Segmentation**|Jiaqi Yang et.al.|[2411.12615v1](http://arxiv.org/abs/2411.12615v1)|**[link](https://github.com/yangjiaqidig/WSSS-AGM)**|
+|**2024-11-19**|**Procedural Knowledge in Pretraining Drives Reasoning in Large Language Models**|Laura Ruis et.al.|[2411.12580v1](http://arxiv.org/abs/2411.12580v1)|**[link](https://github.com/pomonam/kronfluence)**|
+|**2024-11-19**|**CLIP Unreasonable Potential in Single-Shot Face Recognition**|Nhan T. Luu et.al.|[2411.12319v1](http://arxiv.org/abs/2411.12319v1)|null|
+|**2024-11-19**|**Predicting User Intents and Musical Attributes from Music Discovery Conversations**|Daeyong Kwon et.al.|[2411.12254v1](http://arxiv.org/abs/2411.12254v1)|null|
+|**2024-11-19**|**Zero-Shot Crate Digging: DJ Tool Retrieval Using Speech Activity, Music Structure And CLAP Embeddings**|Iroro Orife et.al.|[2411.12209v1](http://arxiv.org/abs/2411.12209v1)|null|
+|**2024-11-19**|**CoMeDi Shared Task: Models as Annotators in Lexical Semantics Disagreements**|Zhu Liu et.al.|[2411.12147v1](http://arxiv.org/abs/2411.12147v1)|null|
 |**2024-11-18**|**LightFFDNets: Lightweight Convolutional Neural Networks for Rapid Facial Forgery Detection**|Günel Jabbarlı et.al.|[2411.11826v1](http://arxiv.org/abs/2411.11826v1)|null|
-|**2024-11-18**|**Cascaded Diffusion Models for 2D and 3D Microscopy Image Synthesis to Enhance Cell Segmentation**|Rüveyda Yilmaz et.al.|[2411.11515v1](http://arxiv.org/abs/2411.11515v1)|null|
+|**2024-11-19**|**Cascaded Diffusion Models for 2D and 3D Microscopy Image Synthesis to Enhance Cell Segmentation**|Rüveyda Yilmaz et.al.|[2411.11515v2](http://arxiv.org/abs/2411.11515v2)|null|
 |**2024-11-18**|**SCOP: A Sequence-Structure Contrast-Aware Framework for Protein Function Prediction**|Runze Ma et.al.|[2411.11366v1](http://arxiv.org/abs/2411.11366v1)|null|
 |**2024-11-18**|**CCExpert: Advancing MLLM Capability in Remote Sensing Change Captioning with Difference-Aware Integration and a Foundational Dataset**|Zhiming Wang et.al.|[2411.11360v1](http://arxiv.org/abs/2411.11360v1)|**[link](https://github.com/meize0729/ccexpert)**|
 |**2024-11-18**|**Teaching Video Diffusion Model with Latent Physical Phenomenon Knowledge**|Qinglong Cao et.al.|[2411.11343v1](http://arxiv.org/abs/2411.11343v1)|null|
@@ -3958,17 +3965,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241120>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241121>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-19**|**SparseInfer: Training-free Prediction of Activation Sparsity for Fast LLM Inference**|Jiho Shin et.al.|[2411.12692v1](http://arxiv.org/abs/2411.12692v1)|null|
+|**2024-11-19**|**Provable unlearning in topic modeling and downstream tasks**|Stanley Wei et.al.|[2411.12600v1](http://arxiv.org/abs/2411.12600v1)|null|
+|**2024-11-19**|**Contourlet Refinement Gate Framework for Thermal Spectrum Distribution Regularized Infrared Image Super-Resolution**|Yang Zou et.al.|[2411.12530v1](http://arxiv.org/abs/2411.12530v1)|**[link](https://github.com/hey-it-s-me/corple)**|
+|**2024-11-18**|**Federated Contrastive Learning of Graph-Level Representations**|Xiang Li et.al.|[2411.12098v1](http://arxiv.org/abs/2411.12098v1)|null|
+|**2024-11-18**|**Mitigating Gender Bias in Contextual Word Embeddings**|Navya Yarrabelly et.al.|[2411.12074v1](http://arxiv.org/abs/2411.12074v1)|null|
 |**2024-11-18**|**QARM: Quantitative Alignment Multi-Modal Recommendation at Kuaishou**|Xinchen Luo et.al.|[2411.11739v1](http://arxiv.org/abs/2411.11739v1)|null|
 |**2024-11-18**|**Climate data selection for multi-decadal wind power forecasts**|Sofia Morelli et.al.|[2411.11630v1](http://arxiv.org/abs/2411.11630v1)|null|
-|**2024-11-18**|**Preempting Text Sanitization Utility in Resource-Constrained Privacy-Preserving LLM Interactions**|Robin Carpentier et.al.|[2411.11521v1](http://arxiv.org/abs/2411.11521v1)|null|
+|**2024-11-18**|**Preempting Text Sanitization Utility in Resource-Constrained Privacy-Preserving LLM Interactions**|Robin Carpentier et.al.|[2411.11521v1](http://arxiv.org/abs/2411.11521v1)|**[link](https://github.com/inathwor/Preempting-Text-Sanitization)**|
 |**2024-11-18**|**HistoEncoder: a digital pathology foundation model for prostate cancer**|Joona Pohjonen et.al.|[2411.11458v1](http://arxiv.org/abs/2411.11458v1)|null|
-|**2024-11-18**|**Efficient Transfer Learning for Video-language Foundation Models**|Haoxing Chen et.al.|[2411.11223v1](http://arxiv.org/abs/2411.11223v1)|null|
+|**2024-11-18**|**Efficient Transfer Learning for Video-language Foundation Models**|Haoxing Chen et.al.|[2411.11223v1](http://arxiv.org/abs/2411.11223v1)|**[link](https://github.com/chenhaoxing/etl4video)**|
 |**2024-11-18**|**Relational Contrastive Learning and Masked Image Modeling for Scene Text Recognition**|Tiancheng Lin et.al.|[2411.11219v1](http://arxiv.org/abs/2411.11219v1)|**[link](https://github.com/thundervvv/rcmstr)**|
 |**2024-11-17**|**Capturing Sparks of Abstraction for the ARC Challenge**|Martin Andrews et.al.|[2411.11206v1](http://arxiv.org/abs/2411.11206v1)|null|
 |**2024-11-17**|**The Promises and Pitfalls of LLM Annotations in Dataset Labeling: a Case Study on Media Bias Detection**|Tomas Horych et.al.|[2411.11081v1](http://arxiv.org/abs/2411.11081v1)|null|
@@ -7599,7 +7611,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20241120>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241121>back to top</a>)</p>
 
 ## adaptor
 
@@ -7607,7 +7619,7 @@
 |---|---|---|---|---|
 |**2024-11-12**|**CJST: CTC Compressor based Joint Speech and Text Training for Decoder-Only ASR**|Wei Zhou et.al.|[2411.07607v1](http://arxiv.org/abs/2411.07607v1)|null|
 |**2024-11-11**|**ODEStream: A Buffer-Free Online Learning Framework with ODE-based Adaptor for Streaming Time Series Forecasting**|Futoon M. Abushaqra et.al.|[2411.07413v1](http://arxiv.org/abs/2411.07413v1)|null|
-|**2024-11-09**|**LSSInst: Improving Geometric Modeling in LSS-Based BEV Perception with Instance Representation**|Weijie Ma et.al.|[2411.06173v1](http://arxiv.org/abs/2411.06173v1)|**[link](https://github.com/weijiemax/lssinst)**|
+|**2024-11-19**|**LSSInst: Improving Geometric Modeling in LSS-Based BEV Perception with Instance Representation**|Weijie Ma et.al.|[2411.06173v2](http://arxiv.org/abs/2411.06173v2)|**[link](https://github.com/weijiemax/lssinst)**|
 |**2024-11-08**|**Energy Efficient Protein Language Models: Leveraging Small Language Models with LoRA for Controllable Protein Generation**|Aayush Shah et.al.|[2411.05966v1](http://arxiv.org/abs/2411.05966v1)|null|
 |**2024-11-02**|**PMoL: Parameter Efficient MoE for Preference Mixing of LLM Alignment**|Dongxu Liu et.al.|[2411.01245v1](http://arxiv.org/abs/2411.01245v1)|null|
 |**2024-11-01**|**SpineFM: Leveraging Foundation Models for Automatic Spine X-ray Segmentation**|Samuel J. Simons et.al.|[2411.00326v1](http://arxiv.org/abs/2411.00326v1)|null|
@@ -7749,17 +7761,21 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20241120>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241121>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-19**|**Maps from Motion (MfM): Generating 2D Semantic Maps from Sparse Multi-view Images**|Matteo Toso et.al.|[2411.12620v1](http://arxiv.org/abs/2411.12620v1)|null|
+|**2024-11-19**|**GaussianPretrain: A Simple Unified 3D Gaussian Representation for Visual Pre-training in Autonomous Driving**|Shaoqing Xu et.al.|[2411.12452v1](http://arxiv.org/abs/2411.12452v1)|null|
+|**2024-11-19**|**Physics-Guided Detector for SAR Airplanes**|Zhongling Huang et.al.|[2411.12301v1](http://arxiv.org/abs/2411.12301v1)|**[link](https://github.com/xai4sar/pgd)**|
+|**2024-11-18**|**Scaling Deep Learning Research with Kubernetes on the NRP Nautilus HyperCluster**|J. Alex Hurt et.al.|[2411.12038v1](http://arxiv.org/abs/2411.12038v1)|null|
 |**2024-11-18**|**LightFFDNets: Lightweight Convolutional Neural Networks for Rapid Facial Forgery Detection**|Günel Jabbarlı et.al.|[2411.11826v1](http://arxiv.org/abs/2411.11826v1)|null|
 |**2024-11-18**|**WoodYOLO: A Novel Object Detector for Wood Species Detection in Microscopic Images**|Lars Nieradzik et.al.|[2411.11738v1](http://arxiv.org/abs/2411.11738v1)|null|
 |**2024-11-18**|**Exploring Emerging Trends and Research Opportunities in Visual Place Recognition**|Antonios Gasteratos et.al.|[2411.11481v1](http://arxiv.org/abs/2411.11481v1)|null|
 |**2024-11-18**|**SL-YOLO: A Stronger and Lighter Drone Target Detection Model**|Defan Chen et.al.|[2411.11477v1](http://arxiv.org/abs/2411.11477v1)|null|
-|**2024-11-16**|**EVT: Efficient View Transformation for Multi-Modal 3D Object Detection**|Yongjin Lee et.al.|[2411.10715v1](http://arxiv.org/abs/2411.10715v1)|null|
+|**2024-11-19**|**EVT: Efficient View Transformation for Multi-Modal 3D Object Detection**|Yongjin Lee et.al.|[2411.10715v2](http://arxiv.org/abs/2411.10715v2)|null|
 |**2024-11-15**|**Vision Eagle Attention: A New Lens for Advancing Image Classification**|Mahmudul Hasan et.al.|[2411.10564v1](http://arxiv.org/abs/2411.10564v1)|**[link](https://github.com/MahmudulHasan11085/Vision-Eagle-Attention)**|
 |**2024-11-15**|**Interactive Image-Based Aphid Counting in Yellow Water Traps under Stirring Actions**|Xumin Gao et.al.|[2411.10357v1](http://arxiv.org/abs/2411.10357v1)|null|
 |**2024-11-15**|**RETR: Multi-View Radar Detection Transformer for Indoor Perception**|Ryoma Yataka et.al.|[2411.10293v1](http://arxiv.org/abs/2411.10293v1)|null|
@@ -11022,7 +11038,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20241120>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241121>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
