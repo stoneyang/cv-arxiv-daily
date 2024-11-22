@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.21
+## Updated on 2024.11.22
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-20**|**HF-Diff: High-Frequency Perceptual Loss and Distribution Matching for One-Step Diffusion-Based Image Super-Resolution**|Shoaib Meraj Sami et.al.|[2411.13548v1](http://arxiv.org/abs/2411.13548v1)|null|
+|**2024-11-20**|**Predictive Insights into LGBTQ+ Minority Stress: A Transductive Exploration of Social Media Discourse**|S. Chapagain et.al.|[2411.13534v1](http://arxiv.org/abs/2411.13534v1)|null|
+|**2024-11-20**|**Adversarial Diffusion Compression for Real-World Image Super-Resolution**|Bin Chen et.al.|[2411.13383v1](http://arxiv.org/abs/2411.13383v1)|null|
+|**2024-11-20**|**Fine-tuning Myoelectric Control through Reinforcement Learning in a Game Environment**|Kilian Freitag et.al.|[2411.13327v1](http://arxiv.org/abs/2411.13327v1)|null|
+|**2024-11-20**|**Adapting Vision Foundation Models for Robust Cloud Segmentation in Remote Sensing Images**|Xuechao Zou et.al.|[2411.13127v1](http://arxiv.org/abs/2411.13127v1)|**[link](https://github.com/xavierjiezou/cloud-adapter)**|
+|**2024-11-20**|**Training Bilingual LMs with Data Constraints in the Targeted Language**|Skyler Seto et.al.|[2411.12986v1](http://arxiv.org/abs/2411.12986v1)|null|
+|**2024-11-19**|**Signformer is all you need: Towards Edge AI for Sign Language**|Eta Yang et.al.|[2411.12901v1](http://arxiv.org/abs/2411.12901v1)|**[link](https://github.com/EtaEnding/Signformer)**|
+|**2024-11-19**|**Residual Vision Transformer (ResViT) Based Self-Supervised Learning Model for Brain Tumor Classification**|Meryem Altin Karagoz et.al.|[2411.12874v1](http://arxiv.org/abs/2411.12874v1)|null|
 |**2024-11-19**|**Improving Controllability and Editability for Pretrained Text-to-Music Generation Models**|Yixiao Zhang et.al.|[2411.12641v1](http://arxiv.org/abs/2411.12641v1)|null|
 |**2024-11-19**|**A Multimodal Approach Combining Structural and Cross-domain Textual Guidance for Weakly Supervised OCT Segmentation**|Jiaqi Yang et.al.|[2411.12615v1](http://arxiv.org/abs/2411.12615v1)|**[link](https://github.com/yangjiaqidig/WSSS-AGM)**|
 |**2024-11-19**|**Procedural Knowledge in Pretraining Drives Reasoning in Large Language Models**|Laura Ruis et.al.|[2411.12580v1](http://arxiv.org/abs/2411.12580v1)|**[link](https://github.com/pomonam/kronfluence)**|
@@ -3965,14 +3973,21 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241121>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241122>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-20**|**SONNET: Enhancing Time Delay Estimation by Leveraging Simulated Audio**|Erik Tegler et.al.|[2411.13179v1](http://arxiv.org/abs/2411.13179v1)|null|
+|**2024-11-20**|**TAPT: Test-Time Adversarial Prompt Tuning for Robust Inference in Vision-Language Models**|Xin Wang et.al.|[2411.13136v1](http://arxiv.org/abs/2411.13136v1)|null|
+|**2024-11-20**|**Scalable Deep Metric Learning on Attributed Graphs**|Xiang Li et.al.|[2411.13014v1](http://arxiv.org/abs/2411.13014v1)|null|
+|**2024-11-20**|**BetterBench: Assessing AI Benchmarks, Uncovering Issues, and Establishing Best Practices**|Anka Reuel et.al.|[2411.12990v1](http://arxiv.org/abs/2411.12990v1)|null|
+|**2024-11-19**|**Loss-to-Loss Prediction: Scaling Laws for All Datasets**|David Brandfonbrener et.al.|[2411.12925v1](http://arxiv.org/abs/2411.12925v1)|**[link](https://github.com/kempnerinstitute/loss-to-loss-olmo)**|
+|**2024-11-19**|**Residual Vision Transformer (ResViT) Based Self-Supervised Learning Model for Brain Tumor Classification**|Meryem Altin Karagoz et.al.|[2411.12874v1](http://arxiv.org/abs/2411.12874v1)|null|
+|**2024-11-19**|**CLIC: Contrastive Learning Framework for Unsupervised Image Complexity Representation**|Shipeng Liu et.al.|[2411.12792v1](http://arxiv.org/abs/2411.12792v1)|**[link](https://github.com/xauat-liushipeng/clic)**|
 |**2024-11-19**|**SparseInfer: Training-free Prediction of Activation Sparsity for Fast LLM Inference**|Jiho Shin et.al.|[2411.12692v1](http://arxiv.org/abs/2411.12692v1)|null|
-|**2024-11-19**|**Provable unlearning in topic modeling and downstream tasks**|Stanley Wei et.al.|[2411.12600v1](http://arxiv.org/abs/2411.12600v1)|null|
+|**2024-11-20**|**Provable unlearning in topic modeling and downstream tasks**|Stanley Wei et.al.|[2411.12600v2](http://arxiv.org/abs/2411.12600v2)|null|
 |**2024-11-19**|**Contourlet Refinement Gate Framework for Thermal Spectrum Distribution Regularized Infrared Image Super-Resolution**|Yang Zou et.al.|[2411.12530v1](http://arxiv.org/abs/2411.12530v1)|**[link](https://github.com/hey-it-s-me/corple)**|
 |**2024-11-18**|**Federated Contrastive Learning of Graph-Level Representations**|Xiang Li et.al.|[2411.12098v1](http://arxiv.org/abs/2411.12098v1)|null|
 |**2024-11-18**|**Mitigating Gender Bias in Contextual Word Embeddings**|Navya Yarrabelly et.al.|[2411.12074v1](http://arxiv.org/abs/2411.12074v1)|null|
@@ -7611,7 +7626,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20241121>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241122>back to top</a>)</p>
 
 ## adaptor
 
@@ -7761,12 +7776,20 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20241121>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241122>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-20**|**DIS-Mine: Instance Segmentation for Disaster-Awareness in Poor-Light Condition in Underground Mines**|Mizanur Rahman Jewel et.al.|[2411.13544v1](http://arxiv.org/abs/2411.13544v1)|null|
+|**2024-11-20**|**A Resource Efficient Fusion Network for Object Detection in Bird's-Eye View using Camera and Raw Radar Data**|Kavin Chandrasekaran et.al.|[2411.13311v1](http://arxiv.org/abs/2411.13311v1)|**[link](https://github.com/tue-mps/refnet)**|
+|**2024-11-20**|**VADet: Multi-frame LiDAR 3D Object Detection using Variable Aggregation**|Chengjie Huang et.al.|[2411.13186v1](http://arxiv.org/abs/2411.13186v1)|null|
+|**2024-11-20**|**RAW-Diffusion: RGB-Guided Diffusion Models for High-Fidelity RAW Image Generation**|Christoph Reinders et.al.|[2411.13150v1](http://arxiv.org/abs/2411.13150v1)|null|
+|**2024-11-20**|**YCB-LUMA: YCB Object Dataset with Luminance Keying for Object Localization**|Thomas Pöllabauer et.al.|[2411.13149v1](http://arxiv.org/abs/2411.13149v1)|null|
+|**2024-11-20**|**Video-RAG: Visually-aligned Retrieval-Augmented Long Video Comprehension**|Yongdong Luo et.al.|[2411.13093v1](http://arxiv.org/abs/2411.13093v1)|**[link](https://github.com/leon1207/video-rag-master)**|
+|**2024-11-20**|**Bounding-box Watermarking: Defense against Model Extraction Attacks on Object Detectors**|Satoru Koda et.al.|[2411.13047v1](http://arxiv.org/abs/2411.13047v1)|null|
+|**2024-11-20**|**Collaborative Feature-Logits Contrastive Learning for Open-Set Semi-Supervised Object Detection**|Xinhao Zhong et.al.|[2411.13001v1](http://arxiv.org/abs/2411.13001v1)|null|
 |**2024-11-19**|**Maps from Motion (MfM): Generating 2D Semantic Maps from Sparse Multi-view Images**|Matteo Toso et.al.|[2411.12620v1](http://arxiv.org/abs/2411.12620v1)|null|
 |**2024-11-19**|**GaussianPretrain: A Simple Unified 3D Gaussian Representation for Visual Pre-training in Autonomous Driving**|Shaoqing Xu et.al.|[2411.12452v1](http://arxiv.org/abs/2411.12452v1)|null|
 |**2024-11-19**|**Physics-Guided Detector for SAR Airplanes**|Zhongling Huang et.al.|[2411.12301v1](http://arxiv.org/abs/2411.12301v1)|**[link](https://github.com/xai4sar/pgd)**|
@@ -11038,7 +11061,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20241121>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241122>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
