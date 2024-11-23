@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.11.22
+> Updated on 2024.11.23
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,8 +17,16 @@
 
 ## pretrain
 
+- 2024-11-21, **Convolutional Vision Transformer for Cosmology Parameter Inference**, Yash Gondhalekar et.al., Paper: [http://arxiv.org/abs/2411.14392v1](http://arxiv.org/abs/2411.14392v1)
+- 2024-11-21, **Contrasting local and global modeling with machine learning and satellite data: A case study estimating tree canopy height in African savannas**, Esther Rolf et.al., Paper: [http://arxiv.org/abs/2411.14354v1](http://arxiv.org/abs/2411.14354v1)
+- 2024-11-21, **Looking Beyond Text: Reducing Language bias in Large Vision-Language Models via Multimodal Dual-Attention and Soft-Image Guidance**, Haozhe Zhao et.al., Paper: [http://arxiv.org/abs/2411.14279v1](http://arxiv.org/abs/2411.14279v1)
+- 2024-11-21, **BERT-Based Approach for Automating Course Articulation Matrix Construction with Explainable AI**, Natenaile Asmamaw Shiferaw et.al., Paper: [http://arxiv.org/abs/2411.14254v1](http://arxiv.org/abs/2411.14254v1), Code: **[https://github.com/natenaile/bert-based-approach-for-automating-course-articulation-matrix-construction-with-explainable-ai](https://github.com/natenaile/bert-based-approach-for-automating-course-articulation-matrix-construction-with-explainable-ai)**
+- 2024-11-21, **Self-supervised learning for radio-astronomy source classification: a benchmark**, Thomas Cecconello et.al., Paper: [http://arxiv.org/abs/2411.14078v1](http://arxiv.org/abs/2411.14078v1), Code: **[https://github.com/dr4thmos/solo-learn-radio](https://github.com/dr4thmos/solo-learn-radio)**
+- 2024-11-21, **Meaning at the Planck scale? Contextualized word embeddings for doing history, philosophy, and sociology of science**, Arno Simons et.al., Paper: [http://arxiv.org/abs/2411.14073v1](http://arxiv.org/abs/2411.14073v1)
+- 2024-11-21, **DRPruning: Efficient Large Language Model Pruning through Distributionally Robust Optimization**, Hexuan Deng et.al., Paper: [http://arxiv.org/abs/2411.14055v1](http://arxiv.org/abs/2411.14055v1), Code: **[https://github.com/hexuandeng/drpruning](https://github.com/hexuandeng/drpruning)**
+- 2024-11-21, **Hugging Rain Man: A Novel Facial Action Units Dataset for Analyzing Atypical Facial Expressions in Children with Autism Spectrum Disorder**, Yanfeng Ji et.al., Paper: [http://arxiv.org/abs/2411.13797v1](http://arxiv.org/abs/2411.13797v1), Code: **[https://github.com/jonas-dl/hugging-rain-man](https://github.com/jonas-dl/hugging-rain-man)**
 - 2024-11-20, **HF-Diff: High-Frequency Perceptual Loss and Distribution Matching for One-Step Diffusion-Based Image Super-Resolution**, Shoaib Meraj Sami et.al., Paper: [http://arxiv.org/abs/2411.13548v1](http://arxiv.org/abs/2411.13548v1)
-- 2024-11-20, **Predictive Insights into LGBTQ+ Minority Stress: A Transductive Exploration of Social Media Discourse**, S. Chapagain et.al., Paper: [http://arxiv.org/abs/2411.13534v1](http://arxiv.org/abs/2411.13534v1)
+- 2024-11-20, **Predictive Insights into LGBTQ+ Minority Stress: A Transductive Exploration of Social Media Discourse**, S. Chapagain et.al., Paper: [http://arxiv.org/abs/2411.13534v1](http://arxiv.org/abs/2411.13534v1), Code: **[https://github.com/chapagaisa/transductive](https://github.com/chapagaisa/transductive)**
 - 2024-11-20, **Adversarial Diffusion Compression for Real-World Image Super-Resolution**, Bin Chen et.al., Paper: [http://arxiv.org/abs/2411.13383v1](http://arxiv.org/abs/2411.13383v1)
 - 2024-11-20, **Fine-tuning Myoelectric Control through Reinforcement Learning in a Game Environment**, Kilian Freitag et.al., Paper: [http://arxiv.org/abs/2411.13327v1](http://arxiv.org/abs/2411.13327v1)
 - 2024-11-20, **Adapting Vision Foundation Models for Robust Cloud Segmentation in Remote Sensing Images**, Xuechao Zou et.al., Paper: [http://arxiv.org/abs/2411.13127v1](http://arxiv.org/abs/2411.13127v1), Code: **[https://github.com/xavierjiezou/cloud-adapter](https://github.com/xavierjiezou/cloud-adapter)**
@@ -3971,10 +3979,14 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20241122>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241123>back to top</a>)</p>
 
 ## downstream
 
+- 2024-11-21, **Multimodal Autoregressive Pre-training of Large Vision Encoders**, Enrico Fini et.al., Paper: [http://arxiv.org/abs/2411.14402v1](http://arxiv.org/abs/2411.14402v1), Code: **[https://github.com/apple/ml-aim](https://github.com/apple/ml-aim)**
+- 2024-11-21, **Spatiotemporal Decoupling for Efficient Vision-Based Occupancy Forecasting**, Jingyi Xu et.al., Paper: [http://arxiv.org/abs/2411.14169v1](http://arxiv.org/abs/2411.14169v1)
+- 2024-11-21, **Self-supervised learning for radio-astronomy source classification: a benchmark**, Thomas Cecconello et.al., Paper: [http://arxiv.org/abs/2411.14078v1](http://arxiv.org/abs/2411.14078v1), Code: **[https://github.com/dr4thmos/solo-learn-radio](https://github.com/dr4thmos/solo-learn-radio)**
+- 2024-11-21, **DRPruning: Efficient Large Language Model Pruning through Distributionally Robust Optimization**, Hexuan Deng et.al., Paper: [http://arxiv.org/abs/2411.14055v1](http://arxiv.org/abs/2411.14055v1), Code: **[https://github.com/hexuandeng/drpruning](https://github.com/hexuandeng/drpruning)**
 - 2024-11-20, **SONNET: Enhancing Time Delay Estimation by Leveraging Simulated Audio**, Erik Tegler et.al., Paper: [http://arxiv.org/abs/2411.13179v1](http://arxiv.org/abs/2411.13179v1)
 - 2024-11-20, **TAPT: Test-Time Adversarial Prompt Tuning for Robust Inference in Vision-Language Models**, Xin Wang et.al., Paper: [http://arxiv.org/abs/2411.13136v1](http://arxiv.org/abs/2411.13136v1)
 - 2024-11-20, **Scalable Deep Metric Learning on Attributed Graphs**, Xiang Li et.al., Paper: [http://arxiv.org/abs/2411.13014v1](http://arxiv.org/abs/2411.13014v1)
@@ -7622,7 +7634,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20241122>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241123>back to top</a>)</p>
 
 ## adaptor
 
@@ -7770,14 +7782,19 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20241122>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241123>back to top</a>)</p>
 
 ## object detection
 
+- 2024-11-21, **DINO-X: A Unified Vision Model for Open-World Object Detection and Understanding**, Tianhe Ren et.al., Paper: [http://arxiv.org/abs/2411.14347v1](http://arxiv.org/abs/2411.14347v1)
+- 2024-11-21, **AnywhereDoor: Multi-Target Backdoor Attacks on Object Detection**, Jialin Lu et.al., Paper: [http://arxiv.org/abs/2411.14243v1](http://arxiv.org/abs/2411.14243v1)
+- 2024-11-21, **Transforming Static Images Using Generative Models for Video Salient Object Detection**, Suhwan Cho et.al., Paper: [http://arxiv.org/abs/2411.13975v1](http://arxiv.org/abs/2411.13975v1), Code: **[https://github.com/suhwan-cho/realflow](https://github.com/suhwan-cho/realflow)**
+- 2024-11-21, **Multitask Learning for SAR Ship Detection with Gaussian-Mask Joint Segmentation**, Ming Zhao et.al., Paper: [http://arxiv.org/abs/2411.13847v1](http://arxiv.org/abs/2411.13847v1)
+- 2024-11-20, **MambaDETR: Query-based Temporal Modeling using State Space Model for Multi-View 3D Object Detection**, Tong Ning et.al., Paper: [http://arxiv.org/abs/2411.13628v1](http://arxiv.org/abs/2411.13628v1)
 - 2024-11-20, **DIS-Mine: Instance Segmentation for Disaster-Awareness in Poor-Light Condition in Underground Mines**, Mizanur Rahman Jewel et.al., Paper: [http://arxiv.org/abs/2411.13544v1](http://arxiv.org/abs/2411.13544v1)
 - 2024-11-20, **A Resource Efficient Fusion Network for Object Detection in Bird's-Eye View using Camera and Raw Radar Data**, Kavin Chandrasekaran et.al., Paper: [http://arxiv.org/abs/2411.13311v1](http://arxiv.org/abs/2411.13311v1), Code: **[https://github.com/tue-mps/refnet](https://github.com/tue-mps/refnet)**
 - 2024-11-20, **VADet: Multi-frame LiDAR 3D Object Detection using Variable Aggregation**, Chengjie Huang et.al., Paper: [http://arxiv.org/abs/2411.13186v1](http://arxiv.org/abs/2411.13186v1)
-- 2024-11-20, **RAW-Diffusion: RGB-Guided Diffusion Models for High-Fidelity RAW Image Generation**, Christoph Reinders et.al., Paper: [http://arxiv.org/abs/2411.13150v1](http://arxiv.org/abs/2411.13150v1)
+- 2024-11-20, **RAW-Diffusion: RGB-Guided Diffusion Models for High-Fidelity RAW Image Generation**, Christoph Reinders et.al., Paper: [http://arxiv.org/abs/2411.13150v1](http://arxiv.org/abs/2411.13150v1), Code: **[https://github.com/SonyResearch/RAW-Diffusion](https://github.com/SonyResearch/RAW-Diffusion)**
 - 2024-11-20, **YCB-LUMA: YCB Object Dataset with Luminance Keying for Object Localization**, Thomas Pöllabauer et.al., Paper: [http://arxiv.org/abs/2411.13149v1](http://arxiv.org/abs/2411.13149v1)
 - 2024-11-20, **Video-RAG: Visually-aligned Retrieval-Augmented Long Video Comprehension**, Yongdong Luo et.al., Paper: [http://arxiv.org/abs/2411.13093v1](http://arxiv.org/abs/2411.13093v1), Code: **[https://github.com/leon1207/video-rag-master](https://github.com/leon1207/video-rag-master)**
 - 2024-11-20, **Bounding-box Watermarking: Defense against Model Extraction Attacks on Object Detectors**, Satoru Koda et.al., Paper: [http://arxiv.org/abs/2411.13047v1](http://arxiv.org/abs/2411.13047v1)
@@ -11053,7 +11070,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20241122>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241123>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
