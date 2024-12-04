@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.03
+## Updated on 2024.12.04
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,9 +23,9 @@
 |**2024-11-29**|**Zero-shot Musical Stem Retrieval with Joint-Embedding Predictive Architectures**|Alain Riou et.al.|[2411.19806v1](http://arxiv.org/abs/2411.19806v1)|null|
 |**2024-11-29**|**HVAC-DPT: A Decision Pretrained Transformer for HVAC Control**|Anaïs Berkes et.al.|[2411.19746v1](http://arxiv.org/abs/2411.19746v1)|null|
 |**2024-11-29**|**JetFormer: An Autoregressive Generative Model of Raw Images and Text**|Michael Tschannen et.al.|[2411.19722v1](http://arxiv.org/abs/2411.19722v1)|null|
-|**2024-11-29**|**Multimodal Whole Slide Foundation Model for Pathology**|Tong Ding et.al.|[2411.19666v1](http://arxiv.org/abs/2411.19666v1)|null|
+|**2024-11-29**|**Multimodal Whole Slide Foundation Model for Pathology**|Tong Ding et.al.|[2411.19666v1](http://arxiv.org/abs/2411.19666v1)|**[link](https://github.com/mahmoodlab/titan)**|
 |**2024-11-29**|**CogACT: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation**|Qixiu Li et.al.|[2411.19650v1](http://arxiv.org/abs/2411.19650v1)|null|
-|**2024-11-29**|**LLM Teacher-Student Framework for Text Classification With No Manually Annotated Data: A Case Study in IPTC News Topic Classification**|Taja Kuzman et.al.|[2411.19638v1](http://arxiv.org/abs/2411.19638v1)|null|
+|**2024-11-29**|**LLM Teacher-Student Framework for Text Classification With No Manually Annotated Data: A Case Study in IPTC News Topic Classification**|Taja Kuzman et.al.|[2411.19638v1](http://arxiv.org/abs/2411.19638v1)|**[link](https://github.com/TajaKuzman/IPTC-Media-Topic-Classification)**|
 |**2024-11-29**|**Enhancing Sentiment Analysis in Bengali Texts: A Hybrid Approach Using Lexicon-Based Algorithm and Pretrained Language Model Bangla-BERT**|Hemal Mahmud et.al.|[2411.19584v1](http://arxiv.org/abs/2411.19584v1)|null|
 |**2024-11-29**|**Hierarchical Framework for Retrosynthesis Prediction with Enhanced Reaction Center Localization**|Seongeun Yun et.al.|[2411.19503v1](http://arxiv.org/abs/2411.19503v1)|null|
 |**2024-11-29**|**Effective Fine-Tuning of Vision-Language Models for Accurate Galaxy Morphology Analysis**|Ruoqi Wang et.al.|[2411.19475v1](http://arxiv.org/abs/2411.19475v1)|null|
@@ -4028,7 +4028,7 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241203>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241204>back to top</a>)</p>
 
 ## downstream
 
@@ -4043,7 +4043,7 @@
 |**2024-11-29**|**Proto Successor Measure: Representing the Space of All Possible Solutions of Reinforcement Learning**|Siddhant Agarwal et.al.|[2411.19418v1](http://arxiv.org/abs/2411.19418v1)|null|
 |**2024-11-28**|**Parameter-Efficient Transfer Learning for Music Foundation Models**|Yiwei Ding et.al.|[2411.19371v1](http://arxiv.org/abs/2411.19371v1)|**[link](https://github.com/suncerock/peft-music)**|
 |**2024-11-28**|**Pre-Training Graph Contrastive Masked Autoencoders are Strong Distillers for EEG**|Xinxu Wei et.al.|[2411.19230v1](http://arxiv.org/abs/2411.19230v1)|null|
-|**2024-11-28**|**Personalized Federated Fine-Tuning for LLMs via Data-Driven Heterogeneous Model Architectures**|Yicheng Zhang et.al.|[2411.19128v1](http://arxiv.org/abs/2411.19128v1)|null|
+|**2024-11-28**|**Personalized Federated Fine-Tuning for LLMs via Data-Driven Heterogeneous Model Architectures**|Yicheng Zhang et.al.|[2411.19128v1](http://arxiv.org/abs/2411.19128v1)|**[link](https://github.com/zyc140345/fedamole)**|
 |**2024-11-27**|**Proactive Gradient Conflict Mitigation in Multi-Task Learning: A Sparse Training Perspective**|Zhi Zhang et.al.|[2411.18615v1](http://arxiv.org/abs/2411.18615v1)|null|
 |**2024-11-27**|**Evaluating and Improving the Effectiveness of Synthetic Chest X-Rays for Medical Image Analysis**|Eva Prakash et.al.|[2411.18602v1](http://arxiv.org/abs/2411.18602v1)|null|
 |**2024-11-27**|**Beyond Examples: High-level Automated Reasoning Paradigm in In-Context Learning via MCTS**|Jinyang Wu et.al.|[2411.18478v1](http://arxiv.org/abs/2411.18478v1)|null|
@@ -7733,7 +7733,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20241203>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241204>back to top</a>)</p>
 
 ## adaptor
 
@@ -7886,7 +7886,7 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20241203>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241204>back to top</a>)</p>
 
 ## object detection
 
@@ -11214,7 +11214,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20241203>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241204>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
