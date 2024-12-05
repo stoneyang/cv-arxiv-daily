@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.04
+## Updated on 2024.12.05
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-03**|**AniGS: Animatable Gaussian Avatar from a Single Image with Inconsistent Gaussian Reconstruction**|Lingteng Qiu et.al.|[2412.02684v1](http://arxiv.org/abs/2412.02684v1)|null|
+|**2024-12-03**|**Nemotron-CC: Transforming Common Crawl into a Refined Long-Horizon Pretraining Dataset**|Dan Su et.al.|[2412.02595v1](http://arxiv.org/abs/2412.02595v1)|null|
+|**2024-12-03**|**Composing Open-domain Vision with RAG for Ocean Monitoring and Conservation**|Sepand Dyanatkar et.al.|[2412.02262v1](http://arxiv.org/abs/2412.02262v1)|null|
+|**2024-12-03**|**Unlocking Tuning-Free Few-Shot Adaptability in Visual Foundation Models by Recycling Pre-Tuned LoRAs**|Zixuan Hu et.al.|[2412.02220v1](http://arxiv.org/abs/2412.02220v1)|null|
+|**2024-12-03**|**A Theoretical Framework for Acoustic Neighbor Embeddings**|Woojay Jeon et.al.|[2412.02164v1](http://arxiv.org/abs/2412.02164v1)|null|
+|**2024-12-02**|**Enhancing Deep Learning Model Robustness through Metamorphic Re-Training**|Said Togru et.al.|[2412.01958v1](http://arxiv.org/abs/2412.01958v1)|null|
+|**2024-12-02**|**RELOCATE: A Simple Training-Free Baseline for Visual Query Localization Using Region-Based Representations**|Savya Khosla et.al.|[2412.01826v1](http://arxiv.org/abs/2412.01826v1)|null|
+|**2024-12-02**|**World-consistent Video Diffusion with Explicit 3D Modeling**|Qihang Zhang et.al.|[2412.01821v1](http://arxiv.org/abs/2412.01821v1)|null|
+|**2024-12-03**|**Switti: Designing Scale-Wise Transformers for Text-to-Image Synthesis**|Anton Voronov et.al.|[2412.01819v2](http://arxiv.org/abs/2412.01819v2)|null|
+|**2024-12-02**|**VideoLights: Feature Refinement and Cross-Task Alignment Transformer for Joint Video Highlight Detection and Moment Retrieval**|Dhiman Paul et.al.|[2412.01558v1](http://arxiv.org/abs/2412.01558v1)|**[link](https://github.com/dpaul06/VideoLights)**|
 |**2024-11-29**|**SpaRC: Sparse Radar-Camera Fusion for 3D Object Detection**|Philipp Wolters et.al.|[2411.19860v1](http://arxiv.org/abs/2411.19860v1)|null|
 |**2024-11-29**|**Zero-shot Musical Stem Retrieval with Joint-Embedding Predictive Architectures**|Alain Riou et.al.|[2411.19806v1](http://arxiv.org/abs/2411.19806v1)|null|
 |**2024-11-29**|**HVAC-DPT: A Decision Pretrained Transformer for HVAC Control**|Anaïs Berkes et.al.|[2411.19746v1](http://arxiv.org/abs/2411.19746v1)|null|
@@ -4032,12 +4042,22 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241204>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241205>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-03**|**UniForm: A Reuse Attention Mechanism Optimized for Efficient Vision Transformers on Edge Devices**|Seul-Ki Yeom et.al.|[2412.02344v1](http://arxiv.org/abs/2412.02344v1)|null|
+|**2024-12-03**|**Pay Attention to the Robustness of Chinese Minority Language Models! Syllable-level Textual Adversarial Attack on Tibetan Script**|Xi Cao et.al.|[2412.02323v1](http://arxiv.org/abs/2412.02323v1)|null|
+|**2024-12-03**|**A Comprehensive Evaluation of Large Language Models on Aspect-Based Sentiment Analysis**|Changzhi Zhou et.al.|[2412.02279v1](http://arxiv.org/abs/2412.02279v1)|null|
+|**2024-12-03**|**SA-GNAS: Seed Architecture Expansion for Efficient Large-scale Graph Neural Architecture Search**|Guanghui Zhu et.al.|[2412.02196v1](http://arxiv.org/abs/2412.02196v1)|null|
+|**2024-12-03**|**Underload: Defending against Latency Attacks for Object Detectors on Edge Devices**|Tianyi Wang et.al.|[2412.02171v1](http://arxiv.org/abs/2412.02171v1)|null|
+|**2024-12-02**|**Free Process Rewards without Process Labels**|Lifan Yuan et.al.|[2412.01981v1](http://arxiv.org/abs/2412.01981v1)|null|
+|**2024-12-02**|**Towards Universal Soccer Video Understanding**|Jiayuan Rao et.al.|[2412.01820v1](http://arxiv.org/abs/2412.01820v1)|**[link](https://github.com/jyrao/UniSoccer)**|
+|**2024-12-02**|**COSMOS: Cross-Modality Self-Distillation for Vision Language Pre-training**|Sanghwan Kim et.al.|[2412.01814v1](http://arxiv.org/abs/2412.01814v1)|null|
+|**2024-12-02**|**SEAL: Semantic Attention Learning for Long Video Representation**|Lan Wang et.al.|[2412.01798v1](http://arxiv.org/abs/2412.01798v1)|null|
+|**2024-12-02**|**Efficient Compression of Sparse Accelerator Data Using Implicit Neural Representations and Importance Sampling**|Xihaier Luo et.al.|[2412.01754v1](http://arxiv.org/abs/2412.01754v1)|null|
 |**2024-11-29**|**Towards Class-wise Robustness Analysis**|Tejaswini Medi et.al.|[2411.19853v1](http://arxiv.org/abs/2411.19853v1)|null|
 |**2024-11-29**|**Dual Risk Minimization: Towards Next-Level Robustness in Fine-tuning Zero-Shot Models**|Kaican Li et.al.|[2411.19757v1](http://arxiv.org/abs/2411.19757v1)|**[link](https://github.com/vaynexie/drm)**|
 |**2024-11-29**|**Relative Representations of Latent Spaces enable Efficient Semantic Channel Equalization**|Tomás Hüttebräucker et.al.|[2411.19719v1](http://arxiv.org/abs/2411.19719v1)|null|
@@ -7737,12 +7757,13 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20241204>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241205>back to top</a>)</p>
 
 ## adaptor
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-03**|**LumiNet: Latent Intrinsics Meets Diffusion Models for Indoor Scene Relighting**|Xiaoyan Xing et.al.|[2412.00177v2](http://arxiv.org/abs/2412.00177v2)|null|
 |**2024-11-27**|**A Runtime-Adaptive Transformer Neural Network Accelerator on FPGAs**|Ehsan Kabir et.al.|[2411.18148v1](http://arxiv.org/abs/2411.18148v1)|**[link](https://github.com/Kabir-Ehsan/Transformer_on_FPGA)**|
 |**2024-11-26**|**Noise Adaptor: Enhancing Low-Latency Spiking Neural Networks through Noise-Injected Low-Bit ANN Conversion**|Chen Li et.al.|[2411.17431v1](http://arxiv.org/abs/2411.17431v1)|null|
 |**2024-11-25**|**RECAST: Reparameterized, Compact weight Adaptation for Sequential Tasks**|Nazia Tasnim et.al.|[2411.16870v1](http://arxiv.org/abs/2411.16870v1)|null|
@@ -7890,12 +7911,22 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20241204>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241205>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-03**|**SJTU:Spatial judgments in multimodal models towards unified segmentation through coordinate detection**|Joongwon Chae et.al.|[2412.02565v1](http://arxiv.org/abs/2412.02565v1)|null|
+|**2024-12-03**|**Underload: Defending against Latency Attacks for Object Detectors on Edge Devices**|Tianyi Wang et.al.|[2412.02171v1](http://arxiv.org/abs/2412.02171v1)|null|
+|**2024-12-03**|**Redundant Queries in DETR-Based 3D Detection Methods: Unnecessary and Prunable**|Lizhen Xu et.al.|[2412.02054v1](http://arxiv.org/abs/2412.02054v1)|null|
+|**2024-12-02**|**Smart Parking with Pixel-Wise ROI Selection for Vehicle Detection Using YOLOv8, YOLOv9, YOLOv10, and YOLOv11**|Gustavo P. C. P. da Luz et.al.|[2412.01983v1](http://arxiv.org/abs/2412.01983v1)|null|
+|**2024-12-02**|**HPRM: High-Performance Robotic Middleware for Intelligent Autonomous Systems**|Jacky Kwok et.al.|[2412.01799v1](http://arxiv.org/abs/2412.01799v1)|null|
+|**2024-12-02**|**Identifying Reliable Predictions in Detection Transformers**|Young-Jin Park et.al.|[2412.01782v1](http://arxiv.org/abs/2412.01782v1)|null|
+|**2024-12-02**|**FEVER-OOD: Free Energy Vulnerability Elimination for Robust Out-of-Distribution Detection**|Brian K. S. Isaac-Medina et.al.|[2412.01596v1](http://arxiv.org/abs/2412.01596v1)|null|
+|**2024-12-02**|**Divide-and-Conquer: Confluent Triple-Flow Network for RGB-T Salient Object Detection**|Hao Tang et.al.|[2412.01556v1](http://arxiv.org/abs/2412.01556v1)|null|
+|**2024-12-03**|**GFreeDet: Exploiting Gaussian Splatting and Foundation Models for Model-free Unseen Object Detection in the BOP Challenge 2024**|Xingyu Liu et.al.|[2412.01552v2](http://arxiv.org/abs/2412.01552v2)|null|
+|**2024-12-02**|**Improving Object Detection by Modifying Synthetic Data with Explainable AI**|Nitish Mital et.al.|[2412.01477v1](http://arxiv.org/abs/2412.01477v1)|null|
 |**2024-11-29**|**SpaRC: Sparse Radar-Camera Fusion for 3D Object Detection**|Philipp Wolters et.al.|[2411.19860v1](http://arxiv.org/abs/2411.19860v1)|null|
 |**2024-11-29**|**Feedback-driven object detection and iterative model improvement**|Sönke Tenckhoff et.al.|[2411.19835v1](http://arxiv.org/abs/2411.19835v1)|**[link](https://github.com/ml-lab-htw/iterative-annotate)**|
 |**2024-11-29**|**Real-Time Anomaly Detection in Video Streams**|Fabien Poirier et.al.|[2411.19731v1](http://arxiv.org/abs/2411.19731v1)|null|
@@ -11218,7 +11249,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20241204>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241205>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
