@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.12.05
+> Updated on 2024.12.06
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,16 @@
 
 ## pretrain
 
+- 2024-12-04, **Benchmarking Pretrained Attention-based Models for Real-Time Recognition in Robot-Assisted Esophagectomy**, Ronald L. P. D. de Jong et.al., Paper: [http://arxiv.org/abs/2412.03401v1](http://arxiv.org/abs/2412.03401v1)
+- 2024-12-04, **SGSST: Scaling Gaussian Splatting StyleTransfer**, Bruno Galerne et.al., Paper: [http://arxiv.org/abs/2412.03371v1](http://arxiv.org/abs/2412.03371v1)
+- 2024-12-04, **DIVE: Taming DINO for Subject-Driven Video Editing**, Yi Huang et.al., Paper: [http://arxiv.org/abs/2412.03347v1](http://arxiv.org/abs/2412.03347v1)
+- 2024-12-04, **Comparison between tensor methods and neural networks in electronic structure calculations**, Mathias Dus et.al., Paper: [http://arxiv.org/abs/2412.03319v1](http://arxiv.org/abs/2412.03319v1)
+- 2024-12-04, **AntLM: Bridging Causal and Masked Language Models**, Xinru Yu et.al., Paper: [http://arxiv.org/abs/2412.03275v1](http://arxiv.org/abs/2412.03275v1)
+- 2024-12-04, **Beyond [cls]: Exploring the true potential of Masked Image Modeling representations**, Marcin Przewięźlikowski et.al., Paper: [http://arxiv.org/abs/2412.03215v1](http://arxiv.org/abs/2412.03215v1)
+- 2024-12-04, **UTSD: Unified Time Series Diffusion Model**, Xiangkai Ma et.al., Paper: [http://arxiv.org/abs/2412.03068v1](http://arxiv.org/abs/2412.03068v1)
+- 2024-12-04, **TREND: Unsupervised 3D Representation Learning via Temporal Forecasting for LiDAR Perception**, Runjian Chen et.al., Paper: [http://arxiv.org/abs/2412.03054v1](http://arxiv.org/abs/2412.03054v1)
+- 2024-12-04, **Human Multi-View Synthesis from a Single-View Model:Transferred Body and Face Representations**, Yu Feng et.al., Paper: [http://arxiv.org/abs/2412.03011v1](http://arxiv.org/abs/2412.03011v1)
+- 2024-12-04, **Panoptic Diffusion Models: co-generation of images and segmentation maps**, Yinghan Long et.al., Paper: [http://arxiv.org/abs/2412.02929v1](http://arxiv.org/abs/2412.02929v1)
 - 2024-12-03, **AniGS: Animatable Gaussian Avatar from a Single Image with Inconsistent Gaussian Reconstruction**, Lingteng Qiu et.al., Paper: [http://arxiv.org/abs/2412.02684v1](http://arxiv.org/abs/2412.02684v1)
 - 2024-12-03, **Nemotron-CC: Transforming Common Crawl into a Refined Long-Horizon Pretraining Dataset**, Dan Su et.al., Paper: [http://arxiv.org/abs/2412.02595v1](http://arxiv.org/abs/2412.02595v1)
 - 2024-12-03, **Composing Open-domain Vision with RAG for Ocean Monitoring and Conservation**, Sepand Dyanatkar et.al., Paper: [http://arxiv.org/abs/2412.02262v1](http://arxiv.org/abs/2412.02262v1)
@@ -4036,10 +4046,20 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20241205>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241206>back to top</a>)</p>
 
 ## downstream
 
+- 2024-12-04, **Evaluating Gender Bias Transfer between Pre-trained and Prompt-Adapted Language Models**, Natalie Mackraz et.al., Paper: [http://arxiv.org/abs/2412.03537v1](http://arxiv.org/abs/2412.03537v1)
+- 2024-12-04, **Cluster Specific Representation Learning**, Mahalakshmi Sabanayagam et.al., Paper: [http://arxiv.org/abs/2412.03471v1](http://arxiv.org/abs/2412.03471v1)
+- 2024-12-04, **Pre-trained Multiple Latent Variable Generative Models are good defenders against Adversarial Attacks**, Dario Serez et.al., Paper: [http://arxiv.org/abs/2412.03453v1](http://arxiv.org/abs/2412.03453v1), Code: **[https://github.com/serezd/gen_adversarial](https://github.com/serezd/gen_adversarial)**
+- 2024-12-04, **CleanDIFT: Diffusion Features without Noise**, Nick Stracke et.al., Paper: [http://arxiv.org/abs/2412.03439v1](http://arxiv.org/abs/2412.03439v1)
+- 2024-12-04, **Equivariant Representation Learning for Augmentation-based Self-Supervised Learning via Image Reconstruction**, Qin Wang et.al., Paper: [http://arxiv.org/abs/2412.03314v1](http://arxiv.org/abs/2412.03314v1)
+- 2024-12-04, **AntLM: Bridging Causal and Masked Language Models**, Xinru Yu et.al., Paper: [http://arxiv.org/abs/2412.03275v1](http://arxiv.org/abs/2412.03275v1)
+- 2024-12-04, **Task-driven Image Fusion with Learnable Fusion Loss**, Haowen Bai et.al., Paper: [http://arxiv.org/abs/2412.03240v1](http://arxiv.org/abs/2412.03240v1)
+- 2024-12-04, **UTSD: Unified Time Series Diffusion Model**, Xiangkai Ma et.al., Paper: [http://arxiv.org/abs/2412.03068v1](http://arxiv.org/abs/2412.03068v1)
+- 2024-12-04, **AdvDreamer Unveils: Are Vision-Language Models Truly Ready for Real-World 3D Variations?**, Shouwei Ruan et.al., Paper: [http://arxiv.org/abs/2412.03002v1](http://arxiv.org/abs/2412.03002v1)
+- 2024-12-03, **GUESS: Generative Uncertainty Ensemble for Self Supervision**, Salman Mohamadi et.al., Paper: [http://arxiv.org/abs/2412.02896v1](http://arxiv.org/abs/2412.02896v1)
 - 2024-12-03, **UniForm: A Reuse Attention Mechanism Optimized for Efficient Vision Transformers on Edge Devices**, Seul-Ki Yeom et.al., Paper: [http://arxiv.org/abs/2412.02344v1](http://arxiv.org/abs/2412.02344v1)
 - 2024-12-03, **Pay Attention to the Robustness of Chinese Minority Language Models! Syllable-level Textual Adversarial Attack on Tibetan Script**, Xi Cao et.al., Paper: [http://arxiv.org/abs/2412.02323v1](http://arxiv.org/abs/2412.02323v1)
 - 2024-12-03, **A Comprehensive Evaluation of Large Language Models on Aspect-Based Sentiment Analysis**, Changzhi Zhou et.al., Paper: [http://arxiv.org/abs/2412.02279v1](http://arxiv.org/abs/2412.02279v1)
@@ -7749,7 +7769,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20241205>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241206>back to top</a>)</p>
 
 ## adaptor
 
@@ -7901,10 +7921,19 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20241205>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241206>back to top</a>)</p>
 
 ## object detection
 
+- 2024-12-04, **Perception Tokens Enhance Visual Reasoning in Multimodal Language Models**, Mahtab Bigverdi et.al., Paper: [http://arxiv.org/abs/2412.03548v1](http://arxiv.org/abs/2412.03548v1)
+- 2024-12-04, **Data Fusion of Semantic and Depth Information in the Context of Object Detection**, Md Abu Yusuf et.al., Paper: [http://arxiv.org/abs/2412.03490v1](http://arxiv.org/abs/2412.03490v1)
+- 2024-12-04, **Task-driven Image Fusion with Learnable Fusion Loss**, Haowen Bai et.al., Paper: [http://arxiv.org/abs/2412.03240v1](http://arxiv.org/abs/2412.03240v1)
+- 2024-12-04, **ObjectFinder: Open-Vocabulary Assistive System for Interactive Object Search by Blind People**, Ruiping Liu et.al., Paper: [http://arxiv.org/abs/2412.03118v1](http://arxiv.org/abs/2412.03118v1)
+- 2024-12-04, **TREND: Unsupervised 3D Representation Learning via Temporal Forecasting for LiDAR Perception**, Runjian Chen et.al., Paper: [http://arxiv.org/abs/2412.03054v1](http://arxiv.org/abs/2412.03054v1)
+- 2024-12-04, **Assessing the performance of CT image denoisers using Laguerre-Gauss Channelized Hotelling Observer for lesion detection**, Prabhat Kc et.al., Paper: [http://arxiv.org/abs/2412.02920v1](http://arxiv.org/abs/2412.02920v1)
+- 2024-12-03, **EvRT-DETR: The Surprising Effectiveness of DETR-based Detection for Event Cameras**, Dmitrii Torbunov et.al., Paper: [http://arxiv.org/abs/2412.02890v1](http://arxiv.org/abs/2412.02890v1)
+- 2024-12-03, **Optimized CNNs for Rapid 3D Point Cloud Object Recognition**, Tianyi Lyu et.al., Paper: [http://arxiv.org/abs/2412.02855v1](http://arxiv.org/abs/2412.02855v1)
+- 2024-12-03, **Gaussian Splatting Under Attack: Investigating Adversarial Noise in 3D Objects**, Abdurrahman Zeybey et.al., Paper: [http://arxiv.org/abs/2412.02803v1](http://arxiv.org/abs/2412.02803v1)
 - 2024-12-03, **SJTU:Spatial judgments in multimodal models towards unified segmentation through coordinate detection**, Joongwon Chae et.al., Paper: [http://arxiv.org/abs/2412.02565v1](http://arxiv.org/abs/2412.02565v1)
 - 2024-12-03, **Underload: Defending against Latency Attacks for Object Detectors on Edge Devices**, Tianyi Wang et.al., Paper: [http://arxiv.org/abs/2412.02171v1](http://arxiv.org/abs/2412.02171v1)
 - 2024-12-03, **Redundant Queries in DETR-Based 3D Detection Methods: Unnecessary and Prunable**, Lizhen Xu et.al., Paper: [http://arxiv.org/abs/2412.02054v1](http://arxiv.org/abs/2412.02054v1)
@@ -11237,7 +11266,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20241205>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241206>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
