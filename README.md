@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.09
+## Updated on 2024.12.10
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-06**|**SimC3D: A Simple Contrastive 3D Pretraining Framework Using RGB Images**|Jiahua Dong et.al.|[2412.05274v1](http://arxiv.org/abs/2412.05274v1)|null|
+|**2024-12-06**|**Findings of the Second BabyLM Challenge: Sample-Efficient Pretraining on Developmentally Plausible Corpora**|Michael Y. Hu et.al.|[2412.05149v1](http://arxiv.org/abs/2412.05149v1)|null|
+|**2024-12-06**|**Gla-AI4BioMed at RRG24: Visual Instruction-tuned Adaptation for Radiology Report Generation**|Xi Zhang et.al.|[2412.04954v1](http://arxiv.org/abs/2412.04954v1)|null|
+|**2024-12-06**|**Continuous Speech Tokens Makes LLMs Robust Multi-Modality Learners**|Ze Yuan et.al.|[2412.04917v1](http://arxiv.org/abs/2412.04917v1)|null|
+|**2024-12-06**|**Mitigating Instance-Dependent Label Noise: Integrating Self-Supervised Pretraining with Pseudo-Label Refinement**|Gouranga Bala et.al.|[2412.04898v1](http://arxiv.org/abs/2412.04898v1)|null|
+|**2024-12-06**|**Learning to Translate Noise for Robust Image Denoising**|Inju Ha et.al.|[2412.04727v1](http://arxiv.org/abs/2412.04727v1)|null|
+|**2024-12-05**|**Assessing and Learning Alignment of Unimodal Vision and Language Models**|Le Zhang et.al.|[2412.04616v1](http://arxiv.org/abs/2412.04616v1)|null|
+|**2024-12-05**|**Extractive Structures Learned in Pretraining Enable Generalization on Finetuned Facts**|Jiahai Feng et.al.|[2412.04614v1](http://arxiv.org/abs/2412.04614v1)|null|
 |**2024-12-05**|**Four-Plane Factorized Video Autoencoders**|Mohammed Suhail et.al.|[2412.04452v1](http://arxiv.org/abs/2412.04452v1)|null|
 |**2024-12-05**|**Grounding Descriptions in Images informs Zero-Shot Visual Recognition**|Shaunak Halbe et.al.|[2412.04429v1](http://arxiv.org/abs/2412.04429v1)|**[link](https://github.com/shaunak27/grain-clip)**|
 |**2024-12-05**|**Florence-VL: Enhancing Vision-Language Models with Generative Vision Encoder and Depth-Breadth Fusion**|Jiuhai Chen et.al.|[2412.04424v1](http://arxiv.org/abs/2412.04424v1)|**[link](https://github.com/jiuhaichen/florence-vl)**|
@@ -4058,12 +4066,18 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241209>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241210>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-06**|**SimC3D: A Simple Contrastive 3D Pretraining Framework Using RGB Images**|Jiahua Dong et.al.|[2412.05274v1](http://arxiv.org/abs/2412.05274v1)|null|
+|**2024-12-06**|**Enhancing Cross-Language Code Translation via Task-Specific Embedding Alignment in Retrieval-Augmented Generation**|Manish Bhattarai et.al.|[2412.05159v1](http://arxiv.org/abs/2412.05159v1)|null|
+|**2024-12-06**|**$S^3$: Synonymous Semantic Space for Improving Zero-Shot Generalization of Vision-Language Models**|Xiaojie Yin et.al.|[2412.04925v1](http://arxiv.org/abs/2412.04925v1)|null|
+|**2024-12-06**|**SleeperMark: Towards Robust Watermark against Fine-Tuning Text-to-image Diffusion Models**|Zilan Wang et.al.|[2412.04852v1](http://arxiv.org/abs/2412.04852v1)|null|
+|**2024-12-06**|**Superpixel Tokenization for Vision Transformers: Preserving Semantic Integrity in Visual Tokens**|Jaihyun Lew et.al.|[2412.04680v1](http://arxiv.org/abs/2412.04680v1)|null|
+|**2024-12-05**|**Learning Symmetries via Weight-Sharing with Doubly Stochastic Tensors**|Putri A. van der Linden et.al.|[2412.04594v1](http://arxiv.org/abs/2412.04594v1)|null|
 |**2024-12-05**|**Grounding Descriptions in Images informs Zero-Shot Visual Recognition**|Shaunak Halbe et.al.|[2412.04429v1](http://arxiv.org/abs/2412.04429v1)|**[link](https://github.com/shaunak27/grain-clip)**|
 |**2024-12-05**|**Florence-VL: Enhancing Vision-Language Models with Generative Vision Encoder and Depth-Breadth Fusion**|Jiuhai Chen et.al.|[2412.04424v1](http://arxiv.org/abs/2412.04424v1)|**[link](https://github.com/jiuhaichen/florence-vl)**|
 |**2024-12-05**|**Approximate Top-$k$ for Increased Parallelism**|Oscar Key et.al.|[2412.04358v1](http://arxiv.org/abs/2412.04358v1)|null|
@@ -7792,7 +7806,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20241209>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241210>back to top</a>)</p>
 
 ## adaptor
 
@@ -7946,12 +7960,16 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20241209>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241210>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-06**|**From classical techniques to convolution-based models: A review of object detection algorithms**|Fnu Neha et.al.|[2412.05252v1](http://arxiv.org/abs/2412.05252v1)|null|
+|**2024-12-06**|**Towards Flexible 3D Perception: Object-Centric Occupancy Completion Augments 3D Object Detection**|Chaoda Zheng et.al.|[2412.05154v1](http://arxiv.org/abs/2412.05154v1)|**[link](https://github.com/ghostish/objectcentricocccompletion)**|
+|**2024-12-06**|**DEYOLO: Dual-Feature-Enhancement YOLO for Cross-Modality Object Detection**|Yishuo Chen et.al.|[2412.04931v1](http://arxiv.org/abs/2412.04931v1)|**[link](https://github.com/chips96/deyolo)**|
+|**2024-12-06**|**Beyond Boxes: Mask-Guided Spatio-Temporal Feature Aggregation for Video Object Detection**|Khurram Azeem Hashmi et.al.|[2412.04915v1](http://arxiv.org/abs/2412.04915v1)|null|
 |**2024-12-05**|**Cubify Anything: Scaling Indoor 3D Object Detection**|Justin Lazarow et.al.|[2412.04458v1](http://arxiv.org/abs/2412.04458v1)|null|
 |**2024-12-05**|**Reflective Teacher: Semi-Supervised Multimodal 3D Object Detection in Bird's-Eye-View via Uncertainty Measure**|Saheli Hazra et.al.|[2412.04337v1](http://arxiv.org/abs/2412.04337v1)|null|
 |**2024-12-05**|**YOLO-CCA: A Context-Based Approach for Traffic Sign Detection**|Linfeng Jiang et.al.|[2412.04289v1](http://arxiv.org/abs/2412.04289v1)|**[link](https://github.com/zippiest/yolo-cca)**|
@@ -11303,7 +11321,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20241209>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241210>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
