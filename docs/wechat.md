@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.12.13
+> Updated on 2024.12.14
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,16 @@
 
 ## pretrain
 
+- 2024-12-12, **OmniDrag: Enabling Motion Control for Omnidirectional Image-to-Video Generation**, Weiqi Li et.al., Paper: [http://arxiv.org/abs/2412.09623v1](http://arxiv.org/abs/2412.09623v1)
+- 2024-12-12, **SynerGen-VL: Towards Synergistic Image Understanding and Generation with Vision Experts and Token Folding**, Hao Li et.al., Paper: [http://arxiv.org/abs/2412.09604v1](http://arxiv.org/abs/2412.09604v1)
+- 2024-12-12, **TimeRefine: Temporal Grounding with Time Refining Video LLM**, Xizi Wang et.al., Paper: [http://arxiv.org/abs/2412.09601v1](http://arxiv.org/abs/2412.09601v1)
+- 2024-12-12, **OpenNER 1.0: Standardized Open-Access Named Entity Recognition Datasets in 50+ Languages**, Chester Palen-Michel et.al., Paper: [http://arxiv.org/abs/2412.09587v1](http://arxiv.org/abs/2412.09587v1)
+- 2024-12-12, **OLA-VLM: Elevating Visual Perception in Multimodal LLMs with Auxiliary Embedding Distillation**, Jitesh Jain et.al., Paper: [http://arxiv.org/abs/2412.09585v1](http://arxiv.org/abs/2412.09585v1), Code: **[https://github.com/shi-labs/ola-vlm](https://github.com/shi-labs/ola-vlm)**
+- 2024-12-12, **Foundational Large Language Models for Materials Research**, Vaibhav Mishra et.al., Paper: [http://arxiv.org/abs/2412.09560v1](http://arxiv.org/abs/2412.09560v1)
+- 2024-12-12, **Vision Transformers for Efficient Indoor Pathloss Radio Map Prediction**, Edvard Ghukasyan et.al., Paper: [http://arxiv.org/abs/2412.09507v1](http://arxiv.org/abs/2412.09507v1)
+- 2024-12-12, **LLMs for Time Series: an Application for Single Stocks and Statistical Arbitrage**, Sebastien Valeyre et.al., Paper: [http://arxiv.org/abs/2412.09394v1](http://arxiv.org/abs/2412.09394v1)
+- 2024-12-12, **All You Need in Knowledge Distillation Is a Tailored Coordinate System**, Junjie Zhou et.al., Paper: [http://arxiv.org/abs/2412.09388v1](http://arxiv.org/abs/2412.09388v1)
+- 2024-12-12, **Falcon-UI: Understanding GUI Before Following User Instructions**, Huawen Shen et.al., Paper: [http://arxiv.org/abs/2412.09362v1](http://arxiv.org/abs/2412.09362v1)
 - 2024-12-11, **Spend More to Save More (SM2): An Energy-Aware Implementation of Successive Halving for Sustainable Hyperparameter Optimization**, Daniel Geissler et.al., Paper: [http://arxiv.org/abs/2412.08526v1](http://arxiv.org/abs/2412.08526v1)
 - 2024-12-11, **NyayaAnumana & INLegalLlama: The Largest Indian Legal Judgment Prediction Dataset and Specialized Language Model for Enhanced Decision Analysis**, Shubham Kumar Nigam et.al., Paper: [http://arxiv.org/abs/2412.08385v1](http://arxiv.org/abs/2412.08385v1)
 - 2024-12-11, **Zero-Shot Mono-to-Binaural Speech Synthesis**, Alon Levkovitch et.al., Paper: [http://arxiv.org/abs/2412.08356v1](http://arxiv.org/abs/2412.08356v1)
@@ -4091,10 +4101,20 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20241213>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241214>back to top</a>)</p>
 
 ## downstream
 
+- 2024-12-12, **Does Representation Matter? Exploring Intermediate Layers in Large Language Models**, Oscar Skean et.al., Paper: [http://arxiv.org/abs/2412.09563v1](http://arxiv.org/abs/2412.09563v1)
+- 2024-12-12, **Sail into the Headwind: Alignment via Robust Rewards and Dynamic Labels against Reward Hacking**, Paria Rashidinejad et.al., Paper: [http://arxiv.org/abs/2412.09544v1](http://arxiv.org/abs/2412.09544v1)
+- 2024-12-12, **STORM: A Spatio-Temporal Factor Model Based on Dual Vector Quantized Variational Autoencoders for Financial Trading**, Yilei Zhao et.al., Paper: [http://arxiv.org/abs/2412.09468v1](http://arxiv.org/abs/2412.09468v1)
+- 2024-12-12, **ATPrompt: Textual Prompt Learning with Embedded Attributes**, Zheng Li et.al., Paper: [http://arxiv.org/abs/2412.09442v1](http://arxiv.org/abs/2412.09442v1)
+- 2024-12-12, **MOS: Model Surgery for Pre-Trained Model-Based Class-Incremental Learning**, Hai-Long Sun et.al., Paper: [http://arxiv.org/abs/2412.09441v1](http://arxiv.org/abs/2412.09441v1), Code: **[https://github.com/sun-hailong/aaai25-mos](https://github.com/sun-hailong/aaai25-mos)**
+- 2024-12-12, **Training LayoutLM from Scratch for Efficient Named-Entity Recognition in the Insurance Domain**, Benno Uthayasooriyar et.al., Paper: [http://arxiv.org/abs/2412.09341v1](http://arxiv.org/abs/2412.09341v1)
+- 2024-12-12, **USDRL: Unified Skeleton-Based Dense Representation Learning with Multi-Grained Feature Decorrelation**, Wanjiang Weng et.al., Paper: [http://arxiv.org/abs/2412.09220v1](http://arxiv.org/abs/2412.09220v1), Code: **[https://github.com/wengwanjiang/usdrl](https://github.com/wengwanjiang/usdrl)**
+- 2024-12-12, **When Text Embedding Meets Large Language Model: A Comprehensive Survey**, Zhijie Nie et.al., Paper: [http://arxiv.org/abs/2412.09165v1](http://arxiv.org/abs/2412.09165v1)
+- 2024-12-12, **Pinpoint Counterfactuals: Reducing social bias in foundation models via localized counterfactual generation**, Kirill Sirotkin et.al., Paper: [http://arxiv.org/abs/2412.09160v1](http://arxiv.org/abs/2412.09160v1)
+- 2024-12-12, **Is Contrastive Distillation Enough for Learning Comprehensive 3D Representations?**, Yifan Zhang et.al., Paper: [http://arxiv.org/abs/2412.08973v1](http://arxiv.org/abs/2412.08973v1)
 - 2024-12-11, **ALoRE: Efficient Visual Adaptation via Aggregating Low Rank Experts**, Sinan Du et.al., Paper: [http://arxiv.org/abs/2412.08341v1](http://arxiv.org/abs/2412.08341v1)
 - 2024-12-11, **DocSum: Domain-Adaptive Pre-training for Document Abstractive Summarization**, Phan Phuong Mai Chau et.al., Paper: [http://arxiv.org/abs/2412.08196v1](http://arxiv.org/abs/2412.08196v1)
 - 2024-12-11, **TextRefiner: Internal Visual Feature as Efficient Refiner for Vision-Language Models Prompt Tuning**, Jingjing Xie et.al., Paper: [http://arxiv.org/abs/2412.08176v1](http://arxiv.org/abs/2412.08176v1), Code: **[https://github.com/xjjxmu/textrefiner](https://github.com/xjjxmu/textrefiner)**
@@ -7854,7 +7874,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20241213>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241214>back to top</a>)</p>
 
 ## adaptor
 
@@ -8007,10 +8027,16 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20241213>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241214>back to top</a>)</p>
 
 ## object detection
 
+- 2024-12-12, **FD2-Net: Frequency-Driven Feature Decomposition Network for Infrared-Visible Object Detection**, Ke Li et.al., Paper: [http://arxiv.org/abs/2412.09258v1](http://arxiv.org/abs/2412.09258v1)
+- 2024-12-12, **UADet: A Remarkably Simple Yet Effective Uncertainty-Aware Open-Set Object Detection Framework**, Silin Cheng et.al., Paper: [http://arxiv.org/abs/2412.09229v1](http://arxiv.org/abs/2412.09229v1)
+- 2024-12-12, **ContextHOI: Spatial Context Learning for Human-Object Interaction Detection**, Mingda Jia et.al., Paper: [http://arxiv.org/abs/2412.09050v1](http://arxiv.org/abs/2412.09050v1)
+- 2024-12-12, **STEAM: Squeeze and Transform Enhanced Attention Module**, Rishabh Sabharwal et.al., Paper: [http://arxiv.org/abs/2412.09023v1](http://arxiv.org/abs/2412.09023v1)
+- 2024-12-12, **Sensing for Space Safety and Sustainability: A Deep Learning Approach with Vision Transformers**, Wenxuan Zhang et.al., Paper: [http://arxiv.org/abs/2412.08913v1](http://arxiv.org/abs/2412.08913v1)
+- 2024-12-11, **DALI: Domain Adaptive LiDAR Object Detection via Distribution-level and Instance-level Pseudo Label Denoising**, Xiaohu Lu et.al., Paper: [http://arxiv.org/abs/2412.08806v1](http://arxiv.org/abs/2412.08806v1), Code: **[https://github.com/xiaohulugo/t-ro2024-dali](https://github.com/xiaohulugo/t-ro2024-dali)**
 - 2024-12-11, **Utilizing Multi-step Loss for Single Image Reflection Removal**, Abdelrahman Elnenaey et.al., Paper: [http://arxiv.org/abs/2412.08582v1](http://arxiv.org/abs/2412.08582v1), Code: **[https://github.com/AbdelrhmanElnenaey/SIRR_MSloss_RefGAN_RDM](https://github.com/AbdelrhmanElnenaey/SIRR_MSloss_RefGAN_RDM)**
 - 2024-12-11, **PointCFormer: a Relation-based Progressive Feature Extraction Network for Point Cloud Completion**, Yi Zhong et.al., Paper: [http://arxiv.org/abs/2412.08421v1](http://arxiv.org/abs/2412.08421v1)
 - 2024-12-11, **Pysical Informed Driving World Model**, Zhuoran Yang et.al., Paper: [http://arxiv.org/abs/2412.08410v1](http://arxiv.org/abs/2412.08410v1)
@@ -11393,7 +11419,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20241213>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241214>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
