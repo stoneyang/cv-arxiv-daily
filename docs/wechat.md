@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.12.16
+> Updated on 2024.12.17
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,15 @@
 
 ## pretrain
 
+- 2024-12-13, **UniMed-CLIP: Towards a Unified Image-Text Pretraining Paradigm for Diverse Medical Imaging Modalities**, Muhammad Uzair Khattak et.al., Paper: [http://arxiv.org/abs/2412.10372v1](http://arxiv.org/abs/2412.10372v1), Code: **[https://github.com/mbzuai-oryx/unimed-clip](https://github.com/mbzuai-oryx/unimed-clip)**
+- 2024-12-13, **A dual contrastive framework**, Yuan Sun et.al., Paper: [http://arxiv.org/abs/2412.10348v1](http://arxiv.org/abs/2412.10348v1)
+- 2024-12-13, **TraceVLA: Visual Trace Prompting Enhances Spatial-Temporal Awareness for Generalist Robotic Policies**, Ruijie Zheng et.al., Paper: [http://arxiv.org/abs/2412.10345v1](http://arxiv.org/abs/2412.10345v1)
+- 2024-12-13, **Multi-Head Encoding for Extreme Label Classification**, Daojun Liang et.al., Paper: [http://arxiv.org/abs/2412.10182v1](http://arxiv.org/abs/2412.10182v1), Code: **[https://github.com/anoise/mhe](https://github.com/anoise/mhe)**
+- 2024-12-13, **UN-DETR: Promoting Objectness Learning via Joint Supervision for Unknown Object Detection**, Haomiao Liu et.al., Paper: [http://arxiv.org/abs/2412.10176v1](http://arxiv.org/abs/2412.10176v1), Code: **[https://github.com/ndwxhmzz/un-detr](https://github.com/ndwxhmzz/un-detr)**
+- 2024-12-13, **Enhancing Fine-Grained Vision-Language Pretraining with Negative Augmented Samples**, Yeyuan Wang et.al., Paper: [http://arxiv.org/abs/2412.10029v1](http://arxiv.org/abs/2412.10029v1)
+- 2024-12-12, **Memory Layers at Scale**, Vincent-Pierre Berges et.al., Paper: [http://arxiv.org/abs/2412.09764v1](http://arxiv.org/abs/2412.09764v1), Code: **[https://github.com/facebookresearch/memory](https://github.com/facebookresearch/memory)**
+- 2024-12-12, **Toward Foundation Model for Multivariate Wearable Sensing of Physiological Signals**, Yunfei Luo et.al., Paper: [http://arxiv.org/abs/2412.09758v1](http://arxiv.org/abs/2412.09758v1), Code: **[https://github.com/mobile-sensing-and-ubicomp-laboratory/normwear](https://github.com/mobile-sensing-and-ubicomp-laboratory/normwear)**
+- 2024-12-12, **Let Curves Speak: A Continuous Glucose Monitor based Large Sensor Foundation Model for Diabetes Management**, Junjie Luo et.al., Paper: [http://arxiv.org/abs/2412.09727v1](http://arxiv.org/abs/2412.09727v1)
 - 2024-12-12, **OmniDrag: Enabling Motion Control for Omnidirectional Image-to-Video Generation**, Weiqi Li et.al., Paper: [http://arxiv.org/abs/2412.09623v1](http://arxiv.org/abs/2412.09623v1)
 - 2024-12-12, **SynerGen-VL: Towards Synergistic Image Understanding and Generation with Vision Experts and Token Folding**, Hao Li et.al., Paper: [http://arxiv.org/abs/2412.09604v1](http://arxiv.org/abs/2412.09604v1)
 - 2024-12-12, **TimeRefine: Temporal Grounding with Time Refining Video LLM**, Xizi Wang et.al., Paper: [http://arxiv.org/abs/2412.09601v1](http://arxiv.org/abs/2412.09601v1)
@@ -4101,10 +4110,19 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20241216>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241217>back to top</a>)</p>
 
 ## downstream
 
+- 2024-12-13, **COMET: Benchmark for Comprehensive Biological Multi-omics Evaluation Tasks and Language Models**, Yuchen Ren et.al., Paper: [http://arxiv.org/abs/2412.10347v1](http://arxiv.org/abs/2412.10347v1)
+- 2024-12-13, **Iris: Breaking GUI Complexity with Adaptive Focus and Self-Refining**, Zhiqi Ge et.al., Paper: [http://arxiv.org/abs/2412.10342v1](http://arxiv.org/abs/2412.10342v1)
+- 2024-12-13, **Adversarial Robustness of Bottleneck Injected Deep Neural Networks for Task-Oriented Communication**, Alireza Furutanpey et.al., Paper: [http://arxiv.org/abs/2412.10265v1](http://arxiv.org/abs/2412.10265v1)
+- 2024-12-13, **$\textrm{A}^{\textrm{2}}$RNet: Adversarial Attack Resilient Network for Robust Infrared and Visible Image Fusion**, Jiawei Li et.al., Paper: [http://arxiv.org/abs/2412.09954v1](http://arxiv.org/abs/2412.09954v1)
+- 2024-12-13, **CaLoRAify: Calorie Estimation with Visual-Text Pairing and LoRA-Driven Visual Language Models**, Dongyu Yao et.al., Paper: [http://arxiv.org/abs/2412.09936v1](http://arxiv.org/abs/2412.09936v1), Code: **[https://github.com/kennyyao2001/16824-caloraify](https://github.com/kennyyao2001/16824-caloraify)**
+- 2024-12-13, **ScaleOT: Privacy-utility-scalable Offsite-tuning with Dynamic LayerReplace and Selective Rank Compression**, Kai Yao et.al., Paper: [http://arxiv.org/abs/2412.09812v1](http://arxiv.org/abs/2412.09812v1)
+- 2024-12-13, **CP-DETR: Concept Prompt Guide DETR Toward Stronger Universal Object Detection**, Qibo Chen et.al., Paper: [http://arxiv.org/abs/2412.09799v1](http://arxiv.org/abs/2412.09799v1)
+- 2024-12-12, **Memory Layers at Scale**, Vincent-Pierre Berges et.al., Paper: [http://arxiv.org/abs/2412.09764v1](http://arxiv.org/abs/2412.09764v1), Code: **[https://github.com/facebookresearch/memory](https://github.com/facebookresearch/memory)**
+- 2024-12-12, **BayesAdapter: enhanced uncertainty estimation in CLIP few-shot adaptation**, Pablo Morales-Álvarez et.al., Paper: [http://arxiv.org/abs/2412.09718v1](http://arxiv.org/abs/2412.09718v1)
 - 2024-12-12, **Does Representation Matter? Exploring Intermediate Layers in Large Language Models**, Oscar Skean et.al., Paper: [http://arxiv.org/abs/2412.09563v1](http://arxiv.org/abs/2412.09563v1)
 - 2024-12-12, **Sail into the Headwind: Alignment via Robust Rewards and Dynamic Labels against Reward Hacking**, Paria Rashidinejad et.al., Paper: [http://arxiv.org/abs/2412.09544v1](http://arxiv.org/abs/2412.09544v1)
 - 2024-12-12, **STORM: A Spatio-Temporal Factor Model Based on Dual Vector Quantized Variational Autoencoders for Financial Trading**, Yilei Zhao et.al., Paper: [http://arxiv.org/abs/2412.09468v1](http://arxiv.org/abs/2412.09468v1)
@@ -7874,7 +7892,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20241216>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241217>back to top</a>)</p>
 
 ## adaptor
 
@@ -8027,10 +8045,19 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20241216>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241217>back to top</a>)</p>
 
 ## object detection
 
+- 2024-12-13, **A dual contrastive framework**, Yuan Sun et.al., Paper: [http://arxiv.org/abs/2412.10348v1](http://arxiv.org/abs/2412.10348v1)
+- 2024-12-13, **MVQ:Towards Efficient DNN Compression and Acceleration with Masked Vector Quantization**, Shuaiting Li et.al., Paper: [http://arxiv.org/abs/2412.10261v1](http://arxiv.org/abs/2412.10261v1)
+- 2024-12-13, **Copy-Move Detection in Optical Microscopy: A Segmentation Network and A Dataset**, Hao-Chiang Shao et.al., Paper: [http://arxiv.org/abs/2412.10258v1](http://arxiv.org/abs/2412.10258v1)
+- 2024-12-13, **UN-DETR: Promoting Objectness Learning via Joint Supervision for Unknown Object Detection**, Haomiao Liu et.al., Paper: [http://arxiv.org/abs/2412.10176v1](http://arxiv.org/abs/2412.10176v1), Code: **[https://github.com/ndwxhmzz/un-detr](https://github.com/ndwxhmzz/un-detr)**
+- 2024-12-13, **HS-FPN: High Frequency and Spatial Perception FPN for Tiny Object Detection**, Zican Shi et.al., Paper: [http://arxiv.org/abs/2412.10116v1](http://arxiv.org/abs/2412.10116v1)
+- 2024-12-13, **RemDet: Rethinking Efficient Model Design for UAV Object Detection**, Chen Li et.al., Paper: [http://arxiv.org/abs/2412.10040v1](http://arxiv.org/abs/2412.10040v1), Code: **[https://github.com/hzai-zjnu/remdet](https://github.com/hzai-zjnu/remdet)**
+- 2024-12-13, **Timealign: A multi-modal object detection method for time misalignment fusing in autonomous driving**, Zhihang Song et.al., Paper: [http://arxiv.org/abs/2412.10033v1](http://arxiv.org/abs/2412.10033v1)
+- 2024-12-13, **Object-Focused Data Selection for Dense Prediction Tasks**, Niclas Popp et.al., Paper: [http://arxiv.org/abs/2412.10032v1](http://arxiv.org/abs/2412.10032v1)
+- 2024-12-13, **CP-DETR: Concept Prompt Guide DETR Toward Stronger Universal Object Detection**, Qibo Chen et.al., Paper: [http://arxiv.org/abs/2412.09799v1](http://arxiv.org/abs/2412.09799v1)
 - 2024-12-12, **FD2-Net: Frequency-Driven Feature Decomposition Network for Infrared-Visible Object Detection**, Ke Li et.al., Paper: [http://arxiv.org/abs/2412.09258v1](http://arxiv.org/abs/2412.09258v1)
 - 2024-12-12, **UADet: A Remarkably Simple Yet Effective Uncertainty-Aware Open-Set Object Detection Framework**, Silin Cheng et.al., Paper: [http://arxiv.org/abs/2412.09229v1](http://arxiv.org/abs/2412.09229v1)
 - 2024-12-12, **ContextHOI: Spatial Context Learning for Human-Object Interaction Detection**, Mingda Jia et.al., Paper: [http://arxiv.org/abs/2412.09050v1](http://arxiv.org/abs/2412.09050v1)
@@ -11419,7 +11446,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20241216>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241217>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
