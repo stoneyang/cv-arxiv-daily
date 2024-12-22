@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.21
+## Updated on 2024.12.22
 
 <details>
   <summary>Table of Contents</summary>
@@ -4152,7 +4152,7 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241221>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241222>back to top</a>)</p>
 
 ## downstream
 
@@ -7962,13 +7962,13 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20241221>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241222>back to top</a>)</p>
 
 ## adaptor
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-19**|**A Light-Weight Framework for Open-Set Object Detection with Decoupled Feature Alignment in Joint Space**|Yonghao He et.al.|[2412.14680v1](http://arxiv.org/abs/2412.14680v1)|null|
+|**2024-12-19**|**A Light-Weight Framework for Open-Set Object Detection with Decoupled Feature Alignment in Joint Space**|Yonghao He et.al.|[2412.14680v1](http://arxiv.org/abs/2412.14680v1)|**[link](https://github.com/d-robotics-ai-lab/dosod)**|
 |**2024-12-17**|**FineGates: LLMs Finetuning with Compression using Stochastic Gates**|Jonathan Svirsky et.al.|[2412.12951v1](http://arxiv.org/abs/2412.12951v1)|null|
 |**2024-12-17**|**VersaGen: Unleashing Versatile Visual Control for Text-to-Image Synthesis**|Zhipeng Chen et.al.|[2412.11594v2](http://arxiv.org/abs/2412.11594v2)|**[link](https://github.com/felixchan9527/versagen_official)**|
 |**2024-12-10**|**3DTrajMaster: Mastering 3D Trajectory for Multi-Entity Motion in Video Generation**|Xiao Fu et.al.|[2412.07759v1](http://arxiv.org/abs/2412.07759v1)|null|
@@ -8120,7 +8120,7 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20241221>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241222>back to top</a>)</p>
 
 ## object detection
 
@@ -8128,11 +8128,11 @@
 |---|---|---|---|---|
 |**2024-12-19**|**Leveraging Color Channel Independence for Improved Unsupervised Object Detection**|Bastian Jäckl et.al.|[2412.15150v1](http://arxiv.org/abs/2412.15150v1)|null|
 |**2024-12-19**|**Corn Ear Detection and Orientation Estimation Using Deep Learning**|Nathan Sprague et.al.|[2412.14954v1](http://arxiv.org/abs/2412.14954v1)|null|
-|**2024-12-19**|**A Light-Weight Framework for Open-Set Object Detection with Decoupled Feature Alignment in Joint Space**|Yonghao He et.al.|[2412.14680v1](http://arxiv.org/abs/2412.14680v1)|null|
+|**2024-12-19**|**A Light-Weight Framework for Open-Set Object Detection with Decoupled Feature Alignment in Joint Space**|Yonghao He et.al.|[2412.14680v1](http://arxiv.org/abs/2412.14680v1)|**[link](https://github.com/d-robotics-ai-lab/dosod)**|
 |**2024-12-19**|**Progressive Fine-to-Coarse Reconstruction for Accurate Low-Bit Post-Training Quantization in Vision Transformers**|Rui Ding et.al.|[2412.14633v1](http://arxiv.org/abs/2412.14633v1)|null|
 |**2024-12-19**|**Alignment-Free RGB-T Salient Object Detection: A Large-scale Dataset and Progressive Correlation Network**|Kunpeng Wang et.al.|[2412.14576v1](http://arxiv.org/abs/2412.14576v1)|**[link](https://github.com/angknpng/pcnet)**|
 |**2024-12-19**|**SCKD: Semi-Supervised Cross-Modality Knowledge Distillation for 4D Radar Object Detection**|Ruoyu Xu et.al.|[2412.14571v1](http://arxiv.org/abs/2412.14571v1)|null|
-|**2024-12-18**|**HA-RDet: Hybrid Anchor Rotation Detector for Oriented Object Detection**|Phuc D. A. Nguyen et.al.|[2412.14379v1](http://arxiv.org/abs/2412.14379v1)|null|
+|**2024-12-18**|**HA-RDet: Hybrid Anchor Rotation Detector for Oriented Object Detection**|Phuc D. A. Nguyen et.al.|[2412.14379v1](http://arxiv.org/abs/2412.14379v1)|**[link](https://github.com/phucnda/ha-rdet)**|
 |**2024-12-18**|**Joint Perception and Prediction for Autonomous Driving: A Survey**|Lucas Dal'Col et.al.|[2412.14088v1](http://arxiv.org/abs/2412.14088v1)|**[link](https://github.com/pxiangwu/MotionNet)**|
 |**2024-12-18**|**Object Style Diffusion for Generalized Object Detection in Urban Scene**|Hao Li et.al.|[2412.13815v1](http://arxiv.org/abs/2412.13815v1)|null|
 |**2024-12-18**|**MMO-IG: Multi-Class and Multi-Scale Object Image Generation for Remote Sensing**|Chuang Yang et.al.|[2412.13684v1](http://arxiv.org/abs/2412.13684v1)|null|
@@ -11554,7 +11554,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20241221>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241222>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
