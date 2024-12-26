@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.25
+## Updated on 2024.12.26
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-24**|**Distilling Fine-grained Sentiment Understanding from Large Language Models**|Yice Zhang et.al.|[2412.18552v1](http://arxiv.org/abs/2412.18552v1)|**[link](https://github.com/hitsz-hlt/fsa-distillation)**|
+|**2024-12-24**|**MinsStudio: A Streamlined Package for Minecraft AI Agent Development**|Shaofei Cai et.al.|[2412.18293v1](http://arxiv.org/abs/2412.18293v1)|**[link](https://github.com/craftjarvis/minestudio)**|
+|**2024-12-24**|**Combining GPT and Code-Based Similarity Checking for Effective Smart Contract Vulnerability Detection**|Jango Zhang et.al.|[2412.18225v1](http://arxiv.org/abs/2412.18225v1)|null|
+|**2024-12-24**|**VLABench: A Large-Scale Benchmark for Language-Conditioned Robotics Manipulation with Long-Horizon Reasoning Tasks**|Shiduo Zhang et.al.|[2412.18194v1](http://arxiv.org/abs/2412.18194v1)|null|
+|**2024-12-24**|**AutoDroid-V2: Boosting SLM-based GUI Agents via Code Generation**|Hao Wen et.al.|[2412.18116v1](http://arxiv.org/abs/2412.18116v1)|null|
+|**2024-12-24**|**Multi-Point Positional Insertion Tuning for Small Object Detection**|Kanoko Goto et.al.|[2412.18090v1](http://arxiv.org/abs/2412.18090v1)|null|
+|**2024-12-24**|**An Ensemble Approach to Short-form Video Quality Assessment Using Multimodal LLM**|Wen Wen et.al.|[2412.18060v1](http://arxiv.org/abs/2412.18060v1)|null|
+|**2024-12-23**|**IITR-CIOL@NLU of Devanagari Script Languages 2025: Multilingual Hate Speech Detection and Target Identification in Devanagari-Scripted Languages**|Siddhant Gupta et.al.|[2412.17947v1](http://arxiv.org/abs/2412.17947v1)|null|
+|**2024-12-23**|**BenCzechMark : A Czech-centric Multitask and Multimetric Benchmark for Large Language Models with Duel Scoring Mechanism**|Martin Fajcik et.al.|[2412.17933v1](http://arxiv.org/abs/2412.17933v1)|null|
 |**2024-12-23**|**Deliberation in Latent Space via Differentiable Cache Augmentation**|Luyang Liu et.al.|[2412.17747v1](http://arxiv.org/abs/2412.17747v1)|null|
 |**2024-12-23**|**EPE-P: Evidence-based Parameter-efficient Prompting for Multimodal Learning with Missing Modalities**|Zhe Chen et.al.|[2412.17677v1](http://arxiv.org/abs/2412.17677v1)|**[link](https://github.com/boris-jobs/epe-p_mllms-robustness)**|
 |**2024-12-23**|**DreamFit: Garment-Centric Human Generation via a Lightweight Anything-Dressing Encoder**|Ente Lin et.al.|[2412.17644v1](http://arxiv.org/abs/2412.17644v1)|null|
@@ -4170,16 +4179,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241225>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241226>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-24**|**Addressing Spatial-Temporal Data Heterogeneity in Federated Continual Learning via Tail Anchor**|Hao Yu et.al.|[2412.18355v1](http://arxiv.org/abs/2412.18355v1)|null|
+|**2024-12-24**|**Efficient and Context-Aware Label Propagation for Zero-/Few-Shot Training-Free Adaptation of Vision-Language Model**|Yushu Li et.al.|[2412.18303v1](http://arxiv.org/abs/2412.18303v1)|null|
+|**2024-12-24**|**Stochastic Control for Fine-tuning Diffusion Models: Optimality, Regularity, and Convergence**|Yinbin Han et.al.|[2412.18164v1](http://arxiv.org/abs/2412.18164v1)|null|
+|**2024-12-24**|**DepthLab: From Partial to Complete**|Zhiheng Liu et.al.|[2412.18153v1](http://arxiv.org/abs/2412.18153v1)|null|
+|**2024-12-24**|**CoAM: Corpus of All-Type Multiword Expressions**|Yusuke Ide et.al.|[2412.18151v1](http://arxiv.org/abs/2412.18151v1)|null|
+|**2024-12-24**|**Neural Directed Speech Enhancement with Dual Microphone Array in High Noise Scenario**|Wen Wen et.al.|[2412.18141v1](http://arxiv.org/abs/2412.18141v1)|null|
 |**2024-12-23**|**ActiveGS: Active Scene Reconstruction using Gaussian Splatting**|Liren Jin et.al.|[2412.17769v1](http://arxiv.org/abs/2412.17769v1)|**[link](https://github.com/dmar-bonn/active-gs)**|
 |**2024-12-23**|**Reasoning to Attend: Try to Understand How <SEG> Token Works**|Rui Qian et.al.|[2412.17741v1](http://arxiv.org/abs/2412.17741v1)|null|
-|**2024-12-23**|**LangSurf: Language-Embedded Surface Gaussians for 3D Scene Understanding**|Hao Li et.al.|[2412.17635v1](http://arxiv.org/abs/2412.17635v1)|null|
-|**2024-12-23**|**ANID: How Far Are We? Evaluating the Discrepancies Between AI-synthesized Images and Natural Images through Multimodal Guidance**|Renyang Liu et.al.|[2412.17632v1](http://arxiv.org/abs/2412.17632v1)|null|
+|**2024-12-24**|**LangSurf: Language-Embedded Surface Gaussians for 3D Scene Understanding**|Hao Li et.al.|[2412.17635v2](http://arxiv.org/abs/2412.17635v2)|null|
+|**2024-12-23**|**ANID: How Far Are We? Evaluating the Discrepancies Between AI-synthesized Images and Natural Images through Multimodal Guidance**|Renyang Liu et.al.|[2412.17632v1](http://arxiv.org/abs/2412.17632v1)|**[link](https://github.com/ryliu68/anid)**|
 |**2024-12-23**|**Emerging Security Challenges of Large Language Models**|Herve Debar et.al.|[2412.17614v1](http://arxiv.org/abs/2412.17614v1)|null|
 |**2024-12-23**|**Towards Foundation Models on Graphs: An Analysis on Cross-Dataset Transfer of Pretrained GNNs**|Fabrizio Frasca et.al.|[2412.17609v1](http://arxiv.org/abs/2412.17609v1)|null|
 |**2024-12-23**|**Interweaving Memories of a Siamese Large Language Model**|Xin Song et.al.|[2412.17383v1](http://arxiv.org/abs/2412.17383v1)|**[link](https://github.com/ecnu-text-computing/imsm)**|
@@ -7999,7 +8014,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20241225>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241226>back to top</a>)</p>
 
 ## adaptor
 
@@ -8158,17 +8173,22 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20241225>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241226>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-24**|**Sampling Bag of Views for Open-Vocabulary Object Detection**|Hojun Choi et.al.|[2412.18273v1](http://arxiv.org/abs/2412.18273v1)|null|
+|**2024-12-24**|**Efficient Detection Framework Adaptation for Edge Computing: A Plug-and-play Neural Network Toolbox Enabling Edge Deployment**|Jiaqi Wu et.al.|[2412.18230v1](http://arxiv.org/abs/2412.18230v1)|null|
+|**2024-12-24**|**Spectrum-oriented Point-supervised Saliency Detector for Hyperspectral Images**|Peifu Liu et.al.|[2412.18112v1](http://arxiv.org/abs/2412.18112v1)|**[link](https://github.com/laprf/spsd)**|
+|**2024-12-24**|**Multi-Point Positional Insertion Tuning for Small Object Detection**|Kanoko Goto et.al.|[2412.18090v1](http://arxiv.org/abs/2412.18090v1)|null|
+|**2024-12-24**|**COMO: Cross-Mamba Interaction and Offset-Guided Fusion for Multimodal Object Detection**|Chang Liu et.al.|[2412.18076v1](http://arxiv.org/abs/2412.18076v1)|null|
 |**2024-12-23**|**Comprehensive Multi-Modal Prototypes are Simple and Effective Classifiers for Vast-Vocabulary Object Detection**|Yitong Chen et.al.|[2412.17800v1](http://arxiv.org/abs/2412.17800v1)|**[link](https://github.com/row11n/prova)**|
 |**2024-12-23**|**Enhanced Temporal Processing in Spiking Neural Networks for Static Object Detection Using 3D Convolutions**|Huaxu He et.al.|[2412.17654v1](http://arxiv.org/abs/2412.17654v1)|null|
 |**2024-12-23**|**Impact of Evidence Theory Uncertainty on Training Object Detection Models**|M. Tahasanul Ibrahim et.al.|[2412.17405v1](http://arxiv.org/abs/2412.17405v1)|null|
 |**2024-12-23**|**Feature Based Methods Domain Adaptation for Object Detection: A Review Paper**|Helia Mohamadi et.al.|[2412.17325v1](http://arxiv.org/abs/2412.17325v1)|null|
-|**2024-12-23**|**Towards Unsupervised Model Selection for Domain Adaptive Object Detection**|Hengfu Yu et.al.|[2412.17284v1](http://arxiv.org/abs/2412.17284v1)|null|
+|**2024-12-23**|**Towards Unsupervised Model Selection for Domain Adaptive Object Detection**|Hengfu Yu et.al.|[2412.17284v1](http://arxiv.org/abs/2412.17284v1)|**[link](https://github.com/henryyu23/das)**|
 |**2024-12-22**|**NumbOD: A Spatial-Frequency Fusion Attack Against Object Detectors**|Ziqi Zhou et.al.|[2412.16955v1](http://arxiv.org/abs/2412.16955v1)|**[link](https://github.com/cgcl-codes/numbod)**|
 |**2024-12-22**|**Separating Drone Point Clouds From Complex Backgrounds by Cluster Filter -- Technical Report for CVPR 2024 UG2 Challenge**|Hanfang Liang et.al.|[2412.16947v1](http://arxiv.org/abs/2412.16947v1)|null|
 |**2024-12-22**|**Seamless Detection: Unifying Salient Object Detection and Camouflaged Object Detection**|Yi Liu et.al.|[2412.16840v1](http://arxiv.org/abs/2412.16840v1)|**[link](https://github.com/liuyi1989/seamless-detection)**|
@@ -11606,7 +11626,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20241225>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241226>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
