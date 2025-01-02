@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.01
+## Updated on 2025.01.02
 
 <details>
   <summary>Table of Contents</summary>
@@ -28,7 +28,7 @@ layout: default
 |**2024-12-30**|**LEASE: Offline Preference-based Reinforcement Learning with High Sample Efficiency**|Xiao-Yin Liu et.al.|[2412.21001v1](http://arxiv.org/abs/2412.21001v1)|null|
 |**2024-12-30**|**Attention Is All You Need For Mixture-of-Depths Routing**|Advait Gadhikar et.al.|[2412.20875v1](http://arxiv.org/abs/2412.20875v1)|null|
 |**2024-12-30**|**FastCHGNet: Training one Universal Interatomic Potential to 1.5 Hours with 32 GPUs**|Yuanchang Zhou et.al.|[2412.20796v1](http://arxiv.org/abs/2412.20796v1)|null|
-|**2024-12-30**|**Attributing Culture-Conditioned Generations to Pretraining Corpora**|Huihan Li et.al.|[2412.20760v1](http://arxiv.org/abs/2412.20760v1)|null|
+|**2024-12-30**|**Attributing Culture-Conditioned Generations to Pretraining Corpora**|Huihan Li et.al.|[2412.20760v1](http://arxiv.org/abs/2412.20760v1)|**[link](https://github.com/huihanlhh/CultureGenAttr)**|
 |**2024-12-30**|**Unsupervised dense retrieval with conterfactual contrastive learning**|Haitian Chen et.al.|[2412.20756v1](http://arxiv.org/abs/2412.20756v1)|null|
 |**2024-12-30**|**Learning to Rank Pre-trained Vision-Language Models for Downstream Tasks**|Yuhe Ding et.al.|[2412.20682v1](http://arxiv.org/abs/2412.20682v1)|null|
 |**2024-12-29**|**MATEY: multiscale adaptive foundation models for spatiotemporal physical systems**|Pei Zhang et.al.|[2412.20601v1](http://arxiv.org/abs/2412.20601v1)|null|
@@ -4200,7 +4200,7 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250101>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250102>back to top</a>)</p>
 
 ## downstream
 
@@ -4209,7 +4209,7 @@ layout: default
 |**2024-12-30**|**PyG-SSL: A Graph Self-Supervised Learning Toolkit**|Lecheng Zheng et.al.|[2412.21151v1](http://arxiv.org/abs/2412.21151v1)|**[link](https://github.com/idea-isail-lab-uiuc/pyg-ssl)**|
 |**2024-12-30**|**GePBench: Evaluating Fundamental Geometric Perception for Multimodal Large Language Models**|Shangyu Xing et.al.|[2412.21036v1](http://arxiv.org/abs/2412.21036v1)|null|
 |**2024-12-30**|**FPGA-based Acceleration of Neural Network for Image Classification using Vitis AI**|Zhengdong Li et.al.|[2412.20974v1](http://arxiv.org/abs/2412.20974v1)|null|
-|**2024-12-30**|**Hierarchical Banzhaf Interaction for General Video-Language Representation Learning**|Peng Jin et.al.|[2412.20964v1](http://arxiv.org/abs/2412.20964v1)|null|
+|**2024-12-30**|**Hierarchical Banzhaf Interaction for General Video-Language Representation Learning**|Peng Jin et.al.|[2412.20964v1](http://arxiv.org/abs/2412.20964v1)|**[link](https://github.com/jpthu17/HBI)**|
 |**2024-12-30**|**Towards Compatible Fine-tuning for Vision-Language Model Updates**|Zhengbo Wang et.al.|[2412.20895v1](http://arxiv.org/abs/2412.20895v1)|null|
 |**2024-12-30**|**Learning to Rank Pre-trained Vision-Language Models for Downstream Tasks**|Yuhe Ding et.al.|[2412.20682v1](http://arxiv.org/abs/2412.20682v1)|null|
 |**2024-12-30**|**NetFlowGen: Leveraging Generative Pre-training for Network Traffic Dynamics**|Jiawei Zhou et.al.|[2412.20635v1](http://arxiv.org/abs/2412.20635v1)|null|
@@ -8055,7 +8055,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20250101>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250102>back to top</a>)</p>
 
 ## adaptor
 
@@ -8214,7 +8214,7 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250101>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250102>back to top</a>)</p>
 
 ## object detection
 
@@ -8224,7 +8224,7 @@ layout: default
 |**2024-12-30**|**Humanoid Robot RHP Friends: Seamless Combination of Autonomous and Teleoperated Tasks in a Nursing Context**|Mehdi Benallegue et.al.|[2412.20770v1](http://arxiv.org/abs/2412.20770v1)|null|
 |**2024-12-30**|**Solar Filaments Detection using Active Contours Without Edges**|Sanmoy Bandyopadhyay et.al.|[2412.20749v1](http://arxiv.org/abs/2412.20749v1)|null|
 |**2024-12-30**|**Open-Set Object Detection By Aligning Known Class Representations**|Hiran Sarkar et.al.|[2412.20701v1](http://arxiv.org/abs/2412.20701v1)|null|
-|**2024-12-30**|**SM3Det: A Unified Model for Multi-Modal Remote Sensing Object Detection**|Yuxuan Li et.al.|[2412.20665v1](http://arxiv.org/abs/2412.20665v1)|null|
+|**2024-12-30**|**SM3Det: A Unified Model for Multi-Modal Remote Sensing Object Detection**|Yuxuan Li et.al.|[2412.20665v1](http://arxiv.org/abs/2412.20665v1)|**[link](https://github.com/zcablii/sm3det)**|
 |**2024-12-30**|**YOLO-UniOW: Efficient Universal Open-World Object Detection**|Lihao Liu et.al.|[2412.20645v1](http://arxiv.org/abs/2412.20645v1)|null|
 |**2024-12-29**|**A Novel FPGA-based CNN Hardware Accelerator: Optimization for Convolutional Layers using Karatsuba Ofman Multiplier**|Amit Sarkar et.al.|[2412.20393v1](http://arxiv.org/abs/2412.20393v1)|null|
 |**2024-12-29**|**Differential Evolution Integrated Hybrid Deep Learning Model for Object Detection in Pre-made Dishes**|Lujia Lv et.al.|[2412.20370v1](http://arxiv.org/abs/2412.20370v1)|null|
@@ -11687,7 +11687,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20250101>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250102>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
