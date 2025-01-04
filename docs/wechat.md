@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2025.01.03
+> Updated on 2025.01.04
 
 <details>
   <summary>Table of Contents</summary>
@@ -4194,7 +4194,7 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20250103>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250104>back to top</a>)</p>
 
 ## downstream
 
@@ -8047,7 +8047,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20250103>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250104>back to top</a>)</p>
 
 ## adaptor
 
@@ -8060,7 +8060,7 @@
 - 2024-11-27, **A Runtime-Adaptive Transformer Neural Network Accelerator on FPGAs**, Ehsan Kabir et.al., Paper: [http://arxiv.org/abs/2411.18148v1](http://arxiv.org/abs/2411.18148v1), Code: **[https://github.com/Kabir-Ehsan/Transformer_on_FPGA](https://github.com/Kabir-Ehsan/Transformer_on_FPGA)**
 - 2024-11-26, **Noise Adaptor: Enhancing Low-Latency Spiking Neural Networks through Noise-Injected Low-Bit ANN Conversion**, Chen Li et.al., Paper: [http://arxiv.org/abs/2411.17431v1](http://arxiv.org/abs/2411.17431v1)
 - 2024-11-25, **RECAST: Reparameterized, Compact weight Adaptation for Sequential Tasks**, Nazia Tasnim et.al., Paper: [http://arxiv.org/abs/2411.16870v1](http://arxiv.org/abs/2411.16870v1)
-- 2024-11-12, **CJST: CTC Compressor based Joint Speech and Text Training for Decoder-Only ASR**, Wei Zhou et.al., Paper: [http://arxiv.org/abs/2411.07607v1](http://arxiv.org/abs/2411.07607v1)
+- 2024-12-31, **CJST: CTC Compressor based Joint Speech and Text Training for Decoder-Only ASR**, Wei Zhou et.al., Paper: [http://arxiv.org/abs/2411.07607v2](http://arxiv.org/abs/2411.07607v2)
 - 2024-11-11, **ODEStream: A Buffer-Free Online Learning Framework with ODE-based Adaptor for Streaming Time Series Forecasting**, Futoon M. Abushaqra et.al., Paper: [http://arxiv.org/abs/2411.07413v1](http://arxiv.org/abs/2411.07413v1)
 - 2024-11-19, **LSSInst: Improving Geometric Modeling in LSS-Based BEV Perception with Instance Representation**, Weijie Ma et.al., Paper: [http://arxiv.org/abs/2411.06173v2](http://arxiv.org/abs/2411.06173v2), Code: **[https://github.com/weijiemax/lssinst](https://github.com/weijiemax/lssinst)**
 - 2024-11-08, **Energy Efficient Protein Language Models: Leveraging Small Language Models with LoRA for Controllable Protein Generation**, Aayush Shah et.al., Paper: [http://arxiv.org/abs/2411.05966v1](http://arxiv.org/abs/2411.05966v1)
@@ -8204,7 +8204,7 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20250103>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250104>back to top</a>)</p>
 
 ## object detection
 
@@ -8213,7 +8213,7 @@
 - 2024-12-30, **Solar Filaments Detection using Active Contours Without Edges**, Sanmoy Bandyopadhyay et.al., Paper: [http://arxiv.org/abs/2412.20749v1](http://arxiv.org/abs/2412.20749v1)
 - 2024-12-30, **Open-Set Object Detection By Aligning Known Class Representations**, Hiran Sarkar et.al., Paper: [http://arxiv.org/abs/2412.20701v1](http://arxiv.org/abs/2412.20701v1)
 - 2024-12-30, **SM3Det: A Unified Model for Multi-Modal Remote Sensing Object Detection**, Yuxuan Li et.al., Paper: [http://arxiv.org/abs/2412.20665v1](http://arxiv.org/abs/2412.20665v1), Code: **[https://github.com/zcablii/sm3det](https://github.com/zcablii/sm3det)**
-- 2024-12-30, **YOLO-UniOW: Efficient Universal Open-World Object Detection**, Lihao Liu et.al., Paper: [http://arxiv.org/abs/2412.20645v1](http://arxiv.org/abs/2412.20645v1)
+- 2024-12-30, **YOLO-UniOW: Efficient Universal Open-World Object Detection**, Lihao Liu et.al., Paper: [http://arxiv.org/abs/2412.20645v1](http://arxiv.org/abs/2412.20645v1), Code: **[https://github.com/thu-mig/yolo-uniow](https://github.com/thu-mig/yolo-uniow)**
 - 2024-12-29, **A Novel FPGA-based CNN Hardware Accelerator: Optimization for Convolutional Layers using Karatsuba Ofman Multiplier**, Amit Sarkar et.al., Paper: [http://arxiv.org/abs/2412.20393v1](http://arxiv.org/abs/2412.20393v1)
 - 2024-12-29, **Differential Evolution Integrated Hybrid Deep Learning Model for Object Detection in Pre-made Dishes**, Lujia Lv et.al., Paper: [http://arxiv.org/abs/2412.20370v1](http://arxiv.org/abs/2412.20370v1)
 - 2024-12-28, **Plastic Waste Classification Using Deep Learning: Insights from the WaDaBa Dataset**, Suman Kunwar et.al., Paper: [http://arxiv.org/abs/2412.20232v1](http://arxiv.org/abs/2412.20232v1)
@@ -11675,7 +11675,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20250103>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250104>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
