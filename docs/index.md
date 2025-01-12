@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.11
+## Updated on 2025.01.12
 
 <details>
   <summary>Table of Contents</summary>
@@ -4246,7 +4246,7 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250111>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250112>back to top</a>)</p>
 
 ## downstream
 
@@ -8143,13 +8143,13 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20250111>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250112>back to top</a>)</p>
 
 ## adaptor
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-08**|**Enhancing Low-Cost Video Editing with Lightweight Adaptors and Temporal-Aware Inversion**|Yangfan He et.al.|[2501.04606v1](http://arxiv.org/abs/2501.04606v1)|null|
+|**2025-01-08**|**Enhancing Low-Cost Video Editing with Lightweight Adaptors and Temporal-Aware Inversion**|Yangfan He et.al.|[2501.04606v1](http://arxiv.org/abs/2501.04606v1)|**[link](https://github.com/codepassionor/tokenflow_adapter)**|
 |**2025-01-06**|**Deep Generative Model-Aided Power System Dynamic State Estimation and Reconstruction with Unknown Control Inputs or Data Distributions**|Jianhua Pei et.al.|[2501.02928v1](http://arxiv.org/abs/2501.02928v1)|null|
 |**2024-12-20**|**EGSRAL: An Enhanced 3D Gaussian Splatting based Renderer with Automated Labeling for Large-Scale Driving Scene**|Yixiong Huo et.al.|[2412.15550v1](http://arxiv.org/abs/2412.15550v1)|**[link](https://github.com/jiangxb98/egsral)**|
 |**2024-12-25**|**A Light-Weight Framework for Open-Set Object Detection with Decoupled Feature Alignment in Joint Space**|Yonghao He et.al.|[2412.14680v2](http://arxiv.org/abs/2412.14680v2)|**[link](https://github.com/d-robotics-ai-lab/dosod)**|
@@ -8304,7 +8304,7 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250111>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250112>back to top</a>)</p>
 
 ## object detection
 
@@ -11809,7 +11809,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20250111>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250112>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
