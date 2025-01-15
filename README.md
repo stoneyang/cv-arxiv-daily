@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.14
+## Updated on 2025.01.15
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-13**|**Estimating Musical Surprisal in Audio**|Mathias Rose Bjare et.al.|[2501.07474v1](http://arxiv.org/abs/2501.07474v1)|null|
+|**2025-01-13**|**GestLLM: Advanced Hand Gesture Interpretation via Large Language Models for Human-Robot Interaction**|Oleg Kobzarev et.al.|[2501.07295v1](http://arxiv.org/abs/2501.07295v1)|null|
+|**2025-01-13**|**Exploring the Use of Contrastive Language-Image Pre-Training for Human Posture Classification: Insights from Yoga Pose Analysis**|Andrzej D. Dobrzycki et.al.|[2501.07221v1](http://arxiv.org/abs/2501.07221v1)|null|
+|**2025-01-13**|**Natural Language-Assisted Multi-modal Medication Recommendation**|Jie Tan et.al.|[2501.07166v1](http://arxiv.org/abs/2501.07166v1)|**[link](https://github.com/jtan1102/nla-mmr_cikm_2024)**|
+|**2025-01-13**|**Protego: Detecting Adversarial Examples for Vision Transformers via Intrinsic Capabilities**|Jialin Wu et.al.|[2501.07044v1](http://arxiv.org/abs/2501.07044v1)|null|
+|**2025-01-12**|**Synthetic Prior for Few-Shot Drivable Head Avatar Inversion**|Wojciech Zielonka et.al.|[2501.06903v1](http://arxiv.org/abs/2501.06903v1)|null|
+|**2025-01-12**|**MedGrad E-CLIP: Enhancing Trust and Transparency in AI-Driven Skin Lesion Diagnosis**|Sadia Kamal et.al.|[2501.06887v1](http://arxiv.org/abs/2501.06887v1)|null|
+|**2025-01-12**|**A Foundational Generative Model for Breast Ultrasound Image Analysis**|Haojun Yu et.al.|[2501.06869v1](http://arxiv.org/abs/2501.06869v1)|null|
+|**2025-01-12**|**Evaluating Sample Utility for Data Selection by Mimicking Model Weights**|Tzu-Heng Huang et.al.|[2501.06708v1](http://arxiv.org/abs/2501.06708v1)|null|
+|**2025-01-11**|**MapGS: Generalizable Pretraining and Data Augmentation for Online Mapping via Novel View Synthesis**|Hengyuan Zhang et.al.|[2501.06660v1](http://arxiv.org/abs/2501.06660v1)|null|
 |**2025-01-10**|**Comparing Self-Supervised Learning Models Pre-Trained on Human Speech and Animal Vocalizations for Bioacoustics Processing**|Eklavya Sarkar et.al.|[2501.05987v1](http://arxiv.org/abs/2501.05987v1)|null|
 |**2025-01-10**|**Scalable Vision Language Model Training via High Quality Data Curation**|Hongyuan Dong et.al.|[2501.05952v1](http://arxiv.org/abs/2501.05952v1)|null|
 |**2025-01-10**|**Reusable specimen-level inference in computational pathology**|Jakub R. Kaczmarzyk et.al.|[2501.05945v1](http://arxiv.org/abs/2501.05945v1)|null|
@@ -4249,12 +4259,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250114>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250115>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-13**|**Diff-Ensembler: Learning to Ensemble 2D Diffusion Models for Volume-to-Volume Medical Image Translation**|Xiyue Zhu et.al.|[2501.07430v1](http://arxiv.org/abs/2501.07430v1)|null|
+|**2025-01-13**|**Foundation Models at Work: Fine-Tuning for Fairness in Algorithmic Hiring**|Buse Sibel Korkmaz et.al.|[2501.07324v1](http://arxiv.org/abs/2501.07324v1)|**[link](https://github.com/buseskorkmaz/fms-at-work)**|
+|**2025-01-13**|**Code and Pixels: Multi-Modal Contrastive Pre-training for Enhanced Tabular Data Analysis**|Kankana Roy et.al.|[2501.07304v1](http://arxiv.org/abs/2501.07304v1)|null|
+|**2025-01-13**|**Skip Mamba Diffusion for Monocular 3D Semantic Scene Completion**|Li Liang et.al.|[2501.07260v1](http://arxiv.org/abs/2501.07260v1)|**[link](https://github.com/xrkong/skimba)**|
+|**2025-01-13**|**ADKGD: Anomaly Detection in Knowledge Graphs with Dual-Channel Training**|Jiayang Wu et.al.|[2501.07078v1](http://arxiv.org/abs/2501.07078v1)|**[link](https://github.com/csjywu1/adkgd)**|
+|**2025-01-12**|**Language Fusion for Parameter-Efficient Cross-lingual Transfer**|Philipp Borchert et.al.|[2501.06892v1](http://arxiv.org/abs/2501.06892v1)|null|
+|**2025-01-12**|**A Foundational Generative Model for Breast Ultrasound Image Analysis**|Haojun Yu et.al.|[2501.06869v1](http://arxiv.org/abs/2501.06869v1)|null|
+|**2025-01-12**|**UR2P-Dehaze: Learning a Simple Image Dehaze Enhancer via Unpaired Rich Physical Prior**|Minglong Xue et.al.|[2501.06818v1](http://arxiv.org/abs/2501.06818v1)|**[link](https://github.com/fan-pixel/ur2p-dehaze)**|
+|**2025-01-11**|**Discrete Speech Unit Extraction via Independent Component Analysis**|Tomohiko Nakamura et.al.|[2501.06562v1](http://arxiv.org/abs/2501.06562v1)|**[link](https://github.com/tomohikonakamura/ica_dsu_espnet)**|
+|**2025-01-10**|**Towards a Probabilistic Framework for Analyzing and Improving LLM-Enabled Software**|Juan Manuel Baldonado et.al.|[2501.06370v1](http://arxiv.org/abs/2501.06370v1)|null|
 |**2025-01-10**|**Linguistic Entity Masking to Improve Cross-Lingual Representation of Multilingual Language Models for Low-Resource Languages**|Aloka Fernando et.al.|[2501.05700v1](http://arxiv.org/abs/2501.05700v1)|null|
 |**2025-01-10**|**Enhancing Unsupervised Graph Few-shot Learning via Set Functions and Optimal Transport**|Yonghao Liu et.al.|[2501.05635v1](http://arxiv.org/abs/2501.05635v1)|**[link](https://github.com/keaml-jlu/star)**|
 |**2025-01-09**|**Shrink the longest: improving latent space isotropy with symplicial geometry**|Sergei Kudriashov et.al.|[2501.05502v1](http://arxiv.org/abs/2501.05502v1)|null|
@@ -8149,7 +8169,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20250114>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250115>back to top</a>)</p>
 
 ## adaptor
 
@@ -8310,12 +8330,21 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250114>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250115>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-13**|**SST-EM: Advanced Metrics for Evaluating Semantic, Spatial and Temporal Aspects in Video Editing**|Varun Biyyala et.al.|[2501.07554v1](http://arxiv.org/abs/2501.07554v1)|**[link](https://github.com/custommetrics-sst/sst_customevaluationmetrics)**|
+|**2025-01-13**|**ML Mule: Mobile-Driven Context-Aware Collaborative Learning**|Haoxiang Yu et.al.|[2501.07536v1](http://arxiv.org/abs/2501.07536v1)|null|
+|**2025-01-13**|**Zero-Shot Scene Understanding for Automatic Target Recognition Using Large Vision-Language Models**|Yasiru Ranasinghe et.al.|[2501.07396v1](http://arxiv.org/abs/2501.07396v1)|null|
+|**2025-01-13**|**TimberVision: A Multi-Task Dataset and Framework for Log-Component Segmentation and Tracking in Autonomous Forestry Operations**|Daniel Steininger et.al.|[2501.07360v1](http://arxiv.org/abs/2501.07360v1)|null|
+|**2025-01-13**|**Toward Realistic Camouflaged Object Detection: Benchmarks and Method**|Zhimeng Xin et.al.|[2501.07297v1](http://arxiv.org/abs/2501.07297v1)|**[link](https://github.com/zhimengxin/rcod)**|
+|**2025-01-13**|**Dual Scale-aware Adaptive Masked Knowledge Distillation for Object Detection**|ZhouRui Zhang et.al.|[2501.07101v1](http://arxiv.org/abs/2501.07101v1)|null|
+|**2025-01-11**|**CoreNet: Conflict Resolution Network for Point-Pixel Misalignment and Sub-Task Suppression of 3D LiDAR-Camera Object Detection**|Yiheng Li et.al.|[2501.06550v1](http://arxiv.org/abs/2501.06550v1)|**[link](https://github.com/liyih/corenet)**|
+|**2025-01-11**|**CPDR: Towards Highly-Efficient Salient Object Detection via Crossed Post-decoder Refinement**|Yijie Li et.al.|[2501.06441v1](http://arxiv.org/abs/2501.06441v1)|null|
+|**2025-01-11**|**FocusDD: Real-World Scene Infusion for Robust Dataset Distillation**|Youbing Hu et.al.|[2501.06405v1](http://arxiv.org/abs/2501.06405v1)|null|
 |**2025-01-10**|**A Holistically Point-guided Text Framework for Weakly-Supervised Camouflaged Object Detection**|Tsui Qin Mok et.al.|[2501.06038v1](http://arxiv.org/abs/2501.06038v1)|null|
 |**2025-01-10**|**Minimizing Occlusion Effect on Multi-View Camera Perception in BEV with Multi-Sensor Fusion**|Sanjay Kumar et.al.|[2501.05997v1](http://arxiv.org/abs/2501.05997v1)|null|
 |**2025-01-10**|**EDNet: Edge-Optimized Small Target Detection in UAV Imagery -- Faster Context Attention, Better Feature Fusion, and Hardware Acceleration**|Zhifan Song et.al.|[2501.05885v1](http://arxiv.org/abs/2501.05885v1)|null|
@@ -11823,7 +11852,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20250114>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250115>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
