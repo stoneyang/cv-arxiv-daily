@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.20
+## Updated on 2025.01.21
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-17**|**Hierarchical Autoregressive Transformers: Combining Byte-~and Word-Level Processing for Robust, Adaptable Language Models**|Pit Neitemeier et.al.|[2501.10322v1](http://arxiv.org/abs/2501.10322v1)|null|
+|**2025-01-17**|**Leveraging Confident Image Regions for Source-Free Domain-Adaptive Object Detection**|Mohamed Lamine Mekhalfi et.al.|[2501.10081v1](http://arxiv.org/abs/2501.10081v1)|null|
+|**2025-01-17**|**FLORA: Formal Language Model Enables Robust Training-free Zero-shot Object Referring Analysis**|Zhe Chen et.al.|[2501.09887v1](http://arxiv.org/abs/2501.09887v1)|null|
+|**2025-01-16**|**CLAP-S: Support Set Based Adaptation for Downstream Fiber-optic Acoustic Recognition**|Jingchen Sun et.al.|[2501.09877v1](http://arxiv.org/abs/2501.09877v1)|**[link](https://github.com/jingchensun/clap-s)**|
+|**2025-01-16**|**Bridging Language Barriers in Healthcare: A Study on Arabic LLMs**|Nada Saadi et.al.|[2501.09825v1](http://arxiv.org/abs/2501.09825v1)|null|
+|**2025-01-16**|**Lossy Compression with Pretrained Diffusion Models**|Jeremy Vonderfecht et.al.|[2501.09815v1](http://arxiv.org/abs/2501.09815v1)|**[link](https://github.com/jeremyiv/diffc)**|
 |**2025-01-16**|**Domain Adaptation of Foundation LLMs for e-Commerce**|Christian Herold et.al.|[2501.09706v1](http://arxiv.org/abs/2501.09706v1)|null|
 |**2025-01-16**|**Reducing the Sensitivity of Neural Physics Simulators to Mesh Topology via Pretraining**|Nathan Vaska et.al.|[2501.09597v1](http://arxiv.org/abs/2501.09597v1)|null|
 |**2025-01-16**|**Scaling up self-supervised learning for improved surgical foundation models**|Tim J. M. Jaspers et.al.|[2501.09436v1](http://arxiv.org/abs/2501.09436v1)|**[link](https://github.com/timjaspers0801/surgenet)**|
@@ -4281,17 +4287,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250120>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250121>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-16**|**LLM-Based Routing in Mixture of Experts: A Novel Framework for Trading**|Kuan-Ming Liu et.al.|[2501.09636v1](http://arxiv.org/abs/2501.09636v1)|null|
+|**2025-01-17**|**Hierarchical Autoregressive Transformers: Combining Byte-~and Word-Level Processing for Robust, Adaptable Language Models**|Pit Neitemeier et.al.|[2501.10322v1](http://arxiv.org/abs/2501.10322v1)|null|
+|**2025-01-17**|**Topology-Driven Attribute Recovery for Attribute Missing Graph Learning in Social Internet of Things**|Mengran Li et.al.|[2501.10151v1](http://arxiv.org/abs/2501.10151v1)|**[link](https://github.com/limengran98/tdar)**|
+|**2025-01-17**|**MultiPruner: Balanced Structure Removal in Foundation Models**|J. Pablo Muñoz et.al.|[2501.09949v1](http://arxiv.org/abs/2501.09949v1)|**[link](https://github.com/intellabs/hardware-aware-automated-machine-learning)**|
+|**2025-01-16**|**CLAP-S: Support Set Based Adaptation for Downstream Fiber-optic Acoustic Recognition**|Jingchen Sun et.al.|[2501.09877v1](http://arxiv.org/abs/2501.09877v1)|**[link](https://github.com/jingchensun/clap-s)**|
+|**2025-01-16**|**BN-Pool: a Bayesian Nonparametric Approach to Graph Pooling**|Daniele Castellana et.al.|[2501.09821v1](http://arxiv.org/abs/2501.09821v1)|null|
+|**2025-01-17**|**LLM-Based Routing in Mixture of Experts: A Novel Framework for Trading**|Kuan-Ming Liu et.al.|[2501.09636v2](http://arxiv.org/abs/2501.09636v2)|null|
 |**2025-01-16**|**Text-driven Adaptation of Foundation Models for Few-shot Surgical Workflow Analysis**|Tingxuan Chen et.al.|[2501.09555v1](http://arxiv.org/abs/2501.09555v1)|null|
 |**2025-01-16**|**The Devil is in the Details: Simple Remedies for Image-to-LiDAR Representation Learning**|Wonjun Jo et.al.|[2501.09485v1](http://arxiv.org/abs/2501.09485v1)|null|
 |**2025-01-16**|**FASP: Fast and Accurate Structured Pruning of Large Language Models**|Hanyu Hu et.al.|[2501.09412v1](http://arxiv.org/abs/2501.09412v1)|null|
-|**2025-01-16**|**On Learning Informative Trajectory Embeddings for Imitation, Classification and Regression**|Zichang Ge et.al.|[2501.09327v1](http://arxiv.org/abs/2501.09327v1)|**[link](https://github.com/erasmo1015/vte)**|
+|**2025-01-17**|**On Learning Informative Trajectory Embeddings for Imitation, Classification and Regression**|Zichang Ge et.al.|[2501.09327v2](http://arxiv.org/abs/2501.09327v2)|**[link](https://github.com/erasmo1015/vte)**|
 |**2025-01-16**|**Split Fine-Tuning for Large Language Models in Wireless Networks**|Songge Zhang et.al.|[2501.09237v1](http://arxiv.org/abs/2501.09237v1)|null|
 |**2025-01-15**|**Generative Medical Image Anonymization Based on Latent Code Projection and Optimization**|Huiyu Li et.al.|[2501.09114v1](http://arxiv.org/abs/2501.09114v1)|**[link](https://github.com/huiyu-li/gmia)**|
 |**2025-01-15**|**IDEA: Image Description Enhanced CLIP-Adapter**|Zhipeng Ye et.al.|[2501.08816v1](http://arxiv.org/abs/2501.08816v1)|null|
@@ -8209,7 +8220,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20250120>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250121>back to top</a>)</p>
 
 ## adaptor
 
@@ -8371,12 +8382,17 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250120>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250121>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-17**|**MutualForce: Mutual-Aware Enhancement for 4D Radar-LiDAR 3D Object Detection**|Xiangyuan Peng et.al.|[2501.10266v1](http://arxiv.org/abs/2501.10266v1)|null|
+|**2025-01-17**|**Leveraging Confident Image Regions for Source-Free Domain-Adaptive Object Detection**|Mohamed Lamine Mekhalfi et.al.|[2501.10081v1](http://arxiv.org/abs/2501.10081v1)|null|
+|**2025-01-17**|**One-D-Piece: Image Tokenizer Meets Quality-Controllable Compression**|Keita Miwa et.al.|[2501.10064v1](http://arxiv.org/abs/2501.10064v1)|null|
+|**2025-01-17**|**LWGANet: A Lightweight Group Attention Backbone for Remote Sensing Visual Tasks**|Wei Lu et.al.|[2501.10040v1](http://arxiv.org/abs/2501.10040v1)|**[link](https://github.com/lwcver/lwganet)**|
+|**2025-01-17**|**FLORA: Formal Language Model Enables Robust Training-free Zero-shot Object Referring Analysis**|Zhe Chen et.al.|[2501.09887v1](http://arxiv.org/abs/2501.09887v1)|null|
 |**2025-01-16**|**A Simple Aerial Detection Baseline of Multimodal Language Models**|Qingyun Li et.al.|[2501.09720v1](http://arxiv.org/abs/2501.09720v1)|**[link](https://github.com/li-qingyun/mllm-mmrotate)**|
 |**2025-01-16**|**Practical Continual Forgetting for Pre-trained Vision Models**|Hongbo Zhao et.al.|[2501.09705v1](http://arxiv.org/abs/2501.09705v1)|**[link](https://github.com/bjzhb666/GS-LoRA)**|
 |**2025-01-16**|**Multi-task deep-learning for sleep event detection and stage classification**|Adriana Anido-Alonso et.al.|[2501.09519v1](http://arxiv.org/abs/2501.09519v1)|**[link](https://github.com/adrania/sleep-events-detection)**|
@@ -11910,7 +11926,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20250120>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250121>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
