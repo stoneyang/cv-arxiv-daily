@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2025.01.27
+> Updated on 2025.01.28
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,13 +17,16 @@
 
 ## pretrain
 
+- 2025-01-24, **ReferDINO: Referring Video Object Segmentation with Visual Grounding Foundations**, Tianming Liang et.al., Paper: [http://arxiv.org/abs/2501.14607v1](http://arxiv.org/abs/2501.14607v1)
+- 2025-01-24, **Detection and Classification of Acute Lymphoblastic Leukemia Utilizing Deep Transfer Learning**, Md. Abu Ahnaf Mollick et.al., Paper: [http://arxiv.org/abs/2501.14228v1](http://arxiv.org/abs/2501.14228v1)
+- 2025-01-23, **AdEval: Alignment-based Dynamic Evaluation to Mitigate Data Contamination in Large Language Models**, Yang Fan et.al., Paper: [http://arxiv.org/abs/2501.13983v1](http://arxiv.org/abs/2501.13983v1)
 - 2025-01-23, **CRPO: Confidence-Reward Driven Preference Optimization for Machine Translation**, Guofeng Cui et.al., Paper: [http://arxiv.org/abs/2501.13927v1](http://arxiv.org/abs/2501.13927v1)
 - 2025-01-23, **The Breeze 2 Herd of Models: Traditional Chinese LLMs Based on Llama with Vision-Aware and Function-Calling Capabilities**, Chan-Jan Hsu et.al., Paper: [http://arxiv.org/abs/2501.13921v1](http://arxiv.org/abs/2501.13921v1)
 - 2025-01-23, **Utilizing Evolution Strategies to Train Transformers in Reinforcement Learning**, Matyáš Lorenc et.al., Paper: [http://arxiv.org/abs/2501.13883v1](http://arxiv.org/abs/2501.13883v1), Code: **[https://github.com/mafi412/evolution-strategies-and-decision-transformers](https://github.com/mafi412/evolution-strategies-and-decision-transformers)**
-- 2025-01-23, **GenTL: A General Transfer Learning Model for Building Thermal Dynamics**, Fabian Raisch et.al., Paper: [http://arxiv.org/abs/2501.13703v1](http://arxiv.org/abs/2501.13703v1)
+- 2025-01-23, **GenTL: A General Transfer Learning Model for Building Thermal Dynamics**, Fabian Raisch et.al., Paper: [http://arxiv.org/abs/2501.13703v1](http://arxiv.org/abs/2501.13703v1), Code: **[https://github.com/fabianraisch/GenTL](https://github.com/fabianraisch/GenTL)**
 - 2025-01-23, **How to Complete Domain Tuning while Keeping General Ability in LLM: Adaptive Layer-wise and Element-wise Regularization**, Shezheng Song et.al., Paper: [http://arxiv.org/abs/2501.13669v1](http://arxiv.org/abs/2501.13669v1)
 - 2025-01-23, **Text-driven Online Action Detection**, Manuel Benavent-Lledo et.al., Paper: [http://arxiv.org/abs/2501.13518v1](http://arxiv.org/abs/2501.13518v1), Code: **[https://github.com/3dperceptionlab/toad](https://github.com/3dperceptionlab/toad)**
-- 2025-01-23, **Can Large Language Models Understand Preferences in Personalized Recommendation?**, Zhaoxuan Tan et.al., Paper: [http://arxiv.org/abs/2501.13391v1](http://arxiv.org/abs/2501.13391v1)
+- 2025-01-23, **Can Large Language Models Understand Preferences in Personalized Recommendation?**, Zhaoxuan Tan et.al., Paper: [http://arxiv.org/abs/2501.13391v1](http://arxiv.org/abs/2501.13391v1), Code: **[https://github.com/tamsiuhin/perrecbench](https://github.com/tamsiuhin/perrecbench)**
 - 2025-01-22, **MEDFORM: A Foundation Model for Contrastive Learning of CT Imaging and Clinical Numeric Data in Multi-Cancer Analysis**, Daeun Jung et.al., Paper: [http://arxiv.org/abs/2501.13277v1](http://arxiv.org/abs/2501.13277v1), Code: **[https://github.com/digitalhealthcarelab/25multimodalfoundationmodel](https://github.com/digitalhealthcarelab/25multimodalfoundationmodel)**
 - 2025-01-23, **VideoLLaMA 3: Frontier Multimodal Foundation Models for Image and Video Understanding**, Boqiang Zhang et.al., Paper: [http://arxiv.org/abs/2501.13106v2](http://arxiv.org/abs/2501.13106v2), Code: **[https://github.com/damo-nlp-sg/videollama3](https://github.com/damo-nlp-sg/videollama3)**
 - 2025-01-23, **AdaWM: Adaptive World Model based Planning for Autonomous Driving**, Hang Wang et.al., Paper: [http://arxiv.org/abs/2501.13072v2](http://arxiv.org/abs/2501.13072v2)
@@ -4312,10 +4315,15 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20250127>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250128>back to top</a>)</p>
 
 ## downstream
 
+- 2025-01-24, **Rethinking Foundation Models for Medical Image Classification through a Benchmark Study on MedMNIST**, Fuping Wu et.al., Paper: [http://arxiv.org/abs/2501.14685v1](http://arxiv.org/abs/2501.14685v1)
+- 2025-01-24, **Adaptive Rank Allocation for Federated Parameter-Efficient Fine-Tuning of Language Models**, Fei Wu et.al., Paper: [http://arxiv.org/abs/2501.14406v1](http://arxiv.org/abs/2501.14406v1)
+- 2025-01-24, **TrajFlow: A Generative Framework for Occupancy Density Estimation Using Normalizing Flows**, Mitch Kosieradzki et.al., Paper: [http://arxiv.org/abs/2501.14266v1](http://arxiv.org/abs/2501.14266v1), Code: **[https://github.com/kosieram21/trajflow](https://github.com/kosieram21/trajflow)**
+- 2025-01-24, **HAMMER: Heterogeneous, Multi-Robot Semantic Gaussian Splatting**, Javier Yu et.al., Paper: [http://arxiv.org/abs/2501.14147v1](http://arxiv.org/abs/2501.14147v1)
+- 2025-01-23, **Leveraging Multiphase CT for Quality Enhancement of Portal Venous CT: Utility for Pancreas Segmentation**, Xinya Wang et.al., Paper: [http://arxiv.org/abs/2501.14013v1](http://arxiv.org/abs/2501.14013v1)
 - 2025-01-23, **Towards Robust Multimodal Open-set Test-time Adaptation via Adaptive Entropy-aware Optimization**, Hao Dong et.al., Paper: [http://arxiv.org/abs/2501.13924v1](http://arxiv.org/abs/2501.13924v1), Code: **[https://github.com/donghao51/aeo](https://github.com/donghao51/aeo)**
 - 2025-01-23, **Parameter-Efficient Fine-Tuning for Foundation Models**, Dan Zhang et.al., Paper: [http://arxiv.org/abs/2501.13787v1](http://arxiv.org/abs/2501.13787v1), Code: **[https://github.com/thudm/awesome-parameter-efficient-fine-tuning-for-foundation-models](https://github.com/thudm/awesome-parameter-efficient-fine-tuning-for-foundation-models)**
 - 2025-01-23, **Fast Iterative and Task-Specific Imputation with Online Learning**, Rahul Bordoloi et.al., Paper: [http://arxiv.org/abs/2501.13786v1](http://arxiv.org/abs/2501.13786v1)
@@ -8269,7 +8277,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20250127>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250128>back to top</a>)</p>
 
 ## adaptor
 
@@ -8429,16 +8437,19 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20250127>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250128>back to top</a>)</p>
 
 ## object detection
 
+- 2025-01-24, **TD-RD: A Top-Down Benchmark with Real-Time Framework for Road Damage Detection**, Xi Xiao et.al., Paper: [http://arxiv.org/abs/2501.14302v1](http://arxiv.org/abs/2501.14302v1)
+- 2025-01-23, **Efficient Precision Control in Object Detection Models for Enhanced and Reliable Ovarian Follicle Counting**, Vincent Blot et.al., Paper: [http://arxiv.org/abs/2501.14036v1](http://arxiv.org/abs/2501.14036v1)
+- 2025-01-23, **Enhanced PEC-YOLO for Detecting Improper Safety Gear Wearing Among Power Line Workers**, Chen Zuguo et.al., Paper: [http://arxiv.org/abs/2501.13981v1](http://arxiv.org/abs/2501.13981v1)
 - 2025-01-23, **PointOBB-v3: Expanding Performance Boundaries of Single Point-Supervised Oriented Object Detection**, Peiyuan Zhang et.al., Paper: [http://arxiv.org/abs/2501.13898v1](http://arxiv.org/abs/2501.13898v1), Code: **[https://github.com/zpywhu/pointobb-v3](https://github.com/zpywhu/pointobb-v3)**
 - 2025-01-23, **First Lessons Learned of an Artificial Intelligence Robotic System for Autonomous Coarse Waste Recycling Using Multispectral Imaging-Based Methods**, Timo Lange et.al., Paper: [http://arxiv.org/abs/2501.13855v1](http://arxiv.org/abs/2501.13855v1)
 - 2025-01-23, **Integrating Causality with Neurochaos Learning: Proposed Approach and Research Agenda**, Nanjangud C. Narendra et.al., Paper: [http://arxiv.org/abs/2501.13763v1](http://arxiv.org/abs/2501.13763v1)
 - 2025-01-23, **You Only Crash Once v2: Perceptually Consistent Strong Features for One-Stage Domain Adaptive Detection of Space Terrain**, Timothy Chase Jr et.al., Paper: [http://arxiv.org/abs/2501.13725v1](http://arxiv.org/abs/2501.13725v1)
 - 2025-01-23, **YOLO11-JDE: Fast and Accurate Multi-Object Tracking with Self-Supervised Re-ID**, Iñaki Erregue et.al., Paper: [http://arxiv.org/abs/2501.13710v1](http://arxiv.org/abs/2501.13710v1), Code: **[https://github.com/inakierregueab/yolo11-jde](https://github.com/inakierregueab/yolo11-jde)**
-- 2025-01-23, **Multi-aspect Knowledge Distillation with Large Language Model**, Taegyeong Lee et.al., Paper: [http://arxiv.org/abs/2501.13341v1](http://arxiv.org/abs/2501.13341v1)
+- 2025-01-24, **Multi-aspect Knowledge Distillation with Large Language Model**, Taegyeong Lee et.al., Paper: [http://arxiv.org/abs/2501.13341v2](http://arxiv.org/abs/2501.13341v2)
 - 2025-01-22, **MONA: Moving Object Detection from Videos Shot by Dynamic Camera**, Boxun Hu et.al., Paper: [http://arxiv.org/abs/2501.13183v1](http://arxiv.org/abs/2501.13183v1)
 - 2025-01-21, **Large-image Object Detection for Fine-grained Recognition of Punches Patterns in Medieval Panel Painting**, Josh Bruegger et.al., Paper: [http://arxiv.org/abs/2501.12489v1](http://arxiv.org/abs/2501.12489v1), Code: **[https://github.com/marcozullich/punches-object-detection](https://github.com/marcozullich/punches-object-detection)**
 - 2025-01-21, **TOFFE -- Temporally-binned Object Flow from Events for High-speed and Energy-Efficient Object Detection and Tracking**, Adarsh Kumar Kosta et.al., Paper: [http://arxiv.org/abs/2501.12482v1](http://arxiv.org/abs/2501.12482v1)
@@ -11990,7 +12001,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20250127>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250128>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
