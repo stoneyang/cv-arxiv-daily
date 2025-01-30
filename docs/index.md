@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.29
+## Updated on 2025.01.30
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,11 +23,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-28**|**Separate Motion from Appearance: Customizing Motion via Customizing Text-to-Video Diffusion Models**|Huijie Liu et.al.|[2501.16714v1](http://arxiv.org/abs/2501.16714v1)|null|
+|**2025-01-28**|**DFCon: Attention-Driven Supervised Contrastive Learning for Robust Deepfake Detection**|MD Sadik Hossain Shanto et.al.|[2501.16704v1](http://arxiv.org/abs/2501.16704v1)|null|
+|**2025-01-28**|**Fine-Tuned Language Models as Space Systems Controllers**|Enrico M. Zucchelli et.al.|[2501.16588v1](http://arxiv.org/abs/2501.16588v1)|null|
+|**2025-01-27**|**DialUp! Modeling the Language Continuum by Adapting Models to Dialects and Dialects to Models**|Niyati Bafna et.al.|[2501.16581v1](http://arxiv.org/abs/2501.16581v1)|null|
+|**2025-01-27**|**Efficient Object Detection of Marine Debris using Pruned YOLO Model**|Abi Aryaza et.al.|[2501.16571v1](http://arxiv.org/abs/2501.16571v1)|null|
 |**2025-01-27**|**Mixture-of-Mamba: Enhancing Multi-Modal State-Space Models with Modality-Aware Sparsity**|Weixin Liang et.al.|[2501.16295v1](http://arxiv.org/abs/2501.16295v1)|**[link](https://github.com/weixin-liang/mixture-of-mamba)**|
-|**2025-01-27**|**Do LLMs Have Visualization Literacy? An Evaluation on Modified Visualizations to Test Generalization in Data Interpretation**|Jiayi Hong et.al.|[2501.16277v1](http://arxiv.org/abs/2501.16277v1)|null|
+|**2025-01-27**|**Do LLMs Have Visualization Literacy? An Evaluation on Modified Visualizations to Test Generalization in Data Interpretation**|Jiayi Hong et.al.|[2501.16277v1](http://arxiv.org/abs/2501.16277v1)|**[link](https://github.com/vaderasu/llm4viz-experiments)**|
 |**2025-01-27**|**AdaCoT: Rethinking Cross-Lingual Factual Reasoning through Adaptive Chain-of-Thought**|Xin Huang et.al.|[2501.16154v1](http://arxiv.org/abs/2501.16154v1)|null|
 |**2025-01-27**|**PISCO: Pretty Simple Compression for Retrieval-Augmented Generation**|Maxime Louis et.al.|[2501.16075v1](http://arxiv.org/abs/2501.16075v1)|null|
-|**2025-01-27**|**CILP-FGDI: Exploiting Vision-Language Model for Generalizable Person Re-Identification**|Huazhong Zhao et.al.|[2501.16065v1](http://arxiv.org/abs/2501.16065v1)|null|
+|**2025-01-27**|**CILP-FGDI: Exploiting Vision-Language Model for Generalizable Person Re-Identification**|Huazhong Zhao et.al.|[2501.16065v1](http://arxiv.org/abs/2501.16065v1)|**[link](https://github.com/Qi5Lei/CLIP-FGDI)**|
 |**2025-01-27**|**Slot-Guided Adaptation of Pre-trained Diffusion Models for Object-Centric Learning and Compositional Generation**|Adil Kaan Akan et.al.|[2501.15878v1](http://arxiv.org/abs/2501.15878v1)|null|
 |**2025-01-27**|**MM-Retinal V2: Transfer an Elite Knowledge Spark into Fundus Vision-Language Pretraining**|Ruiqi Wu et.al.|[2501.15798v1](http://arxiv.org/abs/2501.15798v1)|**[link](https://github.com/lxirich/mm-retinal)**|
 |**2025-01-27**|**Formal Verification of Markov Processes with Learned Parameters**|Muhammad Maaz et.al.|[2501.15767v1](http://arxiv.org/abs/2501.15767v1)|**[link](https://github.com/mmaaz-git/markovml)**|
@@ -4331,13 +4336,18 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250129>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250130>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-27**|**Distilling foundation models for robust and efficient models in digital pathology**|Alexandre Filiot et.al.|[2501.16239v1](http://arxiv.org/abs/2501.16239v1)|null|
+|**2025-01-28**|**DataLens: ML-Oriented Interactive Tabular Data Quality Dashboard**|Mohamed Abdelaal et.al.|[2501.17074v1](http://arxiv.org/abs/2501.17074v1)|null|
+|**2025-01-28**|**FedEFM: Federated Endovascular Foundation Model with Unseen Data**|Tuong Do et.al.|[2501.16992v1](http://arxiv.org/abs/2501.16992v1)|null|
+|**2025-01-28**|**Contextual Reinforcement in Multimodal Token Compression for Large Language Models**|Naderdel Piero et.al.|[2501.16658v1](http://arxiv.org/abs/2501.16658v1)|null|
+|**2025-01-28**|**Molecular-driven Foundation Model for Oncologic Pathology**|Anurag Vaidya et.al.|[2501.16652v1](http://arxiv.org/abs/2501.16652v1)|null|
+|**2025-01-27**|**UniPET-SPK: A Unified Framework for Parameter-Efficient Tuning of Pre-trained Speech Models for Robust Speaker Verification**|Mufan Sang et.al.|[2501.16542v1](http://arxiv.org/abs/2501.16542v1)|null|
+|**2025-01-28**|**Distilling foundation models for robust and efficient models in digital pathology**|Alexandre Filiot et.al.|[2501.16239v2](http://arxiv.org/abs/2501.16239v2)|null|
 |**2025-01-27**|**Solving Turbulent Rayleigh-Bénard Convection using Fourier Neural Operators**|Michiel Straat et.al.|[2501.16209v1](http://arxiv.org/abs/2501.16209v1)|null|
 |**2025-01-27**|**The Linear Attention Resurrection in Vision Transformer**|Chuanyang Zheng et.al.|[2501.16182v1](http://arxiv.org/abs/2501.16182v1)|null|
 |**2025-01-27**|**ScaDyG:A New Paradigm for Large-scale Dynamic Graph Learning**|Xiang Wu et.al.|[2501.16002v1](http://arxiv.org/abs/2501.16002v1)|null|
@@ -8305,7 +8315,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20250129>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250130>back to top</a>)</p>
 
 ## adaptor
 
@@ -8467,12 +8477,20 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250129>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250130>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-28**|**DINOSTAR: Deep Iterative Neural Object Detector Self-Supervised Training for Roadside LiDAR Applications**|Muhammad Shahbaz et.al.|[2501.17076v1](http://arxiv.org/abs/2501.17076v1)|null|
+|**2025-01-28**|**Contextual Self-paced Learning for Weakly Supervised Spatio-Temporal Video Grounding**|Akash Kumar et.al.|[2501.17053v1](http://arxiv.org/abs/2501.17053v1)|null|
+|**2025-01-28**|**Approach Towards Semi-Automated Certification for Low Criticality ML-Enabled Airborne Applications**|Chandrasekar Sridhar et.al.|[2501.17028v1](http://arxiv.org/abs/2501.17028v1)|null|
+|**2025-01-28**|**Modulating CNN Features with Pre-Trained ViT Representations for Open-Vocabulary Object Detection**|Xiangyu Gao et.al.|[2501.16981v1](http://arxiv.org/abs/2501.16981v1)|null|
+|**2025-01-28**|**SSF-PAN: Semantic Scene Flow-Based Perception for Autonomous Navigation in Traffic Scenarios**|Yinqi Chen et.al.|[2501.16754v1](http://arxiv.org/abs/2501.16754v1)|null|
+|**2025-01-28**|**DebugAgent: Efficient and Interpretable Error Slice Discovery for Comprehensive Model Debugging**|Muxi Chen et.al.|[2501.16751v1](http://arxiv.org/abs/2501.16751v1)|null|
+|**2025-01-27**|**Efficient Object Detection of Marine Debris using Pruned YOLO Model**|Abi Aryaza et.al.|[2501.16571v1](http://arxiv.org/abs/2501.16571v1)|null|
+|**2025-01-27**|**Object Detection for Medical Image Analysis: Insights from the RT-DETR Model**|Weijie He et.al.|[2501.16469v1](http://arxiv.org/abs/2501.16469v1)|null|
 |**2025-01-27**|**The Linear Attention Resurrection in Vision Transformer**|Chuanyang Zheng et.al.|[2501.16182v1](http://arxiv.org/abs/2501.16182v1)|null|
 |**2025-01-27**|**Real-Time Brain Tumor Detection in Intraoperative Ultrasound Using YOLO11: From Model Training to Deployment in the Operating Room**|Santiago Cepeda et.al.|[2501.15994v1](http://arxiv.org/abs/2501.15994v1)|null|
 |**2025-01-26**|**Breaking the SSL-AL Barrier: A Synergistic Semi-Supervised Active Learning Framework for 3D Object Detection**|Zengran Wang et.al.|[2501.15449v1](http://arxiv.org/abs/2501.15449v1)|null|
@@ -12042,7 +12060,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20250129>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250130>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
