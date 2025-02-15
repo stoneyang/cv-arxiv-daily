@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.14
+## Updated on 2025.02.15
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-13**|**Can this Model Also Recognize Dogs? Zero-Shot Model Search from Weights**|Jonathan Kahana et.al.|[2502.09619v1](http://arxiv.org/abs/2502.09619v1)|null|
+|**2025-02-13**|**Score-of-Mixture Training: Training One-Step Generative Models Made Simple**|Tejas Jayashankar et.al.|[2502.09609v1](http://arxiv.org/abs/2502.09609v1)|null|
+|**2025-02-13**|**DiffMS: Diffusion Generation of Molecules Conditioned on Mass Spectra**|Montgomery Bohde et.al.|[2502.09571v1](http://arxiv.org/abs/2502.09571v1)|null|
+|**2025-02-13**|**Foundation Neural-Network Quantum States**|Riccardo Rende et.al.|[2502.09488v1](http://arxiv.org/abs/2502.09488v1)|null|
+|**2025-02-13**|**On multi-token prediction for efficient LLM inference**|Somesh Mehra et.al.|[2502.09419v1](http://arxiv.org/abs/2502.09419v1)|null|
+|**2025-02-13**|**Galileo: Learning Global and Local Features in Pretrained Remote Sensing Models**|Gabriel Tseng et.al.|[2502.09356v1](http://arxiv.org/abs/2502.09356v1)|null|
+|**2025-02-13**|**Visual Graph Question Answering with ASP and LLMs for Language Parsing**|Jakob Johannes Bauer et.al.|[2502.09211v1](http://arxiv.org/abs/2502.09211v1)|null|
+|**2025-02-13**|**From Visuals to Vocabulary: Establishing Equivalence Between Image and Text Token Through Autoregressive Pre-training in MLLMs**|Mingxiao Li et.al.|[2502.09093v1](http://arxiv.org/abs/2502.09093v1)|null|
+|**2025-02-13**|**Semantic Ads Retrieval at Walmart eCommerce with Language Models Progressively Trained on Multiple Knowledge Domains**|Zhaodong Wang et.al.|[2502.09089v1](http://arxiv.org/abs/2502.09089v1)|null|
+|**2025-02-13**|**What exactly has TabPFN learned to do?**|Calvin McCarter et.al.|[2502.08978v1](http://arxiv.org/abs/2502.08978v1)|null|
 |**2025-02-12**|**SwiftSketch: A Diffusion Model for Image-to-Vector Sketch Generation**|Ellie Arar et.al.|[2502.08642v1](http://arxiv.org/abs/2502.08642v1)|null|
 |**2025-02-12**|**Distillation Scaling Laws**|Dan Busbridge et.al.|[2502.08606v1](http://arxiv.org/abs/2502.08606v1)|null|
 |**2025-02-12**|**LLM Pretraining with Continuous Concepts**|Jihoon Tack et.al.|[2502.08524v1](http://arxiv.org/abs/2502.08524v1)|null|
@@ -4410,13 +4420,21 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250214>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250215>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-12**|**Salamandra Technical Report**|Aitor Gonzalez-Agirre et.al.|[2502.08489v1](http://arxiv.org/abs/2502.08489v1)|null|
+|**2025-02-13**|**Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning**|Shay Snyder et.al.|[2502.09393v1](http://arxiv.org/abs/2502.09393v1)|null|
+|**2025-02-13**|**RoSTE: An Efficient Quantization-Aware Supervised Fine-Tuning Approach for Large Language Models**|Quan Wei et.al.|[2502.09003v1](http://arxiv.org/abs/2502.09003v1)|null|
+|**2025-02-13**|**Self-Supervised Graph Contrastive Pretraining for Device-level Integrated Circuits**|Sungyoung Lee et.al.|[2502.08949v1](http://arxiv.org/abs/2502.08949v1)|null|
+|**2025-02-13**|**CLEAR: Cluster-based Prompt Learning on Heterogeneous Graphs**|Feiyang Wang et.al.|[2502.08918v1](http://arxiv.org/abs/2502.08918v1)|null|
+|**2025-02-13**|**DiffoRA: Enabling Parameter-Efficient LLM Fine-Tuning via Differential Low-Rank Matrix Adaptation**|Tangyu Jiang et.al.|[2502.08905v1](http://arxiv.org/abs/2502.08905v1)|null|
+|**2025-02-13**|**MIH-TCCT: Mitigating Inconsistent Hallucinations in LLMs via Event-Driven Text-Code Cyclic Training**|Xinxin You et.al.|[2502.08904v1](http://arxiv.org/abs/2502.08904v1)|null|
+|**2025-02-12**|**$\mathsf{CSMAE~}$:~Cataract Surgical Masked Autoencoder (MAE) based Pre-training**|Nisarg A. Shah et.al.|[2502.08822v1](http://arxiv.org/abs/2502.08822v1)|null|
+|**2025-02-12**|**A First-order Generative Bilevel Optimization Framework for Diffusion Models**|Quan Xiao et.al.|[2502.08808v1](http://arxiv.org/abs/2502.08808v1)|null|
+|**2025-02-13**|**Salamandra Technical Report**|Aitor Gonzalez-Agirre et.al.|[2502.08489v2](http://arxiv.org/abs/2502.08489v2)|null|
 |**2025-02-12**|**Hi-End-MAE: Hierarchical encoder-driven masked autoencoders are stronger vision learners for medical image segmentation**|Fenghe Tang et.al.|[2502.08347v1](http://arxiv.org/abs/2502.08347v1)|null|
 |**2025-02-12**|**CoDynTrust: Robust Asynchronous Collaborative Perception via Dynamic Feature Trust Modulus**|Yunjiang Xu et.al.|[2502.08169v1](http://arxiv.org/abs/2502.08169v1)|null|
 |**2025-02-12**|**A Survey on Data Curation for Visual Contrastive Learning: Why Crafting Effective Positive and Negative Pairs Matters**|Shasvat Desai et.al.|[2502.08134v1](http://arxiv.org/abs/2502.08134v1)|null|
@@ -8477,7 +8495,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20250214>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250215>back to top</a>)</p>
 
 ## adaptor
 
@@ -8642,18 +8660,21 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250214>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250215>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-13**|**Instance Segmentation of Scene Sketches Using Natural Image Priors**|Mia Tang et.al.|[2502.09608v1](http://arxiv.org/abs/2502.09608v1)|null|
+|**2025-02-13**|**Wholly-WOOD: Wholly Leveraging Diversified-quality Labels for Weakly-supervised Oriented Object Detection**|Yi Yu et.al.|[2502.09471v1](http://arxiv.org/abs/2502.09471v1)|null|
+|**2025-02-13**|**Mitigating the Impact of Prominent Position Shift in Drone-based RGBT Object Detection**|Yan Zhang et.al.|[2502.09311v1](http://arxiv.org/abs/2502.09311v1)|null|
 |**2025-02-12**|**Uncertainty Aware Human-machine Collaboration in Camouflaged Object Detection**|Ziyue Yang et.al.|[2502.08373v1](http://arxiv.org/abs/2502.08373v1)|null|
 |**2025-02-12**|**Plantation Monitoring Using Drone Images: A Dataset and Performance Review**|Yashwanth Karumanchi et.al.|[2502.08233v1](http://arxiv.org/abs/2502.08233v1)|null|
 |**2025-02-12**|**Take What You Need: Flexible Multi-Task Semantic Communications with Channel Adaptation**|Xiang Chen et.al.|[2502.08221v1](http://arxiv.org/abs/2502.08221v1)|null|
-|**2025-02-12**|**SARChat-Bench-2M: A Multi-Task Vision-Language Benchmark for SAR Image Interpretation**|Zhiming Ma et.al.|[2502.08168v1](http://arxiv.org/abs/2502.08168v1)|null|
+|**2025-02-13**|**SARChat-Bench-2M: A Multi-Task Vision-Language Benchmark for SAR Image Interpretation**|Zhiming Ma et.al.|[2502.08168v2](http://arxiv.org/abs/2502.08168v2)|null|
 |**2025-02-12**|**Knowledge Swapping via Learning and Unlearning**|Mingyu Xing et.al.|[2502.08075v1](http://arxiv.org/abs/2502.08075v1)|null|
-|**2025-02-11**|**Visual-based spatial audio generation system for multi-speaker environments**|Xiaojing Liu et.al.|[2502.07538v1](http://arxiv.org/abs/2502.07538v1)|null|
+|**2025-02-13**|**Visual-based spatial audio generation system for multi-speaker environments**|Xiaojing Liu et.al.|[2502.07538v2](http://arxiv.org/abs/2502.07538v2)|null|
 |**2025-02-11**|**Quantitative Analysis of Objects in Prisoner Artworks**|Thea Christoffersen et.al.|[2502.07440v1](http://arxiv.org/abs/2502.07440v1)|null|
 |**2025-02-11**|**Fast-COS: A Fast One-Stage Object Detector Based on Reparameterized Attention Vision Transformer for Autonomous Driving**|Novendra Setyawan et.al.|[2502.07417v1](http://arxiv.org/abs/2502.07417v1)|null|
 |**2025-02-11**|**Multi-Task-oriented Nighttime Haze Imaging Enhancer for Vision-driven Measurement Systems**|Ai Chen et.al.|[2502.07351v1](http://arxiv.org/abs/2502.07351v1)|**[link](https://github.com/ai-chen-lab/mtoie)**|
@@ -12289,7 +12310,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20250214>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250215>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
