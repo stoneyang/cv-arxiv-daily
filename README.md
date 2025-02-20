@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.19
+## Updated on 2025.02.20
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-18**|**Magma: A Foundation Model for Multimodal AI Agents**|Jianwei Yang et.al.|[2502.13130v1](http://arxiv.org/abs/2502.13130v1)|null|
+|**2025-02-18**|**MatterChat: A Multi-Modal LLM for Material Science**|Yingheng Tang et.al.|[2502.13107v1](http://arxiv.org/abs/2502.13107v1)|null|
+|**2025-02-18**|**Fake It Till You Make It: Using Synthetic Data and Domain Knowledge for Improved Text-Based Learning for LGE Detection**|Athira J Jacob et.al.|[2502.12948v1](http://arxiv.org/abs/2502.12948v1)|null|
+|**2025-02-18**|**Universal Embedding Function for Traffic Classification via QUIC Domain Recognition Pretraining: A Transfer Learning Success**|Jan Luxemburk et.al.|[2502.12930v1](http://arxiv.org/abs/2502.12930v1)|null|
+|**2025-02-18**|**Keep what you need : extracting efficient subnetworks from large audio representation models**|David Genova et.al.|[2502.12925v1](http://arxiv.org/abs/2502.12925v1)|null|
+|**2025-02-18**|**Portable Reward Tuning: Towards Reusable Fine-Tuning across Different Pretrained Models**|Daiki Chijiwa et.al.|[2502.12776v1](http://arxiv.org/abs/2502.12776v1)|null|
+|**2025-02-18**|**Baichuan-M1: Pushing the Medical Capability of Large Language Models**|Bingning Wang et.al.|[2502.12671v1](http://arxiv.org/abs/2502.12671v1)|null|
+|**2025-02-18**|**NExT-Mol: 3D Diffusion Meets 1D Language Modeling for 3D Molecule Generation**|Zhiyuan Liu et.al.|[2502.12638v1](http://arxiv.org/abs/2502.12638v1)|null|
+|**2025-02-18**|**Scientific Machine Learning of Flow Resistance Using Universal Shallow Water Equations with Differentiable Programming**|Xiaofeng Liu et.al.|[2502.12396v1](http://arxiv.org/abs/2502.12396v1)|null|
 |**2025-02-17**|**LLMs on the Line: Data Determines Loss-to-Loss Scaling Laws**|Prasanna Mayilvahanan et.al.|[2502.12120v1](http://arxiv.org/abs/2502.12120v1)|null|
 |**2025-02-17**|**PRISM: Self-Pruning Intrinsic Selection Method for Training-Free Multimodal Data Selection**|Jinhe Bi et.al.|[2502.12119v1](http://arxiv.org/abs/2502.12119v1)|null|
 |**2025-02-17**|**Demographic Attributes Prediction from Speech Using WavLM Embeddings**|Yuchen Yang et.al.|[2502.12007v1](http://arxiv.org/abs/2502.12007v1)|null|
@@ -4440,12 +4449,21 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250219>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250220>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-18**|**Oreo: A Plug-in Context Reconstructor to Enhance Retrieval-Augmented Generation**|Sha Li et.al.|[2502.13019v1](http://arxiv.org/abs/2502.13019v1)|null|
+|**2025-02-18**|**Task-Informed Anti-Curriculum by Masking Improves Downstream Performance on Text**|Andrei Jarca et.al.|[2502.12953v1](http://arxiv.org/abs/2502.12953v1)|null|
+|**2025-02-18**|**Fake It Till You Make It: Using Synthetic Data and Domain Knowledge for Improved Text-Based Learning for LGE Detection**|Athira J Jacob et.al.|[2502.12948v1](http://arxiv.org/abs/2502.12948v1)|null|
+|**2025-02-18**|**Keep what you need : extracting efficient subnetworks from large audio representation models**|David Genova et.al.|[2502.12925v1](http://arxiv.org/abs/2502.12925v1)|null|
+|**2025-02-18**|**PAFT: Prompt-Agnostic Fine-Tuning**|Chenxing Wei et.al.|[2502.12859v1](http://arxiv.org/abs/2502.12859v1)|null|
+|**2025-02-18**|**How does a Language-Specific Tokenizer affect LLMs?**|Jean Seo et.al.|[2502.12560v1](http://arxiv.org/abs/2502.12560v1)|null|
+|**2025-02-18**|**RealSyn: An Effective and Scalable Multimodal Interleaved Document Transformation Paradigm**|Tiancheng Gu et.al.|[2502.12513v1](http://arxiv.org/abs/2502.12513v1)|null|
+|**2025-02-18**|**DSMoE: Matrix-Partitioned Experts with Dynamic Routing for Computation-Efficient Dense LLMs**|Minxuan Lv et.al.|[2502.12455v1](http://arxiv.org/abs/2502.12455v1)|null|
+|**2025-02-17**|**From Dense to Dynamic: Token-Difficulty Driven MoEfication of Pre-Trained LLMs**|Kumari Nishu et.al.|[2502.12325v1](http://arxiv.org/abs/2502.12325v1)|null|
 |**2025-02-17**|**LLMs on the Line: Data Determines Loss-to-Loss Scaling Laws**|Prasanna Mayilvahanan et.al.|[2502.12120v1](http://arxiv.org/abs/2502.12120v1)|null|
 |**2025-02-17**|**Generating Text from Uniform Meaning Representation**|Emma Markle et.al.|[2502.11973v1](http://arxiv.org/abs/2502.11973v1)|null|
 |**2025-02-17**|**Learning Generalizable Prompt for CLIP with Class Similarity Knowledge**|Sehun Jung et.al.|[2502.11969v1](http://arxiv.org/abs/2502.11969v1)|null|
@@ -8534,7 +8552,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20250219>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250220>back to top</a>)</p>
 
 ## adaptor
 
@@ -8700,12 +8718,18 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250219>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250220>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-18**|**RobuRCDet: Enhancing Robustness of Radar-Camera Fusion in Bird's Eye View for 3D Object Detection**|Jingtong Yue et.al.|[2502.13071v1](http://arxiv.org/abs/2502.13071v1)|null|
+|**2025-02-18**|**Detection and Geographic Localization of Natural Objects in the Wild: A Case Study on Palms**|Kangning Cui et.al.|[2502.13023v1](http://arxiv.org/abs/2502.13023v1)|null|
+|**2025-02-18**|**Task-Oriented Semantic Communication for Stereo-Vision 3D Object Detection**|Zijian Cao et.al.|[2502.12735v1](http://arxiv.org/abs/2502.12735v1)|null|
+|**2025-02-18**|**DAMamba: Vision State Space Model with Dynamic Adaptive Scan**|Tanzhe Li et.al.|[2502.12627v1](http://arxiv.org/abs/2502.12627v1)|null|
+|**2025-02-18**|**YOLOv12: Attention-Centric Real-Time Object Detectors**|Yunjie Tian et.al.|[2502.12524v1](http://arxiv.org/abs/2502.12524v1)|null|
+|**2025-02-18**|**Gaseous Object Detection**|Kailai Zhou et.al.|[2502.12415v1](http://arxiv.org/abs/2502.12415v1)|null|
 |**2025-02-17**|**Enhancing Transparent Object Pose Estimation: A Fusion of GDR-Net and Edge Detection**|Tessa Pulli et.al.|[2502.12027v1](http://arxiv.org/abs/2502.12027v1)|null|
 |**2025-02-16**|**DAViMNet: SSMs-Based Domain Adaptive Object Detection**|A. Enes Doruk et.al.|[2502.11178v1](http://arxiv.org/abs/2502.11178v1)|null|
 |**2025-02-15**|**CLoCKDistill: Consistent Location-and-Context-aware Knowledge Distillation for DETRs**|Qizhen Lan et.al.|[2502.10683v1](http://arxiv.org/abs/2502.10683v1)|null|
@@ -12357,7 +12381,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20250219>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250220>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
