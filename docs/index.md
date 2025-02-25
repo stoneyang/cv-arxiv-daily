@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.24
+## Updated on 2025.02.25
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-21**|**Machine-generated text detection prevents language model collapse**|George Drayson et.al.|[2502.15654v1](http://arxiv.org/abs/2502.15654v1)|null|
+|**2025-02-21**|**Empowering LLMs with Logical Reasoning: A Comprehensive Survey**|Fengxiang Cheng et.al.|[2502.15652v1](http://arxiv.org/abs/2502.15652v1)|null|
+|**2025-02-21**|**Sparks of cognitive flexibility: self-guided context inference for flexible stimulus-response mapping by attentional routing**|Rowan Sommers et.al.|[2502.15634v1](http://arxiv.org/abs/2502.15634v1)|null|
+|**2025-02-21**|**PDeepPP:A Deep learning framework with Pretrained Protein language for peptide classification**|Jixiu Zhai et.al.|[2502.15610v1](http://arxiv.org/abs/2502.15610v1)|null|
+|**2025-02-21**|**Benchmarking machine learning for bowel sound pattern classification from tabular features to pretrained models**|Zahra Mansour et.al.|[2502.15607v1](http://arxiv.org/abs/2502.15607v1)|null|
+|**2025-02-21**|**Bridging Domain Gaps between Pretrained Multimodal Models and Recommendations**|Wenyu Zhang et.al.|[2502.15542v1](http://arxiv.org/abs/2502.15542v1)|null|
+|**2025-02-21**|**SALSA-RL: Stability Analysis in the Latent Space of Actions for Reinforcement Learning**|Xuyang Li et.al.|[2502.15512v1](http://arxiv.org/abs/2502.15512v1)|null|
+|**2025-02-21**|**Mitigating Data Scarcity in Time Series Analysis: A Foundation Model with Series-Symbol Data Generation**|Wenxuan Wang et.al.|[2502.15466v1](http://arxiv.org/abs/2502.15466v1)|null|
+|**2025-02-21**|**Lung-DDPM: Semantic Layout-guided Diffusion Models for Thoracic CT Image Synthesis**|Yifan Jiang et.al.|[2502.15204v1](http://arxiv.org/abs/2502.15204v1)|null|
+|**2025-02-20**|**UPCORE: Utility-Preserving Coreset Selection for Balanced Unlearning**|Vaidehi Patil et.al.|[2502.15082v1](http://arxiv.org/abs/2502.15082v1)|null|
 |**2025-02-20**|**RendBEV: Semantic Novel View Synthesis for Self-Supervised Bird's Eye View Segmentation**|Henrique Piñeiro Monteagudo et.al.|[2502.14792v1](http://arxiv.org/abs/2502.14792v1)|null|
 |**2025-02-20**|**SigLIP 2: Multilingual Vision-Language Encoders with Improved Semantic Understanding, Localization, and Dense Features**|Michael Tschannen et.al.|[2502.14786v1](http://arxiv.org/abs/2502.14786v1)|**[link](https://github.com/google-research/big_vision)**|
 |**2025-02-20**|**ReVision: A Dataset and Baseline VLM for Privacy-Preserving Task-Oriented Visual Instruction Rewriting**|Abhijit Mishra et.al.|[2502.14780v1](http://arxiv.org/abs/2502.14780v1)|null|
@@ -4473,13 +4483,22 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250224>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250225>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-20**|**FetalCLIP: A Visual-Language Foundation Model for Fetal Ultrasound Image Analysis**|Fadillah Maani et.al.|[2502.14807v1](http://arxiv.org/abs/2502.14807v1)|null|
+|**2025-02-21**|**Mantis: Lightweight Calibrated Foundation Model for User-Friendly Time Series Classification**|Vasilii Feofanov et.al.|[2502.15637v1](http://arxiv.org/abs/2502.15637v1)|null|
+|**2025-02-21**|**Mitigating Data Scarcity in Time Series Analysis: A Foundation Model with Series-Symbol Data Generation**|Wenxuan Wang et.al.|[2502.15466v1](http://arxiv.org/abs/2502.15466v1)|null|
+|**2025-02-21**|**MVIP -- A Dataset and Methods for Application Oriented Multi-View and Multi-Modal Industrial Part Recognition**|Paul Koch et.al.|[2502.15448v1](http://arxiv.org/abs/2502.15448v1)|null|
+|**2025-02-21**|**LEDD: Large Language Model-Empowered Data Discovery in Data Lakes**|Qi An et.al.|[2502.15182v1](http://arxiv.org/abs/2502.15182v1)|null|
+|**2025-02-21**|**Latent Factor Models Meets Instructions:Goal-conditioned Latent Factor Discovery without Task Supervision**|Zhouhang Xie et.al.|[2502.15147v1](http://arxiv.org/abs/2502.15147v1)|null|
+|**2025-02-21**|**TransMamba: Fast Universal Architecture Adaption from Transformers to Mamba**|Xiuwei Chen et.al.|[2502.15130v1](http://arxiv.org/abs/2502.15130v1)|null|
+|**2025-02-20**|**Optimizing Singular Spectrum for Large Language Model Compression**|Dengjie Li et.al.|[2502.15092v1](http://arxiv.org/abs/2502.15092v1)|null|
+|**2025-02-20**|**Is Relevance Propagated from Retriever to Generator in RAG?**|Fangzheng Tian et.al.|[2502.15025v1](http://arxiv.org/abs/2502.15025v1)|null|
+|**2025-02-20**|**Towards Physics-Guided Foundation Models**|Majid Farhadloo et.al.|[2502.15013v1](http://arxiv.org/abs/2502.15013v1)|null|
+|**2025-02-20**|**FetalCLIP: A Visual-Language Foundation Model for Fetal Ultrasound Image Analysis**|Fadillah Maani et.al.|[2502.14807v1](http://arxiv.org/abs/2502.14807v1)|**[link](https://github.com/biomedia-mbzuai/fetalclip)**|
 |**2025-02-20**|**Data-Efficient Pretraining with Group-Level Data Influence Modeling**|Zichun Yu et.al.|[2502.14709v1](http://arxiv.org/abs/2502.14709v1)|null|
 |**2025-02-20**|**MedFuncta: Modality-Agnostic Representations Based on Efficient Neural Fields**|Paul Friedrich et.al.|[2502.14401v1](http://arxiv.org/abs/2502.14401v1)|**[link](https://github.com/pfriedri/medfuncta)**|
 |**2025-02-20**|**A Similarity Paradigm Through Textual Regularization Without Forgetting**|Fangming Cui et.al.|[2502.14376v1](http://arxiv.org/abs/2502.14376v1)|null|
@@ -8594,7 +8613,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20250224>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250225>back to top</a>)</p>
 
 ## adaptor
 
@@ -8760,12 +8779,15 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250224>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250225>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-21**|**Depth-aware Fusion Method based on Image and 4D Radar Spectrum for 3D Object Detection**|Yue Sun et.al.|[2502.15516v1](http://arxiv.org/abs/2502.15516v1)|null|
+|**2025-02-21**|**Q-PETR: Quant-aware Position Embedding Transformation for Multi-View 3D Object Detection**|Jiangyong Yu et.al.|[2502.15488v1](http://arxiv.org/abs/2502.15488v1)|null|
+|**2025-02-20**|**Synth It Like KITTI: Synthetic Data Generation for Object Detection in Driving Scenarios**|Richard Marcus et.al.|[2502.15076v1](http://arxiv.org/abs/2502.15076v1)|null|
 |**2025-02-20**|**YOLOv12: A Breakdown of the Key Architectural Features**|Mujadded Al Rabbani Alif et.al.|[2502.14740v1](http://arxiv.org/abs/2502.14740v1)|null|
 |**2025-02-20**|**LXLv2: Enhanced LiDAR Excluded Lean 3D Object Detection with Fusion of 4D Radar and Camera**|Weiyi Xiong et.al.|[2502.14503v1](http://arxiv.org/abs/2502.14503v1)|null|
 |**2025-02-20**|**ODVerse33: Is the New YOLO Version Always Better? A Multi Domain benchmark from YOLO v5 to v11**|Tianyou Jiang et.al.|[2502.14314v1](http://arxiv.org/abs/2502.14314v1)|null|
@@ -12431,7 +12453,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20250224>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250225>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
