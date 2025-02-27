@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.26
+## Updated on 2025.02.27
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-25**|**Enhancing DNA Foundation Models to Address Masking Inefficiencies**|Monireh Safari et.al.|[2502.18405v1](http://arxiv.org/abs/2502.18405v1)|null|
+|**2025-02-25**|**Better Aligned with Survey Respondents or Training Data? Unveiling Political Leanings of LLMs on U.S. Supreme Court Cases**|Shanshan Xu et.al.|[2502.18282v1](http://arxiv.org/abs/2502.18282v1)|null|
+|**2025-02-25**|**Escaping The Big Data Paradigm in Self-Supervised Representation Learning**|Carlos Vélez García et.al.|[2502.18056v1](http://arxiv.org/abs/2502.18056v1)|**[link](https://github.com/inescopresearch/scott)**|
+|**2025-02-25**|**Unveiling the Key Factors for Distilling Chain-of-Thought Reasoning**|Xinghao Chen et.al.|[2502.18001v1](http://arxiv.org/abs/2502.18001v1)|null|
+|**2025-02-25**|**Structure-prior Informed Diffusion Model for Graph Source Localization with Limited Data**|Hongyi Chen et.al.|[2502.17928v1](http://arxiv.org/abs/2502.17928v1)|null|
+|**2025-02-25**|**Scaling LLM Pre-training with Vocabulary Curriculum**|Fangyuan Yu et.al.|[2502.17910v1](http://arxiv.org/abs/2502.17910v1)|null|
+|**2025-02-25**|**EEGM2: An Efficient Mamba-2-Based Self-Supervised Framework for Long-Sequence EEG Modeling**|Jiazhen Hong et.al.|[2502.17873v1](http://arxiv.org/abs/2502.17873v1)|null|
+|**2025-02-25**|**UniGS: Unified Language-Image-3D Pretraining with Gaussian Splatting**|Haoyuan Li et.al.|[2502.17860v1](http://arxiv.org/abs/2502.17860v1)|null|
+|**2025-02-25**|**AI-driven 3D Spatial Transcriptomics**|Cristina Almagro-Pérez et.al.|[2502.17761v1](http://arxiv.org/abs/2502.17761v1)|null|
+|**2025-02-24**|**Towards Typologically Aware Rescoring to Mitigate Unfaithfulness in Lower-Resource Languages**|Tsan Tsai Chan et.al.|[2502.17664v1](http://arxiv.org/abs/2502.17664v1)|null|
 |**2025-02-24**|**Large Language Models are Powerful EHR Encoders**|Stefan Hegselmann et.al.|[2502.17403v1](http://arxiv.org/abs/2502.17403v1)|null|
 |**2025-02-24**|**RELICT: A Replica Detection Framework for Medical Image Generation**|Orhun Utku Aydin et.al.|[2502.17360v1](http://arxiv.org/abs/2502.17360v1)|null|
 |**2025-02-24**|**On Relation-Specific Neurons in Large Language Models**|Yihong Liu et.al.|[2502.17355v1](http://arxiv.org/abs/2502.17355v1)|**[link](https://github.com/cisnlp/relation-specific-neurons)**|
@@ -4489,12 +4499,20 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250226>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250227>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-25**|**Enhancing DNA Foundation Models to Address Masking Inefficiencies**|Monireh Safari et.al.|[2502.18405v1](http://arxiv.org/abs/2502.18405v1)|null|
+|**2025-02-25**|**Beyond the convexity assumption: Realistic tabular data generation under quantifier-free real linear constraints**|Mihaela Cătălina Stoian et.al.|[2502.18237v1](http://arxiv.org/abs/2502.18237v1)|null|
+|**2025-02-25**|**Task-Agnostic Semantic Communication with Multimodal Foundation Models**|Jiangjing Hu et.al.|[2502.18200v1](http://arxiv.org/abs/2502.18200v1)|null|
+|**2025-02-25**|**HyperG: Hypergraph-Enhanced LLMs for Structured Knowledge**|Sirui Huang et.al.|[2502.18125v1](http://arxiv.org/abs/2502.18125v1)|null|
+|**2025-02-25**|**FwNet-ECA: Facilitating Window Attention with Global Receptive Fields through Fourier Filtering Operations**|Shengtian Mian et.al.|[2502.18094v1](http://arxiv.org/abs/2502.18094v1)|null|
+|**2025-02-25**|**Examining the Threat Landscape: Foundation Models and Model Stealing**|Ankita Raj et.al.|[2502.18077v1](http://arxiv.org/abs/2502.18077v1)|null|
+|**2025-02-25**|**Quantum negative sampling strategy for knowledge graph embedding with variational circuit**|Pulak Ranjan Giri et.al.|[2502.17973v1](http://arxiv.org/abs/2502.17973v1)|null|
+|**2025-02-25**|**Task-Driven Semantic Quantization and Imitation Learning for Goal-Oriented Communications**|Yu-Chieh Chao et.al.|[2502.17842v1](http://arxiv.org/abs/2502.17842v1)|null|
 |**2025-02-24**|**Leveraging Procedural Knowledge and Task Hierarchies for Efficient Instructional Video Pre-training**|Karan Samel et.al.|[2502.17352v1](http://arxiv.org/abs/2502.17352v1)|null|
 |**2025-02-24**|**AnyTop: Character Animation Diffusion with Any Topology**|Inbar Gat et.al.|[2502.17327v1](http://arxiv.org/abs/2502.17327v1)|null|
 |**2025-02-24**|**TDMPBC: Self-Imitative Reinforcement Learning for Humanoid Robot Control**|Zifeng Zhuang et.al.|[2502.17322v1](http://arxiv.org/abs/2502.17322v1)|null|
@@ -8629,7 +8647,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20250226>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250227>back to top</a>)</p>
 
 ## adaptor
 
@@ -8795,12 +8813,16 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250226>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250227>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-25**|**Multi-Perspective Data Augmentation for Few-shot Object Detection**|Anh-Khoa Nguyen Vu et.al.|[2502.18195v1](http://arxiv.org/abs/2502.18195v1)|null|
+|**2025-02-25**|**Progressive Local Alignment for Medical Multimodal Pre-training**|Huimin Yan et.al.|[2502.18047v1](http://arxiv.org/abs/2502.18047v1)|null|
+|**2025-02-25**|**Automatic Vehicle Detection using DETR: A Transformer-Based Approach for Navigating Treacherous Roads**|Istiaq Ahmed Fahad et.al.|[2502.17843v1](http://arxiv.org/abs/2502.17843v1)|null|
+|**2025-02-24**|**Semi-Supervised Weed Detection in Vegetable Fields: In-domain and Cross-domain Experiments**|Boyang Deng et.al.|[2502.17673v1](http://arxiv.org/abs/2502.17673v1)|null|
 |**2025-02-24**|**Experimental validation of UAV search and detection system in real wilderness environment**|Stella Dumenčić et.al.|[2502.17372v1](http://arxiv.org/abs/2502.17372v1)|null|
 |**2025-02-24**|**LCV2I: Communication-Efficient and High-Performance Collaborative Perception Framework with Low-Resolution LiDAR**|Xinxin Feng et.al.|[2502.17039v1](http://arxiv.org/abs/2502.17039v1)|null|
 |**2025-02-23**|**Geometry-Aware 3D Salient Object Detection Network**|Chen Wang et.al.|[2502.16488v1](http://arxiv.org/abs/2502.16488v1)|null|
@@ -12477,7 +12499,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20250226>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250227>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
