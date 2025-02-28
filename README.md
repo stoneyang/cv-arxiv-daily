@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.27
+## Updated on 2025.02.28
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-26**|**General Reasoning Requires Learning to Reason from the Get-go**|Seungwook Han et.al.|[2502.19402v1](http://arxiv.org/abs/2502.19402v1)|null|
+|**2025-02-26**|**Between Circuits and Chomsky: Pre-pretraining on Formal Languages Imparts Linguistic Biases**|Michael Y. Hu et.al.|[2502.19249v1](http://arxiv.org/abs/2502.19249v1)|null|
+|**2025-02-26**|**INFO-SEDD: Continuous Time Markov Chains as Scalable Information Metrics Estimators**|Alberto Foresti et.al.|[2502.19183v1](http://arxiv.org/abs/2502.19183v1)|null|
+|**2025-02-26**|**EndoMamba: An Efficient Foundation Model for Endoscopic Videos**|Qingyao Tian et.al.|[2502.19090v1](http://arxiv.org/abs/2502.19090v1)|null|
+|**2025-02-26**|**Foundation Inference Models for Stochastic Differential Equations: A Transformer-based Approach for Zero-shot Function Estimation**|Patrick Seifner et.al.|[2502.19049v1](http://arxiv.org/abs/2502.19049v1)|null|
+|**2025-02-26**|**DualSpec: Text-to-spatial-audio Generation via Dual-Spectrogram Guided Diffusion Model**|Lei Zhao et.al.|[2502.18952v1](http://arxiv.org/abs/2502.18952v1)|null|
+|**2025-02-26**|**VEM: Environment-Free Exploration for Training GUI Agent with Value Environment Model**|Jiani Zheng et.al.|[2502.18906v1](http://arxiv.org/abs/2502.18906v1)|null|
+|**2025-02-26**|**Data-Efficient Multi-Agent Spatial Planning with LLMs**|Huangyuan Su et.al.|[2502.18822v1](http://arxiv.org/abs/2502.18822v1)|null|
+|**2025-02-26**|**Language Models Grow Less Humanlike beyond Phase Transition**|Tatsuya Aoyama et.al.|[2502.18802v1](http://arxiv.org/abs/2502.18802v1)|null|
+|**2025-02-26**|**Ptychographic Image Reconstruction from Limited Data via Score-Based Diffusion Models with Physics-Guidance**|Refik Mert Cam et.al.|[2502.18767v1](http://arxiv.org/abs/2502.18767v1)|null|
 |**2025-02-25**|**Enhancing DNA Foundation Models to Address Masking Inefficiencies**|Monireh Safari et.al.|[2502.18405v1](http://arxiv.org/abs/2502.18405v1)|null|
 |**2025-02-25**|**Better Aligned with Survey Respondents or Training Data? Unveiling Political Leanings of LLMs on U.S. Supreme Court Cases**|Shanshan Xu et.al.|[2502.18282v1](http://arxiv.org/abs/2502.18282v1)|null|
 |**2025-02-25**|**Escaping The Big Data Paradigm in Self-Supervised Representation Learning**|Carlos Vélez García et.al.|[2502.18056v1](http://arxiv.org/abs/2502.18056v1)|**[link](https://github.com/inescopresearch/scott)**|
@@ -4499,14 +4509,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250227>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250228>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-26**|**Agentic Reward Modeling: Integrating Human Preferences with Verifiable Correctness Signals for Reliable Reward Systems**|Hao Peng et.al.|[2502.19328v1](http://arxiv.org/abs/2502.19328v1)|null|
+|**2025-02-26**|**CritiQ: Mining Data Quality Criteria from Human Preferences**|Honglin Guo et.al.|[2502.19279v1](http://arxiv.org/abs/2502.19279v1)|null|
+|**2025-02-26**|**Conformal Linguistic Calibration: Trading-off between Factuality and Specificity**|Zhengping Jiang et.al.|[2502.19110v1](http://arxiv.org/abs/2502.19110v1)|null|
+|**2025-02-26**|**EndoMamba: An Efficient Foundation Model for Endoscopic Videos**|Qingyao Tian et.al.|[2502.19090v1](http://arxiv.org/abs/2502.19090v1)|null|
+|**2025-02-26**|**MCLRL: A Multi-Domain Contrastive Learning with Reinforcement Learning Framework for Few-Shot Modulation Recognition**|Dongwei Xu et.al.|[2502.19071v1](http://arxiv.org/abs/2502.19071v1)|null|
+|**2025-02-26**|**Credible Intervals for Knowledge Graph Accuracy Estimation**|Stefano Marchesin et.al.|[2502.18961v1](http://arxiv.org/abs/2502.18961v1)|null|
+|**2025-02-26**|**An Empirical Study on Commit Message Generation using LLMs via In-Context Learning**|Yifan Wu et.al.|[2502.18904v1](http://arxiv.org/abs/2502.18904v1)|null|
+|**2025-02-26**|**Learning to Generate Structured Output with Schema Reinforcement Learning**|Yaxi Lu et.al.|[2502.18878v1](http://arxiv.org/abs/2502.18878v1)|null|
 |**2025-02-25**|**Enhancing DNA Foundation Models to Address Masking Inefficiencies**|Monireh Safari et.al.|[2502.18405v1](http://arxiv.org/abs/2502.18405v1)|null|
-|**2025-02-25**|**Beyond the convexity assumption: Realistic tabular data generation under quantifier-free real linear constraints**|Mihaela Cătălina Stoian et.al.|[2502.18237v1](http://arxiv.org/abs/2502.18237v1)|null|
+|**2025-02-25**|**Beyond the convexity assumption: Realistic tabular data generation under quantifier-free real linear constraints**|Mihaela Cătălina Stoian et.al.|[2502.18237v1](http://arxiv.org/abs/2502.18237v1)|**[link](https://github.com/mihaela-stoian/drl_dgm)**|
 |**2025-02-25**|**Task-Agnostic Semantic Communication with Multimodal Foundation Models**|Jiangjing Hu et.al.|[2502.18200v1](http://arxiv.org/abs/2502.18200v1)|null|
 |**2025-02-25**|**HyperG: Hypergraph-Enhanced LLMs for Structured Knowledge**|Sirui Huang et.al.|[2502.18125v1](http://arxiv.org/abs/2502.18125v1)|null|
 |**2025-02-25**|**FwNet-ECA: Facilitating Window Attention with Global Receptive Fields through Fourier Filtering Operations**|Shengtian Mian et.al.|[2502.18094v1](http://arxiv.org/abs/2502.18094v1)|null|
@@ -8647,7 +8665,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20250227>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250228>back to top</a>)</p>
 
 ## adaptor
 
@@ -8813,12 +8831,13 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250227>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250228>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-23**|**Rewards-based image analysis in microscopy**|Kamyar Barakati et.al.|[2502.18522v1](http://arxiv.org/abs/2502.18522v1)|null|
 |**2025-02-25**|**Multi-Perspective Data Augmentation for Few-shot Object Detection**|Anh-Khoa Nguyen Vu et.al.|[2502.18195v1](http://arxiv.org/abs/2502.18195v1)|null|
 |**2025-02-25**|**Progressive Local Alignment for Medical Multimodal Pre-training**|Huimin Yan et.al.|[2502.18047v1](http://arxiv.org/abs/2502.18047v1)|null|
 |**2025-02-25**|**Automatic Vehicle Detection using DETR: A Transformer-Based Approach for Navigating Treacherous Roads**|Istiaq Ahmed Fahad et.al.|[2502.17843v1](http://arxiv.org/abs/2502.17843v1)|null|
@@ -8826,7 +8845,7 @@
 |**2025-02-24**|**Experimental validation of UAV search and detection system in real wilderness environment**|Stella Dumenčić et.al.|[2502.17372v1](http://arxiv.org/abs/2502.17372v1)|null|
 |**2025-02-24**|**LCV2I: Communication-Efficient and High-Performance Collaborative Perception Framework with Low-Resolution LiDAR**|Xinxin Feng et.al.|[2502.17039v1](http://arxiv.org/abs/2502.17039v1)|null|
 |**2025-02-23**|**Geometry-Aware 3D Salient Object Detection Network**|Chen Wang et.al.|[2502.16488v1](http://arxiv.org/abs/2502.16488v1)|null|
-|**2025-02-23**|**MQADet: A Plug-and-Play Paradigm for Enhancing Open-Vocabulary Object Detection via Multimodal Question Answering**|Caixiong Li et.al.|[2502.16486v1](http://arxiv.org/abs/2502.16486v1)|null|
+|**2025-02-26**|**MQADet: A Plug-and-Play Paradigm for Enhancing Open-Vocabulary Object Detection via Multimodal Question Answering**|Caixiong Li et.al.|[2502.16486v2](http://arxiv.org/abs/2502.16486v2)|null|
 |**2025-02-23**|**Cross-domain Few-shot Object Detection with Multi-modal Textual Enrichment**|Zeyu Shangguan et.al.|[2502.16469v1](http://arxiv.org/abs/2502.16469v1)|null|
 |**2025-02-23**|**Deep learning approaches to surgical video segmentation and object detection: A Scoping Review**|Devanish N. Kamtam et.al.|[2502.16459v1](http://arxiv.org/abs/2502.16459v1)|null|
 |**2025-02-22**|**FeatSharp: Your Vision Model Features, Sharper**|Mike Ranzinger et.al.|[2502.16025v1](http://arxiv.org/abs/2502.16025v1)|null|
@@ -12499,7 +12518,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20250227>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250228>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
