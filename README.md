@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.05
+## Updated on 2025.03.06
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-04**|**(How) Do Language Models Track State?**|Belinda Z. Li et.al.|[2503.02854v1](http://arxiv.org/abs/2503.02854v1)|null|
+|**2025-03-04**|**Feynman-Kac Correctors in Diffusion: Annealing, Guidance, and Product of Experts**|Marta Skreta et.al.|[2503.02819v1](http://arxiv.org/abs/2503.02819v1)|null|
+|**2025-03-04**|**RaceVLA: VLA-based Racing Drone Navigation with Human-like Behaviour**|Valerii Serpiva et.al.|[2503.02572v1](http://arxiv.org/abs/2503.02572v1)|null|
+|**2025-03-04**|**Remote Sensing Image Classification Using Convolutional Neural Network (CNN) and Transfer Learning Techniques**|Mustafa Majeed Abd Zaid et.al.|[2503.02510v1](http://arxiv.org/abs/2503.02510v1)|null|
+|**2025-03-04**|**A Token-level Text Image Foundation Model for Document Understanding**|Tongkun Guan et.al.|[2503.02304v1](http://arxiv.org/abs/2503.02304v1)|null|
+|**2025-03-04**|**h-Edit: Effective and Flexible Diffusion-Based Editing via Doob's h-Transform**|Toan Nguyen et.al.|[2503.02187v1](http://arxiv.org/abs/2503.02187v1)|null|
+|**2025-03-04**|**AugFL: Augmenting Federated Learning with Pretrained Models**|Sheng Yue et.al.|[2503.02154v1](http://arxiv.org/abs/2503.02154v1)|null|
+|**2025-03-03**|**Provable Benefits of Task-Specific Prompts for In-context Learning**|Xiangyu Chang et.al.|[2503.02102v1](http://arxiv.org/abs/2503.02102v1)|**[link](https://github.com/xchang1121/prompt_ICL)**|
+|**2025-03-03**|**Abn-BLIP: Abnormality-aligned Bootstrapping Language-Image Pre-training for Pulmonary Embolism Diagnosis and Report Generation from CTPA**|Zhusi Zhong et.al.|[2503.02034v1](http://arxiv.org/abs/2503.02034v1)|null|
+|**2025-03-03**|**Pretrained Embeddings as a Behavior Specification Mechanism**|Parv Kapoor et.al.|[2503.02012v1](http://arxiv.org/abs/2503.02012v1)|null|
 |**2025-02-28**|**LLM Post-Training: A Deep Dive into Reasoning Large Language Models**|Komal Kumar et.al.|[2502.21321v1](http://arxiv.org/abs/2502.21321v1)|null|
 |**2025-02-28**|**Unsupervised Parameter Efficient Source-free Post-pretraining**|Abhishek Jha et.al.|[2502.21313v1](http://arxiv.org/abs/2502.21313v1)|null|
 |**2025-02-28**|**FANformer: Improving Large Language Models Through Effective Periodicity Modeling**|Yihong Dong et.al.|[2502.21309v1](http://arxiv.org/abs/2502.21309v1)|null|
@@ -4529,12 +4539,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250305>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250306>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-04**|**Developing a PET/CT Foundation Model for Cross-Modal Anatomical and Functional Imaging**|Yujin Oh et.al.|[2503.02824v1](http://arxiv.org/abs/2503.02824v1)|null|
+|**2025-03-04**|**Adapting Decoder-Based Language Models for Diverse Encoder Downstream Tasks**|Paul Suganthan et.al.|[2503.02656v1](http://arxiv.org/abs/2503.02656v1)|null|
+|**2025-03-04**|**MM-OR: A Large Multimodal Operating Room Dataset for Semantic Understanding of High-Intensity Surgical Environments**|Ege Özsoy et.al.|[2503.02579v1](http://arxiv.org/abs/2503.02579v1)|null|
+|**2025-03-04**|**Making Better Mistakes in CLIP-Based Zero-Shot Classification with Hierarchy-Aware Language Prompts**|Tong Liang et.al.|[2503.02248v1](http://arxiv.org/abs/2503.02248v1)|null|
+|**2025-03-03**|**Forgetting Transformer: Softmax Attention with a Forget Gate**|Zhixuan Lin et.al.|[2503.02130v1](http://arxiv.org/abs/2503.02130v1)|null|
+|**2025-03-03**|**Biomedical Foundation Model: A Survey**|Xiangrui Liu et.al.|[2503.02104v1](http://arxiv.org/abs/2503.02104v1)|null|
+|**2025-03-03**|**Mind the (Belief) Gap: Group Identity in the World of LLMs**|Angana Borah et.al.|[2503.02016v1](http://arxiv.org/abs/2503.02016v1)|null|
+|**2025-03-03**|**Morpheus: Text-Driven 3D Gaussian Splat Shape and Color Stylization**|Jamie Wynn et.al.|[2503.02009v1](http://arxiv.org/abs/2503.02009v1)|null|
+|**2025-03-03**|**RSQ: Learning from Important Tokens Leads to Better Quantized LLMs**|Yi-Lin Sung et.al.|[2503.01820v1](http://arxiv.org/abs/2503.01820v1)|**[link](https://github.com/ylsung/rsq)**|
+|**2025-03-03**|**SHADE-AD: An LLM-Based Framework for Synthesizing Activity Data of Alzheimer's Patients**|Heming Fu et.al.|[2503.01768v1](http://arxiv.org/abs/2503.01768v1)|null|
 |**2025-02-28**|**FANformer: Improving Large Language Models Through Effective Periodicity Modeling**|Yihong Dong et.al.|[2502.21309v1](http://arxiv.org/abs/2502.21309v1)|null|
 |**2025-03-03**|**Foundation Models -- A Panacea for Artificial Intelligence in Pathology?**|Nita Mulliqi et.al.|[2502.21264v2](http://arxiv.org/abs/2502.21264v2)|null|
 |**2025-02-28**|**CuPID: Leveraging Masked Single-Lead ECG Modelling for Enhancing the Representations**|Adtian Atienza et.al.|[2502.21127v1](http://arxiv.org/abs/2502.21127v1)|null|
@@ -8702,12 +8722,13 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20250305>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250306>back to top</a>)</p>
 
 ## adaptor
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-02**|**MFM-DA: Instance-Aware Adaptor and Hierarchical Alignment for Efficient Domain Adaptation in Medical Foundation Models**|Jia-Xuan Jiang et.al.|[2503.00802v1](http://arxiv.org/abs/2503.00802v1)|null|
 |**2025-02-27**|**Unlocking Multi-Modal Potentials for Dynamic Text-Attributed Graph Representation**|Yuanyuan Xu et.al.|[2502.19651v1](http://arxiv.org/abs/2502.19651v1)|null|
 |**2025-02-19**|**Large Language-Geometry Model: When LLM meets Equivariance**|Zongzhao Li et.al.|[2502.11149v2](http://arxiv.org/abs/2502.11149v2)|null|
 |**2025-02-11**|**MGPATH: Vision-Language Model with Multi-Granular Prompt Learning for Few-Shot WSI Classification**|Anh-Tien Nguyen et.al.|[2502.07409v1](http://arxiv.org/abs/2502.07409v1)|**[link](https://github.com/HauschildLab/MGPATH)**|
@@ -8869,12 +8890,22 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250305>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250306>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-04**|**Class-Aware PillarMix: Can Mixed Sample Data Augmentation Enhance 3D Object Detection with Radar Point Clouds?**|Miao Zhang et.al.|[2503.02687v1](http://arxiv.org/abs/2503.02687v1)|null|
+|**2025-03-04**|**Exploring Model Quantization in GenAI-based Image Inpainting and Detection of Arable Plants**|Sourav Modak et.al.|[2503.02420v1](http://arxiv.org/abs/2503.02420v1)|null|
+|**2025-03-04**|**Robust detection of overlapping bioacoustic sound events**|Louis Mahon et.al.|[2503.02389v1](http://arxiv.org/abs/2503.02389v1)|null|
+|**2025-03-04**|**YOLO-PRO: Enhancing Instance-Specific Object Detection with Full-Channel Global Self-Attention**|Lin Huang et.al.|[2503.02348v1](http://arxiv.org/abs/2503.02348v1)|null|
+|**2025-03-04**|**SSNet: Saliency Prior and State Space Model-based Network for Salient Object Detection in RGB-D Images**|Gargi Panda et.al.|[2503.02270v1](http://arxiv.org/abs/2503.02270v1)|null|
+|**2025-03-03**|**Generalized Diffusion Detector: Mining Robust Features from Diffusion Models for Domain-Generalized Detection**|Boyong He et.al.|[2503.02101v1](http://arxiv.org/abs/2503.02101v1)|null|
+|**2025-03-03**|**Uncertainty Representation in a SOTIF-Related Use Case with Dempster-Shafer Theory for LiDAR Sensor-Based Object Detection**|Milin Patel et.al.|[2503.02087v1](http://arxiv.org/abs/2503.02087v1)|**[link](https://github.com/milinpatel07/SOTIF-PCOD)**|
+|**2025-03-03**|**Visual-RFT: Visual Reinforcement Fine-Tuning**|Ziyu Liu et.al.|[2503.01785v1](http://arxiv.org/abs/2503.01785v1)|**[link](https://github.com/liuziyu77/visual-rft)**|
+|**2025-03-03**|**Enhancing Object Detection Accuracy in Underwater Sonar Images through Deep Learning-based Denoising**|Ziyu Wang et.al.|[2503.01655v1](http://arxiv.org/abs/2503.01655v1)|null|
+|**2025-03-03**|**Evaluating Stenosis Detection with Grounding DINO, YOLO, and DINO-DETR**|Muhammad Musab Ansari et.al.|[2503.01601v1](http://arxiv.org/abs/2503.01601v1)|null|
 |**2025-02-28**|**The Common Objects Underwater (COU) Dataset for Robust Underwater Object Detection**|Rishi Mukherjee et.al.|[2502.20651v1](http://arxiv.org/abs/2502.20651v1)|null|
 |**2025-02-28**|**RTGen: Real-Time Generative Detection Transformer**|Chi Ruan et.al.|[2502.20622v1](http://arxiv.org/abs/2502.20622v1)|null|
 |**2025-02-28**|**LV-DOT: LiDAR-visual dynamic obstacle detection and tracking for autonomous robot navigation**|Zhefan Xu et.al.|[2502.20607v1](http://arxiv.org/abs/2502.20607v1)|null|
@@ -12565,7 +12596,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20250305>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250306>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
