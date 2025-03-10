@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.09
+## Updated on 2025.03.10
 
 <details>
   <summary>Table of Contents</summary>
@@ -24,11 +24,11 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-06**|**Predictable Scale: Part I -- Optimal Hyperparameter Scaling Law in Large Language Model Pretraining**|Houyi Li et.al.|[2503.04715v1](http://arxiv.org/abs/2503.04715v1)|null|
-|**2025-03-06**|**DIMSUM: Discourse in Mathematical Reasoning as a Supervision Module**|Krish Sharma et.al.|[2503.04685v1](http://arxiv.org/abs/2503.04685v1)|null|
+|**2025-03-07**|**DIMSUM: Discourse in Mathematical Reasoning as a Supervision Module**|Krish Sharma et.al.|[2503.04685v2](http://arxiv.org/abs/2503.04685v2)|null|
 |**2025-03-06**|**Transferable Foundation Models for Geometric Tasks on Point Cloud Representations: Geometric Neural Operators**|Blaine Quackenbush et.al.|[2503.04649v1](http://arxiv.org/abs/2503.04649v1)|null|
 |**2025-03-06**|**Enhancing SAM with Efficient Prompting and Preference Optimization for Semi-supervised Medical Image Segmentation**|Aishik Konwer et.al.|[2503.04639v1](http://arxiv.org/abs/2503.04639v1)|null|
 |**2025-03-06**|**ViT-VS: On the Applicability of Pretrained Vision Transformer Features for Generalizable Visual Servoing**|Alessandro Scherl et.al.|[2503.04545v1](http://arxiv.org/abs/2503.04545v1)|null|
-|**2025-03-06**|**LEDiT: Your Length-Extrapolatable Diffusion Transformer without Positional Encoding**|Shen Zhang et.al.|[2503.04344v1](http://arxiv.org/abs/2503.04344v1)|null|
+|**2025-03-07**|**LEDiT: Your Length-Extrapolatable Diffusion Transformer without Positional Encoding**|Shen Zhang et.al.|[2503.04344v2](http://arxiv.org/abs/2503.04344v2)|null|
 |**2025-03-06**|**Tgea: An error-annotated dataset and benchmark tasks for text generation from pretrained language models**|Jie He et.al.|[2503.04232v1](http://arxiv.org/abs/2503.04232v1)|null|
 |**2025-03-06**|**Hedging with Sparse Reward Reinforcement Learning**|Yiheng Ding et.al.|[2503.04218v1](http://arxiv.org/abs/2503.04218v1)|null|
 |**2025-03-06**|**Energy-Guided Optimization for Personalized Image Editing with Pretrained Text-to-Image Diffusion Models**|Rui Jiang et.al.|[2503.04215v1](http://arxiv.org/abs/2503.04215v1)|null|
@@ -4560,7 +4560,7 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250309>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250310>back to top</a>)</p>
 
 ## downstream
 
@@ -8755,7 +8755,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20250309>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250310>back to top</a>)</p>
 
 ## adaptor
 
@@ -8925,7 +8925,7 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250309>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250310>back to top</a>)</p>
 
 ## object detection
 
@@ -12646,7 +12646,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20250309>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250310>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
