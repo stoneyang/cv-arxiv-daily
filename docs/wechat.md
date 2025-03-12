@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2025.03.11
+> Updated on 2025.03.12
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,16 @@
 
 ## pretrain
 
+- 2025-03-10, **Denoising Score Distillation: From Noisy Diffusion Pretraining to One-Step High-Quality Generation**, Tianyu Chen et.al., Paper: [http://arxiv.org/abs/2503.07578v1](http://arxiv.org/abs/2503.07578v1)
+- 2025-03-11, **LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through Two-Stage Rule-Based RL**, Yingzhe Peng et.al., Paper: [http://arxiv.org/abs/2503.07536v2](http://arxiv.org/abs/2503.07536v2)
+- 2025-03-10, **PointVLA: Injecting the 3D World into Vision-Language-Action Models**, Chengmeng Li et.al., Paper: [http://arxiv.org/abs/2503.07511v1](http://arxiv.org/abs/2503.07511v1)
+- 2025-03-10, **YOLOE: Real-Time Seeing Anything**, Ao Wang et.al., Paper: [http://arxiv.org/abs/2503.07465v1](http://arxiv.org/abs/2503.07465v1), Code: **[https://github.com/THU-MIG/yoloe](https://github.com/THU-MIG/yoloe)**
+- 2025-03-10, **TimeStep Master: Asymmetrical Mixture of Timestep LoRA Experts for Versatile and Efficient Diffusion Models in Vision**, Shaobin Zhuang et.al., Paper: [http://arxiv.org/abs/2503.07416v1](http://arxiv.org/abs/2503.07416v1)
+- 2025-03-10, **Keeping Representation Similarity in Finetuning for Medical Image Analysis**, Wenqiang Zu et.al., Paper: [http://arxiv.org/abs/2503.07399v1](http://arxiv.org/abs/2503.07399v1)
+- 2025-03-10, **PersonaBooth: Personalized Text-to-Motion Generation**, Boeun Kim et.al., Paper: [http://arxiv.org/abs/2503.07390v1](http://arxiv.org/abs/2503.07390v1)
+- 2025-03-10, **Non-vacuous Generalization Bounds for Deep Neural Networks without any modification to the trained models**, Khoat Than et.al., Paper: [http://arxiv.org/abs/2503.07325v1](http://arxiv.org/abs/2503.07325v1)
+- 2025-03-10, **COMODO: Cross-Modal Video-to-IMU Distillation for Efficient Egocentric Human Activity Recognition**, Baiyu Chen et.al., Paper: [http://arxiv.org/abs/2503.07259v1](http://arxiv.org/abs/2503.07259v1), Code: **[https://github.com/Breezelled/COMODO](https://github.com/Breezelled/COMODO)**
+- 2025-03-10, **Global Context Is All You Need for Parallel Efficient Tractography Parcellation**, Valentin von Bornhaupt et.al., Paper: [http://arxiv.org/abs/2503.07104v1](http://arxiv.org/abs/2503.07104v1)
 - 2025-03-07, **Conformal Prediction for Image Segmentation Using Morphological Prediction Sets**, Luca Mossina et.al., Paper: [http://arxiv.org/abs/2503.05618v1](http://arxiv.org/abs/2503.05618v1)
 - 2025-03-07, **Removing Geometric Bias in One-Class Anomaly Detection with Adaptive Feature Perturbation**, Romain Hermary et.al., Paper: [http://arxiv.org/abs/2503.05520v1](http://arxiv.org/abs/2503.05520v1)
 - 2025-03-07, **Data-Efficient Generalization for Zero-shot Composed Image Retrieval**, Zining Chen et.al., Paper: [http://arxiv.org/abs/2503.05204v1](http://arxiv.org/abs/2503.05204v1)
@@ -4562,10 +4572,20 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250312>back to top</a>)</p>
 
 ## downstream
 
+- 2025-03-10, **TimeStep Master: Asymmetrical Mixture of Timestep LoRA Experts for Versatile and Efficient Diffusion Models in Vision**, Shaobin Zhuang et.al., Paper: [http://arxiv.org/abs/2503.07416v1](http://arxiv.org/abs/2503.07416v1)
+- 2025-03-10, **Keeping Representation Similarity in Finetuning for Medical Image Analysis**, Wenqiang Zu et.al., Paper: [http://arxiv.org/abs/2503.07399v1](http://arxiv.org/abs/2503.07399v1)
+- 2025-03-10, **COMODO: Cross-Modal Video-to-IMU Distillation for Efficient Egocentric Human Activity Recognition**, Baiyu Chen et.al., Paper: [http://arxiv.org/abs/2503.07259v1](http://arxiv.org/abs/2503.07259v1), Code: **[https://github.com/Breezelled/COMODO](https://github.com/Breezelled/COMODO)**
+- 2025-03-10, **A Comprehensive Survey of Mixture-of-Experts: Algorithms, Theory, and Applications**, Siyuan Mu et.al., Paper: [http://arxiv.org/abs/2503.07137v1](http://arxiv.org/abs/2503.07137v1)
+- 2025-03-10, **A Comprehensive Survey on Magnetic Resonance Image Reconstruction**, Xiaoyan Kui et.al., Paper: [http://arxiv.org/abs/2503.07097v1](http://arxiv.org/abs/2503.07097v1)
+- 2025-03-10, **On the Generalization of Representation Uncertainty in Earth Observation**, Spyros Kondylatos et.al., Paper: [http://arxiv.org/abs/2503.07082v1](http://arxiv.org/abs/2503.07082v1)
+- 2025-03-10, **XR-VLM: Cross-Relationship Modeling with Multi-part Prompts and Visual Features for Fine-Grained Recognition**, Chuanming Wang et.al., Paper: [http://arxiv.org/abs/2503.07075v1](http://arxiv.org/abs/2503.07075v1)
+- 2025-03-10, **You Only Debias Once: Towards Flexible Accuracy-Fairness Trade-offs at Inference Time**, Xiaotian Han et.al., Paper: [http://arxiv.org/abs/2503.07066v1](http://arxiv.org/abs/2503.07066v1)
+- 2025-03-10, **Learning a Unified Degradation-aware Representation Model for Multi-modal Image Fusion**, Haolong Ma et.al., Paper: [http://arxiv.org/abs/2503.07033v1](http://arxiv.org/abs/2503.07033v1)
+- 2025-03-10, **Are We Truly Forgetting? A Critical Re-examination of Machine Unlearning Evaluation Protocols**, Yongwoo Kim et.al., Paper: [http://arxiv.org/abs/2503.06991v1](http://arxiv.org/abs/2503.06991v1)
 - 2025-03-07, **D2GV: Deformable 2D Gaussian Splatting for Video Representation in 400FPS**, Mufan Liu et.al., Paper: [http://arxiv.org/abs/2503.05600v1](http://arxiv.org/abs/2503.05600v1)
 - 2025-03-07, **Self-Modeling Robots by Photographing**, Kejun Hu et.al., Paper: [http://arxiv.org/abs/2503.05398v1](http://arxiv.org/abs/2503.05398v1)
 - 2025-03-07, **Pretext Task Adversarial Learning for Unpaired Low-field to Ultra High-field MRI Synthesis**, Zhenxuan Zhang et.al., Paper: [http://arxiv.org/abs/2503.05339v1](http://arxiv.org/abs/2503.05339v1)
@@ -8762,7 +8782,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250312>back to top</a>)</p>
 
 ## adaptor
 
@@ -8931,10 +8951,20 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250312>back to top</a>)</p>
 
 ## object detection
 
+- 2025-03-10, **YOLOE: Real-Time Seeing Anything**, Ao Wang et.al., Paper: [http://arxiv.org/abs/2503.07465v1](http://arxiv.org/abs/2503.07465v1), Code: **[https://github.com/THU-MIG/yoloe](https://github.com/THU-MIG/yoloe)**
+- 2025-03-10, **HGO-YOLO: Advancing Anomaly Behavior Detection with Hierarchical Features and Lightweight Optimized Detection**, Qizhi Zheng et.al., Paper: [http://arxiv.org/abs/2503.07371v1](http://arxiv.org/abs/2503.07371v1)
+- 2025-03-10, **Mitigating Hallucinations in YOLO-based Object Detection Models: A Revisit to Out-of-Distribution Detection**, Weicheng He et.al., Paper: [http://arxiv.org/abs/2503.07330v1](http://arxiv.org/abs/2503.07330v1)
+- 2025-03-10, **Semantic Communications with Computer Vision Sensing for Edge Video Transmission**, Yubo Peng et.al., Paper: [http://arxiv.org/abs/2503.07252v1](http://arxiv.org/abs/2503.07252v1)
+- 2025-03-10, **MIRAM: Masked Image Reconstruction Across Multiple Scales for Breast Lesion Risk Prediction**, Hung Q. Vo et.al., Paper: [http://arxiv.org/abs/2503.07157v1](http://arxiv.org/abs/2503.07157v1)
+- 2025-03-10, **A Light Perspective for 3D Object Detection**, Marcelo Eduardo Pederiva et.al., Paper: [http://arxiv.org/abs/2503.07133v1](http://arxiv.org/abs/2503.07133v1)
+- 2025-03-10, **SimROD: A Simple Baseline for Raw Object Detection with Global and Local Enhancements**, Haiyang Xie et.al., Paper: [http://arxiv.org/abs/2503.07101v1](http://arxiv.org/abs/2503.07101v1)
+- 2025-03-10, **RS2V-L: Vehicle-Mounted LiDAR Data Generation from Roadside Sensor Observations**, Ruidan Xing et.al., Paper: [http://arxiv.org/abs/2503.07085v1](http://arxiv.org/abs/2503.07085v1)
+- 2025-03-10, **Availability-aware Sensor Fusion via Unified Canonical Space for 4D Radar, LiDAR, and Camera**, Dong-Hee Paek et.al., Paper: [http://arxiv.org/abs/2503.07029v1](http://arxiv.org/abs/2503.07029v1)
+- 2025-03-10, **Large Language Model Guided Progressive Feature Alignment for Multimodal UAV Object Detection**, Wentao Wu et.al., Paper: [http://arxiv.org/abs/2503.06948v1](http://arxiv.org/abs/2503.06948v1)
 - 2025-03-06, **Fine-Tuning Florence2 for Enhanced Object Detection in Un-constructed Environments: Vision-Language Model Approach**, Soumyadeep Ro et.al., Paper: [http://arxiv.org/abs/2503.04918v1](http://arxiv.org/abs/2503.04918v1)
 - 2025-03-06, **Floxels: Fast Unsupervised Voxel Based Scene Flow Estimation**, David T. Hoffmann et.al., Paper: [http://arxiv.org/abs/2503.04718v1](http://arxiv.org/abs/2503.04718v1)
 - 2025-03-06, **DEAL-YOLO: Drone-based Efficient Animal Localization using YOLO**, Aditya Prashant Naidu et.al., Paper: [http://arxiv.org/abs/2503.04698v1](http://arxiv.org/abs/2503.04698v1)
@@ -12651,7 +12681,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250312>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
