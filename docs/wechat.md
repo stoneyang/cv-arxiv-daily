@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2025.03.17
+> Updated on 2025.03.18
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,16 @@
 
 ## pretrain
 
+- 2025-03-14, **VGGT: Visual Geometry Grounded Transformer**, Jianyuan Wang et.al., Paper: [http://arxiv.org/abs/2503.11651v1](http://arxiv.org/abs/2503.11651v1)
+- 2025-03-14, **Text Compression for Efficient Language Generation**, David Gu et.al., Paper: [http://arxiv.org/abs/2503.11426v1](http://arxiv.org/abs/2503.11426v1)
+- 2025-03-14, **Empowering Time Series Analysis with Synthetic Data: A Survey and Outlook in the Era of Foundation Models**, Xu Liu et.al., Paper: [http://arxiv.org/abs/2503.11411v1](http://arxiv.org/abs/2503.11411v1)
+- 2025-03-14, **Watch and Learn: Leveraging Expert Knowledge and Language for Surgical Video Understanding**, David Gastager et.al., Paper: [http://arxiv.org/abs/2503.11392v1](http://arxiv.org/abs/2503.11392v1)
+- 2025-03-14, **Self-Supervised Pretraining for Fine-Grained Plankton Recognition**, Joona Kareinen et.al., Paper: [http://arxiv.org/abs/2503.11341v1](http://arxiv.org/abs/2503.11341v1)
+- 2025-03-14, **LLaVA-MLB: Mitigating and Leveraging Attention Bias for Training-Free Video LLMs**, Leqi Shen et.al., Paper: [http://arxiv.org/abs/2503.11205v1](http://arxiv.org/abs/2503.11205v1)
+- 2025-03-14, **Multi-View Industrial Anomaly Detection with Epipolar Constrained Cross-View Fusion**, Yifan Liu et.al., Paper: [http://arxiv.org/abs/2503.11088v1](http://arxiv.org/abs/2503.11088v1)
+- 2025-03-14, **Cyclic Contrastive Knowledge Transfer for Open-Vocabulary Object Detection**, Chuhan Zhang et.al., Paper: [http://arxiv.org/abs/2503.11005v1](http://arxiv.org/abs/2503.11005v1)
+- 2025-03-13, **Safe Continual Domain Adaptation after Sim2Real Transfer of Reinforcement Learning Policies in Robotics**, Josip Josifovski et.al., Paper: [http://arxiv.org/abs/2503.10949v1](http://arxiv.org/abs/2503.10949v1)
+- 2025-03-13, **Multi-Domain Biometric Recognition using Body Embeddings**, Anirudh Nanduri et.al., Paper: [http://arxiv.org/abs/2503.10931v1](http://arxiv.org/abs/2503.10931v1)
 - 2025-03-13, **GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing**, Rongyao Fang et.al., Paper: [http://arxiv.org/abs/2503.10639v1](http://arxiv.org/abs/2503.10639v1), Code: **[https://github.com/rongyaofang/got](https://github.com/rongyaofang/got)**
 - 2025-03-13, **HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model**, Jiaming Liu et.al., Paper: [http://arxiv.org/abs/2503.10631v1](http://arxiv.org/abs/2503.10631v1)
 - 2025-03-13, **CameraCtrl II: Dynamic Scene Exploration via Camera-controlled Video Diffusion Models**, Hao He et.al., Paper: [http://arxiv.org/abs/2503.10592v1](http://arxiv.org/abs/2503.10592v1)
@@ -4602,10 +4612,20 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20250317>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250318>back to top</a>)</p>
 
 ## downstream
 
+- 2025-03-14, **VGGT: Visual Geometry Grounded Transformer**, Jianyuan Wang et.al., Paper: [http://arxiv.org/abs/2503.11651v1](http://arxiv.org/abs/2503.11651v1)
+- 2025-03-14, **Self-Supervised Learning Strategies for Jet Physics**, Patrick Rieck et.al., Paper: [http://arxiv.org/abs/2503.11632v1](http://arxiv.org/abs/2503.11632v1)
+- 2025-03-14, **Pathology Image Compression with Pre-trained Autoencoders**, Srikar Yellapragada et.al., Paper: [http://arxiv.org/abs/2503.11591v1](http://arxiv.org/abs/2503.11591v1)
+- 2025-03-14, **A Framework for a Capability-driven Evaluation of Scenario Understanding for Multimodal Large Language Models in Autonomous Driving**, Tin Stribor Sohn et.al., Paper: [http://arxiv.org/abs/2503.11400v1](http://arxiv.org/abs/2503.11400v1)
+- 2025-03-14, **Watch and Learn: Leveraging Expert Knowledge and Language for Surgical Video Understanding**, David Gastager et.al., Paper: [http://arxiv.org/abs/2503.11392v1](http://arxiv.org/abs/2503.11392v1)
+- 2025-03-14, **PBR3DGen: A VLM-guided Mesh Generation with High-quality PBR Texture**, Xiaokang Wei et.al., Paper: [http://arxiv.org/abs/2503.11368v1](http://arxiv.org/abs/2503.11368v1)
+- 2025-03-14, **Road Rage Reasoning with Vision-language Models (VLMs): Task Definition and Evaluation Dataset**, Yibing Weng et.al., Paper: [http://arxiv.org/abs/2503.11342v1](http://arxiv.org/abs/2503.11342v1)
+- 2025-03-14, **MoLEx: Mixture of Layer Experts for Finetuning with Sparse Upcycling**, Rachel S. Y. Teo et.al., Paper: [http://arxiv.org/abs/2503.11144v1](http://arxiv.org/abs/2503.11144v1)
+- 2025-03-14, **MobiVital: Self-supervised Time-series Quality Estimation for Contactless Respiration Monitoring Using UWB Radar**, Ziqi Wang et.al., Paper: [http://arxiv.org/abs/2503.11064v1](http://arxiv.org/abs/2503.11064v1)
+- 2025-03-14, **Towards Privacy-preserved Pre-training of Remote Sensing Foundation Models with Federated Mutual-guidance Learning**, Jieyi Tan et.al., Paper: [http://arxiv.org/abs/2503.11051v1](http://arxiv.org/abs/2503.11051v1)
 - 2025-03-13, **How Should We Evaluate Uncertainty in Accelerated MRI Reconstruction?**, Luca Trautmann et.al., Paper: [http://arxiv.org/abs/2503.10527v1](http://arxiv.org/abs/2503.10527v1)
 - 2025-03-13, **Representation Learning, Large-Scale 3D Molecular Pretraining, Molecular Property**, Shuqi Lu et.al., Paper: [http://arxiv.org/abs/2503.10489v1](http://arxiv.org/abs/2503.10489v1)
 - 2025-03-13, **Robustness Tokens: Towards Adversarial Robustness of Transformers**, Brian Pulfer et.al., Paper: [http://arxiv.org/abs/2503.10191v1](http://arxiv.org/abs/2503.10191v1), Code: **[https://github.com/brianpulfer/robustness-tokens](https://github.com/brianpulfer/robustness-tokens)**
@@ -8842,7 +8862,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20250317>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250318>back to top</a>)</p>
 
 ## adaptor
 
@@ -9012,11 +9032,18 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20250317>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250318>back to top</a>)</p>
 
 ## object detection
 
-- 2025-03-13, **Semantic-Supervised Spatial-Temporal Fusion for LiDAR-based 3D Object Detection**, Chaoqun Wang et.al., Paper: [http://arxiv.org/abs/2503.10579v1](http://arxiv.org/abs/2503.10579v1)
+- 2025-03-14, **FLASHμ: Fast Localizing And Sizing of Holographic Microparticles**, Ayush Paliwal et.al., Paper: [http://arxiv.org/abs/2503.11538v1](http://arxiv.org/abs/2503.11538v1)
+- 2025-03-14, **Falcon: A Remote Sensing Vision-Language Foundation Model**, Kelu Yao et.al., Paper: [http://arxiv.org/abs/2503.11070v1](http://arxiv.org/abs/2503.11070v1)
+- 2025-03-14, **FMNet: Frequency-Assisted Mamba-Like Linear Attention Network for Camouflaged Object Detection**, Ming Deng et.al., Paper: [http://arxiv.org/abs/2503.11030v1](http://arxiv.org/abs/2503.11030v1)
+- 2025-03-14, **Comparative Analysis of Advanced AI-based Object Detection Models for Pavement Marking Quality Assessment during Daytime**, Gian Antariksa et.al., Paper: [http://arxiv.org/abs/2503.11008v1](http://arxiv.org/abs/2503.11008v1)
+- 2025-03-14, **Cyclic Contrastive Knowledge Transfer for Open-Vocabulary Object Detection**, Chuhan Zhang et.al., Paper: [http://arxiv.org/abs/2503.11005v1](http://arxiv.org/abs/2503.11005v1)
+- 2025-03-13, **The Power of One: A Single Example is All it Takes for Segmentation in VLMs**, Mir Rayat Imtiaz Hossain et.al., Paper: [http://arxiv.org/abs/2503.10779v1](http://arxiv.org/abs/2503.10779v1)
+- 2025-03-13, **HeightFormer: Learning Height Prediction in Voxel Features for Roadside Vision Centric 3D Object Detection via Transformer**, Zhang Zhang et.al., Paper: [http://arxiv.org/abs/2503.10777v1](http://arxiv.org/abs/2503.10777v1)
+- 2025-03-15, **Semantic-Supervised Spatial-Temporal Fusion for LiDAR-based 3D Object Detection**, Chaoqun Wang et.al., Paper: [http://arxiv.org/abs/2503.10579v2](http://arxiv.org/abs/2503.10579v2)
 - 2025-03-13, **RoCo-Sim: Enhancing Roadside Collaborative Perception through Foreground Simulation**, Yuwen Du et.al., Paper: [http://arxiv.org/abs/2503.10410v1](http://arxiv.org/abs/2503.10410v1), Code: **[https://github.com/duyuwen-duen/roco-sim](https://github.com/duyuwen-duen/roco-sim)**
 - 2025-03-13, **RoMA: Scaling up Mamba-based Foundation Models for Remote Sensing**, Fengxiang Wang et.al., Paper: [http://arxiv.org/abs/2503.10392v1](http://arxiv.org/abs/2503.10392v1), Code: **[https://github.com/mililab/roma](https://github.com/mililab/roma)**
 - 2025-03-13, **Object detection characteristics in a learning factory environment using YOLOv8**, Toni Schneidereit et.al., Paper: [http://arxiv.org/abs/2503.10356v1](http://arxiv.org/abs/2503.10356v1)
@@ -12768,7 +12795,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20250317>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250318>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
