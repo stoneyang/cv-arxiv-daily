@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2025.03.20
+> Updated on 2025.03.21
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,16 @@
 
 ## pretrain
 
+- 2025-03-19, **TULIP: Towards Unified Language-Image Pretraining**, Zineng Tang et.al., Paper: [http://arxiv.org/abs/2503.15485v1](http://arxiv.org/abs/2503.15485v1)
+- 2025-03-19, **EgoDTM: Towards 3D-Aware Egocentric Video-Language Pretraining**, Boshen Xu et.al., Paper: [http://arxiv.org/abs/2503.15470v1](http://arxiv.org/abs/2503.15470v1)
+- 2025-03-19, **SkyLadder: Better and Faster Pretraining via Context Window Scheduling**, Tongyao Zhu et.al., Paper: [http://arxiv.org/abs/2503.15450v1](http://arxiv.org/abs/2503.15450v1)
+- 2025-03-19, **SemEval-2025 Task 1: AdMIRe -- Advancing Multimodal Idiomaticity Representation**, Thomas Pickard et.al., Paper: [http://arxiv.org/abs/2503.15358v1](http://arxiv.org/abs/2503.15358v1)
+- 2025-03-19, **Euclid Quick Data Release (Q1). The Strong Lensing Discovery Engine C -- Finding lenses with machine learning**, Euclid Collaboration et.al., Paper: [http://arxiv.org/abs/2503.15326v1](http://arxiv.org/abs/2503.15326v1)
+- 2025-03-19, **A Foundation Model for Patient Behavior Monitoring and Suicide Detection**, Rodrigo Oliver et.al., Paper: [http://arxiv.org/abs/2503.15221v1](http://arxiv.org/abs/2503.15221v1)
+- 2025-03-19, **PointSFDA: Source-free Domain Adaptation for Point Cloud Completion**, Xing He et.al., Paper: [http://arxiv.org/abs/2503.15144v1](http://arxiv.org/abs/2503.15144v1)
+- 2025-03-19, **Object-Centric Pretraining via Target Encoder Bootstrapping**, Nikola Đukić et.al., Paper: [http://arxiv.org/abs/2503.15141v1](http://arxiv.org/abs/2503.15141v1)
+- 2025-03-19, **Low-Complexity Patch-based No-Reference Point Cloud Quality Metric exploiting Weighted Structure and Texture Features**, Michael Neri et.al., Paper: [http://arxiv.org/abs/2503.15001v1](http://arxiv.org/abs/2503.15001v1)
+- 2025-03-19, **GenM$^3$: Generative Pretrained Multi-path Motion Model for Text Conditional Human Motion Generation**, Junyu Shi et.al., Paper: [http://arxiv.org/abs/2503.14919v1](http://arxiv.org/abs/2503.14919v1)
 - 2025-03-18, **Tracking Meets Large Multimodal Models for Driving Scenario Understanding**, Ayesha Ishaq et.al., Paper: [http://arxiv.org/abs/2503.14498v1](http://arxiv.org/abs/2503.14498v1)
 - 2025-03-18, **The KoLMogorov Test: Compression by Code Generation**, Ori Yoran et.al., Paper: [http://arxiv.org/abs/2503.13992v1](http://arxiv.org/abs/2503.13992v1)
 - 2025-03-18, **SoccerSynth Field: enhancing field detection with synthetic data from virtual soccer simulator**, HaoBin Qin et.al., Paper: [http://arxiv.org/abs/2503.13969v1](http://arxiv.org/abs/2503.13969v1)
@@ -4630,11 +4640,20 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20250320>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250321>back to top</a>)</p>
 
 ## downstream
 
-- 2025-03-18, **Splintering Nonconcatenative Languages for Better Tokenization**, Bar Gazit et.al., Paper: [http://arxiv.org/abs/2503.14433v1](http://arxiv.org/abs/2503.14433v1)
+- 2025-03-19, **EgoDTM: Towards 3D-Aware Egocentric Video-Language Pretraining**, Boshen Xu et.al., Paper: [http://arxiv.org/abs/2503.15470v1](http://arxiv.org/abs/2503.15470v1)
+- 2025-03-19, **Visual Persona: Foundation Model for Full-Body Human Customization**, Jisu Nam et.al., Paper: [http://arxiv.org/abs/2503.15406v1](http://arxiv.org/abs/2503.15406v1)
+- 2025-03-19, **Model Hubs and Beyond: Analyzing Model Popularity, Performance, and Documentation**, Pritam Kadasi et.al., Paper: [http://arxiv.org/abs/2503.15222v1](http://arxiv.org/abs/2503.15222v1), Code: **[https://github.com/pskadasi/model-hubs](https://github.com/pskadasi/model-hubs)**
+- 2025-03-19, **A Foundation Model for Patient Behavior Monitoring and Suicide Detection**, Rodrigo Oliver et.al., Paper: [http://arxiv.org/abs/2503.15221v1](http://arxiv.org/abs/2503.15221v1)
+- 2025-03-19, **When the Future Becomes the Past: Taming Temporal Correspondence for Self-supervised Video Representation Learning**, Yang Liu et.al., Paper: [http://arxiv.org/abs/2503.15096v1](http://arxiv.org/abs/2503.15096v1)
+- 2025-03-19, **TGV: Tabular Data-Guided Learning of Visual Cardiac Representations**, Marta Hasny et.al., Paper: [http://arxiv.org/abs/2503.14998v1](http://arxiv.org/abs/2503.14998v1)
+- 2025-03-19, **Prada: Black-Box LLM Adaptation with Private Data on Resource-Constrained Devices**, Ziyao Wang et.al., Paper: [http://arxiv.org/abs/2503.14932v1](http://arxiv.org/abs/2503.14932v1)
+- 2025-03-19, **On the Robustness Tradeoff in Fine-Tuning**, Kunyang Li et.al., Paper: [http://arxiv.org/abs/2503.14836v1](http://arxiv.org/abs/2503.14836v1)
+- 2025-03-18, **These Magic Moments: Differentiable Uncertainty Quantification of Radiance Field Models**, Parker Ewen et.al., Paper: [http://arxiv.org/abs/2503.14665v1](http://arxiv.org/abs/2503.14665v1)
+- 2025-03-18, **Splintering Nonconcatenative Languages for Better Tokenization**, Bar Gazit et.al., Paper: [http://arxiv.org/abs/2503.14433v1](http://arxiv.org/abs/2503.14433v1), Code: **[https://github.com/melelbgu/splintering](https://github.com/melelbgu/splintering)**
 - 2025-03-18, **Make Your Training Flexible: Towards Deployment-Efficient Video Models**, Chenting Wang et.al., Paper: [http://arxiv.org/abs/2503.14237v1](http://arxiv.org/abs/2503.14237v1)
 - 2025-03-18, **Multi-Modal Self-Supervised Semantic Communication**, Hang Zhao et.al., Paper: [http://arxiv.org/abs/2503.13940v1](http://arxiv.org/abs/2503.13940v1)
 - 2025-03-18, **Less is More: Improving Motion Diffusion Models with Sparse Keyframes**, Jinseok Bae et.al., Paper: [http://arxiv.org/abs/2503.13859v1](http://arxiv.org/abs/2503.13859v1)
@@ -8896,7 +8915,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20250320>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250321>back to top</a>)</p>
 
 ## adaptor
 
@@ -9068,14 +9087,20 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20250320>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250321>back to top</a>)</p>
 
 ## object detection
 
-- 2025-03-18, **State Space Model Meets Transformer: A New Paradigm for 3D Object Detection**, Chuxin Wang et.al., Paper: [http://arxiv.org/abs/2503.14493v1](http://arxiv.org/abs/2503.14493v1)
+- 2025-03-19, **DCA: Dividing and Conquering Amnesia in Incremental Object Detection**, Aoting Zhang et.al., Paper: [http://arxiv.org/abs/2503.15295v1](http://arxiv.org/abs/2503.15295v1)
+- 2025-03-19, **Test-Time Backdoor Detection for Object Detection Models**, Hangtao Zhang et.al., Paper: [http://arxiv.org/abs/2503.15293v1](http://arxiv.org/abs/2503.15293v1)
+- 2025-03-19, **GO-N3RDet: Geometry Optimized NeRF-enhanced 3D Object Detector**, Zechuan Li et.al., Paper: [http://arxiv.org/abs/2503.15211v1](http://arxiv.org/abs/2503.15211v1)
+- 2025-03-19, **UltraFlwr -- An Efficient Federated Medical and Surgical Object Detection Framework**, Yang Li et.al., Paper: [http://arxiv.org/abs/2503.15161v1](http://arxiv.org/abs/2503.15161v1)
+- 2025-03-19, **An Investigation of Beam Density on LiDAR Object Detection Performance**, Christoph Griesbacher et.al., Paper: [http://arxiv.org/abs/2503.15087v1](http://arxiv.org/abs/2503.15087v1)
+- 2025-03-20, **Fine-Grained Open-Vocabulary Object Detection with Fined-Grained Prompts: Task, Dataset and Benchmark**, Ying Liu et.al., Paper: [http://arxiv.org/abs/2503.14862v2](http://arxiv.org/abs/2503.14862v2)
+- 2025-03-19, **State Space Model Meets Transformer: A New Paradigm for 3D Object Detection**, Chuxin Wang et.al., Paper: [http://arxiv.org/abs/2503.14493v2](http://arxiv.org/abs/2503.14493v2)
 - 2025-03-18, **A Revisit to the Decoder for Camouflaged Object Detection**, Seung Woo Ko et.al., Paper: [http://arxiv.org/abs/2503.14035v1](http://arxiv.org/abs/2503.14035v1)
 - 2025-03-18, **Shift, Scale and Rotation Invariant Multiple Object Detection using Balanced Joint Transform Correlator**, Xi Shen et.al., Paper: [http://arxiv.org/abs/2503.14034v1](http://arxiv.org/abs/2503.14034v1)
-- 2025-03-18, **LEGNet: Lightweight Edge-Gaussian Driven Network for Low-Quality Remote Sensing Image Object Detection**, Wei Lu et.al., Paper: [http://arxiv.org/abs/2503.14012v1](http://arxiv.org/abs/2503.14012v1)
+- 2025-03-18, **LEGNet: Lightweight Edge-Gaussian Driven Network for Low-Quality Remote Sensing Image Object Detection**, Wei Lu et.al., Paper: [http://arxiv.org/abs/2503.14012v1](http://arxiv.org/abs/2503.14012v1), Code: **[https://github.com/lwcver/legnet](https://github.com/lwcver/legnet)**
 - 2025-03-18, **FrustumFusionNets: A Three-Dimensional Object Detection Network Based on Tractor Road Scene**, Lili Yang et.al., Paper: [http://arxiv.org/abs/2503.13951v1](http://arxiv.org/abs/2503.13951v1)
 - 2025-03-18, **Is Discretization Fusion All You Need for Collaborative Perception?**, Kang Yang et.al., Paper: [http://arxiv.org/abs/2503.13946v1](http://arxiv.org/abs/2503.13946v1)
 - 2025-03-18, **PSA-SSL: Pose and Size-aware Self-Supervised Learning on LiDAR Point Clouds**, Barza Nisar et.al., Paper: [http://arxiv.org/abs/2503.13914v1](http://arxiv.org/abs/2503.13914v1)
@@ -12851,7 +12876,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20250320>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250321>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
