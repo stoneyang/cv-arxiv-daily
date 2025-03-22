@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2025.03.21
+> Updated on 2025.03.22
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,15 @@
 
 ## pretrain
 
+- 2025-03-20, **InfiniteYou: Flexible Photo Recrafting While Preserving Your Identity**, Liming Jiang et.al., Paper: [http://arxiv.org/abs/2503.16418v1](http://arxiv.org/abs/2503.16418v1)
+- 2025-03-20, **JARVIS-VLA: Post-Training Large-Scale Vision Language Models to Play Visual Games with Keyboards and Mouse**, Muyao Li et.al., Paper: [http://arxiv.org/abs/2503.16365v1](http://arxiv.org/abs/2503.16365v1)
+- 2025-03-20, **Logic Explanation of AI Classifiers by Categorical Explaining Functors**, Stefano Fioravanti et.al., Paper: [http://arxiv.org/abs/2503.16203v1](http://arxiv.org/abs/2503.16203v1)
+- 2025-03-20, **Probabilistic Prompt Distribution Learning for Animal Pose Estimation**, Jiyong Rao et.al., Paper: [http://arxiv.org/abs/2503.16120v1](http://arxiv.org/abs/2503.16120v1)
+- 2025-03-20, **PoseTraj: Pose-Aware Trajectory Control in Video Diffusion**, Longbin Ji et.al., Paper: [http://arxiv.org/abs/2503.16068v1](http://arxiv.org/abs/2503.16068v1)
+- 2025-03-20, **Video-VoT-R1: An efficient video inference model integrating image packing and AoE architecture**, Cheng Li et.al., Paper: [http://arxiv.org/abs/2503.15807v1](http://arxiv.org/abs/2503.15807v1)
+- 2025-03-19, **The Change You Want To Detect: Semantic Change Detection In Earth Observation With Hybrid Data Generation**, Benidir Yanis et.al., Paper: [http://arxiv.org/abs/2503.15683v1](http://arxiv.org/abs/2503.15683v1)
+- 2025-03-19, **A Context-Driven Training-Free Network for Lightweight Scene Text Segmentation and Recognition**, Ritabrata Chakraborty et.al., Paper: [http://arxiv.org/abs/2503.15639v1](http://arxiv.org/abs/2503.15639v1)
+- 2025-03-19, **Vision-Speech Models: Teaching Speech Models to Converse about Images**, Amélie Royer et.al., Paper: [http://arxiv.org/abs/2503.15633v1](http://arxiv.org/abs/2503.15633v1)
 - 2025-03-19, **TULIP: Towards Unified Language-Image Pretraining**, Zineng Tang et.al., Paper: [http://arxiv.org/abs/2503.15485v1](http://arxiv.org/abs/2503.15485v1)
 - 2025-03-19, **EgoDTM: Towards 3D-Aware Egocentric Video-Language Pretraining**, Boshen Xu et.al., Paper: [http://arxiv.org/abs/2503.15470v1](http://arxiv.org/abs/2503.15470v1)
 - 2025-03-19, **SkyLadder: Better and Faster Pretraining via Context Window Scheduling**, Tongyao Zhu et.al., Paper: [http://arxiv.org/abs/2503.15450v1](http://arxiv.org/abs/2503.15450v1)
@@ -4640,10 +4649,19 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20250321>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250322>back to top</a>)</p>
 
 ## downstream
 
+- 2025-03-20, **DynamicVis: An Efficient and General Visual Foundation Model for Remote Sensing Image Understanding**, Keyan Chen et.al., Paper: [http://arxiv.org/abs/2503.16426v1](http://arxiv.org/abs/2503.16426v1), Code: **[https://github.com/KyanChen/DynamicVis](https://github.com/KyanChen/DynamicVis)**
+- 2025-03-20, **GAEA: A Geolocation Aware Conversational Model**, Ron Campos et.al., Paper: [http://arxiv.org/abs/2503.16423v1](http://arxiv.org/abs/2503.16423v1)
+- 2025-03-20, **M3: 3D-Spatial MultiModal Memory**, Xueyan Zou et.al., Paper: [http://arxiv.org/abs/2503.16413v1](http://arxiv.org/abs/2503.16413v1)
+- 2025-03-20, **Near-Linear Runtime for a Classical Matrix Preconditioning Algorithm**, Xufeng Cai et.al., Paper: [http://arxiv.org/abs/2503.16312v1](http://arxiv.org/abs/2503.16312v1)
+- 2025-03-20, **From Monocular Vision to Autonomous Action: Guiding Tumor Resection via 3D Reconstruction**, Ayberk Acar et.al., Paper: [http://arxiv.org/abs/2503.16263v1](http://arxiv.org/abs/2503.16263v1)
+- 2025-03-20, **VP-NTK: Exploring the Benefits of Visual Prompting in Differentially Private Data Synthesis**, Chia-Yi Hsu et.al., Paper: [http://arxiv.org/abs/2503.16195v1](http://arxiv.org/abs/2503.16195v1)
+- 2025-03-20, **Meta-Learning Neural Mechanisms rather than Bayesian Priors**, Michael Goodale et.al., Paper: [http://arxiv.org/abs/2503.16048v1](http://arxiv.org/abs/2503.16048v1)
+- 2025-03-20, **Disentangling Uncertainties by Learning Compressed Data Representation**, Zhiyu An et.al., Paper: [http://arxiv.org/abs/2503.15801v1](http://arxiv.org/abs/2503.15801v1)
+- 2025-03-20, **UAS Visual Navigation in Large and Unseen Environments via a Meta Agent**, Yuci Han et.al., Paper: [http://arxiv.org/abs/2503.15781v1](http://arxiv.org/abs/2503.15781v1)
 - 2025-03-19, **EgoDTM: Towards 3D-Aware Egocentric Video-Language Pretraining**, Boshen Xu et.al., Paper: [http://arxiv.org/abs/2503.15470v1](http://arxiv.org/abs/2503.15470v1)
 - 2025-03-19, **Visual Persona: Foundation Model for Full-Body Human Customization**, Jisu Nam et.al., Paper: [http://arxiv.org/abs/2503.15406v1](http://arxiv.org/abs/2503.15406v1)
 - 2025-03-19, **Model Hubs and Beyond: Analyzing Model Popularity, Performance, and Documentation**, Pritam Kadasi et.al., Paper: [http://arxiv.org/abs/2503.15222v1](http://arxiv.org/abs/2503.15222v1), Code: **[https://github.com/pskadasi/model-hubs](https://github.com/pskadasi/model-hubs)**
@@ -8915,7 +8933,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20250321>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250322>back to top</a>)</p>
 
 ## adaptor
 
@@ -9087,10 +9105,14 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20250321>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250322>back to top</a>)</p>
 
 ## object detection
 
+- 2025-03-20, **RESFL: An Uncertainty-Aware Framework for Responsible Federated Learning by Balancing Privacy, Fairness and Utility in Autonomous Vehicles**, Dawood Wasif et.al., Paper: [http://arxiv.org/abs/2503.16251v1](http://arxiv.org/abs/2503.16251v1)
+- 2025-03-20, **MapGlue: Multimodal Remote Sensing Image Matching**, Peihao Wu et.al., Paper: [http://arxiv.org/abs/2503.16185v1](http://arxiv.org/abs/2503.16185v1)
+- 2025-03-20, **Uncertainty Meets Diversity: A Comprehensive Active Learning Framework for Indoor 3D Object Detection**, Jiangyi Wang et.al., Paper: [http://arxiv.org/abs/2503.16125v1](http://arxiv.org/abs/2503.16125v1)
+- 2025-03-20, **Semantic-Guided Global-Local Collaborative Networks for Lightweight Image Super-Resolution**, Wanshu Fan et.al., Paper: [http://arxiv.org/abs/2503.16056v1](http://arxiv.org/abs/2503.16056v1)
 - 2025-03-19, **DCA: Dividing and Conquering Amnesia in Incremental Object Detection**, Aoting Zhang et.al., Paper: [http://arxiv.org/abs/2503.15295v1](http://arxiv.org/abs/2503.15295v1)
 - 2025-03-19, **Test-Time Backdoor Detection for Object Detection Models**, Hangtao Zhang et.al., Paper: [http://arxiv.org/abs/2503.15293v1](http://arxiv.org/abs/2503.15293v1)
 - 2025-03-19, **GO-N3RDet: Geometry Optimized NeRF-enhanced 3D Object Detector**, Zechuan Li et.al., Paper: [http://arxiv.org/abs/2503.15211v1](http://arxiv.org/abs/2503.15211v1)
@@ -12876,7 +12898,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20250321>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250322>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
