@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.26
+## Updated on 2025.03.27
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-25**|**SuperFlow++: Enhanced Spatiotemporal Consistency for Cross-Modal Data Pretraining**|Xiang Xu et.al.|[2503.19912v1](http://arxiv.org/abs/2503.19912v1)|null|
+|**2025-03-25**|**SeLIP: Similarity Enhanced Contrastive Language Image Pretraining for Multi-modal Head MRI**|Zhiyang Liu et.al.|[2503.19801v1](http://arxiv.org/abs/2503.19801v1)|null|
+|**2025-03-25**|**Surg-3M: A Dataset and Foundation Model for Perception in Surgical Settings**|Chengan Che et.al.|[2503.19740v1](http://arxiv.org/abs/2503.19740v1)|null|
+|**2025-03-25**|**OpenSDI: Spotting Diffusion-Generated Images in the Open World**|Yabin Wang et.al.|[2503.19653v1](http://arxiv.org/abs/2503.19653v1)|null|
+|**2025-03-25**|**Analyzable Chain-of-Musical-Thought Prompting for High-Fidelity Music Generation**|Max W. Y. Lam et.al.|[2503.19611v1](http://arxiv.org/abs/2503.19611v1)|null|
+|**2025-03-25**|**Single-Step Latent Consistency Model for Remote Sensing Image Super-Resolution**|Xiaohui Sun et.al.|[2503.19505v1](http://arxiv.org/abs/2503.19505v1)|null|
+|**2025-03-25**|**Enhancing Small Language Models for Cross-Lingual Generalized Zero-Shot Classification with Soft Prompt Tuning**|Fred Philippy et.al.|[2503.19469v1](http://arxiv.org/abs/2503.19469v1)|null|
+|**2025-03-25**|**AccVideo: Accelerating Video Diffusion Model with Synthetic Dataset**|Haiyu Zhang et.al.|[2503.19462v1](http://arxiv.org/abs/2503.19462v1)|null|
+|**2025-03-25**|**Towards Robust Time-of-Flight Depth Denoising with Confidence-Aware Diffusion Model**|Changyong He et.al.|[2503.19448v1](http://arxiv.org/abs/2503.19448v1)|null|
+|**2025-03-26**|**LangBridge: Interpreting Image as a Combination of Language Embeddings**|Jiaqi Liao et.al.|[2503.19404v2](http://arxiv.org/abs/2503.19404v2)|null|
 |**2025-03-24**|**Target-Aware Video Diffusion Models**|Taeksoo Kim et.al.|[2503.18950v1](http://arxiv.org/abs/2503.18950v1)|null|
 |**2025-03-24**|**Tuning-Free Amodal Segmentation via the Occlusion-Free Bias of Inpainting Models**|Jae Joong Lee et.al.|[2503.18947v1](http://arxiv.org/abs/2503.18947v1)|null|
 |**2025-03-24**|**DINO in the Room: Leveraging 2D Foundation Models for 3D Segmentation**|Karim Abou Zeid et.al.|[2503.18944v1](http://arxiv.org/abs/2503.18944v1)|**[link](https://github.com/VisualComputingInstitute/DITR)**|
@@ -4670,12 +4680,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250326>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250327>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-25**|**SuperFlow++: Enhanced Spatiotemporal Consistency for Cross-Modal Data Pretraining**|Xiang Xu et.al.|[2503.19912v1](http://arxiv.org/abs/2503.19912v1)|null|
+|**2025-03-25**|**SeLIP: Similarity Enhanced Contrastive Language Image Pretraining for Multi-modal Head MRI**|Zhiyang Liu et.al.|[2503.19801v1](http://arxiv.org/abs/2503.19801v1)|null|
+|**2025-03-25**|**Unpaired Object-Level SAR-to-Optical Image Translation for Aircraft with Keypoints-Guided Diffusion Models**|Ruixi You et.al.|[2503.19798v1](http://arxiv.org/abs/2503.19798v1)|null|
+|**2025-03-25**|**PAVE: Patching and Adapting Video Large Language Models**|Zhuoming Liu et.al.|[2503.19794v1](http://arxiv.org/abs/2503.19794v1)|null|
+|**2025-03-25**|**Surg-3M: A Dataset and Foundation Model for Perception in Surgical Settings**|Chengan Che et.al.|[2503.19740v1](http://arxiv.org/abs/2503.19740v1)|null|
+|**2025-03-25**|**Improved Alignment of Modalities in Large Vision Language Models**|Kartik Jangra et.al.|[2503.19508v1](http://arxiv.org/abs/2503.19508v1)|null|
+|**2025-03-25**|**A-MESS: Anchor based Multimodal Embedding with Semantic Synchronization for Multimodal Intent Recognition**|Yaomin Shen et.al.|[2503.19474v1](http://arxiv.org/abs/2503.19474v1)|null|
+|**2025-03-25**|**Divide-and-Conquer: Dual-Hierarchical Optimization for Semantic 4D Gaussian Spatting**|Zhiying Yan et.al.|[2503.19332v1](http://arxiv.org/abs/2503.19332v1)|null|
+|**2025-03-25**|**A Social Dynamical System for Twitter Analysis**|Zhiping Xiao et.al.|[2503.19316v1](http://arxiv.org/abs/2503.19316v1)|null|
+|**2025-03-24**|**Reconstructing hadronically decaying tau leptons with a jet foundation model**|Laurits Tani et.al.|[2503.19165v1](http://arxiv.org/abs/2503.19165v1)|null|
 |**2025-03-24**|**CoMP: Continual Multimodal Pre-training for Vision Foundation Models**|Yitong Chen et.al.|[2503.18931v1](http://arxiv.org/abs/2503.18931v1)|**[link](https://github.com/SliMM-X/CoMP-MM)**|
 |**2025-03-24**|**Self-Supervised Learning based on Transformed Image Reconstruction for Equivariance-Coherent Feature Representation**|Qin Wang et.al.|[2503.18753v1](http://arxiv.org/abs/2503.18753v1)|null|
 |**2025-03-24**|**Revisiting Automatic Data Curation for Vision Foundation Models in Digital Pathology**|Boqi Chen et.al.|[2503.18709v1](http://arxiv.org/abs/2503.18709v1)|null|
@@ -8974,7 +8994,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20250326>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250327>back to top</a>)</p>
 
 ## adaptor
 
@@ -9149,12 +9169,21 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250326>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250327>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-25**|**Resilient Sensor Fusion under Adverse Sensor Failures via Multi-Modal Expert Fusion**|Konyul Park et.al.|[2503.19776v1](http://arxiv.org/abs/2503.19776v1)|null|
+|**2025-03-25**|**Mind the Gap: Benchmarking Spatial Reasoning in Vision-Language Models**|Ilias Stogiannidis et.al.|[2503.19707v1](http://arxiv.org/abs/2503.19707v1)|null|
+|**2025-03-25**|**BiblioPage: A Dataset of Scanned Title Pages for Bibliographic Metadata Extraction**|Jan Kohút et.al.|[2503.19658v1](http://arxiv.org/abs/2503.19658v1)|null|
+|**2025-03-25**|**Single Shot AI-assisted quantification of KI-67 proliferation index in breast cancer**|Deepti Madurai Muthu et.al.|[2503.19606v1](http://arxiv.org/abs/2503.19606v1)|null|
+|**2025-03-25**|**MATT-GS: Masked Attention-based 3DGS for Robot Perception and Object Detection**|Jee Won Lee et.al.|[2503.19330v1](http://arxiv.org/abs/2503.19330v1)|null|
+|**2025-03-25**|**Multiscale Feature Importance-based Bit Allocation for End-to-End Feature Coding for Machines**|Junle Liu et.al.|[2503.19278v1](http://arxiv.org/abs/2503.19278v1)|null|
+|**2025-03-24**|**Benchmarking Object Detectors under Real-World Distribution Shifts in Satellite Imagery**|Sara Al-Emadi et.al.|[2503.19202v1](http://arxiv.org/abs/2503.19202v1)|null|
+|**2025-03-24**|**Pitch Contour Exploration Across Audio Domains: A Vision-Based Transfer Learning Approach**|Jakob Abeßer et.al.|[2503.19161v1](http://arxiv.org/abs/2503.19161v1)|null|
+|**2025-03-24**|**Cooperative Control of Multi-Quadrotors for Transporting Cable-Suspended Payloads: Obstacle-Aware Planning and Event-Based Nonlinear Model Predictive Control**|Tohid Kargar Tasooji et.al.|[2503.19135v1](http://arxiv.org/abs/2503.19135v1)|null|
 |**2025-03-24**|**Building Blocks for Robust and Effective Semi-Supervised Real-World Object Detection**|Moussa Kassem Sbeyti et.al.|[2503.18903v1](http://arxiv.org/abs/2503.18903v1)|null|
 |**2025-03-24**|**LGI-DETR: Local-Global Interaction for UAV Object Detection**|Zifa Chen et.al.|[2503.18785v1](http://arxiv.org/abs/2503.18785v1)|null|
 |**2025-03-25**|**Frequency Dynamic Convolution for Dense Image Prediction**|Linwei Chen et.al.|[2503.18783v2](http://arxiv.org/abs/2503.18783v2)|null|
@@ -12964,7 +12993,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20250326>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250327>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
