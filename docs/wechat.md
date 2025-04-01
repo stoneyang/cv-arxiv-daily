@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2025.03.31
+> Updated on 2025.04.01
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,16 @@
 
 ## pretrain
 
+- 2025-03-28, **Unicorn: Text-Only Data Synthesis for Vision Language Model Training**, Xiaomin Yu et.al., Paper: [http://arxiv.org/abs/2503.22655v1](http://arxiv.org/abs/2503.22655v1), Code: **[https://github.com/yu-xm/unicorn](https://github.com/yu-xm/unicorn)**
+- 2025-03-28, **Instance-Level Data-Use Auditing of Visual ML Models**, Zonghao Huang et.al., Paper: [http://arxiv.org/abs/2503.22413v1](http://arxiv.org/abs/2503.22413v1)
+- 2025-03-28, **CFiCS: Graph-Based Classification of Common Factors and Microcounseling Skills**, Fabian Schmidt et.al., Paper: [http://arxiv.org/abs/2503.22277v1](http://arxiv.org/abs/2503.22277v1), Code: **[https://github.com/smidtfab/CFiCS](https://github.com/smidtfab/CFiCS)**
+- 2025-03-28, **Make Some Noise: Towards LLM audio reasoning and generation using sound tokens**, Shivam Mehta et.al., Paper: [http://arxiv.org/abs/2503.22275v1](http://arxiv.org/abs/2503.22275v1)
+- 2025-03-28, **FLIP: Towards Comprehensive and Reliable Evaluation of Federated Prompt Learning**, Dongping Liao et.al., Paper: [http://arxiv.org/abs/2503.22263v1](http://arxiv.org/abs/2503.22263v1), Code: **[https://github.com/0-ml/flip](https://github.com/0-ml/flip)**
+- 2025-03-28, **Mono2Stereo: A Benchmark and Empirical Study for Stereo Conversion**, Songsong Yu et.al., Paper: [http://arxiv.org/abs/2503.22262v1](http://arxiv.org/abs/2503.22262v1)
+- 2025-03-28, **Efficient Building Roof Type Classification: A Domain-Specific Self-Supervised Approach**, Guneet Mutreja et.al., Paper: [http://arxiv.org/abs/2503.22251v1](http://arxiv.org/abs/2503.22251v1)
+- 2025-03-28, **SCHNet: SAM Marries CLIP for Human Parsing**, Kunliang Liu et.al., Paper: [http://arxiv.org/abs/2503.22237v1](http://arxiv.org/abs/2503.22237v1)
+- 2025-03-28, **CoGen: 3D Consistent Video Generation via Adaptive Conditioning for Autonomous Driving**, Yishen Ji et.al., Paper: [http://arxiv.org/abs/2503.22231v1](http://arxiv.org/abs/2503.22231v1)
+- 2025-03-28, **Hyperspectral Adapter for Object Tracking based on Hyperspectral Video**, Long Gao et.al., Paper: [http://arxiv.org/abs/2503.22199v1](http://arxiv.org/abs/2503.22199v1)
 - 2025-03-27, **Uni4D: Unifying Visual Foundation Models for 4D Modeling from a Single Video**, David Yifan Yao et.al., Paper: [http://arxiv.org/abs/2503.21761v1](http://arxiv.org/abs/2503.21761v1)
 - 2025-03-27, **Molecular Quantum Transformer**, Yuichi Kamata et.al., Paper: [http://arxiv.org/abs/2503.21686v1](http://arxiv.org/abs/2503.21686v1)
 - 2025-03-27, **A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond**, Xiaoye Qu et.al., Paper: [http://arxiv.org/abs/2503.21614v1](http://arxiv.org/abs/2503.21614v1)
@@ -4697,14 +4707,20 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20250331>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250401>back to top</a>)</p>
 
 ## downstream
 
+- 2025-03-28, **Q-Insight: Understanding Image Quality via Visual Reinforcement Learning**, Weiqi Li et.al., Paper: [http://arxiv.org/abs/2503.22679v1](http://arxiv.org/abs/2503.22679v1), Code: **[https://github.com/lwq20020127/q-insight](https://github.com/lwq20020127/q-insight)**
+- 2025-03-28, **A Centralized Planning and Distributed Execution Method for Shape Filling with Homogeneous Mobile Robots**, Shuqing Liu et.al., Paper: [http://arxiv.org/abs/2503.22522v1](http://arxiv.org/abs/2503.22522v1)
+- 2025-03-28, **GAITGen: Disentangled Motion-Pathology Impaired Gait Generative Model -- Bringing Motion Generation to the Clinical Domain**, Vida Adeli et.al., Paper: [http://arxiv.org/abs/2503.22397v1](http://arxiv.org/abs/2503.22397v1)
+- 2025-03-28, **A Refined Analysis of Massive Activations in LLMs**, Louis Owen et.al., Paper: [http://arxiv.org/abs/2503.22329v1](http://arxiv.org/abs/2503.22329v1), Code: **[https://github.com/bluorion-com/refine_massive_activations](https://github.com/bluorion-com/refine_massive_activations)**
+- 2025-03-28, **A Self-Supervised Learning of a Foundation Model for Analog Layout Design Automation**, Sungyu Jeong et.al., Paper: [http://arxiv.org/abs/2503.22143v1](http://arxiv.org/abs/2503.22143v1)
+- 2025-03-28, **Multi-Task Semantic Communications via Large Models**, Wanli Ni et.al., Paper: [http://arxiv.org/abs/2503.22064v1](http://arxiv.org/abs/2503.22064v1)
 - 2025-03-27, **Embedding Compression Distortion in Video Coding for Machines**, Yuxiao Sun et.al., Paper: [http://arxiv.org/abs/2503.21469v1](http://arxiv.org/abs/2503.21469v1)
-- 2025-03-27, **AdvSGM: Differentially Private Graph Learning via Adversarial Skip-gram Model**, Sen Zhang et.al., Paper: [http://arxiv.org/abs/2503.21426v1](http://arxiv.org/abs/2503.21426v1)
+- 2025-03-27, **AdvSGM: Differentially Private Graph Learning via Adversarial Skip-gram Model**, Sen Zhang et.al., Paper: [http://arxiv.org/abs/2503.21426v1](http://arxiv.org/abs/2503.21426v1), Code: **[https://github.com/sunnerzs/AdvSGM](https://github.com/sunnerzs/AdvSGM)**
 - 2025-03-27, **Federated Intelligence: When Large AI Models Meet Federated Fine-Tuning and Collaborative Reasoning at the Network Edge**, Wanli Ni et.al., Paper: [http://arxiv.org/abs/2503.21412v1](http://arxiv.org/abs/2503.21412v1)
-- 2025-03-27, **Controlling Large Language Model with Latent Actions**, Chengxing Jia et.al., Paper: [http://arxiv.org/abs/2503.21383v1](http://arxiv.org/abs/2503.21383v1)
+- 2025-03-27, **Controlling Large Language Model with Latent Actions**, Chengxing Jia et.al., Paper: [http://arxiv.org/abs/2503.21383v1](http://arxiv.org/abs/2503.21383v1), Code: **[https://github.com/LAMDA-RL/CoLA](https://github.com/LAMDA-RL/CoLA)**
 - 2025-03-27, **DGSUnet: An Improved Unet Model with DINO-Guided SAM2 for Multi-Scale Feature Collaboration**, Yimin Xu et.al., Paper: [http://arxiv.org/abs/2503.21187v1](http://arxiv.org/abs/2503.21187v1), Code: **[https://github.com/cheneyxuyimin/sam2dino-seg](https://github.com/cheneyxuyimin/sam2dino-seg)**
 - 2025-03-27, **Unveiling the Potential of Superexpressive Networks in Implicit Neural Representations**, Uvini Balasuriya Mudiyanselage et.al., Paper: [http://arxiv.org/abs/2503.21166v1](http://arxiv.org/abs/2503.21166v1)
 - 2025-03-26, **Data Mixture Optimization: A Multi-fidelity Multi-scale Bayesian Framework**, Thomson Yen et.al., Paper: [http://arxiv.org/abs/2503.21023v1](http://arxiv.org/abs/2503.21023v1)
@@ -9024,7 +9040,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20250331>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250401>back to top</a>)</p>
 
 ## adaptor
 
@@ -9197,10 +9213,20 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20250331>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250401>back to top</a>)</p>
 
 ## object detection
 
+- 2025-03-28, **AnnoPage Dataset: Dataset of Non-Textual Elements in Documents with Fine-Grained Categorization**, Martin Kišš et.al., Paper: [http://arxiv.org/abs/2503.22526v1](http://arxiv.org/abs/2503.22526v1)
+- 2025-03-28, **Data Quality Matters: Quantifying Image Quality Impact on Machine Learning Performance**, Christian Steinhauser et.al., Paper: [http://arxiv.org/abs/2503.22375v1](http://arxiv.org/abs/2503.22375v1)
+- 2025-03-28, **ForcePose: A Deep Learning Approach for Force Calculation Based on Action Recognition Using MediaPipe Pose Estimation Combined with Object Detection**, Nandakishor M et.al., Paper: [http://arxiv.org/abs/2503.22363v1](http://arxiv.org/abs/2503.22363v1)
+- 2025-03-28, **VisTa: Visual-contextual and Text-augmented Zero-shot Object-level OOD Detection**, Bin Zhang et.al., Paper: [http://arxiv.org/abs/2503.22291v1](http://arxiv.org/abs/2503.22291v1)
+- 2025-03-28, **RUNA: Object-level Out-of-Distribution Detection via Regional Uncertainty Alignment of Multimodal Representations**, Bin Zhang et.al., Paper: [http://arxiv.org/abs/2503.22285v1](http://arxiv.org/abs/2503.22285v1)
+- 2025-03-28, **Knowledge Rectification for Camouflaged Object Detection: Unlocking Insights from Low-Quality Data**, Juwei Guan et.al., Paper: [http://arxiv.org/abs/2503.22180v1](http://arxiv.org/abs/2503.22180v1)
+- 2025-03-28, **A Survey on Remote Sensing Foundation Models: From Vision to Multimodality**, Ziyue Huang et.al., Paper: [http://arxiv.org/abs/2503.22081v1](http://arxiv.org/abs/2503.22081v1)
+- 2025-03-27, **AGILE: A Diffusion-Based Attention-Guided Image and Label Translation for Efficient Cross-Domain Plant Trait Identification**, Earl Ranario et.al., Paper: [http://arxiv.org/abs/2503.22019v1](http://arxiv.org/abs/2503.22019v1)
+- 2025-03-27, **FACETS: Efficient Once-for-all Object Detection via Constrained Iterative Search**, Tony Tran et.al., Paper: [http://arxiv.org/abs/2503.21999v1](http://arxiv.org/abs/2503.21999v1)
+- 2025-03-27, **Exponentially Weighted Instance-Aware Repeat Factor Sampling for Long-Tailed Object Detection Model Training in Unmanned Aerial Vehicles Surveillance Scenarios**, Taufiq Ahmed et.al., Paper: [http://arxiv.org/abs/2503.21893v1](http://arxiv.org/abs/2503.21893v1)
 - 2025-03-27, **Learning Class Prototypes for Unified Sparse Supervised 3D Object Detection**, Yun Zhu et.al., Paper: [http://arxiv.org/abs/2503.21099v1](http://arxiv.org/abs/2503.21099v1), Code: **[https://github.com/zyrant/cpdet3d](https://github.com/zyrant/cpdet3d)**
 - 2025-03-26, **SaViD: Spectravista Aesthetic Vision Integration for Robust and Discerning 3D Object Detection in Challenging Environments**, Tanmoy Dam et.al., Paper: [http://arxiv.org/abs/2503.20614v1](http://arxiv.org/abs/2503.20614v1), Code: **[https://github.com/sanjay-810/savid](https://github.com/sanjay-810/savid)**
 - 2025-03-26, **Small Object Detection: A Comprehensive Survey on Challenges, Techniques and Real-World Applications**, Mahya Nikouei et.al., Paper: [http://arxiv.org/abs/2503.20516v1](http://arxiv.org/abs/2503.20516v1)
@@ -13024,7 +13050,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20250331>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250401>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
