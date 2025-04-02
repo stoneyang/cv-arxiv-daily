@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.01
+## Updated on 2025.04.02
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-31**|**Self-Supervised Pretraining for Aerial Road Extraction**|Rupert Polley et.al.|[2503.24326v1](http://arxiv.org/abs/2503.24326v1)|null|
+|**2025-03-31**|**Can Test-Time Scaling Improve World Foundation Model?**|Wenyan Cong et.al.|[2503.24320v1](http://arxiv.org/abs/2503.24320v1)|null|
+|**2025-04-01**|**Evaluating machine learning models for predicting pesticides toxicity to honey bees**|Jakub Adamczyk et.al.|[2503.24305v2](http://arxiv.org/abs/2503.24305v2)|**[link](https://github.com/j-adamczyk/apistox_bee_toxicity_ml_prediction)**|
+|**2025-03-31**|**Order Matters: On Parameter-Efficient Image-to-Video Probing for Recognizing Nearly Symmetric Actions**|Thinesh Thiyakesan Ponbagavathi et.al.|[2503.24298v1](http://arxiv.org/abs/2503.24298v1)|null|
+|**2025-03-31**|**What, How, Where, and How Well? A Survey on Test-Time Scaling in Large Language Models**|Qiyuan Zhang et.al.|[2503.24235v1](http://arxiv.org/abs/2503.24235v1)|null|
+|**2025-03-31**|**CIBR: Cross-modal Information Bottleneck Regularization for Robust CLIP Generalization**|Yingrui Ji et.al.|[2503.24182v1](http://arxiv.org/abs/2503.24182v1)|null|
+|**2025-03-31**|**PixelCAM: Pixel Class Activation Mapping for Histology Image Classification and ROI Localization**|Alexis Guichemerre et.al.|[2503.24135v1](http://arxiv.org/abs/2503.24135v1)|**[link](https://github.com/alexisguichemerrecode/pixelcam)**|
+|**2025-03-31**|**IMPACT: A Generic Semantic Loss for Multimodal Medical Image Registration**|Valentin Boussot et.al.|[2503.24121v1](http://arxiv.org/abs/2503.24121v1)|null|
+|**2025-03-31**|**From Colors to Classes: Emergence of Concepts in Vision Transformers**|Teresa Dorszewski et.al.|[2503.24071v1](http://arxiv.org/abs/2503.24071v1)|**[link](https://github.com/teresa-sc/concepts_in_vits)**|
+|**2025-03-31**|**Accelerating High-Efficiency Organic Photovoltaic Discovery via Pretrained Graph Neural Networks and Generative Reinforcement Learning**|Jiangjie Qiu et.al.|[2503.23766v1](http://arxiv.org/abs/2503.23766v1)|null|
 |**2025-03-28**|**Unicorn: Text-Only Data Synthesis for Vision Language Model Training**|Xiaomin Yu et.al.|[2503.22655v1](http://arxiv.org/abs/2503.22655v1)|**[link](https://github.com/yu-xm/unicorn)**|
 |**2025-03-28**|**Instance-Level Data-Use Auditing of Visual ML Models**|Zonghao Huang et.al.|[2503.22413v1](http://arxiv.org/abs/2503.22413v1)|null|
 |**2025-03-28**|**CFiCS: Graph-Based Classification of Common Factors and Microcounseling Skills**|Fabian Schmidt et.al.|[2503.22277v1](http://arxiv.org/abs/2503.22277v1)|**[link](https://github.com/smidtfab/CFiCS)**|
@@ -4709,12 +4719,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250401>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250402>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-31**|**Point Tracking in Surgery--The 2024 Surgical Tattoos in Infrared (STIR) Challenge**|Adam Schmidt et.al.|[2503.24306v1](http://arxiv.org/abs/2503.24306v1)|**[link](https://github.com/athaddius/stirmetrics)**|
+|**2025-03-31**|**Beyond a Single Mode: GAN Ensembles for Diverse Medical Data Generation**|Lorenzo Tronchin et.al.|[2503.24258v1](http://arxiv.org/abs/2503.24258v1)|null|
+|**2025-03-31**|**From Colors to Classes: Emergence of Concepts in Vision Transformers**|Teresa Dorszewski et.al.|[2503.24071v1](http://arxiv.org/abs/2503.24071v1)|**[link](https://github.com/teresa-sc/concepts_in_vits)**|
+|**2025-04-01**|**HumanDreamer: Generating Controllable Human-Motion Videos via Decoupled Generation**|Boyuan Wang et.al.|[2503.24026v2](http://arxiv.org/abs/2503.24026v2)|null|
+|**2025-03-31**|**FlexiMo: A Flexible Remote Sensing Foundation Model**|Xuyang Li et.al.|[2503.23844v1](http://arxiv.org/abs/2503.23844v1)|null|
+|**2025-03-31**|**Conformal uncertainty quantification to evaluate predictive fairness of foundation AI model for skin lesion classes across patient demographics**|Swarnava Bhattacharyya et.al.|[2503.23819v1](http://arxiv.org/abs/2503.23819v1)|null|
+|**2025-03-31**|**TransVFC: A Transformable Video Feature Compression Framework for Machines**|Yuxiao Sun et.al.|[2503.23772v1](http://arxiv.org/abs/2503.23772v1)|null|
+|**2025-03-31**|**Decoupled Distillation to Erase: A General Unlearning Method for Any Class-centric Tasks**|Yu Zhou et.al.|[2503.23751v1](http://arxiv.org/abs/2503.23751v1)|null|
+|**2025-03-30**|**Mixture of Routers**|Jia-Chen Zhang et.al.|[2503.23362v1](http://arxiv.org/abs/2503.23362v1)|null|
+|**2025-03-30**|**Extracting Patient History from Clinical Text: A Comparative Study of Clinical Large Language Models**|Hieu Nghiem et.al.|[2503.23281v1](http://arxiv.org/abs/2503.23281v1)|null|
 |**2025-03-28**|**Q-Insight: Understanding Image Quality via Visual Reinforcement Learning**|Weiqi Li et.al.|[2503.22679v1](http://arxiv.org/abs/2503.22679v1)|**[link](https://github.com/lwq20020127/q-insight)**|
 |**2025-03-28**|**A Centralized Planning and Distributed Execution Method for Shape Filling with Homogeneous Mobile Robots**|Shuqing Liu et.al.|[2503.22522v1](http://arxiv.org/abs/2503.22522v1)|null|
 |**2025-03-28**|**GAITGen: Disentangled Motion-Pathology Impaired Gait Generative Model -- Bringing Motion Generation to the Clinical Domain**|Vida Adeli et.al.|[2503.22397v1](http://arxiv.org/abs/2503.22397v1)|null|
@@ -9044,14 +9064,15 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20250401>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250402>back to top</a>)</p>
 
 ## adaptor
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-29**|**Optimal Transport-Guided Source-Free Adaptation for Face Anti-Spoofing**|Zhuowei Li et.al.|[2503.22984v1](http://arxiv.org/abs/2503.22984v1)|null|
 |**2025-03-21**|**PRIMAL: Physically Reactive and Interactive Motor Model for Avatar Learning**|Yan Zhang et.al.|[2503.17544v1](http://arxiv.org/abs/2503.17544v1)|null|
-|**2025-03-17**|**VideoMind: A Chain-of-LoRA Agent for Long Video Reasoning**|Ye Liu et.al.|[2503.13444v1](http://arxiv.org/abs/2503.13444v1)|null|
+|**2025-04-01**|**VideoMind: A Chain-of-LoRA Agent for Long Video Reasoning**|Ye Liu et.al.|[2503.13444v2](http://arxiv.org/abs/2503.13444v2)|**[link](https://github.com/yeliudev/VideoMind)**|
 |**2025-03-17**|**Enabling High-Frequency Trading with Near-Instant, Trustless Cross-Chain Transactions via Pre-Signing Adaptor Signatures**|Ethan Francolla et.al.|[2503.12719v1](http://arxiv.org/abs/2503.12719v1)|null|
 |**2025-03-13**|**KV-Distill: Nearly Lossless Learnable Context Compression for LLMs**|Vivek Chari et.al.|[2503.10337v1](http://arxiv.org/abs/2503.10337v1)|null|
 |**2025-03-07**|**Fake It To Make It: Virtual Multiviews to Enhance Monocular Indoor Semantic Scene Completion**|Anith Selvakumar et.al.|[2503.05086v1](http://arxiv.org/abs/2503.05086v1)|null|
@@ -9219,12 +9240,22 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250401>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250402>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-31**|**SU-YOLO: Spiking Neural Network for Efficient Underwater Object Detection**|Chenyang Li et.al.|[2503.24389v1](http://arxiv.org/abs/2503.24389v1)|**[link](https://github.com/lwxfight/snn-underwater)**|
+|**2025-03-31**|**MB-ORES: A Multi-Branch Object Reasoner for Visual Grounding in Remote Sensing**|Karim Radouane et.al.|[2503.24219v1](http://arxiv.org/abs/2503.24219v1)|null|
+|**2025-03-31**|**BBoxCut: A Targeted Data Augmentation Technique for Enhancing Wheat Head Detection Under Occlusions**|Yasashwini Sai Gowri P et.al.|[2503.24032v1](http://arxiv.org/abs/2503.24032v1)|null|
+|**2025-03-31**|**Spectral-Adaptive Modulation Networks for Visual Perception**|Guhnoo Yun et.al.|[2503.23947v1](http://arxiv.org/abs/2503.23947v1)|null|
+|**2025-03-31**|**Expanding-and-Shrinking Binary Neural Networks**|Xulong Shi et.al.|[2503.23709v1](http://arxiv.org/abs/2503.23709v1)|**[link](https://github.com/imfinethanks/esbnn)**|
+|**2025-03-30**|**Re-Aligning Language to Visual Objects with an Agentic Workflow**|Yuming Chen et.al.|[2503.23508v1](http://arxiv.org/abs/2503.23508v1)|null|
+|**2025-03-30**|**EagleVision: Object-level Attribute Multimodal LLM for Remote Sensing**|Hongxiang Jiang et.al.|[2503.23330v1](http://arxiv.org/abs/2503.23330v1)|null|
+|**2025-03-29**|**Context in object detection: a systematic literature review**|Mahtab Jamali et.al.|[2503.23249v1](http://arxiv.org/abs/2503.23249v1)|null|
+|**2025-03-29**|**Large Self-Supervised Models Bridge the Gap in Domain Adaptive Object Detection**|Marc-Antoine Lavoie et.al.|[2503.23220v1](http://arxiv.org/abs/2503.23220v1)|null|
+|**2025-03-29**|**A GAN-Enhanced Deep Learning Framework for Rooftop Detection from Historical Aerial Imagery**|Pengyu Chen et.al.|[2503.23200v1](http://arxiv.org/abs/2503.23200v1)|null|
 |**2025-03-28**|**AnnoPage Dataset: Dataset of Non-Textual Elements in Documents with Fine-Grained Categorization**|Martin Kišš et.al.|[2503.22526v1](http://arxiv.org/abs/2503.22526v1)|null|
 |**2025-03-28**|**Data Quality Matters: Quantifying Image Quality Impact on Machine Learning Performance**|Christian Steinhauser et.al.|[2503.22375v1](http://arxiv.org/abs/2503.22375v1)|null|
 |**2025-03-28**|**ForcePose: A Deep Learning Approach for Force Calculation Based on Action Recognition Using MediaPipe Pose Estimation Combined with Object Detection**|Nandakishor M et.al.|[2503.22363v1](http://arxiv.org/abs/2503.22363v1)|null|
@@ -13058,7 +13089,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20250401>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250402>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
