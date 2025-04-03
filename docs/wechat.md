@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2025.04.02
+> Updated on 2025.04.03
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,7 +17,7 @@
 
 ## pretrain
 
-- 2025-03-31, **Self-Supervised Pretraining for Aerial Road Extraction**, Rupert Polley et.al., Paper: [http://arxiv.org/abs/2503.24326v1](http://arxiv.org/abs/2503.24326v1)
+- 2025-04-01, **Self-Supervised Pretraining for Aerial Road Extraction**, Rupert Polley et.al., Paper: [http://arxiv.org/abs/2503.24326v2](http://arxiv.org/abs/2503.24326v2)
 - 2025-03-31, **Can Test-Time Scaling Improve World Foundation Model?**, Wenyan Cong et.al., Paper: [http://arxiv.org/abs/2503.24320v1](http://arxiv.org/abs/2503.24320v1)
 - 2025-04-01, **Evaluating machine learning models for predicting pesticides toxicity to honey bees**, Jakub Adamczyk et.al., Paper: [http://arxiv.org/abs/2503.24305v2](http://arxiv.org/abs/2503.24305v2), Code: **[https://github.com/j-adamczyk/apistox_bee_toxicity_ml_prediction](https://github.com/j-adamczyk/apistox_bee_toxicity_ml_prediction)**
 - 2025-03-31, **Order Matters: On Parameter-Efficient Image-to-Video Probing for Recognizing Nearly Symmetric Actions**, Thinesh Thiyakesan Ponbagavathi et.al., Paper: [http://arxiv.org/abs/2503.24298v1](http://arxiv.org/abs/2503.24298v1)
@@ -4717,12 +4717,12 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20250402>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250403>back to top</a>)</p>
 
 ## downstream
 
 - 2025-03-31, **Point Tracking in Surgery--The 2024 Surgical Tattoos in Infrared (STIR) Challenge**, Adam Schmidt et.al., Paper: [http://arxiv.org/abs/2503.24306v1](http://arxiv.org/abs/2503.24306v1), Code: **[https://github.com/athaddius/stirmetrics](https://github.com/athaddius/stirmetrics)**
-- 2025-03-31, **Beyond a Single Mode: GAN Ensembles for Diverse Medical Data Generation**, Lorenzo Tronchin et.al., Paper: [http://arxiv.org/abs/2503.24258v1](http://arxiv.org/abs/2503.24258v1)
+- 2025-03-31, **Beyond a Single Mode: GAN Ensembles for Diverse Medical Data Generation**, Lorenzo Tronchin et.al., Paper: [http://arxiv.org/abs/2503.24258v1](http://arxiv.org/abs/2503.24258v1), Code: **[https://github.com/ltronchin/gan-ensembles](https://github.com/ltronchin/gan-ensembles)**
 - 2025-03-31, **From Colors to Classes: Emergence of Concepts in Vision Transformers**, Teresa Dorszewski et.al., Paper: [http://arxiv.org/abs/2503.24071v1](http://arxiv.org/abs/2503.24071v1), Code: **[https://github.com/teresa-sc/concepts_in_vits](https://github.com/teresa-sc/concepts_in_vits)**
 - 2025-04-01, **HumanDreamer: Generating Controllable Human-Motion Videos via Decoupled Generation**, Boyuan Wang et.al., Paper: [http://arxiv.org/abs/2503.24026v2](http://arxiv.org/abs/2503.24026v2)
 - 2025-03-31, **FlexiMo: A Flexible Remote Sensing Foundation Model**, Xuyang Li et.al., Paper: [http://arxiv.org/abs/2503.23844v1](http://arxiv.org/abs/2503.23844v1)
@@ -9060,7 +9060,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20250402>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250403>back to top</a>)</p>
 
 ## adaptor
 
@@ -9234,12 +9234,12 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20250402>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250403>back to top</a>)</p>
 
 ## object detection
 
 - 2025-03-31, **SU-YOLO: Spiking Neural Network for Efficient Underwater Object Detection**, Chenyang Li et.al., Paper: [http://arxiv.org/abs/2503.24389v1](http://arxiv.org/abs/2503.24389v1), Code: **[https://github.com/lwxfight/snn-underwater](https://github.com/lwxfight/snn-underwater)**
-- 2025-03-31, **MB-ORES: A Multi-Branch Object Reasoner for Visual Grounding in Remote Sensing**, Karim Radouane et.al., Paper: [http://arxiv.org/abs/2503.24219v1](http://arxiv.org/abs/2503.24219v1)
+- 2025-03-31, **MB-ORES: A Multi-Branch Object Reasoner for Visual Grounding in Remote Sensing**, Karim Radouane et.al., Paper: [http://arxiv.org/abs/2503.24219v1](http://arxiv.org/abs/2503.24219v1), Code: **[https://github.com/rd20karim/mb-ores](https://github.com/rd20karim/mb-ores)**
 - 2025-03-31, **BBoxCut: A Targeted Data Augmentation Technique for Enhancing Wheat Head Detection Under Occlusions**, Yasashwini Sai Gowri P et.al., Paper: [http://arxiv.org/abs/2503.24032v1](http://arxiv.org/abs/2503.24032v1)
 - 2025-03-31, **Spectral-Adaptive Modulation Networks for Visual Perception**, Guhnoo Yun et.al., Paper: [http://arxiv.org/abs/2503.23947v1](http://arxiv.org/abs/2503.23947v1)
 - 2025-03-31, **Expanding-and-Shrinking Binary Neural Networks**, Xulong Shi et.al., Paper: [http://arxiv.org/abs/2503.23709v1](http://arxiv.org/abs/2503.23709v1), Code: **[https://github.com/imfinethanks/esbnn](https://github.com/imfinethanks/esbnn)**
@@ -13081,7 +13081,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20250402>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250403>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
