@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2025.04.10
+> Updated on 2025.04.11
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,7 +17,14 @@
 
 ## pretrain
 
-- 2025-04-08, **GOLLuM: Gaussian Process Optimized LLMs -- Reframing LLM Finetuning through Bayesian Optimization**, Bojana Ranković et.al., Paper: [http://arxiv.org/abs/2504.06265v1](http://arxiv.org/abs/2504.06265v1)
+- 2025-04-09, **FlashDepth: Real-time Streaming Video Depth Estimation at 2K Resolution**, Gene Chou et.al., Paper: [http://arxiv.org/abs/2504.07093v1](http://arxiv.org/abs/2504.07093v1)
+- 2025-04-09, **Adaptive Computation Pruning for the Forgetting Transformer**, Zhixuan Lin et.al., Paper: [http://arxiv.org/abs/2504.06949v1](http://arxiv.org/abs/2504.06949v1)
+- 2025-04-09, **Large Scale Supervised Pretraining For Traumatic Brain Injury Segmentation**, Constantin Ulrich et.al., Paper: [http://arxiv.org/abs/2504.06741v1](http://arxiv.org/abs/2504.06741v1)
+- 2025-04-09, **RAGME: Retrieval Augmented Video Generation for Enhanced Motion Realism**, Elia Peruzzo et.al., Paper: [http://arxiv.org/abs/2504.06672v1](http://arxiv.org/abs/2504.06672v1)
+- 2025-04-09, **Disentangle and Regularize: Sign Language Production with Articulator-Based Disentanglement and Channel-Aware Regularization**, Sumeyye Meryem Tasyurek et.al., Paper: [http://arxiv.org/abs/2504.06610v1](http://arxiv.org/abs/2504.06610v1)
+- 2025-04-08, **Classifying Subjective Time Perception in a Multi-robot Control Scenario Using Eye-tracking Information**, Till Aust et.al., Paper: [http://arxiv.org/abs/2504.06442v1](http://arxiv.org/abs/2504.06442v1)
+- 2025-04-08, **Don't Let It Hallucinate: Premise Verification via Retrieval-Augmented Logical Reasoning**, Yuehan Qin et.al., Paper: [http://arxiv.org/abs/2504.06438v1](http://arxiv.org/abs/2504.06438v1)
+- 2025-04-09, **GOLLuM: Gaussian Process Optimized LLMs -- Reframing LLM Finetuning through Bayesian Optimization**, Bojana Ranković et.al., Paper: [http://arxiv.org/abs/2504.06265v2](http://arxiv.org/abs/2504.06265v2)
 - 2025-04-08, **Encoder-Decoder Gemma: Improving the Quality-Efficiency Trade-Off via Adaptation**, Biao Zhang et.al., Paper: [http://arxiv.org/abs/2504.06225v1](http://arxiv.org/abs/2504.06225v1)
 - 2025-04-08, **Can Performant LLMs Be Ethical? Quantifying the Impact of Web Crawling Opt-Outs**, Dongyang Fan et.al., Paper: [http://arxiv.org/abs/2504.06219v1](http://arxiv.org/abs/2504.06219v1)
 - 2025-04-08, **From 128K to 4M: Efficient Training of Ultra-Long Context Large Language Models**, Chejian Xu et.al., Paper: [http://arxiv.org/abs/2504.06214v1](http://arxiv.org/abs/2504.06214v1)
@@ -4766,10 +4773,13 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20250410>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250411>back to top</a>)</p>
 
 ## downstream
 
+- 2025-04-09, **Neural Motion Simulator: Pushing the Limit of World Models in Reinforcement Learning**, Chenjie Hao et.al., Paper: [http://arxiv.org/abs/2504.07095v1](http://arxiv.org/abs/2504.07095v1)
+- 2025-04-09, **Latent Diffusion U-Net Representations Contain Positional Embeddings and Anomalies**, Jonas Loos et.al., Paper: [http://arxiv.org/abs/2504.07008v1](http://arxiv.org/abs/2504.07008v1), Code: **[https://github.com/JonasLoos/sd-representation-anomalies](https://github.com/JonasLoos/sd-representation-anomalies)**
+- 2025-04-09, **Efficient Self-Supervised Learning for Earth Observation via Dynamic Dataset Curation**, Thomas Kerdreux et.al., Paper: [http://arxiv.org/abs/2504.06962v1](http://arxiv.org/abs/2504.06962v1)
 - 2025-04-08, **D^2USt3R: Enhancing 3D Reconstruction with 4D Pointmaps for Dynamic Scenes**, Jisang Han et.al., Paper: [http://arxiv.org/abs/2504.06264v1](http://arxiv.org/abs/2504.06264v1)
 - 2025-04-09, **Earth-Adapter: Bridge the Geospatial Domain Gaps with Mixture of Frequency Adaptation**, Xiaoxing Hu et.al., Paper: [http://arxiv.org/abs/2504.06220v2](http://arxiv.org/abs/2504.06220v2)
 - 2025-04-08, **TxGemma: Efficient and Agentic LLMs for Therapeutics**, Eric Wang et.al., Paper: [http://arxiv.org/abs/2504.06196v1](http://arxiv.org/abs/2504.06196v1)
@@ -9151,7 +9161,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20250410>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250411>back to top</a>)</p>
 
 ## adaptor
 
@@ -9325,10 +9335,17 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20250410>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250411>back to top</a>)</p>
 
 ## object detection
 
+- 2025-04-09, **Generalized Semantic Contrastive Learning via Embedding Side Information for Few-Shot Object Detection**, Ruoyu Chen et.al., Paper: [http://arxiv.org/abs/2504.07060v1](http://arxiv.org/abs/2504.07060v1)
+- 2025-04-09, **UAV Position Estimation using a LiDAR-based 3D Object Detection Method**, Uthman Olawoye et.al., Paper: [http://arxiv.org/abs/2504.07028v1](http://arxiv.org/abs/2504.07028v1)
+- 2025-04-09, **Towards Efficient Roadside LiDAR Deployment: A Fast Surrogate Metric Based on Entropy-Guided Visibility**, Yuze Jiang et.al., Paper: [http://arxiv.org/abs/2504.06772v1](http://arxiv.org/abs/2504.06772v1)
+- 2025-04-09, **Domain-Conditioned Scene Graphs for State-Grounded Task Planning**, Jonas Herzog et.al., Paper: [http://arxiv.org/abs/2504.06661v1](http://arxiv.org/abs/2504.06661v1)
+- 2025-04-09, **Visually Similar Pair Alignment for Robust Cross-Domain Object Detection**, Onkar Krishna et.al., Paper: [http://arxiv.org/abs/2504.06607v1](http://arxiv.org/abs/2504.06607v1)
+- 2025-04-08, **From Broadcast to Minimap: Achieving State-of-the-Art SoccerNet Game State Reconstruction**, Vladimir Golovkin et.al., Paper: [http://arxiv.org/abs/2504.06357v1](http://arxiv.org/abs/2504.06357v1)
+- 2025-04-08, **Analyzing the Impact of Low-Rank Adaptation for Cross-Domain Few-Shot Object Detection in Aerial Images**, Hicham Talaoubrid et.al., Paper: [http://arxiv.org/abs/2504.06330v1](http://arxiv.org/abs/2504.06330v1)
 - 2025-04-08, **Balancing long- and short-term dynamics for the modeling of saliency in videos**, Theodor Wulff et.al., Paper: [http://arxiv.org/abs/2504.05913v1](http://arxiv.org/abs/2504.05913v1)
 - 2025-04-08, **PRIMEDrive-CoT: A Precognitive Chain-of-Thought Framework for Uncertainty-Aware Object Interaction in Driving Scene Scenario**, Sriram Mandalika et.al., Paper: [http://arxiv.org/abs/2504.05908v1](http://arxiv.org/abs/2504.05908v1)
 - 2025-04-08, **Intrinsic Saliency Guided Trunk-Collateral Network for Unsupervised Video Object Segmentation**, Xiangyu Zheng et.al., Paper: [http://arxiv.org/abs/2504.05904v1](http://arxiv.org/abs/2504.05904v1)
@@ -13212,7 +13229,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20250410>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250411>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
