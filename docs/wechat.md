@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2025.04.11
+> Updated on 2025.04.12
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,16 @@
 
 ## pretrain
 
+- 2025-04-10, **C3PO: Critical-Layer, Core-Expert, Collaborative Pathway Optimization for Test-Time Expert Re-Mixing**, Zhongyang Li et.al., Paper: [http://arxiv.org/abs/2504.07964v1](http://arxiv.org/abs/2504.07964v1)
+- 2025-04-10, **Echo Chamber: RL Post-training Amplifies Behaviors Learned in Pretraining**, Rosie Zhao et.al., Paper: [http://arxiv.org/abs/2504.07912v1](http://arxiv.org/abs/2504.07912v1)
+- 2025-04-10, **The Efficacy of Semantics-Preserving Transformations in Self-Supervised Learning for Medical Ultrasound**, Blake VanBerlo et.al., Paper: [http://arxiv.org/abs/2504.07904v1](http://arxiv.org/abs/2504.07904v1)
+- 2025-04-10, **Fast Adaptation with Behavioral Foundation Models**, Harshit Sikchi et.al., Paper: [http://arxiv.org/abs/2504.07896v1](http://arxiv.org/abs/2504.07896v1)
+- 2025-04-10, **An LLM-Driven Multi-Agent Debate System for Mendelian Diseases**, Xinyang Zhou et.al., Paper: [http://arxiv.org/abs/2504.07881v1](http://arxiv.org/abs/2504.07881v1)
+- 2025-04-10, **Efficient Tuning of Large Language Models for Knowledge-Grounded Dialogue Generation**, Bo Zhang et.al., Paper: [http://arxiv.org/abs/2504.07754v1](http://arxiv.org/abs/2504.07754v1)
+- 2025-04-10, **On Model and Data Scaling for Skeleton-based Self-Supervised Gait Recognition**, Adrian Cosma et.al., Paper: [http://arxiv.org/abs/2504.07598v1](http://arxiv.org/abs/2504.07598v1)
+- 2025-04-10, **PhaseGen: A Diffusion-Based Approach for Complex-Valued MRI Data Generation**, Moritz Rempe et.al., Paper: [http://arxiv.org/abs/2504.07560v1](http://arxiv.org/abs/2504.07560v1), Code: **[https://github.com/TIO-IKIM/PhaseGen](https://github.com/TIO-IKIM/PhaseGen)**
+- 2025-04-10, **STeP: A General and Scalable Framework for Solving Video Inverse Problems with Spatiotemporal Diffusion Priors**, Bingliang Zhang et.al., Paper: [http://arxiv.org/abs/2504.07549v1](http://arxiv.org/abs/2504.07549v1)
+- 2025-04-10, **GPT Carry-On: Training Foundation Model for Customization Could Be Simple, Scalable and Affordable**, Jianqiao Wangni et.al., Paper: [http://arxiv.org/abs/2504.07513v1](http://arxiv.org/abs/2504.07513v1)
 - 2025-04-09, **FlashDepth: Real-time Streaming Video Depth Estimation at 2K Resolution**, Gene Chou et.al., Paper: [http://arxiv.org/abs/2504.07093v1](http://arxiv.org/abs/2504.07093v1)
 - 2025-04-09, **Adaptive Computation Pruning for the Forgetting Transformer**, Zhixuan Lin et.al., Paper: [http://arxiv.org/abs/2504.06949v1](http://arxiv.org/abs/2504.06949v1)
 - 2025-04-09, **Large Scale Supervised Pretraining For Traumatic Brain Injury Segmentation**, Constantin Ulrich et.al., Paper: [http://arxiv.org/abs/2504.06741v1](http://arxiv.org/abs/2504.06741v1)
@@ -4773,10 +4783,17 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20250411>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250412>back to top</a>)</p>
 
 ## downstream
 
+- 2025-04-10, **Fast Adaptation with Behavioral Foundation Models**, Harshit Sikchi et.al., Paper: [http://arxiv.org/abs/2504.07896v1](http://arxiv.org/abs/2504.07896v1)
+- 2025-04-10, **PIDSR:ComplementaryPolarizedImageDemosaicingandSuper-Resolution**, Shuangfan Zhou et.al., Paper: [http://arxiv.org/abs/2504.07758v1](http://arxiv.org/abs/2504.07758v1)
+- 2025-04-10, **PhaseGen: A Diffusion-Based Approach for Complex-Valued MRI Data Generation**, Moritz Rempe et.al., Paper: [http://arxiv.org/abs/2504.07560v1](http://arxiv.org/abs/2504.07560v1), Code: **[https://github.com/TIO-IKIM/PhaseGen](https://github.com/TIO-IKIM/PhaseGen)**
+- 2025-04-10, **Task-Circuit Quantization: Leveraging Knowledge Localization and Interpretability for Compression**, Hanqi Xiao et.al., Paper: [http://arxiv.org/abs/2504.07389v1](http://arxiv.org/abs/2504.07389v1)
+- 2025-04-10, **View-Dependent Uncertainty Estimation of 3D Gaussian Splatting**, Chenyu Han et.al., Paper: [http://arxiv.org/abs/2504.07370v1](http://arxiv.org/abs/2504.07370v1)
+- 2025-04-09, **Objaverse++: Curated 3D Object Dataset with Quality Annotations**, Chendi Lin et.al., Paper: [http://arxiv.org/abs/2504.07334v1](http://arxiv.org/abs/2504.07334v1)
+- 2025-04-09, **Improving Examples in Web API Specifications using Iterated-Calls In-Context Learning**, Kush Jain et.al., Paper: [http://arxiv.org/abs/2504.07250v1](http://arxiv.org/abs/2504.07250v1)
 - 2025-04-09, **Neural Motion Simulator: Pushing the Limit of World Models in Reinforcement Learning**, Chenjie Hao et.al., Paper: [http://arxiv.org/abs/2504.07095v1](http://arxiv.org/abs/2504.07095v1)
 - 2025-04-09, **Latent Diffusion U-Net Representations Contain Positional Embeddings and Anomalies**, Jonas Loos et.al., Paper: [http://arxiv.org/abs/2504.07008v1](http://arxiv.org/abs/2504.07008v1), Code: **[https://github.com/JonasLoos/sd-representation-anomalies](https://github.com/JonasLoos/sd-representation-anomalies)**
 - 2025-04-09, **Efficient Self-Supervised Learning for Earth Observation via Dynamic Dataset Curation**, Thomas Kerdreux et.al., Paper: [http://arxiv.org/abs/2504.06962v1](http://arxiv.org/abs/2504.06962v1)
@@ -9161,7 +9178,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20250411>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250412>back to top</a>)</p>
 
 ## adaptor
 
@@ -9335,10 +9352,20 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20250411>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250412>back to top</a>)</p>
 
 ## object detection
 
+- 2025-04-10, **Detect Anything 3D in the Wild**, Hanxue Zhang et.al., Paper: [http://arxiv.org/abs/2504.07958v1](http://arxiv.org/abs/2504.07958v1)
+- 2025-04-10, **Pychop: Emulating Low-Precision Arithmetic in Numerical Methods and Neural Networks**, Erin Carson et.al., Paper: [http://arxiv.org/abs/2504.07835v1](http://arxiv.org/abs/2504.07835v1)
+- 2025-04-10, **P2Object: Single Point Supervised Object Detection and Instance Segmentation**, Pengfei Chen et.al., Paper: [http://arxiv.org/abs/2504.07813v1](http://arxiv.org/abs/2504.07813v1)
+- 2025-04-10, **Nonlocal Retinex-Based Variational Model and its Deep Unfolding Twin for Low-Light Image Enhancement**, Daniel Torres et.al., Paper: [http://arxiv.org/abs/2504.07810v1](http://arxiv.org/abs/2504.07810v1)
+- 2025-04-10, **Adaptive Detection of Fast Moving Celestial Objects Using a Mixture of Experts and Physical-Inspired Neural Network**, Peng Jia et.al., Paper: [http://arxiv.org/abs/2504.07777v1](http://arxiv.org/abs/2504.07777v1)
+- 2025-04-10, **VLM-R1: A Stable and Generalizable R1-style Large Vision-Language Model**, Haozhan Shen et.al., Paper: [http://arxiv.org/abs/2504.07615v1](http://arxiv.org/abs/2504.07615v1)
+- 2025-04-10, **RASMD: RGB And SWIR Multispectral Driving Dataset for Robust Perception in Adverse Conditions**, Youngwan Jin et.al., Paper: [http://arxiv.org/abs/2504.07603v1](http://arxiv.org/abs/2504.07603v1)
+- 2025-04-10, **WS-DETR: Robust Water Surface Object Detection through Vision-Radar Fusion with Detection Transformer**, Huilin Yin et.al., Paper: [http://arxiv.org/abs/2504.07441v1](http://arxiv.org/abs/2504.07441v1)
+- 2025-04-09, **Few-Shot Adaptation of Grounding DINO for Agricultural Domain**, Rajhans Singh et.al., Paper: [http://arxiv.org/abs/2504.07252v1](http://arxiv.org/abs/2504.07252v1)
+- 2025-04-09, **Multi-Object Tracking for Collision Avoidance Using Multiple Cameras in Open RAN Networks**, Jordi Serra et.al., Paper: [http://arxiv.org/abs/2504.07163v1](http://arxiv.org/abs/2504.07163v1)
 - 2025-04-09, **Generalized Semantic Contrastive Learning via Embedding Side Information for Few-Shot Object Detection**, Ruoyu Chen et.al., Paper: [http://arxiv.org/abs/2504.07060v1](http://arxiv.org/abs/2504.07060v1)
 - 2025-04-09, **UAV Position Estimation using a LiDAR-based 3D Object Detection Method**, Uthman Olawoye et.al., Paper: [http://arxiv.org/abs/2504.07028v1](http://arxiv.org/abs/2504.07028v1)
 - 2025-04-09, **Towards Efficient Roadside LiDAR Deployment: A Fast Surrogate Metric Based on Entropy-Guided Visibility**, Yuze Jiang et.al., Paper: [http://arxiv.org/abs/2504.06772v1](http://arxiv.org/abs/2504.06772v1)
@@ -13229,7 +13256,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20250411>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250412>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
