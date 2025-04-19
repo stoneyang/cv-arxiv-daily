@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2025.04.18
+> Updated on 2025.04.19
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,16 @@
 
 ## pretrain
 
+- 2025-04-17, **Perception Encoder: The best visual embeddings are not at the output of the network**, Daniel Bolya et.al., Paper: [http://arxiv.org/abs/2504.13181v1](http://arxiv.org/abs/2504.13181v1)
+- 2025-04-17, **SkyReels-V2: Infinite-length Film Generative Model**, Guibin Chen et.al., Paper: [http://arxiv.org/abs/2504.13074v1](http://arxiv.org/abs/2504.13074v1)
+- 2025-04-17, **Can Masked Autoencoders Also Listen to Birds?**, Lukas Rauch et.al., Paper: [http://arxiv.org/abs/2504.12880v1](http://arxiv.org/abs/2504.12880v1)
+- 2025-04-17, **3D-PNAS: 3D Industrial Surface Anomaly Synthesis with Perlin Noise**, Yifeng Cheng et.al., Paper: [http://arxiv.org/abs/2504.12856v1](http://arxiv.org/abs/2504.12856v1)
+- 2025-04-17, **Hybrid Dense-UNet201 Optimization for Pap Smear Image Segmentation Using Spider Monkey Optimization**, Ach Khozaimi et.al., Paper: [http://arxiv.org/abs/2504.12807v1](http://arxiv.org/abs/2504.12807v1)
+- 2025-04-17, **Embodied-R: Collaborative Framework for Activating Embodied Spatial Reasoning in Foundation Models via Reinforcement Learning**, Baining Zhao et.al., Paper: [http://arxiv.org/abs/2504.12680v1](http://arxiv.org/abs/2504.12680v1)
+- 2025-04-17, **AdaptoVision: A Multi-Resolution Image Recognition Model for Robust and Scalable Classification**, Md. Sanaullah Chowdhury Lameya Sabrin et.al., Paper: [http://arxiv.org/abs/2504.12652v1](http://arxiv.org/abs/2504.12652v1)
+- 2025-04-16, **AdaVid: Adaptive Video-Language Pretraining**, Chaitanya Patel et.al., Paper: [http://arxiv.org/abs/2504.12513v1](http://arxiv.org/abs/2504.12513v1)
+- 2025-04-16, **Dense Backpropagation Improves Training for Sparse Mixture-of-Experts**, Ashwinee Panda et.al., Paper: [http://arxiv.org/abs/2504.12463v1](http://arxiv.org/abs/2504.12463v1)
+- 2025-04-16, **On Linear Representations and Pretraining Data Frequency in Language Models**, Jack Merullo et.al., Paper: [http://arxiv.org/abs/2504.12459v1](http://arxiv.org/abs/2504.12459v1)
 - 2025-04-16, **Coding-Prior Guided Diffusion Network for Video Deblurring**, Yike Liu et.al., Paper: [http://arxiv.org/abs/2504.12222v1](http://arxiv.org/abs/2504.12222v1)
 - 2025-04-16, **d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning**, Siyan Zhao et.al., Paper: [http://arxiv.org/abs/2504.12216v1](http://arxiv.org/abs/2504.12216v1)
 - 2025-04-16, **Flow Intelligence: Robust Feature Matching via Temporal Signature Correlation**, Jie Wang et.al., Paper: [http://arxiv.org/abs/2504.11949v1](http://arxiv.org/abs/2504.11949v1)
@@ -4818,10 +4828,20 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20250418>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250419>back to top</a>)</p>
 
 ## downstream
 
+- 2025-04-17, **Perception Encoder: The best visual embeddings are not at the output of the network**, Daniel Bolya et.al., Paper: [http://arxiv.org/abs/2504.13181v1](http://arxiv.org/abs/2504.13181v1)
+- 2025-04-17, **AerialMegaDepth: Learning Aerial-Ground Reconstruction and View Synthesis**, Khiem Vuong et.al., Paper: [http://arxiv.org/abs/2504.13157v1](http://arxiv.org/abs/2504.13157v1)
+- 2025-04-17, **Towards Cardiac MRI Foundation Models: Comprehensive Visual-Tabular Representations for Whole-Heart Assessment and Beyond**, Yundi Zhang et.al., Paper: [http://arxiv.org/abs/2504.13037v1](http://arxiv.org/abs/2504.13037v1)
+- 2025-04-17, **All-in-One Transferring Image Compression from Human Perception to Multi-Machine Perception**, Jiancheng Zhao et.al., Paper: [http://arxiv.org/abs/2504.12997v1](http://arxiv.org/abs/2504.12997v1)
+- 2025-04-17, **Efficient Masked Image Compression with Position-Indexed Self-Attention**, Chengjie Dai et.al., Paper: [http://arxiv.org/abs/2504.12923v1](http://arxiv.org/abs/2504.12923v1)
+- 2025-04-17, **Can Masked Autoencoders Also Listen to Birds?**, Lukas Rauch et.al., Paper: [http://arxiv.org/abs/2504.12880v1](http://arxiv.org/abs/2504.12880v1)
+- 2025-04-17, **Post-pre-training for Modality Alignment in Vision-Language Foundation Models**, Shin'ya Yamaguchi et.al., Paper: [http://arxiv.org/abs/2504.12717v1](http://arxiv.org/abs/2504.12717v1)
+- 2025-04-17, **Self-Supervised Pre-training with Combined Datasets for 3D Perception in Autonomous Driving**, Shumin Wang et.al., Paper: [http://arxiv.org/abs/2504.12709v1](http://arxiv.org/abs/2504.12709v1)
+- 2025-04-17, **CM3AE: A Unified RGB Frame and Event-Voxel/-Frame Pre-training Framework**, Wentao Wu et.al., Paper: [http://arxiv.org/abs/2504.12576v1](http://arxiv.org/abs/2504.12576v1)
+- 2025-04-16, **Can Pre-training Indicators Reliably Predict Fine-tuning Outcomes of LLMs?**, Hansi Zeng et.al., Paper: [http://arxiv.org/abs/2504.12491v1](http://arxiv.org/abs/2504.12491v1)
 - 2025-04-16, **Predictive Multiplicity in Survival Models: A Method for Quantifying Model Uncertainty in Predictive Maintenance Applications**, Mustafa Cavus et.al., Paper: [http://arxiv.org/abs/2504.12156v1](http://arxiv.org/abs/2504.12156v1)
 - 2025-04-16, **Logits DeConfusion with CLIP for Few-Shot Learning**, Shuo Li et.al., Paper: [http://arxiv.org/abs/2504.12104v1](http://arxiv.org/abs/2504.12104v1)
 - 2025-04-16, **Balancing Graph Embedding Smoothness in Self-Supervised Learning via Information-Theoretic Decomposition**, Heesoo Jung et.al., Paper: [http://arxiv.org/abs/2504.12011v1](http://arxiv.org/abs/2504.12011v1)
@@ -9242,10 +9262,11 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20250418>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250419>back to top</a>)</p>
 
 ## adaptor
 
+- 2025-04-17, **All-in-One Transferring Image Compression from Human Perception to Multi-Machine Perception**, Jiancheng Zhao et.al., Paper: [http://arxiv.org/abs/2504.12997v1](http://arxiv.org/abs/2504.12997v1)
 - 2025-03-29, **Optimal Transport-Guided Source-Free Adaptation for Face Anti-Spoofing**, Zhuowei Li et.al., Paper: [http://arxiv.org/abs/2503.22984v1](http://arxiv.org/abs/2503.22984v1)
 - 2025-03-21, **PRIMAL: Physically Reactive and Interactive Motor Model for Avatar Learning**, Yan Zhang et.al., Paper: [http://arxiv.org/abs/2503.17544v1](http://arxiv.org/abs/2503.17544v1)
 - 2025-04-01, **VideoMind: A Chain-of-LoRA Agent for Long Video Reasoning**, Ye Liu et.al., Paper: [http://arxiv.org/abs/2503.13444v2](http://arxiv.org/abs/2503.13444v2), Code: **[https://github.com/yeliudev/VideoMind](https://github.com/yeliudev/VideoMind)**
@@ -9416,10 +9437,13 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20250418>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250419>back to top</a>)</p>
 
 ## object detection
 
+- 2025-04-17, **RF-DETR Object Detection vs YOLOv12 : A Study of Transformer-based and CNN-based Architectures for Single-Class and Multi-Class Greenfruit Detection in Complex Orchard Environments Under Label Ambiguity**, Ranjan Sapkota et.al., Paper: [http://arxiv.org/abs/2504.13099v1](http://arxiv.org/abs/2504.13099v1)
+- 2025-04-17, **Self-Supervised Pre-training with Combined Datasets for 3D Perception in Autonomous Driving**, Shumin Wang et.al., Paper: [http://arxiv.org/abs/2504.12709v1](http://arxiv.org/abs/2504.12709v1)
+- 2025-04-17, **RoPETR: Improving Temporal Camera-Only 3D Detection by Integrating Enhanced Rotary Position Embedding**, Hang Ji et.al., Paper: [http://arxiv.org/abs/2504.12643v1](http://arxiv.org/abs/2504.12643v1)
 - 2025-04-16, **Towards a General-Purpose Zero-Shot Synthetic Low-Light Image and Video Pipeline**, Joanne Lin et.al., Paper: [http://arxiv.org/abs/2504.12169v1](http://arxiv.org/abs/2504.12169v1)
 - 2025-04-16, **RADLER: Radar Object Detection Leveraging Semantic 3D City Models and Self-Supervised Radar-Image Learning**, Yuan Luo et.al., Paper: [http://arxiv.org/abs/2504.12167v1](http://arxiv.org/abs/2504.12167v1)
 - 2025-04-16, **pix2pockets: Shot Suggestions in 8-Ball Pool from a Single Image in the Wild**, Jonas Myhre Schiøtt et.al., Paper: [http://arxiv.org/abs/2504.12045v1](http://arxiv.org/abs/2504.12045v1)
@@ -13349,7 +13373,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20250418>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250419>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
