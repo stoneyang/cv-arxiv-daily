@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.20
+## Updated on 2025.04.21
 
 <details>
   <summary>Table of Contents</summary>
@@ -24,14 +24,14 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-17**|**Perception Encoder: The best visual embeddings are not at the output of the network**|Daniel Bolya et.al.|[2504.13181v1](http://arxiv.org/abs/2504.13181v1)|null|
-|**2025-04-17**|**SkyReels-V2: Infinite-length Film Generative Model**|Guibin Chen et.al.|[2504.13074v1](http://arxiv.org/abs/2504.13074v1)|null|
+|**2025-04-18**|**SkyReels-V2: Infinite-length Film Generative Model**|Guibin Chen et.al.|[2504.13074v2](http://arxiv.org/abs/2504.13074v2)|null|
 |**2025-04-17**|**Can Masked Autoencoders Also Listen to Birds?**|Lukas Rauch et.al.|[2504.12880v1](http://arxiv.org/abs/2504.12880v1)|null|
 |**2025-04-17**|**3D-PNAS: 3D Industrial Surface Anomaly Synthesis with Perlin Noise**|Yifeng Cheng et.al.|[2504.12856v1](http://arxiv.org/abs/2504.12856v1)|null|
 |**2025-04-17**|**Hybrid Dense-UNet201 Optimization for Pap Smear Image Segmentation Using Spider Monkey Optimization**|Ach Khozaimi et.al.|[2504.12807v1](http://arxiv.org/abs/2504.12807v1)|null|
 |**2025-04-17**|**Embodied-R: Collaborative Framework for Activating Embodied Spatial Reasoning in Foundation Models via Reinforcement Learning**|Baining Zhao et.al.|[2504.12680v1](http://arxiv.org/abs/2504.12680v1)|null|
 |**2025-04-17**|**AdaptoVision: A Multi-Resolution Image Recognition Model for Robust and Scalable Classification**|Md. Sanaullah Chowdhury Lameya Sabrin et.al.|[2504.12652v1](http://arxiv.org/abs/2504.12652v1)|null|
 |**2025-04-16**|**AdaVid: Adaptive Video-Language Pretraining**|Chaitanya Patel et.al.|[2504.12513v1](http://arxiv.org/abs/2504.12513v1)|null|
-|**2025-04-16**|**Dense Backpropagation Improves Training for Sparse Mixture-of-Experts**|Ashwinee Panda et.al.|[2504.12463v1](http://arxiv.org/abs/2504.12463v1)|**[link](https://github.com/vatsal0/default-moe)**|
+|**2025-04-18**|**Dense Backpropagation Improves Training for Sparse Mixture-of-Experts**|Ashwinee Panda et.al.|[2504.12463v2](http://arxiv.org/abs/2504.12463v2)|**[link](https://github.com/vatsal0/default-moe)**|
 |**2025-04-16**|**On Linear Representations and Pretraining Data Frequency in Language Models**|Jack Merullo et.al.|[2504.12459v1](http://arxiv.org/abs/2504.12459v1)|null|
 |**2025-04-16**|**Coding-Prior Guided Diffusion Network for Video Deblurring**|Yike Liu et.al.|[2504.12222v1](http://arxiv.org/abs/2504.12222v1)|null|
 |**2025-04-16**|**d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning**|Siyan Zhao et.al.|[2504.12216v1](http://arxiv.org/abs/2504.12216v1)|null|
@@ -4834,7 +4834,7 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250420>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250421>back to top</a>)</p>
 
 ## downstream
 
@@ -4842,7 +4842,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-17**|**Perception Encoder: The best visual embeddings are not at the output of the network**|Daniel Bolya et.al.|[2504.13181v1](http://arxiv.org/abs/2504.13181v1)|null|
 |**2025-04-17**|**AerialMegaDepth: Learning Aerial-Ground Reconstruction and View Synthesis**|Khiem Vuong et.al.|[2504.13157v1](http://arxiv.org/abs/2504.13157v1)|null|
-|**2025-04-17**|**Towards Cardiac MRI Foundation Models: Comprehensive Visual-Tabular Representations for Whole-Heart Assessment and Beyond**|Yundi Zhang et.al.|[2504.13037v1](http://arxiv.org/abs/2504.13037v1)|null|
+|**2025-04-18**|**Towards Cardiac MRI Foundation Models: Comprehensive Visual-Tabular Representations for Whole-Heart Assessment and Beyond**|Yundi Zhang et.al.|[2504.13037v2](http://arxiv.org/abs/2504.13037v2)|null|
 |**2025-04-17**|**All-in-One Transferring Image Compression from Human Perception to Multi-Machine Perception**|Jiancheng Zhao et.al.|[2504.12997v1](http://arxiv.org/abs/2504.12997v1)|null|
 |**2025-04-17**|**Efficient Masked Image Compression with Position-Indexed Self-Attention**|Chengjie Dai et.al.|[2504.12923v1](http://arxiv.org/abs/2504.12923v1)|null|
 |**2025-04-17**|**Can Masked Autoencoders Also Listen to Birds?**|Lukas Rauch et.al.|[2504.12880v1](http://arxiv.org/abs/2504.12880v1)|null|
@@ -9270,7 +9270,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20250420>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250421>back to top</a>)</p>
 
 ## adaptor
 
@@ -9447,7 +9447,7 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250420>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250421>back to top</a>)</p>
 
 ## object detection
 
@@ -9455,7 +9455,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-17**|**RF-DETR Object Detection vs YOLOv12 : A Study of Transformer-based and CNN-based Architectures for Single-Class and Multi-Class Greenfruit Detection in Complex Orchard Environments Under Label Ambiguity**|Ranjan Sapkota et.al.|[2504.13099v1](http://arxiv.org/abs/2504.13099v1)|null|
 |**2025-04-17**|**Self-Supervised Pre-training with Combined Datasets for 3D Perception in Autonomous Driving**|Shumin Wang et.al.|[2504.12709v1](http://arxiv.org/abs/2504.12709v1)|null|
-|**2025-04-17**|**RoPETR: Improving Temporal Camera-Only 3D Detection by Integrating Enhanced Rotary Position Embedding**|Hang Ji et.al.|[2504.12643v1](http://arxiv.org/abs/2504.12643v1)|null|
+|**2025-04-18**|**RoPETR: Improving Temporal Camera-Only 3D Detection by Integrating Enhanced Rotary Position Embedding**|Hang Ji et.al.|[2504.12643v2](http://arxiv.org/abs/2504.12643v2)|null|
 |**2025-04-16**|**Towards a General-Purpose Zero-Shot Synthetic Low-Light Image and Video Pipeline**|Joanne Lin et.al.|[2504.12169v1](http://arxiv.org/abs/2504.12169v1)|null|
 |**2025-04-16**|**RADLER: Radar Object Detection Leveraging Semantic 3D City Models and Self-Supervised Radar-Image Learning**|Yuan Luo et.al.|[2504.12167v1](http://arxiv.org/abs/2504.12167v1)|null|
 |**2025-04-16**|**pix2pockets: Shot Suggestions in 8-Ball Pool from a Single Image in the Wild**|Jonas Myhre Schiøtt et.al.|[2504.12045v1](http://arxiv.org/abs/2504.12045v1)|null|
@@ -13385,7 +13385,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20250420>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250421>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
