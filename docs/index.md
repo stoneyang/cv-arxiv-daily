@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.23
+## Updated on 2025.04.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**Boosting Generative Image Modeling via Joint Image-Feature Synthesis**|Theodoros Kouzelis et.al.|[2504.16064v1](http://arxiv.org/abs/2504.16064v1)|null|
+|**2025-04-22**|**Efficient Temporal Consistency in Diffusion-Based Video Editing with Adaptor Modules: A Theoretical Framework**|Xinyuan Song et.al.|[2504.16016v1](http://arxiv.org/abs/2504.16016v1)|null|
+|**2025-04-22**|**How Private is Your Attention? Bridging Privacy with In-Context Learning**|Soham Bonnerjee et.al.|[2504.16000v1](http://arxiv.org/abs/2504.16000v1)|null|
+|**2025-04-22**|**Text-based Animatable 3D Avatars with Morphable Model Alignment**|Yiqian Wu et.al.|[2504.15835v1](http://arxiv.org/abs/2504.15835v1)|null|
+|**2025-04-22**|**DiTPainter: Efficient Video Inpainting with Diffusion Transformers**|Xian Wu et.al.|[2504.15661v1](http://arxiv.org/abs/2504.15661v1)|null|
+|**2025-04-22**|**llm-jp-modernbert: A ModernBERT Model Trained on a Large-Scale Japanese Corpus with Long Context Length**|Issa Sugiura et.al.|[2504.15544v1](http://arxiv.org/abs/2504.15544v1)|null|
+|**2025-04-21**|**Solving New Tasks by Adapting Internet Video Knowledge**|Calvin Luo et.al.|[2504.15369v1](http://arxiv.org/abs/2504.15369v1)|null|
 |**2025-04-21**|**Compute-Optimal LLMs Provably Generalize Better With Scale**|Marc Finzi et.al.|[2504.15208v1](http://arxiv.org/abs/2504.15208v1)|null|
 |**2025-04-21**|**Think2SQL: Reinforce LLM Reasoning Capabilities for Text2SQL**|Simone Papicchio et.al.|[2504.15077v1](http://arxiv.org/abs/2504.15077v1)|null|
 |**2025-04-21**|**Predicting Methane Adsorption in Metal-Substituted MOFs: A Comparative Study between Density Functional Theory and Machine Learning**|Karim Aljamal et.al.|[2504.15034v1](http://arxiv.org/abs/2504.15034v1)|null|
@@ -4853,13 +4860,18 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250423>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250424>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-21**|**Histogram-based Parameter-efficient Tuning for Passive Sonar Classification**|Amirmohammad Mohammadi et.al.|[2504.15214v1](http://arxiv.org/abs/2504.15214v1)|null|
+|**2025-04-22**|**Evaluating Vision Language Models (VLMs) for Radiology: A Comprehensive Analysis**|Frank Li et.al.|[2504.16047v1](http://arxiv.org/abs/2504.16047v1)|null|
+|**2025-04-22**|**Pose Optimization for Autonomous Driving Datasets using Neural Rendering Models**|Quentin Herau et.al.|[2504.15776v1](http://arxiv.org/abs/2504.15776v1)|null|
+|**2025-04-22**|**VLM-based Prompts as the Optimal Assistant for Unpaired Histopathology Virtual Staining**|Zizhi Chen et.al.|[2504.15545v1](http://arxiv.org/abs/2504.15545v1)|null|
+|**2025-04-22**|**llm-jp-modernbert: A ModernBERT Model Trained on a Large-Scale Japanese Corpus with Long Context Length**|Issa Sugiura et.al.|[2504.15544v1](http://arxiv.org/abs/2504.15544v1)|null|
+|**2025-04-21**|**Plug-and-Play Versatile Compressed Video Enhancement**|Huimin Zeng et.al.|[2504.15380v1](http://arxiv.org/abs/2504.15380v1)|null|
+|**2025-04-22**|**Histogram-based Parameter-efficient Tuning for Passive Sonar Classification**|Amirmohammad Mohammadi et.al.|[2504.15214v2](http://arxiv.org/abs/2504.15214v2)|null|
 |**2025-04-21**|**ReSpec: Relevance and Specificity Grounded Online Filtering for Learning on Video-Text Data Streams**|Chris Dongjoo Kim et.al.|[2504.14875v1](http://arxiv.org/abs/2504.14875v1)|**[link](https://github.com/cdjkim/respec)**|
 |**2025-04-21**|**SQL-Factory: A Multi-Agent Framework for High-Quality and Large-Scale SQL Generation**|Jiahui Li et.al.|[2504.14837v1](http://arxiv.org/abs/2504.14837v1)|null|
 |**2025-04-20**|**Matrix Factorization with Dynamic Multi-view Clustering for Recommender System**|Shangde Gao et.al.|[2504.14565v1](http://arxiv.org/abs/2504.14565v1)|null|
@@ -9304,12 +9316,13 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20250423>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250424>back to top</a>)</p>
 
 ## adaptor
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**Efficient Temporal Consistency in Diffusion-Based Video Editing with Adaptor Modules: A Theoretical Framework**|Xinyuan Song et.al.|[2504.16016v1](http://arxiv.org/abs/2504.16016v1)|null|
 |**2025-04-17**|**All-in-One Transferring Image Compression from Human Perception to Multi-Machine Perception**|Jiancheng Zhao et.al.|[2504.12997v1](http://arxiv.org/abs/2504.12997v1)|null|
 |**2025-03-29**|**Optimal Transport-Guided Source-Free Adaptation for Face Anti-Spoofing**|Zhuowei Li et.al.|[2503.22984v1](http://arxiv.org/abs/2503.22984v1)|null|
 |**2025-03-21**|**PRIMAL: Physically Reactive and Interactive Motor Model for Avatar Learning**|Yan Zhang et.al.|[2503.17544v1](http://arxiv.org/abs/2503.17544v1)|null|
@@ -9481,12 +9494,17 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250423>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250424>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**$π_{0.5}$: a Vision-Language-Action Model with Open-World Generalization**|Physical Intelligence et.al.|[2504.16054v1](http://arxiv.org/abs/2504.16054v1)|null|
+|**2025-04-22**|**SAGA: Semantic-Aware Gray color Augmentation for Visible-to-Thermal Domain Adaptation across Multi-View Drone and Ground-Based Vision Systems**|Manjunath D et.al.|[2504.15728v1](http://arxiv.org/abs/2504.15728v1)|null|
+|**2025-04-22**|**You Sense Only Once Beneath: Ultra-Light Real-Time Underwater Object Detection**|Jun Dong et.al.|[2504.15694v1](http://arxiv.org/abs/2504.15694v1)|null|
+|**2025-04-22**|**A Vision-Enabled Prosthetic Hand for Children with Upper Limb Disabilities**|Md Abdul Baset Sarker et.al.|[2504.15654v1](http://arxiv.org/abs/2504.15654v1)|null|
+|**2025-04-21**|**Context Aware Grounded Teacher for Source Free Object Detection**|Tajamul Ashraf et.al.|[2504.15404v1](http://arxiv.org/abs/2504.15404v1)|null|
 |**2025-04-21**|**SuoiAI: Building a Dataset for Aquatic Invertebrates in Vietnam**|Tue Vo et.al.|[2504.15252v1](http://arxiv.org/abs/2504.15252v1)|null|
 |**2025-04-21**|**An Efficient Aerial Image Detection with Variable Receptive Fields**|Liu Wenbin et.al.|[2504.15165v1](http://arxiv.org/abs/2504.15165v1)|null|
 |**2025-04-19**|**Balancing Privacy and Action Performance: A Penalty-Driven Approach to Image Anonymization**|Nazia Aslam et.al.|[2504.14301v1](http://arxiv.org/abs/2504.14301v1)|null|
@@ -13431,7 +13449,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20250423>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250424>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
