@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2025.04.25
+> Updated on 2025.04.26
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,16 @@
 
 ## pretrain
 
+- 2025-04-24, **Token-Shuffle: Towards High-Resolution Image Generation with Autoregressive Models**, Xu Ma et.al., Paper: [http://arxiv.org/abs/2504.17789v1](http://arxiv.org/abs/2504.17789v1)
+- 2025-04-24, **Aerial Image Classification in Scarce and Unconstrained Environments via Conformal Prediction**, Farhad Pourkamali-Anaraki et.al., Paper: [http://arxiv.org/abs/2504.17655v1](http://arxiv.org/abs/2504.17655v1)
+- 2025-04-24, **Replication and Exploration of Generative Retrieval over Dynamic Corpora**, Zhen Zhang et.al., Paper: [http://arxiv.org/abs/2504.17519v1](http://arxiv.org/abs/2504.17519v1)
+- 2025-04-24, **HMI: Hierarchical Knowledge Management for Efficient Multi-Tenant Inference in Pretrained Language Models**, Jun Zhang et.al., Paper: [http://arxiv.org/abs/2504.17449v1](http://arxiv.org/abs/2504.17449v1)
+- 2025-04-24, **Deep Reparameterization for Full Waveform Inversion: Architecture Benchmarking, Robust Inversion, and Multiphysics Extension**, Feng Liu et.al., Paper: [http://arxiv.org/abs/2504.17375v1](http://arxiv.org/abs/2504.17375v1)
+- 2025-04-24, **Class-Conditional Distribution Balancing for Group Robust Classification**, Miaoyun Zhao et.al., Paper: [http://arxiv.org/abs/2504.17314v1](http://arxiv.org/abs/2504.17314v1)
+- 2025-04-24, **DIVE: Inverting Conditional Diffusion Models for Discriminative Tasks**, Yinqi Li et.al., Paper: [http://arxiv.org/abs/2504.17253v1](http://arxiv.org/abs/2504.17253v1), Code: **[https://github.com/LiYinqi/DIVE](https://github.com/LiYinqi/DIVE)**
+- 2025-04-24, **Lessons from Deploying Learning-based CSI Localization on a Large-Scale ISAC Platform**, Tianyu Zhang et.al., Paper: [http://arxiv.org/abs/2504.17173v1](http://arxiv.org/abs/2504.17173v1)
+- 2025-04-23, **Optimizing LLMs for Italian: Reducing Token Fertility and Enhancing Efficiency Through Vocabulary Adaptation**, Luca Moroni et.al., Paper: [http://arxiv.org/abs/2504.17025v1](http://arxiv.org/abs/2504.17025v1)
+- 2025-04-23, **Safety Pretraining: Toward the Next Generation of Safe AI**, Pratyush Maini et.al., Paper: [http://arxiv.org/abs/2504.16980v1](http://arxiv.org/abs/2504.16980v1)
 - 2025-04-23, **Decoupled Global-Local Alignment for Improving Compositional Understanding**, Xiaoxing Hu et.al., Paper: [http://arxiv.org/abs/2504.16801v1](http://arxiv.org/abs/2504.16801v1)
 - 2025-04-23, **Federated EndoViT: Pretraining Vision Transformers via Federated Learning on Endoscopic Image Collections**, Max Kirchner et.al., Paper: [http://arxiv.org/abs/2504.16612v1](http://arxiv.org/abs/2504.16612v1)
 - 2025-04-23, **A Few-Shot Metric Learning Method with Dual-Channel Attention for Cross-Modal Same-Neuron Identification**, Wenwei Li et.al., Paper: [http://arxiv.org/abs/2504.16520v1](http://arxiv.org/abs/2504.16520v1)
@@ -4860,10 +4870,14 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20250425>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250426>back to top</a>)</p>
 
 ## downstream
 
+- 2025-04-24, **When Does Metadata Conditioning (NOT) Work for Language Model Pre-Training? A Study with Context-Free Grammars**, Rei Higuchi et.al., Paper: [http://arxiv.org/abs/2504.17562v1](http://arxiv.org/abs/2504.17562v1)
+- 2025-04-24, **Breaking the Modality Barrier: Universal Embedding Learning with Multimodal LLMs**, Tiancheng Gu et.al., Paper: [http://arxiv.org/abs/2504.17432v1](http://arxiv.org/abs/2504.17432v1)
+- 2025-04-23, **Optimizing LLMs for Italian: Reducing Token Fertility and Enhancing Efficiency Through Vocabulary Adaptation**, Luca Moroni et.al., Paper: [http://arxiv.org/abs/2504.17025v1](http://arxiv.org/abs/2504.17025v1)
+- 2025-04-23, **Tokenization Matters: Improving Zero-Shot NER for Indic Languages**, Priyaranjan Pattnayak et.al., Paper: [http://arxiv.org/abs/2504.16977v1](http://arxiv.org/abs/2504.16977v1)
 - 2025-04-23, **Exploring zero-shot structure-based protein fitness prediction**, Arnav Sharma et.al., Paper: [http://arxiv.org/abs/2504.16886v1](http://arxiv.org/abs/2504.16886v1)
 - 2025-04-23, **Decoupled Global-Local Alignment for Improving Compositional Understanding**, Xiaoxing Hu et.al., Paper: [http://arxiv.org/abs/2504.16801v1](http://arxiv.org/abs/2504.16801v1)
 - 2025-04-23, **Random Long-Context Access for Mamba via Hardware-aligned Hierarchical Sparse Attention**, Xiang Hu et.al., Paper: [http://arxiv.org/abs/2504.16795v1](http://arxiv.org/abs/2504.16795v1)
@@ -9324,7 +9338,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20250425>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250426>back to top</a>)</p>
 
 ## adaptor
 
@@ -9500,10 +9514,14 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20250425>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250426>back to top</a>)</p>
 
 ## object detection
 
+- 2025-04-24, **DIVE: Inverting Conditional Diffusion Models for Discriminative Tasks**, Yinqi Li et.al., Paper: [http://arxiv.org/abs/2504.17253v1](http://arxiv.org/abs/2504.17253v1), Code: **[https://github.com/LiYinqi/DIVE](https://github.com/LiYinqi/DIVE)**
+- 2025-04-24, **Perspective-Aware Reasoning in Vision-Language Models via Mental Imagery Simulation**, Phillip Y. Lee et.al., Paper: [http://arxiv.org/abs/2504.17207v1](http://arxiv.org/abs/2504.17207v1)
+- 2025-04-24, **AUTHENTICATION: Identifying Rare Failure Modes in Autonomous Vehicle Perception Systems using Adversarially Guided Diffusion Models**, Mohammad Zarei et.al., Paper: [http://arxiv.org/abs/2504.17179v1](http://arxiv.org/abs/2504.17179v1)
+- 2025-04-23, **Scene-Aware Location Modeling for Data Augmentation in Automotive Object Detection**, Jens Petersen et.al., Paper: [http://arxiv.org/abs/2504.17076v1](http://arxiv.org/abs/2504.17076v1)
 - 2025-04-23, **Gaussian Splatting is an Effective Data Generator for 3D Object Detection**, Farhad G. Zanjani et.al., Paper: [http://arxiv.org/abs/2504.16740v1](http://arxiv.org/abs/2504.16740v1)
 - 2025-04-23, **EHGCN: Hierarchical Euclidean-Hyperbolic Fusion via Motion-Aware GCN for Hybrid Event Stream Perception**, Haosheng Chen et.al., Paper: [http://arxiv.org/abs/2504.16616v1](http://arxiv.org/abs/2504.16616v1)
 - 2025-04-23, **Beyond Anonymization: Object Scrubbing for Privacy-Preserving 2D and 3D Vision Tasks**, Murat Bilgehan Ertan et.al., Paper: [http://arxiv.org/abs/2504.16557v1](http://arxiv.org/abs/2504.16557v1)
@@ -13459,7 +13477,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20250425>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250426>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
