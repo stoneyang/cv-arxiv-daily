@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.29
+## Updated on 2025.04.30
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-28**|**Breast Cancer Detection from Multi-View Screening Mammograms with Visual Prompt Tuning**|Han Chen et.al.|[2504.19900v1](http://arxiv.org/abs/2504.19900v1)|null|
+|**2025-04-28**|**Enhancing breast cancer detection on screening mammogram using self-supervised learning and a hybrid deep model of Swin Transformer and Convolutional Neural Network**|Han Chen et.al.|[2504.19888v1](http://arxiv.org/abs/2504.19888v1)|null|
+|**2025-04-28**|**Efficient Domain-adaptive Continual Pretraining for the Process Industry in the German Language**|Anastasia Zhukova et.al.|[2504.19856v1](http://arxiv.org/abs/2504.19856v1)|null|
+|**2025-04-28**|**Contextures: The Mechanism of Representation Learning**|Runtian Zhai et.al.|[2504.19792v1](http://arxiv.org/abs/2504.19792v1)|null|
+|**2025-04-28**|**GPA-RAM: Grasp-Pretraining Augmented Robotic Attention Mamba for Spatial Task Learning**|Juyi Sheng et.al.|[2504.19683v1](http://arxiv.org/abs/2504.19683v1)|null|
+|**2025-04-28**|**DISCO: learning to DISCover an evolution Operator for multi-physics-agnostic prediction**|Rudy Morel et.al.|[2504.19496v1](http://arxiv.org/abs/2504.19496v1)|null|
+|**2025-04-29**|**Unified Multi-Task Learning & Model Fusion for Efficient Language Model Guardrailing**|James O' Neill et.al.|[2504.19333v2](http://arxiv.org/abs/2504.19333v2)|null|
+|**2025-04-27**|**Platonic Grounding for Efficient Multimodal Language Models**|Moulik Choraria et.al.|[2504.19327v1](http://arxiv.org/abs/2504.19327v1)|null|
+|**2025-04-26**|**Improving Pretrained YAMNet for Enhanced Speech Command Detection via Transfer Learning**|Sidahmed Lachenani et.al.|[2504.19030v1](http://arxiv.org/abs/2504.19030v1)|null|
+|**2025-04-26**|**CAMeL: Cross-modality Adaptive Meta-Learning for Text-based Person Retrieval**|Hang Yu et.al.|[2504.18782v1](http://arxiv.org/abs/2504.18782v1)|null|
 |**2025-04-25**|**Generalization Capability for Imitation Learning**|Yixiao Wang et.al.|[2504.18538v1](http://arxiv.org/abs/2504.18538v1)|null|
 |**2025-04-25**|**Music Tempo Estimation on Solo Instrumental Performance**|Zhanhong He et.al.|[2504.18502v1](http://arxiv.org/abs/2504.18502v1)|null|
 |**2025-04-25**|**Reason Like a Radiologist: Chain-of-Thought and Reinforcement Learning for Verifiable Report Generation**|Peiyuan Jing et.al.|[2504.18453v1](http://arxiv.org/abs/2504.18453v1)|null|
@@ -4882,12 +4892,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250429>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250430>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-28**|**More Clear, More Flexible, More Precise: A Comprehensive Oriented Object Detection benchmark for UAV**|Kai Ye et.al.|[2504.20032v1](http://arxiv.org/abs/2504.20032v1)|null|
+|**2025-04-28**|**Enhancing breast cancer detection on screening mammogram using self-supervised learning and a hybrid deep model of Swin Transformer and Convolutional Neural Network**|Han Chen et.al.|[2504.19888v1](http://arxiv.org/abs/2504.19888v1)|null|
+|**2025-04-28**|**HOIGaze: Gaze Estimation During Hand-Object Interactions in Extended Reality Exploiting Eye-Hand-Head Coordination**|Zhiming Hu et.al.|[2504.19828v1](http://arxiv.org/abs/2504.19828v1)|null|
+|**2025-04-28**|**Taming the Randomness: Towards Label-Preserving Cropping in Contrastive Learning**|Mohamed Hassan et.al.|[2504.19824v1](http://arxiv.org/abs/2504.19824v1)|null|
+|**2025-04-28**|**Reinforcement Learning-Based Heterogeneous Multi-Task Optimization in Semantic Broadcast Communications**|Zhilin Lu et.al.|[2504.19806v1](http://arxiv.org/abs/2504.19806v1)|null|
+|**2025-04-28**|**Contextures: The Mechanism of Representation Learning**|Runtian Zhai et.al.|[2504.19792v1](http://arxiv.org/abs/2504.19792v1)|null|
+|**2025-04-29**|**If Concept Bottlenecks are the Question, are Foundation Models the Answer?**|Nicola Debole et.al.|[2504.19774v2](http://arxiv.org/abs/2504.19774v2)|null|
+|**2025-04-28**|**GAN-SLAM: Real-Time GAN Aided Floor Plan Creation Through SLAM**|Leon Davies et.al.|[2504.19653v1](http://arxiv.org/abs/2504.19653v1)|null|
+|**2025-04-28**|**Towards Robust Multimodal Physiological Foundation Models: Handling Arbitrary Missing Modalities**|Xi Fu et.al.|[2504.19596v1](http://arxiv.org/abs/2504.19596v1)|null|
+|**2025-04-28**|**SAMBLE: Shape-Specific Point Cloud Sampling for an Optimal Trade-Off Between Local Detail and Global Uniformity**|Chengzhi Wu et.al.|[2504.19581v1](http://arxiv.org/abs/2504.19581v1)|null|
 |**2025-04-25**|**Boxi: Design Decisions in the Context of Algorithmic Performance for Robotics**|Jonas Frey et.al.|[2504.18500v1](http://arxiv.org/abs/2504.18500v1)|null|
 |**2025-04-25**|**Enhancing Strawberry Yield Forecasting with Backcasted IoT Sensor Data and Machine Learning**|Tewodros Alemu Ayall et.al.|[2504.18451v1](http://arxiv.org/abs/2504.18451v1)|null|
 |**2025-04-25**|**NoiseController: Towards Consistent Multi-view Video Generation via Noise Decomposition and Collaboration**|Haotian Dong et.al.|[2504.18448v1](http://arxiv.org/abs/2504.18448v1)|null|
@@ -9359,12 +9379,13 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20250429>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250430>back to top</a>)</p>
 
 ## adaptor
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-27**|**Segmenting Objectiveness and Task-awareness Unknown Region for Autonomous Driving**|Mi Zheng et.al.|[2504.19183v1](http://arxiv.org/abs/2504.19183v1)|null|
 |**2025-04-22**|**Efficient Temporal Consistency in Diffusion-Based Video Editing with Adaptor Modules: A Theoretical Framework**|Xinyuan Song et.al.|[2504.16016v1](http://arxiv.org/abs/2504.16016v1)|null|
 |**2025-04-17**|**All-in-One Transferring Image Compression from Human Perception to Multi-Machine Perception**|Jiancheng Zhao et.al.|[2504.12997v1](http://arxiv.org/abs/2504.12997v1)|null|
 |**2025-03-29**|**Optimal Transport-Guided Source-Free Adaptation for Face Anti-Spoofing**|Zhuowei Li et.al.|[2503.22984v1](http://arxiv.org/abs/2503.22984v1)|null|
@@ -9537,12 +9558,22 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250429>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250430>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-28**|**More Clear, More Flexible, More Precise: A Comprehensive Oriented Object Detection benchmark for UAV**|Kai Ye et.al.|[2504.20032v1](http://arxiv.org/abs/2504.20032v1)|null|
+|**2025-04-28**|**Lossy Source Coding with Focal Loss**|Alex Dytso et.al.|[2504.19913v1](http://arxiv.org/abs/2504.19913v1)|null|
+|**2025-04-28**|**Neural network task specialization via domain constraining**|Roman Malashin et.al.|[2504.19592v1](http://arxiv.org/abs/2504.19592v1)|null|
+|**2025-04-28**|**GMAR: Gradient-Driven Multi-Head Attention Rollout for Vision Transformer Interpretability**|Sehyeong Jo et.al.|[2504.19414v1](http://arxiv.org/abs/2504.19414v1)|null|
+|**2025-04-27**|**Improving Small Drone Detection Through Multi-Scale Processing and Data Augmentation**|Rayson Laroca et.al.|[2504.19347v1](http://arxiv.org/abs/2504.19347v1)|null|
+|**2025-04-27**|**ODExAI: A Comprehensive Object Detection Explainable AI Evaluation**|Loc Phuc Truong Nguyen et.al.|[2504.19249v1](http://arxiv.org/abs/2504.19249v1)|null|
+|**2025-04-27**|**Boosting Single-domain Generalized Object Detection via Vision-Language Knowledge Interaction**|Xiaoran Xu et.al.|[2504.19086v1](http://arxiv.org/abs/2504.19086v1)|null|
+|**2025-04-26**|**Federated Learning-based Semantic Segmentation for Lane and Object Detection in Autonomous Driving**|Gharbi Khamis Alshammari et.al.|[2504.18939v1](http://arxiv.org/abs/2504.18939v1)|null|
+|**2025-04-25**|**Dream-Box: Object-wise Outlier Generation for Out-of-Distribution Detection**|Brian K. S. Isaac-Medina et.al.|[2504.18746v1](http://arxiv.org/abs/2504.18746v1)|null|
+|**2025-04-25**|**A Review of 3D Object Detection with Vision-Language Models**|Ranjan Sapkota et.al.|[2504.18738v1](http://arxiv.org/abs/2504.18738v1)|null|
 |**2025-04-25**|**Examining the Impact of Optical Aberrations to Image Classification and Object Detection Models**|Patrick Müller et.al.|[2504.18510v1](http://arxiv.org/abs/2504.18510v1)|null|
 |**2025-04-25**|**Iterative Event-based Motion Segmentation by Variational Contrast Maximization**|Ryo Yamaki et.al.|[2504.18447v1](http://arxiv.org/abs/2504.18447v1)|null|
 |**2025-04-25**|**A Multimodal Hybrid Late-Cascade Fusion Network for Enhanced 3D Object Detection**|Carlo Sgaravatti et.al.|[2504.18419v1](http://arxiv.org/abs/2504.18419v1)|null|
@@ -13512,7 +13543,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20250429>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250430>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
