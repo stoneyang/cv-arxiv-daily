@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.02
+## Updated on 2025.05.03
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-01**|**On the generalization of language models from in-context learning and finetuning: a controlled study**|Andrew K. Lampinen et.al.|[2505.00661v1](http://arxiv.org/abs/2505.00661v1)|null|
+|**2025-05-01**|**FineScope : Precision Pruning for Domain-Specialized Large Language Models Using SAE-Guided Self-Data Cultivation**|Chaitali Bhattacharyya et.al.|[2505.00624v1](http://arxiv.org/abs/2505.00624v1)|null|
+|**2025-05-01**|**Leveraging Partial SMILES Validation Scheme for Enhanced Drug Design in Reinforcement Learning Frameworks**|Xinyu Wang et.al.|[2505.00530v1](http://arxiv.org/abs/2505.00530v1)|null|
+|**2025-05-01**|**Pre-Training Estimators for Structural Models: Application to Consumer Search**|Yanhao 'Max' Wei et.al.|[2505.00526v1](http://arxiv.org/abs/2505.00526v1)|null|
+|**2025-05-01**|**Leveraging Pretrained Diffusion Models for Zero-Shot Part Assembly**|Ruiyuan Zhang et.al.|[2505.00426v1](http://arxiv.org/abs/2505.00426v1)|null|
+|**2025-05-01**|**Automated segmenta-on of pediatric neuroblastoma on multi-modal MRI: Results of the SPPIN challenge at MICCAI 2023**|M. A. D. Buser et.al.|[2505.00369v1](http://arxiv.org/abs/2505.00369v1)|null|
+|**2025-05-01**|**Statistical Learning for Heterogeneous Treatment Effects: Pretraining, Prognosis, and Prediction**|Maximilian Schuessler et.al.|[2505.00310v1](http://arxiv.org/abs/2505.00310v1)|null|
+|**2025-04-30**|**Detecting and Mitigating Hateful Content in Multimodal Memes with Vision-Language Models**|Minh-Hao Van et.al.|[2505.00150v1](http://arxiv.org/abs/2505.00150v1)|null|
 |**2025-04-30**|**ReVision: High-Quality, Low-Cost Video Generation with Explicit 3D Physics Modeling for Complex Motion and Interaction**|Qihao Liu et.al.|[2504.21855v1](http://arxiv.org/abs/2504.21855v1)|null|
 |**2025-04-30**|**Meta knowledge assisted Evolutionary Neural Architecture Search**|Yangyang Li et.al.|[2504.21545v1](http://arxiv.org/abs/2504.21545v1)|null|
 |**2025-04-30**|**Improving Informally Romanized Language Identification**|Adrian Benton et.al.|[2504.21540v1](http://arxiv.org/abs/2504.21540v1)|null|
@@ -4909,12 +4917,19 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250502>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250503>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-01**|**Brain Foundation Models with Hypergraph Dynamic Adapter for Brain Disease Analysis**|Zhongying Deng et.al.|[2505.00627v1](http://arxiv.org/abs/2505.00627v1)|null|
+|**2025-05-01**|**Block Circulant Adapter for Large Language Models**|Xinyu Ding et.al.|[2505.00582v1](http://arxiv.org/abs/2505.00582v1)|null|
+|**2025-04-30**|**AnimalMotionCLIP: Embedding motion in CLIP for Animal Behavior Analysis**|Enmin Zhong et.al.|[2505.00569v1](http://arxiv.org/abs/2505.00569v1)|null|
+|**2025-05-01**|**Multimodal Masked Autoencoder Pre-training for 3D MRI-Based Brain Tumor Analysis with Missing Modalities**|Lucas Robinet et.al.|[2505.00568v1](http://arxiv.org/abs/2505.00568v1)|null|
+|**2025-05-01**|**TeLoGraF: Temporal Logic Planning via Graph-encoded Flow Matching**|Yue Meng et.al.|[2505.00562v1](http://arxiv.org/abs/2505.00562v1)|null|
+|**2025-05-01**|**Quaternion Wavelet-Conditioned Diffusion Models for Image Super-Resolution**|Luigi Sigillo et.al.|[2505.00334v1](http://arxiv.org/abs/2505.00334v1)|null|
+|**2025-04-30**|**Efficient and robust 3D blind harmonization for large domain gaps**|Hwihun Jeong et.al.|[2505.00133v1](http://arxiv.org/abs/2505.00133v1)|null|
 |**2025-04-30**|**Investigating the Effect of Parallel Data in the Cross-Lingual Transfer for Vision-Language Encoders**|Andrei-Alexandru Manea et.al.|[2504.21681v1](http://arxiv.org/abs/2504.21681v1)|null|
 |**2025-04-30**|**CAE-DFKD: Bridging the Transferability Gap in Data-Free Knowledge Distillation**|Zherui Zhang et.al.|[2504.21478v1](http://arxiv.org/abs/2504.21478v1)|null|
 |**2025-04-30**|**Diff-Prompt: Diffusion-Driven Prompt Generator with Mask Supervision**|Weicai Yan et.al.|[2504.21423v1](http://arxiv.org/abs/2504.21423v1)|null|
@@ -9408,7 +9423,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20250502>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250503>back to top</a>)</p>
 
 ## adaptor
 
@@ -9587,12 +9602,21 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250502>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250503>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-01**|**Vision Mamba in Remote Sensing: A Comprehensive Survey of Techniques, Applications and Outlook**|Muyi Bao et.al.|[2505.00630v1](http://arxiv.org/abs/2505.00630v1)|null|
+|**2025-05-01**|**Visual Trajectory Prediction of Vessels for Inland Navigation**|Alexander Puzicha et.al.|[2505.00599v1](http://arxiv.org/abs/2505.00599v1)|null|
+|**2025-05-01**|**Synthesizing and Identifying Noise Levels in Autonomous Vehicle Camera Radar Datasets**|Mathis Morales et.al.|[2505.00584v1](http://arxiv.org/abs/2505.00584v1)|null|
+|**2025-05-01**|**X-ray illicit object detection using hybrid CNN-transformer neural network architectures**|Jorgen Cani et.al.|[2505.00564v1](http://arxiv.org/abs/2505.00564v1)|null|
+|**2025-05-01**|**A Robust Deep Networks based Multi-Object MultiCamera Tracking System for City Scale Traffic**|Muhammad Imran Zaman et.al.|[2505.00534v1](http://arxiv.org/abs/2505.00534v1)|null|
+|**2025-05-01**|**Inconsistency-based Active Learning for LiDAR Object Detection**|Esteban Rivera et.al.|[2505.00511v1](http://arxiv.org/abs/2505.00511v1)|null|
+|**2025-05-01**|**HeAL3D: Heuristical-enhanced Active Learning for 3D Object Detection**|Esteban Rivera et.al.|[2505.00507v1](http://arxiv.org/abs/2505.00507v1)|null|
+|**2025-05-01**|**Quaternion Wavelet-Conditioned Diffusion Models for Image Super-Resolution**|Luigi Sigillo et.al.|[2505.00334v1](http://arxiv.org/abs/2505.00334v1)|null|
+|**2025-04-30**|**V3LMA: Visual 3D-enhanced Language Model for Autonomous Driving**|Jannik Lübberstedt et.al.|[2505.00156v1](http://arxiv.org/abs/2505.00156v1)|null|
 |**2025-04-30**|**LLM-Empowered Embodied Agent for Memory-Augmented Task Planning in Household Robotics**|Marc Glocker et.al.|[2504.21716v1](http://arxiv.org/abs/2504.21716v1)|null|
 |**2025-04-29**|**T2ID-CAS: Diffusion Model and Class Aware Sampling to Mitigate Class Imbalance in Neck Ultrasound Anatomical Landmark Detection**|Manikanta Varaganti et.al.|[2504.21231v1](http://arxiv.org/abs/2504.21231v1)|null|
 |**2025-04-29**|**FLIM-based Salient Object Detection Networks with Adaptive Decoders**|Gilson Junior Soares et.al.|[2504.20872v1](http://arxiv.org/abs/2504.20872v1)|null|
@@ -13578,7 +13602,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20250502>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250503>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
