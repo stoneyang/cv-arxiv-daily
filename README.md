@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.07
+## Updated on 2025.05.08
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**Corner Cases: How Size and Position of Objects Challenge ImageNet-Trained Models**|Mishal Fatima et.al.|[2505.03569v1](http://arxiv.org/abs/2505.03569v1)|null|
+|**2025-05-06**|**Phenotype-Guided Generative Model for High-Fidelity Cardiac MRI Synthesis: Advancing Pretraining and Clinical Applications**|Ziyu Li et.al.|[2505.03426v1](http://arxiv.org/abs/2505.03426v1)|null|
+|**2025-05-06**|**Mitigating Image Captioning Hallucinations in Vision-Language Models**|Fei Zhao et.al.|[2505.03420v1](http://arxiv.org/abs/2505.03420v1)|null|
+|**2025-05-06**|**Domain Adversarial Training for Mitigating Gender Bias in Speech-based Mental Health Detection**|June-Woo Kim et.al.|[2505.03359v1](http://arxiv.org/abs/2505.03359v1)|null|
+|**2025-05-07**|**Absolute Zero: Reinforced Self-play Reasoning with Zero Data**|Andrew Zhao et.al.|[2505.03335v2](http://arxiv.org/abs/2505.03335v2)|**[link](https://github.com/LeapLabTHU/Absolute-Zero-Reasoner)**|
+|**2025-05-06**|**Recall with Reasoning: Chain-of-Thought Distillation for Mamba's Long-Context Memory and Extrapolation**|Junyu Ma et.al.|[2505.03320v1](http://arxiv.org/abs/2505.03320v1)|null|
+|**2025-05-06**|**Artificial Behavior Intelligence: Technology, Challenges, and Future Directions**|Kanghyun Jo et.al.|[2505.03315v1](http://arxiv.org/abs/2505.03315v1)|null|
+|**2025-05-06**|**Comparative Analysis of Lightweight Deep Learning Models for Memory-Constrained Devices**|Tasnim Shahriar et.al.|[2505.03303v1](http://arxiv.org/abs/2505.03303v1)|null|
+|**2025-05-06**|**3D Can Be Explored In 2D: Pseudo-Label Generation for LiDAR Point Clouds Using Sensor-Intensity-Based 2D Semantic Segmentation**|Andrew Caunes et.al.|[2505.03300v1](http://arxiv.org/abs/2505.03300v1)|null|
+|**2025-05-06**|**Multi-Agent Deep Reinforcement Learning for Zonal Ancillary Market Coupling**|Francesco Morri et.al.|[2505.03288v1](http://arxiv.org/abs/2505.03288v1)|null|
 |**2025-05-05**|**LISAT: Language-Instructed Segmentation Assistant for Satellite Imagery**|Jerome Quenum et.al.|[2505.02829v1](http://arxiv.org/abs/2505.02829v1)|null|
 |**2025-05-05**|**Multimodal Deep Learning for Stroke Prediction and Detection using Retinal Imaging and Clinical Data**|Saeed Shurrab et.al.|[2505.02677v1](http://arxiv.org/abs/2505.02677v1)|null|
 |**2025-05-05**|**DeepSparse: A Foundation Model for Sparse-View CBCT Reconstruction**|Yiqun Lin et.al.|[2505.02628v1](http://arxiv.org/abs/2505.02628v1)|null|
@@ -4930,14 +4940,21 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250507>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250508>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**Fill the Gap: Quantifying and Reducing the Modality Gap in Image-Text Representation Learning**|François Role et.al.|[2505.03703v1](http://arxiv.org/abs/2505.03703v1)|null|
+|**2025-05-06**|**A Comprehensive Survey of Large AI Models for Future Communications: Foundations, Applications and Challenges**|Feibo Jiang et.al.|[2505.03556v1](http://arxiv.org/abs/2505.03556v1)|null|
+|**2025-05-06**|**BadLingual: A Novel Lingual-Backdoor Attack against Large Language Models**|Zihan Wang et.al.|[2505.03501v1](http://arxiv.org/abs/2505.03501v1)|null|
+|**2025-05-06**|**Phenotype-Guided Generative Model for High-Fidelity Cardiac MRI Synthesis: Advancing Pretraining and Clinical Applications**|Ziyu Li et.al.|[2505.03426v1](http://arxiv.org/abs/2505.03426v1)|null|
+|**2025-05-06**|**Towards Efficient Benchmarking of Foundation Models in Remote Sensing: A Capabilities Encoding Approach**|Pierre Adorni et.al.|[2505.03299v1](http://arxiv.org/abs/2505.03299v1)|**[link](https://github.com/pierreadorni/capabilities-encoding)**|
+|**2025-05-06**|**DocSpiral: A Platform for Integrated Assistive Document Annotation through Human-in-the-Spiral**|Qiang Sun et.al.|[2505.03214v1](http://arxiv.org/abs/2505.03214v1)|null|
+|**2025-05-06**|**Not All Parameters Matter: Masking Diffusion Models for Enhancing Generation Ability**|Lei Wang et.al.|[2505.03097v1](http://arxiv.org/abs/2505.03097v1)|null|
 |**2025-05-05**|**HSplitLoRA: A Heterogeneous Split Parameter-Efficient Fine-Tuning Framework for Large Language Models**|Zheng Lin et.al.|[2505.02795v1](http://arxiv.org/abs/2505.02795v1)|null|
-|**2025-05-06**|**VGLD: Visually-Guided Linguistic Disambiguation for Monocular Depth Scale Recovery**|Bojin Wu et.al.|[2505.02704v2](http://arxiv.org/abs/2505.02704v2)|null|
+|**2025-05-06**|**VGLD: Visually-Guided Linguistic Disambiguation for Monocular Depth Scale Recovery**|Bojin Wu et.al.|[2505.02704v2](http://arxiv.org/abs/2505.02704v2)|**[link](https://github.com/pakinwu/vgld)**|
 |**2025-05-05**|**Towards Cross-Modality Modeling for Time Series Analytics: A Survey in the LLM Era**|Chenxi Liu et.al.|[2505.02583v1](http://arxiv.org/abs/2505.02583v1)|null|
 |**2025-05-05**|**JTCSE: Joint Tensor-Modulus Constraints and Cross-Attention for Unsupervised Contrastive Learning of Sentence Embeddings**|Tianyu Zong et.al.|[2505.02366v1](http://arxiv.org/abs/2505.02366v1)|null|
 |**2025-05-05**|**Social Biases in Knowledge Representations of Wikidata separates Global North from Global South**|Paramita Das et.al.|[2505.02352v1](http://arxiv.org/abs/2505.02352v1)|null|
@@ -9450,7 +9467,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20250507>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250508>back to top</a>)</p>
 
 ## adaptor
 
@@ -9629,12 +9646,16 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250507>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250508>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**LogisticsVLN: Vision-Language Navigation For Low-Altitude Terminal Delivery Based on Agentic UAVs**|Xinyuan Zhang et.al.|[2505.03460v1](http://arxiv.org/abs/2505.03460v1)|null|
+|**2025-05-06**|**From Word to Sentence: A Large-Scale Multi-Instance Dataset for Open-Set Aerial Detection**|Guoting Wei et.al.|[2505.03334v1](http://arxiv.org/abs/2505.03334v1)|null|
+|**2025-05-06**|**VISLIX: An XAI Framework for Validating Vision Models with Slice Discovery and Analysis**|Xinyuan Yan et.al.|[2505.03132v1](http://arxiv.org/abs/2505.03132v1)|null|
+|**2025-05-05**|**Sim2Real Transfer for Vision-Based Grasp Verification**|Pau Amargant et.al.|[2505.03046v1](http://arxiv.org/abs/2505.03046v1)|**[link](https://github.com/pauamargant/hsr-graspsynth)**|
 |**2025-05-05**|**DPNet: Dynamic Pooling Network for Tiny Object Detection**|Luqi Gong et.al.|[2505.02797v1](http://arxiv.org/abs/2505.02797v1)|null|
 |**2025-05-05**|**RGBX-DiffusionDet: A Framework for Multi-Modal RGB-X Object Detection Using DiffusionDet**|Eliraz Orfaig et.al.|[2505.02586v1](http://arxiv.org/abs/2505.02586v1)|null|
 |**2025-05-05**|**Point Cloud Recombination: Systematic Real Data Augmentation Using Robotic Targets for LiDAR Perception Validation**|Hubert Padusinski et.al.|[2505.02476v1](http://arxiv.org/abs/2505.02476v1)|null|
@@ -13640,7 +13661,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20250507>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250508>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
