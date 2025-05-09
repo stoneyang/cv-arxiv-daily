@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2025.05.08
+> Updated on 2025.05.09
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,13 @@
 
 ## pretrain
 
+- 2025-05-07, **Score Distillation Sampling for Audio: Source Separation, Synthesis, and Beyond**, Jessie Richter-Powell et.al., Paper: [http://arxiv.org/abs/2505.04621v1](http://arxiv.org/abs/2505.04621v1)
+- 2025-05-07, **Efficient Flow Matching using Latent Variables**, Anirban Samaddar et.al., Paper: [http://arxiv.org/abs/2505.04486v1](http://arxiv.org/abs/2505.04486v1)
+- 2025-05-07, **CAD-Llama: Leveraging Large Language Models for Computer-Aided Design Parametric 3D Model Generation**, Jiahao Li et.al., Paper: [http://arxiv.org/abs/2505.04481v1](http://arxiv.org/abs/2505.04481v1)
+- 2025-05-07, **Bridging Geometry-Coherent Text-to-3D Generation with Multi-View Diffusion Priors and Gaussian Splatting**, Feng Yang et.al., Paper: [http://arxiv.org/abs/2505.04262v1](http://arxiv.org/abs/2505.04262v1)
+- 2025-05-07, **CM1 -- A Dataset for Evaluating Few-Shot Information Extraction with Large Vision Language Models**, Fabian Wolf et.al., Paper: [http://arxiv.org/abs/2505.04214v1](http://arxiv.org/abs/2505.04214v1)
+- 2025-05-07, **Advancing Zero-shot Text-to-Speech Intelligibility across Diverse Domains via Preference Alignment**, Xueyao Zhang et.al., Paper: [http://arxiv.org/abs/2505.04113v1](http://arxiv.org/abs/2505.04113v1)
+- 2025-05-07, **Reliable Disentanglement Multi-view Learning Against View Adversarial Attacks**, Xuyang Wang et.al., Paper: [http://arxiv.org/abs/2505.04046v1](http://arxiv.org/abs/2505.04046v1)
 - 2025-05-06, **Corner Cases: How Size and Position of Objects Challenge ImageNet-Trained Models**, Mishal Fatima et.al., Paper: [http://arxiv.org/abs/2505.03569v1](http://arxiv.org/abs/2505.03569v1)
 - 2025-05-06, **Phenotype-Guided Generative Model for High-Fidelity Cardiac MRI Synthesis: Advancing Pretraining and Clinical Applications**, Ziyu Li et.al., Paper: [http://arxiv.org/abs/2505.03426v1](http://arxiv.org/abs/2505.03426v1)
 - 2025-05-06, **Mitigating Image Captioning Hallucinations in Vision-Language Models**, Fei Zhao et.al., Paper: [http://arxiv.org/abs/2505.03420v1](http://arxiv.org/abs/2505.03420v1)
@@ -4938,10 +4945,16 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20250508>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250509>back to top</a>)</p>
 
 ## downstream
 
+- 2025-05-07, **Communication-Efficient Federated Fine-Tuning of Language Models via Dynamic Update Schedules**, Michail Theologitis et.al., Paper: [http://arxiv.org/abs/2505.04535v1](http://arxiv.org/abs/2505.04535v1)
+- 2025-05-08, **HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation**, Teng Hu et.al., Paper: [http://arxiv.org/abs/2505.04512v2](http://arxiv.org/abs/2505.04512v2)
+- 2025-05-07, **A Survey on Temporal Interaction Graph Representation Learning: Progress, Challenges, and Opportunities**, Pengfei Jiao et.al., Paper: [http://arxiv.org/abs/2505.04461v1](http://arxiv.org/abs/2505.04461v1)
+- 2025-05-07, **Balancing Accuracy, Calibration, and Efficiency in Active Learning with Vision Transformers Under Label Noise**, Moseli Mots'oehli et.al., Paper: [http://arxiv.org/abs/2505.04375v1](http://arxiv.org/abs/2505.04375v1)
+- 2025-05-07, **Vision Graph Prompting via Semantic Low-Rank Decomposition**, Zixiang Ai et.al., Paper: [http://arxiv.org/abs/2505.04121v1](http://arxiv.org/abs/2505.04121v1), Code: **[https://github.com/zhoujiahuan1991/icml2025-vgp](https://github.com/zhoujiahuan1991/icml2025-vgp)**
+- 2025-05-07, **GAPrompt: Geometry-Aware Point Cloud Prompt for 3D Vision Model**, Zixiang Ai et.al., Paper: [http://arxiv.org/abs/2505.04119v1](http://arxiv.org/abs/2505.04119v1), Code: **[https://github.com/zhoujiahuan1991/icml2025-vgp](https://github.com/zhoujiahuan1991/icml2025-vgp)**
 - 2025-05-06, **Fill the Gap: Quantifying and Reducing the Modality Gap in Image-Text Representation Learning**, François Role et.al., Paper: [http://arxiv.org/abs/2505.03703v1](http://arxiv.org/abs/2505.03703v1)
 - 2025-05-06, **A Comprehensive Survey of Large AI Models for Future Communications: Foundations, Applications and Challenges**, Feibo Jiang et.al., Paper: [http://arxiv.org/abs/2505.03556v1](http://arxiv.org/abs/2505.03556v1)
 - 2025-05-06, **BadLingual: A Novel Lingual-Backdoor Attack against Large Language Models**, Zihan Wang et.al., Paper: [http://arxiv.org/abs/2505.03501v1](http://arxiv.org/abs/2505.03501v1)
@@ -9463,10 +9476,11 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20250508>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250509>back to top</a>)</p>
 
 ## adaptor
 
+- 2025-05-02, **Efficient Fine-Tuning of Quantized Models via Adaptive Rank and Bitwidth**, Changhai Zhou et.al., Paper: [http://arxiv.org/abs/2505.03802v1](http://arxiv.org/abs/2505.03802v1)
 - 2025-04-27, **Segmenting Objectiveness and Task-awareness Unknown Region for Autonomous Driving**, Mi Zheng et.al., Paper: [http://arxiv.org/abs/2504.19183v1](http://arxiv.org/abs/2504.19183v1)
 - 2025-04-22, **Efficient Temporal Consistency in Diffusion-Based Video Editing with Adaptor Modules: A Theoretical Framework**, Xinyuan Song et.al., Paper: [http://arxiv.org/abs/2504.16016v1](http://arxiv.org/abs/2504.16016v1)
 - 2025-04-17, **All-in-One Transferring Image Compression from Human Perception to Multi-Machine Perception**, Jiancheng Zhao et.al., Paper: [http://arxiv.org/abs/2504.12997v1](http://arxiv.org/abs/2504.12997v1)
@@ -9640,10 +9654,12 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20250508>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250509>back to top</a>)</p>
 
 ## object detection
 
+- 2025-05-08, **MonoCoP: Chain-of-Prediction for Monocular 3D Object Detection**, Zhihao Zhang et.al., Paper: [http://arxiv.org/abs/2505.04594v2](http://arxiv.org/abs/2505.04594v2)
+- 2025-05-07, **DeCLIP: Decoupled Learning for Open-Vocabulary Dense Perception**, Junjie Wang et.al., Paper: [http://arxiv.org/abs/2505.04410v1](http://arxiv.org/abs/2505.04410v1)
 - 2025-05-06, **LogisticsVLN: Vision-Language Navigation For Low-Altitude Terminal Delivery Based on Agentic UAVs**, Xinyuan Zhang et.al., Paper: [http://arxiv.org/abs/2505.03460v1](http://arxiv.org/abs/2505.03460v1)
 - 2025-05-06, **From Word to Sentence: A Large-Scale Multi-Instance Dataset for Open-Set Aerial Detection**, Guoting Wei et.al., Paper: [http://arxiv.org/abs/2505.03334v1](http://arxiv.org/abs/2505.03334v1)
 - 2025-05-06, **VISLIX: An XAI Framework for Validating Vision Models with Slice Discovery and Analysis**, Xinyuan Yan et.al., Paper: [http://arxiv.org/abs/2505.03132v1](http://arxiv.org/abs/2505.03132v1)
@@ -13653,7 +13669,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20250508>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250509>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
