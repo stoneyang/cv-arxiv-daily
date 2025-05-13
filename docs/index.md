@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.12
+## Updated on 2025.05.13
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-09**|**Towards a Unified Representation Evaluation Framework Beyond Downstream Tasks**|Christos Plachouras et.al.|[2505.06224v1](http://arxiv.org/abs/2505.06224v1)|null|
+|**2025-05-09**|**MonetGPT: Solving Puzzles Enhances MLLMs' Image Retouching Skills**|Niladri Shekhar Dutt et.al.|[2505.06176v1](http://arxiv.org/abs/2505.06176v1)|null|
+|**2025-05-09**|**DiffLocks: Generating 3D Hair from a Single Image using Diffusion Models**|Radu Alexandru Rosu et.al.|[2505.06166v1](http://arxiv.org/abs/2505.06166v1)|null|
+|**2025-05-09**|**UniVLA: Learning to Act Anywhere with Task-centric Latent Actions**|Qingwen Bu et.al.|[2505.06111v1](http://arxiv.org/abs/2505.06111v1)|**[link](https://github.com/opendrivelab/univla)**|
+|**2025-05-09**|**NeoQA: Evidence-based Question Answering with Generated News Events**|Max Glockner et.al.|[2505.05949v1](http://arxiv.org/abs/2505.05949v1)|**[link](https://github.com/amazon-science/neoqa)**|
+|**2025-05-09**|**Multimodal Integrated Knowledge Transfer to Large Language Models through Preference Optimization with Biomedical Applications**|Da Wu et.al.|[2505.05736v1](http://arxiv.org/abs/2505.05736v1)|null|
+|**2025-05-09**|**Pretraining a Shared Q-Network for Data-Efficient Offline Reinforcement Learning**|Jongchan Park et.al.|[2505.05701v1](http://arxiv.org/abs/2505.05701v1)|null|
+|**2025-05-08**|**InstanceGen: Image Generation with Instance-level Instructions**|Etai Sella et.al.|[2505.05678v1](http://arxiv.org/abs/2505.05678v1)|null|
+|**2025-05-08**|**Fast and Fourier Features for Transfer Learning of Interatomic Potentials**|Pietro Novelli et.al.|[2505.05652v1](http://arxiv.org/abs/2505.05652v1)|null|
+|**2025-05-08**|**Griffin: Towards a Graph-Centric Relational Database Foundation Model**|Yanbo Wang et.al.|[2505.05568v1](http://arxiv.org/abs/2505.05568v1)|null|
 |**2025-05-08**|**Adaptive Markup Language Generation for Contextually-Grounded Visual Document Understanding**|Han Xiao et.al.|[2505.05446v1](http://arxiv.org/abs/2505.05446v1)|null|
 |**2025-05-08**|**Crosslingual Reasoning through Test-Time Scaling**|Zheng-Xin Yong et.al.|[2505.05408v1](http://arxiv.org/abs/2505.05408v1)|null|
 |**2025-05-08**|**Benchmarking Ophthalmology Foundation Models for Clinically Significant Age Macular Degeneration Detection**|Benjamin A. Cohen et.al.|[2505.05291v1](http://arxiv.org/abs/2505.05291v1)|null|
@@ -4961,12 +4971,15 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250512>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250513>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-09**|**Towards a Unified Representation Evaluation Framework Beyond Downstream Tasks**|Christos Plachouras et.al.|[2505.06224v1](http://arxiv.org/abs/2505.06224v1)|null|
+|**2025-05-08**|**Toward a Sparse and Interpretable Audio Codec**|John Vinyard et.al.|[2505.05654v1](http://arxiv.org/abs/2505.05654v1)|null|
+|**2025-05-08**|**X-Transfer Attacks: Towards Super Transferable Adversarial Attacks on CLIP**|Hanxun Huang et.al.|[2505.05528v1](http://arxiv.org/abs/2505.05528v1)|**[link](https://github.com/HanxunH/XTransferBench)**|
 |**2025-05-08**|**FLAM: Frame-Wise Language-Audio Modeling**|Yusong Wu et.al.|[2505.05335v1](http://arxiv.org/abs/2505.05335v1)|null|
 |**2025-05-08**|**Probabilistic Embeddings for Frozen Vision-Language Models: Uncertainty Quantification with Gaussian Process Latent Variable Models**|Aishwarya Venkataramanan et.al.|[2505.05163v1](http://arxiv.org/abs/2505.05163v1)|null|
 |**2025-05-08**|**FG-CLIP: Fine-Grained Visual and Textual Alignment**|Chunyu Xie et.al.|[2505.05071v1](http://arxiv.org/abs/2505.05071v1)|null|
@@ -9501,12 +9514,14 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20250512>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250513>back to top</a>)</p>
 
 ## adaptor
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-09**|**Photovoltaic Defect Image Generator with Boundary Alignment Smoothing Constraint for Domain Shift Mitigation**|Dongying Li et.al.|[2505.06117v1](http://arxiv.org/abs/2505.06117v1)|null|
+|**2025-05-09**|**PICD: Versatile Perceptual Image Compression with Diffusion Rendering**|Tongda Xu et.al.|[2505.05853v1](http://arxiv.org/abs/2505.05853v1)|null|
 |**2025-05-02**|**Efficient Fine-Tuning of Quantized Models via Adaptive Rank and Bitwidth**|Changhai Zhou et.al.|[2505.03802v1](http://arxiv.org/abs/2505.03802v1)|null|
 |**2025-04-27**|**Segmenting Objectiveness and Task-awareness Unknown Region for Autonomous Driving**|Mi Zheng et.al.|[2504.19183v1](http://arxiv.org/abs/2504.19183v1)|null|
 |**2025-04-22**|**Efficient Temporal Consistency in Diffusion-Based Video Editing with Adaptor Modules: A Theoretical Framework**|Xinyuan Song et.al.|[2504.16016v1](http://arxiv.org/abs/2504.16016v1)|null|
@@ -9681,12 +9696,16 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250512>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250513>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-09**|**Camera-Only Bird's Eye View Perception: A Neural Approach to LiDAR-Free Environmental Mapping for Autonomous Vehicles**|Anupkumar Bochare et.al.|[2505.06113v1](http://arxiv.org/abs/2505.06113v1)|null|
+|**2025-05-09**|**Artificial intelligence pioneers the double-strangeness factory**|Yan He et.al.|[2505.05802v1](http://arxiv.org/abs/2505.05802v1)|null|
+|**2025-05-09**|**Dome-DETR: DETR with Density-Oriented Feature-Query Manipulation for Efficient Tiny Object Detection**|Zhangchi Hu et.al.|[2505.05741v1](http://arxiv.org/abs/2505.05741v1)|null|
+|**2025-05-09**|**DiGIT: Multi-Dilated Gated Encoder and Central-Adjacent Region Integrated Decoder for Temporal Action Detection Transformer**|Ho-Joong Kim et.al.|[2505.05711v1](http://arxiv.org/abs/2505.05711v1)|**[link](https://github.com/dotori-hj/digit)**|
 |**2025-05-08**|**PillarMamba: Learning Local-Global Context for Roadside Point Cloud via Hybrid State Space Model**|Zhang Zhang et.al.|[2505.05397v1](http://arxiv.org/abs/2505.05397v1)|null|
 |**2025-05-08**|**PaniCar: Securing the Perception of Advanced Driving Assistance Systems Against Emergency Vehicle Lighting**|Elad Feldman et.al.|[2505.05183v1](http://arxiv.org/abs/2505.05183v1)|null|
 |**2025-05-08**|**FG-CLIP: Fine-Grained Visual and Textual Alignment**|Chunyu Xie et.al.|[2505.05071v1](http://arxiv.org/abs/2505.05071v1)|null|
@@ -13706,7 +13725,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20250512>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250513>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
