@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.17
+## Updated on 2025.05.18
 
 <details>
   <summary>Table of Contents</summary>
@@ -27,7 +27,7 @@
 |**2025-05-15**|**LAV: Audio-Driven Dynamic Visual Generation with Neural Compression and StyleGAN2**|Jongmin Jung et.al.|[2505.10101v1](http://arxiv.org/abs/2505.10101v1)|null|
 |**2025-05-15**|**Designing and Contextualising Probes for African Languages**|Wisdom Aduah et.al.|[2505.10081v1](http://arxiv.org/abs/2505.10081v1)|null|
 |**2025-05-15**|**APCoTTA: Continual Test-Time Adaptation for Semantic Segmentation of Airborne LiDAR Point Clouds**|Yuan Gao et.al.|[2505.09971v1](http://arxiv.org/abs/2505.09971v1)|**[link](https://github.com/gaoyuan2/apcotta)**|
-|**2025-05-15**|**DDFP: Data-dependent Frequency Prompt for Source Free Domain Adaptation of Medical Image Segmentation**|Siqi Yin et.al.|[2505.09927v1](http://arxiv.org/abs/2505.09927v1)|null|
+|**2025-05-15**|**DDFP: Data-dependent Frequency Prompt for Source Free Domain Adaptation of Medical Image Segmentation**|Siqi Yin et.al.|[2505.09927v1](http://arxiv.org/abs/2505.09927v1)|**[link](https://github.com/YYinn/SFDA-DDFP)**|
 |**2025-05-14**|**Do Large Language Models Know Conflict? Investigating Parametric vs. Non-Parametric Knowledge of LLMs for Conflict Forecasting**|Apollinaire Poli Nemkova et.al.|[2505.09852v1](http://arxiv.org/abs/2505.09852v1)|null|
 |**2025-05-14**|**Customizing a Large Language Model for VHDL Design of High-Performance Microprocessors**|Nicolas Dupuis et.al.|[2505.09610v1](http://arxiv.org/abs/2505.09610v1)|null|
 |**2025-05-14**|**BLIP3-o: A Family of Fully Open Unified Multimodal Models-Architecture, Training and Dataset**|Jiuhai Chen et.al.|[2505.09568v1](http://arxiv.org/abs/2505.09568v1)|**[link](https://github.com/jiuhaichen/blip3o)**|
@@ -5004,7 +5004,7 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250517>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250518>back to top</a>)</p>
 
 ## downstream
 
@@ -5015,7 +5015,7 @@
 |**2025-05-15**|**Negative Metric Learning for Graphs**|Yiyang Zhao et.al.|[2505.10307v1](http://arxiv.org/abs/2505.10307v1)|null|
 |**2025-05-15**|**Large Wireless Localization Model (LWLM): A Foundation Model for Positioning in 6G Networks**|Guangjin Pan et.al.|[2505.10134v1](http://arxiv.org/abs/2505.10134v1)|**[link](https://github.com/guangjinpan/lwlm)**|
 |**2025-05-15**|**AI2MMUM: AI-AI Oriented Multi-Modal Universal Model Leveraging Telecom Domain Large Model**|Tianyu Jiao et.al.|[2505.10003v1](http://arxiv.org/abs/2505.10003v1)|null|
-|**2025-05-14**|**Mission Balance: Generating Under-represented Class Samples using Video Diffusion Models**|Danush Kumar Venkatesh et.al.|[2505.09858v1](http://arxiv.org/abs/2505.09858v1)|null|
+|**2025-05-14**|**Mission Balance: Generating Under-represented Class Samples using Video Diffusion Models**|Danush Kumar Venkatesh et.al.|[2505.09858v1](http://arxiv.org/abs/2505.09858v1)|**[link](https://gitlab.com/nct_tso_public/surgvgen)**|
 |**2025-05-14**|**Efficient LiDAR Reflectance Compression via Scanning Serialization**|Jiahao Zhu et.al.|[2505.09433v1](http://arxiv.org/abs/2505.09433v1)|null|
 |**2025-05-14**|**A Multi-Task Foundation Model for Wireless Channel Representation Using Contrastive and Masked Autoencoder Learning**|Berkay Guler et.al.|[2505.09160v1](http://arxiv.org/abs/2505.09160v1)|null|
 |**2025-05-13**|**TiMo: Spatiotemporal Foundation Model for Satellite Image Time Series**|Xiaolei Qin et.al.|[2505.08723v1](http://arxiv.org/abs/2505.08723v1)|**[link](https://github.com/mililab/timo)**|
@@ -9572,7 +9572,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20250517>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250518>back to top</a>)</p>
 
 ## adaptor
 
@@ -9755,7 +9755,7 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250517>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250518>back to top</a>)</p>
 
 ## object detection
 
@@ -9764,7 +9764,7 @@
 |**2025-05-15**|**StoryReasoning Dataset: Using Chain-of-Thought for Scene Understanding and Grounded Story Generation**|Daniel A. P. Oliveira et.al.|[2505.10292v1](http://arxiv.org/abs/2505.10292v1)|**[link](https://github.com/daniel3303/storyreasoning)**|
 |**2025-05-15**|**Defect Detection in Photolithographic Patterns Using Deep Learning Models Trained on Synthetic Data**|Prashant P. Shinde et.al.|[2505.10192v1](http://arxiv.org/abs/2505.10192v1)|null|
 |**2025-05-15**|**Application of YOLOv8 in monocular downward multiple Car Target detection**|Shijie Lyu et.al.|[2505.10016v1](http://arxiv.org/abs/2505.10016v1)|null|
-|**2025-05-14**|**EdgeAI Drone for Autonomous Construction Site Demonstrator**|Emre Girgin et.al.|[2505.09837v1](http://arxiv.org/abs/2505.09837v1)|null|
+|**2025-05-14**|**EdgeAI Drone for Autonomous Construction Site Demonstrator**|Emre Girgin et.al.|[2505.09837v1](http://arxiv.org/abs/2505.09837v1)|**[link](https://github.com/egirgin/storaige-b950)**|
 |**2025-05-14**|**WhatsAI: Transforming Meta Ray-Bans into an Extensible Generative AI Platform for Accessibility**|Nasif Zaman et.al.|[2505.09823v1](http://arxiv.org/abs/2505.09823v1)|null|
 |**2025-05-14**|**MoRAL: Motion-aware Multi-Frame 4D Radar and LiDAR Fusion for Robust 3D Object Detection**|Xiangyuan Peng et.al.|[2505.09422v1](http://arxiv.org/abs/2505.09422v1)|null|
 |**2025-05-14**|**A drone that learns to efficiently find objects in agricultural fields: from simulation to the real world**|Rick van Essen et.al.|[2505.09278v1](http://arxiv.org/abs/2505.09278v1)|null|
@@ -13810,7 +13810,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20250517>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250518>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
