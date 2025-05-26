@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.25
+## Updated on 2025.05.26
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,16 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-22**|**GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning**|Chengqi Duan et.al.|[2505.17022v1](http://arxiv.org/abs/2505.17022v1)|null|
-|**2025-05-22**|**CrossLMM: Decoupling Long Video Sequences from LMMs via Dual Cross-Attention Mechanisms**|Shilin Yan et.al.|[2505.17020v1](http://arxiv.org/abs/2505.17020v1)|null|
+|**2025-05-22**|**GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning**|Chengqi Duan et.al.|[2505.17022v1](http://arxiv.org/abs/2505.17022v1)|**[link](https://github.com/gogoduan/got-r1)**|
+|**2025-05-22**|**CrossLMM: Decoupling Long Video Sequences from LMMs via Dual Cross-Attention Mechanisms**|Shilin Yan et.al.|[2505.17020v1](http://arxiv.org/abs/2505.17020v1)|**[link](https://github.com/shilinyan99/crosslmm)**|
 |**2025-05-22**|**Interactive Post-Training for Vision-Language-Action Models**|Shuhan Tan et.al.|[2505.17016v1](http://arxiv.org/abs/2505.17016v1)|null|
-|**2025-05-22**|**Understanding Prompt Tuning and In-Context Learning via Meta-Learning**|Tim Genewein et.al.|[2505.17010v1](http://arxiv.org/abs/2505.17010v1)|null|
-|**2025-05-22**|**SPAR: Self-supervised Placement-Aware Representation Learning for Multi-Node IoT Systems**|Yizhuo Chen et.al.|[2505.16936v1](http://arxiv.org/abs/2505.16936v1)|null|
+|**2025-05-22**|**Understanding Prompt Tuning and In-Context Learning via Meta-Learning**|Tim Genewein et.al.|[2505.17010v1](http://arxiv.org/abs/2505.17010v1)|**[link](https://github.com/google-deepmind/thunnini)**|
+|**2025-05-23**|**SPAR: Self-supervised Placement-Aware Representation Learning for Multi-Node IoT Systems**|Yizhuo Chen et.al.|[2505.16936v2](http://arxiv.org/abs/2505.16936v2)|null|
 |**2025-05-22**|**T2I-ConBench: Text-to-Image Benchmark for Continual Post-training**|Zhehao Huang et.al.|[2505.16875v1](http://arxiv.org/abs/2505.16875v1)|null|
 |**2025-05-22**|**Efficient Online RL Fine Tuning with Offline Pre-trained Policy Only**|Wei Xiao et.al.|[2505.16856v1](http://arxiv.org/abs/2505.16856v1)|null|
 |**2025-05-22**|**Nested Named Entity Recognition as Single-Pass Sequence Labeling**|Alberto Muñoz-Ortiz et.al.|[2505.16855v1](http://arxiv.org/abs/2505.16855v1)|null|
 |**2025-05-22**|**Action2Dialogue: Generating Character-Centric Narratives from Scene-Level Prompts**|Taewon Kang et.al.|[2505.16819v1](http://arxiv.org/abs/2505.16819v1)|null|
-|**2025-05-22**|**Single Domain Generalization for Few-Shot Counting via Universal Representation Matching**|Xianing Chen et.al.|[2505.16778v1](http://arxiv.org/abs/2505.16778v1)|null|
+|**2025-05-22**|**Single Domain Generalization for Few-Shot Counting via Universal Representation Matching**|Xianing Chen et.al.|[2505.16778v1](http://arxiv.org/abs/2505.16778v1)|**[link](https://github.com/jbr97/urm)**|
 |**2025-05-19**|**Recollection from Pensieve: Novel View Synthesis via Learning from Uncalibrated Videos**|Ruoyu Wang et.al.|[2505.13440v1](http://arxiv.org/abs/2505.13440v1)|**[link](https://github.com/dwawayu/pensieve)**|
 |**2025-05-19**|**A Practical Guide for Incorporating Symmetry in Diffusion Policy**|Dian Wang et.al.|[2505.13431v1](http://arxiv.org/abs/2505.13431v1)|null|
 |**2025-05-19**|**Faster Video Diffusion with Trainable Sparse Attention**|Peiyuan Zhang et.al.|[2505.13389v1](http://arxiv.org/abs/2505.13389v1)|null|
@@ -5034,22 +5034,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250525>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250526>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-05-22**|**On Multilingual Encoder Language Model Compression for Low-Resource Languages**|Daniil Gurgurov et.al.|[2505.16956v1](http://arxiv.org/abs/2505.16956v1)|null|
-|**2025-05-22**|**ICYM2I: The illusion of multimodal informativeness under missingness**|Young Sang Choi et.al.|[2505.16953v1](http://arxiv.org/abs/2505.16953v1)|**[link](https://github.com/reAIM-Lab/ehr_foundation_model_benchmark)**|
-|**2025-05-22**|**FoMoH: A clinically meaningful foundation model evaluation for structured electronic health records**|Chao Pang et.al.|[2505.16941v1](http://arxiv.org/abs/2505.16941v1)|**[link](https://github.com/reAIM-Lab/ICYM2I)**|
-|**2025-05-22**|**Backdoor Cleaning without External Guidance in MLLM Fine-tuning**|Xuankun Rong et.al.|[2505.16916v1](http://arxiv.org/abs/2505.16916v1)|null|
+|**2025-05-22**|**ICYM2I: The illusion of multimodal informativeness under missingness**|Young Sang Choi et.al.|[2505.16953v1](http://arxiv.org/abs/2505.16953v1)|**[link](https://github.com/reAIM-Lab/ICYM2I)**|
+|**2025-05-23**|**FoMoH: A clinically meaningful foundation model evaluation for structured electronic health records**|Chao Pang et.al.|[2505.16941v2](http://arxiv.org/abs/2505.16941v2)|**[link](https://github.com/reAIM-Lab/ehr_foundation_model_benchmark)**|
+|**2025-05-22**|**Backdoor Cleaning without External Guidance in MLLM Fine-tuning**|Xuankun Rong et.al.|[2505.16916v1](http://arxiv.org/abs/2505.16916v1)|**[link](https://github.com/xuankunrong/bye)**|
 |**2025-05-22**|**Unsupervised Prompting for Graph Neural Networks**|Peyman Baghershahi et.al.|[2505.16903v1](http://arxiv.org/abs/2505.16903v1)|null|
 |**2025-05-22**|**Structure-Aligned Protein Language Model**|Can Chen et.al.|[2505.16896v1](http://arxiv.org/abs/2505.16896v1)|null|
 |**2025-05-22**|**Unlocking Temporal Flexibility: Neural Speech Codec with Variable Frame Rate**|Hanglei Zhang et.al.|[2505.16845v1](http://arxiv.org/abs/2505.16845v1)|null|
 |**2025-05-22**|**Semi-Supervised State-Space Model with Dynamic Stacking Filter for Real-World Video Deraining**|Shangquan Sun et.al.|[2505.16811v1](http://arxiv.org/abs/2505.16811v1)|null|
 |**2025-05-22**|**Your Pre-trained LLM is Secretly an Unsupervised Confidence Calibrator**|Beier Luo et.al.|[2505.16690v1](http://arxiv.org/abs/2505.16690v1)|null|
-|**2025-05-22**|**On the use of Graphs for Satellite Image Time Series**|Corentin Dufourg et.al.|[2505.16685v1](http://arxiv.org/abs/2505.16685v1)|null|
+|**2025-05-22**|**On the use of Graphs for Satellite Image Time Series**|Corentin Dufourg et.al.|[2505.16685v1](http://arxiv.org/abs/2505.16685v1)|**[link](https://github.com/corentin-dfg/graph4sits)**|
 |**2025-05-19**|**Fine-tuning Quantized Neural Networks with Zeroth-order Optimization**|Sifeng Shang et.al.|[2505.13430v1](http://arxiv.org/abs/2505.13430v1)|null|
 |**2025-05-19**|**R3: Robust Rubric-Agnostic Reward Models**|David Anugraha et.al.|[2505.13388v1](http://arxiv.org/abs/2505.13388v1)|**[link](https://github.com/rubricreward/r3)**|
 |**2025-05-20**|**Unlabeled Data or Pre-trained Model: Rethinking Semi-Supervised Learning and Pretrain-Finetuning**|Song-Lin Li et.al.|[2505.13317v2](http://arxiv.org/abs/2505.13317v2)|null|
@@ -9632,7 +9632,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20250525>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250526>back to top</a>)</p>
 
 ## adaptor
 
@@ -9816,17 +9816,17 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250525>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250526>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-05-22**|**Semi-Supervised State-Space Model with Dynamic Stacking Filter for Real-World Video Deraining**|Shangquan Sun et.al.|[2505.16811v1](http://arxiv.org/abs/2505.16811v1)|null|
-|**2025-05-22**|**Robust Vision-Based Runway Detection through Conformal Prediction and Conformal mAP**|Alya Zouzou et.al.|[2505.16740v1](http://arxiv.org/abs/2505.16740v1)|null|
+|**2025-05-22**|**Robust Vision-Based Runway Detection through Conformal Prediction and Conformal mAP**|Alya Zouzou et.al.|[2505.16740v1](http://arxiv.org/abs/2505.16740v1)|**[link](https://github.com/alyasltd/conformal_runway_detection)**|
 |**2025-05-22**|**CodeMerge: Codebook-Guided Model Merging for Robust Test-Time Adaptation in Autonomous Driving**|Huitong Yang et.al.|[2505.16524v1](http://arxiv.org/abs/2505.16524v1)|null|
 |**2025-05-22**|**MAFE R-CNN: Selecting More Samples to Learn Category-aware Features for Small Object Detection**|Yichen Li et.al.|[2505.16442v1](http://arxiv.org/abs/2505.16442v1)|null|
-|**2025-05-22**|**AdvReal: Adversarial Patch Generation Framework with Application to Adversarial Safety Evaluation of Object Detection Systems**|Yuanhao Huang et.al.|[2505.16402v1](http://arxiv.org/abs/2505.16402v1)|null|
+|**2025-05-22**|**AdvReal: Adversarial Patch Generation Framework with Application to Adversarial Safety Evaluation of Object Detection Systems**|Yuanhao Huang et.al.|[2505.16402v1](http://arxiv.org/abs/2505.16402v1)|**[link](https://github.com/huangyh98/advreal)**|
 |**2025-05-22**|**Self-Classification Enhancement and Correction for Weakly Supervised Object Detection**|Yufei Yin et.al.|[2505.16294v1](http://arxiv.org/abs/2505.16294v1)|null|
 |**2025-05-21**|**SNAP: A Benchmark for Testing the Effects of Capture Conditions on Fundamental Vision Tasks**|Iuliia Kotseruba et.al.|[2505.15628v1](http://arxiv.org/abs/2505.15628v1)|**[link](https://github.com/ykotseruba/snap)**|
 |**2025-05-21**|**Detection of Underwater Multi-Targets Based on Self-Supervised Learning and Deformable Path Aggregation Feature Pyramid Network**|Chang Liu et.al.|[2505.15518v1](http://arxiv.org/abs/2505.15518v1)|null|
@@ -13892,7 +13892,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20250525>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250526>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
