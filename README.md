@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.27
+## Updated on 2025.05.28
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-26**|**PathBench: A comprehensive comparison benchmark for pathology foundation models towards precision oncology**|Jiabo Ma et.al.|[2505.20202v1](http://arxiv.org/abs/2505.20202v1)|null|
+|**2025-05-26**|**AweDist: Attention-aware Embedding Distillation for New Input Token Embeddings**|Konstantin Dobler et.al.|[2505.20133v1](http://arxiv.org/abs/2505.20133v1)|null|
+|**2025-05-26**|**MolEditRL: Structure-Preserving Molecular Editing via Discrete Diffusion and Reinforcement Learning**|Yuanxin Zhuang et.al.|[2505.20131v1](http://arxiv.org/abs/2505.20131v1)|null|
+|**2025-05-26**|**Language-Agnostic Suicidal Risk Detection Using Large Language Models**|June-Woo Kim et.al.|[2505.20109v1](http://arxiv.org/abs/2505.20109v1)|null|
+|**2025-05-26**|**Curriculum-RLAIF: Curriculum Alignment with Reinforcement Learning from AI Feedback**|Mengdi Li et.al.|[2505.20075v1](http://arxiv.org/abs/2505.20075v1)|null|
+|**2025-05-26**|**Ankh3: Multi-Task Pretraining with Sequence Denoising and Completion Enhances Protein Representations**|Hazem Alsamkary et.al.|[2505.20052v1](http://arxiv.org/abs/2505.20052v1)|null|
+|**2025-05-26**|**Multi-modal brain encoding models for multi-modal stimuli**|Subba Reddy Oota et.al.|[2505.20027v1](http://arxiv.org/abs/2505.20027v1)|null|
+|**2025-05-26**|**Structured Initialization for Vision Transformers**|Jianqiao Zheng et.al.|[2505.19985v1](http://arxiv.org/abs/2505.19985v1)|null|
+|**2025-05-26**|**UltraVSR: Achieving Ultra-Realistic Video Super-Resolution with Efficient One-Step Diffusion Space**|Yong Liu et.al.|[2505.19958v1](http://arxiv.org/abs/2505.19958v1)|null|
+|**2025-05-26**|**Can Visual Encoder Learn to See Arrows?**|Naoyuki Terashita et.al.|[2505.19944v1](http://arxiv.org/abs/2505.19944v1)|null|
 |**2025-05-23**|**TabSTAR: A Foundation Tabular Model With Semantically Target-Aware Representations**|Alan Arazi et.al.|[2505.18125v1](http://arxiv.org/abs/2505.18125v1)|null|
 |**2025-05-23**|**A Foundation Model Framework for Multi-View MRI Classification of Extramural Vascular Invasion and Mesorectal Fascia Invasion in Rectal Cancer**|Yumeng Zhang et.al.|[2505.18058v1](http://arxiv.org/abs/2505.18058v1)|null|
 |**2025-05-23**|**LookWhere? Efficient Visual Recognition by Learning Where to Look and What to See from Self-Supervision**|Anthony Fuller et.al.|[2505.18051v1](http://arxiv.org/abs/2505.18051v1)|null|
@@ -5044,12 +5054,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250527>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250528>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-26**|**Parameter-Efficient Fine-Tuning with Column Space Projection**|Junseo Hwang et.al.|[2505.20211v1](http://arxiv.org/abs/2505.20211v1)|null|
+|**2025-05-26**|**Agentic 3D Scene Generation with Spatially Contextualized VLMs**|Xinhang Liu et.al.|[2505.20129v1](http://arxiv.org/abs/2505.20129v1)|null|
+|**2025-05-26**|**Ankh3: Multi-Task Pretraining with Sequence Denoising and Completion Enhances Protein Representations**|Hazem Alsamkary et.al.|[2505.20052v1](http://arxiv.org/abs/2505.20052v1)|null|
+|**2025-05-26**|**Learning Optimal Multimodal Information Bottleneck Representations**|Qilong Wu et.al.|[2505.19996v1](http://arxiv.org/abs/2505.19996v1)|null|
+|**2025-05-26**|**Task-Oriented Low-Label Semantic Communication With Self-Supervised Learning**|Run Gu et.al.|[2505.19940v1](http://arxiv.org/abs/2505.19940v1)|null|
+|**2025-05-26**|**DuRep: Dual-Mode Speech Representation Learning via ASR-Aware Distillation**|Prabash Reddy Male et.al.|[2505.19774v1](http://arxiv.org/abs/2505.19774v1)|null|
+|**2025-05-26**|**Graceful Forgetting in Generative Language Models**|Chunyang Jiang et.al.|[2505.19715v1](http://arxiv.org/abs/2505.19715v1)|null|
+|**2025-05-27**|**Modality Curation: Building Universal Embeddings for Advanced Multimodal Information Retrieval**|Fanheng Kong et.al.|[2505.19650v2](http://arxiv.org/abs/2505.19650v2)|null|
+|**2025-05-26**|**Multi-Agent Collaboration via Evolving Orchestration**|Yufan Dang et.al.|[2505.19591v1](http://arxiv.org/abs/2505.19591v1)|null|
+|**2025-05-26**|**Language of Network: A Generative Pre-trained Model for Encrypted Traffic Comprehension**|Di Zhao et.al.|[2505.19482v1](http://arxiv.org/abs/2505.19482v1)|null|
 |**2025-05-23**|**One RL to See Them All: Visual Triple Unified Reinforcement Learning**|Yan Ma et.al.|[2505.18129v1](http://arxiv.org/abs/2505.18129v1)|null|
 |**2025-05-23**|**FDBPL: Faster Distillation-Based Prompt Learning for Region-Aware Vision-Language Models Adaptation**|Zherui Zhang et.al.|[2505.18053v1](http://arxiv.org/abs/2505.18053v1)|null|
 |**2025-05-23**|**Generalized Fisher-Weighted SVD: Scalable Kronecker-Factored Fisher Approximation for Compressing Large Language Models**|Viktoriia Chekalina et.al.|[2505.17974v1](http://arxiv.org/abs/2505.17974v1)|null|
@@ -9652,12 +9672,13 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20250527>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250528>back to top</a>)</p>
 
 ## adaptor
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-26**|**GSA-TTS : Toward Zero-Shot Speech Synthesis based on Gradual Style Adaptor**|Seokgi Lee et.al.|[2505.19384v1](http://arxiv.org/abs/2505.19384v1)|null|
 |**2025-05-23**|**AutoMiSeg: Automatic Medical Image Segmentation via Test-Time Adaptation of Foundation Models**|Xingjian Li et.al.|[2505.17931v1](http://arxiv.org/abs/2505.17931v1)|null|
 |**2025-05-19**|**Mamba-Adaptor: State Space Model Adaptor for Visual Recognition**|Fei Xie et.al.|[2505.12685v1](http://arxiv.org/abs/2505.12685v1)|null|
 |**2025-05-08**|**Collaborative Multi-LoRA Experts with Achievement-based Multi-Tasks Loss for Unified Multimodal Information Extraction**|Li Yuan et.al.|[2505.06303v1](http://arxiv.org/abs/2505.06303v1)|null|
@@ -9837,12 +9858,20 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250527>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250528>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-26**|**From Data to Modeling: Fully Open-vocabulary Scene Graph Generation**|Zuyao Chen et.al.|[2505.20106v1](http://arxiv.org/abs/2505.20106v1)|null|
+|**2025-05-26**|**Underwater Diffusion Attention Network with Contrastive Language-Image Joint Learning for Underwater Image Enhancement**|Afrah Shaahid et.al.|[2505.19895v1](http://arxiv.org/abs/2505.19895v1)|null|
+|**2025-05-26**|**ADD-SLAM: Adaptive Dynamic Dense SLAM with Gaussian Splatting**|Wenhua Wu et.al.|[2505.19420v1](http://arxiv.org/abs/2505.19420v1)|null|
+|**2025-05-26**|**Neural nanophotonic object detector with ultra-wide field-of-view**|Ji Chen et.al.|[2505.19379v1](http://arxiv.org/abs/2505.19379v1)|null|
+|**2025-05-25**|**What do Blind and Low-Vision People Really Want from Assistive Smart Devices? Comparison of the Literature with a Focus Study**|Bhanuka Gamage et.al.|[2505.19325v1](http://arxiv.org/abs/2505.19325v1)|null|
+|**2025-05-25**|**VL-SAM-V2: Open-World Object Detection with General and Specific Query Fusion**|Zhiwei Lin et.al.|[2505.18986v1](http://arxiv.org/abs/2505.18986v1)|null|
+|**2025-05-24**|**Mitigating Context Bias in Domain Adaptation for Object Detection using Mask Pooling**|Hojun Son et.al.|[2505.18446v1](http://arxiv.org/abs/2505.18446v1)|null|
+|**2025-05-23**|**Sampling Strategies for Efficient Training of Deep Learning Object Detection Algorithms**|Gefei Shen et.al.|[2505.18302v1](http://arxiv.org/abs/2505.18302v1)|null|
 |**2025-05-23**|**One RL to See Them All: Visual Triple Unified Reinforcement Learning**|Yan Ma et.al.|[2505.18129v1](http://arxiv.org/abs/2505.18129v1)|null|
 |**2025-05-23**|**SemSegBench & DetecBench: Benchmarking Reliability and Generalization Beyond Classification**|Shashank Agnihotri et.al.|[2505.18015v1](http://arxiv.org/abs/2505.18015v1)|null|
 |**2025-05-23**|**RQR3D: Reparametrizing the regression targets for BEV-based 3D object detection**|Ozsel Kilinc et.al.|[2505.17732v1](http://arxiv.org/abs/2505.17732v1)|null|
@@ -13922,7 +13951,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20250527>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250528>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
