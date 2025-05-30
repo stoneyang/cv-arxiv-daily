@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2025.05.29
+> Updated on 2025.05.30
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,16 @@
 
 ## pretrain
 
+- 2025-05-28, **SPIRAL: Semantic-Aware Progressive LiDAR Scene Generation**, Dekai Zhu et.al., Paper: [http://arxiv.org/abs/2505.22643v1](http://arxiv.org/abs/2505.22643v1)
+- 2025-05-28, **Comparative Analysis of Machine Learning Models for Lung Cancer Mutation Detection and Staging Using 3D CT Scans**, Yiheng Li et.al., Paper: [http://arxiv.org/abs/2505.22592v1](http://arxiv.org/abs/2505.22592v1)
+- 2025-05-28, **Precise In-Parameter Concept Erasure in Large Language Models**, Yoav Gur-Arieh et.al., Paper: [http://arxiv.org/abs/2505.22586v1](http://arxiv.org/abs/2505.22586v1)
+- 2025-05-29, **RiverMamba: A State Space Model for Global River Discharge and Flood Forecasting**, Mohamad Hakam Shams Eddin et.al., Paper: [http://arxiv.org/abs/2505.22535v2](http://arxiv.org/abs/2505.22535v2)
+- 2025-05-28, **Transformers Pretrained on Procedural Data Contain Modular Structures for Algorithmic Reasoning**, Zachary Shinnick et.al., Paper: [http://arxiv.org/abs/2505.22308v1](http://arxiv.org/abs/2505.22308v1)
+- 2025-05-28, **Comprehensive Evaluation on Lexical Normalization: Boundary-Aware Approaches for Unsegmented Languages**, Shohei Higashiyama et.al., Paper: [http://arxiv.org/abs/2505.22273v1](http://arxiv.org/abs/2505.22273v1)
+- 2025-05-28, **Evaluation of LLMs in Speech is Often Flawed: Test Set Contamination in Large Language Models for Speech Recognition**, Yuan Tseng et.al., Paper: [http://arxiv.org/abs/2505.22251v1](http://arxiv.org/abs/2505.22251v1)
+- 2025-05-28, **Judging Quality Across Languages: A Multilingual Approach to Pretraining Data Filtering with Language Models**, Mehdi Ali et.al., Paper: [http://arxiv.org/abs/2505.22232v1](http://arxiv.org/abs/2505.22232v1)
+- 2025-05-28, **Let's Predict Sentence by Sentence**, Hyeonbin Hwang et.al., Paper: [http://arxiv.org/abs/2505.22202v1](http://arxiv.org/abs/2505.22202v1)
+- 2025-05-28, **ForceVLA: Enhancing VLA Models with a Force-aware MoE for Contact-rich Manipulation**, Jiawen Yu et.al., Paper: [http://arxiv.org/abs/2505.22159v1](http://arxiv.org/abs/2505.22159v1)
 - 2025-05-27, **PropMolFlow: Property-guided Molecule Generation with Geometry-Complete Flow Matching**, Cheng Zeng et.al., Paper: [http://arxiv.org/abs/2505.21469v1](http://arxiv.org/abs/2505.21469v1)
 - 2025-05-27, **Accelerating Diffusion Language Model Inference via Efficient KV Caching and Guided Diffusion**, Zhanqiu Hu et.al., Paper: [http://arxiv.org/abs/2505.21467v1](http://arxiv.org/abs/2505.21467v1)
 - 2025-05-27, **A Cross Modal Knowledge Distillation & Data Augmentation Recipe for Improving Transcriptomics Representations through Morphological Features**, Ihab Bendidi et.al., Paper: [http://arxiv.org/abs/2505.21317v1](http://arxiv.org/abs/2505.21317v1)
@@ -5062,10 +5072,20 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20250529>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250530>back to top</a>)</p>
 
 ## downstream
 
+- 2025-05-28, **Scaling-up Perceptual Video Quality Assessment**, Ziheng Jia et.al., Paper: [http://arxiv.org/abs/2505.22543v1](http://arxiv.org/abs/2505.22543v1)
+- 2025-05-28, **Towards General Discrete Speech Codec for Complex Acoustic Environments: A Study of Reconstruction and Downstream Task Consistency**, Haoran Wang et.al., Paper: [http://arxiv.org/abs/2505.22515v1](http://arxiv.org/abs/2505.22515v1)
+- 2025-05-28, **On Geometry-Enhanced Parameter-Efficient Fine-Tuning for 3D Scene Segmentation**, Liyao Tang et.al., Paper: [http://arxiv.org/abs/2505.22444v1](http://arxiv.org/abs/2505.22444v1)
+- 2025-05-28, **Advancing Expert Specialization for Better MoE**, Hongcan Guo et.al., Paper: [http://arxiv.org/abs/2505.22323v1](http://arxiv.org/abs/2505.22323v1)
+- 2025-05-28, **Optimal kernel regression bounds under energy-bounded noise**, Amon Lahr et.al., Paper: [http://arxiv.org/abs/2505.22235v1](http://arxiv.org/abs/2505.22235v1)
+- 2025-05-28, **The quest for the GRAph Level autoEncoder (GRALE)**, Paul Krzakala et.al., Paper: [http://arxiv.org/abs/2505.22109v1](http://arxiv.org/abs/2505.22109v1)
+- 2025-05-28, **High Volume Rate 3D Ultrasound Reconstruction with Diffusion Models**, Tristan S. W. Stevens et.al., Paper: [http://arxiv.org/abs/2505.22090v1](http://arxiv.org/abs/2505.22090v1)
+- 2025-05-28, **GL-PGENet: A Parameterized Generation Framework for Robust Document Image Enhancement**, Zhihong Tang et.al., Paper: [http://arxiv.org/abs/2505.22021v1](http://arxiv.org/abs/2505.22021v1)
+- 2025-05-28, **PanoWan: Lifting Diffusion Video Generation Models to 360° with Latitude/Longitude-aware Mechanisms**, Yifei Xia et.al., Paper: [http://arxiv.org/abs/2505.22016v1](http://arxiv.org/abs/2505.22016v1)
+- 2025-05-28, **Prototype Embedding Optimization for Human-Object Interaction Detection in Livestreaming**, Menghui Zhang et.al., Paper: [http://arxiv.org/abs/2505.22011v1](http://arxiv.org/abs/2505.22011v1)
 - 2025-05-27, **Do LLMs Need to Think in One Language? Correlation between Latent Language and Task Performance**, Shintaro Ozaki et.al., Paper: [http://arxiv.org/abs/2505.21458v1](http://arxiv.org/abs/2505.21458v1)
 - 2025-05-27, **Automatically Identify and Rectify: Robust Deep Contrastive Multi-view Clustering in Noisy Scenarios**, Xihong Yang et.al., Paper: [http://arxiv.org/abs/2505.21387v1](http://arxiv.org/abs/2505.21387v1)
 - 2025-05-27, **ZigzagPointMamba: Spatial-Semantic Mamba for Point Cloud Understanding**, Linshuang Diao et.al., Paper: [http://arxiv.org/abs/2505.21381v1](http://arxiv.org/abs/2505.21381v1)
@@ -9688,7 +9708,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20250529>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250530>back to top</a>)</p>
 
 ## adaptor
 
@@ -9872,10 +9892,18 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20250529>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250530>back to top</a>)</p>
 
 ## object detection
 
+- 2025-05-29, **The Meeseeks Mesh: Spatially Consistent 3D Adversarial Objects for BEV Detector**, Aixuan Li et.al., Paper: [http://arxiv.org/abs/2505.22499v2](http://arxiv.org/abs/2505.22499v2)
+- 2025-05-28, **Task-Driven Implicit Representations for Automated Design of LiDAR Systems**, Nikhil Behari et.al., Paper: [http://arxiv.org/abs/2505.22344v1](http://arxiv.org/abs/2505.22344v1)
+- 2025-05-29, **YH-MINER: Multimodal Intelligent System for Natural Ecological Reef Metric Extraction**, Mingzhuang Wang et.al., Paper: [http://arxiv.org/abs/2505.22250v2](http://arxiv.org/abs/2505.22250v2)
+- 2025-05-28, **S2AFormer: Strip Self-Attention for Efficient Vision Transformer**, Guoan Xu et.al., Paper: [http://arxiv.org/abs/2505.22195v1](http://arxiv.org/abs/2505.22195v1)
+- 2025-05-28, **Learning A Robust RGB-Thermal Detector for Extreme Modality Imbalance**, Chao Tian et.al., Paper: [http://arxiv.org/abs/2505.22154v1](http://arxiv.org/abs/2505.22154v1)
+- 2025-05-28, **Prototype Embedding Optimization for Human-Object Interaction Detection in Livestreaming**, Menghui Zhang et.al., Paper: [http://arxiv.org/abs/2505.22011v1](http://arxiv.org/abs/2505.22011v1)
+- 2025-05-28, **Cross-DINO: Cross the Deep MLP and Transformer for Small Object Detection**, Guiping Cao et.al., Paper: [http://arxiv.org/abs/2505.21868v1](http://arxiv.org/abs/2505.21868v1)
+- 2025-05-27, **Object Concepts Emerge from Motion**, Haoqian Liang et.al., Paper: [http://arxiv.org/abs/2505.21635v1](http://arxiv.org/abs/2505.21635v1)
 - 2025-05-27, **Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO**, Muzhi Zhu et.al., Paper: [http://arxiv.org/abs/2505.21457v1](http://arxiv.org/abs/2505.21457v1)
 - 2025-05-27, **Visual Product Graph: Bridging Visual Products And Composite Images For End-to-End Style Recommendations**, Yue Li Du et.al., Paper: [http://arxiv.org/abs/2505.21454v1](http://arxiv.org/abs/2505.21454v1)
 - 2025-05-27, **YOLO-SPCI: Enhancing Remote Sensing Object Detection via Selective-Perspective-Class Integration**, Xinyuan Wang et.al., Paper: [http://arxiv.org/abs/2505.21370v1](http://arxiv.org/abs/2505.21370v1)
@@ -13971,7 +13999,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20250529>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250530>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
