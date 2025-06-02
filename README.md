@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.01
+## Updated on 2025.06.02
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,11 +23,11 @@
 |**2025-05-29**|**EmotionRankCLAP: Bridging Natural Language Speaking Styles and Ordinal Speech Emotion via Rank-N-Contrast**|Shreeram Suresh Chandra et.al.|[2505.23732v1](http://arxiv.org/abs/2505.23732v1)|null|
 |**2025-05-29**|**SenWiCh: Sense-Annotation of Low-Resource Languages for WiC using Hybrid Methods**|Roksana Goworek et.al.|[2505.23714v1](http://arxiv.org/abs/2505.23714v1)|null|
 |**2025-05-29**|**Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better**|Danny Driess et.al.|[2505.23705v1](http://arxiv.org/abs/2505.23705v1)|null|
-|**2025-05-29**|**Muddit: Liberating Generation Beyond Text-to-Image with a Unified Discrete Diffusion Model**|Qingyu Shi et.al.|[2505.23606v1](http://arxiv.org/abs/2505.23606v1)|null|
+|**2025-05-29**|**Muddit: Liberating Generation Beyond Text-to-Image with a Unified Discrete Diffusion Model**|Qingyu Shi et.al.|[2505.23606v1](http://arxiv.org/abs/2505.23606v1)|**[link](https://github.com/m-e-agi-lab/muddit)**|
 |**2025-05-29**|**Uni-MuMER: Unified Multi-Task Fine-Tuning of Vision-Language Model for Handwritten Mathematical Expression Recognition**|Yu Li et.al.|[2505.23566v1](http://arxiv.org/abs/2505.23566v1)|null|
 |**2025-05-29**|**Spectrotemporal Modulation: Efficient and Interpretable Feature Representation for Classifying Speech, Music, and Environmental Sounds**|Andrew Chang et.al.|[2505.23509v1](http://arxiv.org/abs/2505.23509v1)|**[link](https://github.com/curlsloth/MusicSpeech-STM)**|
 |**2025-05-29**|**UrbanCraft: Urban View Extrapolation via Hierarchical Sem-Geometric Priors**|Tianhang Wang et.al.|[2505.23434v1](http://arxiv.org/abs/2505.23434v1)|null|
-|**2025-05-29**|**UniRL: Self-Improving Unified Multimodal Models via Supervised and Reinforcement Learning**|Weijia Mao et.al.|[2505.23380v1](http://arxiv.org/abs/2505.23380v1)|null|
+|**2025-05-29**|**UniRL: Self-Improving Unified Multimodal Models via Supervised and Reinforcement Learning**|Weijia Mao et.al.|[2505.23380v1](http://arxiv.org/abs/2505.23380v1)|**[link](https://github.com/showlab/unirl)**|
 |**2025-05-29**|**Beyond Zero Initialization: Investigating the Impact of Non-Zero Initialization on LoRA Fine-Tuning Dynamics**|Shiwei Li et.al.|[2505.23194v1](http://arxiv.org/abs/2505.23194v1)|null|
 |**2025-05-28**|**SPIRAL: Semantic-Aware Progressive LiDAR Scene Generation**|Dekai Zhu et.al.|[2505.22643v1](http://arxiv.org/abs/2505.22643v1)|null|
 |**2025-05-28**|**Comparative Analysis of Machine Learning Models for Lung Cancer Mutation Detection and Staging Using 3D CT Scans**|Yiheng Li et.al.|[2505.22592v1](http://arxiv.org/abs/2505.22592v1)|null|
@@ -5084,7 +5084,7 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250601>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250602>back to top</a>)</p>
 
 ## downstream
 
@@ -5097,7 +5097,7 @@
 |**2025-05-29**|**Position: Federated Foundation Language Model Post-Training Should Focus on Open-Source Models**|Nikita Agrawal et.al.|[2505.23593v1](http://arxiv.org/abs/2505.23593v1)|null|
 |**2025-05-29**|**CryoCCD: Conditional Cycle-consistent Diffusion with Biophysical Modeling for Cryo-EM Synthesis**|Runmin Jiang et.al.|[2505.23444v1](http://arxiv.org/abs/2505.23444v1)|null|
 |**2025-05-29**|**From Parameters to Prompts: Understanding and Mitigating the Factuality Gap between Fine-Tuned LLMs**|Xuan Gong et.al.|[2505.23410v1](http://arxiv.org/abs/2505.23410v1)|null|
-|**2025-05-29**|**Efficiently Access Diffusion Fisher: Within the Outer Product Span Space**|Fangyikang Wang et.al.|[2505.23264v1](http://arxiv.org/abs/2505.23264v1)|null|
+|**2025-05-29**|**Efficiently Access Diffusion Fisher: Within the Outer Product Span Space**|Fangyikang Wang et.al.|[2505.23264v1](http://arxiv.org/abs/2505.23264v1)|**[link](https://github.com/zituitui/diffusionfisher)**|
 |**2025-05-29**|**Weight Spectra Induced Efficient Model Adaptation**|Chongjie Si et.al.|[2505.23099v1](http://arxiv.org/abs/2505.23099v1)|null|
 |**2025-05-29**|**An Empirical Study of Federated Prompt Learning for Vision Language Model**|Zhihao Wang et.al.|[2505.23024v1](http://arxiv.org/abs/2505.23024v1)|null|
 |**2025-05-28**|**Scaling-up Perceptual Video Quality Assessment**|Ziheng Jia et.al.|[2505.22543v1](http://arxiv.org/abs/2505.22543v1)|null|
@@ -9732,7 +9732,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20250601>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250602>back to top</a>)</p>
 
 ## adaptor
 
@@ -9918,7 +9918,7 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250601>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250602>back to top</a>)</p>
 
 ## object detection
 
@@ -9928,7 +9928,7 @@
 |**2025-05-29**|**Boosting Domain Incremental Learning: Selecting the Optimal Parameters is All You Need**|Qiang Wang et.al.|[2505.23744v1](http://arxiv.org/abs/2505.23744v1)|null|
 |**2025-05-29**|**FMG-Det: Foundation Model Guided Robust Object Detection**|Darryl Hannan et.al.|[2505.23726v1](http://arxiv.org/abs/2505.23726v1)|null|
 |**2025-05-29**|**CF-DETR: Coarse-to-Fine Transformer for Real-Time Object Detection**|Woojin Shin et.al.|[2505.23317v1](http://arxiv.org/abs/2505.23317v1)|null|
-|**2025-05-29**|**WTEFNet: Real-Time Low-Light Object Detection for Advanced Driver-Assistance Systems**|Hao Wu et.al.|[2505.23201v1](http://arxiv.org/abs/2505.23201v1)|null|
+|**2025-05-30**|**WTEFNet: Real-Time Low-Light Object Detection for Advanced Driver Assistance Systems**|Hao Wu et.al.|[2505.23201v2](http://arxiv.org/abs/2505.23201v2)|null|
 |**2025-05-29**|**Language-guided Learning for Object Detection Tackling Multiple Variations in Aerial Images**|Sungjune Park et.al.|[2505.23193v1](http://arxiv.org/abs/2505.23193v1)|null|
 |**2025-05-29**|**DIP-R1: Deep Inspection and Perception with RL Looking Through and Understanding Complex Scenes**|Sungjune Park et.al.|[2505.23179v1](http://arxiv.org/abs/2505.23179v1)|null|
 |**2025-05-29**|**The Meeseeks Mesh: Spatially Consistent 3D Adversarial Objects for BEV Detector**|Aixuan Li et.al.|[2505.22499v2](http://arxiv.org/abs/2505.22499v2)|null|
@@ -14034,7 +14034,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20250601>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250602>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
