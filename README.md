@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.05
+## Updated on 2025.06.06
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-04**|**Physics-Constrained Flow Matching: Sampling Generative Models with Hard Constraints**|Utkarsh Utkarsh et.al.|[2506.04171v1](http://arxiv.org/abs/2506.04171v1)|null|
+|**2025-06-04**|**SLAC: Simulation-Pretrained Latent Action Space for Whole-Body Real-World RL**|Jiaheng Hu et.al.|[2506.04147v1](http://arxiv.org/abs/2506.04147v1)|null|
+|**2025-06-05**|**Rectified Sparse Attention**|Yutao Sun et.al.|[2506.04108v2](http://arxiv.org/abs/2506.04108v2)|null|
+|**2025-06-04**|**High Accuracy, Less Talk (HALT): Reliable LLMs through Capability-Aligned Finetuning**|Tim Franzmeyer et.al.|[2506.04051v1](http://arxiv.org/abs/2506.04051v1)|null|
+|**2025-06-04**|**Voice Activity Projection Model with Multimodal Encoders**|Takeshi Saga et.al.|[2506.03980v1](http://arxiv.org/abs/2506.03980v1)|null|
+|**2025-06-04**|**DiffCAP: Diffusion-based Cumulative Adversarial Purification for Vision Language Models**|Jia Fu et.al.|[2506.03933v1](http://arxiv.org/abs/2506.03933v1)|null|
+|**2025-06-04**|**Enhancing Safety of Foundation Models for Visual Navigation through Collision Avoidance via Repulsive Estimation**|Joonkyung Kim et.al.|[2506.03834v1](http://arxiv.org/abs/2506.03834v1)|null|
+|**2025-06-04**|**Brain-tuned Speech Models Better Reflect Speech Processing Stages in the Brain**|Omer Moussa et.al.|[2506.03832v1](http://arxiv.org/abs/2506.03832v1)|null|
+|**2025-06-04**|**Mark My Words: A Robust Multilingual Model for Punctuation in Text and Speech Transcripts**|Sidharth Pulipaka et.al.|[2506.03793v1](http://arxiv.org/abs/2506.03793v1)|null|
+|**2025-06-04**|**Scaling Transformers for Discriminative Recommendation via Generative Pretraining**|Chunqi Wang et.al.|[2506.03699v1](http://arxiv.org/abs/2506.03699v1)|null|
 |**2025-06-03**|**Zero-Shot Time Series Forecasting with Covariates via In-Context Learning**|Andreas Auer et.al.|[2506.03128v1](http://arxiv.org/abs/2506.03128v1)|null|
 |**2025-06-03**|**Zero-Shot Tree Detection and Segmentation from Aerial Forest Imagery**|Michelle Chen et.al.|[2506.03114v1](http://arxiv.org/abs/2506.03114v1)|null|
 |**2025-06-03**|**Revisiting Continuity of Image Tokens for Cross-domain Few-shot Learning**|Shuai Yi et.al.|[2506.03110v1](http://arxiv.org/abs/2506.03110v1)|null|
@@ -5104,12 +5114,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250605>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250606>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-04**|**SLAC: Simulation-Pretrained Latent Action Space for Whole-Body Real-World RL**|Jiaheng Hu et.al.|[2506.04147v1](http://arxiv.org/abs/2506.04147v1)|null|
+|**2025-06-04**|**Acoustically Precise Hesitation Tagging Is Essential for End-to-End Verbatim Transcription Systems**|Jhen-Ke Lin et.al.|[2506.04076v1](http://arxiv.org/abs/2506.04076v1)|null|
+|**2025-06-04**|**Prompt Candidates, then Distill: A Teacher-Student Framework for LLM-driven Data Annotation**|Mingxuan Xia et.al.|[2506.03857v1](http://arxiv.org/abs/2506.03857v1)|null|
+|**2025-06-04**|**Vulnerability-Aware Alignment: Mitigating Uneven Forgetting in Harmful Fine-Tuning**|Liang Chen et.al.|[2506.03850v1](http://arxiv.org/abs/2506.03850v1)|null|
+|**2025-06-04**|**Learning task-specific predictive models for scientific computing**|Jianyuan Yin et.al.|[2506.03835v1](http://arxiv.org/abs/2506.03835v1)|null|
+|**2025-06-04**|**Mark My Words: A Robust Multilingual Model for Punctuation in Text and Speech Transcripts**|Sidharth Pulipaka et.al.|[2506.03793v1](http://arxiv.org/abs/2506.03793v1)|null|
+|**2025-06-04**|**SAAT: Synergistic Alternating Aggregation Transformer for Image Super-Resolution**|Jianfeng Wu et.al.|[2506.03740v1](http://arxiv.org/abs/2506.03740v1)|null|
+|**2025-06-04**|**Zero-Shot Temporal Interaction Localization for Egocentric Videos**|Erhang Zhang et.al.|[2506.03662v1](http://arxiv.org/abs/2506.03662v1)|null|
+|**2025-06-04**|**Spatial Understanding from Videos: Structured Prompts Meet Simulation Data**|Haoyu Zhang et.al.|[2506.03642v1](http://arxiv.org/abs/2506.03642v1)|null|
+|**2025-06-04**|**How Far Are We from Predicting Missing Modalities with Foundation Models?**|Guanzhou Ke et.al.|[2506.03530v1](http://arxiv.org/abs/2506.03530v1)|null|
 |**2025-06-03**|**Co-Evolving LLM Coder and Unit Tester via Reinforcement Learning**|Yinjie Wang et.al.|[2506.03136v1](http://arxiv.org/abs/2506.03136v1)|null|
 |**2025-06-03**|**Simulate Any Radar: Attribute-Controllable Radar Simulation via Waveform Parameter Embedding**|Weiqing Xiao et.al.|[2506.03134v1](http://arxiv.org/abs/2506.03134v1)|null|
 |**2025-06-03**|**Detecting Patterns of Interaction in Temporal Hypergraphs via Edge Clustering**|Ryan DeWolfe et.al.|[2506.03105v1](http://arxiv.org/abs/2506.03105v1)|null|
@@ -9772,12 +9792,13 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20250605>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250606>back to top</a>)</p>
 
 ## adaptor
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-04**|**BPO: Revisiting Preference Modeling in Direct Preference Optimization**|Lin Sun et.al.|[2506.03557v1](http://arxiv.org/abs/2506.03557v1)|null|
 |**2025-05-30**|**Can LLMs Understand Unvoiced Speech? Exploring EMG-to-Text Conversion with LLMs**|Payal Mohapatra et.al.|[2506.00304v1](http://arxiv.org/abs/2506.00304v1)|null|
 |**2025-05-29**|**BeaverTalk: Oregon State University's IWSLT 2025 Simultaneous Speech Translation System**|Matthew Raffel et.al.|[2505.24016v1](http://arxiv.org/abs/2505.24016v1)|null|
 |**2025-05-26**|**GSA-TTS : Toward Zero-Shot Speech Synthesis based on Gradual Style Adaptor**|Seokgi Lee et.al.|[2505.19384v1](http://arxiv.org/abs/2505.19384v1)|null|
@@ -9960,12 +9981,18 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250605>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250606>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-04**|**Diffusion Domain Teacher: Diffusion Guided Domain Adaptive Object Detector**|Boyong He et.al.|[2506.04211v1](http://arxiv.org/abs/2506.04211v1)|**[link](https://github.com/heboyong/Diffusion-Domain-Teacher)**|
+|**2025-06-04**|**FSHNet: Fully Sparse Hybrid Network for 3D Object Detection**|Shuai Liu et.al.|[2506.03714v1](http://arxiv.org/abs/2506.03714v1)|null|
+|**2025-06-04**|**How PARTs assemble into wholes: Learning the relative composition of images**|Melika Ayoughi et.al.|[2506.03682v1](http://arxiv.org/abs/2506.03682v1)|null|
+|**2025-06-05**|**MambaNeXt-YOLO: A Hybrid State Space Model for Real-time Object Detection**|Xiaochun Lei et.al.|[2506.03654v2](http://arxiv.org/abs/2506.03654v2)|null|
+|**2025-06-04**|**DiagNet: Detecting Objects using Diagonal Constraints on Adjacency Matrix of Graph Neural Network**|Chong Hyun Lee et.al.|[2506.03571v1](http://arxiv.org/abs/2506.03571v1)|null|
+|**2025-06-03**|**SportMamba: Adaptive Non-Linear Multi-Object Tracking with State Space Models for Team Sports**|Dheeraj Khanna et.al.|[2506.03335v1](http://arxiv.org/abs/2506.03335v1)|null|
 |**2025-06-03**|**Simulate Any Radar: Attribute-Controllable Radar Simulation via Waveform Parameter Embedding**|Weiqing Xiao et.al.|[2506.03134v1](http://arxiv.org/abs/2506.03134v1)|null|
 |**2025-06-03**|**Towards Auto-Annotation from Annotation Guidelines: A Benchmark through 3D LiDAR Detection**|Yechi Ma et.al.|[2506.02914v1](http://arxiv.org/abs/2506.02914v1)|null|
 |**2025-06-04**|**Open-PMC-18M: A High-Fidelity Large Scale Medical Dataset for Multimodal Representation Learning**|Negin Baghbanzadeh et.al.|[2506.02738v2](http://arxiv.org/abs/2506.02738v2)|null|
@@ -14090,7 +14117,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20250605>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250606>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
