@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.09
+## Updated on 2025.06.10
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-06**|**TerraFM: A Scalable Foundation Model for Unified Multisensor Earth Observation**|Muhammad Sohail Danish et.al.|[2506.06281v1](http://arxiv.org/abs/2506.06281v1)|null|
+|**2025-06-06**|**Distillation Robustifies Unlearning**|Bruce W. Lee et.al.|[2506.06278v1](http://arxiv.org/abs/2506.06278v1)|null|
+|**2025-06-06**|**STARFlow: Scaling Latent Normalizing Flows for High-resolution Image Synthesis**|Jiatao Gu et.al.|[2506.06276v1](http://arxiv.org/abs/2506.06276v1)|null|
+|**2025-06-06**|**Corrector Sampling in Language Models**|Itai Gat et.al.|[2506.06215v1](http://arxiv.org/abs/2506.06215v1)|null|
+|**2025-06-06**|**Masked Language Models are Good Heterogeneous Graph Generalizers**|Jinyu Yang et.al.|[2506.06157v1](http://arxiv.org/abs/2506.06157v1)|null|
+|**2025-06-06**|**WisWheat: A Three-Tiered Vision-Language Dataset for Wheat Management**|Bowen Yuan et.al.|[2506.06084v1](http://arxiv.org/abs/2506.06084v1)|null|
+|**2025-06-06**|**BEAST: Efficient Tokenization of B-Splines Encoded Action Sequences for Imitation Learning**|Hongyi Zhou et.al.|[2506.06072v1](http://arxiv.org/abs/2506.06072v1)|null|
+|**2025-06-06**|**Enhancing Orthopox Image Classification Using Hybrid Machine Learning and Deep Learning Models**|Alejandro Puente-Castro et.al.|[2506.06007v1](http://arxiv.org/abs/2506.06007v1)|null|
+|**2025-06-06**|**Improving Long-Range Navigation with Spatially-Enhanced Recurrent Memory via End-to-End Reinforcement Learning**|Fan Yang et.al.|[2506.05997v1](http://arxiv.org/abs/2506.05997v1)|null|
+|**2025-06-06**|**Dynamic Mixture of Progressive Parameter-Efficient Expert Library for Lifelong Robot Learning**|Yuheng Lei et.al.|[2506.05985v1](http://arxiv.org/abs/2506.05985v1)|null|
 |**2025-06-05**|**Exploring Diffusion Transformer Designs via Grafting**|Keshigeyan Chandrasegaran et.al.|[2506.05340v1](http://arxiv.org/abs/2506.05340v1)|null|
 |**2025-06-05**|**Generalizable, real-time neural decoding with hybrid state-space models**|Avery Hee-Woon Ryoo et.al.|[2506.05320v1](http://arxiv.org/abs/2506.05320v1)|null|
 |**2025-06-06**|**Does Your 3D Encoder Really Work? When Pretrain-SFT from 2D VLMs Meets 3D VLMs**|Haoyuan Li et.al.|[2506.05318v2](http://arxiv.org/abs/2506.05318v2)|null|
@@ -5124,12 +5134,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250610>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-06**|**AdvSumm: Adversarial Training for Bias Mitigation in Text Summarization**|Mukur Gupta et.al.|[2506.06273v1](http://arxiv.org/abs/2506.06273v1)|null|
+|**2025-06-06**|**Model-Driven Graph Contrastive Learning**|Ali Azizpour et.al.|[2506.06212v1](http://arxiv.org/abs/2506.06212v1)|null|
+|**2025-06-06**|**Astra: Toward General-Purpose Mobile Robots via Hierarchical Multimodal Learning**|Sheng Chen et.al.|[2506.06205v1](http://arxiv.org/abs/2506.06205v1)|null|
+|**2025-06-06**|**Stream DaQ: Stream-First Data Quality Monitoring**|Vasileios Papastergios et.al.|[2506.06147v1](http://arxiv.org/abs/2506.06147v1)|null|
+|**2025-06-06**|**On Inverse Problems, Parameter Estimation, and Domain Generalization**|Deborah Pereg et.al.|[2506.06024v1](http://arxiv.org/abs/2506.06024v1)|null|
+|**2025-06-06**|**AMPED: Adaptive Multi-objective Projection for balancing Exploration and skill Diversification**|Geonwoo Cho et.al.|[2506.05980v1](http://arxiv.org/abs/2506.05980v1)|null|
+|**2025-06-06**|**Mitigating Catastrophic Forgetting with Adaptive Transformer Block Expansion in Federated Fine-Tuning**|Yujia Huo et.al.|[2506.05977v1](http://arxiv.org/abs/2506.05977v1)|null|
+|**2025-06-06**|**MoA: Heterogeneous Mixture of Adapters for Parameter-Efficient Fine-Tuning of Large Language Models**|Jie Cao et.al.|[2506.05928v1](http://arxiv.org/abs/2506.05928v1)|null|
+|**2025-06-06**|**Projectable Models: One-Shot Generation of Small Specialized Transformers from Large Ones**|Andrey Zhmoginov et.al.|[2506.05641v1](http://arxiv.org/abs/2506.05641v1)|null|
+|**2025-06-05**|**Leveraging Self-Attention for Input-Dependent Soft Prompting in LLMs**|Ananth Muppidi et.al.|[2506.05629v1](http://arxiv.org/abs/2506.05629v1)|null|
 |**2025-06-05**|**Micro-Act: Mitigate Knowledge Conflict in Question Answering via Actionable Self-Reasoning**|Nan Huo et.al.|[2506.05278v1](http://arxiv.org/abs/2506.05278v1)|null|
 |**2025-06-05**|**CSI2Vec: Towards a Universal CSI Feature Representation for Positioning and Channel Charting**|Victoria Palhares et.al.|[2506.05237v1](http://arxiv.org/abs/2506.05237v1)|null|
 |**2025-06-05**|**Single GPU Task Adaptation of Pathology Foundation Models for Whole Slide Image Analysis**|Neeraj Kumar et.al.|[2506.05184v1](http://arxiv.org/abs/2506.05184v1)|null|
@@ -9812,15 +9832,16 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250610>back to top</a>)</p>
 
 ## adaptor
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-06**|**Hybrid Stabilization Protocol for Cross-Chain Digital Assets Using Adaptor Signatures and AI-Driven Arbitrage**|Shengwei You et.al.|[2506.05708v1](http://arxiv.org/abs/2506.05708v1)|null|
 |**2025-06-04**|**BPO: Revisiting Preference Modeling in Direct Preference Optimization**|Lin Sun et.al.|[2506.03557v1](http://arxiv.org/abs/2506.03557v1)|null|
 |**2025-05-30**|**Can LLMs Understand Unvoiced Speech? Exploring EMG-to-Text Conversion with LLMs**|Payal Mohapatra et.al.|[2506.00304v1](http://arxiv.org/abs/2506.00304v1)|null|
-|**2025-05-29**|**BeaverTalk: Oregon State University's IWSLT 2025 Simultaneous Speech Translation System**|Matthew Raffel et.al.|[2505.24016v1](http://arxiv.org/abs/2505.24016v1)|null|
+|**2025-05-29**|**BeaverTalk: Oregon State University's IWSLT 2025 Simultaneous Speech Translation System**|Matthew Raffel et.al.|[2505.24016v1](http://arxiv.org/abs/2505.24016v1)|**[link](https://github.com/osu-starlab/beavertalk)**|
 |**2025-05-26**|**GSA-TTS : Toward Zero-Shot Speech Synthesis based on Gradual Style Adaptor**|Seokgi Lee et.al.|[2505.19384v1](http://arxiv.org/abs/2505.19384v1)|null|
 |**2025-05-23**|**AutoMiSeg: Automatic Medical Image Segmentation via Test-Time Adaptation of Foundation Models**|Xingjian Li et.al.|[2505.17931v1](http://arxiv.org/abs/2505.17931v1)|null|
 |**2025-05-19**|**Mamba-Adaptor: State Space Model Adaptor for Visual Recognition**|Fei Xie et.al.|[2505.12685v1](http://arxiv.org/abs/2505.12685v1)|null|
@@ -10001,12 +10022,15 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250610>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-06**|**Domain-RAG: Retrieval-Guided Compositional Image Generation for Cross-Domain Few-Shot Object Detection**|Yu Li et.al.|[2506.05872v1](http://arxiv.org/abs/2506.05872v1)|null|
+|**2025-06-06**|**Token Transforming: A Unified and Training-Free Token Compression Framework for Vision Transformer Acceleration**|Fanhu Zeng et.al.|[2506.05709v1](http://arxiv.org/abs/2506.05709v1)|null|
+|**2025-06-06**|**Integer Binary-Range Alignment Neuron for Spiking Neural Networks**|Binghao Ye et.al.|[2506.05679v1](http://arxiv.org/abs/2506.05679v1)|null|
 |**2025-06-05**|**Synthetic Dataset Generation for Autonomous Mobile Robots Using 3D Gaussian Splatting for Vision Training**|Aneesh Deogan et.al.|[2506.05092v1](http://arxiv.org/abs/2506.05092v1)|null|
 |**2025-06-06**|**Bridging Annotation Gaps: Transferring Labels to Align Object Detection Datasets**|Mikhail Kennerley et.al.|[2506.04737v2](http://arxiv.org/abs/2506.04737v2)|null|
 |**2025-06-05**|**Gen-n-Val: Agentic Image Data Generation and Validation**|Jing-En Huang et.al.|[2506.04676v1](http://arxiv.org/abs/2506.04676v1)|null|
@@ -14143,7 +14167,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250610>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
