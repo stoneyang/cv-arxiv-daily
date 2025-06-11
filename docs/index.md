@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.10
+## Updated on 2025.06.11
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-09**|**Dreamland: Controllable World Creation with Simulator and Generative Models**|Sicheng Mo et.al.|[2506.08006v1](http://arxiv.org/abs/2506.08006v1)|null|
+|**2025-06-09**|**EgoM2P: Egocentric Multimodal Multitask Pretraining**|Gen Li et.al.|[2506.07886v1](http://arxiv.org/abs/2506.07886v1)|null|
+|**2025-06-09**|**Improving large language models with concept-aware fine-tuning**|Michael K. Chen et.al.|[2506.07833v1](http://arxiv.org/abs/2506.07833v1)|null|
+|**2025-06-09**|**Trend-Aware Fashion Recommendation with Visual Segmentation and Semantic Similarity**|Mohamed Djilani et.al.|[2506.07773v1](http://arxiv.org/abs/2506.07773v1)|null|
+|**2025-06-09**|**NOVA3D: Normal Aligned Video Diffusion Model for Single Image to 3D Generation**|Yuxiao Yang et.al.|[2506.07698v1](http://arxiv.org/abs/2506.07698v1)|null|
+|**2025-06-09**|**SurgBench: A Unified Large-Scale Benchmark for Surgical Video Analysis**|Jianhui Wei et.al.|[2506.07603v1](http://arxiv.org/abs/2506.07603v1)|null|
+|**2025-06-09**|**MIRA: Medical Time Series Foundation Model for Real-World Health Data**|Hao Li et.al.|[2506.07584v1](http://arxiv.org/abs/2506.07584v1)|null|
+|**2025-06-09**|**Super Encoding Network: Recursive Association of Multi-Modal Encoders for Video Understanding**|Boyu Chen et.al.|[2506.07576v1](http://arxiv.org/abs/2506.07576v1)|null|
+|**2025-06-09**|**ChemAgent: Enhancing LLMs for Chemistry and Materials Science through Tree-Search Based Tool Learning**|Mengsong Wu et.al.|[2506.07551v1](http://arxiv.org/abs/2506.07551v1)|null|
+|**2025-06-09**|**BitVLA: 1-bit Vision-Language-Action Models for Robotics Manipulation**|Hongyu Wang et.al.|[2506.07530v1](http://arxiv.org/abs/2506.07530v1)|null|
 |**2025-06-06**|**TerraFM: A Scalable Foundation Model for Unified Multisensor Earth Observation**|Muhammad Sohail Danish et.al.|[2506.06281v1](http://arxiv.org/abs/2506.06281v1)|null|
 |**2025-06-06**|**Distillation Robustifies Unlearning**|Bruce W. Lee et.al.|[2506.06278v1](http://arxiv.org/abs/2506.06278v1)|null|
 |**2025-06-06**|**STARFlow: Scaling Latent Normalizing Flows for High-resolution Image Synthesis**|Jiatao Gu et.al.|[2506.06276v1](http://arxiv.org/abs/2506.06276v1)|null|
@@ -5138,12 +5148,22 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250610>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250611>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-09**|**Correlated Errors in Large Language Models**|Elliot Kim et.al.|[2506.07962v1](http://arxiv.org/abs/2506.07962v1)|null|
+|**2025-06-09**|**LLM Unlearning Should Be Form-Independent**|Xiaotian Ye et.al.|[2506.07795v1](http://arxiv.org/abs/2506.07795v1)|null|
+|**2025-06-09**|**Design and Evaluation of Deep Learning-Based Dual-Spectrum Image Fusion Methods**|Beining Xu et.al.|[2506.07779v1](http://arxiv.org/abs/2506.07779v1)|null|
+|**2025-06-09**|**LoRMA: Low-Rank Multiplicative Adaptation for LLMs**|Harsh Bihany et.al.|[2506.07621v1](http://arxiv.org/abs/2506.07621v1)|null|
+|**2025-06-09**|**Aircraft Trajectory Dataset Augmentation in Latent Space**|Seokbin Yoon et.al.|[2506.07585v1](http://arxiv.org/abs/2506.07585v1)|null|
+|**2025-06-09**|**Uncertainty-o: One Model-agnostic Framework for Unveiling Uncertainty in Large Multimodal Models**|Ruiyang Zhang et.al.|[2506.07575v1](http://arxiv.org/abs/2506.07575v1)|null|
+|**2025-06-09**|**Genesis: Multimodal Driving Scene Generation with Spatio-Temporal and Cross-Modal Consistency**|Xiangyu Guo et.al.|[2506.07497v1](http://arxiv.org/abs/2506.07497v1)|null|
+|**2025-06-09**|**CCI4.0: A Bilingual Pretraining Dataset for Enhancing Reasoning in Large Language Models**|Guang Liu et.al.|[2506.07463v1](http://arxiv.org/abs/2506.07463v1)|null|
+|**2025-06-09**|**Well Begun is Half Done: Low-resource Preference Alignment by Weak-to-Strong Decoding**|Feifan Song et.al.|[2506.07434v1](http://arxiv.org/abs/2506.07434v1)|**[link](https://github.com/F2-Song/Weak-to-Strong-Decoding)**|
+|**2025-06-09**|**Adapter Naturally Serves as Decoupler for Cross-Domain Few-Shot Semantic Segmentation**|Jintao Tong et.al.|[2506.07376v1](http://arxiv.org/abs/2506.07376v1)|null|
 |**2025-06-06**|**AdvSumm: Adversarial Training for Bias Mitigation in Text Summarization**|Mukur Gupta et.al.|[2506.06273v1](http://arxiv.org/abs/2506.06273v1)|null|
 |**2025-06-06**|**Model-Driven Graph Contrastive Learning**|Ali Azizpour et.al.|[2506.06212v1](http://arxiv.org/abs/2506.06212v1)|null|
 |**2025-06-06**|**Astra: Toward General-Purpose Mobile Robots via Hierarchical Multimodal Learning**|Sheng Chen et.al.|[2506.06205v1](http://arxiv.org/abs/2506.06205v1)|null|
@@ -9836,7 +9856,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20250610>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250611>back to top</a>)</p>
 
 ## adaptor
 
@@ -10026,12 +10046,22 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250610>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250611>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-09**|**CrosswalkNet: An Optimized Deep Learning Framework for Pedestrian Crosswalk Detection in Aerial Images with High-Performance Computing**|Zubin Bhuyan et.al.|[2506.07885v1](http://arxiv.org/abs/2506.07885v1)|null|
+|**2025-06-09**|**SAM2Auto: Auto Annotation Using FLASH**|Arash Rocky et.al.|[2506.07850v1](http://arxiv.org/abs/2506.07850v1)|null|
+|**2025-06-09**|**Design and Evaluation of Deep Learning-Based Dual-Spectrum Image Fusion Methods**|Beining Xu et.al.|[2506.07779v1](http://arxiv.org/abs/2506.07779v1)|null|
+|**2025-06-09**|**SpikeSMOKE: Spiking Neural Networks for Monocular 3D Object Detection with Cross-Scale Gated Coding**|Xuemei Chen et.al.|[2506.07737v1](http://arxiv.org/abs/2506.07737v1)|null|
+|**2025-06-09**|**Domain Randomization for Object Detection in Manufacturing Applications using Synthetic Data: A Comprehensive Study**|Xiaomeng Zhu et.al.|[2506.07539v1](http://arxiv.org/abs/2506.07539v1)|null|
+|**2025-06-09**|**SpatialLM: Training Large Language Models for Structured Indoor Modeling**|Yongsen Mao et.al.|[2506.07491v1](http://arxiv.org/abs/2506.07491v1)|null|
+|**2025-06-09**|**Happiness Finder: Exploring the Role of AI in Enhancing Well-Being During Four-Leaf Clover Searches**|Anna Yokokubo et.al.|[2506.07393v1](http://arxiv.org/abs/2506.07393v1)|null|
+|**2025-06-09**|**Multiple Object Stitching for Unsupervised Representation Learning**|Chengchao Shen et.al.|[2506.07364v1](http://arxiv.org/abs/2506.07364v1)|**[link](https://github.com/visresearch/MultipleObjectStitching)**|
+|**2025-06-09**|**CBAM-STN-TPS-YOLO: Enhancing Agricultural Object Detection through Spatially Adaptive Attention Mechanisms**|Satvik Praveen et.al.|[2506.07357v1](http://arxiv.org/abs/2506.07357v1)|null|
+|**2025-06-08**|**UCOD-DPL: Unsupervised Camouflaged Object Detection via Dynamic Pseudo-label Learning**|Weiqi Yan et.al.|[2506.07087v1](http://arxiv.org/abs/2506.07087v1)|null|
 |**2025-06-06**|**Domain-RAG: Retrieval-Guided Compositional Image Generation for Cross-Domain Few-Shot Object Detection**|Yu Li et.al.|[2506.05872v1](http://arxiv.org/abs/2506.05872v1)|null|
 |**2025-06-06**|**Token Transforming: A Unified and Training-Free Token Compression Framework for Vision Transformer Acceleration**|Fanhu Zeng et.al.|[2506.05709v1](http://arxiv.org/abs/2506.05709v1)|null|
 |**2025-06-06**|**Integer Binary-Range Alignment Neuron for Spiking Neural Networks**|Binghao Ye et.al.|[2506.05679v1](http://arxiv.org/abs/2506.05679v1)|null|
@@ -14171,7 +14201,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20250610>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250611>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
