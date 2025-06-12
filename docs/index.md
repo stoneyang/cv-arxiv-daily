@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.11
+## Updated on 2025.06.12
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning**|Li Kang et.al.|[2506.09049v1](http://arxiv.org/abs/2506.09049v1)|null|
+|**2025-06-11**|**Do Multiple Instance Learning Models Transfer?**|Daniel Shao et.al.|[2506.09022v2](http://arxiv.org/abs/2506.09022v2)|null|
+|**2025-06-10**|**Efficient Medical Vision-Language Alignment Through Adapting Masked Vision Models**|Chenyu Lian et.al.|[2506.08990v1](http://arxiv.org/abs/2506.08990v1)|null|
+|**2025-06-10**|**Pre-trained Language Models Learn Remarkably Accurate Representations of Numbers**|Marek Kadlčík et.al.|[2506.08966v1](http://arxiv.org/abs/2506.08966v1)|null|
+|**2025-06-10**|**Cross-Spectral Body Recognition with Side Information Embedding: Benchmarks on LLCM and Analyzing Range-Induced Occlusions on IJB-MDF**|Anirudh Nanduri et.al.|[2506.08953v1](http://arxiv.org/abs/2506.08953v1)|null|
+|**2025-06-10**|**SeerAttention-R: Sparse Attention Adaptation for Long Reasoning**|Yizhao Gao et.al.|[2506.08889v1](http://arxiv.org/abs/2506.08889v1)|null|
+|**2025-06-10**|**DiscoVLA: Discrepancy Reduction in Vision, Language, and Alignment for Parameter-Efficient Video-Text Retrieval**|Leqi Shen et.al.|[2506.08887v1](http://arxiv.org/abs/2506.08887v1)|null|
+|**2025-06-10**|**HunyuanVideo-HOMA: Generic Human-Object Interaction in Multimodal Driven Human Animation**|Ziyao Huang et.al.|[2506.08797v1](http://arxiv.org/abs/2506.08797v1)|null|
+|**2025-06-10**|**HomographyAD: Deep Anomaly Detection Using Self Homography Learning**|Jongyub Seok et.al.|[2506.08784v1](http://arxiv.org/abs/2506.08784v1)|null|
+|**2025-06-10**|**Landsat-Bench: Datasets and Benchmarks for Landsat Foundation Models**|Isaac Corley et.al.|[2506.08780v1](http://arxiv.org/abs/2506.08780v1)|null|
 |**2025-06-09**|**Dreamland: Controllable World Creation with Simulator and Generative Models**|Sicheng Mo et.al.|[2506.08006v1](http://arxiv.org/abs/2506.08006v1)|null|
 |**2025-06-09**|**EgoM2P: Egocentric Multimodal Multitask Pretraining**|Gen Li et.al.|[2506.07886v1](http://arxiv.org/abs/2506.07886v1)|null|
 |**2025-06-09**|**Improving large language models with concept-aware fine-tuning**|Michael K. Chen et.al.|[2506.07833v1](http://arxiv.org/abs/2506.07833v1)|null|
@@ -5148,12 +5158,22 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250611>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250612>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models**|Xuanchi Ren et.al.|[2506.09042v1](http://arxiv.org/abs/2506.09042v1)|null|
+|**2025-06-10**|**Employing self-supervised learning models for cross-linguistic child speech maturity classification**|Theo Zhang et.al.|[2506.08999v1](http://arxiv.org/abs/2506.08999v1)|null|
+|**2025-06-10**|**Local MDI+: Local Feature Importances for Tree-Based Models**|Zhongyuan Liang et.al.|[2506.08928v1](http://arxiv.org/abs/2506.08928v1)|null|
+|**2025-06-10**|**Landsat-Bench: Datasets and Benchmarks for Landsat Foundation Models**|Isaac Corley et.al.|[2506.08780v1](http://arxiv.org/abs/2506.08780v1)|null|
+|**2025-06-10**|**InceptionMamba: An Efficient Hybrid Network with Large Band Convolution and Bottleneck Mamba**|Yuhang Wang et.al.|[2506.08735v1](http://arxiv.org/abs/2506.08735v1)|null|
+|**2025-06-10**|**Orientation Matters: Making 3D Generative Models Orientation-Aligned**|Yichong Lu et.al.|[2506.08640v1](http://arxiv.org/abs/2506.08640v1)|null|
+|**2025-06-10**|**Graph signal aware decomposition of dynamic networks via latent graphs**|Bishwadeep Das et.al.|[2506.08519v1](http://arxiv.org/abs/2506.08519v1)|null|
+|**2025-06-10**|**AlphaFold Database Debiasing for Robust Inverse Folding**|Cheng Tan et.al.|[2506.08365v1](http://arxiv.org/abs/2506.08365v1)|null|
+|**2025-06-10**|**Graph Prompting for Graph Learning Models: Recent Advances and Future Directions**|Xingbo Fu et.al.|[2506.08326v1](http://arxiv.org/abs/2506.08326v1)|null|
+|**2025-06-09**|**Diffusion Sequence Models for Enhanced Protein Representation and Generation**|Logan Hallee et.al.|[2506.08293v1](http://arxiv.org/abs/2506.08293v1)|null|
 |**2025-06-09**|**Correlated Errors in Large Language Models**|Elliot Kim et.al.|[2506.07962v1](http://arxiv.org/abs/2506.07962v1)|null|
 |**2025-06-09**|**LLM Unlearning Should Be Form-Independent**|Xiaotian Ye et.al.|[2506.07795v1](http://arxiv.org/abs/2506.07795v1)|null|
 |**2025-06-09**|**Design and Evaluation of Deep Learning-Based Dual-Spectrum Image Fusion Methods**|Beining Xu et.al.|[2506.07779v1](http://arxiv.org/abs/2506.07779v1)|null|
@@ -9856,7 +9876,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20250611>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250612>back to top</a>)</p>
 
 ## adaptor
 
@@ -10046,12 +10066,19 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250611>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250612>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models**|Xuanchi Ren et.al.|[2506.09042v1](http://arxiv.org/abs/2506.09042v1)|null|
+|**2025-06-10**|**ADAM: Autonomous Discovery and Annotation Model using LLMs for Context-Aware Annotations**|Amirreza Rouhi et.al.|[2506.08968v1](http://arxiv.org/abs/2506.08968v1)|null|
+|**2025-06-10**|**Data Augmentation For Small Object using Fast AutoAugment**|DaeEun Yoon et.al.|[2506.08956v1](http://arxiv.org/abs/2506.08956v1)|null|
+|**2025-06-11**|**Gaussian2Scene: 3D Scene Representation Learning via Self-supervised Learning with 3D Gaussian Splatting**|Keyi Liu et.al.|[2506.08777v2](http://arxiv.org/abs/2506.08777v2)|null|
+|**2025-06-10**|**ATAS: Any-to-Any Self-Distillation for Enhanced Open-Vocabulary Dense Prediction**|Juan Yeo et.al.|[2506.08678v1](http://arxiv.org/abs/2506.08678v1)|null|
+|**2025-06-10**|**Hierarchical Neural Collapse Detection Transformer for Class Incremental Object Detection**|Duc Thanh Pham et.al.|[2506.08562v1](http://arxiv.org/abs/2506.08562v1)|null|
+|**2025-06-10**|**Discovery of Odd Radio Circles and Other Peculiars in the First Year of the EMU Survey using Object Detection**|Nikhel Gupta et.al.|[2506.08439v1](http://arxiv.org/abs/2506.08439v1)|null|
 |**2025-06-09**|**CrosswalkNet: An Optimized Deep Learning Framework for Pedestrian Crosswalk Detection in Aerial Images with High-Performance Computing**|Zubin Bhuyan et.al.|[2506.07885v1](http://arxiv.org/abs/2506.07885v1)|null|
 |**2025-06-09**|**SAM2Auto: Auto Annotation Using FLASH**|Arash Rocky et.al.|[2506.07850v1](http://arxiv.org/abs/2506.07850v1)|null|
 |**2025-06-09**|**Design and Evaluation of Deep Learning-Based Dual-Spectrum Image Fusion Methods**|Beining Xu et.al.|[2506.07779v1](http://arxiv.org/abs/2506.07779v1)|null|
@@ -14201,7 +14228,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20250611>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250612>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
