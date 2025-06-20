@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.18
+## Updated on 2025.06.20
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-18**|**CC-LEARN: Cohort-based Consistency Learning**|Xiao Ye et.al.|[2506.15662v1](http://arxiv.org/abs/2506.15662v1)|null|
+|**2025-06-18**|**HOIDiNi: Human-Object Interaction through Diffusion Noise Optimization**|Roey Ron et.al.|[2506.15625v1](http://arxiv.org/abs/2506.15625v1)|null|
+|**2025-06-18**|**Automated MRI Tumor Segmentation using hybrid U-Net with Transformer and Efficient Attention**|Syed Haider Ali et.al.|[2506.15562v1](http://arxiv.org/abs/2506.15562v1)|null|
+|**2025-06-18**|**Versatile Symbolic Music-for-Music Modeling via Function Alignment**|Junyan Jiang et.al.|[2506.15548v1](http://arxiv.org/abs/2506.15548v1)|null|
+|**2025-06-18**|**RATTENTION: Towards the Minimal Sliding Window Size in Local-Global Attention Models**|Bailin Wang et.al.|[2506.15545v1](http://arxiv.org/abs/2506.15545v1)|null|
+|**2025-06-18**|**Diff-TONE: Timestep Optimization for iNstrument Editing in Text-to-Music Diffusion Models**|Teysir Baoueb et.al.|[2506.15530v1](http://arxiv.org/abs/2506.15530v1)|null|
+|**2025-06-18**|**Advanced cervical cancer classification: enhancing pap smear images with hybrid PMD Filter-CLAHE**|Ach Khozaimi et.al.|[2506.15489v1](http://arxiv.org/abs/2506.15489v1)|null|
+|**2025-06-18**|**ConLID: Supervised Contrastive Learning for Low-Resource Language Identification**|Negar Foroutan et.al.|[2506.15304v1](http://arxiv.org/abs/2506.15304v1)|null|
+|**2025-06-18**|**Retrospective Memory for Camouflaged Object Detection**|Chenxi Zhang et.al.|[2506.15244v1](http://arxiv.org/abs/2506.15244v1)|null|
+|**2025-06-18**|**An efficient forgetting-aware fine-tuning framework for pretrained universal machine-learning interatomic potentials**|Jisu Kim et.al.|[2506.15223v1](http://arxiv.org/abs/2506.15223v1)|null|
 |**2025-06-16**|**UltraZoom: Generating Gigapixel Images from Regular Photos**|Jingwei Ma et.al.|[2506.13756v1](http://arxiv.org/abs/2506.13756v1)|null|
 |**2025-06-16**|**MARCO: Hardware-Aware Neural Architecture Search for Edge Devices with Multi-Agent Reinforcement Learning and Conformal Prediction Filtering**|Arya Fayyazi et.al.|[2506.13755v1](http://arxiv.org/abs/2506.13755v1)|null|
 |**2025-06-16**|**Sharpness-Aware Machine Unlearning**|Haoran Tang et.al.|[2506.13715v1](http://arxiv.org/abs/2506.13715v1)|null|
@@ -5198,12 +5208,22 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250620>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-18**|**BoxFusion: Reconstruction-Free Open-Vocabulary 3D Object Detection via Real-Time Multi-View Box Fusion**|Yuqing Lan et.al.|[2506.15610v1](http://arxiv.org/abs/2506.15610v1)|null|
+|**2025-06-18**|**Pixel-level Certified Explanations via Randomized Smoothing**|Alaa Anani et.al.|[2506.15499v1](http://arxiv.org/abs/2506.15499v1)|null|
+|**2025-06-18**|**ABC: Adaptive BayesNet Structure Learning for Computational Scalable Multi-task Image Compression**|Yufeng Zhang et.al.|[2506.15228v1](http://arxiv.org/abs/2506.15228v1)|null|
+|**2025-06-18**|**Privacy-Shielded Image Compression: Defending Against Exploitation from Vision-Language Pretrained Models**|Xuelin Shen et.al.|[2506.15201v1](http://arxiv.org/abs/2506.15201v1)|null|
+|**2025-06-18**|**Enhancing point cloud analysis via neighbor aggregation correction based on cross-stage structure correlation**|Jiaqi Shi et.al.|[2506.15160v1](http://arxiv.org/abs/2506.15160v1)|null|
+|**2025-06-18**|**Thunder-Tok: Minimizing Tokens per Word in Tokenizing Korean Texts for Generative Language Models**|Gyeongje Cho et.al.|[2506.15138v1](http://arxiv.org/abs/2506.15138v1)|null|
+|**2025-06-17**|**SFT-GO: Supervised Fine-Tuning with Group Optimization for Large Language Models**|Gyuhak Kim et.al.|[2506.15021v1](http://arxiv.org/abs/2506.15021v1)|null|
+|**2025-06-17**|**Scaling-Up the Pretraining of the Earth Observation Foundation Model PhilEO to the MajorTOM Dataset**|Nikolaos Dionelis et.al.|[2506.14765v1](http://arxiv.org/abs/2506.14765v1)|null|
+|**2025-06-17**|**GuiLoMo: Allocating Expert Number and Rank for LoRA-MoE via Bilevel Optimization with GuidedSelection Vectors**|Hengyuan Zhang et.al.|[2506.14646v1](http://arxiv.org/abs/2506.14646v1)|null|
+|**2025-06-17**|**LongLLaDA: Unlocking Long Context Capabilities in Diffusion LLMs**|Xiaoran Liu et.al.|[2506.14429v1](http://arxiv.org/abs/2506.14429v1)|null|
 |**2025-06-17**|**Prefix-Tuning+: Modernizing Prefix-Tuning by Decoupling the Prefix from Attention**|Haonan Wang et.al.|[2506.13674v2](http://arxiv.org/abs/2506.13674v2)|null|
 |**2025-06-16**|**Watermarking LLM-Generated Datasets in Downstream Tasks**|Yugeng Liu et.al.|[2506.13494v1](http://arxiv.org/abs/2506.13494v1)|null|
 |**2025-06-16**|**PRO: Projection Domain Synthesis for CT Imaging**|Kang Chen et.al.|[2506.13443v1](http://arxiv.org/abs/2506.13443v1)|null|
@@ -9954,7 +9974,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250620>back to top</a>)</p>
 
 ## adaptor
 
@@ -10146,12 +10166,21 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250620>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-18**|**BoxFusion: Reconstruction-Free Open-Vocabulary 3D Object Detection via Real-Time Multi-View Box Fusion**|Yuqing Lan et.al.|[2506.15610v1](http://arxiv.org/abs/2506.15610v1)|null|
+|**2025-06-18**|**Retrospective Memory for Camouflaged Object Detection**|Chenxi Zhang et.al.|[2506.15244v1](http://arxiv.org/abs/2506.15244v1)|null|
+|**2025-06-17**|**Efficient Retail Video Annotation: A Robust Key Frame Generation Approach for Product and Customer Interaction Analysis**|Varun Mannam et.al.|[2506.14854v1](http://arxiv.org/abs/2506.14854v1)|null|
+|**2025-06-18**|**YOLOv11-RGBT: Towards a Comprehensive Single-Stage Multispectral Object Detection Framework**|Dahang Wan et.al.|[2506.14696v2](http://arxiv.org/abs/2506.14696v2)|null|
+|**2025-06-17**|**VisText-Mosquito: A Multimodal Dataset and Benchmark for AI-Based Mosquito Breeding Site Detection and Reasoning**|Md. Adnanul Islam et.al.|[2506.14629v1](http://arxiv.org/abs/2506.14629v1)|null|
+|**2025-06-17**|**GAMORA: A Gesture Articulated Meta Operative Robotic Arm for Hazardous Material Handling in Containment-Level Environments**|Farha Abdul Wasay et.al.|[2506.14513v1](http://arxiv.org/abs/2506.14513v1)|null|
+|**2025-06-17**|**Comparison of Two Methods for Stationary Incident Detection Based on Background Image**|Deepak Ghimire et.al.|[2506.14256v1](http://arxiv.org/abs/2506.14256v1)|null|
+|**2025-06-16**|**A Point Cloud Completion Approach for the Grasping of Partially Occluded Objects and Its Applications in Robotic Strawberry Harvesting**|Ali Abouzeid et.al.|[2506.14066v1](http://arxiv.org/abs/2506.14066v1)|**[link](https://github.com/malak-mansour/pointcloud_completion_for_grasping)**|
+|**2025-06-16**|**FindMeIfYouCan: Bringing Open Set metrics to $\textit{near} $, $ \textit{far} $ and $\textit{farther}$ Out-of-Distribution Object Detection**|Daniel Montoya et.al.|[2506.14008v1](http://arxiv.org/abs/2506.14008v1)|null|
 |**2025-06-16**|**How Real is CARLAs Dynamic Vision Sensor? A Study on the Sim-to-Real Gap in Traffic Object Detection**|Kaiyuan Tan et.al.|[2506.13722v1](http://arxiv.org/abs/2506.13722v1)|null|
 |**2025-06-17**|**Lecture Video Visual Objects (LVVO) Dataset: A Benchmark for Visual Object Detection in Educational Videos**|Dipayan Biswas et.al.|[2506.13657v2](http://arxiv.org/abs/2506.13657v2)|**[link](https://github.com/dipayan1109033/edu-video-visual-detection)**|
 |**2025-06-16**|**UAV Object Detection and Positioning in a Mining Industrial Metaverse with Custom Geo-Referenced Data**|Vasiliki Balaska et.al.|[2506.13505v1](http://arxiv.org/abs/2506.13505v1)|null|
@@ -14333,7 +14362,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250620>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
