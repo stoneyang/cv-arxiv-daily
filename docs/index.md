@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.23
+## Updated on 2025.06.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-20**|**High-accuracy inference using HfO$_x$S$_y$/HfS$_2$ Memristors**|Aferdita Xhameni et.al.|[2506.17174v1](http://arxiv.org/abs/2506.17174v1)|null|
+|**2025-06-20**|**Analyzing PDFs like Binaries: Adversarially Robust PDF Malware Analysis via Intermediate Representation and Language Model**|Side Liu et.al.|[2506.17162v1](http://arxiv.org/abs/2506.17162v1)|null|
+|**2025-06-20**|**Acquiring and Accumulating Knowledge from Diverse Datasets for Multi-label Driving Scene Classification**|Ke Li et.al.|[2506.17101v1](http://arxiv.org/abs/2506.17101v1)|null|
+|**2025-06-20**|**Tower+: Bridging Generality and Translation Specialization in Multilingual LLMs**|Ricardo Rei et.al.|[2506.17080v1](http://arxiv.org/abs/2506.17080v1)|null|
+|**2025-06-20**|**With Limited Data for Multimodal Alignment, Let the STRUCTURE Guide You**|Fabian Gröger et.al.|[2506.16895v1](http://arxiv.org/abs/2506.16895v1)|null|
+|**2025-06-20**|**Hybrid-Sep: Language-queried audio source separation via pre-trained Model Fusion and Adversarial Diffusion Training**|Jianyuan Feng et.al.|[2506.16833v1](http://arxiv.org/abs/2506.16833v1)|null|
+|**2025-06-20**|**Self-supervised Feature Extraction for Enhanced Ball Detection on Soccer Robots**|Can Lin et.al.|[2506.16821v1](http://arxiv.org/abs/2506.16821v1)|null|
+|**2025-06-20**|**A Minimalist Optimizer Design for LLM Pretraining**|Athanasios Glentis et.al.|[2506.16659v1](http://arxiv.org/abs/2506.16659v1)|null|
+|**2025-06-19**|**MetaQAP -- A Meta-Learning Approach for Quality-Aware Pretraining in Image Quality Assessment**|Muhammad Azeem Aslam et.al.|[2506.16601v1](http://arxiv.org/abs/2506.16601v1)|null|
+|**2025-06-19**|**SafeTriage: Facial Video De-identification for Privacy-Preserving Stroke Triage**|Tongan Cai et.al.|[2506.16578v1](http://arxiv.org/abs/2506.16578v1)|null|
 |**2025-06-18**|**CC-LEARN: Cohort-based Consistency Learning**|Xiao Ye et.al.|[2506.15662v1](http://arxiv.org/abs/2506.15662v1)|null|
 |**2025-06-18**|**HOIDiNi: Human-Object Interaction through Diffusion Noise Optimization**|Roey Ron et.al.|[2506.15625v1](http://arxiv.org/abs/2506.15625v1)|null|
 |**2025-06-18**|**Automated MRI Tumor Segmentation using hybrid U-Net with Transformer and Efficient Attention**|Syed Haider Ali et.al.|[2506.15562v1](http://arxiv.org/abs/2506.15562v1)|null|
@@ -5208,12 +5218,22 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250624>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-20**|**YASMOT: Yet another stereo image multi-object tracker**|Ketil Malde et.al.|[2506.17186v1](http://arxiv.org/abs/2506.17186v1)|null|
+|**2025-06-20**|**Large Language Model Unlearning for Source Code**|Xue Jiang et.al.|[2506.17125v1](http://arxiv.org/abs/2506.17125v1)|null|
+|**2025-06-20**|**Revisiting LoRA through the Lens of Parameter Redundancy: Spectral Encoding Helps**|Jiashun Cheng et.al.|[2506.16787v1](http://arxiv.org/abs/2506.16787v1)|null|
+|**2025-06-20**|**TeSG: Textual Semantic Guidance for Infrared and Visible Image Fusion**|Mingrui Zhu et.al.|[2506.16730v1](http://arxiv.org/abs/2506.16730v1)|null|
+|**2025-06-20**|**Mechanisms vs. Outcomes: Probing for Syntax Fails to Explain Performance on Targeted Syntactic Evaluations**|Ananth Agarwal et.al.|[2506.16678v1](http://arxiv.org/abs/2506.16678v1)|null|
+|**2025-06-20**|**Extracting Multimodal Learngene in CLIP: Unveiling the Multimodal Generalizable Knowledge**|Ruiming Chen et.al.|[2506.16673v1](http://arxiv.org/abs/2506.16673v1)|null|
+|**2025-06-19**|**SparseLoRA: Accelerating LLM Fine-Tuning with Contextual Sparsity**|Samir Khaki et.al.|[2506.16500v1](http://arxiv.org/abs/2506.16500v1)|null|
+|**2025-06-19**|**NepaliGPT: A Generative Language Model for the Nepali Language**|Shushanta Pudasaini et.al.|[2506.16399v1](http://arxiv.org/abs/2506.16399v1)|null|
+|**2025-06-19**|**Bridging Brain with Foundation Models through Self-Supervised Learning**|Hamdi Altaheri et.al.|[2506.16009v1](http://arxiv.org/abs/2506.16009v1)|null|
+|**2025-06-18**|**Entropy-Driven Pre-Tokenization for Byte-Pair Encoding**|Yifan Hu et.al.|[2506.15889v1](http://arxiv.org/abs/2506.15889v1)|null|
 |**2025-06-18**|**BoxFusion: Reconstruction-Free Open-Vocabulary 3D Object Detection via Real-Time Multi-View Box Fusion**|Yuqing Lan et.al.|[2506.15610v1](http://arxiv.org/abs/2506.15610v1)|null|
 |**2025-06-18**|**Pixel-level Certified Explanations via Randomized Smoothing**|Alaa Anani et.al.|[2506.15499v1](http://arxiv.org/abs/2506.15499v1)|**[link](https://github.com/alaaanani/certified-attributions)**|
 |**2025-06-18**|**ABC: Adaptive BayesNet Structure Learning for Computational Scalable Multi-task Image Compression**|Yufeng Zhang et.al.|[2506.15228v1](http://arxiv.org/abs/2506.15228v1)|**[link](https://github.com/worldlife123/cbench_basic)**|
@@ -9974,7 +9994,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250624>back to top</a>)</p>
 
 ## adaptor
 
@@ -10166,12 +10186,20 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250624>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-20**|**YASMOT: Yet another stereo image multi-object tracker**|Ketil Malde et.al.|[2506.17186v1](http://arxiv.org/abs/2506.17186v1)|null|
+|**2025-06-20**|**Class Agnostic Instance-level Descriptor for Visual Instance Search**|Qi-Ying Sun et.al.|[2506.16745v1](http://arxiv.org/abs/2506.16745v1)|null|
+|**2025-06-20**|**Cross-modal Offset-guided Dynamic Alignment and Fusion for Weakly Aligned UAV Object Detection**|Liu Zongzhen et.al.|[2506.16737v1](http://arxiv.org/abs/2506.16737v1)|null|
+|**2025-06-19**|**How Hard Is Snow? A Paired Domain Adaptation Dataset for Clear and Snowy Weather: CADC+**|Mei Qi Tang et.al.|[2506.16531v1](http://arxiv.org/abs/2506.16531v1)|null|
+|**2025-06-19**|**Can AI Dream of Unseen Galaxies? Conditional Diffusion Model for Galaxy Morphology Augmentation**|Chenrui Ma et.al.|[2506.16233v1](http://arxiv.org/abs/2506.16233v1)|null|
+|**2025-06-19**|**VideoGAN-based Trajectory Proposal for Automated Vehicles**|Annajoyce Mariani et.al.|[2506.16209v1](http://arxiv.org/abs/2506.16209v1)|null|
+|**2025-06-19**|**BLADE: An Automated Framework for Classifying Light Curves from the Center for Near-Earth Object Studies (CNEOS) Fireball Database**|Elizabeth A. Silber et.al.|[2506.16099v1](http://arxiv.org/abs/2506.16099v1)|null|
+|**2025-06-19**|**Polyline Path Masked Attention for Vision Transformer**|Zhongchen Zhao et.al.|[2506.15940v1](http://arxiv.org/abs/2506.15940v1)|null|
 |**2025-06-18**|**BoxFusion: Reconstruction-Free Open-Vocabulary 3D Object Detection via Real-Time Multi-View Box Fusion**|Yuqing Lan et.al.|[2506.15610v1](http://arxiv.org/abs/2506.15610v1)|null|
 |**2025-06-18**|**Retrospective Memory for Camouflaged Object Detection**|Chenxi Zhang et.al.|[2506.15244v1](http://arxiv.org/abs/2506.15244v1)|null|
 |**2025-06-19**|**Efficient Retail Video Annotation: A Robust Key Frame Generation Approach for Product and Customer Interaction Analysis**|Varun Mannam et.al.|[2506.14854v2](http://arxiv.org/abs/2506.14854v2)|null|
@@ -14362,7 +14390,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250624>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
