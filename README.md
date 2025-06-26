@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.25
+## Updated on 2025.06.26
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**ScaleCap: Inference-Time Scalable Image Captioning via Dual-Modality Debiasing**|Long Xing et.al.|[2506.19848v1](http://arxiv.org/abs/2506.19848v1)|null|
+|**2025-06-24**|**CronusVLA: Transferring Latent Motion Across Time for Multi-Frame Prediction in Manipulation**|Hao Li et.al.|[2506.19816v1](http://arxiv.org/abs/2506.19816v1)|null|
+|**2025-06-24**|**Outlier-Safe Pre-Training for Robust 4-Bit Quantization of Large Language Models**|Jungwoo Park et.al.|[2506.19697v1](http://arxiv.org/abs/2506.19697v1)|null|
+|**2025-06-24**|**ReCoGNet: Recurrent Context-Guided Network for 3D MRI Prostate Segmentation**|Ahmad Mustafa et.al.|[2506.19687v1](http://arxiv.org/abs/2506.19687v1)|null|
+|**2025-06-24**|**Tensor-Parallelism with Partially Synchronized Activations**|Itay Lamprecht et.al.|[2506.19645v1](http://arxiv.org/abs/2506.19645v1)|null|
+|**2025-06-24**|**Learning from Anatomy: Supervised Anatomical Pretraining (SAP) for Improved Metastatic Bone Disease Segmentation in Whole-Body MRI**|Joris Wuts et.al.|[2506.19590v1](http://arxiv.org/abs/2506.19590v1)|null|
+|**2025-06-24**|**SMARTIES: Spectrum-Aware Multi-Sensor Auto-Encoder for Remote Sensing Images**|Gencer Sumbul et.al.|[2506.19585v1](http://arxiv.org/abs/2506.19585v1)|null|
+|**2025-06-24**|**General Methods Make Great Domain-specific Foundation Models: A Case-study on Fetal Ultrasound**|Jakob Ambsdorf et.al.|[2506.19552v1](http://arxiv.org/abs/2506.19552v1)|null|
+|**2025-06-24**|**Commonsense Generation and Evaluation for Dialogue Systems using Large Language Models**|Marcos Estecha-Garitagoitia et.al.|[2506.19483v1](http://arxiv.org/abs/2506.19483v1)|null|
+|**2025-06-24**|**MuBench: Assessment of Multilingual Capabilities of Large Language Models Across 61 Languages**|Wenhan Han et.al.|[2506.19468v1](http://arxiv.org/abs/2506.19468v1)|null|
 |**2025-06-23**|**4D-LRM: Large Space-Time Reconstruction Model From and To Any View at Any Time**|Ziqiao Ma et.al.|[2506.18890v1](http://arxiv.org/abs/2506.18890v1)|null|
 |**2025-06-23**|**Let Your Video Listen to Your Music!**|Xinyu Zhang et.al.|[2506.18881v1](http://arxiv.org/abs/2506.18881v1)|null|
 |**2025-06-23**|**Matrix-Game: Interactive World Foundation Model**|Yifan Zhang et.al.|[2506.18701v1](http://arxiv.org/abs/2506.18701v1)|null|
@@ -5224,12 +5234,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250625>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250626>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**A Survey of Multi-sensor Fusion Perception for Embodied AI: Background, Methods, Challenges and Prospects**|Shulan Ruan et.al.|[2506.19769v1](http://arxiv.org/abs/2506.19769v1)|null|
+|**2025-06-24**|**Video Compression for Spatiotemporal Earth System Data**|Oscar J. Pellicer-Valero et.al.|[2506.19656v1](http://arxiv.org/abs/2506.19656v1)|null|
+|**2025-06-24**|**HOIverse: A Synthetic Scene Graph Dataset With Human Object Interactions**|Mrunmai Vivek Phatak et.al.|[2506.19639v1](http://arxiv.org/abs/2506.19639v1)|null|
+|**2025-06-24**|**ChordPrompt: Orchestrating Cross-Modal Prompt Synergy for Multi-Domain Incremental Learning in CLIP**|Zhiyuan Wang et.al.|[2506.19608v1](http://arxiv.org/abs/2506.19608v1)|null|
+|**2025-06-24**|**phylo2vec: a library for vector-based phylogenetic tree manipulation**|Neil Scheidwasser et.al.|[2506.19490v1](http://arxiv.org/abs/2506.19490v1)|null|
+|**2025-06-24**|**Is an object-centric representation beneficial for robotic manipulation ?**|Alexandre Chapin et.al.|[2506.19408v1](http://arxiv.org/abs/2506.19408v1)|null|
+|**2025-06-24**|**Augmenting Multi-Agent Communication with State Delta Trajectory**|Yichen Tang et.al.|[2506.19209v1](http://arxiv.org/abs/2506.19209v1)|null|
+|**2025-06-23**|**Prompt, Translate, Fine-Tune, Re-Initialize, or Instruction-Tune? Adapting LLMs for In-Context Learning in Low-Resource Languages**|Christopher Toukmaji et.al.|[2506.19187v1](http://arxiv.org/abs/2506.19187v1)|null|
+|**2025-06-23**|**Human-Aligned Faithfulness in Toxicity Explanations of LLMs**|Ramaravind K. Mothilal et.al.|[2506.19113v1](http://arxiv.org/abs/2506.19113v1)|null|
+|**2025-06-23**|**Finetuning a Weather Foundation Model with Lightweight Decoders for Unseen Physical Processes**|Fanny Lehmann et.al.|[2506.19088v1](http://arxiv.org/abs/2506.19088v1)|null|
 |**2025-06-23**|**TC-Light: Temporally Consistent Relighting for Dynamic Long Videos**|Yang Liu et.al.|[2506.18904v1](http://arxiv.org/abs/2506.18904v1)|null|
 |**2025-06-23**|**Local Averaging Accurately Distills Manifold Structure From Noisy Data**|Yihan Shen et.al.|[2506.18761v1](http://arxiv.org/abs/2506.18761v1)|null|
 |**2025-06-23**|**Towards Group Fairness with Multiple Sensitive Attributes in Federated Foundation Models**|Yuning Yang et.al.|[2506.18732v1](http://arxiv.org/abs/2506.18732v1)|null|
@@ -10010,13 +10030,14 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20250625>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250626>back to top</a>)</p>
 
 ## adaptor
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-06-23**|**TCDiff++: An End-to-end Trajectory-Controllable Diffusion Model for Harmonious Music-Driven Group Choreography**|Yuqin Dai et.al.|[2506.18671v1](http://arxiv.org/abs/2506.18671v1)|null|
+|**2025-06-24**|**Da Yu: Towards USV-Based Image Captioning for Waterway Surveillance and Scene Understanding**|Runwei Guan et.al.|[2506.19288v1](http://arxiv.org/abs/2506.19288v1)|null|
+|**2025-06-25**|**TCDiff++: An End-to-end Trajectory-Controllable Diffusion Model for Harmonious Music-Driven Group Choreography**|Yuqin Dai et.al.|[2506.18671v2](http://arxiv.org/abs/2506.18671v2)|null|
 |**2025-06-14**|**Phonikud: Hebrew Grapheme-to-Phoneme Conversion for Real-Time Text-to-Speech**|Yakov Kolani et.al.|[2506.12311v1](http://arxiv.org/abs/2506.12311v1)|null|
 |**2025-06-07**|**Denoising Programming Knowledge Tracing with a Code Graph-based Tuning Adaptor**|Weibo Gao et.al.|[2506.11107v1](http://arxiv.org/abs/2506.11107v1)|null|
 |**2025-06-06**|**Hybrid Stabilization Protocol for Cross-Chain Digital Assets Using Adaptor Signatures and AI-Driven Arbitrage**|Shengwei You et.al.|[2506.05708v1](http://arxiv.org/abs/2506.05708v1)|null|
@@ -10203,12 +10224,16 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250625>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250626>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**A Survey of Multi-sensor Fusion Perception for Embodied AI: Background, Methods, Challenges and Prospects**|Shulan Ruan et.al.|[2506.19769v1](http://arxiv.org/abs/2506.19769v1)|null|
+|**2025-06-24**|**Semantic Scene Graph for Ultrasound Image Explanation and Scanning Guidance**|Xuesong Li et.al.|[2506.19683v1](http://arxiv.org/abs/2506.19683v1)|null|
+|**2025-06-24**|**Probabilistic modelling and safety assurance of an agriculture robot providing light-treatment**|Mustafa Adam et.al.|[2506.19620v1](http://arxiv.org/abs/2506.19620v1)|null|
+|**2025-06-24**|**USIS16K: High-Quality Dataset for Underwater Salient Instance Segmentation**|Lin Hong et.al.|[2506.19472v1](http://arxiv.org/abs/2506.19472v1)|null|
 |**2025-06-23**|**NOVA: Navigation via Object-Centric Visual Autonomy for High-Speed Target Tracking in Unstructured GPS-Denied Environments**|Alessandro Saviolo et.al.|[2506.18689v1](http://arxiv.org/abs/2506.18689v1)|null|
 |**2025-06-23**|**SpaNN: Detecting Multiple Adversarial Patches on CNNs by Spanning Saliency Thresholds**|Mauricio Byrd Victorica et.al.|[2506.18591v1](http://arxiv.org/abs/2506.18591v1)|null|
 |**2025-06-23**|**Improvement on LiDAR-Camera Calibration Using Square Targets**|Zhongyuan Li et.al.|[2506.18294v1](http://arxiv.org/abs/2506.18294v1)|null|
@@ -14417,7 +14442,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20250625>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250626>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
