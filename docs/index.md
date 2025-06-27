@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.26
+## Updated on 2025.06.27
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**Inside you are many wolves: Using cognitive models to interpret value trade-offs in LLMs**|Sonia K. Murthy et.al.|[2506.20666v1](http://arxiv.org/abs/2506.20666v1)|null|
+|**2025-06-25**|**PLoP: Precise LoRA Placement for Efficient Finetuning of Large Models**|Soufiane Hayou et.al.|[2506.20629v1](http://arxiv.org/abs/2506.20629v1)|null|
+|**2025-06-25**|**Behavior Foundation Model: Towards Next-Generation Whole-Body Control System of Humanoid Robots**|Mingqi Yuan et.al.|[2506.20487v1](http://arxiv.org/abs/2506.20487v1)|null|
+|**2025-06-25**|**HiWave: Training-Free High-Resolution Image Generation via Wavelet-Based Diffusion Sampling**|Tobias Vontobel et.al.|[2506.20452v1](http://arxiv.org/abs/2506.20452v1)|null|
+|**2025-06-25**|**Biomed-Enriched: A Biomedical Dataset Enriched with LLMs for Pretraining and Extracting Rare and Hidden Content**|Rian Touchent et.al.|[2506.20331v1](http://arxiv.org/abs/2506.20331v1)|null|
+|**2025-06-25**|**Recognizing Surgical Phases Anywhere: Few-Shot Test-time Adaptation and Task-graph Guided Refinement**|Kun Yuan et.al.|[2506.20254v1](http://arxiv.org/abs/2506.20254v1)|null|
+|**2025-06-25**|**UniCode$^2$: Cascaded Large-scale Codebooks for Unified Multimodal Understanding and Generation**|Yanzhe Chen et.al.|[2506.20214v1](http://arxiv.org/abs/2506.20214v1)|null|
+|**2025-06-26**|**Towards Scalable and Generalizable Earth Observation Data Mining via Foundation Model Composition**|Man Duc Chuc et.al.|[2506.20174v2](http://arxiv.org/abs/2506.20174v2)|null|
+|**2025-06-25**|**Towards Efficient Exemplar Based Image Editing with Multimodal VLMs**|Avadhoot Jadhav et.al.|[2506.20155v1](http://arxiv.org/abs/2506.20155v1)|null|
+|**2025-06-25**|**High-Resolution Live Fuel Moisture Content (LFMC) Maps for Wildfire Risk from Multimodal Earth Observation Data**|Patrick Alan Johnson et.al.|[2506.20132v1](http://arxiv.org/abs/2506.20132v1)|null|
 |**2025-06-24**|**ScaleCap: Inference-Time Scalable Image Captioning via Dual-Modality Debiasing**|Long Xing et.al.|[2506.19848v1](http://arxiv.org/abs/2506.19848v1)|null|
 |**2025-06-24**|**CronusVLA: Transferring Latent Motion Across Time for Multi-Frame Prediction in Manipulation**|Hao Li et.al.|[2506.19816v1](http://arxiv.org/abs/2506.19816v1)|null|
 |**2025-06-24**|**Outlier-Safe Pre-Training for Robust 4-Bit Quantization of Large Language Models**|Jungwoo Park et.al.|[2506.19697v1](http://arxiv.org/abs/2506.19697v1)|null|
@@ -5238,12 +5248,18 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250626>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250627>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**Behavior Foundation Model: Towards Next-Generation Whole-Body Control System of Humanoid Robots**|Mingqi Yuan et.al.|[2506.20487v1](http://arxiv.org/abs/2506.20487v1)|null|
+|**2025-06-25**|**TESSERA: Temporal Embeddings of Surface Spectra for Earth Representation and Analysis**|Zhengpeng Feng et.al.|[2506.20380v1](http://arxiv.org/abs/2506.20380v1)|null|
+|**2025-06-25**|**TDiR: Transformer based Diffusion for Image Restoration Tasks**|Abbas Anwar et.al.|[2506.20302v1](http://arxiv.org/abs/2506.20302v1)|null|
+|**2025-06-25**|**Intrinsic vs. Extrinsic Evaluation of Czech Sentence Embeddings: Semantic Relevance Doesn't Help with MT Evaluation**|Petra Barančíková et.al.|[2506.20203v1](http://arxiv.org/abs/2506.20203v1)|null|
+|**2025-06-26**|**Consensus-Driven Uncertainty for Robotic Grasping based on RGB Perception**|Eric C. Joyce et.al.|[2506.20045v2](http://arxiv.org/abs/2506.20045v2)|null|
+|**2025-06-24**|**Can LLMs Replace Humans During Code Chunking?**|Christopher Glasz et.al.|[2506.19897v1](http://arxiv.org/abs/2506.19897v1)|null|
 |**2025-06-24**|**A Survey of Multi-sensor Fusion Perception for Embodied AI: Background, Methods, Challenges and Prospects**|Shulan Ruan et.al.|[2506.19769v1](http://arxiv.org/abs/2506.19769v1)|null|
 |**2025-06-24**|**Video Compression for Spatiotemporal Earth System Data**|Oscar J. Pellicer-Valero et.al.|[2506.19656v1](http://arxiv.org/abs/2506.19656v1)|null|
 |**2025-06-24**|**HOIverse: A Synthetic Scene Graph Dataset With Human Object Interactions**|Mrunmai Vivek Phatak et.al.|[2506.19639v1](http://arxiv.org/abs/2506.19639v1)|null|
@@ -10034,14 +10050,14 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20250626>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250627>back to top</a>)</p>
 
 ## adaptor
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-24**|**Da Yu: Towards USV-Based Image Captioning for Waterway Surveillance and Scene Understanding**|Runwei Guan et.al.|[2506.19288v1](http://arxiv.org/abs/2506.19288v1)|null|
-|**2025-06-25**|**TCDiff++: An End-to-end Trajectory-Controllable Diffusion Model for Harmonious Music-Driven Group Choreography**|Yuqin Dai et.al.|[2506.18671v2](http://arxiv.org/abs/2506.18671v2)|null|
+|**2025-06-26**|**TCDiff++: An End-to-end Trajectory-Controllable Diffusion Model for Harmonious Music-Driven Group Choreography**|Yuqin Dai et.al.|[2506.18671v3](http://arxiv.org/abs/2506.18671v3)|null|
 |**2025-06-14**|**Phonikud: Hebrew Grapheme-to-Phoneme Conversion for Real-Time Text-to-Speech**|Yakov Kolani et.al.|[2506.12311v1](http://arxiv.org/abs/2506.12311v1)|null|
 |**2025-06-07**|**Denoising Programming Knowledge Tracing with a Code Graph-based Tuning Adaptor**|Weibo Gao et.al.|[2506.11107v1](http://arxiv.org/abs/2506.11107v1)|null|
 |**2025-06-06**|**Hybrid Stabilization Protocol for Cross-Chain Digital Assets Using Adaptor Signatures and AI-Driven Arbitrage**|Shengwei You et.al.|[2506.05708v1](http://arxiv.org/abs/2506.05708v1)|null|
@@ -10228,14 +10244,20 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250626>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250627>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**Lightweight Multi-Frame Integration for Robust YOLO Object Detection in Videos**|Yitong Quan et.al.|[2506.20550v1](http://arxiv.org/abs/2506.20550v1)|null|
+|**2025-06-25**|**Learning-based safety lifting monitoring system for cranes on construction sites**|Hao Chen et.al.|[2506.20475v1](http://arxiv.org/abs/2506.20475v1)|null|
+|**2025-06-25**|**Feature Hallucination for Self-supervised Action Recognition**|Lei Wang et.al.|[2506.20342v1](http://arxiv.org/abs/2506.20342v1)|null|
+|**2025-06-25**|**From Codicology to Code: A Comparative Study of Transformer and YOLO-based Detectors for Layout Analysis in Historical Documents**|Sergio Torres Aguilar et.al.|[2506.20326v1](http://arxiv.org/abs/2506.20326v1)|null|
+|**2025-06-25**|**TDiR: Transformer based Diffusion for Image Restoration Tasks**|Abbas Anwar et.al.|[2506.20302v1](http://arxiv.org/abs/2506.20302v1)|null|
+|**2025-06-25**|**Integrated optomechanical ultrasonic sensors with nano-Pascal-level sensitivity**|Xuening Cao et.al.|[2506.20219v1](http://arxiv.org/abs/2506.20219v1)|null|
 |**2025-06-24**|**A Survey of Multi-sensor Fusion Perception for Embodied AI: Background, Methods, Challenges and Prospects**|Shulan Ruan et.al.|[2506.19769v1](http://arxiv.org/abs/2506.19769v1)|null|
-|**2025-06-24**|**Semantic Scene Graph for Ultrasound Image Explanation and Scanning Guidance**|Xuesong Li et.al.|[2506.19683v1](http://arxiv.org/abs/2506.19683v1)|null|
+|**2025-06-26**|**Semantic Scene Graph for Ultrasound Image Explanation and Scanning Guidance**|Xuesong Li et.al.|[2506.19683v2](http://arxiv.org/abs/2506.19683v2)|null|
 |**2025-06-24**|**Probabilistic modelling and safety assurance of an agriculture robot providing light-treatment**|Mustafa Adam et.al.|[2506.19620v1](http://arxiv.org/abs/2506.19620v1)|null|
 |**2025-06-24**|**USIS16K: High-Quality Dataset for Underwater Salient Instance Segmentation**|Lin Hong et.al.|[2506.19472v1](http://arxiv.org/abs/2506.19472v1)|null|
 |**2025-06-23**|**NOVA: Navigation via Object-Centric Visual Autonomy for High-Speed Target Tracking in Unstructured GPS-Denied Environments**|Alessandro Saviolo et.al.|[2506.18689v1](http://arxiv.org/abs/2506.18689v1)|null|
@@ -14446,7 +14468,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20250626>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250627>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
