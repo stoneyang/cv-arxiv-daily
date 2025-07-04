@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.03
+## Updated on 2025.07.04
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**A computationally frugal open-source foundation model for thoracic disease detection in lung cancer screening programs**|Niccolò McConnell et.al.|[2507.01881v1](http://arxiv.org/abs/2507.01881v1)|null|
+|**2025-07-02**|**Towards Foundation Auto-Encoders for Time-Series Anomaly Detection**|Gastón García González et.al.|[2507.01875v1](http://arxiv.org/abs/2507.01875v1)|null|
+|**2025-07-02**|**FreeLoRA: Enabling Training-Free LoRA Fusion for Autoregressive Multi-Subject Personalization**|Peng Zheng et.al.|[2507.01792v1](http://arxiv.org/abs/2507.01792v1)|null|
+|**2025-07-02**|**MuRating: A High Quality Data Selecting Approach to Multilingual Large Language Model Pretraining**|Zhixun Chen et.al.|[2507.01785v1](http://arxiv.org/abs/2507.01785v1)|null|
+|**2025-07-02**|**SSL4SAR: Self-Supervised Learning for Glacier Calving Front Extraction from SAR Imagery**|Nora Gourmelon et.al.|[2507.01747v1](http://arxiv.org/abs/2507.01747v1)|null|
+|**2025-07-02**|**Exploring Classical Piano Performance Generation with Expressive Music Variational AutoEncoder**|Jing Luo et.al.|[2507.01582v1](http://arxiv.org/abs/2507.01582v1)|null|
+|**2025-07-02**|**Representation Entanglement for Generation:Training Diffusion Transformers Is Much Easier Than You Think**|Ge Wu et.al.|[2507.01467v1](http://arxiv.org/abs/2507.01467v1)|null|
+|**2025-07-03**|**TriVLA: A Triple-System-Based Unified Vision-Language-Action Model for General Robot Control**|Zhenyang Liu et.al.|[2507.01424v2](http://arxiv.org/abs/2507.01424v2)|null|
+|**2025-07-02**|**Decomposing Prediction Mechanisms for In-Context Recall**|Sultan Daniels et.al.|[2507.01414v1](http://arxiv.org/abs/2507.01414v1)|null|
+|**2025-07-02**|**Frustratingly Simple Retrieval Improves Challenging, Reasoning-Intensive Benchmarks**|Xinxi Lyu et.al.|[2507.01297v1](http://arxiv.org/abs/2507.01297v1)|null|
 |**2025-06-30**|**MotionGPT3: Human Motion as a Second Modality**|Bingfan Zhu et.al.|[2506.24086v1](http://arxiv.org/abs/2506.24086v1)|null|
 |**2025-06-30**|**Imagine for Me: Creative Conceptual Blending of Real Images and Text via Blended Attention**|Wonwoong Cho et.al.|[2506.24085v1](http://arxiv.org/abs/2506.24085v1)|null|
 |**2025-06-30**|**ADReFT: Adaptive Decision Repair for Safe Autonomous Driving via Reinforcement Fine-Tuning**|Mingfei Cheng et.al.|[2506.23960v1](http://arxiv.org/abs/2506.23960v1)|null|
@@ -5278,12 +5288,22 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250703>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250704>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**MiCoTA: Bridging the Learnability Gap with Intermediate CoT and Teacher Assistants**|Dongyi Ding et.al.|[2507.01887v1](http://arxiv.org/abs/2507.01887v1)|null|
+|**2025-07-02**|**LoRA Fine-Tuning Without GPUs: A CPU-Efficient Meta-Generation Framework for LLMs**|Reza Arabpour et.al.|[2507.01806v1](http://arxiv.org/abs/2507.01806v1)|null|
+|**2025-07-02**|**SAILViT: Towards Robust and Generalizable Visual Backbones for MLLMs via Gradual Feature Refinement**|Weijie Yin et.al.|[2507.01643v1](http://arxiv.org/abs/2507.01643v1)|null|
+|**2025-07-02**|**Perception-Oriented Latent Coding for High-Performance Compressed Domain Semantic Inference**|Xu Zhang et.al.|[2507.01608v1](http://arxiv.org/abs/2507.01608v1)|null|
+|**2025-07-02**|**EdgeLoRA: An Efficient Multi-Tenant LLM Serving System on Edge Devices**|Zheyu Shen et.al.|[2507.01438v1](http://arxiv.org/abs/2507.01438v1)|null|
+|**2025-07-01**|**VQ-VLA: Improving Vision-Language-Action Models via Scaling Vector-Quantized Action Tokenizers**|Yating Wang et.al.|[2507.01016v1](http://arxiv.org/abs/2507.01016v1)|null|
+|**2025-07-01**|**La Leaderboard: A Large Language Model Leaderboard for Spanish Varieties and Languages of Spain and Latin America**|María Grandury et.al.|[2507.00999v1](http://arxiv.org/abs/2507.00999v1)|null|
+|**2025-07-01**|**Scalable Feature Learning on Huge Knowledge Graphs for Downstream Machine Learning**|Félix Lefebvre et.al.|[2507.00965v1](http://arxiv.org/abs/2507.00965v1)|null|
+|**2025-07-01**|**Scaling Laws Are Unreliable for Downstream Tasks: A Reality Check**|Nicholas Lourie et.al.|[2507.00885v1](http://arxiv.org/abs/2507.00885v1)|null|
+|**2025-07-01**|**Not All Attention Heads Are What You Need: Refining CLIP's Image Representation with Attention Ablation**|Feng Lin et.al.|[2507.00537v1](http://arxiv.org/abs/2507.00537v1)|null|
 |**2025-06-30**|**Bridging Theory and Practice in Link Representation with Graph Neural Networks**|Veronica Lachi et.al.|[2506.24018v1](http://arxiv.org/abs/2506.24018v1)|null|
 |**2025-07-01**|**Graft: Integrating the Domain Knowledge via Efficient Parameter Synergy for MLLMs**|Yang Dai et.al.|[2506.23940v2](http://arxiv.org/abs/2506.23940v2)|null|
 |**2025-06-30**|**Scaling Self-Supervised Representation Learning for Symbolic Piano Performance**|Louis Bradshaw et.al.|[2506.23869v1](http://arxiv.org/abs/2506.23869v1)|null|
@@ -10106,7 +10126,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20250703>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250704>back to top</a>)</p>
 
 ## adaptor
 
@@ -10302,12 +10322,22 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250703>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250704>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**How Well Does GPT-4o Understand Vision? Evaluating Multimodal Foundation Models on Standard Computer Vision Tasks**|Rahul Ramachandran et.al.|[2507.01955v1](http://arxiv.org/abs/2507.01955v1)|null|
+|**2025-07-02**|**Learning from Random Subspace Exploration: Generalized Test-Time Augmentation with Self-supervised Distillation**|Andrei Jelea et.al.|[2507.01347v1](http://arxiv.org/abs/2507.01347v1)|null|
+|**2025-07-01**|**Rapid Salient Object Detection with Difference Convolutional Neural Networks**|Zhuo Su et.al.|[2507.01182v1](http://arxiv.org/abs/2507.01182v1)|null|
+|**2025-07-01**|**GaussianVLM: Scene-centric 3D Vision-Language Models using Language-aligned Gaussian Splats for Embodied Reasoning and Beyond**|Anna-Maria Halacheva et.al.|[2507.00886v1](http://arxiv.org/abs/2507.00886v1)|null|
+|**2025-07-01**|**Robust Component Detection for Flexible Manufacturing: A Deep Learning Approach to Tray-Free Object Recognition under Variable Lighting**|Fatemeh Sadat Daneshmand et.al.|[2507.00852v1](http://arxiv.org/abs/2507.00852v1)|null|
+|**2025-07-01**|**UAVD-Mamba: Deformable Token Fusion Vision Mamba for Multimodal UAV Detection**|Wei Li et.al.|[2507.00849v1](http://arxiv.org/abs/2507.00849v1)|null|
+|**2025-07-01**|**High-Frequency Semantics and Geometric Priors for End-to-End Detection Transformers in Challenging UAV Imagery**|Hongxing Peng et.al.|[2507.00825v1](http://arxiv.org/abs/2507.00825v1)|null|
+|**2025-07-01**|**Multi-Modal Graph Convolutional Network with Sinusoidal Encoding for Robust Human Action Segmentation**|Hao Xing et.al.|[2507.00752v1](http://arxiv.org/abs/2507.00752v1)|null|
+|**2025-07-01**|**UPRE: Zero-Shot Domain Adaptation for Object Detection via Unified Prompt and Representation Enhancement**|Xiao Zhang et.al.|[2507.00721v1](http://arxiv.org/abs/2507.00721v1)|null|
+|**2025-07-01**|**Rectifying Magnitude Neglect in Linear Attention**|Qihang Fan et.al.|[2507.00698v1](http://arxiv.org/abs/2507.00698v1)|null|
 |**2025-06-30**|**Continual Adaptation: Environment-Conditional Parameter Generation for Object Detection in Dynamic Scenarios**|Deng Li et.al.|[2506.24063v1](http://arxiv.org/abs/2506.24063v1)|null|
 |**2025-06-30**|**Visual Textualization for Image Prompted Object Detection**|Yongjian Wu et.al.|[2506.23785v1](http://arxiv.org/abs/2506.23785v1)|null|
 |**2025-06-30**|**Can We Challenge Open-Vocabulary Object Detectors with Generated Content in Street Scenes?**|Annika Mütze et.al.|[2506.23751v1](http://arxiv.org/abs/2506.23751v1)|null|
@@ -14548,7 +14578,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20250703>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250704>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
