@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2025.07.04
+> Updated on 2025.07.05
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,16 @@
 
 ## pretrain
 
+- 2025-07-03, **LLM Hypnosis: Exploiting User Feedback for Unauthorized Knowledge Injection to All Users**, Almog Hilel et.al., Paper: [http://arxiv.org/abs/2507.02850v1](http://arxiv.org/abs/2507.02850v1)
+- 2025-07-03, **On the Convergence of Large Language Model Optimizer for Black-Box Network Management**, Hoon Lee et.al., Paper: [http://arxiv.org/abs/2507.02689v1](http://arxiv.org/abs/2507.02689v1)
+- 2025-07-03, **APT: Adaptive Personalized Training for Diffusion Models with Limited Data**, JungWoo Chae et.al., Paper: [http://arxiv.org/abs/2507.02687v1](http://arxiv.org/abs/2507.02687v1)
+- 2025-07-03, **OmniDraft: A Cross-vocabulary, Online Adaptive Drafter for On-device Speculative Decoding**, Ramchalam Kinattinkara Ramakrishnan et.al., Paper: [http://arxiv.org/abs/2507.02659v1](http://arxiv.org/abs/2507.02659v1)
+- 2025-07-03, **Weakly-supervised Contrastive Learning with Quantity Prompts for Moving Infrared Small Target Detection**, Weiwei Duan et.al., Paper: [http://arxiv.org/abs/2507.02454v1](http://arxiv.org/abs/2507.02454v1)
+- 2025-07-03, **AvatarMakeup: Realistic Makeup Transfer for 3D Animatable Head Avatars**, Yiming Zhong et.al., Paper: [http://arxiv.org/abs/2507.02419v1](http://arxiv.org/abs/2507.02419v1)
+- 2025-07-03, **High-Throughput NEB for Li-Ion Conductor Discovery via Fine-Tuned CHGNet Potential**, Jingchen Lian et.al., Paper: [http://arxiv.org/abs/2507.02334v1](http://arxiv.org/abs/2507.02334v1)
+- 2025-07-02, **Team RAS in 9th ABAW Competition: Multimodal Compound Expression Recognition Approach**, Elena Ryumina et.al., Paper: [http://arxiv.org/abs/2507.02205v1](http://arxiv.org/abs/2507.02205v1)
+- 2025-07-02, **Energy-Based Transformers are Scalable Learners and Thinkers**, Alexi Gladstone et.al., Paper: [http://arxiv.org/abs/2507.02092v1](http://arxiv.org/abs/2507.02092v1)
+- 2025-07-02, **Evaluating the Promise and Pitfalls of LLMs in Hiring Decisions**, Eitan Anzenberg et.al., Paper: [http://arxiv.org/abs/2507.02087v1](http://arxiv.org/abs/2507.02087v1)
 - 2025-07-02, **A computationally frugal open-source foundation model for thoracic disease detection in lung cancer screening programs**, Niccolò McConnell et.al., Paper: [http://arxiv.org/abs/2507.01881v1](http://arxiv.org/abs/2507.01881v1)
 - 2025-07-02, **Towards Foundation Auto-Encoders for Time-Series Anomaly Detection**, Gastón García González et.al., Paper: [http://arxiv.org/abs/2507.01875v1](http://arxiv.org/abs/2507.01875v1)
 - 2025-07-02, **FreeLoRA: Enabling Training-Free LoRA Fusion for Autoregressive Multi-Subject Personalization**, Peng Zheng et.al., Paper: [http://arxiv.org/abs/2507.01792v1](http://arxiv.org/abs/2507.01792v1)
@@ -5282,10 +5292,19 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20250704>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250705>back to top</a>)</p>
 
 ## downstream
 
+- 2025-07-03, **No time to train! Training-Free Reference-Based Instance Segmentation**, Miguel Espinosa et.al., Paper: [http://arxiv.org/abs/2507.02798v1](http://arxiv.org/abs/2507.02798v1)
+- 2025-07-03, **Prompt learning with bounding box constraints for medical image segmentation**, Mélanie Gaillochet et.al., Paper: [http://arxiv.org/abs/2507.02743v1](http://arxiv.org/abs/2507.02743v1)
+- 2025-07-03, **Meta SecAlign: A Secure Foundation LLM Against Prompt Injection Attacks**, Sizhe Chen et.al., Paper: [http://arxiv.org/abs/2507.02735v1](http://arxiv.org/abs/2507.02735v1)
+- 2025-07-03, **Embedding-Based Federated Data Sharing via Differentially Private Conditional VAEs**, Francesco Di Salvo et.al., Paper: [http://arxiv.org/abs/2507.02671v1](http://arxiv.org/abs/2507.02671v1)
+- 2025-07-03, **Fast variational knowledge graph embedding**, Pulak Ranjan Giri et.al., Paper: [http://arxiv.org/abs/2507.02472v1](http://arxiv.org/abs/2507.02472v1)
+- 2025-07-03, **Wildlife Target Re-Identification Using Self-supervised Learning in Non-Urban Settings**, Mufhumudzi Muthivhi et.al., Paper: [http://arxiv.org/abs/2507.02403v1](http://arxiv.org/abs/2507.02403v1)
+- 2025-07-03, **Are Synthetic Videos Useful? A Benchmark for Retrieval-Centric Evaluation of Synthetic Videos**, Zecheng Zhao et.al., Paper: [http://arxiv.org/abs/2507.02316v1](http://arxiv.org/abs/2507.02316v1)
+- 2025-07-02, **Energy-Based Transformers are Scalable Learners and Thinkers**, Alexi Gladstone et.al., Paper: [http://arxiv.org/abs/2507.02092v1](http://arxiv.org/abs/2507.02092v1)
+- 2025-07-02, **GeoAda: Efficiently Finetune Geometric Diffusion Models with Equivariant Adapters**, Wanjia Zhao et.al., Paper: [http://arxiv.org/abs/2507.02085v1](http://arxiv.org/abs/2507.02085v1)
 - 2025-07-02, **MiCoTA: Bridging the Learnability Gap with Intermediate CoT and Teacher Assistants**, Dongyi Ding et.al., Paper: [http://arxiv.org/abs/2507.01887v1](http://arxiv.org/abs/2507.01887v1)
 - 2025-07-02, **LoRA Fine-Tuning Without GPUs: A CPU-Efficient Meta-Generation Framework for LLMs**, Reza Arabpour et.al., Paper: [http://arxiv.org/abs/2507.01806v1](http://arxiv.org/abs/2507.01806v1)
 - 2025-07-02, **SAILViT: Towards Robust and Generalizable Visual Backbones for MLLMs via Gradual Feature Refinement**, Weijie Yin et.al., Paper: [http://arxiv.org/abs/2507.01643v1](http://arxiv.org/abs/2507.01643v1)
@@ -10118,7 +10137,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20250704>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250705>back to top</a>)</p>
 
 ## adaptor
 
@@ -10312,10 +10331,18 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20250704>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250705>back to top</a>)</p>
 
 ## object detection
 
+- 2025-07-03, **Partial Weakly-Supervised Oriented Object Detection**, Mingxin Liu et.al., Paper: [http://arxiv.org/abs/2507.02751v1](http://arxiv.org/abs/2507.02751v1)
+- 2025-07-03, **Automatic Labelling for Low-Light Pedestrian Detection**, Dimitrios Bouzoulas et.al., Paper: [http://arxiv.org/abs/2507.02513v1](http://arxiv.org/abs/2507.02513v1)
+- 2025-07-03, **Weakly-supervised Contrastive Learning with Quantity Prompts for Moving Infrared Small Target Detection**, Weiwei Duan et.al., Paper: [http://arxiv.org/abs/2507.02454v1](http://arxiv.org/abs/2507.02454v1)
+- 2025-07-03, **A Late Collaborative Perception Framework for 3D Multi-Object and Multi-Source Association and Fusion**, Maryem Fadili et.al., Paper: [http://arxiv.org/abs/2507.02430v1](http://arxiv.org/abs/2507.02430v1)
+- 2025-07-03, **PLOT: Pseudo-Labeling via Video Object Tracking for Scalable Monocular 3D Object Detection**, Seokyeong Lee et.al., Paper: [http://arxiv.org/abs/2507.02393v1](http://arxiv.org/abs/2507.02393v1)
+- 2025-07-03, **Two-Steps Neural Networks for an Automated Cerebrovascular Landmark Detection**, Rafic Nader et.al., Paper: [http://arxiv.org/abs/2507.02349v1](http://arxiv.org/abs/2507.02349v1)
+- 2025-07-03, **Perception Activator: An intuitive and portable framework for brain cognitive exploration**, Le Xu et.al., Paper: [http://arxiv.org/abs/2507.02311v1](http://arxiv.org/abs/2507.02311v1)
+- 2025-07-03, **Understanding Trade offs When Conditioning Synthetic Data**, Brandon Trabucco et.al., Paper: [http://arxiv.org/abs/2507.02217v1](http://arxiv.org/abs/2507.02217v1)
 - 2025-07-02, **How Well Does GPT-4o Understand Vision? Evaluating Multimodal Foundation Models on Standard Computer Vision Tasks**, Rahul Ramachandran et.al., Paper: [http://arxiv.org/abs/2507.01955v1](http://arxiv.org/abs/2507.01955v1)
 - 2025-07-02, **Learning from Random Subspace Exploration: Generalized Test-Time Augmentation with Self-supervised Distillation**, Andrei Jelea et.al., Paper: [http://arxiv.org/abs/2507.01347v1](http://arxiv.org/abs/2507.01347v1)
 - 2025-07-01, **Rapid Salient Object Detection with Difference Convolutional Neural Networks**, Zhuo Su et.al., Paper: [http://arxiv.org/abs/2507.01182v1](http://arxiv.org/abs/2507.01182v1)
@@ -14566,7 +14593,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20250704>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250705>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
