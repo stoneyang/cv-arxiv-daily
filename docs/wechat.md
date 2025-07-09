@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2025.07.08
+> Updated on 2025.07.09
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,16 @@
 
 ## pretrain
 
+- 2025-07-07, **Beyond One Shot, Beyond One Perspective: Cross-View and Long-Horizon Distillation for Better LiDAR Representations**, Xiang Xu et.al., Paper: [http://arxiv.org/abs/2507.05260v1](http://arxiv.org/abs/2507.05260v1)
+- 2025-07-07, **Differential Attention for Multimodal Crisis Event Analysis**, Nusrat Munia et.al., Paper: [http://arxiv.org/abs/2507.05165v1](http://arxiv.org/abs/2507.05165v1)
+- 2025-07-07, **InfoSteer: Steering Information Utility in Language Model Post-Training**, Chunyuan Deng et.al., Paper: [http://arxiv.org/abs/2507.05158v1](http://arxiv.org/abs/2507.05158v1)
+- 2025-07-07, **EXPOTION: Facial Expression and Motion Control for Multimodal Music Generation**, Fathinah Izzati et.al., Paper: [http://arxiv.org/abs/2507.04955v1](http://arxiv.org/abs/2507.04955v1)
+- 2025-07-07, **Leveraging Self-Supervised Features for Efficient Flooded Region Identification in UAV Aerial Images**, Dibyabha Deb et.al., Paper: [http://arxiv.org/abs/2507.04915v1](http://arxiv.org/abs/2507.04915v1)
+- 2025-07-07, **Music Boomerang: Reusing Diffusion Models for Data Augmentation and Audio Manipulation**, Alexander Fichtinger et.al., Paper: [http://arxiv.org/abs/2507.04864v1](http://arxiv.org/abs/2507.04864v1)
+- 2025-07-07, **VectorLLM: Human-like Extraction of Structured Building Contours vis Multimodal LLMs**, Tao Zhang et.al., Paper: [http://arxiv.org/abs/2507.04664v1](http://arxiv.org/abs/2507.04664v1)
+- 2025-07-07, **PRISM: Pointcloud Reintegrated Inference via Segmentation and Cross-attention for Manipulation**, Daqi Huang et.al., Paper: [http://arxiv.org/abs/2507.04633v1](http://arxiv.org/abs/2507.04633v1)
+- 2025-07-07, **HiLa: Hierarchical Vision-Language Collaboration for Cancer Survival Prediction**, Jiaqi Cui et.al., Paper: [http://arxiv.org/abs/2507.04613v1](http://arxiv.org/abs/2507.04613v1)
+- 2025-07-06, **MVL-Loc: Leveraging Vision-Language Model for Generalizable Multi-Scene Camera Relocalization**, Zhendong Xiao et.al., Paper: [http://arxiv.org/abs/2507.04509v1](http://arxiv.org/abs/2507.04509v1)
 - 2025-07-03, **LLM Hypnosis: Exploiting User Feedback for Unauthorized Knowledge Injection to All Users**, Almog Hilel et.al., Paper: [http://arxiv.org/abs/2507.02850v1](http://arxiv.org/abs/2507.02850v1)
 - 2025-07-03, **On the Convergence of Large Language Model Optimizer for Black-Box Network Management**, Hoon Lee et.al., Paper: [http://arxiv.org/abs/2507.02689v1](http://arxiv.org/abs/2507.02689v1)
 - 2025-07-03, **APT: Adaptive Personalized Training for Diffusion Models with Limited Data**, JungWoo Chae et.al., Paper: [http://arxiv.org/abs/2507.02687v1](http://arxiv.org/abs/2507.02687v1)
@@ -5292,10 +5302,20 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20250708>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250709>back to top</a>)</p>
 
 ## downstream
 
+- 2025-07-07, **Beyond One Shot, Beyond One Perspective: Cross-View and Long-Horizon Distillation for Better LiDAR Representations**, Xiang Xu et.al., Paper: [http://arxiv.org/abs/2507.05260v1](http://arxiv.org/abs/2507.05260v1)
+- 2025-07-07, **InfoSteer: Steering Information Utility in Language Model Post-Training**, Chunyuan Deng et.al., Paper: [http://arxiv.org/abs/2507.05158v1](http://arxiv.org/abs/2507.05158v1)
+- 2025-07-08, **PointGAC: Geometric-Aware Codebook for Masked Point Cloud Modeling**, Abiao Li et.al., Paper: [http://arxiv.org/abs/2507.04801v2](http://arxiv.org/abs/2507.04801v2)
+- 2025-07-07, **Improving BERT for Symbolic Music Understanding Using Token Denoising and Pianoroll Prediction**, Jun-You Wang et.al., Paper: [http://arxiv.org/abs/2507.04776v1](http://arxiv.org/abs/2507.04776v1)
+- 2025-07-07, **VLM2Vec-V2: Advancing Multimodal Embedding for Videos, Images, and Visual Documents**, Rui Meng et.al., Paper: [http://arxiv.org/abs/2507.04590v1](http://arxiv.org/abs/2507.04590v1)
+- 2025-07-06, **Enhancing Text-Based Hierarchical Multilabel Classification for Mobile Applications via Contrastive Learning**, Jiawei Guo et.al., Paper: [http://arxiv.org/abs/2507.04413v1](http://arxiv.org/abs/2507.04413v1)
+- 2025-07-06, **ZERO: Multi-modal Prompt-based Visual Grounding**, Sangbum Choi et.al., Paper: [http://arxiv.org/abs/2507.04270v1](http://arxiv.org/abs/2507.04270v1)
+- 2025-07-04, **Noise-robust multi-fidelity surrogate modelling for parametric partial differential equations**, Benjamin M. Kent et.al., Paper: [http://arxiv.org/abs/2507.03691v1](http://arxiv.org/abs/2507.03691v1)
+- 2025-07-04, **Dynamic Multimodal Prototype Learning in Vision-Language Models**, Xingyu Zhu et.al., Paper: [http://arxiv.org/abs/2507.03657v1](http://arxiv.org/abs/2507.03657v1)
+- 2025-07-04, **Unlearning the Noisy Correspondence Makes CLIP More Robust**, Haochen Han et.al., Paper: [http://arxiv.org/abs/2507.03434v1](http://arxiv.org/abs/2507.03434v1)
 - 2025-07-03, **No time to train! Training-Free Reference-Based Instance Segmentation**, Miguel Espinosa et.al., Paper: [http://arxiv.org/abs/2507.02798v1](http://arxiv.org/abs/2507.02798v1)
 - 2025-07-03, **Prompt learning with bounding box constraints for medical image segmentation**, Mélanie Gaillochet et.al., Paper: [http://arxiv.org/abs/2507.02743v1](http://arxiv.org/abs/2507.02743v1)
 - 2025-07-03, **Meta SecAlign: A Secure Foundation LLM Against Prompt Injection Attacks**, Sizhe Chen et.al., Paper: [http://arxiv.org/abs/2507.02735v1](http://arxiv.org/abs/2507.02735v1)
@@ -10137,10 +10157,11 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20250708>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250709>back to top</a>)</p>
 
 ## adaptor
 
+- 2025-07-07, **Multi-Step Prediction and Control of Hierarchical Emotion Distribution in Text-to-Speech Synthesis**, Sho Inoue et.al., Paper: [http://arxiv.org/abs/2507.04598v1](http://arxiv.org/abs/2507.04598v1)
 - 2025-06-26, **Elucidating and Endowing the Diffusion Training Paradigm for General Image Restoration**, Xin Lu et.al., Paper: [http://arxiv.org/abs/2506.21722v1](http://arxiv.org/abs/2506.21722v1)
 - 2025-06-26, **GoIRL: Graph-Oriented Inverse Reinforcement Learning for Multimodal Trajectory Prediction**, Muleilan Pei et.al., Paper: [http://arxiv.org/abs/2506.21121v1](http://arxiv.org/abs/2506.21121v1)
 - 2025-07-01, **Da Yu: Towards USV-Based Image Captioning for Waterway Surveillance and Scene Understanding**, Runwei Guan et.al., Paper: [http://arxiv.org/abs/2506.19288v2](http://arxiv.org/abs/2506.19288v2)
@@ -10331,10 +10352,20 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20250708>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250709>back to top</a>)</p>
 
 ## object detection
 
+- 2025-07-07, **Beyond One Shot, Beyond One Perspective: Cross-View and Long-Horizon Distillation for Better LiDAR Representations**, Xiang Xu et.al., Paper: [http://arxiv.org/abs/2507.05260v1](http://arxiv.org/abs/2507.05260v1)
+- 2025-07-07, **LERa: Replanning with Visual Feedback in Instruction Following**, Svyatoslav Pchelintsev et.al., Paper: [http://arxiv.org/abs/2507.05135v1](http://arxiv.org/abs/2507.05135v1)
+- 2025-07-07, **CVFusion: Cross-View Fusion of 4D Radar and Camera for 3D Object Detection**, Hanzhi Zhong et.al., Paper: [http://arxiv.org/abs/2507.04587v1](http://arxiv.org/abs/2507.04587v1)
+- 2025-07-06, **MambaFusion: Height-Fidelity Dense Global Fusion for Multi-modal 3D Object Detection**, Hanshi Wang et.al., Paper: [http://arxiv.org/abs/2507.04369v1](http://arxiv.org/abs/2507.04369v1)
+- 2025-07-06, **DMAT: An End-to-End Framework for Joint Atmospheric Turbulence Mitigation and Object Detection**, Paul Hill et.al., Paper: [http://arxiv.org/abs/2507.04323v1](http://arxiv.org/abs/2507.04323v1)
+- 2025-07-06, **ZERO: Multi-modal Prompt-based Visual Grounding**, Sangbum Choi et.al., Paper: [http://arxiv.org/abs/2507.04270v1](http://arxiv.org/abs/2507.04270v1)
+- 2025-07-05, **Towards Accurate and Efficient 3D Object Detection for Autonomous Driving: A Mixture of Experts Computing System on Edge**, Linshen Liu et.al., Paper: [http://arxiv.org/abs/2507.04123v1](http://arxiv.org/abs/2507.04123v1)
+- 2025-07-04, **Zero Memory Overhead Approach for Protecting Vision Transformer Parameters**, Fereshteh Baradaran et.al., Paper: [http://arxiv.org/abs/2507.03816v1](http://arxiv.org/abs/2507.03816v1)
+- 2025-07-04, **2.5D Object Detection for Intelligent Roadside Infrastructure**, Nikolai Polley et.al., Paper: [http://arxiv.org/abs/2507.03564v1](http://arxiv.org/abs/2507.03564v1)
+- 2025-07-04, **Enhancing Uncertainty Quantification for Runtime Safety Assurance Using Causal Risk Analysis and Operational Design Domain**, Radouane Bouchekir et.al., Paper: [http://arxiv.org/abs/2507.03515v1](http://arxiv.org/abs/2507.03515v1)
 - 2025-07-03, **Partial Weakly-Supervised Oriented Object Detection**, Mingxin Liu et.al., Paper: [http://arxiv.org/abs/2507.02751v1](http://arxiv.org/abs/2507.02751v1)
 - 2025-07-03, **Automatic Labelling for Low-Light Pedestrian Detection**, Dimitrios Bouzoulas et.al., Paper: [http://arxiv.org/abs/2507.02513v1](http://arxiv.org/abs/2507.02513v1)
 - 2025-07-03, **Weakly-supervised Contrastive Learning with Quantity Prompts for Moving Infrared Small Target Detection**, Weiwei Duan et.al., Paper: [http://arxiv.org/abs/2507.02454v1](http://arxiv.org/abs/2507.02454v1)
@@ -14593,7 +14624,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20250708>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250709>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
