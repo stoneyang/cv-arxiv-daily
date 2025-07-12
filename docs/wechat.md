@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2025.07.11
+> Updated on 2025.07.12
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,16 @@
 
 ## pretrain
 
+- 2025-07-10, **Impact of Pretraining Word Co-occurrence on Compositional Generalization in Multimodal Models**, Helen Qu et.al., Paper: [http://arxiv.org/abs/2507.08000v1](http://arxiv.org/abs/2507.08000v1)
+- 2025-07-10, **Skip a Layer or Loop it? Test-Time Depth Adaptation of Pretrained LLMs**, Ziyue Li et.al., Paper: [http://arxiv.org/abs/2507.07996v1](http://arxiv.org/abs/2507.07996v1)
+- 2025-07-10, **EXPO: Stable Reinforcement Learning with Expressive Policies**, Perry Dong et.al., Paper: [http://arxiv.org/abs/2507.07986v1](http://arxiv.org/abs/2507.07986v1)
+- 2025-07-10, **Geometry Forcing: Marrying Video Diffusion and 3D Representation for Consistent World Modeling**, Haoyu Wu et.al., Paper: [http://arxiv.org/abs/2507.07982v1](http://arxiv.org/abs/2507.07982v1)
+- 2025-07-10, **Dynamic Chunking for End-to-End Hierarchical Sequence Modeling**, Sukjun Hwang et.al., Paper: [http://arxiv.org/abs/2507.07955v1](http://arxiv.org/abs/2507.07955v1)
+- 2025-07-10, **Single-Step Latent Diffusion for Underwater Image Restoration**, Jiayi Wu et.al., Paper: [http://arxiv.org/abs/2507.07878v1](http://arxiv.org/abs/2507.07878v1)
+- 2025-07-10, **MoSE: Skill-by-Skill Mixture-of-Expert Learning for Autonomous Driving**, Lu Xu et.al., Paper: [http://arxiv.org/abs/2507.07818v1](http://arxiv.org/abs/2507.07818v1)
+- 2025-07-10, **The Cross-Lingual Cost: Retrieval Biases in RAG over Arabic-English Corpora**, Chen Amiraz et.al., Paper: [http://arxiv.org/abs/2507.07543v1](http://arxiv.org/abs/2507.07543v1)
+- 2025-07-10, **RLEP: Reinforcement Learning with Experience Replay for LLM Reasoning**, Hongzhi Zhang et.al., Paper: [http://arxiv.org/abs/2507.07451v1](http://arxiv.org/abs/2507.07451v1)
+- 2025-07-10, **Neural networks leverage nominally quantum and post-quantum representations**, Paul M. Riechers et.al., Paper: [http://arxiv.org/abs/2507.07432v1](http://arxiv.org/abs/2507.07432v1)
 - 2025-07-09, **Vision-Language-Vision Auto-Encoder: Scalable Knowledge Distillation from Diffusion Models**, Tiezheng Zhang et.al., Paper: [http://arxiv.org/abs/2507.07104v1](http://arxiv.org/abs/2507.07104v1)
 - 2025-07-09, **Does Data Scaling Lead to Visual Compositional Generalization?**, Arnas Uselis et.al., Paper: [http://arxiv.org/abs/2507.07102v1](http://arxiv.org/abs/2507.07102v1)
 - 2025-07-09, **Small Batch Size Training for Language Models: When Vanilla SGD Works, and Why Gradient Accumulation Is Wasteful**, Martin Marek et.al., Paper: [http://arxiv.org/abs/2507.07101v1](http://arxiv.org/abs/2507.07101v1)
@@ -5321,10 +5331,18 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20250711>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250712>back to top</a>)</p>
 
 ## downstream
 
+- 2025-07-10, **LISTEN: Lightweight Industrial Sound-representable Transformer for Edge Notification**, Changheon Han et.al., Paper: [http://arxiv.org/abs/2507.07879v1](http://arxiv.org/abs/2507.07879v1)
+- 2025-07-10, **THUNDER: Tile-level Histopathology image UNDERstanding benchmark**, Pierre Marza et.al., Paper: [http://arxiv.org/abs/2507.07860v1](http://arxiv.org/abs/2507.07860v1)
+- 2025-07-10, **One Object, Multiple Lies: A Benchmark for Cross-task Adversarial Attack on Unified Vision-Language Models**, Jiale Zhao et.al., Paper: [http://arxiv.org/abs/2507.07709v1](http://arxiv.org/abs/2507.07709v1)
+- 2025-07-10, **Generic Speech Enhancement with Self-Supervised Representation Space Loss**, Hiroshi Sato et.al., Paper: [http://arxiv.org/abs/2507.07631v1](http://arxiv.org/abs/2507.07631v1)
+- 2025-07-10, **EPIC: Efficient Prompt Interaction for Text-Image Classification**, Xinyao Yu et.al., Paper: [http://arxiv.org/abs/2507.07415v1](http://arxiv.org/abs/2507.07415v1)
+- 2025-07-10, **HGMP:Heterogeneous Graph Multi-Task Prompt Learning**, Pengfei Jiao et.al., Paper: [http://arxiv.org/abs/2507.07405v1](http://arxiv.org/abs/2507.07405v1)
+- 2025-07-10, **PacGDC: Label-Efficient Generalizable Depth Completion with Projection Ambiguity and Consistency**, Haotian Wang et.al., Paper: [http://arxiv.org/abs/2507.07374v1](http://arxiv.org/abs/2507.07374v1)
+- 2025-07-09, **Efficient Parametric SVD of Koopman Operator for Stochastic Dynamical Systems**, Minchan Jeong et.al., Paper: [http://arxiv.org/abs/2507.07222v1](http://arxiv.org/abs/2507.07222v1)
 - 2025-07-09, **FlexOlmo: Open Language Models for Flexible Data Use**, Weijia Shi et.al., Paper: [http://arxiv.org/abs/2507.07024v1](http://arxiv.org/abs/2507.07024v1)
 - 2025-07-09, **VisualTrap: A Stealthy Backdoor Attack on GUI Agents via Visual Grounding Manipulation**, Ziang Ye et.al., Paper: [http://arxiv.org/abs/2507.06899v1](http://arxiv.org/abs/2507.06899v1)
 - 2025-07-09, **Speech Tokenizer is Key to Consistent Representation**, Wonjin Jung et.al., Paper: [http://arxiv.org/abs/2507.06802v1](http://arxiv.org/abs/2507.06802v1)
@@ -10194,7 +10212,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20250711>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250712>back to top</a>)</p>
 
 ## adaptor
 
@@ -10389,10 +10407,13 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20250711>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250712>back to top</a>)</p>
 
 ## object detection
 
+- 2025-07-10, **Rainbow Artifacts from Electromagnetic Signal Injection Attacks on Image Sensors**, Youqian Zhang et.al., Paper: [http://arxiv.org/abs/2507.07773v1](http://arxiv.org/abs/2507.07773v1)
+- 2025-07-09, **Automated Video Segmentation Machine Learning Pipeline**, Johannes Merz et.al., Paper: [http://arxiv.org/abs/2507.07242v1](http://arxiv.org/abs/2507.07242v1)
+- 2025-07-09, **Aerial Maritime Vessel Detection and Identification**, Antonella Barisic Kulas et.al., Paper: [http://arxiv.org/abs/2507.07153v1](http://arxiv.org/abs/2507.07153v1)
 - 2025-07-09, **DenoiseCP-Net: Efficient Collective Perception in Adverse Weather via Joint LiDAR-Based 3D Object Detection and Denoising**, Sven Teufel et.al., Paper: [http://arxiv.org/abs/2507.06976v1](http://arxiv.org/abs/2507.06976v1)
 - 2025-07-09, **A multi-modal dataset for insect biodiversity with imagery and DNA at the trap and individual level**, Johanna Orsholm et.al., Paper: [http://arxiv.org/abs/2507.06972v1](http://arxiv.org/abs/2507.06972v1)
 - 2025-07-09, **Dataset and Benchmark for Enhancing Critical Retained Foreign Object Detection**, Yuli Wang et.al., Paper: [http://arxiv.org/abs/2507.06937v1](http://arxiv.org/abs/2507.06937v1)
@@ -14672,7 +14693,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20250711>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250712>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
