@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.14
+## Updated on 2025.07.15
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-11**|**KG-Attention: Knowledge Graph-Guided Attention at Test-Time via Bidirectional Information Aggregation**|Songlin Zhai et.al.|[2507.08704v1](http://arxiv.org/abs/2507.08704v1)|null|
+|**2025-07-11**|**PanMatch: Unleashing the Potential of Large Vision Models for Unified Matching Models**|Yongjian Zhang et.al.|[2507.08400v1](http://arxiv.org/abs/2507.08400v1)|null|
+|**2025-07-11**|**From Enhancement to Understanding: Build a Generalized Bridge for Low-light Vision via Semantically Consistent Unsupervised Fine-tuning**|Sen Wang et.al.|[2507.08380v1](http://arxiv.org/abs/2507.08380v1)|null|
+|**2025-07-11**|**KAT-V1: Kwai-AutoThink Technical Report**|Zizheng Zhan et.al.|[2507.08297v1](http://arxiv.org/abs/2507.08297v1)|null|
+|**2025-07-11**|**Raptor: Scalable Train-Free Embeddings for 3D Medical Volumes Leveraging Pretrained 2D Foundation Models**|Ulzee An et.al.|[2507.08254v1](http://arxiv.org/abs/2507.08254v1)|null|
+|**2025-07-11**|**Transfer Learning and Mixup for Fine-Grained Few-Shot Fungi Classification**|Jason Kahei Tam et.al.|[2507.08248v1](http://arxiv.org/abs/2507.08248v1)|null|
 |**2025-07-10**|**Impact of Pretraining Word Co-occurrence on Compositional Generalization in Multimodal Models**|Helen Qu et.al.|[2507.08000v1](http://arxiv.org/abs/2507.08000v1)|null|
 |**2025-07-10**|**Skip a Layer or Loop it? Test-Time Depth Adaptation of Pretrained LLMs**|Ziyue Li et.al.|[2507.07996v1](http://arxiv.org/abs/2507.07996v1)|null|
 |**2025-07-10**|**EXPO: Stable Reinforcement Learning with Expressive Policies**|Perry Dong et.al.|[2507.07986v1](http://arxiv.org/abs/2507.07986v1)|null|
@@ -5337,12 +5343,16 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250715>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-11**|**InferLog: Accelerating LLM Inference for Online Log Parsing via ICL-oriented Prefix Caching**|Yilun Wang et.al.|[2507.08523v1](http://arxiv.org/abs/2507.08523v1)|null|
+|**2025-07-11**|**Multi-modal Mutual-Guidance Conditional Prompt Learning for Vision-Language Models**|Shijun Yang et.al.|[2507.08410v1](http://arxiv.org/abs/2507.08410v1)|null|
+|**2025-07-11**|**PanMatch: Unleashing the Potential of Large Vision Models for Unified Matching Models**|Yongjian Zhang et.al.|[2507.08400v1](http://arxiv.org/abs/2507.08400v1)|null|
+|**2025-07-11**|**From Enhancement to Understanding: Build a Generalized Bridge for Low-light Vision via Semantically Consistent Unsupervised Fine-tuning**|Sen Wang et.al.|[2507.08380v1](http://arxiv.org/abs/2507.08380v1)|null|
 |**2025-07-11**|**LISTEN: Lightweight Industrial Sound-representable Transformer for Edge Notification**|Changheon Han et.al.|[2507.07879v2](http://arxiv.org/abs/2507.07879v2)|null|
 |**2025-07-10**|**THUNDER: Tile-level Histopathology image UNDERstanding benchmark**|Pierre Marza et.al.|[2507.07860v1](http://arxiv.org/abs/2507.07860v1)|null|
 |**2025-07-10**|**One Object, Multiple Lies: A Benchmark for Cross-task Adversarial Attack on Unified Vision-Language Models**|Jiale Zhao et.al.|[2507.07709v1](http://arxiv.org/abs/2507.07709v1)|null|
@@ -10220,7 +10230,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250715>back to top</a>)</p>
 
 ## adaptor
 
@@ -10417,12 +10427,19 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250715>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-11**|**RoundaboutHD: High-Resolution Real-World Urban Environment Benchmark for Multi-Camera Vehicle Tracking**|Yuqiang Lin et.al.|[2507.08729v1](http://arxiv.org/abs/2507.08729v1)|null|
+|**2025-07-11**|**DatasetAgent: A Novel Multi-Agent System for Auto-Constructing Datasets from Real-World Images**|Haoran Sun et.al.|[2507.08648v1](http://arxiv.org/abs/2507.08648v1)|null|
+|**2025-07-11**|**OnlineBEV: Recurrent Temporal Fusion in Bird's Eye View Representations for Multi-Camera 3D Perception**|Junho Koh et.al.|[2507.08644v1](http://arxiv.org/abs/2507.08644v1)|null|
+|**2025-07-11**|**Smelly, dense, and spreaded: The Object Detection for Olfactory References (ODOR) dataset**|Mathias Zinnen et.al.|[2507.08384v1](http://arxiv.org/abs/2507.08384v1)|null|
+|**2025-07-11**|**Spectroscopic Observations of Four Candidates for Blue Large-Amplitude Pulsators. No BLAPs at High Galactic Latitudes**|P. Pietrukowicz et.al.|[2507.08372v1](http://arxiv.org/abs/2507.08372v1)|null|
+|**2025-07-11**|**Understanding Driving Risks using Large Language Models: Toward Elderly Driver Assessment**|Yuki Yoshihara et.al.|[2507.08367v1](http://arxiv.org/abs/2507.08367v1)|null|
+|**2025-07-10**|**An Embedded Real-time Object Alert System for Visually Impaired: A Monocular Depth Estimation based Approach through Computer Vision**|Jareen Anjom et.al.|[2507.08165v1](http://arxiv.org/abs/2507.08165v1)|null|
 |**2025-07-10**|**Rainbow Artifacts from Electromagnetic Signal Injection Attacks on Image Sensors**|Youqian Zhang et.al.|[2507.07773v1](http://arxiv.org/abs/2507.07773v1)|null|
 |**2025-07-09**|**Automated Video Segmentation Machine Learning Pipeline**|Johannes Merz et.al.|[2507.07242v1](http://arxiv.org/abs/2507.07242v1)|null|
 |**2025-07-09**|**Aerial Maritime Vessel Detection and Identification**|Antonella Barisic Kulas et.al.|[2507.07153v1](http://arxiv.org/abs/2507.07153v1)|null|
@@ -14705,7 +14722,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250715>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
