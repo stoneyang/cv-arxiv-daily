@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2025.07.15
+> Updated on 2025.07.16
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,6 +17,16 @@
 
 ## pretrain
 
+- 2025-07-14, **Reasoning or Memorization? Unreliable Results of Reinforcement Learning Due to Data Contamination**, Mingqi Wu et.al., Paper: [http://arxiv.org/abs/2507.10532v1](http://arxiv.org/abs/2507.10532v1)
+- 2025-07-14, **AudioMAE++: learning better masked audio representations with SwiGLU FFNs**, Sarthak Yadav et.al., Paper: [http://arxiv.org/abs/2507.10464v1](http://arxiv.org/abs/2507.10464v1)
+- 2025-07-15, **CLA: Latent Alignment for Online Continual Self-Supervised Learning**, Giacomo Cignoni et.al., Paper: [http://arxiv.org/abs/2507.10434v2](http://arxiv.org/abs/2507.10434v2)
+- 2025-07-14, **Text-to-Remote-Sensing-Image Retrieval beyond RGB Sources**, Daniele Rege Cambrin et.al., Paper: [http://arxiv.org/abs/2507.10403v1](http://arxiv.org/abs/2507.10403v1)
+- 2025-07-14, **Grammar-Guided Evolutionary Search for Discrete Prompt Optimisation**, Muzhaffar Hazman et.al., Paper: [http://arxiv.org/abs/2507.10326v1](http://arxiv.org/abs/2507.10326v1)
+- 2025-07-14, **Contrastive Pretraining with Dual Visual Encoders for Gloss-Free Sign Language Translation**, Ozge Mercanoglu Sincan et.al., Paper: [http://arxiv.org/abs/2507.10306v1](http://arxiv.org/abs/2507.10306v1)
+- 2025-07-14, **FaceLLM: A Multimodal Large Language Model for Face Understanding**, Hatef Otroshi Shahreza et.al., Paper: [http://arxiv.org/abs/2507.10300v1](http://arxiv.org/abs/2507.10300v1)
+- 2025-07-14, **Minimizing the Pretraining Gap: Domain-aligned Text-Based Person Retrieval**, Shuyu Yang et.al., Paper: [http://arxiv.org/abs/2507.10195v1](http://arxiv.org/abs/2507.10195v1)
+- 2025-07-15, **(Almost) Free Modality Stitching of Foundation Models**, Jaisidh Singh et.al., Paper: [http://arxiv.org/abs/2507.10015v2](http://arxiv.org/abs/2507.10015v2)
+- 2025-07-14, **Leveraging Swin Transformer for enhanced diagnosis of Alzheimer's disease using multi-shell diffusion MRI**, Quentin Dessain et.al., Paper: [http://arxiv.org/abs/2507.09996v1](http://arxiv.org/abs/2507.09996v1)
 - 2025-07-11, **KG-Attention: Knowledge Graph-Guided Attention at Test-Time via Bidirectional Information Aggregation**, Songlin Zhai et.al., Paper: [http://arxiv.org/abs/2507.08704v1](http://arxiv.org/abs/2507.08704v1)
 - 2025-07-11, **PanMatch: Unleashing the Potential of Large Vision Models for Unified Matching Models**, Yongjian Zhang et.al., Paper: [http://arxiv.org/abs/2507.08400v1](http://arxiv.org/abs/2507.08400v1)
 - 2025-07-11, **From Enhancement to Understanding: Build a Generalized Bridge for Low-light Vision via Semantically Consistent Unsupervised Fine-tuning**, Sen Wang et.al., Paper: [http://arxiv.org/abs/2507.08380v1](http://arxiv.org/abs/2507.08380v1)
@@ -5337,10 +5347,20 @@
 - 2022-09-11, **Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**, Thao T. B. Nguyen et.al., Paper: [http://arxiv.org/abs/2209.04794v1](http://arxiv.org/abs/2209.04794v1)
 - 2022-09-10, **Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**, Jared Lichtarge et.al., Paper: [http://arxiv.org/abs/2209.04683v1](http://arxiv.org/abs/2209.04683v1)
 
-<p align=right>(<a href=#Updated-on-20250715>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250716>back to top</a>)</p>
 
 ## downstream
 
+- 2025-07-14, **AudioMAE++: learning better masked audio representations with SwiGLU FFNs**, Sarthak Yadav et.al., Paper: [http://arxiv.org/abs/2507.10464v1](http://arxiv.org/abs/2507.10464v1)
+- 2025-07-14, **Beyond Graph Model: Reliable VLM Fine-Tuning via Random Graph Adapter**, Bo Jiang et.al., Paper: [http://arxiv.org/abs/2507.10355v1](http://arxiv.org/abs/2507.10355v1)
+- 2025-07-14, **Task-Based Flexible Feature Distillation for LLMs**, Khouloud Saadi et.al., Paper: [http://arxiv.org/abs/2507.10155v1](http://arxiv.org/abs/2507.10155v1)
+- 2025-07-14, **CoSMo: A Multimodal Transformer for Page Stream Segmentation in Comic Books**, Marc Serra Ortega et.al., Paper: [http://arxiv.org/abs/2507.10053v1](http://arxiv.org/abs/2507.10053v1)
+- 2025-07-14, **Task Priors: Enhancing Model Evaluation by Considering the Entire Space of Downstream Tasks**, Niket Patel et.al., Paper: [http://arxiv.org/abs/2507.09871v1](http://arxiv.org/abs/2507.09871v1)
+- 2025-07-14, **A Pre-training Framework for Relational Data with Information-theoretic Principles**, Quang Truong et.al., Paper: [http://arxiv.org/abs/2507.09837v1](http://arxiv.org/abs/2507.09837v1)
+- 2025-07-13, **EyeSeg: An Uncertainty-Aware Eye Segmentation Framework for AR/VR**, Zhengyuan Peng et.al., Paper: [http://arxiv.org/abs/2507.09649v1](http://arxiv.org/abs/2507.09649v1)
+- 2025-07-13, **Generate Aligned Anomaly: Region-Guided Few-Shot Anomaly Image-Mask Pair Synthesis for Industrial Inspection**, Yilin Lu et.al., Paper: [http://arxiv.org/abs/2507.09619v1](http://arxiv.org/abs/2507.09619v1)
+- 2025-07-13, **Self-supervised Pretraining for Integrated Prediction and Planning of Automated Vehicles**, Yangang Ren et.al., Paper: [http://arxiv.org/abs/2507.09537v1](http://arxiv.org/abs/2507.09537v1)
+- 2025-07-13, **Advancing Reliable Test-Time Adaptation of Vision-Language Models under Visual Variations**, Yiwen Liang et.al., Paper: [http://arxiv.org/abs/2507.09500v1](http://arxiv.org/abs/2507.09500v1)
 - 2025-07-11, **InferLog: Accelerating LLM Inference for Online Log Parsing via ICL-oriented Prefix Caching**, Yilun Wang et.al., Paper: [http://arxiv.org/abs/2507.08523v1](http://arxiv.org/abs/2507.08523v1)
 - 2025-07-11, **Multi-modal Mutual-Guidance Conditional Prompt Learning for Vision-Language Models**, Shijun Yang et.al., Paper: [http://arxiv.org/abs/2507.08410v1](http://arxiv.org/abs/2507.08410v1)
 - 2025-07-11, **PanMatch: Unleashing the Potential of Large Vision Models for Unified Matching Models**, Yongjian Zhang et.al., Paper: [http://arxiv.org/abs/2507.08400v1](http://arxiv.org/abs/2507.08400v1)
@@ -10222,7 +10242,7 @@
 - 2022-09-14, **Knowledge Base Question Answering: A Semantic Parsing Perspective**, Yu Gu et.al., Paper: [http://arxiv.org/abs/2209.04994v2](http://arxiv.org/abs/2209.04994v2)
 - 2022-09-11, **Inverse Image Frequency for Long-tailed Image Recognition**, Konstantinos Panagiotis Alexandridis et.al., Paper: [http://arxiv.org/abs/2209.04861v1](http://arxiv.org/abs/2209.04861v1), Code: **[https://github.com/kostas1515/iif](https://github.com/kostas1515/iif)**
 
-<p align=right>(<a href=#Updated-on-20250715>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250716>back to top</a>)</p>
 
 ## adaptor
 
@@ -10417,10 +10437,19 @@
 - 2022-04-01, **Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**, Fan-Lin Wang et.al., Paper: [http://arxiv.org/abs/2204.00170v1](http://arxiv.org/abs/2204.00170v1), Code: **[https://github.com/BogiHsu/Universal-Adaptor](https://github.com/BogiHsu/Universal-Adaptor)**
 - 2022-06-20, **Style-Guided Domain Adaptation for Face Presentation Attack Detection**, Young-Eun Kim et.al., Paper: [http://arxiv.org/abs/2203.14565v2](http://arxiv.org/abs/2203.14565v2)
 
-<p align=right>(<a href=#Updated-on-20250715>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250716>back to top</a>)</p>
 
 ## object detection
 
+- 2025-07-14, **Fine-Grained Zero-Shot Object Detection**, Hongxu Ma et.al., Paper: [http://arxiv.org/abs/2507.10358v1](http://arxiv.org/abs/2507.10358v1)
+- 2025-07-14, **BlueGlass: A Framework for Composite AI Safety**, Harshal Nandigramwar et.al., Paper: [http://arxiv.org/abs/2507.10106v1](http://arxiv.org/abs/2507.10106v1)
+- 2025-07-14, **SRG/ART-XC All-Sky X-ray Survey: Sensitivity Assessment Based on Aperture Photometry**, N. Y. Tyrin et.al., Paper: [http://arxiv.org/abs/2507.10060v1](http://arxiv.org/abs/2507.10060v1)
+- 2025-07-14, **3DGAA: Realistic and Robust 3D Gaussian-based Adversarial Attack for Autonomous Driving**, Yixun Zhang et.al., Paper: [http://arxiv.org/abs/2507.09993v1](http://arxiv.org/abs/2507.09993v1)
+- 2025-07-14, **Measuring the Impact of Rotation Equivariance on Aerial Object Detection**, Xiuyu Wu et.al., Paper: [http://arxiv.org/abs/2507.09896v1](http://arxiv.org/abs/2507.09896v1)
+- 2025-07-13, **MLoRQ: Bridging Low-Rank and Quantization for Transformer Compression**, Ofir Gordon et.al., Paper: [http://arxiv.org/abs/2507.09616v1](http://arxiv.org/abs/2507.09616v1)
+- 2025-07-12, **Stereo-based 3D Anomaly Object Detection for Autonomous Driving: A New Dataset and Baseline**, Shiyi Mu et.al., Paper: [http://arxiv.org/abs/2507.09214v1](http://arxiv.org/abs/2507.09214v1)
+- 2025-07-12, **On the Fragility of Multimodal Perception to Temporal Misalignment in Autonomous Driving**, Md Hasan Shahriar et.al., Paper: [http://arxiv.org/abs/2507.09095v1](http://arxiv.org/abs/2507.09095v1)
+- 2025-07-11, **VISTA: A Visual Analytics Framework to Enhance Foundation Model-Generated Data Labels**, Xiwei Xuan et.al., Paper: [http://arxiv.org/abs/2507.09008v1](http://arxiv.org/abs/2507.09008v1)
 - 2025-07-11, **RoundaboutHD: High-Resolution Real-World Urban Environment Benchmark for Multi-Camera Vehicle Tracking**, Yuqiang Lin et.al., Paper: [http://arxiv.org/abs/2507.08729v1](http://arxiv.org/abs/2507.08729v1)
 - 2025-07-11, **DatasetAgent: A Novel Multi-Agent System for Auto-Constructing Datasets from Real-World Images**, Haoran Sun et.al., Paper: [http://arxiv.org/abs/2507.08648v1](http://arxiv.org/abs/2507.08648v1)
 - 2025-07-11, **OnlineBEV: Recurrent Temporal Fusion in Bird's Eye View Representations for Multi-Camera 3D Perception**, Junho Koh et.al., Paper: [http://arxiv.org/abs/2507.08644v1](http://arxiv.org/abs/2507.08644v1)
@@ -14710,7 +14739,7 @@
 - 2022-09-13, **ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**, Achin Jain et.al., Paper: [http://arxiv.org/abs/2209.05654v1](http://arxiv.org/abs/2209.05654v1)
 - 2022-09-12, **CenterFormer: Center-based Transformer for 3D Object Detection**, Zixiang Zhou et.al., Paper: [http://arxiv.org/abs/2209.05588v1](http://arxiv.org/abs/2209.05588v1), Code: **[https://github.com/tusimple/centerformer](https://github.com/tusimple/centerformer)**
 
-<p align=right>(<a href=#Updated-on-20250715>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250716>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
