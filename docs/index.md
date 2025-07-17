@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.16
+## Updated on 2025.07.17
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**Precision Spatio-Temporal Feature Fusion for Robust Remote Sensing Change Detection**|Buddhi Wijenayake et.al.|[2507.11523v1](http://arxiv.org/abs/2507.11523v1)|null|
+|**2025-07-15**|**COLI: A Hierarchical Efficient Compressor for Large Images**|Haoran Wang et.al.|[2507.11443v1](http://arxiv.org/abs/2507.11443v1)|null|
+|**2025-07-16**|**Automated Novelty Evaluation of Academic Paper: A Collaborative Approach Integrating Human and Large Language Model Knowledge**|Wenqing Wu et.al.|[2507.11330v2](http://arxiv.org/abs/2507.11330v2)|null|
+|**2025-07-15**|**BioScore: A Foundational Scoring Function For Diverse Biomolecular Complexes**|Yuchen Zhu et.al.|[2507.10877v1](http://arxiv.org/abs/2507.10877v1)|null|
+|**2025-07-14**|**Multi-Armed Sampling Problem and the End of Exploration**|Mohammad Pedramfar et.al.|[2507.10797v1](http://arxiv.org/abs/2507.10797v1)|null|
+|**2025-07-14**|**Applying Text Embedding Models for Efficient Analysis in Labeled Property Graphs**|Michal Podstawski et.al.|[2507.10772v1](http://arxiv.org/abs/2507.10772v1)|null|
+|**2025-07-14**|**Integrating Biological Knowledge for Robust Microscopy Image Profiling on De Novo Cell Lines**|Jiayuan Chen et.al.|[2507.10737v1](http://arxiv.org/abs/2507.10737v1)|null|
+|**2025-07-14**|**Real-time, Adaptive Radiological Anomaly Detection and Isotope Identification Using Non-negative Matrix Factorization**|Chandler Jones et.al.|[2507.10715v1](http://arxiv.org/abs/2507.10715v1)|null|
+|**2025-07-14**|**Vision Language Action Models in Robotic Manipulation: A Systematic Review**|Muhayy Ud Din et.al.|[2507.10672v1](http://arxiv.org/abs/2507.10672v1)|null|
 |**2025-07-14**|**Reasoning or Memorization? Unreliable Results of Reinforcement Learning Due to Data Contamination**|Mingqi Wu et.al.|[2507.10532v1](http://arxiv.org/abs/2507.10532v1)|null|
 |**2025-07-14**|**AudioMAE++: learning better masked audio representations with SwiGLU FFNs**|Sarthak Yadav et.al.|[2507.10464v1](http://arxiv.org/abs/2507.10464v1)|null|
 |**2025-07-15**|**CLA: Latent Alignment for Online Continual Self-Supervised Learning**|Giacomo Cignoni et.al.|[2507.10434v2](http://arxiv.org/abs/2507.10434v2)|null|
@@ -5353,12 +5362,21 @@ layout: default
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250717>back to top</a>)</p>
 
 ## downstream
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**Implementing Adaptations for Vision AutoRegressive Model**|Kaif Shaikh et.al.|[2507.11441v1](http://arxiv.org/abs/2507.11441v1)|null|
+|**2025-07-15**|**Neurosymbolic Reasoning Shortcuts under the Independence Assumption**|Emile van Krieken et.al.|[2507.11357v1](http://arxiv.org/abs/2507.11357v1)|null|
+|**2025-07-15**|**How to rank imputation methods?**|Jeffrey Näf et.al.|[2507.11297v1](http://arxiv.org/abs/2507.11297v1)|null|
+|**2025-07-15**|**A Robust Incomplete Multimodal Low-Rank Adaptation Approach for Emotion Recognition**|Xinkui Zhao et.al.|[2507.11202v1](http://arxiv.org/abs/2507.11202v1)|null|
+|**2025-07-15**|**Trexplorer Super: Topologically Correct Centerline Tree Tracking of Tubular Objects in CT Volumes**|Roman Naeem et.al.|[2507.10881v1](http://arxiv.org/abs/2507.10881v1)|null|
+|**2025-07-15**|**Focus on Texture: Rethinking Pre-training in Masked Autoencoders for Medical Image Classification**|Chetan Madan et.al.|[2507.10869v1](http://arxiv.org/abs/2507.10869v1)|null|
+|**2025-07-14**|**Sparse Fine-Tuning of Transformers for Generative Tasks**|Wei Chen et.al.|[2507.10855v1](http://arxiv.org/abs/2507.10855v1)|null|
+|**2025-07-14**|**Applying Text Embedding Models for Efficient Analysis in Labeled Property Graphs**|Michal Podstawski et.al.|[2507.10772v1](http://arxiv.org/abs/2507.10772v1)|null|
+|**2025-07-14**|**A Code Comprehension Benchmark for Large Language Models for Code**|Jayant Havare et.al.|[2507.10641v1](http://arxiv.org/abs/2507.10641v1)|null|
 |**2025-07-14**|**AudioMAE++: learning better masked audio representations with SwiGLU FFNs**|Sarthak Yadav et.al.|[2507.10464v1](http://arxiv.org/abs/2507.10464v1)|null|
 |**2025-07-14**|**Beyond Graph Model: Reliable VLM Fine-Tuning via Random Graph Adapter**|Bo Jiang et.al.|[2507.10355v1](http://arxiv.org/abs/2507.10355v1)|null|
 |**2025-07-14**|**Task-Based Flexible Feature Distillation for LLMs**|Khouloud Saadi et.al.|[2507.10155v1](http://arxiv.org/abs/2507.10155v1)|null|
@@ -10250,7 +10268,7 @@ layout: default
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250717>back to top</a>)</p>
 
 ## adaptor
 
@@ -10447,12 +10465,18 @@ layout: default
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250717>back to top</a>)</p>
 
 ## object detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**Tomato Multi-Angle Multi-Pose Dataset for Fine-Grained Phenotyping**|Yujie Zhang et.al.|[2507.11279v1](http://arxiv.org/abs/2507.11279v1)|null|
+|**2025-07-15**|**Using Continual Learning for Real-Time Detection of Vulnerable Road Users in Complex Traffic Scenarios**|Faryal Aurooj Nasir et.al.|[2507.11046v1](http://arxiv.org/abs/2507.11046v1)|null|
+|**2025-07-15**|**Combining Transformers and CNNs for Efficient Object Detection in High-Resolution Satellite Imagery**|Nicolas Drapier et.al.|[2507.11040v1](http://arxiv.org/abs/2507.11040v1)|null|
+|**2025-07-14**|**A Lightweight and Robust Framework for Real-Time Colorectal Polyp Detection Using LOF-Based Preprocessing and YOLO-v11n**|Saadat Behzadi et.al.|[2507.10864v1](http://arxiv.org/abs/2507.10864v1)|null|
+|**2025-07-14**|**LLM-Guided Agentic Object Detection for Open-World Understanding**|Furkan Mumcu et.al.|[2507.10844v1](http://arxiv.org/abs/2507.10844v1)|null|
+|**2025-07-14**|**Versatile and Generalizable Manipulation via Goal-Conditioned Reinforcement Learning with Grounded Object Detection**|Huiyi Wang et.al.|[2507.10814v1](http://arxiv.org/abs/2507.10814v1)|null|
 |**2025-07-14**|**Fine-Grained Zero-Shot Object Detection**|Hongxu Ma et.al.|[2507.10358v1](http://arxiv.org/abs/2507.10358v1)|null|
 |**2025-07-14**|**BlueGlass: A Framework for Composite AI Safety**|Harshal Nandigramwar et.al.|[2507.10106v1](http://arxiv.org/abs/2507.10106v1)|null|
 |**2025-07-14**|**SRG/ART-XC All-Sky X-ray Survey: Sensitivity Assessment Based on Aperture Photometry**|N. Y. Tyrin et.al.|[2507.10060v1](http://arxiv.org/abs/2507.10060v1)|null|
@@ -14751,7 +14775,7 @@ layout: default
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250717>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
