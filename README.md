@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.23
+## Updated on 2025.07.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**TTMBA: Towards Text To Multiple Sources Binaural Audio Generation**|Yuxuan He et.al.|[2507.16564v1](http://arxiv.org/abs/2507.16564v1)|null|
+|**2025-07-22**|**A Comprehensive Data-centric Overview of Federated Graph Learning**|Zhengyu Wu et.al.|[2507.16541v1](http://arxiv.org/abs/2507.16541v1)|null|
+|**2025-07-22**|**ApproxGNN: A Pretrained GNN for Parameter Prediction in Design Space Exploration for Approximate Computing**|Ondrej Vlcek et.al.|[2507.16379v1](http://arxiv.org/abs/2507.16379v1)|null|
+|**2025-07-22**|**Navigating Large-Pose Challenge for High-Fidelity Face Reenactment with Video Diffusion Model**|Mingtao Guo et.al.|[2507.16341v1](http://arxiv.org/abs/2507.16341v1)|null|
+|**2025-07-22**|**Towards Resilient Safety-driven Unlearning for Diffusion Models against Downstream Fine-tuning**|Boheng Li et.al.|[2507.16302v1](http://arxiv.org/abs/2507.16302v1)|null|
+|**2025-07-22**|**SpiroLLM: Finetuning Pretrained LLMs to Understand Spirogram Time Series with Clinical Validation in COPD Reporting**|Shuhao Mei et.al.|[2507.16145v1](http://arxiv.org/abs/2507.16145v1)|null|
+|**2025-07-21**|**Interpreting CFD Surrogates through Sparse Autoencoders**|Yeping Hu et.al.|[2507.16069v1](http://arxiv.org/abs/2507.16069v1)|null|
+|**2025-07-21**|**Artifacts and Attention Sinks: Structured Approximations for Efficient Vision Transformers**|Andrew Lu et.al.|[2507.16018v1](http://arxiv.org/abs/2507.16018v1)|null|
+|**2025-07-21**|**Enhancing Hindi NER in Low Context: A Comparative study of Transformer-based models with vs. without Retrieval Augmentation**|Sumit Singh et.al.|[2507.16002v1](http://arxiv.org/abs/2507.16002v1)|null|
+|**2025-07-21**|**An empirical study for the early detection of Mpox from skin lesion images using pretrained CNN models leveraging XAI technique**|Mohammad Asifur Rahim et.al.|[2507.15915v1](http://arxiv.org/abs/2507.15915v1)|null|
 |**2025-07-21**|**Data augmentation enables label-specific generation of homologous protein sequences**|Lorenzo Rosset et.al.|[2507.15651v1](http://arxiv.org/abs/2507.15651v1)|null|
 |**2025-07-21**|**Leveraging Context for Multimodal Fallacy Classification in Political Debates**|Alessio Pittiglio et.al.|[2507.15641v1](http://arxiv.org/abs/2507.15641v1)|null|
 |**2025-07-21**|**Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos**|Hao Luo et.al.|[2507.15597v1](http://arxiv.org/abs/2507.15597v1)|null|
@@ -5397,12 +5407,22 @@
 |**2022-09-11**|**Learning to diagnose common thorax diseases on chest radiographs from radiology reports in Vietnamese**|Thao T. B. Nguyen et.al.|[2209.04794v1](http://arxiv.org/abs/2209.04794v1)|null|
 |**2022-09-10**|**Simple and Effective Gradient-Based Tuning of Sequence-to-Sequence Models**|Jared Lichtarge et.al.|[2209.04683v1](http://arxiv.org/abs/2209.04683v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250723>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250724>back to top</a>)</p>
 
 ## downstream
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**Enhancing Remote Sensing Vision-Language Models Through MLLM and LLM-Based High-Quality Image-Text Dataset Generation**|Yiguo He et.al.|[2507.16716v1](http://arxiv.org/abs/2507.16716v1)|null|
+|**2025-07-22**|**FISHER: A Foundation Model for Multi-Modal Industrial Signal Comprehensive Representation**|Pingyi Fan et.al.|[2507.16696v1](http://arxiv.org/abs/2507.16696v1)|null|
+|**2025-07-22**|**An approach to measuring the performance of Automatic Speech Recognition (ASR) models in the context of Large Language Model (LLM) powered applications**|Sujith Pulikodan et.al.|[2507.16456v1](http://arxiv.org/abs/2507.16456v1)|null|
+|**2025-07-22**|**Leveraging Personalized PageRank and Higher-Order Topological Structures for Heterophily Mitigation in Graph Neural Networks**|Yumeng Wang et.al.|[2507.16347v1](http://arxiv.org/abs/2507.16347v1)|null|
+|**2025-07-22**|**SpeLLM: Character-Level Multi-Head Decoding**|Amit Ben-Artzy et.al.|[2507.16323v1](http://arxiv.org/abs/2507.16323v1)|null|
+|**2025-07-22**|**M-SpecGene: Generalized Foundation Model for RGBT Multispectral Vision**|Kailai Zhou et.al.|[2507.16318v1](http://arxiv.org/abs/2507.16318v1)|null|
+|**2025-07-22**|**Dens3R: A Foundation Model for 3D Geometry Prediction**|Xianze Fang et.al.|[2507.16290v1](http://arxiv.org/abs/2507.16290v1)|null|
+|**2025-07-22**|**Quality Text, Robust Vision: The Role of Language in Enhancing Visual Robustness of Vision-Language Models**|Futa Waseda et.al.|[2507.16257v1](http://arxiv.org/abs/2507.16257v1)|null|
+|**2025-07-22**|**The Impact of Pseudo-Science in Financial Loans Risk Prediction**|Bruno Scarone et.al.|[2507.16182v1](http://arxiv.org/abs/2507.16182v1)|null|
+|**2025-07-21**|**Buckaroo: A Direct Manipulation Visual Data Wrangler**|Annabelle Warner et.al.|[2507.16073v1](http://arxiv.org/abs/2507.16073v1)|null|
 |**2025-07-21**|**Regularized Low-Rank Adaptation for Few-Shot Organ Segmentation**|Ghassen Baklouti et.al.|[2507.15793v1](http://arxiv.org/abs/2507.15793v1)|null|
 |**2025-07-21**|**Learning to Extract Rational Evidence via Reinforcement Learning for Retrieval-Augmented Generation**|Xinping Zhao et.al.|[2507.15586v1](http://arxiv.org/abs/2507.15586v1)|null|
 |**2025-07-21**|**Towards Holistic Surgical Scene Graph**|Jongmin Shin et.al.|[2507.15541v1](http://arxiv.org/abs/2507.15541v1)|null|
@@ -10336,7 +10356,7 @@
 |**2022-09-14**|**Knowledge Base Question Answering: A Semantic Parsing Perspective**|Yu Gu et.al.|[2209.04994v2](http://arxiv.org/abs/2209.04994v2)|null|
 |**2022-09-11**|**Inverse Image Frequency for Long-tailed Image Recognition**|Konstantinos Panagiotis Alexandridis et.al.|[2209.04861v1](http://arxiv.org/abs/2209.04861v1)|**[link](https://github.com/kostas1515/iif)**|
 
-<p align=right>(<a href=#Updated-on-20250723>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250724>back to top</a>)</p>
 
 ## adaptor
 
@@ -10535,12 +10555,22 @@
 |**2022-04-01**|**Universal Adaptor: Converting Mel-Spectrograms Between Different Configurations for Speech Synthesis**|Fan-Lin Wang et.al.|[2204.00170v1](http://arxiv.org/abs/2204.00170v1)|**[link](https://github.com/BogiHsu/Universal-Adaptor)**|
 |**2022-06-20**|**Style-Guided Domain Adaptation for Face Presentation Attack Detection**|Young-Eun Kim et.al.|[2203.14565v2](http://arxiv.org/abs/2203.14565v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250723>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250724>back to top</a>)</p>
 
 ## object detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**Task-Specific Zero-shot Quantization-Aware Training for Object Detection**|Changhao Li et.al.|[2507.16782v1](http://arxiv.org/abs/2507.16782v1)|null|
+|**2025-07-22**|**Screen2AX: Vision-Based Approach for Automatic macOS Accessibility Generation**|Viktor Muryn et.al.|[2507.16704v1](http://arxiv.org/abs/2507.16704v1)|null|
+|**2025-07-22**|**Benchmarking pig detection and tracking under diverse and challenging conditions**|Jonathan Henrich et.al.|[2507.16639v1](http://arxiv.org/abs/2507.16639v1)|null|
+|**2025-07-22**|**A2Mamba: Attention-augmented State Space Models for Visual Recognition**|Meng Lou et.al.|[2507.16624v1](http://arxiv.org/abs/2507.16624v1)|null|
+|**2025-07-22**|**PlantSAM: An Object Detection-Driven Segmentation Pipeline for Herbarium Specimens**|Youcef Sklab et.al.|[2507.16506v1](http://arxiv.org/abs/2507.16506v1)|null|
+|**2025-07-22**|**Towards Railway Domain Adaptation for LiDAR-based 3D Detection: Road-to-Rail and Sim-to-Real via SynDRA-BBox**|Xavier Diaz et.al.|[2507.16413v1](http://arxiv.org/abs/2507.16413v1)|null|
+|**2025-07-22**|**MAN++: Scaling Momentum Auxiliary Network for Supervised Local Learning in Vision Tasks**|Junhao Su et.al.|[2507.16279v1](http://arxiv.org/abs/2507.16279v1)|null|
+|**2025-07-22**|**Edge-case Synthesis for Fisheye Object Detection: A Data-centric Perspective**|Seunghyeon Kim et.al.|[2507.16254v1](http://arxiv.org/abs/2507.16254v1)|null|
+|**2025-07-22**|**LDRFusion: A LiDAR-Dominant multimodal refinement framework for 3D object detection**|Jijun Wang et.al.|[2507.16224v1](http://arxiv.org/abs/2507.16224v1)|null|
+|**2025-07-22**|**Design and Implementation of a Lightweight Object Detection System for Resource-Constrained Edge Environments**|Jiyue Jiang et.al.|[2507.16155v1](http://arxiv.org/abs/2507.16155v1)|null|
 |**2025-07-21**|**Experimenting active and sequential learning in a medieval music manuscript**|Sachin Sharma et.al.|[2507.15633v1](http://arxiv.org/abs/2507.15633v1)|null|
 |**2025-07-21**|**Few-Shot Object Detection via Spatial-Channel State Space Model**|Zhimeng Xin et.al.|[2507.15308v1](http://arxiv.org/abs/2507.15308v1)|null|
 |**2025-07-20**|**Event-based Graph Representation with Spatial and Motion Vectors for Asynchronous Object Detection**|Aayush Atul Verma et.al.|[2507.15150v1](http://arxiv.org/abs/2507.15150v1)|null|
@@ -14869,7 +14899,7 @@
 |**2022-09-13**|**ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers**|Achin Jain et.al.|[2209.05654v1](http://arxiv.org/abs/2209.05654v1)|null|
 |**2022-09-12**|**CenterFormer: Center-based Transformer for 3D Object Detection**|Zixiang Zhou et.al.|[2209.05588v1](http://arxiv.org/abs/2209.05588v1)|**[link](https://github.com/tusimple/centerformer)**|
 
-<p align=right>(<a href=#Updated-on-20250723>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250724>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/stoneyang/cv-arxiv-daily/graphs/contributors
